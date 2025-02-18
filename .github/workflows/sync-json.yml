@@ -25,7 +25,7 @@ jobs:
 
       - name: 🔄 Copy JSON to Public Repo
         run: |
-          git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_PUBLIC_REPO.git public-repo
+          git clone https://github.com/LAIALLM/Observatory-Public.git public-repo
           cp filtered_news.json public-repo/filtered_news.json
           cd public-repo
           git config --global user.email "github-actions@github.com"
