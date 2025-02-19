@@ -2168,5 +2168,19 @@
         "status": "processed",
         "score": 9,
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PaUlIdmRBa1pnRTkxY0FBdHROLXB3Z0I1V2g4V1ZPaTZJTnlPck9iaEtONThNekdKM3h0REtYbjBXQzlkOUNKblJ1bkQ5QmlZSmc?oc=5",
+        "date": "2025-02-19",
+        "status": "processed",
+        "score": 2,
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/60316-mta-sues-usdot-as-trump-administration-moves-to-end-nyc-congestion-pricing",
+        "date": "2025-02-19",
+        "status": "processed",
+        "score": 9,
+        "tweet": null
     }
 ]
