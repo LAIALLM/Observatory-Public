@@ -308,5 +308,21 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXpTdGViLXBhOTNjZHhITFNHZU4xQ3d4bklkcmZjaVczUUgzLXJET21WZmFVNktDUnpUOUZkTDE2MmhtckRlYWUyTEppZ0NZZm8zS2tKYmdqNTZzYy1ZckdpTHRBNko4Y0lBVTFVS0I0UkFfaHBFYzNQMWUxVmV6dXRYZ2R6cDdQbGRwRTdBeEZHTVp1bi1BWlczMG9Sa28?oc=5",
+        "date": "2025-02-20",
+        "title": "CCE proves to be a great show, even in the snow - On-Site Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXpTdGViLXBhOTNjZHhITFNHZU4xQ3d4bklkcmZjaVczUUgzLXJET21WZmFVNktDUnpUOUZkTDE2MmhtckRlYWUyTEppZ0NZZm8zS2tKYmdqNTZzYy1ZckdpTHRBNko4Y0lBVTFVS0I0UkFfaHBFYzNQMWUxVmV6dXRYZ2R6cDdQbGRwRTdBeEZHTVp1bi1BWlczMG9Sa28?oc=5\" target=\"_blank\">CCE proves to be a great show, even in the snow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">On-Site Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "date": "2025-02-20",
+        "type": "statistical",
+        "status": "posted",
+        "tweet": "\ud83d\ude84 Fascinating fact! The world is projected to have 43 megacities with over 10M residents by 2030, mainly from developing regions. Urban development is skyrocketing! Every minute, the equivalent of 30 football fields is urbanized. Witness the future unfold! \ud83c\udf06"
     }
 ]
