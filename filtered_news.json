@@ -140,9 +140,13 @@
         "tweet": null
     },
     {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0s3UHp0RjgyTFIwREZ2RnN1UUdJTmdJWGEwdzl3TzRzcUkxU0pmRkJPNTRLUmdJakNxZmRQb2RBTEp6UGQ1dVpZNHJTXzJxaGN0SWxVTWJidzJ1WERpc1VhSjY3N0stUW03RTdxbVZKRkFkanlnc2YtcjVhUDM5UHJmRlpuOWFRLXhCTTZTZTBQd3Z0Nk9qWWJ2T0VKYnd5ZGViNUlZTGxmMC1zXzNxdklndklJUlB6X2V6RmV3aw?oc=5",
         "date": "2025-02-20",
-        "type": "statistical",
-        "status": "posted",
-        "tweet": "\"\ud83c\udf0d Did you know? Tokyo \ud83c\uddef\ud83c\uddf5 remains the world's largest city with 37 million residents. \ud83c\udfd9\ufe0f Meanwhile, Singapore \ud83c\uddf8\ud83c\uddec leads with over 100% urbanization rate! \ud83d\udca1 Oslo \ud83c\uddf3\ud83c\uddf4 tops the rank in electric vehicle adoption. It's a race to develop our cities sustainably, let's cheer them on! \ud83c\udf31\""
+        "title": "UK-first trial uses mobile charging for zero-emission construction vehicles in London - Harrow Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0s3UHp0RjgyTFIwREZ2RnN1UUdJTmdJWGEwdzl3TzRzcUkxU0pmRkJPNTRLUmdJakNxZmRQb2RBTEp6UGQ1dVpZNHJTXzJxaGN0SWxVTWJidzJ1WERpc1VhSjY3N0stUW03RTdxbVZKRkFkanlnc2YtcjVhUDM5UHJmRlpuOWFRLXhCTTZTZTBQd3Z0Nk9qWWJ2T0VKYnd5ZGViNUlZTGxmMC1zXzNxdklndklJUlB6X2V6RmV3aw?oc=5\" target=\"_blank\">UK-first trial uses mobile charging for zero-emission construction vehicles in London</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Harrow Online</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
