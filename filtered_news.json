@@ -498,5 +498,11 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "date": "2025-02-21",
+        "type": "statistical",
+        "status": "posted",
+        "tweet": "\ud83d\udcca By 2050, 68% of the world's population will be living in urban areas. It's urgent for global governments to prioritize eco-friendly, technology-driven, sustainable urban infrastructure. Focus on green energy, wise resource management, and efficient public transportation."
     }
 ]
