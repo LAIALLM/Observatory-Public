@@ -1690,9 +1690,43 @@
         "tweet": null
     },
     {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeWpRWjByREV5TVRPRVF6NkVnSGNYVkwzY3VPMlprU3RSZVhBTDROaHZuc0JtRWtTc1hVdzZaQm4ydERaQllkOTc4b21ockl2OWNhZHlMeFVYY3c0bUN1VkFxUEFlczByZXZaRE9nb2FrM0QtbDBmMWJmOUNfR1BJVVNzS1c2VzNhMTBwRS1HMF9aNVlobEZtc2M5LXZvcTk1bUtCOTBGYVhmUDFHVF9abG1ZeVJJYVQya1NQYkRJd2UtM0E?oc=5",
         "date": "2025-02-21",
-        "type": "statistical",
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 Beijing vs \ud83c\uddee\ud83c\uddf3 Mumbai:\n\nDespite similar population growth,\nBeijing's subway system is 4x longer than Mumbai's.\n\nUrban planning and infrastructure investment is paramount to accommodate future growth!"
+        "title": "Construction Zone looks to inspire the next generation of construction and trade workers - WRTV Indianapolis",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeWpRWjByREV5TVRPRVF6NkVnSGNYVkwzY3VPMlprU3RSZVhBTDROaHZuc0JtRWtTc1hVdzZaQm4ydERaQllkOTc4b21ockl2OWNhZHlMeFVYY3c0bUN1VkFxUEFlczByZXZaRE9nb2FrM0QtbDBmMWJmOUNfR1BJVVNzS1c2VzNhMTBwRS1HMF9aNVlobEZtc2M5LXZvcTk1bUtCOTBGYVhmUDFHVF9abG1ZeVJJYVQya1NQYkRJd2UtM0E?oc=5\" target=\"_blank\">Construction Zone looks to inspire the next generation of construction and trade workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRTV Indianapolis</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXlBNHQwNFAzWXFNY1pueE5rYWtkTjVBcnhmVHNPT3dfTjlILXNVY1NsQTVSaG50V3dDZk1sSmFLaWdPWWFqS3paY2VBczVFaWhBSEtjZXV0Z0FRbnhxTXMtWHlTc1RrMVFyd1NhQkdWUGFyTHl1X045bGk5V3RrbFVkQkt3TFVkc1l4SkJqNA?oc=5",
+        "date": "2025-02-21",
+        "title": "Department of Defense halts PLAs on construction projects - Smart Union",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXlBNHQwNFAzWXFNY1pueE5rYWtkTjVBcnhmVHNPT3dfTjlILXNVY1NsQTVSaG50V3dDZk1sSmFLaWdPWWFqS3paY2VBczVFaWhBSEtjZXV0Z0FRbnhxTXMtWHlTc1RrMVFyd1NhQkdWUGFyTHl1X045bGk5V3RrbFVkQkt3TFVkc1l4SkJqNA?oc=5\" target=\"_blank\">Department of Defense halts PLAs on construction projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Union</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObDJfc3BSTmdQMjc0MEZTWVlESE52cE15UWI3OXJ2U3p1TU5pSXBVanRXRGI3ZFROc3F0X2ttaUw4UWZjWC1lS3dKcWF4Y2pKT1VhRkwyWXhicmhHc3ZoS3ZTN0NvQ0ZUdEdNN3ItUU5UOUlua0NoaWpPUUd0dE5BQmlIeTJjZTJUaDRqWmRqLWd0QWp4SXBUWXp1UEpCb2R2VFE?oc=5",
+        "date": "2025-02-21",
+        "title": "XPLR Infrastructure, LP SEC 10-K Report - TradingView",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxObDJfc3BSTmdQMjc0MEZTWVlESE52cE15UWI3OXJ2U3p1TU5pSXBVanRXRGI3ZFROc3F0X2ttaUw4UWZjWC1lS3dKcWF4Y2pKT1VhRkwyWXhicmhHc3ZoS3ZTN0NvQ0ZUdEdNN3ItUU5UOUlua0NoaWpPUUd0dE5BQmlIeTJjZTJUaDRqWmRqLWd0QWp4SXBUWXp1UEpCb2R2VFE?oc=5\" target=\"_blank\">XPLR Infrastructure, LP SEC 10-K Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWHN6XzdaeGl4a3dNaHdWQXJSSzh0Q0tvMmR5YWh6TDdybnZJTlRXamNhLWpGNzVHNkxNaVBXNFh3TklVRkJxN0twU19WYnVKajg2aGtTVVZZUHdtQTUyWjFsRlRIMllvcFd0OU9fWTBGTW9NdEExbU9xemdBVDM4WG5fT2trQTlRel9kZmNZZXd4NmdET0kwTG1kb2JHSHk3WUpXR2VLQ3dBY0ZqVktVal9FYmNkZkx2UmxleXVraHBpVWpvTTlsb3dHazY2R0RyWHB3b0xaa1poZThYNUVYMjNGRF9aY1JqTXFKcXZzT1I?oc=5",
+        "date": "2025-02-21",
+        "title": "Smart City Development Holdings Limited's (HKG:8268) 29% Dip Still Leaving Some Shareholders Feeling Restless Over Its P/SRatio - Simply Wall St",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWHN6XzdaeGl4a3dNaHdWQXJSSzh0Q0tvMmR5YWh6TDdybnZJTlRXamNhLWpGNzVHNkxNaVBXNFh3TklVRkJxN0twU19WYnVKajg2aGtTVVZZUHdtQTUyWjFsRlRIMllvcFd0OU9fWTBGTW9NdEExbU9xemdBVDM4WG5fT2trQTlRel9kZmNZZXd4NmdET0kwTG1kb2JHSHk3WUpXR2VLQ3dBY0ZqVktVal9FYmNkZkx2UmxleXVraHBpVWpvTTlsb3dHazY2R0RyWHB3b0xaa1poZThYNUVYMjNGRF9aY1JqTXFKcXZzT1I?oc=5\" target=\"_blank\">Smart City Development Holdings Limited's (HKG:8268) 29% Dip Still Leaving Some Shareholders Feeling Restless Over Its P/SRatio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simply Wall St</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
