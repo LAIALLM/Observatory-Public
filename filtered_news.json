@@ -1628,5 +1628,31 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdUtzdDFhMV9TTXpjc093Q1Jtcy1sN3E1WFJjTDQtZGJlUWpqOFRwRDlBY2lCRWxBcklURFY3d1JkeVg3bzFtNnhRTlFMYXJCcVhwNE10NXdsUG5ta0szSkdBVzZicTk4cEtaN0M5QVVHdk9fZjlseUMzaHM0cTZUemo0aGRJYk1tWFhpVDVEbWFDNDBmeUUxWjh2Wm1Fb0Q3QThtbzdtOFN1UFZ3YkhGMmtxa0Zyc0xCRl9IVE9XT01nc3U5ejNuUWdkWkNja1hRZGxfbg?oc=5",
+        "date": "2025-02-21",
+        "title": "Federal government reportedly plans to shut down its EV charging infrastructure - Engadget",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdUtzdDFhMV9TTXpjc093Q1Jtcy1sN3E1WFJjTDQtZGJlUWpqOFRwRDlBY2lCRWxBcklURFY3d1JkeVg3bzFtNnhRTlFMYXJCcVhwNE10NXdsUG5ta0szSkdBVzZicTk4cEtaN0M5QVVHdk9fZjlseUMzaHM0cTZUemo0aGRJYk1tWFhpVDVEbWFDNDBmeUUxWjh2Wm1Fb0Q3QThtbzdtOFN1UFZ3YkhGMmtxa0Zyc0xCRl9IVE9XT01nc3U5ejNuUWdkWkNja1hRZGxfbg?oc=5\" target=\"_blank\">Federal government reportedly plans to shut down its EV charging infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engadget</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/60323-congressional-lawmakers-begin-to-talk-permitting-reform-again",
+        "date": "2025-02-21",
+        "title": "Congressional Lawmakers Begin to Talk Permitting Reform, Again",
+        "summary": "<p>Industry and labor union leaders join lawmakers in calling for permitting reforms at Public Works committee hearing.&nbsp;</p>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "date": "2025-02-21",
+        "type": "statistical",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York City's metro system serves 4.3 million passengers per day, dwarfing \ud83c\udde8\ud83c\udde6 Toronto's system which serves just 1.69 million. Makes you question: how can urban transit systems more efficiently support a city's growth?"
     }
 ]
