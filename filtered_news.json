@@ -1688,5 +1688,11 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "date": "2025-02-21",
+        "type": "statistical",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 Beijing vs \ud83c\uddee\ud83c\uddf3 Mumbai:\n\nDespite similar population growth,\nBeijing's subway system is 4x longer than Mumbai's.\n\nUrban planning and infrastructure investment is paramount to accommodate future growth!"
     }
 ]
