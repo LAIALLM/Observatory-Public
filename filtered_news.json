@@ -1850,9 +1850,23 @@
         "tweet": null
     },
     {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXFudTNrRVZtbnp5YjJXY1VEa2R6REVtUHdOd3VDVF9fdnN6M2Y1ZlpQNnF2MFNHZ1habEtUS1pPV1NOTXp2UHhuTF8yVHBfcS1LdUxPeGVKdFEwYmR1VFB4SUNyTndPM1hXZzVXVnpidkVzMjRUVE5wbk1jeWQyek5MalpqR0JrRllsWTg4U3g3c2NJaUk2R1FWUWpRb00?oc=5",
         "date": "2025-02-22",
-        "type": "statistical",
-        "status": "posted",
-        "tweet": "\ud83c\udf0d By 2050, the world's urban population is expected to nearly double, making urban planning and sustainable infrastructure crucial pillars for future development. \ud83c\udfd9\ufe0f\ud83d\ude86"
+        "title": "Chamber of Construction Industry pays courtesy Call on Roads Minister - Myjoyonline",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXFudTNrRVZtbnp5YjJXY1VEa2R6REVtUHdOd3VDVF9fdnN6M2Y1ZlpQNnF2MFNHZ1habEtUS1pPV1NOTXp2UHhuTF8yVHBfcS1LdUxPeGVKdFEwYmR1VFB4SUNyTndPM1hXZzVXVnpidkVzMjRUVE5wbk1jeWQyek5MalpqR0JrRllsWTg4U3g3c2NJaUk2R1FWUWpRb00?oc=5\" target=\"_blank\">Chamber of Construction Industry pays courtesy Call on Roads Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Myjoyonline</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb045dlpVN0RaODlnZDlPZUQ4NjlXZklySFU2M3YwMGpOaHFUWTFuOFRtVG5GVDV5SXZjbGZPcVpVOG9RSzNqWUM3N0pHVm1HcGlodWpaNG1ONFNfcFNzcnNBcGlraEotc19NNE1zcXlLSFVGaXI0emlRUmtRUHZpTGNRd3J5OE90MlRrX0NWY19iMWFFVjhFT21EN2VIUE1TWEJ3SE5TREoybDgtRXJmN042MzVWb3FRMzdiS3ZwU0FuNHRtaTlFUg?oc=5",
+        "date": "2025-02-22",
+        "title": "Adani Ports Unveils \u20b930,000 Crore Investment Plan To Transform Kerala\u2019s Infrastructure - Oneindia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb045dlpVN0RaODlnZDlPZUQ4NjlXZklySFU2M3YwMGpOaHFUWTFuOFRtVG5GVDV5SXZjbGZPcVpVOG9RSzNqWUM3N0pHVm1HcGlodWpaNG1ONFNfcFNzcnNBcGlraEotc19NNE1zcXlLSFVGaXI0emlRUmtRUHZpTGNRd3J5OE90MlRrX0NWY19iMWFFVjhFT21EN2VIUE1TWEJ3SE5TREoybDgtRXJmN042MzVWb3FRMzdiS3ZwU0FuNHRtaTlFUg?oc=5\" target=\"_blank\">Adani Ports Unveils \u20b930,000 Crore Investment Plan To Transform Kerala\u2019s Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oneindia</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
