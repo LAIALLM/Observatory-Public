@@ -150,10 +150,33 @@
         "tweet": null
     },
     {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYmt4aFJQY1ZHeUhxNXE3VXU2T1ZLenZTVm04NnpKMFMxNFBnSVI2eTRlRHFrRlcyalE3WVkyWGhsSzFWQzAxLVlUR0l2bnlHT3REOV9YandtdXp3TFpGYVNMVFRhMHFhMlRQMk1tVDhWendQMkhyczJRSXhvTlEzUUhMbEM1bjZ5cUJOR2lTajE1ZDd3ZmFGamlkTXNhaExGbldSQ19vWklZWVkwNER3a3BEaktFMmQzOVY4?oc=5",
         "date": "2025-02-23",
-        "status": "posted",
-        "tweet": "\ud83c\udf0d Global infrastructure spending is set to reach a massive $94 trillion by 2040. Indeed, time to invest is now as infrastructure companies brace for an upsurge.\ud83c\udfd7\ufe0f\ud83d\udcb0",
-        "type": "statistical",
-        "category": "infrastructure companies"
+        "title": "Delhi CM Rekha Gupta meets PM Modi; Ministers inspect road repairs and infrastructure projects - DD News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYmt4aFJQY1ZHeUhxNXE3VXU2T1ZLenZTVm04NnpKMFMxNFBnSVI2eTRlRHFrRlcyalE3WVkyWGhsSzFWQzAxLVlUR0l2bnlHT3REOV9YandtdXp3TFpGYVNMVFRhMHFhMlRQMk1tVDhWendQMkhyczJRSXhvTlEzUUhMbEM1bjZ5cUJOR2lTajE1ZDd3ZmFGamlkTXNhaExGbldSQ19vWklZWVkwNER3a3BEaktFMmQzOVY4?oc=5\" target=\"_blank\">Delhi CM Rekha Gupta meets PM Modi; Ministers inspect road repairs and infrastructure projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DD News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GZC1EUzBQeFByVGJmTHBwakZQbjdoOTdZQ0hYaVJ0U1lGV3RDTnB2SnEyY3hrbWtQSjFmVWxzbEItTWJEVERmZzVzTU1HMmZHUTdrYzB6WjI5OXhTQ21XQW9JVjlMMXViS092T2tyRdIBdEFVX3lxTFAwUXJLT043TjJiLURLRFNIell1dXdHbkFNWHN1SzJFckpJYzk5WU05a3N1aTVEeGgwbzBUWERXOWNWcVFXUERrZ2JFY0pIMTY0Y0dreG5SME8zekloRXhSWDViN2dock1hMGhSUWJDcl9yN1JV?oc=5",
+        "date": "2025-02-23",
+        "title": "As China embraces big tech again, Alibaba plans vast spend to push for artificial general intelligence - The Register",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9GZC1EUzBQeFByVGJmTHBwakZQbjdoOTdZQ0hYaVJ0U1lGV3RDTnB2SnEyY3hrbWtQSjFmVWxzbEItTWJEVERmZzVzTU1HMmZHUTdrYzB6WjI5OXhTQ21XQW9JVjlMMXViS092T2tyRdIBdEFVX3lxTFAwUXJLT043TjJiLURLRFNIell1dXdHbkFNWHN1SzJFckpJYzk5WU05a3N1aTVEeGgwbzBUWERXOWNWcVFXUERrZ2JFY0pIMTY0Y0dreG5SME8zekloRXhSWDViN2dock1hMGhSUWJDcl9yN1JV?oc=5\" target=\"_blank\">As China embraces big tech again, Alibaba plans vast spend to push for artificial general intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Register</font>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84V0swcGFiODB3bmFxSmFSUTFPQTdXN2VqNEdENGhDd0JLMzJrVTdhZ0ZEMHJsSGx6eDdFS2NKRHZyODlCQVhuTFFB0gFQQVVfeXFMTllvdm84RDNzdG84dFg3eEFXczMzWU84WGZJS2VOV0pvN1hrNUJueXh3WmxhTnJGSk45MWNrODFTb29mUjR0X0RMTXlXa0Fmd0o?oc=5",
+        "date": "2025-02-23",
+        "title": "Smart City is here \u2013 but not what we expected - Gadget",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE84V0swcGFiODB3bmFxSmFSUTFPQTdXN2VqNEdENGhDd0JLMzJrVTdhZ0ZEMHJsSGx6eDdFS2NKRHZyODlCQVhuTFFB0gFQQVVfeXFMTllvdm84RDNzdG84dFg3eEFXczMzWU84WGZJS2VOV0pvN1hrNUJueXh3WmxhTnJGSk45MWNrODFTb29mUjR0X0RMTXlXa0Fmd0o?oc=5\" target=\"_blank\">Smart City is here \u2013 but not what we expected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gadget</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
