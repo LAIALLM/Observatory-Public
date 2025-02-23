@@ -148,5 +148,11 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "date": "2025-02-23",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d By 2050, 68% of the world's population will live in urban areas, increasing demands on infrastructure and urban planning. Staggering evolution for cities worldwide is on the horizon! \ud83c\udf06\ud83c\udfd9\ud83d\ude9d",
+        "type": "statistical"
     }
 ]
