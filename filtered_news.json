@@ -148,5 +148,12 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "date": "2025-02-23",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global infrastructure spending is set to reach a massive $94 trillion by 2040. Indeed, time to invest is now as infrastructure companies brace for an upsurge.\ud83c\udfd7\ufe0f\ud83d\udcb0",
+        "type": "statistical",
+        "category": "infrastructure companies"
     }
 ]
