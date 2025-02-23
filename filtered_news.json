@@ -30,9 +30,13 @@
         "tweet": null
     },
     {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnlEYldlMjVzbm5ES09IWkctNzZBdFNxbHZPZmp6RHlNSGN3VXpGTDJhelNKVzMtU3ZqZDdWei16U1cyaG11TmVlNWRUc0I3bTg0MVY3Nk1YS1J0NkpUSkU4Smp5T2tTZE9fWEx2UGVyc2R6ZEMyOUs4a1RUNGxCbHZzbTBRc1BfeWNDYlI1NVlfOEFXTW9UR2lCVzU4b1HSAa8BQVVfeXFMTno5d25PTUkwMUZKLVdCd1FWMTE0dFlTbXc4ekstcGVTeTN3VWtYRGtmYlBuMHczbldKM0lHSmpYT21QMC1hRWRWTmJEVWstUlg2TGRyMml6QWZqTXFodGx4VzVHOXhzc0lzNG0yRzJmSXlzVFJaQnRPUGpmUmFyRnVfZGlwOExENzktNmJSSkdBN0lMWlhhRHZUTUx6QVZZQ0hmSWZqUUVNN0w3OVR3RQ?oc=5",
         "date": "2025-02-23",
-        "type": "statistical",
-        "status": "posted",
-        "tweet": "\ud83c\uddec\ud83c\udde7London's Underground transports 5 million commuters daily, more than double \ud83c\uddfa\ud83c\uddf8New York's Subway at 2.3 million. Urban planning for public transit shows its critical role in city life."
+        "title": "Govt urged to announce construction industry revival package - The Nation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObnlEYldlMjVzbm5ES09IWkctNzZBdFNxbHZPZmp6RHlNSGN3VXpGTDJhelNKVzMtU3ZqZDdWei16U1cyaG11TmVlNWRUc0I3bTg0MVY3Nk1YS1J0NkpUSkU4Smp5T2tTZE9fWEx2UGVyc2R6ZEMyOUs4a1RUNGxCbHZzbTBRc1BfeWNDYlI1NVlfOEFXTW9UR2lCVzU4b1HSAa8BQVVfeXFMTno5d25PTUkwMUZKLVdCd1FWMTE0dFlTbXc4ekstcGVTeTN3VWtYRGtmYlBuMHczbldKM0lHSmpYT21QMC1hRWRWTmJEVWstUlg2TGRyMml6QWZqTXFodGx4VzVHOXhzc0lzNG0yRzJmSXlzVFJaQnRPUGpmUmFyRnVfZGlwOExENzktNmJSSkdBN0lMWlhhRHZUTUx6QVZZQ0hmSWZqUUVNN0w3OVR3RQ?oc=5\" target=\"_blank\">Govt urged to announce construction industry revival package</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Nation</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
