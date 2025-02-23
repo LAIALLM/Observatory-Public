@@ -128,5 +128,11 @@
         "score": 10,
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 Assam cabinet greenlights Rs 1.22 lakh crore investment for new infrastructure projects."
+    },
+    {
+        "date": "2025-02-23",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d By 2050, 68% of world population will be living in urban areas. \n\ud83c\udde8\ud83c\uddf3 China and \ud83c\uddee\ud83c\uddf3 India will contribute over 35%.\nPack your bags for a more urban future!",
+        "type": "statistical"
     }
 ]
