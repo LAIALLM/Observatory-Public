@@ -28,5 +28,11 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "date": "2025-02-23",
+        "type": "statistical",
+        "status": "posted",
+        "tweet": "\ud83c\uddec\ud83c\udde7London's Underground transports 5 million commuters daily, more than double \ud83c\uddfa\ud83c\uddf8New York's Subway at 2.3 million. Urban planning for public transit shows its critical role in city life."
     }
 ]
