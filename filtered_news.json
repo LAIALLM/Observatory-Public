@@ -1088,5 +1088,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-02-24",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.'s $AAPL global data centers now power 1.4 million servers.\n\nAround-the-clock operation requires 493,000MWh of renewable energy annually.\n\nThat's enough to power over 44,000 average US homes for a year.",
+        "type": "infrastructure"
     }
 ]
