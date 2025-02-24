@@ -218,5 +218,12 @@
         "score": 9,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "date": "2025-02-24",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India's population is projected to surpass \n\ud83c\udde8\ud83c\uddf3 China's by around 2027, creating the world's most populous nation. Growth trajectory data from the United Nations predicts vast changes.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
