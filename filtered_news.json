@@ -546,5 +546,95 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejF3QUhfUXZxblNIOGJCWDRRT1lrZkh4QjFsU2JVUnRNU3Rzay1yRUJlSG16N2FkbkI4REt2THFqN1ljVF9HLWM5VXBndE16ai1PWTc1ZmRsd1pPQy1pU0JCODRoQzNvVms4WDg1eXBuSWQ5Q0JyY1IxcjU0ZktMbVhVLVpWVTB0VGRsNFdxNEVwQTZ2WFBTVlFMUXJTWDdfWS05WDk1R3k5Zw?oc=5",
+        "date": "2025-02-24",
+        "title": "New AI tool aims to transform San Antonio\u2019s construction industry - The Business Journals",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejF3QUhfUXZxblNIOGJCWDRRT1lrZkh4QjFsU2JVUnRNU3Rzay1yRUJlSG16N2FkbkI4REt2THFqN1ljVF9HLWM5VXBndE16ai1PWTc1ZmRsd1pPQy1pU0JCODRoQzNvVms4WDg1eXBuSWQ5Q0JyY1IxcjU0ZktMbVhVLVpWVTB0VGRsNFdxNEVwQTZ2WFBTVlFMUXJTWDdfWS05WDk1R3k5Zw?oc=5\" target=\"_blank\">New AI tool aims to transform San Antonio\u2019s construction industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORmZ0VU04RWh4VUlXWnRTRlkwWmtBUUJmWW43M2Y5Rm5mcmYxOG44X1VMWDNGSmJxeVVkODk4Z0xDcU40TTJ1Z3k5TDFqaDF3YkhOaFJvemFabXJXcGZ6ZmpxektZbldCVVprV01qMXVqVktFUnpMdlBRSmMxTm9CczBHZVcyVlBaaUowakNQVzkxWTdIOGp0Ml9wQXo1MUh1N19VNlJxSHRwTm11Q2hmYlg4SlQ?oc=5",
+        "date": "2025-02-24",
+        "title": "CICV practice notes aim to improve commercial management of construction projects - Project Scotland",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxORmZ0VU04RWh4VUlXWnRTRlkwWmtBUUJmWW43M2Y5Rm5mcmYxOG44X1VMWDNGSmJxeVVkODk4Z0xDcU40TTJ1Z3k5TDFqaDF3YkhOaFJvemFabXJXcGZ6ZmpxektZbldCVVprV01qMXVqVktFUnpMdlBRSmMxTm9CczBHZVcyVlBaaUowakNQVzkxWTdIOGp0Ml9wQXo1MUh1N19VNlJxSHRwTm11Q2hmYlg4SlQ?oc=5\" target=\"_blank\">CICV practice notes aim to improve commercial management of construction projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Project Scotland</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUnZULUdSTGd1TThTaFUxRWNjWmE5QndHbTdkTUZtRE9KTV9XLUtiZWdmYXpFMTlkaUo0Q1FkUVpBX1c3U05KMzBYczZNWktOaXU2VFpvVWJfbG55UXkxZDBHb212cFBOeWFrMmFmRy1DMjFCRnBBdFFUc0JOS2JnU1I5Y2M3WWo1X2hWUXVnRThjUQ?oc=5",
+        "date": "2025-02-24",
+        "title": "Advancing the use of biochar in buildings - Scottish Construction Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUnZULUdSTGd1TThTaFUxRWNjWmE5QndHbTdkTUZtRE9KTV9XLUtiZWdmYXpFMTlkaUo0Q1FkUVpBX1c3U05KMzBYczZNWktOaXU2VFpvVWJfbG55UXkxZDBHb212cFBOeWFrMmFmRy1DMjFCRnBBdFFUc0JOS2JnU1I5Y2M3WWo1X2hWUXVnRThjUQ?oc=5\" target=\"_blank\">Advancing the use of biochar in buildings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scottish Construction Now</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWDM4OG1iTVBHZW1DVFNIdk40Q3J0a1VBb2hNTW9VSWhXbkNUdE1jOERmMndfaDhOa25hNDFyNF9EekR3ekdsLWZJSXRNU05FdnFJNDZrbnJ4Sk9KZVY3Z3kwb0c0RGFNS0N3WkJMbHBLWHVzMjNTSXhmQ3pBN3liMTdRZXp3QkJXNG9fWVFhWVF2bXZ3ZXpWMHdyX2c3RHFYM0NyVEJyYUwtMmFMZWFSVXF5QkRWUDl3dFVLMEt30gHDAUFVX3lxTE1sMjZ5VFRTQ3dxdEU5Z0RQckRJR05EVUFGanNyNE1SOGtZdms3aHVMaEdpVWNFU0pkX0p5eXpHbnAzOVBJbXAxZjQtWElRWldzdXdNWmthSVA1dzd2c09zeVVRbklnVW9TblB2ZVVQeGdHZ1c1RElVUmt2TjVJamY0V0FzeU1UZ2Q5R21xc1JSUlkwZzV6b1BNNGd2Zkk2M1lqTExOaGVRVF9YcEItUzBXU3BpMzR6a1hTczZUVkNxaXNROA?oc=5",
+        "date": "2025-02-24",
+        "title": "'If Jakarta Can, Why Can\u2019t Bengaluru?': Viral Tweet Questions City\u2019s Infrastructure - News18",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWDM4OG1iTVBHZW1DVFNIdk40Q3J0a1VBb2hNTW9VSWhXbkNUdE1jOERmMndfaDhOa25hNDFyNF9EekR3ekdsLWZJSXRNU05FdnFJNDZrbnJ4Sk9KZVY3Z3kwb0c0RGFNS0N3WkJMbHBLWHVzMjNTSXhmQ3pBN3liMTdRZXp3QkJXNG9fWVFhWVF2bXZ3ZXpWMHdyX2c3RHFYM0NyVEJyYUwtMmFMZWFSVXF5QkRWUDl3dFVLMEt30gHDAUFVX3lxTE1sMjZ5VFRTQ3dxdEU5Z0RQckRJR05EVUFGanNyNE1SOGtZdms3aHVMaEdpVWNFU0pkX0p5eXpHbnAzOVBJbXAxZjQtWElRWldzdXdNWmthSVA1dzd2c09zeVVRbklnVW9TblB2ZVVQeGdHZ1c1RElVUmt2TjVJamY0V0FzeU1UZ2Q5R21xc1JSUlkwZzV6b1BNNGd2Zkk2M1lqTExOaGVRVF9YcEItUzBXU3BpMzR6a1hTczZUVkNxaXNROA?oc=5\" target=\"_blank\">'If Jakarta Can, Why Can\u2019t Bengaluru?': Viral Tweet Questions City\u2019s Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News18</font>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYVdjeGlfeEFaODl6d3FjaHhBNEpiYUJkM3NrY095T1cwejBwdnZucnVyYm5YdndzdFZuTDFlQS1nUFVxWGlXbTNPRlpfZVpCRlVBZFJyOHdrUEVMaHNsMjFuNEJhTFdwVUg5aHVsbHlPTGZ2c0tvdmNpcWFSeWFXQ2NQTkM3d3o5eGRWSFpzWWRfMnZqNktlZThSazZhVWVPTGVPcU5uQjdtdl9fN1gwLU9CYzQzYnhnS2paXzlhZ3UzWFhKR0Y5VVQtdw?oc=5",
+        "date": "2025-02-24",
+        "title": "Assam CM Reviews Final Preparations For Investment & Infrastructure Summit 2.0 In Khanapara - NorthEast Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOYVdjeGlfeEFaODl6d3FjaHhBNEpiYUJkM3NrY095T1cwejBwdnZucnVyYm5YdndzdFZuTDFlQS1nUFVxWGlXbTNPRlpfZVpCRlVBZFJyOHdrUEVMaHNsMjFuNEJhTFdwVUg5aHVsbHlPTGZ2c0tvdmNpcWFSeWFXQ2NQTkM3d3o5eGRWSFpzWWRfMnZqNktlZThSazZhVWVPTGVPcU5uQjdtdl9fN1gwLU9CYzQzYnhnS2paXzlhZ3UzWFhKR0Y5VVQtdw?oc=5\" target=\"_blank\">Assam CM Reviews Final Preparations For Investment & Infrastructure Summit 2.0 In Khanapara</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NorthEast Today</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUG1VajBsMVpnellZd29Gb1gwSFVkbUdtVzEtSzdYemhyWk10UktXb3FGZ1J0Sjl6YkNLTVlFRFl2YklDVE1uQWRlaW05VjBfcTB5UFhacU9XWEJzdW9GMVFqZjZJc2hLazF3emFBMFNoUkZadVpTOEJhOUxvcFJFOHp5enpxNlVOZmk0ZjYzUzMtbVRXYjM0TjBpY0VXUXZBVUJlbHVsYnV0UXdrb2xFTVVBbGFib1JTclVHbXNUMXNOUGRkRkRQY2pGMlNZY0RhVWtGQURZRUk3Tk5hQnZWV1NBdGhWTGVPMlZkb0ZoT0tyUnE5VVdn0gH8AUFVX3lxTE1yTG5iSXg4WURsN2xoUjh6dXhVNW9ibWxNSi1vM21mVW1kWVYydlYxWEtfdWMxWXI1enBtVU9ZQWE2VW5aSC1EMk14Qm5sU3QzdHpCQkZGelpzWU44b0xwZzFlUEhZTUptdUh4ek1mMkk1b25XcDN2OWFwOEpiUlJVSC1NSlF5MXE0TmRtVnlfdmpzbHQtZ2d0MzU4ZFhzeVpySFdZVUlGdXBZVkVGZm1hUUtZNE1jTlA5UmdSbFpuRXVIRG9VZWZtdWN1TlZmOHBuNHAtMVdEcmZxUU5zUy0zMGlzakJUb2ZGRExESHVPLXJsMUlFemx6MWVzUw?oc=5",
+        "date": "2025-02-24",
+        "title": "India on track of becoming third-largest economy worldwide by 2029: MoS Harsh Malhotra - ETInfra.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUG1VajBsMVpnellZd29Gb1gwSFVkbUdtVzEtSzdYemhyWk10UktXb3FGZ1J0Sjl6YkNLTVlFRFl2YklDVE1uQWRlaW05VjBfcTB5UFhacU9XWEJzdW9GMVFqZjZJc2hLazF3emFBMFNoUkZadVpTOEJhOUxvcFJFOHp5enpxNlVOZmk0ZjYzUzMtbVRXYjM0TjBpY0VXUXZBVUJlbHVsYnV0UXdrb2xFTVVBbGFib1JTclVHbXNUMXNOUGRkRkRQY2pGMlNZY0RhVWtGQURZRUk3Tk5hQnZWV1NBdGhWTGVPMlZkb0ZoT0tyUnE5VVdn0gH8AUFVX3lxTE1yTG5iSXg4WURsN2xoUjh6dXhVNW9ibWxNSi1vM21mVW1kWVYydlYxWEtfdWMxWXI1enBtVU9ZQWE2VW5aSC1EMk14Qm5sU3QzdHpCQkZGelpzWU44b0xwZzFlUEhZTUptdUh4ek1mMkk1b25XcDN2OWFwOEpiUlJVSC1NSlF5MXE0TmRtVnlfdmpzbHQtZ2d0MzU4ZFhzeVpySFdZVUlGdXBZVkVGZm1hUUtZNE1jTlA5UmdSbFpuRXVIRG9VZWZtdWN1TlZmOHBuNHAtMVdEcmZxUU5zUy0zMGlzakJUb2ZGRExESHVPLXJsMUlFemx6MWVzUw?oc=5\" target=\"_blank\">India on track of becoming third-largest economy worldwide by 2029: MoS Harsh Malhotra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETInfra.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb05WUEg5QlhzT1QxMWRIZllmX0MwNlhVeEpmOUQwRWxEaGpudnJoekJkSXk1Q3RXQjJGVUdWZEdCaTBIcE50ekgyYlo2clNscXI0TTB4RW5TMTR2Q3drc2w5cWppM0hxRXZtVkRIVXVObG1VX29CazNOZTlzc29Oc1ZJall0RHgyaG96bHJIVlU1RThkeF9hbURQTGFQaTRlR2NCbF9lSG1YNkJZRmQ4YXNwU0VQRl9qdFNB?oc=5",
+        "date": "2025-02-24",
+        "title": "Can Mawson's Digital Infrastructure Strategy Transform the AI Computing Landscape? - StockTitan",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb05WUEg5QlhzT1QxMWRIZllmX0MwNlhVeEpmOUQwRWxEaGpudnJoekJkSXk1Q3RXQjJGVUdWZEdCaTBIcE50ekgyYlo2clNscXI0TTB4RW5TMTR2Q3drc2w5cWppM0hxRXZtVkRIVXVObG1VX29CazNOZTlzc29Oc1ZJall0RHgyaG96bHJIVlU1RThkeF9hbURQTGFQaTRlR2NCbF9lSG1YNkJZRmQ4YXNwU0VQRl9qdFNB?oc=5\" target=\"_blank\">Can Mawson's Digital Infrastructure Strategy Transform the AI Computing Landscape?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StockTitan</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQS29NcG5kc0dCYjI5eXJ4VTVtTndHQWR2UUY4M3JvWE11azJySWwyTzkzRlYyUlpZeHlNX3NmWVJVZzRidlJrRXBCVmMwWGtMeTZUamFlSzNoeFJVQklZOGF4UnBweVNrQ2lBWlhMNG9XT2Q0X2NYdkZtekJCMzFOVk1sY0VvY0dKa3I5WnVucUNxQ0k0RnFkZDJ4R2RNVVN5b3lfLU1QNHBvWTdtMThFSHlTWU9HdGZxelVTOEhRdkFMZ3FUamVOdDJVdkN1UXBrMU56LWY0Q3IzTXpVamhSQ3g4NThfLVlXUG9UQzdxbjZXcnNCUzhTNW1mVmFja1E2Mk9teERn?oc=5",
+        "date": "2025-02-24",
+        "title": "A Wake-Up Call for America's Aging Infrastructure and Supply Chain Resilience - Supply and Demand Chain Executive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQS29NcG5kc0dCYjI5eXJ4VTVtTndHQWR2UUY4M3JvWE11azJySWwyTzkzRlYyUlpZeHlNX3NmWVJVZzRidlJrRXBCVmMwWGtMeTZUamFlSzNoeFJVQklZOGF4UnBweVNrQ2lBWlhMNG9XT2Q0X2NYdkZtekJCMzFOVk1sY0VvY0dKa3I5WnVucUNxQ0k0RnFkZDJ4R2RNVVN5b3lfLU1QNHBvWTdtMThFSHlTWU9HdGZxelVTOEhRdkFMZ3FUamVOdDJVdkN1UXBrMU56LWY0Q3IzTXpVamhSQ3g4NThfLVlXUG9UQzdxbjZXcnNCUzhTNW1mVmFja1E2Mk9teERn?oc=5\" target=\"_blank\">A Wake-Up Call for America's Aging Infrastructure and Supply Chain Resilience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Supply and Demand Chain Executive</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNFVENDFHZlRjNWw0RVNHNjc5ZlNIRFBXbFpWbnF0VnhrTFk3UWRhZU1WSUIwcEhTX1A5bXpSdDRqV254UjdwSDNxeE5MbkNTZFp0LWhRTlBVWEtBNUNtRXZqWndmQWY1NVliWnh3akdTTHVzTnBWZUdaMjZhb0M4UDBWUTdtUnR5SDdGTzRsTkRBdlBjUGdtTldHX2k4Zw?oc=5",
+        "date": "2025-02-24",
+        "title": "Power sector infrastructure and green hydrogen projects in Namibia - African Energy",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPNFVENDFHZlRjNWw0RVNHNjc5ZlNIRFBXbFpWbnF0VnhrTFk3UWRhZU1WSUIwcEhTX1A5bXpSdDRqV254UjdwSDNxeE5MbkNTZFp0LWhRTlBVWEtBNUNtRXZqWndmQWY1NVliWnh3akdTTHVzTnBWZUdaMjZhb0M4UDBWUTdtUnR5SDdGTzRsTkRBdlBjUGdtTldHX2k4Zw?oc=5\" target=\"_blank\">Power sector infrastructure and green hydrogen projects in Namibia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">African Energy</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
     }
 ]
