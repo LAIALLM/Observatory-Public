@@ -220,10 +220,53 @@
         "tweet": null
     },
     {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOFd0cHNiLXhBeERQZWRsUk5jUEpEaExVaEQ2aVFmdVVmUnpMeHRSelFYeUs2WEhQZkxJZFpyLTktV0ROV2VDT3AtTFdoMnBGMHVBeS1RZ3dHSHVCZEhjdkFNdF9nbnBqNE5oVjJUN2kxd2xzcVFyV3ZVd1VGLVhic1VmYng?oc=5",
         "date": "2025-02-24",
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 India's population is projected to surpass \n\ud83c\udde8\ud83c\uddf3 China's by around 2027, creating the world's most populous nation. Growth trajectory data from the United Nations predicts vast changes.",
-        "type": "statistical",
-        "category": "countries"
+        "title": "Darlington firm trebles in size after securing \u00a3500,000 investment - Yahoo News UK",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPOFd0cHNiLXhBeERQZWRsUk5jUEpEaExVaEQ2aVFmdVVmUnpMeHRSelFYeUs2WEhQZkxJZFpyLTktV0ROV2VDT3AtTFdoMnBGMHVBeS1RZ3dHSHVCZEhjdkFNdF9nbnBqNE5oVjJUN2kxd2xzcVFyV3ZVd1VGLVhic1VmYng?oc=5\" target=\"_blank\">Darlington firm trebles in size after securing \u00a3500,000 investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDY4SXlsODhNMWVKb0J0VjhoQjBoanNQZDFRRDlCN2JfWGVSZ2lkTVV3Y19tTTNOWlNOWXZRNTJJSTdRczdqT0pLcGxXTGR4SVprY1BUenV1ZlJDMFBnTzRZY21ZNXpjd1RpNm1aMlVTZ0RWalYycFl4d182LWxrdkl5QkNFaGtwTjhKbEhkMFJiS3RlV2xrbUlpdTZvWXpLb25YZ2tKUjEwTVVfRjJKZEpDYXNoQVdHaGhSZ3FyZmg?oc=5",
+        "date": "2025-02-24",
+        "title": "MNRE Strengthens Cybersecurity With Dedicated Team To Safeguard Digital Infrastructure - SolarQuarter",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDY4SXlsODhNMWVKb0J0VjhoQjBoanNQZDFRRDlCN2JfWGVSZ2lkTVV3Y19tTTNOWlNOWXZRNTJJSTdRczdqT0pLcGxXTGR4SVprY1BUenV1ZlJDMFBnTzRZY21ZNXpjd1RpNm1aMlVTZ0RWalYycFl4d182LWxrdkl5QkNFaGtwTjhKbEhkMFJiS3RlV2xrbUlpdTZvWXpLb25YZ2tKUjEwTVVfRjJKZEpDYXNoQVdHaGhSZ3FyZmg?oc=5\" target=\"_blank\">MNRE Strengthens Cybersecurity With Dedicated Team To Safeguard Digital Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SolarQuarter</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGVjTVNGNlZjOEZTVnB2MVBOUzJYaWt2VTgxcWtvV0ktOWE1bGVCNExEaHNoNEkxdzZ5WEdJM05BZnpXUTBaYmRLU3h0MXpaZTNsVV9pQ0hKY1h3UTYyUHpoRmpsbi03VUtBODdxOGFiUWkwOGZ1NlkxbUFlVnc0TWQ5MVFVaUZGTDJJbzFtVnRfS2l5dC1sY2RQUERxbndvTFg4d2NCT1E?oc=5",
+        "date": "2025-02-24",
+        "title": "Odisha Expands Aviation Infrastructure: 4 New Airstrips Planned in Western Region - Odisha Diary",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGVjTVNGNlZjOEZTVnB2MVBOUzJYaWt2VTgxcWtvV0ktOWE1bGVCNExEaHNoNEkxdzZ5WEdJM05BZnpXUTBaYmRLU3h0MXpaZTNsVV9pQ0hKY1h3UTYyUHpoRmpsbi03VUtBODdxOGFiUWkwOGZ1NlkxbUFlVnc0TWQ5MVFVaUZGTDJJbzFtVnRfS2l5dC1sY2RQUERxbndvTFg4d2NCT1E?oc=5\" target=\"_blank\">Odisha Expands Aviation Infrastructure: 4 New Airstrips Planned in Western Region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Odisha Diary</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWRmMjExSG1EaWdTVEdnNkZKQmc0ZUtMLXlSa19kNGN0dEVRSWR1cXlQZXJadGs1NV8ybTM2M19ISDE0Zy10NERLMktOTzVPTFg3MEh4ZmFXSDMtWm9pMTg3ejhkY2xMQjE3al8xMkZGRzgzdzlHLXgtX3ZpbGJ1S3BiRU8wVWdWRldQQTlJRXNGUQ?oc=5",
+        "date": "2025-02-24",
+        "title": "Alibaba commits $53 billion on AI infrastructure to drive innovation - News.Az",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWRmMjExSG1EaWdTVEdnNkZKQmc0ZUtMLXlSa19kNGN0dEVRSWR1cXlQZXJadGs1NV8ybTM2M19ISDE0Zy10NERLMktOTzVPTFg3MEh4ZmFXSDMtWm9pMTg3ejhkY2xMQjE3al8xMkZGRzgzdzlHLXgtX3ZpbGJ1S3BiRU8wVWdWRldQQTlJRXNGUQ?oc=5\" target=\"_blank\">Alibaba commits $53 billion on AI infrastructure to drive innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News.Az</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0ZITW5rUGVMcmYtZjZndWx1Wk5qS1M3VE8zUldXUWhLejc4Uk5ja2FKWERLMmVaZlV6WFVOMXF1U1Jfdzc0aWdfY0ZfanQxOUpycXp4OXVBYTJzWWNaUjZNYVJuYlpWN2k1cnppdUhUWmlfZlZ1RWFOb09yMHpzV0RUeUpaRDNQNS1aX3hhQ2JtNXUtR2ZfTDFOUU5FY29kNzFHUTNiVjBXcmc5TWVMWld6NXE?oc=5",
+        "date": "2025-02-24",
+        "title": "Bengaluru May Get Independent Body for Major Road Projects - News Karnataka",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0ZITW5rUGVMcmYtZjZndWx1Wk5qS1M3VE8zUldXUWhLejc4Uk5ja2FKWERLMmVaZlV6WFVOMXF1U1Jfdzc0aWdfY0ZfanQxOUpycXp4OXVBYTJzWWNaUjZNYVJuYlpWN2k1cnppdUhUWmlfZlZ1RWFOb09yMHpzV0RUeUpaRDNQNS1aX3hhQ2JtNXUtR2ZfTDFOUU5FY29kNzFHUTNiVjBXcmc5TWVMWld6NXE?oc=5\" target=\"_blank\">Bengaluru May Get Independent Body for Major Road Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News Karnataka</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
