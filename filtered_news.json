@@ -1095,5 +1095,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.'s $AAPL global data centers now power 1.4 million servers.\n\nAround-the-clock operation requires 493,000MWh of renewable energy annually.\n\nThat's enough to power over 44,000 average US homes for a year.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQV9DTEFmQnNmUEotQi16ZmpRNGVqYWFVcGNmQllPQk5ISEpDQ1k3RXNwYjFfajY5VXY3c21BLXJESzJ6WG5UbkxySkI0Nzl6b29VUG5mWHo2X1Uwdm0zMGtjNWFTLUxMWnhlZ3NBMDFlVFV6ZV83VGdwTkRvUHJQa0Nnd01tQWl5LWtGZ0VrLU5xQmpm?oc=5",
+        "date": "2025-02-24",
+        "title": "$375M Fuels Applied Digital\u2019s Bold Move Toward Tomorrow\u2019s Infrastructure - JSA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPQV9DTEFmQnNmUEotQi16ZmpRNGVqYWFVcGNmQllPQk5ISEpDQ1k3RXNwYjFfajY5VXY3c21BLXJESzJ6WG5UbkxySkI0Nzl6b29VUG5mWHo2X1Uwdm0zMGtjNWFTLUxMWnhlZ3NBMDFlVFV6ZV83VGdwTkRvUHJQa0Nnd01tQWl5LWtGZ0VrLU5xQmpm?oc=5\" target=\"_blank\">$375M Fuels Applied Digital\u2019s Bold Move Toward Tomorrow\u2019s Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JSA</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
     }
 ]
