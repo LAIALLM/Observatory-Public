@@ -1414,5 +1414,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddea NEWS: UAE mega projects 2025 aims to transform the nation with 50 massive developments.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-02-25",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL  \nQ4 infrastructure report.  \n\nEnergy consumption: 83.9 million kWh  \nData processed daily: 24.1 petabytes  \nProduction yield: 94.3%  \nEco-efficiency rating: Grade A",
+        "type": "infrastructure"
     }
 ]
