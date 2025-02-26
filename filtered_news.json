@@ -1619,5 +1619,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-02-26",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf3 United Nations 2025 Report:\n\nFor the first time in history, over 66% of the world's population - approx 7.8 billion people - will live in urban areas. Increase in city dwellers can stretch resources. More than ever, sustainable urban planning is vital for our future.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
