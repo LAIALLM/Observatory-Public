@@ -1421,5 +1421,32 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL  \nQ4 infrastructure report.  \n\nEnergy consumption: 83.9 million kWh  \nData processed daily: 24.1 petabytes  \nProduction yield: 94.3%  \nEco-efficiency rating: Grade A",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPenBqWVRpRC1JeDh2eUZpVWp2QllVUGpPY3M3UW9ZNTlwMTg0OFRRcGhxWGdaQ3hZTE0ySFpSV2ZuRnNZRWNFWjFoajNnQ1VOeW1VYjFhMlM2VGdjZEFYUElTR1VUcHVNSUxtQlpldFVJN2NrUmZOTGh5WWVHOERLeERuRTA3b1gzUTJoMVRZeng5R3cyUW0yVGJuYTgweVN0ZmhvbHZyWklabGNlMk9vejd6ZnNBRGlRbHZTeHdQVDNHbVAzX0hlM2J5bXgxTEZsTnAzMTZYSmZhLXJwbXByWHNxaEJrT1h3TFBHSU15RWpuQVRFdGZ4Rld0Zlc1YXc4TEJBRHc1RW5nNHc5UG5v?oc=5",
+        "date": "2025-02-26",
+        "title": "Managing ripples and riding waves: Navigating the future of Intelligent Data Infrastructure - Technology Decisions",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPenBqWVRpRC1JeDh2eUZpVWp2QllVUGpPY3M3UW9ZNTlwMTg0OFRRcGhxWGdaQ3hZTE0ySFpSV2ZuRnNZRWNFWjFoajNnQ1VOeW1VYjFhMlM2VGdjZEFYUElTR1VUcHVNSUxtQlpldFVJN2NrUmZOTGh5WWVHOERLeERuRTA3b1gzUTJoMVRZeng5R3cyUW0yVGJuYTgweVN0ZmhvbHZyWklabGNlMk9vejd6ZnNBRGlRbHZTeHdQVDNHbVAzX0hlM2J5bXgxTEZsTnAzMTZYSmZhLXJwbXByWHNxaEJrT1h3TFBHSU15RWpuQVRFdGZ4Rld0Zlc1YXc4TEJBRHc1RW5nNHc5UG5v?oc=5\" target=\"_blank\">Managing ripples and riding waves: Navigating the future of Intelligent Data Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Technology Decisions</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlVWTWFmQWlEeFd5NFNQU2gzTHFRRXVpYzE4VnFYNjJ6NjNKdldBS05wQTdiQm1tOWF5T2RIUDItNThHNGpiaVJhRmFtQjZzanlhMWdPZjZhUkYxVElmN1NGT3JFdE5pQmJYVkZUX0VwTmp3ZF9WQ0NxNVJ4NGNVNUI3QUdzR0RvRjVVd0E5SEgwZUxfSzdHbUZSSDJyRDlRLUVtN05kdG1WWVBqRjAxcy01N0dKVmk2LS1z?oc=5",
+        "date": "2025-02-26",
+        "title": "Karnataka Government Approves Taller Housing Projects In Kalaburagi - Realty Plus Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUlVWTWFmQWlEeFd5NFNQU2gzTHFRRXVpYzE4VnFYNjJ6NjNKdldBS05wQTdiQm1tOWF5T2RIUDItNThHNGpiaVJhRmFtQjZzanlhMWdPZjZhUkYxVElmN1NGT3JFdE5pQmJYVkZUX0VwTmp3ZF9WQ0NxNVJ4NGNVNUI3QUdzR0RvRjVVd0E5SEgwZUxfSzdHbUZSSDJyRDlRLUVtN05kdG1WWVBqRjAxcy01N0dKVmk2LS1z?oc=5\" target=\"_blank\">Karnataka Government Approves Taller Housing Projects In Kalaburagi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Realty Plus Magazine</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-02-26",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \nHealth-conscious tech breakthrough! \nExceeded 80% energy efficiency milestone in 2021; from 100% renewable resources. \nZero carbon by 2030. \nGreen vibes only. \n$AAPL",
+        "type": "infrastructure"
     }
 ]
