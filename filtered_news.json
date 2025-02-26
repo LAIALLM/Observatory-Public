@@ -1627,5 +1627,13 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf3 United Nations 2025 Report:\n\nFor the first time in history, over 66% of the world's population - approx 7.8 billion people - will live in urban areas. Increase in city dwellers can stretch resources. More than ever, sustainable urban planning is vital for our future.",
         "type": "statistical",
         "category": "urban planning"
+    },
+    {
+        "link": null,
+        "date": "2025-02-26",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 USA: $125 billion investment in highway infrastructure has reduced commute times by 15% since 2024.\n\n\ud83c\udde8\ud83c\udde6 Canada: Similar investments in public transit infrastructure have increased ridership by 35% since 2024.\n\nInvest wisely for an efficient, sustainable future.",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
