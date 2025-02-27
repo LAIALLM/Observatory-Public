@@ -1942,5 +1942,45 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSUozNlZLUjZpb0FvYlp1WURPMDZ0a3dwNDdXRFFBWk92X3kxOXFuWVl3TC05OUM3a0E2NlRkVU1ESXNmQTA5UmZIa3k0aGFjTmFxS3ZjaU5FNXpFdnFPMGRfOHZuUjNYRTZELXZIeDE2bC1keXZKRlNkSy00ZWsyNVlrWHJxNV9EN3NscUV4YmVqeVp2Q2dNTmtDQ1VMaWJ2UTVHVXJMZF8wNUFYV2oxUlhnNjFHLUx4em1VRGYwM2Y4YUlNODJJYXRMamNYbk4zUWxFRmtR?oc=5",
+        "date": "2025-02-27",
+        "title": "Leveraging the Power of Content Marketing to Educate Consumers on Sustainable Construction Materials - Passionate In Marketing",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSUozNlZLUjZpb0FvYlp1WURPMDZ0a3dwNDdXRFFBWk92X3kxOXFuWVl3TC05OUM3a0E2NlRkVU1ESXNmQTA5UmZIa3k0aGFjTmFxS3ZjaU5FNXpFdnFPMGRfOHZuUjNYRTZELXZIeDE2bC1keXZKRlNkSy00ZWsyNVlrWHJxNV9EN3NscUV4YmVqeVp2Q2dNTmtDQ1VMaWJ2UTVHVXJMZF8wNUFYV2oxUlhnNjFHLUx4em1VRGYwM2Y4YUlNODJJYXRMamNYbk4zUWxFRmtR?oc=5\" target=\"_blank\">Leveraging the Power of Content Marketing to Educate Consumers on Sustainable Construction Materials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Passionate In Marketing</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1cjZsQ0hTY3FfMzVGOG1tYnIxb3VXcGZZZkJzeEUtbG9YZlBqM1ZsUi1lby15bWNydk9NcjRudDMwNGt2SThqOTdiaG5HQWJ1TEExZ2pnMm9zdGlEU2dROE1MRVQwMW9OOFlYeU45bTVrYmxBNjExd1lEVQ?oc=5",
+        "date": "2025-02-27",
+        "title": "Portugal\u2019s Casais commits to supporting Saudi Vision 2030 - MEED",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFA1cjZsQ0hTY3FfMzVGOG1tYnIxb3VXcGZZZkJzeEUtbG9YZlBqM1ZsUi1lby15bWNydk9NcjRudDMwNGt2SThqOTdiaG5HQWJ1TEExZ2pnMm9zdGlEU2dROE1MRVQwMW9OOFlYeU45bTVrYmxBNjExd1lEVQ?oc=5\" target=\"_blank\">Portugal\u2019s Casais commits to supporting Saudi Vision 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEED</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXctRGFiUHRfNXVqYXRYVmtySkVKM0lBS0RCY0doVENYb3hPc0ZwVGtvV0JNU01IUk1jTURuOUY3NmlNZFFTLXJrRDRRNGdseUxhN0hITXhnU0RGbHNQb2k3X2hwVldXVlQ0ei15clRQUE5zT3Rod0Q4clFmUHFKXzR0YWNvUV9MSzNiQ2ZVTTRoYjJ4OHBHdGR1ZkRoc19neDZJbFlqT2tVZ3FzdzRHa0d1RQ?oc=5",
+        "date": "2025-02-27",
+        "title": "EDF India, Actis Join Hands to Develop Advanced Metering Infrastructure in India - Energetica India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXctRGFiUHRfNXVqYXRYVmtySkVKM0lBS0RCY0doVENYb3hPc0ZwVGtvV0JNU01IUk1jTURuOUY3NmlNZFFTLXJrRDRRNGdseUxhN0hITXhnU0RGbHNQb2k3X2hwVldXVlQ0ei15clRQUE5zT3Rod0Q4clFmUHFKXzR0YWNvUV9MSzNiQ2ZVTTRoYjJ4OHBHdGR1ZkRoc19neDZJbFlqT2tVZ3FzdzRHa0d1RQ?oc=5\" target=\"_blank\">EDF India, Actis Join Hands to Develop Advanced Metering Infrastructure in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energetica India </font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWTgtcDc3YThPUHBXV1BSQ2pOQ0QxRS1BVG5FV0Noa0NfLW1SWVYydGhab2VaZkZPTGNzeHVSLVRZSW9hUTVWandNc1FYYTZ1TFhJS3FRTFhWRm9qT3pVVGpWRWstU2xCa0MwaEtVeWt5NnFVb29iNWdYRURTUkJaWXFFaWxVX2llNFpYb09KekZGXzBIZGhVUUVFaVhXS1pvSkF1MlZ2Qm0xSXA2V3MwUWRyRFBBNXpCWFRkOGcwY09sbkFOczREY1lWelJFWVk?oc=5",
+        "date": "2025-02-27",
+        "title": "RONN Inc Provides Actionable Hydrogen Refueling Infrastructure Updates and Answers Shareholder Questions - Hydrogen Central",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQWTgtcDc3YThPUHBXV1BSQ2pOQ0QxRS1BVG5FV0Noa0NfLW1SWVYydGhab2VaZkZPTGNzeHVSLVRZSW9hUTVWandNc1FYYTZ1TFhJS3FRTFhWRm9qT3pVVGpWRWstU2xCa0MwaEtVeWt5NnFVb29iNWdYRURTUkJaWXFFaWxVX2llNFpYb09KekZGXzBIZGhVUUVFaVhXS1pvSkF1MlZ2Qm0xSXA2V3MwUWRyRFBBNXpCWFRkOGcwY09sbkFOczREY1lWelJFWVk?oc=5\" target=\"_blank\">RONN Inc Provides Actionable Hydrogen Refueling Infrastructure Updates and Answers Shareholder Questions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hydrogen Central</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
