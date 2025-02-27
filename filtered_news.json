@@ -1922,5 +1922,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Google $GOOGL handled over 3.5 billion searches per day last year.\nThat's an average of 40,000 searches per second. \nImpressive scale of data processing.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYnNpNGd4T0h0WXYwdDUzMkRKbFZ5X2VERlNKd1ZlZDN5UmxGM1hHQS10M195Y18ycU54YVFwc29UVmlaYTNpSVlsb2lOV2lqekpCMDVuOFVqN1pmM0NZWElab2s2U3NTOWNMS09RQlN5aklIaldXQ244OWNoTlc0bnNUdlJIcWExbXoyTmdtZ1VnVGVRTk5IeTNSUkRBbkl5dzd2RjJtdFZkQmF1MUZ0UzhFYk5qTkZuT1QzSnRiVXZ1YXUwendlM2dzb0w?oc=5",
+        "date": "2025-02-27",
+        "title": "Ghana Construction Chamber pays courtesy call on Roads and Highways minister - GhanaWeb",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOYnNpNGd4T0h0WXYwdDUzMkRKbFZ5X2VERlNKd1ZlZDN5UmxGM1hHQS10M195Y18ycU54YVFwc29UVmlaYTNpSVlsb2lOV2lqekpCMDVuOFVqN1pmM0NZWElab2s2U3NTOWNMS09RQlN5aklIaldXQ244OWNoTlc0bnNUdlJIcWExbXoyTmdtZ1VnVGVRTk5IeTNSUkRBbkl5dzd2RjJtdFZkQmF1MUZ0UzhFYk5qTkZuT1QzSnRiVXZ1YXUwendlM2dzb0w?oc=5\" target=\"_blank\">Ghana Construction Chamber pays courtesy call on Roads and Highways minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GhanaWeb</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaUNqOTdkV2YyM2pSU2pWbGJ4SHZ1LXpxUE1rLVQtOGlCaWgydEZSVklMdlpyNTNxTjU3QlE3ci14ZWliOFRJdW9SSUJTREJtZW5fa0lWSnJ4MlBWSm03bXdXblh4ZXBPeDk1aGQ4bnU1STIxYkxCNF91NFE2UEs1ejlibmNpazFucmUzTkZnZG43MXNPU21sdUI0TUJiQQ?oc=5",
+        "date": "2025-02-27",
+        "title": "Orochi Network secures $12m to build the first verifiable data infrastructure - crypto.news",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOaUNqOTdkV2YyM2pSU2pWbGJ4SHZ1LXpxUE1rLVQtOGlCaWgydEZSVklMdlpyNTNxTjU3QlE3ci14ZWliOFRJdW9SSUJTREJtZW5fa0lWSnJ4MlBWSm03bXdXblh4ZXBPeDk1aGQ4bnU1STIxYkxCNF91NFE2UEs1ejlibmNpazFucmUzTkZnZG43MXNPU21sdUI0TUJiQQ?oc=5\" target=\"_blank\">Orochi Network secures $12m to build the first verifiable data infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
     }
 ]
