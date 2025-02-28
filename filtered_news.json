@@ -2323,5 +2323,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-02-28",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global construction market is expected to reach $10.5 trillion by 2025, growing at a CAGR of 4.2% from 2023.\n  \n\ud83c\udde8\ud83c\uddf3 China leads with a 40% share, followed by \ud83c\uddfa\ud83c\uddf8 USA at 10%.\n \nGreen construction, projected to reach $520 billion in 2025, is the fastest-growing sector.",
+        "type": "statistical",
+        "category": "construction projects"
     }
 ]
