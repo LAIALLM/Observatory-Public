@@ -2265,5 +2265,13 @@
         "score": 9,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-02-28",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d By 2025, global investment in infrastructure projects is set to exceed $97 trillion, with Asia accounting for 60% of this expenditure. \ud83c\udde8\ud83c\uddf3China is earmarked for $28 trillion alone, far outpacing \ud83c\uddfa\ud83c\uddf8USA's projected $8 trillion.",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
