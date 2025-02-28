@@ -2571,5 +2571,15 @@
         "score": 9,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNnNwMnNTakZZcnpoUUhDOEp2Y19rRV9RdUxkQzE1cURJS2FmUkNKMTFmVklXN3RLUVN3ZTREajhaZ0ZYYmZvMzF5LXVqeGhGaHlzZTJKbkNQQWRTWnV2NnRCR2c3dHNxZTlsVGhxaVREN0p3X0MxMHJTYzVEV1JJc0lVWDFWeFJ1MlNXU0VRWGkxTEZrczM5WF9kUkE?oc=5",
+        "date": "2025-02-28",
+        "title": "Supermicro: The Rising Force in AI-Optimized Server Infrastructure - HPBL",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPNnNwMnNTakZZcnpoUUhDOEp2Y19rRV9RdUxkQzE1cURJS2FmUkNKMTFmVklXN3RLUVN3ZTREajhaZ0ZYYmZvMzF5LXVqeGhGaHlzZTJKbkNQQWRTWnV2NnRCR2c3dHNxZTlsVGhxaVREN0p3X0MxMHJTYzVEV1JJc0lVWDFWeFJ1MlNXU0VRWGkxTEZrczM5WF9kUkE?oc=5\" target=\"_blank\">Supermicro: The Rising Force in AI-Optimized Server Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HPBL</font>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
     }
 ]
