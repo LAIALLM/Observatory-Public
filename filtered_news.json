@@ -2168,5 +2168,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-02-28",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Google's Data Centers: \n\nEnergy Consumption -\n5.7 terawatt-hours (TWh) in 2019\n\nRenewable Energy Purchased -\n7.4 Twh in 2019\n\nEfficiency -\nPUE of 1.10\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
