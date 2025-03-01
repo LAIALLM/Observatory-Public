@@ -2765,5 +2765,25 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEhpaTVSTHpXanRDbUNtMThUVnI5Z0dqdGx6a2N1M3BueDI3MG43VFVSTWFfSHBRQTBkbG1aNEV1bG5iU0NZdVpnY2lVRl9idUdERGVXUnZwaFJUdFk2NnNUdk11V0tQaVZnblc2NU9sMEltZjFGTWhPY1FEOURZOHV1VW5JS2xjcDhzTjZiM0Fubm4ybGZ0aA?oc=5",
+        "date": "2025-03-01",
+        "title": "Urban greenery falls short despite tree-planting effort - VietNamNet",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEhpaTVSTHpXanRDbUNtMThUVnI5Z0dqdGx6a2N1M3BueDI3MG43VFVSTWFfSHBRQTBkbG1aNEV1bG5iU0NZdVpnY2lVRl9idUdERGVXUnZwaFJUdFk2NnNUdk11V0tQaVZnblc2NU9sMEltZjFGTWhPY1FEOURZOHV1VW5JS2xjcDhzTjZiM0Fubm4ybGZ0aA?oc=5\" target=\"_blank\">Urban greenery falls short despite tree-planting effort</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VietNamNet</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNME1mMUhwb0t4VjlsTTc0Z2lYY1FNMFIxdmNmSDU0Q3BDYXMxX3BvRXFOR2FSTzh4RlJBZWNBUGhldVkzWVIyR09VM0tPTEJxbjFfdVg4S2hIMnh2bkNaZGEzWmtkUng0VTN6cU54WHRTZlpEY2cxWHJhcnpGcTl2NzJKSUs5b1lSV1RLelozSUJjSjhWbW13RXVtaVVFSmp5S0xYX3I3c3pON2NhLXRheGo2bngtNzg1dVE?oc=5",
+        "date": "2025-03-01",
+        "title": "Which Southeast Asian country is the most densely populated? - VnExpress International",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNME1mMUhwb0t4VjlsTTc0Z2lYY1FNMFIxdmNmSDU0Q3BDYXMxX3BvRXFOR2FSTzh4RlJBZWNBUGhldVkzWVIyR09VM0tPTEJxbjFfdVg4S2hIMnh2bkNaZGEzWmtkUng0VTN6cU54WHRTZlpEY2cxWHJhcnpGcTl2NzJKSUs5b1lSV1RLelozSUJjSjhWbW13RXVtaVVFSmp5S0xYX3I3c3pON2NhLXRheGo2bngtNzg1dVE?oc=5\" target=\"_blank\">Which Southeast Asian country is the most densely populated?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VnExpress International</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
