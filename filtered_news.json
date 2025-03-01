@@ -2755,5 +2755,15 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWWpIWjJISHlIY0FuMmJvYTduV2hEd1VOY3NzOGxRUkJ3R0VkMHVvR0Z0ZkFWVmljUFZlbG5uZ1FabG5TWUpjUmpMNEZDanlzbFdVYjk1Q0toSS0xR0lnOE5lQ0dNenpqazM0QVJVMlNXSWU1R1g3bDBhYmFxRV8xQVl1aHVFMDJ5ZVdUTGw1MGZnX2hibkp4QjQwY2llcXMzZnloZDNtNlpTTXBpR1hRTmctaVBZbWx5bFFqX04xTWM?oc=5",
+        "date": "2025-03-01",
+        "title": "Weak cyber defenses are exposing critical infrastructure \u2014 how enterprises can proactively thwart cunning attackers to protect us all - VentureBeat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWWpIWjJISHlIY0FuMmJvYTduV2hEd1VOY3NzOGxRUkJ3R0VkMHVvR0Z0ZkFWVmljUFZlbG5uZ1FabG5TWUpjUmpMNEZDanlzbFdVYjk1Q0toSS0xR0lnOE5lQ0dNenpqazM0QVJVMlNXSWU1R1g3bDBhYmFxRV8xQVl1aHVFMDJ5ZVdUTGw1MGZnX2hibkp4QjQwY2llcXMzZnloZDNtNlpTTXBpR1hRTmctaVBZbWx5bFFqX04xTWM?oc=5\" target=\"_blank\">Weak cyber defenses are exposing critical infrastructure \u2014 how enterprises can proactively thwart cunning attackers to protect us all</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
