@@ -2873,5 +2873,13 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-03-02",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global renewable energy infrastructural projects are projected to reach $4.2 trillion in investments by 2030, almost doubling the $2.4 trillion recorded in 2025.",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
