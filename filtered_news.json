@@ -2795,5 +2795,12 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-03-02",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \nDaily iOS app downloads amounted to 4.5 million a day in 2021, achieving a 2% annual increase. \nTotal energy consumption down 15% compared to 2020. \n$AAPL",
+        "type": "infrastructure"
     }
 ]
