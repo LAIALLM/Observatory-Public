@@ -3019,5 +3019,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-03-03",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.\nThird-quarter revenue: $81.41 billion, up 36% YoY.\nServices: $17.48 billion, up 33%.\nNet income: $21.74 billion, up 93%. \nEPS: $1.30, up 100%. \nMarket cap: $2.48T \n$AAPL",
+        "type": "infrastructure"
     }
 ]
