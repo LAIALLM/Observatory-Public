@@ -3296,5 +3296,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Major announcements in the Bihar Budget 2025-26 focus on youth, women, farmers, and infrastructure development.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-03-03",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3India is projected to overtake \ud83c\udde8\ud83c\uddf3China as the world's most populated country by 2027 - reaching nearly 1.5 billion residents. \n\nAt the same time, \ud83c\uddf3\ud83c\uddecNigeria is expected to become the third most populous country, surpassing the \ud83c\uddfa\ud83c\uddf8United States by 2050.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
