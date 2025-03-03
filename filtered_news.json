@@ -3167,5 +3167,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: Federal funding set to enhance road and rail safety in WA with over $17 million in new investment. This supports 25 key projects, including a $9.9 million focus on 21 high-priority railway upgrades.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-03-03",
+        "status": "posted",
+        "tweet": "Summary: Fastest-growing urban areas in 2025\n\n\ud83c\uddee\ud83c\uddf3 Delhi, India\n\ud83c\udde8\ud83c\uddf3 Shanghai, China\n\ud83c\udde8\ud83c\uddf4 Bogot\u00e1, Colombia\n\ud83c\uddf9\ud83c\uddff Dar es Salaam, Tanzania\n\ud83c\uddf5\ud83c\uddea Lima, Peru",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
