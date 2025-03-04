@@ -3392,5 +3392,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.'s $AAPL total revenue jumped 36% YoY to $81.4 billion in Q2 2021. \n\nKey driver: iPhone sales jumped nearly 50% to $39.6 billion.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-03-04",
+        "status": "posted",
+        "tweet": "Summary: Top 5 nations leading in infrastructural projects by 2025 investment size. \n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddfa\ud83c\uddf8 United States\n3. \ud83c\uddee\ud83c\uddf3 India\n4. \ud83c\uddef\ud83c\uddf5 Japan\n5. \ud83c\udde6\ud83c\uddea UAE \n\nPredicted investments surpass $1.5T globally, fostering sustainable development & economic growth.",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
