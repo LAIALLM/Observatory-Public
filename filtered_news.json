@@ -4245,5 +4245,25 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcVQtc1l5U2hxRy1FeUlmY282dHp2aHNsN0dMQnFMM2h5NkUxVkFzSllmbWJiSHE3TVlKRkdXY3JjU0NPUkwwMElIMlQwaWJsMFk5N2h0UnVnaFk2bkdHV20yaWxLQWZOb3ZBZzdoOTl2NDJKdGxYTU9ScWg3dFhlVUpTLS1aZXV1Y3RlWmpPMlV3SmhrT0trSzdhRHJzS3JGcFV6Ml9oWGprQU9RLVdyeUtsRWNqVDloWGtFZWtUSHlwVlZjNHdici15cnc1Wmt4MV9EMTdtckw2d2U5OXdpQ3d1d0w?oc=5",
+        "date": "2025-03-05",
+        "title": "Women making strides in the construction industry - Your News Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcVQtc1l5U2hxRy1FeUlmY282dHp2aHNsN0dMQnFMM2h5NkUxVkFzSllmbWJiSHE3TVlKRkdXY3JjU0NPUkwwMElIMlQwaWJsMFk5N2h0UnVnaFk2bkdHV20yaWxLQWZOb3ZBZzdoOTl2NDJKdGxYTU9ScWg3dFhlVUpTLS1aZXV1Y3RlWmpPMlV3SmhrT0trSzdhRHJzS3JGcFV6Ml9oWGprQU9RLVdyeUtsRWNqVDloWGtFZWtUSHlwVlZjNHdici15cnc1Wmt4MV9EMTdtckw2d2U5OXdpQ3d1d0w?oc=5\" target=\"_blank\">Women making strides in the construction industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Your News Now</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/60390-minnesota-joins-fired-suit-by-fired-drywall-worker-who-reported-sexual-harassment-and-rape",
+        "date": "2025-03-05",
+        "title": "Minnesota Joins Suit by Fired Drywall Worker Who Reported Sexual Harassment and Rape",
+        "summary": "<p>The Minnesota Dept. of Human Rights has joined a lawsuit against a drywall company accused of violating the state Human Rights Act for allowing an employee to sexually harass and rape a co-worker and then firing the victim who reported the crime.&nbsp;</p>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
