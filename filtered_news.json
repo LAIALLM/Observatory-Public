@@ -111,5 +111,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: UP govt to develop 59 cities using GIS-based urban planning.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-03-07",
+        "status": "posted",
+        "tweet": "In 2025, \ud83c\udde8\ud83c\uddf3 China is projected to have 30% of global engineering projects, up from 25% in 2023.\n\nIn contrast, \ud83c\uddfa\ud83c\uddf8 USA's share is expected to drop to 15% from 18% over the same period.",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
