@@ -127,5 +127,12 @@
         "tweet": "Summary: Top 5 countries by projected renewable energy capacity in 2025\n\n\ud83c\udde8\ud83c\uddf3 China\n\ud83c\uddfa\ud83c\uddf8 United States\n\ud83c\uddea\ud83c\uddfa European Union\n\ud83c\uddee\ud83c\uddf3 India\n\ud83c\udde7\ud83c\uddf7 Brazil",
         "type": "statistical",
         "category": "energy"
+    },
+    {
+        "link": null,
+        "date": "2025-03-07",
+        "status": "posted",
+        "tweet": "TechCorp's data centers in \ud83c\uddfa\ud83c\uddf8 USA processed 10 petabytes of data daily in Q1 2023, a 20% increase from the previous year.\n\n$TC",
+        "type": "infrastructure"
     }
 ]
