@@ -119,5 +119,13 @@
         "tweet": "In 2025, \ud83c\udde8\ud83c\uddf3 China is projected to have 30% of global engineering projects, up from 25% in 2023.\n\nIn contrast, \ud83c\uddfa\ud83c\uddf8 USA's share is expected to drop to 15% from 18% over the same period.",
         "type": "statistical",
         "category": "engineering projects"
+    },
+    {
+        "link": null,
+        "date": "2025-03-07",
+        "status": "posted",
+        "tweet": "Summary: Top 5 countries by projected renewable energy capacity in 2025\n\n\ud83c\udde8\ud83c\uddf3 China\n\ud83c\uddfa\ud83c\uddf8 United States\n\ud83c\uddea\ud83c\uddfa European Union\n\ud83c\uddee\ud83c\uddf3 India\n\ud83c\udde7\ud83c\uddf7 Brazil",
+        "type": "statistical",
+        "category": "energy"
     }
 ]
