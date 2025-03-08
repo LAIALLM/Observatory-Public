@@ -214,5 +214,12 @@
         "tweet": "Summary: Cities leading in electric vehicle adoption in 2025\n\n\ud83c\uddf3\ud83c\uddf41. Oslo, Norway\n\ud83c\uddf3\ud83c\uddf12. Amsterdam, Netherlands\n\ud83c\udde8\ud83c\uddf33. Shenzhen, China\n\ud83c\uddf8\ud83c\uddea4. Stockholm, Sweden \n\ud83c\uddfa\ud83c\uddf85. San Francisco, USA\n\nNorway's capital tops EV uptake, meanwhile SF leads in the USA. A greener future in transportation.",
         "type": "statistical",
         "category": "transportation"
+    },
+    {
+        "link": null,
+        "date": "2025-03-08",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. | $AAPL\n- Daily data volume: 3.2 petabytes\n- Current servers capacity: 98.2%\n- Energy consumption: 25.1 million KWh/day",
+        "type": "infrastructure"
     }
 ]
