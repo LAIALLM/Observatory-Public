@@ -221,5 +221,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. | $AAPL\n- Daily data volume: 3.2 petabytes\n- Current servers capacity: 98.2%\n- Energy consumption: 25.1 million KWh/day",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSWY2aGNQNF9helpvWlNvUnE1QWwxT05FWldNT2ZkQXJDTThpNXBZZHMwdlVOWlV4eUtKUGh3N2FYbEZpUTg5bzZjclk1TjlzRl9ObUxLTlE1SzNVOElxOEUwbl9CLUtqZUJXeTJhWGdmNkJUUWxSS2UwZ3lPQkxUaQ?oc=5",
+        "date": "2025-03-08",
+        "title": "UK Construction Week launches Role Models campaign 2025 - Yahoo News UK",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPSWY2aGNQNF9helpvWlNvUnE1QWwxT05FWldNT2ZkQXJDTThpNXBZZHMwdlVOWlV4eUtKUGh3N2FYbEZpUTg5bzZjclk1TjlzRl9ObUxLTlE1SzNVOElxOEUwbl9CLUtqZUJXeTJhWGdmNkJUUWxSS2UwZ3lPQkxUaQ?oc=5\" target=\"_blank\">UK Construction Week launches Role Models campaign 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXo0aW1GX1JDdFYxM2pSX2dIdTMxT1RqekdRcXF1am9zNm1wVHpCWTNuVl9Ia19FR042VFUyTEx5Q1lOalRfN2lyXzZYc1U0NXdpY2lqQllHdUR2Ung3bE9Za09IblQyel9meHYyemk3bGFGZmluUmpySW9xdUU0VDAwVFg3Yjl1a0JPNDM2SjNzVTVmelBoRjVpR2VGWGw10gGmAUFVX3lxTE5YWG15NHpndy11V2NFYlJtWUU0Ml8wU3BoZ3JUTkQxTE1VSy1qMS1XWW5tMlBJQUJZekRVLVdfREtINDVESHMzS0ZuTnBWaGRmN011ekEzRWVpdFhHNjdfMG9OTXU2SUFGR3F3b3lpcXgxTHNPd2dsS0VGU3lfakR6UTROc3RBM0NYdVZJNUhFSEhIUW5VU0tnYzc3Z3A5d0RYVUJ2T2c?oc=5",
+        "date": "2025-03-08",
+        "title": "Japanese delegation reviews works under Smart City project in Thane - The Week",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXo0aW1GX1JDdFYxM2pSX2dIdTMxT1RqekdRcXF1am9zNm1wVHpCWTNuVl9Ia19FR042VFUyTEx5Q1lOalRfN2lyXzZYc1U0NXdpY2lqQllHdUR2Ung3bE9Za09IblQyel9meHYyemk3bGFGZmluUmpySW9xdUU0VDAwVFg3Yjl1a0JPNDM2SjNzVTVmelBoRjVpR2VGWGw10gGmAUFVX3lxTE5YWG15NHpndy11V2NFYlJtWUU0Ml8wU3BoZ3JUTkQxTE1VSy1qMS1XWW5tMlBJQUJZekRVLVdfREtINDVESHMzS0ZuTnBWaGRmN011ekEzRWVpdFhHNjdfMG9OTXU2SUFGR3F3b3lpcXgxTHNPd2dsS0VGU3lfakR6UTROc3RBM0NYdVZJNUhFSEhIUW5VU0tnYzc3Z3A5d0RYVUJ2T2c?oc=5\" target=\"_blank\">Japanese delegation reviews works under Smart City project in Thane</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Week</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
