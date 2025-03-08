@@ -206,5 +206,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Arunachal and Sikkim to benefit from Centres initiative to boost power infrastructure with a focus on improving electricity access in remote areas.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-03-08",
+        "status": "posted",
+        "tweet": "Summary: Cities leading in electric vehicle adoption in 2025\n\n\ud83c\uddf3\ud83c\uddf41. Oslo, Norway\n\ud83c\uddf3\ud83c\uddf12. Amsterdam, Netherlands\n\ud83c\udde8\ud83c\uddf33. Shenzhen, China\n\ud83c\uddf8\ud83c\uddea4. Stockholm, Sweden \n\ud83c\uddfa\ud83c\uddf85. San Francisco, USA\n\nNorway's capital tops EV uptake, meanwhile SF leads in the USA. A greener future in transportation.",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
