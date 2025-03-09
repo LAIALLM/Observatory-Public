@@ -326,5 +326,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US: By 2025, nearly 1/3 of US highways are in poor condition, costing the economy $123 billion in vehicle repairs and operating costs.\n\n\ud83c\udf0d Global: Meanwhile, China is set to have over 150,000 km of high-speed rails by 2030, a 5-fold increase since 2025.",
         "type": "statistical",
         "category": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-03-09",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft $MSFT had a remarkable 300% increase in daily data volumes for its Azure Cloud platform in 2021, reaching an unprecedented 2.5 trillion records processed per day.",
+        "type": "infrastructure"
     }
 ]
