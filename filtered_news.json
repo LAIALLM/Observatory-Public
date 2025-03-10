@@ -864,5 +864,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddea\ud83c\uddfa NEWS: EU to fund \u20ac2bn infrastructure programme to support Ukraine economy",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-03-10",
+        "status": "posted",
+        "tweet": "Bitcoin's annual electricity consumption in 2025 exceeds 150 TWh, surpassing the yearly usage of countries like \ud83c\uddf3\ud83c\uddf4 Norway. This equates to over $18 billion in energy costs, highlighting the significant infrastructural burden of the network.",
+        "type": "crypto"
     }
 ]
