@@ -456,5 +456,35 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: MP Sanjeev Arora announces mega overhaul of power infrastructure in Ludhiana, aiming to enhance the citys electricity supply and reliability.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcHQ4eFhWR056d05YWVNod0U4WVhabEFCUUxHaWN2N3huZnRFeUx0dTVfZ0ZYLWhkZm0yZ2VmVHBFUlVQbW54dVdfeDZYN0F5OE9fbVhGZ2NEN00tU2tqVU10OUJJUGFRODZhNEFDTEJ6QWF2ekRVeXZITUEyaEZPWTQtZ1ZMbGROOGY0MnJZMk02bXc0eWlJMjRfSUd2Qlg3QzNYNnFhelNIVnRtMlRPd0h5SjVvbXV5alFZaEtGTVJDSzZsNV9uLUY3aVhJdw?oc=5",
+        "date": "2025-03-10",
+        "title": "Exclusive: How NetApp is navigating the fourth wave of technology with AI-driven data infrastructure - SecurityBrief New Zealand",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNcHQ4eFhWR056d05YWVNod0U4WVhabEFCUUxHaWN2N3huZnRFeUx0dTVfZ0ZYLWhkZm0yZ2VmVHBFUlVQbW54dVdfeDZYN0F5OE9fbVhGZ2NEN00tU2tqVU10OUJJUGFRODZhNEFDTEJ6QWF2ekRVeXZITUEyaEZPWTQtZ1ZMbGROOGY0MnJZMk02bXc0eWlJMjRfSUd2Qlg3QzNYNnFhelNIVnRtMlRPd0h5SjVvbXV5alFZaEtGTVJDSzZsNV9uLUY3aVhJdw?oc=5\" target=\"_blank\">Exclusive: How NetApp is navigating the fourth wave of technology with AI-driven data infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SecurityBrief New Zealand</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZm0wQ3NhNEVKM0pnZkZtNGdsV0dxaGxSR0tqSEdzaHU3VzQ0TXlFR1RQcUE5OFlzZm1oN0pPbXpoODJTUzFndFU4eEk5UVY5M1RadklxYXliV1A1MWF2aEt6R3NTM0VWUXdpOG1kMWV0SEQzak41a0F2eW41U0RJS0lmN2RGNXlaYmM1VlVUX3BhMlpVczJRVWZhSWEwa2JLTlRfUXB3Q3hQZ01qdjMtQVFRY2dXbnJiWDVfcE9OYzdtUVZkY21TVmFoVngydGt0MXB4TVZn?oc=5",
+        "date": "2025-03-10",
+        "title": "Keppel's infrastructure fund buys UK subsea cable solutions provider Global Marine Group - TradeWinds",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZm0wQ3NhNEVKM0pnZkZtNGdsV0dxaGxSR0tqSEdzaHU3VzQ0TXlFR1RQcUE5OFlzZm1oN0pPbXpoODJTUzFndFU4eEk5UVY5M1RadklxYXliV1A1MWF2aEt6R3NTM0VWUXdpOG1kMWV0SEQzak41a0F2eW41U0RJS0lmN2RGNXlaYmM1VlVUX3BhMlpVczJRVWZhSWEwa2JLTlRfUXB3Q3hQZ01qdjMtQVFRY2dXbnJiWDVfcE9OYzdtUVZkY21TVmFoVngydGt0MXB4TVZn?oc=5\" target=\"_blank\">Keppel's infrastructure fund buys UK subsea cable solutions provider Global Marine Group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradeWinds</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rWEpwQkxYZmpFNlY4ODVYSGFCbTJLQWNrR2tZU25ycFFMcDNhdU5rLXJPVmZacjBQOU5ZUUZ4Z3BBN0gwdVFVV0M3djFPalN5YUtvQkpDNzNwbTJDZWVzNVYydG1aTGs1dFVkcGlzSWtqdUtrQng5S3ZFTjVBZw?oc=5",
+        "date": "2025-03-10",
+        "title": "Telangana Launches Ambitious Net-Zero City Project - Urban Acres",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9rWEpwQkxYZmpFNlY4ODVYSGFCbTJLQWNrR2tZU25ycFFMcDNhdU5rLXJPVmZacjBQOU5ZUUZ4Z3BBN0gwdVFVV0M3djFPalN5YUtvQkpDNzNwbTJDZWVzNVYydG1aTGs1dFVkcGlzSWtqdUtrQng5S3ZFTjVBZw?oc=5\" target=\"_blank\">Telangana Launches Ambitious Net-Zero City Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urban Acres</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
