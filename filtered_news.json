@@ -1073,5 +1073,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-03-11",
+        "status": "posted",
+        "tweet": "Bitcoin's annual electricity consumption in 2025 is estimated at 140 TWh, surpassing the total power usage of \ud83c\uddf3\ud83c\uddf4 Norway (124 TWh in 2023). This equates to a carbon footprint of approximately 65 million metric tons of CO2.\n\nEthereum's shift to proof-of-stake in 2022 reduced its en",
+        "type": "crypto"
     }
 ]
