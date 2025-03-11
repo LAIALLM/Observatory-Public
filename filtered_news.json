@@ -1211,5 +1211,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: PMG reviews mega infrastructure projects in Andhra Pradesh and Tamil Nadu, focusing on timely completion.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-03-11",
+        "status": "posted",
+        "tweet": "Bitcoin has 12,500+ nodes globally, with significant presence in:\n\ud83c\uddfa\ud83c\uddf8 USA\n\ud83c\udde9\ud83c\uddea Germany\n\ud83c\uddeb\ud83c\uddf7 France\n\nEthereum's validator count exceeds 600,000, showcasing greater decentralization.\n\nBitcoin's infrastructure costs are estimated at $1.5B/year, while Ethereum's are around $1B/year.",
+        "type": "crypto"
     }
 ]
