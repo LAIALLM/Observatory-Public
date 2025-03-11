@@ -879,5 +879,13 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf3 UN 2025 projections show that 68% of the world's population will live in urban areas by 2050, up from 55% in 2018. Effectively managing urban spaces will be key to ensuring a sustainable future.",
         "type": "statistical",
         "category": "cities"
+    },
+    {
+        "link": null,
+        "date": "2025-03-11",
+        "status": "posted",
+        "tweet": "Summary: 2025's most populous countries:\n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddee\ud83c\uddf3 India\n3. \ud83c\uddfa\ud83c\uddf8 USA\n4. \ud83c\uddee\ud83c\udde9 Indonesia\n5. \ud83c\uddf5\ud83c\uddf0 Pakistan\n\nBy 2025, India is projected to nearly surpass China as the world's most populous country. USA, Indonesia, and Pakistan follow.",
+        "type": "statistical",
+        "category": "population"
     }
 ]
