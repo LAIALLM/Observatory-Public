@@ -1218,5 +1218,19 @@
         "status": "posted",
         "tweet": "Bitcoin has 12,500+ nodes globally, with significant presence in:\n\ud83c\uddfa\ud83c\uddf8 USA\n\ud83c\udde9\ud83c\uddea Germany\n\ud83c\uddeb\ud83c\uddf7 France\n\nEthereum's validator count exceeds 600,000, showcasing greater decentralization.\n\nBitcoin's infrastructure costs are estimated at $1.5B/year, while Ethereum's are around $1B/year.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-03-12",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.\n\n3rd Quarter Summary:\n- 15% increase in iPhone sales, yielding $47.9 billion revenue.\n- Service sector marked an all-time high of $18.2 billion.\n\nInvest wisely. \n$AAPL",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-03-12",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual maintenance and security costs are projected to reach $1.5 billion, a 50% increase from 2024, highlighting the growing financial burden of securing the network.",
+        "type": "crypto"
     }
 ]
