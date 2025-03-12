@@ -1616,5 +1616,105 @@
         "status": "posted",
         "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: Construction industry welcomes new planning and infrastructure reforms aimed at streamlining project approvals.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcXF5b09ic3FlQzc1S1hncEtsT1hvdXIwNmxqOEJNb1ZQdHMtUF9WclpSQlZfTUtvNXdpVU1EZkNmZzQ2QmhOZ0g4ZFJnaTlfWU15ZVBiZUhfQ0VHMlNCUDhLSm9Bay13TFBQNXp3SXB0WEhIZFYtdHdxRW1Jd1R3ckpiVktIVkVMY1VpQTV3c2MwSjlTbldFSG1vWEJuYnE1N2d3S0YzSQ?oc=5",
+        "date": "2025-03-12",
+        "title": "Save Time and Money on Managing Your Microsoft Infrastructure - StateTech Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcXF5b09ic3FlQzc1S1hncEtsT1hvdXIwNmxqOEJNb1ZQdHMtUF9WclpSQlZfTUtvNXdpVU1EZkNmZzQ2QmhOZ0g4ZFJnaTlfWU15ZVBiZUhfQ0VHMlNCUDhLSm9Bay13TFBQNXp3SXB0WEhIZFYtdHdxRW1Jd1R3ckpiVktIVkVMY1VpQTV3c2MwSjlTbldFSG1vWEJuYnE1N2d3S0YzSQ?oc=5\" target=\"_blank\">Save Time and Money on Managing Your Microsoft Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StateTech Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWjI2YnltZ0tBMDVnUGEyc1haSkFjVnd5eDFxbnNnaGJGbHluNHp3d1U4b285VVhPcnAyNTFYNjYtWUNCVWZVNWgtdlJJYUJPb1p6Z0p5WVFIV0NiZjVkREhxM0VkVy1WMHlhV0NDVXRKMk02ZURQVnNnMDdEZkVSWXI0SXVWc2ZEUTdsbXdEODY3NmdTQ1FLQTNfUS1kWEI1VVFPc1JHRlJPMnc?oc=5",
+        "date": "2025-03-12",
+        "title": "Regulatory hurdles and infrastructure gaps slow India\u2019s growth in space economy: report - Madhyamam English",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWjI2YnltZ0tBMDVnUGEyc1haSkFjVnd5eDFxbnNnaGJGbHluNHp3d1U4b285VVhPcnAyNTFYNjYtWUNCVWZVNWgtdlJJYUJPb1p6Z0p5WVFIV0NiZjVkREhxM0VkVy1WMHlhV0NDVXRKMk02ZURQVnNnMDdEZkVSWXI0SXVWc2ZEUTdsbXdEODY3NmdTQ1FLQTNfUS1kWEI1VVFPc1JHRlJPMnc?oc=5\" target=\"_blank\">Regulatory hurdles and infrastructure gaps slow India\u2019s growth in space economy: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Madhyamam English</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMTB4bVBfSVV0S1FKaWhuV0xhZTBGU2V6Zk1VWVEwR3dRaWYxU3M2Q0xjdkhINkZiYTJNVk9GQkRjM2ppWmFVU1NNdmFVMV9EaElQS09oYm1qcFgxVExPdm94UTdjVklBaXJ2WWxiMEY1dUZfYWdZUzZiaXg0dXBCTl9paDRuMEVwWFFqYw?oc=5",
+        "date": "2025-03-12",
+        "title": "CoreWeave in $11.9B AI Infrastructure Deal with OpenAI - insideHPC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPMTB4bVBfSVV0S1FKaWhuV0xhZTBGU2V6Zk1VWVEwR3dRaWYxU3M2Q0xjdkhINkZiYTJNVk9GQkRjM2ppWmFVU1NNdmFVMV9EaElQS09oYm1qcFgxVExPdm94UTdjVklBaXJ2WWxiMEY1dUZfYWdZUzZiaXg0dXBCTl9paDRuMEVwWFFqYw?oc=5\" target=\"_blank\">CoreWeave in $11.9B AI Infrastructure Deal with OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">insideHPC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZjBZY1hWc0oxYldGcjl0UGtpQjlWMVp3QVlqLURhdkJvclpSTUZiUG5Obml6azlQYU4tdENuS2ZveHBWWFExcTVwaV9hYUxrQnZkU01iTFcwUXI0VFRhQzdpbE4zQzVWUk5sOEsta0RiZGQwN216QUJjbllubXNTZC1VU0NzZlU3U2VhdzFDOUZlRFlma2hEanNGR3RDajRYMENIalRNRkszLXp1Z1BwRXRBNDd3VGIzZ1FBLWRXamlfem03bmVFSlBOdHJUdkpkZHRHYll0dTVGMnRFcTRVVDZTcw?oc=5",
+        "date": "2025-03-12",
+        "title": "Mexico's new finance chief pledges austerity while also boosting infrastructure - TradingView",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZjBZY1hWc0oxYldGcjl0UGtpQjlWMVp3QVlqLURhdkJvclpSTUZiUG5Obml6azlQYU4tdENuS2ZveHBWWFExcTVwaV9hYUxrQnZkU01iTFcwUXI0VFRhQzdpbE4zQzVWUk5sOEsta0RiZGQwN216QUJjbllubXNTZC1VU0NzZlU3U2VhdzFDOUZlRFlma2hEanNGR3RDajRYMENIalRNRkszLXp1Z1BwRXRBNDd3VGIzZ1FBLWRXamlfem03bmVFSlBOdHJUdkpkZHRHYll0dTVGMnRFcTRVVDZTcw?oc=5\" target=\"_blank\">Mexico's new finance chief pledges austerity while also boosting infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaklCcEpJRkszendha1JVa0ZTYmhnVDE4US1McEV3Z3FFZ3Bob3FLRTJFZ3dlbUlsajZIYkFvd09UaGhhTE1hbGtiWXJocVhQVlBJQTBPaHlwOUFKVGRzQnpVZjE3QVBqby1kempsZDA1QWVoYk0yR28xQUFfNmxUVU50bjM2NVlQQjlfWV9XSG9RMnE5RWxzMllRQTFvcTZfRWZlcGxsZmR5T3JSN3pYakJ6M25lSmVEWjZNb3NZSGFkTFZy?oc=5",
+        "date": "2025-03-12",
+        "title": "Baytex, Gibson enter Pembina Duvernay infrastructure, dedication agreement - Oil & Gas Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQaklCcEpJRkszendha1JVa0ZTYmhnVDE4US1McEV3Z3FFZ3Bob3FLRTJFZ3dlbUlsajZIYkFvd09UaGhhTE1hbGtiWXJocVhQVlBJQTBPaHlwOUFKVGRzQnpVZjE3QVBqby1kempsZDA1QWVoYk0yR28xQUFfNmxUVU50bjM2NVlQQjlfWV9XSG9RMnE5RWxzMllRQTFvcTZfRWZlcGxsZmR5T3JSN3pYakJ6M25lSmVEWjZNb3NZSGFkTFZy?oc=5\" target=\"_blank\">Baytex, Gibson enter Pembina Duvernay infrastructure, dedication agreement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oil & Gas Journal </font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFhTR0FRNUVPQWUwMXpYeHZNd0RwdTNuTElRTGg0M3EtQU8xcmV2NV9GR0dVaVI5VEthMFJQOUZMNHRfTVpnTTdPdml6WEFKZ0xKLXdLOTlGblQ2X2tnanBqZFJSRkhtc1pPdVQwNVg0bUFOQmxwaHRJVmhhSWVZS2wtTFhvckVTOXNlWW1n0gGTAUFVX3lxTE5fQ2ZqOC02RnR6eEdpTDlIMmFlQ2pBMFRtdF9GdUQwNk5TYjNfU19kTXFNZ0VXTE1DVEExX3R0bDRabWVXaHBGVVVtSzVkeTYxYnlrbzBzNzNfQTJkWFNiTk5fR3ZEWXVwczhQbWRSZV9fVjZLUkxzNFl1SnBPRk9XOHdpb015NEpiYzk1NmR3MVhPOA?oc=5",
+        "date": "2025-03-12",
+        "title": "Hyderabad Metro expansion Future City projects to boost urban growth T'gana Guv - The Week",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxONFhTR0FRNUVPQWUwMXpYeHZNd0RwdTNuTElRTGg0M3EtQU8xcmV2NV9GR0dVaVI5VEthMFJQOUZMNHRfTVpnTTdPdml6WEFKZ0xKLXdLOTlGblQ2X2tnanBqZFJSRkhtc1pPdVQwNVg0bUFOQmxwaHRJVmhhSWVZS2wtTFhvckVTOXNlWW1n0gGTAUFVX3lxTE5fQ2ZqOC02RnR6eEdpTDlIMmFlQ2pBMFRtdF9GdUQwNk5TYjNfU19kTXFNZ0VXTE1DVEExX3R0bDRabWVXaHBGVVVtSzVkeTYxYnlrbzBzNzNfQTJkWFNiTk5fR3ZEWXVwczhQbWRSZV9fVjZLUkxzNFl1SnBPRk9XOHdpb015NEpiYzk1NmR3MVhPOA?oc=5\" target=\"_blank\">Hyderabad Metro expansion Future City projects to boost urban growth T'gana Guv</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Week</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQkk1SkdQZ3NIa2NnTTM4N3RsVkNXc0JoeXhtd0Zvcmh6TmU4blpPNldyWUxmRll5Uy1jbEp1ZWVrQ0lsYXZmR3Nsclh1c0FXeEF3ZGJOQnViNHg5ZVAwOUowUEhSMVlVcnI5ZHZBcG5mYzROVGtKWklvaFRXTi1nX0FKSQ?oc=5",
+        "date": "2025-03-12",
+        "title": "Federal Under-staffing Spotlight: Housing and Urban Development - Revolving Door Project",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOQkk1SkdQZ3NIa2NnTTM4N3RsVkNXc0JoeXhtd0Zvcmh6TmU4blpPNldyWUxmRll5Uy1jbEp1ZWVrQ0lsYXZmR3Nsclh1c0FXeEF3ZGJOQnViNHg5ZVAwOUowUEhSMVlVcnI5ZHZBcG5mYzROVGtKWklvaFRXTi1nX0FKSQ?oc=5\" target=\"_blank\">Federal Under-staffing Spotlight: Housing and Urban Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Revolving Door Project</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQmdFOG5ET2tVaDJQM3phMTVoR01yZDRUUzFINWlPXzhwU21FQWM1WXFHU0s4cHdaMWRpUHdkc3B3VTI3aDFPX19kVjZQYmI5SXpWMmh1U0tWdUFqS0x4YTY1MENKV1I5MnFiUHFxYWFnRUpIV0xMalIzUVdYdjhXamlfQlRLR29lcmFIUw?oc=5",
+        "date": "2025-03-12",
+        "title": "Can HyperloopTT transform port logistics? - SmartCitiesWorld",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPQmdFOG5ET2tVaDJQM3phMTVoR01yZDRUUzFINWlPXzhwU21FQWM1WXFHU0s4cHdaMWRpUHdkc3B3VTI3aDFPX19kVjZQYmI5SXpWMmh1U0tWdUFqS0x4YTY1MENKV1I5MnFiUHFxYWFnRUpIV0xMalIzUVdYdjhXamlfQlRLR29lcmFIUw?oc=5\" target=\"_blank\">Can HyperloopTT transform port logistics?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SmartCitiesWorld</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.constructiondive.com/news/oracle-exec-signals-all-in-ai-agent-strategy-competition/742331/",
+        "date": "2025-03-12",
+        "title": "Oracle exec signals all-in AI agent strategy as competition heats up",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/11DlhIJ3sQYZ5N31MJBzAWEdbrx9-JwF0le8tMykouo/g:nowe:0:0/c:2893:1634/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDUyNzcwNjc2X0JlQ0FBcFAuanBn.webp\" /></div></figure><p>The software giant&nbsp;is among several enterprise software companies that have begun rolling out products leveraging the nascent technology.</p>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.constructiondive.com/news/agentic-ai-tech-buzzword-construction/742308/",
+        "date": "2025-03-12",
+        "title": "Agentic AI is the new tech buzzword. Here\u2019s what builders need to know.",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Wadl4zZDOyIHh-0B4117w7do_LQ0DUTq2N74XBoexKo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzMjcyNzg1X1d3bnZRelQuanBn.webp\" /></div></figure><p>The next step beyond generative AI, these applications can operate in a more autonomous fashion, but there&rsquo;s still room for improvement.</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
