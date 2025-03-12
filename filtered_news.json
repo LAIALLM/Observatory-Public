@@ -1232,5 +1232,12 @@
         "status": "posted",
         "tweet": "In 2025, Bitcoin's annual maintenance and security costs are projected to reach $1.5 billion, a 50% increase from 2024, highlighting the growing financial burden of securing the network.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-03-12",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin has the highest network scalability costs, followed by Ethereum and Solana.\n\n1. Bitcoin: $500M/year\n2. Ethereum: $200M/year\n3. Solana: $50M/year",
+        "type": "crypto"
     }
 ]
