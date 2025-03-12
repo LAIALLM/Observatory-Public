@@ -1716,5 +1716,56 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjSHRRS1R5VlZ2cUtEM3JMTEk0b05nQWc0dVI3QTJ5akxINDBEYkV6T0JOTkNaUlU0V2JrWDZ6SW1Cc3FpVzk5YmFMXzJ3Ukh2dlFXZHUtQkJaWlc0cTRpd0E3MHdFVHdLbXpmZlVfQ0o2cmc?oc=5",
+        "date": "2025-03-12",
+        "title": "U.S. Industries and Products That Rely on Aluminum and Steel - TIME",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBjSHRRS1R5VlZ2cUtEM3JMTEk0b05nQWc0dVI3QTJ5akxINDBEYkV6T0JOTkNaUlU0V2JrWDZ6SW1Cc3FpVzk5YmFMXzJ3Ukh2dlFXZHUtQkJaWlc0cTRpd0E3MHdFVHdLbXpmZlVfQ0o2cmc?oc=5\" target=\"_blank\">U.S. Industries and Products That Rely on Aluminum and Steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIME</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVpHWWhuWWQyWi1ra1ZQUTdBeDE3U3JXUUw5X3B0VXJrbUZfVlNLQ2M3LWlpNTVlSF8zZDFEeHF4Q0IweDU3Y2NkbjBhQldZT3pzUmNBVExiOWpwRF9wRDhYMG1qSWZtc08zZDZCVU1GeC1aaHYtRkU1eUxuSkp6M0xkelVlSVh2dmw2YXIzNllqNUhIUXBTMFlWWUdaWEs0MUFsNzl1RzYzbnFwZE9KYUtXQ2VGMVFtR1ZqUERnLUw1MktTU2FESERzSnE3NmM?oc=5",
+        "date": "2025-03-12",
+        "title": "Thane's Infrastructure Push: New metro access, road expansions, and freeway extension - Prop News Time",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVpHWWhuWWQyWi1ra1ZQUTdBeDE3U3JXUUw5X3B0VXJrbUZfVlNLQ2M3LWlpNTVlSF8zZDFEeHF4Q0IweDU3Y2NkbjBhQldZT3pzUmNBVExiOWpwRF9wRDhYMG1qSWZtc08zZDZCVU1GeC1aaHYtRkU1eUxuSkp6M0xkelVlSVh2dmw2YXIzNllqNUhIUXBTMFlWWUdaWEs0MUFsNzl1RzYzbnFwZE9KYUtXQ2VGMVFtR1ZqUERnLUw1MktTU2FESERzSnE3NmM?oc=5\" target=\"_blank\">Thane's Infrastructure Push: New metro access, road expansions, and freeway extension</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prop News Time</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Thanes infrastructure push includes new metro access, road expansions, and a freeway extension to enhance connectivity."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV2ZZc0RQS09IbkJVLXl1b2V2TDJlVjdqcGZDQlkxSDA3ekQtX0ZEMkQ1SVg5ZlVZUFdIeEVHMnNRZnd6aWRJY1pyOGZvd3U1Zk1FR0FUZ21rNTJxb3VWdUxtVnQxX2RMR216cjBZTjk4VUxPblY2bFhrcTJiSFFTX2FtX2dqRy1sRXltN2pyWnBhUUpING01MWlB?oc=5",
+        "date": "2025-03-12",
+        "title": "Ethernet's Open Ecosystem Unlocks the AI Infrastructure Supply Chain - AI Business",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOV2ZZc0RQS09IbkJVLXl1b2V2TDJlVjdqcGZDQlkxSDA3ekQtX0ZEMkQ1SVg5ZlVZUFdIeEVHMnNRZnd6aWRJY1pyOGZvd3U1Zk1FR0FUZ21rNTJxb3VWdUxtVnQxX2RMR216cjBZTjk4VUxPblY2bFhrcTJiSFFTX2FtX2dqRy1sRXltN2pyWnBhUUpING01MWlB?oc=5\" target=\"_blank\">Ethernet's Open Ecosystem Unlocks the AI Infrastructure Supply Chain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Business</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQb1FYeFJCZGpvc0ZmQ0x3VTloLWRxRDIweUxVSTFURG13aGMtcl9DWjEtY1BQdEV5Zlc4RjViXzRYaFJXZUlJckZDbjRmbXJVRXBiWjQxSlFaYkRBdmVaTXBTdXVsOG9sNTlsQWRjYW1GOGItWml1VVpwNmFFVmExd2tEYXFhY1RCR2dSdERkNTBEcldvU3NpamJZMWxHTVZtMjlpMWFpZE42alIyQXFrbnM1bEh6UGlENkM4RzM2T2dBQkpUZ1FTT1hFQ284VWptSDg2WWxhM2VrNXV5MkFqMGJ6QkRLYnRzSGQw0gHwAUFVX3lxTE5iVEg3Nk9sb1RMaUVGV2xEY0NBLUZuMXozemVjS1hSYW9oU0tUYi1zbTNtbEhFdkR6enFHS0hwa1hoMU9URGZQT3JWVTZkcmRCQmRyZDJYQzVnbzd1WmUzVVd2LURhZ1FiSHlpcEtmUFo0cDN0VjZ5ZzJzMEZqbmRNVDBZYlJjX1JDSjFRaVRCbEdmak0xbHUxZHZ0WlAyZWtLN0pwY0dCZ0dNR3RiMDFrMURUOXp2VTJYRm82WkpnZTBydVpzNWFCOVJGQ2JuX1lkckRITExCZ01mamYtNkp4QXl1OFQ4TVV5QjMta0VmRw?oc=5",
+        "date": "2025-03-12",
+        "title": "Smart City Networks and Henry B. Gonz\u00e1lez Convention Center Partner to Launch Cutting-Edge Wi-Fi 7 Network - EIN News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQb1FYeFJCZGpvc0ZmQ0x3VTloLWRxRDIweUxVSTFURG13aGMtcl9DWjEtY1BQdEV5Zlc4RjViXzRYaFJXZUlJckZDbjRmbXJVRXBiWjQxSlFaYkRBdmVaTXBTdXVsOG9sNTlsQWRjYW1GOGItWml1VVpwNmFFVmExd2tEYXFhY1RCR2dSdERkNTBEcldvU3NpamJZMWxHTVZtMjlpMWFpZE42alIyQXFrbnM1bEh6UGlENkM4RzM2T2dBQkpUZ1FTT1hFQ284VWptSDg2WWxhM2VrNXV5MkFqMGJ6QkRLYnRzSGQw0gHwAUFVX3lxTE5iVEg3Nk9sb1RMaUVGV2xEY0NBLUZuMXozemVjS1hSYW9oU0tUYi1zbTNtbEhFdkR6enFHS0hwa1hoMU9URGZQT3JWVTZkcmRCQmRyZDJYQzVnbzd1WmUzVVd2LURhZ1FiSHlpcEtmUFo0cDN0VjZ5ZzJzMEZqbmRNVDBZYlJjX1JDSjFRaVRCbEdmak0xbHUxZHZ0WlAyZWtLN0pwY0dCZ0dNR3RiMDFrMURUOXp2VTJYRm82WkpnZTBydVpzNWFCOVJGQ2JuX1lkckRITExCZ01mamYtNkp4QXl1OFQ4TVV5QjMta0VmRw?oc=5\" target=\"_blank\">Smart City Networks and Henry B. Gonz\u00e1lez Convention Center Partner to Launch Cutting-Edge Wi-Fi 7 Network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EIN News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVpHWWhuWWQyWi1ra1ZQUTdBeDE3U3JXUUw5X3B0VXJrbUZfVlNLQ2M3LWlpNTVlSF8zZDFEeHF4Q0IweDU3Y2NkbjBhQldZT3pzUmNBVExiOWpwRF9wRDhYMG1qSWZtc08zZDZCVU1GeC1aaHYtRkU1eUxuSkp6M0xkelVlSVh2dmw2YXIzNllqNUhIUXBTMFlWWUdaWEs0MUFsNzl1RzYzbnFwZE9KYUtXQ2VGMVFtR1ZqUERnLUw1MktTU2FESERzSnE3NmM?oc=5",
+        "date": "2025-03-12",
+        "title": "Thane's Infrastructure Push: New metro access, road expansions, and freeway extension - Prop News Time",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVpHWWhuWWQyWi1ra1ZQUTdBeDE3U3JXUUw5X3B0VXJrbUZfVlNLQ2M3LWlpNTVlSF8zZDFEeHF4Q0IweDU3Y2NkbjBhQldZT3pzUmNBVExiOWpwRF9wRDhYMG1qSWZtc08zZDZCVU1GeC1aaHYtRkU1eUxuSkp6M0xkelVlSVh2dmw2YXIzNllqNUhIUXBTMFlWWUdaWEs0MUFsNzl1RzYzbnFwZE9KYUtXQ2VGMVFtR1ZqUERnLUw1MktTU2FESERzSnE3NmM?oc=5\" target=\"_blank\">Thane's Infrastructure Push: New metro access, road expansions, and freeway extension</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prop News Time</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Thanes infrastructure push includes new metro access, road expansions, and a freeway extension.",
+        "type": "news"
     }
 ]
