@@ -1767,5 +1767,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Thanes infrastructure push includes new metro access, road expansions, and a freeway extension.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQVlQalJpeWNpdGo5SUJ0aEY5c3hCbEFzX1czMWlrWmhINXQ3RmQ4ckdoc1FJVUo2R2RQRV9pRXE3bkVuS0pob2RrckluQlY3TDRVa3pUZ0NEZmhWTUMtWG43end6VThWMG1BeG8xMGEyMnpReGFza0NRVFlUN2hJTnZYdV9NbThJNXBGWGdWcU9hRTc4UHdpVUNHVFJNdlRzcmhpbUU2MW51R3paZVE?oc=5",
+        "date": "2025-03-13",
+        "title": "AI-driven Digital Twins to transform infrastructure planning, says govt - Communications Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNQVlQalJpeWNpdGo5SUJ0aEY5c3hCbEFzX1czMWlrWmhINXQ3RmQ4ckdoc1FJVUo2R2RQRV9pRXE3bkVuS0pob2RrckluQlY3TDRVa3pUZ0NEZmhWTUMtWG43end6VThWMG1BeG8xMGEyMnpReGFza0NRVFlUN2hJTnZYdV9NbThJNXBGWGdWcU9hRTc4UHdpVUNHVFJNdlRzcmhpbUU2MW51R3paZVE?oc=5\" target=\"_blank\">AI-driven Digital Twins to transform infrastructure planning, says govt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications Today</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
