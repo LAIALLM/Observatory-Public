@@ -1777,5 +1777,19 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-03-13",
+        "status": "posted",
+        "tweet": "Summary: Solana has the highest validator decentralization, followed by Ethereum and Bitcoin.\n\n1. Solana: 1,874 validators across 20 countries\n2. Ethereum: 460,000 validators across 80 countries\n3. Bitcoin: 10,000 nodes across 90 countries",
+        "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-03-13",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n\nClean energy usage in 2019: 100% \n\nSource: Apple's Environmental Responsibility Report.\n\nStock: $AAPL.",
+        "type": "infrastructure"
     }
 ]
