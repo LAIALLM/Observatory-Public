@@ -2129,5 +2129,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-03-14",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \nEnergy consumption: \nSolar energy used: 75% \nTotal energy from renewables: 96% \nData centers running on 100% renewable energy. \nElectricity savings due to energy-efficiency enhancements (2019-2020): 3.9 million kWh. \n$AAPL",
+        "type": "infrastructure"
     }
 ]
