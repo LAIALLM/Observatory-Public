@@ -2071,5 +2071,13 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin has the highest cost per transaction among the three, while Solana offers the best value in terms of throughput and cost.\n\n1. Bitcoin: $1.92 per transaction, 7 transactions per second\n2. Ethereum: $0.36 per transaction, 30 transactions per second\n3. Solana: $0.00",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-03-14",
+        "status": "posted",
+        "tweet": "Summary: Top 5 countries with most construction projects by 2025.\n\n\ud83c\udde8\ud83c\uddf3 China\n\ud83c\uddfa\ud83c\uddf8 United States\n\ud83c\uddee\ud83c\uddf3 India\n\ud83c\uddef\ud83c\uddf5 Japan\n\ud83c\uddec\ud83c\udde7 United Kingdom",
+        "type": "statistical",
+        "category": "construction projects"
     }
 ]
