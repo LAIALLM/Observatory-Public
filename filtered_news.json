@@ -2064,5 +2064,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Gujarat government unveils two new expressways worth Rs 96,240 crore to enhance infrastructure and connectivity.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-03-14",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin has the highest cost per transaction among the three, while Solana offers the best value in terms of throughput and cost.\n\n1. Bitcoin: $1.92 per transaction, 7 transactions per second\n2. Ethereum: $0.36 per transaction, 30 transactions per second\n3. Solana: $0.00",
+        "type": "crypto"
     }
 ]
