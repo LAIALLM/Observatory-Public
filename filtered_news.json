@@ -2391,5 +2391,15 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMkM4amxsazZiSTZSWkZZSDF6ZGw1QXJRM2I5djdiclZkV0ZtTUtObHU2bFFHWXRpakR2UG4yYWh1UVJmeU1BeDBMQ3g3QWw2dGpLb2hYTEw4bG11Rl9EOXJBVThLSGhkZkFqQTdNYjBqWi02ZTNuRUxiMmxMcV9WeGV4d3E1bFRRdUVRclpkSER0NWFLRWo2Q2hTcjcwWWM0eE1yNk1hYW1IZzY0bVRzNHZfQUFBNnlGVi1IbjlablpsS19mekZISVhwRlNSN0EtYUFrUVF0Z290cVR4R0pJNEJuS3A5NXVscU9WZHJKZw?oc=5",
+        "date": "2025-03-15",
+        "title": "Forging a path to success - The Cairns Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMkM4amxsazZiSTZSWkZZSDF6ZGw1QXJRM2I5djdiclZkV0ZtTUtObHU2bFFHWXRpakR2UG4yYWh1UVJmeU1BeDBMQ3g3QWw2dGpLb2hYTEw4bG11Rl9EOXJBVThLSGhkZkFqQTdNYjBqWi02ZTNuRUxiMmxMcV9WeGV4d3E1bFRRdUVRclpkSER0NWFLRWo2Q2hTcjcwWWM0eE1yNk1hYW1IZzY0bVRzNHZfQUFBNnlGVi1IbjlablpsS19mekZISVhwRlNSN0EtYUFrUVF0Z290cVR4R0pJNEJuS3A5NXVscU9WZHJKZw?oc=5\" target=\"_blank\">Forging a path to success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cairns Post</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
