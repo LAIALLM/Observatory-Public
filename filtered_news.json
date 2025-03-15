@@ -2207,5 +2207,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Meerut set for major infrastructure boost with rapid metro, new highways, and township in coming months.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-03-15",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York City: \nBy 2030, population is projected to reach 9.5 Million. To accommodate, the city's urban area must expand, on average, by a staggering 85 acres per day starting today. Let's breathe life into sustainable, efficient urban planning! Time waits for no city.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
