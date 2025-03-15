@@ -2215,5 +2215,39 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 New York City: \nBy 2030, population is projected to reach 9.5 Million. To accommodate, the city's urban area must expand, on average, by a staggering 85 acres per day starting today. Let's breathe life into sustainable, efficient urban planning! Time waits for no city.",
         "type": "statistical",
         "category": "urban planning"
+    },
+    {
+        "link": null,
+        "date": "2025-03-15",
+        "status": "posted",
+        "tweet": "Bitcoin's annual cloud and data center usage in 2025 is projected to consume 15.4 TWh of electricity, equivalent to the annual power consumption of \ud83c\uddf8\ud83c\uddea Sweden.",
+        "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-03-15",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. produced and shipped 217 million iPhones globally in 2018. Source: Statista. $AAPL",
+        "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbkI0QWRuOHV3dmJadHJFSWpFRlQwSUhmMEtrV1VBVXJPVjFjTFZEYk9KVXVYckZiekc1M3dWVkllWXpsbHROaDAxWjdENXFIU3U4Ui1NalJ3UEtxZ0lWQlprVmZlc0ZwVEdLdWR5eDBvOXpSVXozRzRZRHJMemRkMllFamRjd2lYdWVOVlVWZTFscENPZU1BUWJxalE2dE9ISGhaU2hNa3poMXotNU5FSHhHcE9INXdjTWFKOXlNeTdRQmhCeTBJUjVEQkdxWUNqS3BhUEd1bmvSAeYBQVVfeXFMTzduWGlTT1drQjZ3cFBxekZjOWRra3RuZ3pRYU91djdkQ3FUU1prdHBtQTZ1VTVGb2JjRUxPWmtBdTlWLUhTT3RXMjhxQzFvNU5YMm43MGJnYVJtb3lkQ0hGaHFYbzhPLXh2OG1LbmtFVzgzVy1DM2RJdkZremZndlZ0a2VHRzM1d3NKeTFJZThmenZVSTk2MkpOREZXYWd3Tkw0RmdoYVpZLU9QaTZGS2hyQkV1dklGX25vLWtDWGZBaUZqcUI0LTVGT3J3OFhTaFV1eWY0bjBYQUpfRnhXaGtSMkhNMVE?oc=5",
+        "date": "2025-03-15",
+        "title": "Bapatla district set to become major tourism hub with infrastructure boost - The New Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbkI0QWRuOHV3dmJadHJFSWpFRlQwSUhmMEtrV1VBVXJPVjFjTFZEYk9KVXVYckZiekc1M3dWVkllWXpsbHROaDAxWjdENXFIU3U4Ui1NalJ3UEtxZ0lWQlprVmZlc0ZwVEdLdWR5eDBvOXpSVXozRzRZRHJMemRkMllFamRjd2lYdWVOVlVWZTFscENPZU1BUWJxalE2dE9ISGhaU2hNa3poMXotNU5FSHhHcE9INXdjTWFKOXlNeTdRQmhCeTBJUjVEQkdxWUNqS3BhUEd1bmvSAeYBQVVfeXFMTzduWGlTT1drQjZ3cFBxekZjOWRra3RuZ3pRYU91djdkQ3FUU1prdHBtQTZ1VTVGb2JjRUxPWmtBdTlWLUhTT3RXMjhxQzFvNU5YMm43MGJnYVJtb3lkQ0hGaHFYbzhPLXh2OG1LbmtFVzgzVy1DM2RJdkZremZndlZ0a2VHRzM1d3NKeTFJZThmenZVSTk2MkpOREZXYWd3Tkw0RmdoYVpZLU9QaTZGS2hyQkV1dklGX25vLWtDWGZBaUZqcUI0LTVGT3J3OFhTaFV1eWY0bjBYQUpfRnhXaGtSMkhNMVE?oc=5\" target=\"_blank\">Bapatla district set to become major tourism hub with infrastructure boost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jU0wwX2NwRktDQk16UUV0eXVQN1hVVjJKQ0NIWlBvXzRHV2loaTc3WEkyTkl3S2wybC12Z2RsV0c4S1dMXzhhRk5sS1dfdlVyVUVlaVNDZlRGbW0yU0Fn?oc=5",
+        "date": "2025-03-15",
+        "title": "A systematic framework to reduce urban embodied carbon emissions using urban scale simulation - Nature.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jU0wwX2NwRktDQk16UUV0eXVQN1hVVjJKQ0NIWlBvXzRHV2loaTc3WEkyTkl3S2wybC12Z2RsV0c4S1dMXzhhRk5sS1dfdlVyVUVlaVNDZlRGbW0yU0Fn?oc=5\" target=\"_blank\">A systematic framework to reduce urban embodied carbon emissions using urban scale simulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
