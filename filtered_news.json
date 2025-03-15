@@ -2401,5 +2401,25 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmFpV0dVUG5wRTFXLXdPd2ZOOXMyd0VuTld3b2lOeGk1Q0JaalI1czBsTVlEVjFTQ1FqeVk5dmk1U194MWtjLVY3dWhLTlVnSC1ab2g0SHVtdU12czdiajN4Ml91ZEFRZFZpM0JIX3JvTUczOWt1Z3VCNVcyVU85Q1BZbTFmaE9ULVRDbXNJRkU1WnJsWnlfWg?oc=5",
+        "date": "2025-03-15",
+        "title": "Adequate infrastructure, resources in all health institutions: Itoo - Brighter Kashmir",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmFpV0dVUG5wRTFXLXdPd2ZOOXMyd0VuTld3b2lOeGk1Q0JaalI1czBsTVlEVjFTQ1FqeVk5dmk1U194MWtjLVY3dWhLTlVnSC1ab2g0SHVtdU12czdiajN4Ml91ZEFRZFZpM0JIX3JvTUczOWt1Z3VCNVcyVU85Q1BZbTFmaE9ULVRDbXNJRkU1WnJsWnlfWg?oc=5\" target=\"_blank\">Adequate infrastructure, resources in all health institutions: Itoo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brighter Kashmir</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTDM4UW43eWVpNWR0RzdaZ3ROOTlWZkZIZHgwek1DTThWMzJRelVWYTBqWjA1N2hOUFhra050RWJOc3U3c2NIeFphM3A4RFFpYjk5ZWNLSTBTUGVmY3hNOHBpa2NhSmxJTXlabzZFOHFSdUlYNU5hVHBnWDhGSnhWSk5GOWRFd29DeWZ0aTE0UmlWNjRjWGJjTkNUajZpaUtvZjRUSGxoSTd4QQ?oc=5",
+        "date": "2025-03-15",
+        "title": "Infrastructure Investment at the Border\u2014Progress, Bottlenecks, and Solutions - Marco Lopez",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTDM4UW43eWVpNWR0RzdaZ3ROOTlWZkZIZHgwek1DTThWMzJRelVWYTBqWjA1N2hOUFhra050RWJOc3U3c2NIeFphM3A4RFFpYjk5ZWNLSTBTUGVmY3hNOHBpa2NhSmxJTXlabzZFOHFSdUlYNU5hVHBnWDhGSnhWSk5GOWRFd29DeWZ0aTE0UmlWNjRjWGJjTkNUajZpaUtvZjRUSGxoSTd4QQ?oc=5\" target=\"_blank\">Infrastructure Investment at the Border\u2014Progress, Bottlenecks, and Solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marco Lopez</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
