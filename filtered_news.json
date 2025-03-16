@@ -2428,5 +2428,12 @@
         "status": "posted",
         "tweet": "In 2025, Bitcoin's network scalability costs reached $1.2 billion annually, significantly higher than Ethereum's $300 million. \n\nBitcoin's transaction capacity remains at 7 tps, while Ethereum processes 30 tps.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-03-16",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL: \n\nQ3, 2021 data: \n\n- Revenue: $81.43 billion, YoY increase of 36.4% \n- iPhone revenue: $39.57 billion  \n- 2.2 million apps available on App Store \n\nUpgraded energy efficiency: \n- 75.7% of total power from renewables.",
+        "type": "infrastructure"
     }
 ]
