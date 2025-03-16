@@ -2463,5 +2463,25 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMGVJZUc1WXFOSlEtbTJXdHJPelVDQ3A3UU1GQVFlY1BwSTUtNU83QmZLQnpFVDhfeUZxOXhrRk5NNWtDaldlMEdvclJodjBPVXl6bzlCN2pXZzZaUkNvcDdUeEVMODZEN1hKOGlZeGZzY0oyX2ZDVFBjTnFsclFxNFhTU2tOWC1UcDh1enBvZk9ldFlBTjhMYVpLOWE5V0tfNFR4dE9rSkhhTFlm?oc=5",
+        "date": "2025-03-16",
+        "title": "More Motorists Key Into CNG Conversion, Task FG On Availability, Infrastructure - News Agency of Nigeria",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNMGVJZUc1WXFOSlEtbTJXdHJPelVDQ3A3UU1GQVFlY1BwSTUtNU83QmZLQnpFVDhfeUZxOXhrRk5NNWtDaldlMEdvclJodjBPVXl6bzlCN2pXZzZaUkNvcDdUeEVMODZEN1hKOGlZeGZzY0oyX2ZDVFBjTnFsclFxNFhTU2tOWC1UcDh1enBvZk9ldFlBTjhMYVpLOWE5V0tfNFR4dE9rSkhhTFlm?oc=5\" target=\"_blank\">More Motorists Key Into CNG Conversion, Task FG On Availability, Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News Agency of Nigeria</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9reUNFNmJ5d2JUbW5KMVlUc3Vvek82Sm1CMGtIYlc0YTZUdUZYWXZkX0NsSTlVLVh4OHFSZDFERi01X2tpeDYxQXNyWWk4Rk5JWVBZRDNoYUs0bWNwN29PYWhHT0hjRWVnUE9OOHRJRQ?oc=5",
+        "date": "2025-03-16",
+        "title": "\u3010venlo x\u3011 Portugu\u00eas - Ag\u00eancia Bras\u00edlia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9reUNFNmJ5d2JUbW5KMVlUc3Vvek82Sm1CMGtIYlc0YTZUdUZYWXZkX0NsSTlVLVh4OHFSZDFERi01X2tpeDYxQXNyWWk4Rk5JWVBZRDNoYUs0bWNwN29PYWhHT0hjRWVnUE9OOHRJRQ?oc=5\" target=\"_blank\">\u3010venlo x\u3011 Portugu\u00eas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ag\u00eancia Bras\u00edlia</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
