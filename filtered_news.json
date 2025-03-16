@@ -2445,5 +2445,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-03-16",
+        "status": "posted",
+        "tweet": "Summary: Top 5 cities for tech startups in 2025.\n\n\ud83c\uddfa\ud83c\uddf8 San Francisco \n\ud83c\udde8\ud83c\uddf3 Shanghai \n\ud83c\uddee\ud83c\uddf3 Mumbai \n\ud83c\uddec\ud83c\udde7 London \n\ud83c\udde9\ud83c\uddea Berlin",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
