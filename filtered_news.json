@@ -2395,5 +2395,19 @@
         "tweet": "\ud83c\udf0e Global urban development firms are experiencing rapid growth in 2025, with an 8% rise in projects compared to 2024. \ud83c\udde8\ud83c\uddf3 China's firms lead the pack with an impressive 38% of all new projects, leaving \ud83c\uddfa\ud83c\uddf8 U.S. firms in second place, accounting for 22% of developments.",
         "type": "statistical",
         "category": "urban development firms"
+    },
+    {
+        "link": null,
+        "date": "2025-03-17",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. ($AAPL) deploys 100% renewable energy across all its datacenters globally.\nData volume processed: 12.9oz petabytes/day. \nPower usage effectiveness (PUE): 1.08. \nEnergy Use Intensity (EUI): 130 kWh/sq. ft./year.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-03-17",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin's annual infrastructural costs have risen most sharply, followed by Ethereum and Solana.\n\n1. Bitcoin: Costs increased from $1.5B in 2020 to $4.5B in 2024.\n2. Ethereum: Costs rose from $500M in 2020 to $1.2B in 2024.\n3. Solana: Costs grew from $100M in 2020 to $30",
+        "type": "crypto"
     }
 ]
