@@ -2894,5 +2894,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf8\ud83c\udde6 NEWS: Saudi Crown Prince unveils architecture map to guide future urban development in the kingdom, focusing on sustainable growth.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-03-18",
+        "status": "posted",
+        "tweet": "\ud83c\udf10 By 2030, the global Internet of Things in construction industry market is projected to reach $35.8 billion, with \ud83c\udde8\ud83c\uddf3China, \ud83c\uddfa\ud83c\uddf8USA, and \ud83c\uddee\ud83c\uddf3India pegged as major growth contributors. \n\nWhat an immense potential for engineering projects!",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
