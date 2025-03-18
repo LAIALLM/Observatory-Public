@@ -2695,5 +2695,12 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin has the highest hardware costs, followed by Ethereum and Solana.\n\n1. Bitcoin: $10.8 billion annually\n2. Ethereum: $3.2 billion annually\n3. Solana: $0.5 billion annually",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-03-18",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple: Q3 Energy Consumption Down \ud83c\udf43\n\n\u26a1\ufe0f 1.8 Million MWh\n\u2b07\ufe0f 5% from Q2\n\ud83d\udd04 33% Renewables\n\nMarket Impact:\n$AAPL +0.8% pre-market.",
+        "type": "infrastructure"
     }
 ]
