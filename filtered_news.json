@@ -3012,5 +3012,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-03-19",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.\nPowering green for a better tomorrow.\n2020 renewable energy consumption: 100%.\nSustainability report shows 74.6% decrease in comprehensive carbon footprint since 2015.\n\ud83c\udf4f $AAPL continues to set an example in tech industry sustainability initiatives.",
+        "type": "infrastructure"
     }
 ]
