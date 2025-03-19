@@ -2955,5 +2955,12 @@
         "tweet": "Summary: Top 5 countries investing the most in urban planning by 2025.\n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddfa\ud83c\uddf8 USA\n3. \ud83c\udde6\ud83c\uddea UAE\n4. \ud83c\uddef\ud83c\uddf5 Japan\n5. \ud83c\udde9\ud83c\uddea Germany\n\nProjections indicate immense strides in sustainable urban development, with China leading the pack. Spread of smart cities gains pace in 2025.",
         "type": "statistical",
         "category": "urban planning"
+    },
+    {
+        "link": null,
+        "date": "2025-03-19",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China hosts over 65% of Bitcoin's mining capacity, highlighting significant geographic concentration in the network's energy consumption and infrastructure costs.",
+        "type": "crypto"
     }
 ]
