@@ -2776,5 +2776,12 @@
         "status": "posted",
         "tweet": "Bitcoin's annual carbon footprint is estimated at 22 to 22.9 million metric tons of CO2, comparable to the yearly emissions of \ud83c\uddf3\ud83c\uddff New Zealand.\n\nEthereum, post-merge, has reduced its footprint to about 2.73 million metric tons of CO2 annually, similar to \ud83c\uddf1\ud83c\uddf0 Sri Lanka's emissions.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-03-20",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. Q2 Report:\n- iPhone Sales: 47.9 million units \ud83d\udcf1\n- iPad Sales: 11.7 million units \ud83d\udcf1\n- Mac Sales: 5.7 million units \ud83d\udcbb\n\n$AAPL Market Cap: $2.07 trillion \ud83d\udcb0",
+        "type": "infrastructure"
     }
 ]
