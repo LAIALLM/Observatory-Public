@@ -2769,5 +2769,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-03-20",
+        "status": "posted",
+        "tweet": "Bitcoin's annual carbon footprint is estimated at 22 to 22.9 million metric tons of CO2, comparable to the yearly emissions of \ud83c\uddf3\ud83c\uddff New Zealand.\n\nEthereum, post-merge, has reduced its footprint to about 2.73 million metric tons of CO2 annually, similar to \ud83c\uddf1\ud83c\uddf0 Sri Lanka's emissions.",
+        "type": "crypto"
     }
 ]
