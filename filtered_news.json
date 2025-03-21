@@ -2762,5 +2762,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Over 1100 infrastructure projects approved, benefiting more than 5 lakh farmers.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-03-21",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d UN projects that by 2050, 68% of the global population will live in urban areas. That's around 6.7 billion people. \n\nIn comparison, only 30% of the world's population lived in cities in 1950.",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
