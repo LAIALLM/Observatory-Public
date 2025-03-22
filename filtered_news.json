@@ -2737,5 +2737,25 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT1R3eVVxREVEMjNtUDdaeHN0YWRXeW5KWHIyUXhMRFBrb01nWGl2MFphSzc2eDJySkpnUm5EWHFZdURzdWlrdDctMUZ3THpVakQwNE5PVkRXOVNtOE5pbXR0YXVNZm42bDBvUlRMSWVvUEsxTVN6MXlmdFdfQ0kxRHAyVndWQQ?oc=5",
+        "date": "2025-03-22",
+        "title": "Brookfield Infrastructure Exits U.S. Gas Pipeline - Nasdaq",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNT1R3eVVxREVEMjNtUDdaeHN0YWRXeW5KWHIyUXhMRFBrb01nWGl2MFphSzc2eDJySkpnUm5EWHFZdURzdWlrdDctMUZ3THpVakQwNE5PVkRXOVNtOE5pbXR0YXVNZm42bDBvUlRMSWVvUEsxTVN6MXlmdFdfQ0kxRHAyVndWQQ?oc=5\" target=\"_blank\">Brookfield Infrastructure Exits U.S. Gas Pipeline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGtNUm5GNDJXV0RZUGp4TWlIcFVzbmxkSHpmdTctWTkxd0Q2NW5EWWhzeDE4Zng4cGNjdlUyT2pvNWVWWEp5bzNOcTNoSUV1MXBRZjNYR1doVEpaZ3RDaDFYU3VIMU5iRHVNUWlCVV84ZF8teUVmOTB5bHRkeXlSX202Vnl6ZzdCR2lvbnNRQnlTYmFNZWtQaVhGZUZ5c2hRT3hvSXYwYkIxd0lfMWJDVzRLOA?oc=5",
+        "date": "2025-03-22",
+        "title": "Belagavi Bags Prestigious \"Best City Leader of the Year\" Award at Smart City Expo 2025 - Belagavi infra",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGtNUm5GNDJXV0RZUGp4TWlIcFVzbmxkSHpmdTctWTkxd0Q2NW5EWWhzeDE4Zng4cGNjdlUyT2pvNWVWWEp5bzNOcTNoSUV1MXBRZjNYR1doVEpaZ3RDaDFYU3VIMU5iRHVNUWlCVV84ZF8teUVmOTB5bHRkeXlSX202Vnl6ZzdCR2lvbnNRQnlTYmFNZWtQaVhGZUZ5c2hRT3hvSXYwYkIxd0lfMWJDVzRLOA?oc=5\" target=\"_blank\">Belagavi Bags Prestigious \"Best City Leader of the Year\" Award at Smart City Expo 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Belagavi infra</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
