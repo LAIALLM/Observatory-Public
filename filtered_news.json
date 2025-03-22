@@ -2581,5 +2581,20 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Google's server farms currently consume 260 million watts of power - roughly equivalent to the energy of 200,000 homes. \nDaily active users for Google products now surpass 1 billion.\n\n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-03-22",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 USA: Projected EV sales will surpass gas-powered car sales by 2030, with a CAGR of 22.6%. \ud83d\ude97\u26a1\ufe0f\n  \n\ud83c\udde8\ud83c\uddf3 China: Retains lead in EV market share, predicted to reach 50% of global sales by 2025. \ud83c\udf0d\ud83d\udd0b\n  \nTransportation trends: \u26a1\ufe0foutpacing\ud83d\ude97!!!",
+        "type": "statistical",
+        "category": "transportation"
+    },
+    {
+        "link": null,
+        "date": "2025-03-22",
+        "status": "posted",
+        "tweet": "Bitcoin processes 7 transactions per second at an estimated cost of $175,000 per hour.\n\nEthereum handles 30 transactions per second, costing around $75,000 hourly.\n\nHigher throughput at lower cost for Ethereum.",
+        "type": "crypto"
     }
 ]
