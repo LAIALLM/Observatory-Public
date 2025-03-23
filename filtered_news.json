@@ -2829,5 +2829,25 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb1F3aHZKeWRtXzkwbGY5MURBRjNXNmpQdkdqam9HYWdTc0RlQ3NiZEZXazFCRFBxVF9qa0lFNzJIODNlNTNweGFLa1FOeFZzOTJxQU9GcmN3MnhyZERWUkdaUmdiZ1UtOFY3alJfbXBGbUhFSGx3ZEllaDREN2NhV0tsR0VsMDdfUVdLRFoxQmZHTDBrRTlGTGNVdlBYdDRDWEFxMVFYa3ZUTW5aVW9uY3U3b3NaV2ktdk1lNVNILWczWFBNdVZzZjFrb1NzYm0zaEJFMmpOM3A?oc=5",
+        "date": "2025-03-23",
+        "title": "Construction industry apprenticeship programs focus of Carson City Rotary meeting Tuesday, public invited - Carson Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb1F3aHZKeWRtXzkwbGY5MURBRjNXNmpQdkdqam9HYWdTc0RlQ3NiZEZXazFCRFBxVF9qa0lFNzJIODNlNTNweGFLa1FOeFZzOTJxQU9GcmN3MnhyZERWUkdaUmdiZ1UtOFY3alJfbXBGbUhFSGx3ZEllaDREN2NhV0tsR0VsMDdfUVdLRFoxQmZHTDBrRTlGTGNVdlBYdDRDWEFxMVFYa3ZUTW5aVW9uY3U3b3NaV2ktdk1lNVNILWczWFBNdVZzZjFrb1NzYm0zaEJFMmpOM3A?oc=5\" target=\"_blank\">Construction industry apprenticeship programs focus of Carson City Rotary meeting Tuesday, public invited</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carson Now</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3NDU3V3SUl4TUpZSmk2c1hRT1VISXdKb0NPZEZNSGVtWXZodVlJelI1ZjloNHNkX2NzLXNhRFhMQnBFMWJPU05zR3dubHIxZGp2VzhIYk9kZ0ttRlZnTXlKZHA1TXpyM0ltdHo3OXVsS2JNZ2h2RFhfUWt4S2owdnlxc3ozOGU4Nm9LVHFjTWJFSUNiNTBr?oc=5",
+        "date": "2025-03-23",
+        "title": "3 Essential AI Infrastructure Stocks to Buy Right Now - The Motley Fool",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3NDU3V3SUl4TUpZSmk2c1hRT1VISXdKb0NPZEZNSGVtWXZodVlJelI1ZjloNHNkX2NzLXNhRFhMQnBFMWJPU05zR3dubHIxZGp2VzhIYk9kZ0ttRlZnTXlKZHA1TXpyM0ltdHo3OXVsS2JNZ2h2RFhfUWt4S2owdnlxc3ozOGU4Nm9LVHFjTWJFSUNiNTBr?oc=5\" target=\"_blank\">3 Essential AI Infrastructure Stocks to Buy Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
