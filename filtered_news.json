@@ -2849,5 +2849,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-03-23",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global urban development firms are rapidly expanding. According to 2025 estimates:\n \n\ud83c\uddfa\ud83c\uddf8 U.S firms will invest $1.5 trillion in new projects, a 10% increase since 2023 \n\ud83c\udde8\ud83c\uddf3 Chinese firms are aiming higher with projected $2 trillion investments, up by 15% over the same period.",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
