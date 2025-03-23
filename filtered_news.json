@@ -2769,5 +2769,55 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNDRCSkViM0FhZlZNejlKdjcxaVNkZFRkWnVCdGtIV21WRXlaTDIzbXJYMDdKZ3EybjgxQmtnWUwwUld2a2FfM3VtODhSakdJV0JiTUY5QkdwUExMQ3JIS2dJLWlaZ1F4c2lCX0N4NDU0ZExMcldVczNCeUcyTHZEZUdFSUliVURGYTJja1FGMDRyd3FpaGZBUXRReGJpSVRJSTBrTQ?oc=5",
+        "date": "2025-03-23",
+        "title": "Assam CM reviews Rs 300 crore infrastructure overhaul at Assam Medical College - Syllad",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQNDRCSkViM0FhZlZNejlKdjcxaVNkZFRkWnVCdGtIV21WRXlaTDIzbXJYMDdKZ3EybjgxQmtnWUwwUld2a2FfM3VtODhSakdJV0JiTUY5QkdwUExMQ3JIS2dJLWlaZ1F4c2lCX0N4NDU0ZExMcldVczNCeUcyTHZEZUdFSUliVURGYTJja1FGMDRyd3FpaGZBUXRReGJpSVRJSTBrTQ?oc=5\" target=\"_blank\">Assam CM reviews Rs 300 crore infrastructure overhaul at Assam Medical College</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syllad</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2MVNBQklNdVBZaWdSYTYyWWpfeEVKYWlRbWJJOTRCRnNNZEkzelRWUUtQOGQ0RWVJdkNLRWRSLXJESE56MGNqZ3dxdi1ybnNKOGRIV3RQTkRGcXVzSWR1ZV95cXU5OW11Z0IxLVVYZGEzdVJxWE1DRVJhZ25TS0k?oc=5",
+        "date": "2025-03-23",
+        "title": "CM reviews Infrastructure Development Project of AMCH - NKTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA2MVNBQklNdVBZaWdSYTYyWWpfeEVKYWlRbWJJOTRCRnNNZEkzelRWUUtQOGQ0RWVJdkNLRWRSLXJESE56MGNqZ3dxdi1ybnNKOGRIV3RQTkRGcXVzSWR1ZV95cXU5OW11Z0IxLVVYZGEzdVJxWE1DRVJhZ25TS0k?oc=5\" target=\"_blank\">CM reviews Infrastructure Development Project of AMCH</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NKTV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VRmpvTEpRWEM0RjFxX0NNd25MeElDTjBLbkQ0a2hfTmhiUVlXSjFJTFFDWFFJR2xYZWNzVUsxUmM2aUl3aGNCX1R2Wm5JUEY5bUlBR0kzeTlHTjYyUTctODd6WQ?oc=5",
+        "date": "2025-03-23",
+        "title": "Union Minister Shri Manohar Lal Reviews Progress of Urban Development on his visit to Odisha - PIB",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VRmpvTEpRWEM0RjFxX0NNd25MeElDTjBLbkQ0a2hfTmhiUVlXSjFJTFFDWFFJR2xYZWNzVUsxUmM2aUl3aGNCX1R2Wm5JUEY5bUlBR0kzeTlHTjYyUTctODd6WQ?oc=5\" target=\"_blank\">Union Minister Shri Manohar Lal Reviews Progress of Urban Development on his visit to Odisha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PIB</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUmN6OUdCZGc5YlREanRTUVNCb1Z2VE9jSVU3c25ZaExOQTJiUlNnS3JmdDdZYnNTWFBWdEF2Q045eTh1ejRZdjBuZThwX3pMMFprYXJjV0o5NU5iYXI1TlVmOGZWbWthQXlyN1JxMTBiMTU4ZUZtQkFQcmhZR0l6Ylp6cjdJLXFJOXYwcDFLc0ZpblhGOUZHMkpaUThCTC1wa2R1VWJiZTVaU3hFdnlyUV8tOXdHS3lIaXpZREdoWmxqT2N1MklqcGhMRDlmbjU1dUZ5aEJrUXpjSG9CSlFKeVVaRjRtYjZRLW54N01ERGJEeVpUZWVqaVZnN1kwRTQwTXhn?oc=5",
+        "date": "2025-03-23",
+        "title": "Odisha : CM Mohan Charan Majhi meets Union Minister Manohar Lal Khattar ,discusses urban development initiatives - ANI News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPUmN6OUdCZGc5YlREanRTUVNCb1Z2VE9jSVU3c25ZaExOQTJiUlNnS3JmdDdZYnNTWFBWdEF2Q045eTh1ejRZdjBuZThwX3pMMFprYXJjV0o5NU5iYXI1TlVmOGZWbWthQXlyN1JxMTBiMTU4ZUZtQkFQcmhZR0l6Ylp6cjdJLXFJOXYwcDFLc0ZpblhGOUZHMkpaUThCTC1wa2R1VWJiZTVaU3hFdnlyUV8tOXdHS3lIaXpZREdoWmxqT2N1MklqcGhMRDlmbjU1dUZ5aEJrUXpjSG9CSlFKeVVaRjRtYjZRLW54N01ERGJEeVpUZWVqaVZnN1kwRTQwTXhn?oc=5\" target=\"_blank\">Odisha : CM Mohan Charan Majhi meets Union Minister Manohar Lal Khattar ,discusses urban development initiatives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/60488-white-house-order-shifts-emergency-response-role-from-fema-to-states",
+        "date": "2025-03-23",
+        "title": "White House Order Shifts Emergency Response Role from FEMA to States",
+        "summary": "<p>March 18 order follows layoffs of more than 200 Federal Emergency Management Agency employees and a Jan. 24 order <a href=\"https://www.whitehouse.gov/presidential-actions/2025/01/council-to-assess-the-federal-emergency-management-agency/\" rel=\"noopener noreferrer\" target=\"_blank\"></a>for a task force review of agency disaster response efficiency.&nbsp;</p><br />",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
