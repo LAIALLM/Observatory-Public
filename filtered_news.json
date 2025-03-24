@@ -2824,5 +2824,32 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: Federal government invests $32.5 million to map rail corridors, protecting the South West Sydney Rail extension.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-03-24",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin's annual electricity consumption exceeds that of Ethereum and Solana combined.\n\n1. Bitcoin: 121 TWh/year, surpassing \ud83c\uddfa\ud83c\udde6 Ukraine's total\n2. Ethereum: 23 TWh/year, similar to \ud83c\uddf1\ud83c\uddf0 Sri Lanka's\n3. Solana: 0.5 TWh/year, comparable to \ud83c\uddec\ud83c\udde9 Grenada's",
+        "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRVdaTUhZNmtGZjlXYTI0b1FudnRqM0tHUHEzd0tYdFhXRC1Pd3RoSmlSUjMzUVJjOHJsZ2NYTElBZ1YtbUxoenE2LWVBaVRvQ3pTdFRKdkgwRkpVa0FMNEI4SDJqbUFSVjRGeGxweHJ6b2poRW1BYzBhWmdCSW9VdXJKVkRfdWdBV1NiRThCR1lUQ1ZRYXNGekZtek8taXBzZUFQeHNma0VmQms?oc=5",
+        "date": "2025-03-24",
+        "title": "Poor infrastructure creates \u2018Village of Bachelors\u2019 in Karnataka - News Karnataka",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRVdaTUhZNmtGZjlXYTI0b1FudnRqM0tHUHEzd0tYdFhXRC1Pd3RoSmlSUjMzUVJjOHJsZ2NYTElBZ1YtbUxoenE2LWVBaVRvQ3pTdFRKdkgwRkpVa0FMNEI4SDJqbUFSVjRGeGxweHJ6b2poRW1BYzBhWmdCSW9VdXJKVkRfdWdBV1NiRThCR1lUQ1ZRYXNGekZtek8taXBzZUFQeHNma0VmQms?oc=5\" target=\"_blank\">Poor infrastructure creates \u2018Village of Bachelors\u2019 in Karnataka</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News Karnataka</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdE9LX0wtbHkzZHhEYkV2TWFHQ0FiMEZDVTMtdTlWeUExMjR5YlhmQjltdzkxWGl4T2ZRZGVCeXdYRzRqSXIwZXkxNzFMU3lJR2YzVWprdnhKMEM3V1RXSGNKejlOalRIOTlqRHdZd0ZQdnB6MVNPakNCYnNNcFRkM0xMVFBEa0FFaFNEcjh4b2dBZw?oc=5",
+        "date": "2025-03-24",
+        "title": "Tech meets tradition: How Asia\u2019s oldest cities are adapting to the smart revolution - Tatler Taiwan",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdE9LX0wtbHkzZHhEYkV2TWFHQ0FiMEZDVTMtdTlWeUExMjR5YlhmQjltdzkxWGl4T2ZRZGVCeXdYRzRqSXIwZXkxNzFMU3lJR2YzVWprdnhKMEM3V1RXSGNKejlOalRIOTlqRHdZd0ZQdnB6MVNPakNCYnNNcFRkM0xMVFBEa0FFaFNEcjh4b2dBZw?oc=5\" target=\"_blank\">Tech meets tradition: How Asia\u2019s oldest cities are adapting to the smart revolution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tatler Taiwan</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
