@@ -2498,5 +2498,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-03-27",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n\nLast Q1 report shows an impressive 15% year-over-year growth in daily global iPhone activations. Total energy consumption held steady at 37 million MWh.\n\nGrowth, consistent.\n\nStock ticker: $AAPL",
+        "type": "infrastructure"
     }
 ]
