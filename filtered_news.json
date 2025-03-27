@@ -2399,5 +2399,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-03-27",
+        "status": "posted",
+        "tweet": "From 2020 to 2025, Bitcoin's annual electricity cost rose from $4.5B to $12.5B, while Ethereum's dropped from $4.2B to $1.5B post-merge.\n\nBitcoin's cost now exceeds Ethereum's by over 8 times.",
+        "type": "crypto"
     }
 ]
