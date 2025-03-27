@@ -2607,5 +2607,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: PM Modi to inaugurate Indias first Vertical Lift Sea Pamban Railway Bridge on April 6, enhancing connectivity between Mandapam and Rameswaram.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-03-27",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China is projected to eclipse the US \ud83c\uddfa\ud83c\uddf8 as the largest economy by 2028, now forecast to reach this milestone a full 5 years earlier due to COVID-19 impacts. \n\nMeanwhile, \ud83c\uddee\ud83c\uddf3 India is set to overtake the UK \ud83c\uddec\ud83c\udde7 as the third largest economy by 2025, according to CEBR forecasts.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
