@@ -2294,5 +2294,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-03-28",
+        "status": "posted",
+        "tweet": "\ud83c\udf0dGlobal construction industry growth is projected to reach $15.5 trillion by 2030, a 85% increase from $8.5 trillion in 2025. \n\n\ud83c\uddfa\ud83c\uddf8In contrast, US construction companies are expected to generate only $1.8 trillion in 2030, marking a slower growth rate of 50%.",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
