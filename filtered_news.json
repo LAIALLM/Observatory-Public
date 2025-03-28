@@ -2413,5 +2413,85 @@
         "status": "posted",
         "tweet": "\ud83c\uddea\ud83c\uddfa NEWS: EQT raises \u20ac21bn for infrastructure fund with up to 50% allocated.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVzU0bERxcmpfbFUybnZxQUQ1SXlUUVpjQ2lBWGVKMDBJNW00NW9SVHp0OWVENFVlR0R6TWpiOVhMZkVya3J0WllDRm1UaXpjcTF4bWlWS2dZdWtNWjNEOHZIRmhVNjJDWDBUdmx4ek0tTEVkNi1SSS0yaXAwSEFJanVvQnpGV1EyUEN0YXVuMWxtWDhMWFBrcWpFUkxFdkRuRzN4UTlXM3lBUTRrZGt6ZnFhdWg3LWFISHhRazhSMG5HM2dtODVwdzM3ZU9hRjFVMUx0WnBhcFVDYUFM?oc=5",
+        "date": "2025-03-28",
+        "title": "Home construction sector looking 'a lot like 2008' housing bubble, warns analyst - Mortgage Professional",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVzU0bERxcmpfbFUybnZxQUQ1SXlUUVpjQ2lBWGVKMDBJNW00NW9SVHp0OWVENFVlR0R6TWpiOVhMZkVya3J0WllDRm1UaXpjcTF4bWlWS2dZdWtNWjNEOHZIRmhVNjJDWDBUdmx4ek0tTEVkNi1SSS0yaXAwSEFJanVvQnpGV1EyUEN0YXVuMWxtWDhMWFBrcWpFUkxFdkRuRzN4UTlXM3lBUTRrZGt6ZnFhdWg3LWFISHhRazhSMG5HM2dtODVwdzM3ZU9hRjFVMUx0WnBhcFVDYUFM?oc=5\" target=\"_blank\">Home construction sector looking 'a lot like 2008' housing bubble, warns analyst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mortgage Professional</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNHRzeFhtRDlLZlc2X3I4M1Y5SmwyYlNmVmd1UW1uUVlhbjEzUXRhSGdSNlhPbTJadjhQdmZpNDhuM1JweWsxYXdnbUtXbUNJTVM4UTZIeHhiaDFxenpjVUkzZS1sOTc3aWJlYjJDUVg2b0FGS1RFMC1aQjVpX2FJQTdZa0RvY3M?oc=5",
+        "date": "2025-03-28",
+        "title": "South Africa clamps down on \u2018construction mafia\u2019 - Mail and Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPNHRzeFhtRDlLZlc2X3I4M1Y5SmwyYlNmVmd1UW1uUVlhbjEzUXRhSGdSNlhPbTJadjhQdmZpNDhuM1JweWsxYXdnbUtXbUNJTVM4UTZIeHhiaDFxenpjVUkzZS1sOTc3aWJlYjJDUVg2b0FGS1RFMC1aQjVpX2FJQTdZa0RvY3M?oc=5\" target=\"_blank\">South Africa clamps down on \u2018construction mafia\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mail and Guardian</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNGJsemp1bVZWQjFfbVB2b3pCeG1UN0Z1eElyeGNYcUxMc3dFWHFzdDlaejdzNlAtREJ4VEJuaW9wQU04WVc1XzlBNmRYU3RBNXJqRWJlVXlxd20tZVhLNktNakdxN3JSaDFiQXBTYnM1TVFvSGltclFuR0lVekx3eXlkSW5zc1ZqRVdydEVZSHFjZ1d2SE9HdElQSVlfQQ?oc=5",
+        "date": "2025-03-28",
+        "title": "Watch Analyzing Demand for Energy Infrastructure - Bloomberg",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNNGJsemp1bVZWQjFfbVB2b3pCeG1UN0Z1eElyeGNYcUxMc3dFWHFzdDlaejdzNlAtREJ4VEJuaW9wQU04WVc1XzlBNmRYU3RBNXJqRWJlVXlxd20tZVhLNktNakdxN3JSaDFiQXBTYnM1TVFvSGltclFuR0lVekx3eXlkSW5zc1ZqRVdydEVZSHFjZ1d2SE9HdElQSVlfQQ?oc=5\" target=\"_blank\">Watch Analyzing Demand for Energy Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOU1WN2ZNSG9EUHlZX3EwN0k4b0dVNzYzWTBSQ0piRE03WUJvNU1iUzRXLTRwMWFmU2dIWEQ0VXJGNUxWbzFnZlZFSk9kZ3JlS0YtWVVPOF9Qckp2UlIyYWRKSkRaWEx3Uk94cHBOTHUyZl91VHUzTXYwSURLTnJGTi1UM1ZvX29XZHhhWUwyX3Rob1V2RHJ1U0t6ZTdPUDB2am4xLU9kc2U?oc=5",
+        "date": "2025-03-28",
+        "title": "Cube Infrastructure Managers, German developer form solar platform - Renewables Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOU1WN2ZNSG9EUHlZX3EwN0k4b0dVNzYzWTBSQ0piRE03WUJvNU1iUzRXLTRwMWFmU2dIWEQ0VXJGNUxWbzFnZlZFSk9kZ3JlS0YtWVVPOF9Qckp2UlIyYWRKSkRaWEx3Uk94cHBOTHUyZl91VHUzTXYwSURLTnJGTi1UM1ZvX29XZHhhWUwyX3Rob1V2RHJ1U0t6ZTdPUDB2am4xLU9kc2U?oc=5\" target=\"_blank\">Cube Infrastructure Managers, German developer form solar platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Renewables Now</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZjM5eHFyM0hOazNKRWkwTlExd2Q3bmdhbkRHbUNnaC1tZFVha3JqZVVyZk42MGhMNmZOQXhjVVhmdjhVRFc5SEd2MFM2dnUwckdQcUhhM2tjdnQ0OFVBQjdqU21VT3h4SnJWVDFBLXpGSm00dGh0bjg0RV9MUWxReldnejFoRF9DeFVZZHY5b3p5QVBQQVctTkRmVmp0TzIyWnd3RktPNzdtUkNZaHpLTmk1WVFuMmZVTTNfMFd6NEFWdVRueFEwWDlR?oc=5",
+        "date": "2025-03-28",
+        "title": "CAG signs MoU with NIUA for capacity building in urban development - ANI News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZjM5eHFyM0hOazNKRWkwTlExd2Q3bmdhbkRHbUNnaC1tZFVha3JqZVVyZk42MGhMNmZOQXhjVVhmdjhVRFc5SEd2MFM2dnUwckdQcUhhM2tjdnQ0OFVBQjdqU21VT3h4SnJWVDFBLXpGSm00dGh0bjg0RV9MUWxReldnejFoRF9DeFVZZHY5b3p5QVBQQVctTkRmVmp0TzIyWnd3RktPNzdtUkNZaHpLTmk1WVFuMmZVTTNfMFd6NEFWdVRueFEwWDlR?oc=5\" target=\"_blank\">CAG signs MoU with NIUA for capacity building in urban development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.constructiondive.com/news/suffolk-dallas-coo-evan-mckee/743812/",
+        "date": "2025-03-28",
+        "title": "Suffolk taps Whiting-Turner vet for Dallas COO role",
+        "summary": "<p>Evan McKee will work to build Suffolk&rsquo;s portfolio across commercial, higher education, institutional and healthcare as the firm increasingly leverages tech on area projects.</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.constructiondive.com/news/schneider-electric-700-million-investment-us-data-center-demand-ai/743834/",
+        "date": "2025-03-28",
+        "title": "Schneider Electric to invest $700M in US manufacturing",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/uot1smK7elDz6sZ0BXPqKuibqWYAia5ShOsmEZ-OqDA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY2huLnBuZw==.webp\" /></div></figure><p>The company aims to expand and renovate facilities across eight sites as it sees skyrocketing data center demand.</p>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/60512-nj-energy-firm-partners-with-uae-on-planned-25b-investment-in-power-for-us-data-centers",
+        "date": "2025-03-28",
+        "title": "NJ Energy Firm Partners with UAE on Planned $25B Investment in Power for US Data Centers",
+        "summary": "<p>The partnership aims to meet the&nbsp;<span style=\"font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; display: inline !important; float: none;\">growing electricity demand from energy-intensive data centers focused on artificial intelligence.</span>\n</p>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
