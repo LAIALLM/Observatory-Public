@@ -2594,5 +2594,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: MMRDA unveils Rs 40,187 cr budget to propel Mumbais infrastructure growth, focusing on metro rail projects.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ydGxJcnBpRWdpSkRqQnBWX1JyOWZSYlRqbWVkOEFKT3EtQ0RaMHByWmlxUDJTbjJMZnQwak81dmxCNkMxbkMxc1B6V194cUhvTXlhdzJuY3c5WDhpRGY1SzdfWjBiZkdM?oc=5",
+        "date": "2025-03-28",
+        "title": "In the Lead: Startup Businesses - Daily Reporter",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ydGxJcnBpRWdpSkRqQnBWX1JyOWZSYlRqbWVkOEFKT3EtQ0RaMHByWmlxUDJTbjJMZnQwak81dmxCNkMxbkMxc1B6V194cUhvTXlhdzJuY3c5WDhpRGY1SzdfWjBiZkdM?oc=5\" target=\"_blank\">In the Lead: Startup Businesses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Reporter</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTFJdk04U1RTLUFjSXZyRHRGME5DekN3Q2ZBdFZRQ2xISVc3T19jU05CMHk0ZTZKcThGMExPMlpRUVNwWDBNMmRqaEFDY1ZRa29zSkcyVEZZQzdxYVVlOGF2ckVlVF8zUGVEbDBGQThvUVZTYk5NUXlRSllHb2l2bnVRN3Qyd0k?oc=5",
+        "date": "2025-03-28",
+        "title": "Energy Infrastructure: A Less Obvious AI Beneficiary to Consider - ETFdb.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTFJdk04U1RTLUFjSXZyRHRGME5DekN3Q2ZBdFZRQ2xISVc3T19jU05CMHk0ZTZKcThGMExPMlpRUVNwWDBNMmRqaEFDY1ZRa29zSkcyVEZZQzdxYVVlOGF2ckVlVF8zUGVEbDBGQThvUVZTYk5NUXlRSllHb2l2bnVRN3Qyd0k?oc=5\" target=\"_blank\">Energy Infrastructure: A Less Obvious AI Beneficiary to Consider</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETFdb.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
