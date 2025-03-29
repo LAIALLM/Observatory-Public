@@ -2492,5 +2492,46 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. ($AAPL)\nEnergy efficiency of data centers has improved 40% in 2021.\nSolar power contribution increased 30%.\nAiming for net-zero emissions by 2030.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZFdKcUtybF9ULVhPYXBjLXJBTXhCb3BrVGlXTXBqemJkT1RjUlZuU0Q2bHlmX0NKX1o0aWl6enp4Z1BGck03b3hzWjl2NjlSM01GWjZZczVKaGZxVnd6V3k0cU5GZjAyVUdRUjBkNHZGU2Vna2xNdE1CeW16YUpGdU5fbUY2RVBuSWdoVXFIcjlKUjFpNTAtNXF5QjZzMUZUcmVvNThFM3NaOEJfVVRuLUpfb08tNkhMVmhFOEtzUDZsSXpnbVRDM2gzUm5mX1FsOHZxR0p1QdIB3AFBVV95cUxPVEZrVmlZeUJJODNiMDUxVTQ1MzllTE1pcXc5SWc0TGtnUHlNTE91Qk1ZaHU4bW1UeTdpSFBiTGJhMGlCSDlqLWxQbjVlX2FuLW5pVVJaNU9YRWlhWnJ0MDg1c1ZKMHBJR3pXbWFxc3BDSlRJTHMxSi05SmlJNmZLSWxmNEdSTDNFSmkyb2ZxV3pYaHE0Q0duVXcwbWVVeG01Skg4TW5wWG9pNGk5UWpKZnFtVmFXalRqdDNUQzJuQVpnSFcwS0NpSVl5NG9ZbkdCTTQxSjhWaUd5ZHJx?oc=5",
+        "date": "2025-03-29",
+        "title": "Bengaluru Municipal Body Plans To Build World-Class Roads, Tunnels & Sky Deck To Improve Infrastructure - ABP Live",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZFdKcUtybF9ULVhPYXBjLXJBTXhCb3BrVGlXTXBqemJkT1RjUlZuU0Q2bHlmX0NKX1o0aWl6enp4Z1BGck03b3hzWjl2NjlSM01GWjZZczVKaGZxVnd6V3k0cU5GZjAyVUdRUjBkNHZGU2Vna2xNdE1CeW16YUpGdU5fbUY2RVBuSWdoVXFIcjlKUjFpNTAtNXF5QjZzMUZUcmVvNThFM3NaOEJfVVRuLUpfb08tNkhMVmhFOEtzUDZsSXpnbVRDM2gzUm5mX1FsOHZxR0p1QdIB3AFBVV95cUxPVEZrVmlZeUJJODNiMDUxVTQ1MzllTE1pcXc5SWc0TGtnUHlNTE91Qk1ZaHU4bW1UeTdpSFBiTGJhMGlCSDlqLWxQbjVlX2FuLW5pVVJaNU9YRWlhWnJ0MDg1c1ZKMHBJR3pXbWFxc3BDSlRJTHMxSi05SmlJNmZLSWxmNEdSTDNFSmkyb2ZxV3pYaHE0Q0duVXcwbWVVeG01Skg4TW5wWG9pNGk5UWpKZnFtVmFXalRqdDNUQzJuQVpnSFcwS0NpSVl5NG9ZbkdCTTQxSjhWaUd5ZHJx?oc=5\" target=\"_blank\">Bengaluru Municipal Body Plans To Build World-Class Roads, Tunnels & Sky Deck To Improve Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABP Live</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVE9VMWJHTDQyUnR1Qmp1bVl4Q0k3MnhQNzQ2OVJEa1FtQW9YNzVHanMxRHpTVVJBNXBybWx6SzhtNnBPaG4xcmJkRXQycWhTZjl0RXlWZ1JYVS1KWFJGb0VMZlROOHdkeDl2Z2w3ZEUtcDJ1SkVtQ0dyckJzQkd5dGYyb3VQTUpVZGF3VU1JREwtdlpfZTI1NE5IQ2NscUk?oc=5",
+        "date": "2025-03-29",
+        "title": "Amperfied to manage SAP\u2019s charging infrastructure - www.electrive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVE9VMWJHTDQyUnR1Qmp1bVl4Q0k3MnhQNzQ2OVJEa1FtQW9YNzVHanMxRHpTVVJBNXBybWx6SzhtNnBPaG4xcmJkRXQycWhTZjl0RXlWZ1JYVS1KWFJGb0VMZlROOHdkeDl2Z2w3ZEUtcDJ1SkVtQ0dyckJzQkd5dGYyb3VQTUpVZGF3VU1JREwtdlpfZTI1NE5IQ2NscUk?oc=5\" target=\"_blank\">Amperfied to manage SAP\u2019s charging infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.electrive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGRXM2o1Uzg4eXR3UVdEanVQcXRld2gyN1BEMlhINFZBV29VUktVdEgxbndYRDdKLUtQa2hJREhhZTBTSktvUzMyRWZpdm9QSmZZRW5LTkg0S2ZwY3VCNmFic0FUYnhiOWZCUEtEZ0lWYXdpOUQwWmxLNVpwbkZhXzFTTUJJZXZUbnBZcVlqNUPSAZABQVVfeXFMTnhkVzNqNVM4OHl0d1FXRGp1UHF0ZXdoMjdQRDJYSDRWQVdvVVJLVXRIMW53WEQ3Si1LUGtoSURIYWUwU0pLb1MzMkVmaXZvUEpmWUVuS05INEtmcGN1QjZhYnNBVGJ4YjlmQlBLRGdJVmF3aTlEMFpsSzVacG5GYV8xU01CSWV2VG5wWXFZajVD?oc=5",
+        "date": "2025-03-29",
+        "title": "Patna Junction to Get Major Infrastructure Upgrade: Underground Subway and Multi-Model Hub to Alleviate Tr ... - KKN Live - English",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGRXM2o1Uzg4eXR3UVdEanVQcXRld2gyN1BEMlhINFZBV29VUktVdEgxbndYRDdKLUtQa2hJREhhZTBTSktvUzMyRWZpdm9QSmZZRW5LTkg0S2ZwY3VCNmFic0FUYnhiOWZCUEtEZ0lWYXdpOUQwWmxLNVpwbkZhXzFTTUJJZXZUbnBZcVlqNUPSAZABQVVfeXFMTnhkVzNqNVM4OHl0d1FXRGp1UHF0ZXdoMjdQRDJYSDRWQVdvVVJLVXRIMW53WEQ3Si1LUGtoSURIYWUwU0pLb1MzMkVmaXZvUEpmWUVuS05INEtmcGN1QjZhYnNBVGJ4YjlmQlBLRGdJVmF3aTlEMFpsSzVacG5GYV8xU01CSWV2VG5wWXFZajVD?oc=5\" target=\"_blank\">Patna Junction to Get Major Infrastructure Upgrade: Underground Subway and Multi-Model Hub to Alleviate Tr ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KKN Live - English</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Patna Junction to undergo major upgrade with new underground subway and multi-modal hub to improve traffic flow."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGRXM2o1Uzg4eXR3UVdEanVQcXRld2gyN1BEMlhINFZBV29VUktVdEgxbndYRDdKLUtQa2hJREhhZTBTSktvUzMyRWZpdm9QSmZZRW5LTkg0S2ZwY3VCNmFic0FUYnhiOWZCUEtEZ0lWYXdpOUQwWmxLNVpwbkZhXzFTTUJJZXZUbnBZcVlqNUPSAZABQVVfeXFMTnhkVzNqNVM4OHl0d1FXRGp1UHF0ZXdoMjdQRDJYSDRWQVdvVVJLVXRIMW53WEQ3Si1LUGtoSURIYWUwU0pLb1MzMkVmaXZvUEpmWUVuS05INEtmcGN1QjZhYnNBVGJ4YjlmQlBLRGdJVmF3aTlEMFpsSzVacG5GYV8xU01CSWV2VG5wWXFZajVD?oc=5",
+        "date": "2025-03-29",
+        "title": "Patna Junction to Get Major Infrastructure Upgrade: Underground Subway and Multi-Model Hub to Alleviate Tr ... - KKN Live - English",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGRXM2o1Uzg4eXR3UVdEanVQcXRld2gyN1BEMlhINFZBV29VUktVdEgxbndYRDdKLUtQa2hJREhhZTBTSktvUzMyRWZpdm9QSmZZRW5LTkg0S2ZwY3VCNmFic0FUYnhiOWZCUEtEZ0lWYXdpOUQwWmxLNVpwbkZhXzFTTUJJZXZUbnBZcVlqNUPSAZABQVVfeXFMTnhkVzNqNVM4OHl0d1FXRGp1UHF0ZXdoMjdQRDJYSDRWQVdvVVJLVXRIMW53WEQ3Si1LUGtoSURIYWUwU0pLb1MzMkVmaXZvUEpmWUVuS05INEtmcGN1QjZhYnNBVGJ4YjlmQlBLRGdJVmF3aTlEMFpsSzVacG5GYV8xU01CSWV2VG5wWXFZajVD?oc=5\" target=\"_blank\">Patna Junction to Get Major Infrastructure Upgrade: Underground Subway and Multi-Model Hub to Alleviate Tr ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KKN Live - English</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Patna Junction to undergo major upgrade with new underground subway and multi-modal hub to improve traffic flow.",
+        "type": "news"
     }
 ]
