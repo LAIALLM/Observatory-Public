@@ -2477,5 +2477,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: ADB-funded SMILE program to enhance Indias logistics efficiency, reduce costs, and improve multimodal infrastructure.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-03-29",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 USA: By 2025, an estimated 46% of American bridges will be over 50 years old - past their intended lifespan. This could result in a staggering $1.1 trillion repair bill. Significant investments in infrastructure are required to ensure safety and economic growth.",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
