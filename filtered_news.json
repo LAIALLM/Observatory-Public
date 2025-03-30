@@ -2435,5 +2435,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: BBMP plans to spend \u20b965 out of every \u20b9100 on infrastructure.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-03-30",
+        "status": "posted",
+        "tweet": "\ud83c\udf10 Google $GOOGL processed over 3.5 billion searches per day in 2021, totaling approximately 1.2 trillion searches globally.\n\n\ud83c\uddfa\ud83c\uddf8 United States accounted for 15% of search volume, \ud83c\udde8\ud83c\uddf3 China 8%, \ud83c\uddee\ud83c\uddf3 India 7%.\n\nEnergy consumption? \u23f0 24/7 operation with 2.26 million MWh per year.",
+        "type": "infrastructure"
     }
 ]
