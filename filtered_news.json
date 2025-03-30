@@ -2314,5 +2314,13 @@
         "status": "posted",
         "tweet": "Bitcoin's annual electricity consumption for 10 transactions per second costs around $19 billion, equivalent to \ud83c\uddf9\ud83c\udded Thailand's yearly energy expenditure.\n\nEthereum processes 30 transactions per second at an annual energy cost of $5 billion, comparable to \ud83c\uddf3\ud83c\uddff New Zealand's annual en",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-03-30",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India projected to overtake \ud83c\udde8\ud83c\uddf3 China as world's most populated country by mid-2027, reaching 1.48B people. \n\nIn contrast, Japan's \ud83c\uddef\ud83c\uddf5 population projected to decline to under 120M, the lowest since 1980.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
