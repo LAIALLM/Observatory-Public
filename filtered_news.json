@@ -2307,5 +2307,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-03-30",
+        "status": "posted",
+        "tweet": "Bitcoin's annual electricity consumption for 10 transactions per second costs around $19 billion, equivalent to \ud83c\uddf9\ud83c\udded Thailand's yearly energy expenditure.\n\nEthereum processes 30 transactions per second at an annual energy cost of $5 billion, comparable to \ud83c\uddf3\ud83c\uddff New Zealand's annual en",
+        "type": "crypto"
     }
 ]
