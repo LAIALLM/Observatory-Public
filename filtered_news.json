@@ -2053,5 +2053,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8\ud83c\udf4f Apple Inc. \n- Q2 revenue: $89.6 billion, up 54% YoY\n- Current active installed base: over 1 billion iPhones \nStock ticker: $AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-03-31",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual maintenance and security costs reach $1.2 billion, while Ethereum's are at $800 million. \n\nBitcoin's costs are 50% higher, reflecting its larger network and higher security requirements.",
+        "type": "crypto"
     }
 ]
