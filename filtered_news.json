@@ -2263,5 +2263,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: Sizewell C awards contracts for new roads and infrastructure upgrades in the UK, enhancing local transport networks.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-03-31",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 USA: Massive infrastructural investment is intended for the next 10 years, totaling $2 Trillion. It's projected that this investment could create an estimated 2.3 million jobs by 2030. \n\nBring on the future, let's rebuild together!",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
