@@ -2036,5 +2036,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-01",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. ($AAPL)\n96 million iPhones sold in Q4 2020, a 17% uptick YoY. \n\nEnergy efficiency rose 70% over the last decade, hitting the record of 98.8 kWh energy consumption per product.",
+        "type": "infrastructure"
     }
 ]
