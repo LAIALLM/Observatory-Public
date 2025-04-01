@@ -2193,5 +2193,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde7\ud83c\uddf7 NEWS: Vinci expands in Brazil with a major infrastructure deal, focusing on transportation projects.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-04-01",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York 2025: Urban density now surpasses \ud83c\udde8\ud83c\uddf3 Shanghai. Population stands at 9.6M, with a density of 28,707 inhabitants per sq km.\n\nIn contrast, Shanghai's urban populace slightly dips to 25,370 per sq km, amid China's proactive rural development strategies.",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
