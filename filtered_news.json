@@ -2043,5 +2043,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. ($AAPL)\n96 million iPhones sold in Q4 2020, a 17% uptick YoY. \n\nEnergy efficiency rose 70% over the last decade, hitting the record of 98.8 kWh energy consumption per product.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-04-01",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual cloud & data center costs reached $1.5 billion, compared to Ethereum's $800 million. \n\nBitcoin's infrastructure spans 150 data centers across \ud83c\uddfa\ud83c\uddf8 USA, \ud83c\udde8\ud83c\udde6 Canada, and \ud83c\udde8\ud83c\uddf3 China. Ethereum utilizes 100 centers in \ud83c\uddfa\ud83c\uddf8 USA and \ud83c\uddea\ud83c\uddfa EU.",
+        "type": "crypto"
     }
 ]
