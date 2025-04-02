@@ -2003,5 +2003,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. ($AAPL)\n - Daily data volume: 12 PB\n - Data center energy use: 100% renewable\n - Efficiency rating: 1.1 PUE  \nSuperior tech infrastructure, confirmed.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-04-02",
+        "status": "posted",
+        "tweet": "Summary: Top 5 countries investing the most in infrastructure in 2025. \n\n\ud83c\udde8\ud83c\uddf3 China \n\ud83c\uddfa\ud83c\uddf8 USA\n\ud83c\uddee\ud83c\uddf3 India \n\ud83c\uddef\ud83c\uddf5 Japan\n\ud83c\udde9\ud83c\uddea Germany",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
