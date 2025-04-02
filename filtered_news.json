@@ -1928,5 +1928,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-02",
+        "status": "posted",
+        "tweet": "Bitcoin mining in 2025 is highly concentrated in \ud83c\udde8\ud83c\uddf3 China (45%) and \ud83c\uddfa\ud83c\uddf8 USA (30%). \n\nIn contrast, Ethereum's mining is more distributed, with \ud83c\uddfa\ud83c\uddf8 USA (25%), \ud83c\uddf7\ud83c\uddfa Russia (20%), and \ud83c\udde8\ud83c\uddf3 China (15%) as top locations.",
+        "type": "crypto"
     }
 ]
