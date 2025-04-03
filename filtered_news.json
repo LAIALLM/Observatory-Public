@@ -2181,5 +2181,12 @@
         "tweet": "\ud83c\uddee\ud83c\uddf3 India is projected to surpass \ud83c\udde8\ud83c\uddf3 China as the world's most populated country by 2027, reaching nearly 1.44 billion residents by 2030. \ud83c\udf0d",
         "type": "statistical",
         "category": "population"
+    },
+    {
+        "link": null,
+        "date": "2025-04-03",
+        "status": "posted",
+        "tweet": "In 2025, Ethereum's staking costs are projected to be 99.95% lower than Bitcoin's mining costs, highlighting the significant energy efficiency of proof-of-stake over proof-of-work.",
+        "type": "crypto"
     }
 ]
