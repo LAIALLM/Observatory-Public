@@ -2113,5 +2113,35 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL \nQ1 2022 report: 1.65 billion active devices worldwide. \n80% of the total are iPhones, showing steady year-on-year growth.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNazZSaFNWbzA5T2pPbHhjSHFiU2ZTbVNLenUzcHpyMWwydm1SV0tvWmdPN0V4bWRpdW5vNldObGJMQzc1M3h1Sms0Wk9YWWxRTk1GR1hNbHJXTWItYl9SWXlVSG45alRUZTZVUGNmaERaUzgybi1YbE1mSTIySkhkQnNMRXpxV3I3c2JsMVhFM0w2MnRhaVZZVmlSSWFjblRwS3plSk5QTWpFRFF0dnFyd25DZ2xkYU9WUWhr?oc=5",
+        "date": "2025-04-03",
+        "title": "KPMG\u2019s The Great Reset: Emerging Trends on the Future of Infrastructure and Transport 2025 - India Shipping News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNazZSaFNWbzA5T2pPbHhjSHFiU2ZTbVNLenUzcHpyMWwydm1SV0tvWmdPN0V4bWRpdW5vNldObGJMQzc1M3h1Sms0Wk9YWWxRTk1GR1hNbHJXTWItYl9SWXlVSG45alRUZTZVUGNmaERaUzgybi1YbE1mSTIySkhkQnNMRXpxV3I3c2JsMVhFM0w2MnRhaVZZVmlSSWFjblRwS3plSk5QTWpFRFF0dnFyd25DZ2xkYU9WUWhr?oc=5\" target=\"_blank\">KPMG\u2019s The Great Reset: Emerging Trends on the Future of Infrastructure and Transport 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Shipping News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlp6MmFtZ0x5ekhvWWpJMTdfZTFkT3VKaVptc1hKNE5NNDJLenAxOHN1a2NucTRtMjVUS3pNcGg5cFdPR0lFLVNMVGV0RlRPTTBsdmdrODdJaWhKWkRQUmNvX2NBV2lSa0JadHlhWEwzWlJSM0k2aU8yMnFNSnk0R19KYzFMNDdHbzFwVjA5Y1I5NG9Q?oc=5",
+        "date": "2025-04-03",
+        "title": "Magellan names infrastructure co-leads - Financial Standard",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlp6MmFtZ0x5ekhvWWpJMTdfZTFkT3VKaVptc1hKNE5NNDJLenAxOHN1a2NucTRtMjVUS3pNcGg5cFdPR0lFLVNMVGV0RlRPTTBsdmdrODdJaWhKWkRQUmNvX2NBV2lSa0JadHlhWEwzWlJSM0k2aU8yMnFNSnk0R19KYzFMNDdHbzFwVjA5Y1I5NG9Q?oc=5\" target=\"_blank\">Magellan names infrastructure co-leads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Standard</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01andzYVNBOFZsQWZQMlFWSUpfUVFJbTFRd1dDa2hQSUhTckNMOTdwOXJ3U2ttdGFaVlRlN0EwWk9zR1VVMVpzdzFocVA1YVFiOUE4bjdJY1ZaajhlcjBpRGNxMHN3clQyVjU2N1RlRXAwVGZQWG1F?oc=5",
+        "date": "2025-04-03",
+        "title": "KTC introduces conductor less E-buses on three Panaji routes - Daijiworld",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE01andzYVNBOFZsQWZQMlFWSUpfUVFJbTFRd1dDa2hQSUhTckNMOTdwOXJ3U2ttdGFaVlRlN0EwWk9zR1VVMVpzdzFocVA1YVFiOUE4bjdJY1ZaajhlcjBpRGNxMHN3clQyVjU2N1RlRXAwVGZQWG1F?oc=5\" target=\"_blank\">KTC introduces conductor less E-buses on three Panaji routes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daijiworld</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
