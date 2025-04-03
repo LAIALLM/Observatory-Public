@@ -2143,5 +2143,43 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVmJtTU1yR1RjOFRZcmZ5V1VmcS1QRDFvY0oyTlV3SU1xOUJfeWZXUk5jRFd3UFV5bnJxQzZTVEFLU3FZQ0pXSEprYTVZODJ2Z1ZtTVJhODR1VWdtVWE0MXlPaWVpcG9aRFZHWUJvOUJ5Z0p0R2NPRkVOQjBmT2tjenpTNjRpOV8zR0pwbVRpeVVSeF82WFhIV3VNRkJSZw?oc=5",
+        "date": "2025-04-03",
+        "title": "How Can the Building Industry Overcome its \u2018Innovation Problem\u2019? - realestate.com.au",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVmJtTU1yR1RjOFRZcmZ5V1VmcS1QRDFvY0oyTlV3SU1xOUJfeWZXUk5jRFd3UFV5bnJxQzZTVEFLU3FZQ0pXSEprYTVZODJ2Z1ZtTVJhODR1VWdtVWE0MXlPaWVpcG9aRFZHWUJvOUJ5Z0p0R2NPRkVOQjBmT2tjenpTNjRpOV8zR0pwbVRpeVVSeF82WFhIV3VNRkJSZw?oc=5\" target=\"_blank\">How Can the Building Industry Overcome its \u2018Innovation Problem\u2019?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">realestate.com.au</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZjZ0YXJfVmYwSzl3TUlPajUwU2tfUFlpLVhxRUNWMkc3RDZkYjdJZVpwZVRzaS1ZczdIcDFBUm9sSGxueS1tQ2ZSYzZ1Y3BDblJFcG0zUHBpSkpzLVlkckpyV01kRlZaYzhfMnhZa1NNQXFjajlNRWZ2SVRxWkU3bUNFVnJNZXlFcFZ2aDh2T1RNQ2N0aHpuYUJqc0dWU0h6cXlTdHVUY0VGM0tSeXFHMWY2cUoxQ2JEVmpUQUVR?oc=5",
+        "date": "2025-04-03",
+        "title": "Canberra leads way in making short-staffed construction industry more attractive for women - Riotact",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNZjZ0YXJfVmYwSzl3TUlPajUwU2tfUFlpLVhxRUNWMkc3RDZkYjdJZVpwZVRzaS1ZczdIcDFBUm9sSGxueS1tQ2ZSYzZ1Y3BDblJFcG0zUHBpSkpzLVlkckpyV01kRlZaYzhfMnhZa1NNQXFjajlNRWZ2SVRxWkU3bUNFVnJNZXlFcFZ2aDh2T1RNQ2N0aHpuYUJqc0dWU0h6cXlTdHVUY0VGM0tSeXFHMWY2cUoxQ2JEVmpUQUVR?oc=5\" target=\"_blank\">Canberra leads way in making short-staffed construction industry more attractive for women</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Riotact</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0T09PVzVjZGxHVlNvQnRGSDVEeWJSSXpQOGg2ZXNuVHpQaTZwNHVvb3B5NGFONDlTZnZ0V0U2YmJQYVlKa21xYkU0OExZeGcxVGstRkNqUUJsUnpBakJmWEV3?oc=5",
+        "date": "2025-04-03",
+        "title": "External forces attack China's critical network infrastructure during 9th Asian Winter Games: report - Global Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0T09PVzVjZGxHVlNvQnRGSDVEeWJSSXpQOGg2ZXNuVHpQaTZwNHVvb3B5NGFONDlTZnZ0V0U2YmJQYVlKa21xYkU0OExZeGcxVGstRkNqUUJsUnpBakJmWEV3?oc=5\" target=\"_blank\">External forces attack China's critical network infrastructure during 9th Asian Winter Games: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-03",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India is projected to surpass \ud83c\udde8\ud83c\uddf3 China as the world's most populated country by 2027, reaching nearly 1.44 billion residents by 2030. \ud83c\udf0d",
+        "type": "statistical",
+        "category": "population"
     }
 ]
