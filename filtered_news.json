@@ -2431,5 +2431,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: NF Railway achieves key milestones in infrastructure development during 2024-25 fiscal, including the commissioning of a new line.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-04-04",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf3 Urbanization projection: By 2025, 68% of the world's population will live in urban areas. \n\nThat's an increase of nearly 6% from 2020.\n\nAnd by 2050, we're looking at a stunning 70%. Urban development must keep pace.",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
