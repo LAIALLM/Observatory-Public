@@ -2493,5 +2493,15 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTG1JdTNYd2NfaE9rd3VVLVVzUEM1c1htejZSZllPcHlfOTRoazBodnJDSjhoa1k3VnFJMU1Nem1UOURkSHp2cVY3X3JWR05GamwycGRzYzJwQUVSV1owVkVMRjFZcnBFdFVCSWx1TUpSdVowYVh1c25JRmozUG02ekdTR29jYlpVUi1icG5B?oc=5",
+        "date": "2025-04-05",
+        "title": "Greater Noida Unveils 1.5km Road to Ease Pari Chowk Congestion - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQTG1JdTNYd2NfaE9rd3VVLVVzUEM1c1htejZSZllPcHlfOTRoazBodnJDSjhoa1k3VnFJMU1Nem1UOURkSHp2cVY3X3JWR05GamwycGRzYzJwQUVSV1owVkVMRjFZcnBFdFVCSWx1TUpSdVowYVh1c25JRmozUG02ekdTR29jYlpVUi1icG5B?oc=5\" target=\"_blank\">Greater Noida Unveils 1.5km Road to Ease Pari Chowk Congestion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
