@@ -2751,5 +2751,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple $AAPL \nQ4 revenue: $81.43 Billion \nYoY Revenue growth: 36%\nNet income: $21.74 Billion\niPhone sales: $39.57 Billion\nServices revenue: $17.49 Billion\nWearable products sales: $8.78 Billion",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-04-05",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d By 2025, 68% of the world's population is projected to live in urban areas. \n\ud83c\uddee\ud83c\uddf3 India, \ud83c\udde8\ud83c\uddf3 China and \ud83c\uddf3\ud83c\uddec Nigeria will account for 35% of this projected growth. \n\nInvestment in sustainable city infrastructure is critical.",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
