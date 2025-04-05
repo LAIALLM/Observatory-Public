@@ -2483,5 +2483,15 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObWtGbUc2cXFJcGp4RERsRVdYRXFHd19yZUl5bkliU3VnajBNOW1weDhGb3RhaWlxdjV5Vm1NS2JoRG56Y0RRMGJwMFFTUEZYQ21RSU40Z0R4Y1plQkVWLXB5aHlQN2xMcm9jcW5KcGU5bUtMZS1LU0haQUtJUE4tLXRvRmpPRlE3MWhpT0VjR25hcExVSHJYRGJ4SnJhYUNqZWRsMlZzbW5YcnNw?oc=5",
+        "date": "2025-04-05",
+        "title": "'Roll with the punches': Construction industry bracing for tariff's effects - KJRH",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxObWtGbUc2cXFJcGp4RERsRVdYRXFHd19yZUl5bkliU3VnajBNOW1weDhGb3RhaWlxdjV5Vm1NS2JoRG56Y0RRMGJwMFFTUEZYQ21RSU40Z0R4Y1plQkVWLXB5aHlQN2xMcm9jcW5KcGU5bUtMZS1LU0haQUtJUE4tLXRvRmpPRlE3MWhpT0VjR25hcExVSHJYRGJ4SnJhYUNqZWRsMlZzbW5YcnNw?oc=5\" target=\"_blank\">'Roll with the punches': Construction industry bracing for tariff's effects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KJRH</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
