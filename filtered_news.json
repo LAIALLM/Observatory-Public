@@ -2551,5 +2551,12 @@
         "tweet": "\ud83c\udf0d Global building construction is projected to grow by 85% by 2030, reaching $15.5 trillion. \ud83c\udde8\ud83c\uddf3 Meanwhile, China's slice of the global construction pie is expected to dip slightly yet will still maintain a significant 26% by 2025.",
         "type": "statistical",
         "category": "construction projects"
+    },
+    {
+        "link": null,
+        "date": "2025-04-06",
+        "status": "posted",
+        "tweet": "In 2025, Ethereum's annual staking costs are $1.2 billion, significantly lower than Bitcoin's $18.5 billion mining costs. \n\nEthereum's staking is 86% more energy-efficient than Bitcoin's mining, reducing environmental impact.",
+        "type": "crypto"
     }
 ]
