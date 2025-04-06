@@ -2558,5 +2558,25 @@
         "status": "posted",
         "tweet": "In 2025, Ethereum's annual staking costs are $1.2 billion, significantly lower than Bitcoin's $18.5 billion mining costs. \n\nEthereum's staking is 86% more energy-efficient than Bitcoin's mining, reducing environmental impact.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSVlMV09UekFrQ2JxLS1udGNSdV9uMkgxM2stanpDQk9CRkdxak5aYk96T1BMaUd2NmxqQTdaWFpnV1lybElucWFGU2hEd2ZVYkV5OUxDaFdwWnNtWW5fZEpQSEpoeE8wakhFaVdSX3hCWU9vUGdDVTZMMWFyTVJqclBCclIxVGZjWjdiNURHNm5XMG1CaGFabk9MUFQ4a0xPUGlKal9VWGVTbGpQQ3FoeEg1SlFUdUpyWVFJRlBPa1d6a2U3RGxRR0ZwM0g0bWF1bEZjUWdDY2tTaVlEcTd3?oc=5",
+        "date": "2025-04-06",
+        "title": "SLOVAKIABratislava: INTERNATIONAL Construction Fair CONECO - How to - Netky.sk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSVlMV09UekFrQ2JxLS1udGNSdV9uMkgxM2stanpDQk9CRkdxak5aYk96T1BMaUd2NmxqQTdaWFpnV1lybElucWFGU2hEd2ZVYkV5OUxDaFdwWnNtWW5fZEpQSEpoeE8wakhFaVdSX3hCWU9vUGdDVTZMMWFyTVJqclBCclIxVGZjWjdiNURHNm5XMG1CaGFabk9MUFQ4a0xPUGlKal9VWGVTbGpQQ3FoeEg1SlFUdUpyWVFJRlBPa1d6a2U3RGxRR0ZwM0g0bWF1bEZjUWdDY2tTaVlEcTd3?oc=5\" target=\"_blank\">SLOVAKIABratislava: INTERNATIONAL Construction Fair CONECO - How to</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Netky.sk</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZkc0SGY0N0xsRFVjSExPdlN3eHFLZktGR0NlYllFMDJCVUZxNFF0YjJQYXF1Sk91NElhdldCT1pRaDdFczdveW1YamZYQkRHV0dfcksxM2RicVJBOEllUmswWEFDdXBGeGZ3MjNVMWJXbFhlOTlUdlZrZnlfODZEQ1NRdG96dnRvR1RPZEpzcXBVS0dpWmFhbExDa19ZRDExcmJDSUZYV1JyRVBfSlHSAb4BQVVfeXFMT21tQ0FfSll3YkFyWjcxRVl3U0p5WW5yZEZhcmJ4SkpKWjdwVnEyc2c5ZWlybEFHZE0xN01wQkU4dk5ZOE9ZNnRUakZZam1KdEd2Z3VCa2VTLUx4UnlHMzBjWXZQWlItUW1RQ3d0LUJmNUZCUVNqQlVmcEVERlNCZjJVRVNYeGdnUDJSUWhxNjZ0TEJtemtPNDhTNzB6ckllem1RYmw4c2RDRGxyRmNDR3U3NDFkbWdEcUtDVXVmZw?oc=5",
+        "date": "2025-04-06",
+        "title": "Rs437m allocated for SOS villages to enhance educational infrastructure - nation.com.pk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQZkc0SGY0N0xsRFVjSExPdlN3eHFLZktGR0NlYllFMDJCVUZxNFF0YjJQYXF1Sk91NElhdldCT1pRaDdFczdveW1YamZYQkRHV0dfcksxM2RicVJBOEllUmswWEFDdXBGeGZ3MjNVMWJXbFhlOTlUdlZrZnlfODZEQ1NRdG96dnRvR1RPZEpzcXBVS0dpWmFhbExDa19ZRDExcmJDSUZYV1JyRVBfSlHSAb4BQVVfeXFMT21tQ0FfSll3YkFyWjcxRVl3U0p5WW5yZEZhcmJ4SkpKWjdwVnEyc2c5ZWlybEFHZE0xN01wQkU4dk5ZOE9ZNnRUakZZam1KdEd2Z3VCa2VTLUx4UnlHMzBjWXZQWlItUW1RQ3d0LUJmNUZCUVNqQlVmcEVERlNCZjJVRVNYeGdnUDJSUWhxNjZ0TEJtemtPNDhTNzB6ckllem1RYmw4c2RDRGxyRmNDR3U3NDFkbWdEcUtDVXVmZw?oc=5\" target=\"_blank\">Rs437m allocated for SOS villages to enhance educational infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nation.com.pk</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
