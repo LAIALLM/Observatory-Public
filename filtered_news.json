@@ -2448,5 +2448,106 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin has the highest hardware costs among the three, followed by Ethereum and Solana.\n\n1. Bitcoin: $10.8B annually\n2. Ethereum: $3.2B annually\n3. Solana: $0.5B annually",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSmtoeWVUVUxpMDVpUnAzZFB1cUhBMFptc3lyM0RyZWRkMFROZXpaMXN3Ql9ORWRqOHMyUUtLYlNxenZRNkRIUnJKSHN1U2duR2F1ZnNoTXJMdkVuM2tOTUZ5RC1xVWd2V0ZDSnN2WVBqV1N0eXJEYVZ6azNreS1TTXVwQ3JIVVhHS04yT1FXUmhyOHJFNktoTXVKWUxZM0otajVtN1NWN2RJRGpIeU0zN1ZieHdrNGU3R0VtV0Z1NTBiVzdIek8tdEdydXFCMVBLR2tZZWxqZ0M0dUNHZUE?oc=5",
+        "date": "2025-04-07",
+        "title": "Canadian Construction Safety Council adopts safety helmets, fall protection standards - Canadian Occupational Safety",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSmtoeWVUVUxpMDVpUnAzZFB1cUhBMFptc3lyM0RyZWRkMFROZXpaMXN3Ql9ORWRqOHMyUUtLYlNxenZRNkRIUnJKSHN1U2duR2F1ZnNoTXJMdkVuM2tOTUZ5RC1xVWd2V0ZDSnN2WVBqV1N0eXJEYVZ6azNreS1TTXVwQ3JIVVhHS04yT1FXUmhyOHJFNktoTXVKWUxZM0otajVtN1NWN2RJRGpIeU0zN1ZieHdrNGU3R0VtV0Z1NTBiVzdIek8tdEdydXFCMVBLR2tZZWxqZ0M0dUNHZUE?oc=5\" target=\"_blank\">Canadian Construction Safety Council adopts safety helmets, fall protection standards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Canadian Occupational Safety</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYUlmbnhmVE85WFZVNW1FdHBKc2JQQlBCN2t0akxsampFT2ZZS1lHTXhSNGtpeEJxN3haamowWWdCRTFHc0RyNFZuUGNMcnhvQW1TMUhFNmRKMFhDSDFBcldEVm11a0ZhOFRYQTJkZkh0bUhraXF4c25Tc0FQUzR5eWJZX1RIOVdDLUZ2VnJudHhOclMyRmFfRUMzVGNsUndz?oc=5",
+        "date": "2025-04-07",
+        "title": "Construction industry blueprint for change unveiled - Build Australia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOYUlmbnhmVE85WFZVNW1FdHBKc2JQQlBCN2t0akxsampFT2ZZS1lHTXhSNGtpeEJxN3haamowWWdCRTFHc0RyNFZuUGNMcnhvQW1TMUhFNmRKMFhDSDFBcldEVm11a0ZhOFRYQTJkZkh0bUhraXF4c25Tc0FQUzR5eWJZX1RIOVdDLUZ2VnJudHhOclMyRmFfRUMzVGNsUndz?oc=5\" target=\"_blank\">Construction industry blueprint for change unveiled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Build Australia</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbVhLN1FYcGFVcnc1RlR4SklaN0g5ZmNXaEZGV1FVNHc3ekNkOGdfUFVJRjdJWWFSMUFXODRMd213QzlDc0JjemY2Q2QwVnBOQmNNeEE2SGQxdw?oc=5",
+        "date": "2025-04-07",
+        "title": "Gov't to foster growth of modular housing market to innovate construction industry - Yonhap News Agency",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbVhLN1FYcGFVcnc1RlR4SklaN0g5ZmNXaEZGV1FVNHc3ekNkOGdfUFVJRjdJWWFSMUFXODRMd213QzlDc0JjemY2Q2QwVnBOQmNNeEE2SGQxdw?oc=5\" target=\"_blank\">Gov't to foster growth of modular housing market to innovate construction industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yonhap News Agency</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcWpEb1lweVJIeGd0c2M1YzQwbEY1MlVJN053WG9iZmlpVkhTWFhKaFdwLWVuMzRtZElPNFJKOWNMdTkwdGdZYnlZZmN5ZkEyVk9mUmZ4LVdMYkRyM1BJRktTRW12ODZ6aE1oRzN5X3RGWlA2VEY5MUNNSDcwZXZaMTlMbGJheG5TQ1RVbTJidTJ5bTJkdzk2RVVJWFdmbDZHTTJKN3gtZmdpc1NXS19YTk1ncUVhMUNrNXFFdEN1cnZQNzN2Nk10elVIN3o4cDBkbEZMT2dXOWtVUXAxVnRaaDhocDc?oc=5",
+        "date": "2025-04-07",
+        "title": "Canada\u2019s construction industry launches campaign calling for action on infrastructure ahead of federal election - Ontario Construction News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcWpEb1lweVJIeGd0c2M1YzQwbEY1MlVJN053WG9iZmlpVkhTWFhKaFdwLWVuMzRtZElPNFJKOWNMdTkwdGdZYnlZZmN5ZkEyVk9mUmZ4LVdMYkRyM1BJRktTRW12ODZ6aE1oRzN5X3RGWlA2VEY5MUNNSDcwZXZaMTlMbGJheG5TQ1RVbTJidTJ5bTJkdzk2RVVJWFdmbDZHTTJKN3gtZmdpc1NXS19YTk1ncUVhMUNrNXFFdEN1cnZQNzN2Nk10elVIN3o4cDBkbEZMT2dXOWtVUXAxVnRaaDhocDc?oc=5\" target=\"_blank\">Canada\u2019s construction industry launches campaign calling for action on infrastructure ahead of federal election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ontario Construction News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcEI3cG8zSzdEd1lqS0JmLUwtcVVmdHJCa2hTQ2EwdU9ya050VTI5V1dWSFhjVWQxWHFlMVpxc2NaTTM5YWpTOFB5ZEtGWW1qT0RJRzdsLXpCWE9JNjRUR19yblpMMXppU1NNeXZWVjFQVlYyQjhWRjRUcXZWaHB6cUVBZzhsT1hHVGxYLS1uV3lRbWR5THhkcEh1WVVUZ2ptbjR6ZmI5c2RDNU1iRk1NcExQc0VrVVYzUDBraVhaQlFGQXYwRlVtb3dKUl8zZ3JCeUg1RlZ1ZjluMkRyWUEwcWgtWkRyMkxlcFJ1Qg?oc=5",
+        "date": "2025-04-07",
+        "title": "NHAI Exceeds Target, Achieves Rs 2,500 Billion Capex in FY25 - Construction World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcEI3cG8zSzdEd1lqS0JmLUwtcVVmdHJCa2hTQ2EwdU9ya050VTI5V1dWSFhjVWQxWHFlMVpxc2NaTTM5YWpTOFB5ZEtGWW1qT0RJRzdsLXpCWE9JNjRUR19yblpMMXppU1NNeXZWVjFQVlYyQjhWRjRUcXZWaHB6cUVBZzhsT1hHVGxYLS1uV3lRbWR5THhkcEh1WVVUZ2ptbjR6ZmI5c2RDNU1iRk1NcExQc0VrVVYzUDBraVhaQlFGQXYwRlVtb3dKUl8zZ3JCeUg1RlZ1ZjluMkRyWUEwcWgtWkRyMkxlcFJ1Qg?oc=5\" target=\"_blank\">NHAI Exceeds Target, Achieves Rs 2,500 Billion Capex in FY25</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction World</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: NHAI exceeds target, achieves Rs 2,500 billion capex in FY25."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbGxSS0lScnhHVVFnYTFxNHJSYXBDX2dHbzNTS3pLSkkwMmNmVzRaeWJCVkpPU1NLWFZ3cHkwS3B1Z2xnQ2UyOXdocXdNZVp2aTBnbVNNQkJxTWd2ZWFMR2Ftekdyenh0eUUyUmt1THlPbDR5MTFZTFhLVC1GY2kxM2E1ODdTQmFFUmd4dUJQYU9ZR1BxWmJGVktvUU1jTEJYTHF3OG42NE9XMmw3S0J1MkE3N09KSlJEc25aZw?oc=5",
+        "date": "2025-04-07",
+        "title": "OP-ED. To Create a Great Airport Passenger Experience, Focus on Infrastructure - DirectIndustry e-Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNbGxSS0lScnhHVVFnYTFxNHJSYXBDX2dHbzNTS3pLSkkwMmNmVzRaeWJCVkpPU1NLWFZ3cHkwS3B1Z2xnQ2UyOXdocXdNZVp2aTBnbVNNQkJxTWd2ZWFMR2Ftekdyenh0eUUyUmt1THlPbDR5MTFZTFhLVC1GY2kxM2E1ODdTQmFFUmd4dUJQYU9ZR1BxWmJGVktvUU1jTEJYTHF3OG42NE9XMmw3S0J1MkE3N09KSlJEc25aZw?oc=5\" target=\"_blank\">OP-ED. To Create a Great Airport Passenger Experience, Focus on Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DirectIndustry e-Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0w3ejlVSU5kZ1ZoTVkzLU8tSHdrQlN0cjRSdGpvVnZZekFIcEFCb1Bqc1pvQVhaTkx5cllwN2JFTm1vY3FpXzZNYXhiUDJ1cG5hNE9GNEQwTHNKWHdJRVJvMFBEaTIybEFzQ1FjZ1Q3bTljSGU2TUZDUFpuSHNJczhmNTRRWkhjMS1RWm9aWU45WlFD?oc=5",
+        "date": "2025-04-07",
+        "title": "NivoNexus Launches AI-Powered Lab Infrastructure Model for Quantum Research Across GCC - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0w3ejlVSU5kZ1ZoTVkzLU8tSHdrQlN0cjRSdGpvVnZZekFIcEFCb1Bqc1pvQVhaTkx5cllwN2JFTm1vY3FpXzZNYXhiUDJ1cG5hNE9GNEQwTHNKWHdJRVJvMFBEaTIybEFzQ1FjZ1Q3bTljSGU2TUZDUFpuSHNJczhmNTRRWkhjMS1RWm9aWU45WlFD?oc=5\" target=\"_blank\">NivoNexus Launches AI-Powered Lab Infrastructure Model for Quantum Research Across GCC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONkRfQVE1ajUzVkxRc3d4N2JoTFQ5UFpLMUNTQ1FBSzJ5clBpc1hnMTJMTlhFUWxOZjBJdVV2Y2U3TlhaWlVQZHk4NEFrZy03dFczYVA5TG03ZWh0ZHFCWkJuOUdwRzRheWNHNldLeWttSldYblNENmRKTm8xc19FdHNJWEVuQkpraXpNbURaamJZZTVITGJqUWZmRGJ4NWViMmswNGtkblZKVTBmSndqaFJ5cUVYS1hVT2FGRlFaLXg2Z0ppUk5lYU55d3hsUExM?oc=5",
+        "date": "2025-04-07",
+        "title": "U Mobile selects EdgePoint as preferred in-building infrastructure partner for 5G deployment - Telecompaper",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxONkRfQVE1ajUzVkxRc3d4N2JoTFQ5UFpLMUNTQ1FBSzJ5clBpc1hnMTJMTlhFUWxOZjBJdVV2Y2U3TlhaWlVQZHk4NEFrZy03dFczYVA5TG03ZWh0ZHFCWkJuOUdwRzRheWNHNldLeWttSldYblNENmRKTm8xc19FdHNJWEVuQkpraXpNbURaamJZZTVITGJqUWZmRGJ4NWViMmswNGtkblZKVTBmSndqaFJ5cUVYS1hVT2FGRlFaLXg2Z0ppUk5lYU55d3hsUExM?oc=5\" target=\"_blank\">U Mobile selects EdgePoint as preferred in-building infrastructure partner for 5G deployment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telecompaper</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZlNoMWVTRHU2blRTUEwxeUFLWXRuSjJGZnZhcjY4dlAzT2JzWkZ3NER2cDZXemRNS3QwQ2hMbDlabVpyYUNDUk13c2gzbVZ4R2tSRTZZTzg2dUFwTlJXT0V5dUZOTkVZWHMxTjZVQ2RfeHRwMGVWdkpvTDZNdGhMUnNKYXY2N0N3MVBjRzZuSTlrMWhLcTIzZ3dDei16QQ?oc=5",
+        "date": "2025-04-07",
+        "title": "Saudi Arabia Smart Cities Market Size to Surpass USD 29,228.7 Million by 2033 | Exhibiting CAGR of 9.2% - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQZlNoMWVTRHU2blRTUEwxeUFLWXRuSjJGZnZhcjY4dlAzT2JzWkZ3NER2cDZXemRNS3QwQ2hMbDlabVpyYUNDUk13c2gzbVZ4R2tSRTZZTzg2dUFwTlJXT0V5dUZOTkVZWHMxTjZVQ2RfeHRwMGVWdkpvTDZNdGhMUnNKYXY2N0N3MVBjRzZuSTlrMWhLcTIzZ3dDei16QQ?oc=5\" target=\"_blank\">Saudi Arabia Smart Cities Market Size to Surpass USD 29,228.7 Million by 2033 | Exhibiting CAGR of 9.2%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcEI3cG8zSzdEd1lqS0JmLUwtcVVmdHJCa2hTQ2EwdU9ya050VTI5V1dWSFhjVWQxWHFlMVpxc2NaTTM5YWpTOFB5ZEtGWW1qT0RJRzdsLXpCWE9JNjRUR19yblpMMXppU1NNeXZWVjFQVlYyQjhWRjRUcXZWaHB6cUVBZzhsT1hHVGxYLS1uV3lRbWR5THhkcEh1WVVUZ2ptbjR6ZmI5c2RDNU1iRk1NcExQc0VrVVYzUDBraVhaQlFGQXYwRlVtb3dKUl8zZ3JCeUg1RlZ1ZjluMkRyWUEwcWgtWkRyMkxlcFJ1Qg?oc=5",
+        "date": "2025-04-07",
+        "title": "NHAI Exceeds Target, Achieves Rs 2,500 Billion Capex in FY25 - Construction World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcEI3cG8zSzdEd1lqS0JmLUwtcVVmdHJCa2hTQ2EwdU9ya050VTI5V1dWSFhjVWQxWHFlMVpxc2NaTTM5YWpTOFB5ZEtGWW1qT0RJRzdsLXpCWE9JNjRUR19yblpMMXppU1NNeXZWVjFQVlYyQjhWRjRUcXZWaHB6cUVBZzhsT1hHVGxYLS1uV3lRbWR5THhkcEh1WVVUZ2ptbjR6ZmI5c2RDNU1iRk1NcExQc0VrVVYzUDBraVhaQlFGQXYwRlVtb3dKUl8zZ3JCeUg1RlZ1ZjluMkRyWUEwcWgtWkRyMkxlcFJ1Qg?oc=5\" target=\"_blank\">NHAI Exceeds Target, Achieves Rs 2,500 Billion Capex in FY25</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction World</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: NHAI exceeds target, achieves Rs 2,500 billion capex in FY25.",
+        "type": "news"
     }
 ]
