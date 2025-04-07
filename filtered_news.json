@@ -2441,5 +2441,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.\nData Center | Reno, NV \n\nSolar Power Capacity: 70MW \nAnnual Energy Output: 151m kWh \n\n$AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-04-07",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin has the highest hardware costs among the three, followed by Ethereum and Solana.\n\n1. Bitcoin: $10.8B annually\n2. Ethereum: $3.2B annually\n3. Solana: $0.5B annually",
+        "type": "crypto"
     }
 ]
