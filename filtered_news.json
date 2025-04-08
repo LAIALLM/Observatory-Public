@@ -2640,5 +2640,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-08",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. - Monthly Active Users (MAUs) for Apple Music service cross 90 million worldwide. 70% increase YoY. \n\nApple's 4Q Earnings Report, Fiscal Year 2021, page 6.\n\nStock ticker: $AAPL.",
+        "type": "infrastructure"
     }
 ]
