@@ -2878,5 +2878,13 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-08",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d By 2025, over 68% of the world's population will be living in cities, according to UN projections.\n\u23e9 Fast-forward to 2050, this figure is expected to cross 70%. Urban planning is now more crucial than ever!",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
