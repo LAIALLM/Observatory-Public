@@ -3169,5 +3169,13 @@
         "status": "posted",
         "tweet": "Summary: Solana has the lowest infrastructural costs, followed by Ethereum, with Bitcoin being the most expensive due to mining.\n\n1. Solana: Staking costs $100M/year\n2. Ethereum: Staking costs $500M/year\n3. Bitcoin: Mining costs $15B/year",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-04-09",
+        "status": "posted",
+        "tweet": "Summary: Most Massive Urban Populations 2025\n\n1. \ud83c\udde8\ud83c\uddf3 Shanghai, China\n2. \ud83c\uddee\ud83c\uddf3 Mumbai, India\n3. \ud83c\udde8\ud83c\uddf3 Beijing, China\n4. \ud83c\uddea\ud83c\uddec Cairo, Egypt\n5. \ud83c\udde7\ud83c\udde9 Dhaka, Bangladesh\n\nTop 5 cities with the most massive urban populations in 2025. Rapid urbanization continues to define the global landscape.",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
