@@ -2943,5 +2943,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-09",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global tech giant Alphabet Inc. (Google's parent company) reported:\n\n\u26a1 Energy consumption: 12.2 terawatt-hours (TWh) in 2020. \n\n\ud83d\udd0b 61% of the energy was from renewable sources. \n\n\ud83d\udcc8 That's a 15% increase from 2019.\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
