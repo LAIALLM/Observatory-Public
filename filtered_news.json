@@ -3150,5 +3150,12 @@
         "status": "posted",
         "tweet": "Bitcoin's annual electricity consumption in 2025: 120 TWh, surpassing \ud83c\uddf3\ud83c\uddf4 Norway's total.\n\nEthereum's annual electricity use: 25 TWh, less than \ud83c\udde8\ud83c\udded Switzerland's.\n\nBitcoin consumes nearly 5 times more electricity than Ethereum.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-04-10",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple $AAPL reports 29% increase in Q1 2022 quarterly revenue, hitting $111.4 billion. \niPhone sales grew by 17%, amounting to $65.6 billion.\nServices and Mac sales have also soared, by 24% and 21% respectively.",
+        "type": "infrastructure"
     }
 ]
