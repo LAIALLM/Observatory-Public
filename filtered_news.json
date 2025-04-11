@@ -3772,5 +3772,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Center announces Rs 4,819 crore investment to double Gondia-Balharshah rail stretch, transforming Maharashtra.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-04-11",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China's construction industry forecasted to grow by 6% in 2025, making it the fastest-growing in Asia. \n\nMeanwhile \ud83c\uddfa\ud83c\uddf8 U.S. construction industry expected to see growth of 1.5%, despite infrastructure bill boost. Global trends highlight the significance of emerging markets.",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
