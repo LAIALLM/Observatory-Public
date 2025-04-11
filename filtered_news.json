@@ -3403,5 +3403,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-11",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL\n- Energy consumption: Q3 2021 \u27a1\ufe0f 12.9 million MWh\n- Lower by 2.6% compared to Q2\nGoal: 30% reduction by 2030. \n\nRenewable energy projects: 110 worldwide powering 92% of operations.",
+        "type": "infrastructure"
     }
 ]
