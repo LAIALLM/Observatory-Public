@@ -3353,5 +3353,55 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: NaBFID signs MoU with New Development Bank to enhance infrastructure financing and promote sustainability.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUEZDVnF3Qk9jQlk1VUZSUXFlNmtfRmk4cFhQU2VlX05Gam9qQUU4V1FtZ0JPVWdjN1NKMS1UaEpTQzgzUXdaWVBRd0pZYlZlUmhxRjJOSkJpSmg3TlJfR2pPajdrZU0xTkdqZnlnLWpzVGx4bzZRMlo4MHhabENPZExMdTJ3TGM1WDdiNEVxTmdpQzFJ?oc=5",
+        "date": "2025-04-11",
+        "title": "Construction industry gossip: Summing up - building.co.uk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQUEZDVnF3Qk9jQlk1VUZSUXFlNmtfRmk4cFhQU2VlX05Gam9qQUU4V1FtZ0JPVWdjN1NKMS1UaEpTQzgzUXdaWVBRd0pZYlZlUmhxRjJOSkJpSmg3TlJfR2pPajdrZU0xTkdqZnlnLWpzVGx4bzZRMlo4MHhabENPZExMdTJ3TGM1WDdiNEVxTmdpQzFJ?oc=5\" target=\"_blank\">Construction industry gossip: Summing up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">building.co.uk</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOTdtSUx0SllKRWF5TG8tbDR3YXY0b1dQaUhMRzA2TVVaZlB4Wk5nNkVYWGVKaV8xR25FLVRNbnZuSV9obmN1X2JQYldwSFBCaFRKaGtkRDNkczdZak04YnJoN0dJWWdBdlMwVG5UdTZSYkZWWlU2b24yM05pUk8xbzQ2cXpabkYxVlZqZkxJOUNrZGl3ZEdELWR2dm9UZXdWSW9NZFAzSU0?oc=5",
+        "date": "2025-04-11",
+        "title": "Navratna Stock jumps 4% after signing MOU for Logistics Infrastructure Development - Trade Brains",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOTdtSUx0SllKRWF5TG8tbDR3YXY0b1dQaUhMRzA2TVVaZlB4Wk5nNkVYWGVKaV8xR25FLVRNbnZuSV9obmN1X2JQYldwSFBCaFRKaGtkRDNkczdZak04YnJoN0dJWWdBdlMwVG5UdTZSYkZWWlU2b24yM05pUk8xbzQ2cXpabkYxVlZqZkxJOUNrZGl3ZEdELWR2dm9UZXdWSW9NZFAzSU0?oc=5\" target=\"_blank\">Navratna Stock jumps 4% after signing MOU for Logistics Infrastructure Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trade Brains</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMmNTd3dHY3VBRG5rZXl0d1Z6OTZiYzBPTy1nLVhoVlhuNTk0N293dWZNc3gtWE9vVjc0SlFQNVJ2dWd0X3p0aE9FeEZiU05qVS0wMDdNdnF1RGZ0cmFKSkRRaXNkb01neEJ4UWJ4T21mT1ZaVGhhRzRwSzlPVE42Q0RhUTR2Zl9VY2tNaWZiT3kyclF6TGlNdUdR?oc=5",
+        "date": "2025-04-11",
+        "title": "Bihar Govt okays 556 INR-Crore for Urban Infrastructure Projects - Biltrax Media",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMmNTd3dHY3VBRG5rZXl0d1Z6OTZiYzBPTy1nLVhoVlhuNTk0N293dWZNc3gtWE9vVjc0SlFQNVJ2dWd0X3p0aE9FeEZiU05qVS0wMDdNdnF1RGZ0cmFKSkRRaXNkb01neEJ4UWJ4T21mT1ZaVGhhRzRwSzlPVE42Q0RhUTR2Zl9VY2tNaWZiT3kyclF6TGlNdUdR?oc=5\" target=\"_blank\">Bihar Govt okays 556 INR-Crore for Urban Infrastructure Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Biltrax Media</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWWpwdU1odzJ2OUNTVzYySWZMajFQUEtBNHYtWWhXWGRZNmxHcVI4Mlpxdi05RGxwM3RQdU1kOW9oN242S2ZhY1JRd2IzWERKbmU4UGp0ZG12Y3gwMlNhRm4wZ3AzcFZCcjBVSGZaVUUwS3JUUG42Tm5oN1E4WTNiM2VCT05LN3hKMklZem5tYl83Y0Y3LWxTVWlhcjNabzV4SVlEWTVZSVdZY1AtVUtMNm42MTh6eFFPUHF3VHd4a1BVWHlhTm9sZnM2ZTFYX29oRlNiNkt3Q2R5Z21NdFd5Xy04VVY0RlhaT3YzS3dHSlI3Yy1Zc3pHM2xISUl3UQ?oc=5",
+        "date": "2025-04-11",
+        "title": "Gujarat offers an ideal ecosystem for industries ranging from IT and infrastructure to MSMEs and startups: Amit Shah - en.etemaaddaily.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWWpwdU1odzJ2OUNTVzYySWZMajFQUEtBNHYtWWhXWGRZNmxHcVI4Mlpxdi05RGxwM3RQdU1kOW9oN242S2ZhY1JRd2IzWERKbmU4UGp0ZG12Y3gwMlNhRm4wZ3AzcFZCcjBVSGZaVUUwS3JUUG42Tm5oN1E4WTNiM2VCT05LN3hKMklZem5tYl83Y0Y3LWxTVWlhcjNabzV4SVlEWTVZSVdZY1AtVUtMNm42MTh6eFFPUHF3VHd4a1BVWHlhTm9sZnM2ZTFYX29oRlNiNkt3Q2R5Z21NdFd5Xy04VVY0RlhaT3YzS3dHSlI3Yy1Zc3pHM2xISUl3UQ?oc=5\" target=\"_blank\">Gujarat offers an ideal ecosystem for industries ranging from IT and infrastructure to MSMEs and startups: Amit Shah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">en.etemaaddaily.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajVpYmI1UE9pbnZmUDhlRUtCdGVocVN0QUtOWGxtbS1mMDNrQXVYQ0pzQ21ubkJpWVUxVFV3MXg0c01VVGREMGtOSm45YTVoc1VaOG8yUzNIemIxVW01TFRfVlZPd0s0YkNrc3RHZHN1VnktUXc5SHhLc3hjNDB5YTNieGZPOWFSMGRPV1RNMkt5QjVVbDhSUDdxRnRVaXZrcmU0M2FWbXkwNVpYQTliemlPQXJWbEctUG1uWFRJZXVOT1pQYWprUkVyazU3M0xJ0gHeAUFVX3lxTFA2R3Q4dUNDeGphRWJ2N3BkY2ZTNW9ZamVHcnN5bEoxa3g4SlJNVXp5d1l5WmNmc0taRV83bm50NHFhVUpRUDZTQjN4bmNRUDJaSko3WHo5emRvU1ZyQWp2NTdVXzRUYzFXZ00tRnFaZEVYWFhlX0czM2cxRHE3alFCaTRBdFZ3ZUI2N3JCMXVreTNxRFN2TzVhdzJvT1Q0VzNzUHhqZlVHYnpzQXpVWjZhWl9hQ1cybWFSbk51emJkTkxGVFY2WmR6YW1pbjJ5UmJtUlBFdGdnSDFSTGZSUQ?oc=5",
+        "date": "2025-04-11",
+        "title": "A vision for Assam\u2019s future: Satellite ambitions and infrastructure expansion in motion - sentinelassam.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajVpYmI1UE9pbnZmUDhlRUtCdGVocVN0QUtOWGxtbS1mMDNrQXVYQ0pzQ21ubkJpWVUxVFV3MXg0c01VVGREMGtOSm45YTVoc1VaOG8yUzNIemIxVW01TFRfVlZPd0s0YkNrc3RHZHN1VnktUXc5SHhLc3hjNDB5YTNieGZPOWFSMGRPV1RNMkt5QjVVbDhSUDdxRnRVaXZrcmU0M2FWbXkwNVpYQTliemlPQXJWbEctUG1uWFRJZXVOT1pQYWprUkVyazU3M0xJ0gHeAUFVX3lxTFA2R3Q4dUNDeGphRWJ2N3BkY2ZTNW9ZamVHcnN5bEoxa3g4SlJNVXp5d1l5WmNmc0taRV83bm50NHFhVUpRUDZTQjN4bmNRUDJaSko3WHo5emRvU1ZyQWp2NTdVXzRUYzFXZ00tRnFaZEVYWFhlX0czM2cxRHE3alFCaTRBdFZ3ZUI2N3JCMXVreTNxRFN2TzVhdzJvT1Q0VzNzUHhqZlVHYnpzQXpVWjZhWl9hQ1cybWFSbk51emJkTkxGVFY2WmR6YW1pbjJ5UmJtUlBFdGdnSDFSTGZSUQ?oc=5\" target=\"_blank\">A vision for Assam\u2019s future: Satellite ambitions and infrastructure expansion in motion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sentinelassam.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
