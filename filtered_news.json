@@ -3450,5 +3450,12 @@
         "tweet": "\ud83c\udf0d Global smart city tech spending is projected to reach $263 billion by 2028, skyrocketing from $124 billion in 2025. \n\nSuch growth emphasizes the city leaders' intensified efforts to fully digitize their operations for enhanced urban living.",
         "type": "statistical",
         "category": "smart cities"
+    },
+    {
+        "link": null,
+        "date": "2025-04-12",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \nIn Q4 2021, Apple's data centers processed 3.2 exabytes daily. \nSolid 15% increase over Q3. \nImpact? Servers now run at 87.3% capacity.  \n$AAPL",
+        "type": "infrastructure"
     }
 ]
