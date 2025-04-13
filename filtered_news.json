@@ -3310,5 +3310,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Novartis plans to invest USD 23 billion over the next 5 years in US-based infrastructure.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-04-13",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin's cloud & data center costs highest among top cryptos in 2025.\n\n1. Bitcoin: $1.5B annually\n2. Ethereum: $800M annually\n3. Solana: $300M annually",
+        "type": "crypto"
     }
 ]
