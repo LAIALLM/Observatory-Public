@@ -3243,5 +3243,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: East Coast Railway sets new records with major infrastructure development in 2024-25 financial year, surpassing previous achievements.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-04-13",
+        "status": "posted",
+        "tweet": "\ud83c\udf0f By 2025, over 600 smart cities globally are expected to generate 60% of the world\u2019s GDP, increasing efficiency and quality of life.\n\n\ud83c\uddee\ud83c\uddf3\ud83c\udfd9\ufe0f In India alone, proposals for 100 smart cities aim to accommodate 40% of the nation's population, targeting smarter urbanization.",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
