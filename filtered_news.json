@@ -3001,5 +3001,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Google's quantum computing lab in California reports a 30% increase in Qubit count from last year, enabling more complex computing tasks. $GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-04-15",
+        "status": "posted",
+        "tweet": "Bitcoin's annual cloud and data center usage is projected to consume 17.3 TWh by 2025, equivalent to the energy use of \ud83c\udde8\ud83c\udded Switzerland.",
+        "type": "crypto"
     }
 ]
