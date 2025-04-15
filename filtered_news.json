@@ -3008,5 +3008,13 @@
         "status": "posted",
         "tweet": "Bitcoin's annual cloud and data center usage is projected to consume 17.3 TWh by 2025, equivalent to the energy use of \ud83c\udde8\ud83c\udded Switzerland.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-04-15",
+        "status": "posted",
+        "tweet": "Summary: The top 5 countries with the highest projected growth in the construction sector for 2025.\n\n1. \ud83c\uddee\ud83c\uddf3 India\n2. \ud83c\udde8\ud83c\uddf3 China\n3. \ud83c\uddfa\ud83c\uddf8 USA\n4. \ud83c\uddee\ud83c\udde9 Indonesia\n5. \ud83c\uddef\ud83c\uddf5 Japan\n\nPredicted growth is led by increasing urbanization and infrastructure projects.",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
