@@ -2974,5 +2974,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-17",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 U.S. Bureau of Labor Statistics projects a 4% growth in employment for construction managers from 2025 to 2030.\n\nMeanwhile, \ud83c\udde8\ud83c\uddf3 China\u2019s construction output is predicted to increase by 5% annually for the same period, dominating the global market.",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
