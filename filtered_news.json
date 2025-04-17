@@ -3064,5 +3064,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: LG CNS to build EV charging and smart city infrastructure across the US.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-04-17",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin has the highest annual hardware costs, followed by Ethereum and Solana.\n\n1. Bitcoin: $1.8B\n2. Ethereum: $500M\n3. Solana: $100M",
+        "type": "crypto"
     }
 ]
