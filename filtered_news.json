@@ -2812,5 +2812,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-18",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft's Azure platform saw an impressive 48% usage growth in Q2 2021. Their cloud services now power over 200,000 businesses globally.\n\n($MSFT)",
+        "type": "infrastructure"
     }
 ]
