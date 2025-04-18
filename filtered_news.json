@@ -2870,5 +2870,55 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Centre and state have announced over Rs 3.9 Lakh cr for road infrastructure projects in FY25.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLXU0VnJtcGUwc1d1T242bk9vSVk3MHRtY1lGakFBZ0lrcDdjR1NadV8ybVJZWEpCNUFiMFZKTnRnN2R6REZsdUkxLXVHVVNxa2VycElYajFuQV9sdDB1WUItTm9DUGFfenplYmFNLXdpZlV6NE9sUlZtQk9CQndMSjFTX2Q?oc=5",
+        "date": "2025-04-18",
+        "title": "ONE Development unveils new showroom in Abu Dhabi - Construction Week Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQLXU0VnJtcGUwc1d1T242bk9vSVk3MHRtY1lGakFBZ0lrcDdjR1NadV8ybVJZWEpCNUFiMFZKTnRnN2R6REZsdUkxLXVHVVNxa2VycElYajFuQV9sdDB1WUItTm9DUGFfenplYmFNLXdpZlV6NE9sUlZtQk9CQndMSjFTX2Q?oc=5\" target=\"_blank\">ONE Development unveils new showroom in Abu Dhabi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Week Online</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZFNOMW1pdF9Wc2FBQ01hamZ0S3RjU2ktaFR3RnpVd0ZJZUc4a0poTENvX2ljUkVhWlN2ME9ZNnpzOXBfU2MxZkk5UEQxR2ZVOW9jZnZXQVFiSVZLRnBJWU5GRGZOTklpMDEtXzJyNy15d2oyTmZ0WXhITVhkU0pSQVpFZlF1MUdiRDRzSDBGLVlRV3p4OGZ4VFl1eUxSLUxGcmxQLTcybUdQTDNjYUpyd2p4OW9PenBPcm1zRTFyWWVjdmpuM1lvTFV3?oc=5",
+        "date": "2025-04-18",
+        "title": "Emerging Trends in Infrastructure and Transport 2025: KPMG - Construction World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQZFNOMW1pdF9Wc2FBQ01hamZ0S3RjU2ktaFR3RnpVd0ZJZUc4a0poTENvX2ljUkVhWlN2ME9ZNnpzOXBfU2MxZkk5UEQxR2ZVOW9jZnZXQVFiSVZLRnBJWU5GRGZOTklpMDEtXzJyNy15d2oyTmZ0WXhITVhkU0pSQVpFZlF1MUdiRDRzSDBGLVlRV3p4OGZ4VFl1eUxSLUxGcmxQLTcybUdQTDNjYUpyd2p4OW9PenBPcm1zRTFyWWVjdmpuM1lvTFV3?oc=5\" target=\"_blank\">Emerging Trends in Infrastructure and Transport 2025: KPMG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction World</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeEtYZFR2VzNQcHloWHVkZVJNX2dHTGRfSW9KVW12V1BZRnNzVTZldjhJYUpmR3pqcUViN0NxLVJkblZINWVweXpXaEVzVGI2bDlyTXJFLUM5QmpJNmxGWmZwSktjNmp1MS1jOUlabHFvb2txSW5RcHhYbUJ1Q2ZfTVFMWFNRNFBqWENhOEhzNElEZ3NNdHNWQzQ1NVhKLWtVbTFER3h3M0ZPSTdaME16Vw?oc=5",
+        "date": "2025-04-18",
+        "title": "Discover How Resilient Infrastructure Helps Us Face Climate Change - We Build Value",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOeEtYZFR2VzNQcHloWHVkZVJNX2dHTGRfSW9KVW12V1BZRnNzVTZldjhJYUpmR3pqcUViN0NxLVJkblZINWVweXpXaEVzVGI2bDlyTXJFLUM5QmpJNmxGWmZwSktjNmp1MS1jOUlabHFvb2txSW5RcHhYbUJ1Q2ZfTVFMWFNRNFBqWENhOEhzNElEZ3NNdHNWQzQ1NVhKLWtVbTFER3h3M0ZPSTdaME16Vw?oc=5\" target=\"_blank\">Discover How Resilient Infrastructure Helps Us Face Climate Change</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">We Build Value</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uQmw0MXVpYVpwb01RSkdKbnZieFozSXNEdWVkM1c2RV9VVUtjdndvVVFZMFBxSnJQcUlGNDdSS2hxSXZXSmxpNVpyejVoVTFUenVSSzVJZThRdHBHRWtQbC1zdC1QSkZ4UGl5RGlFNktvWm8?oc=5",
+        "date": "2025-04-18",
+        "title": "How green infrastructure is transforming circular economy - Construction Week India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9uQmw0MXVpYVpwb01RSkdKbnZieFozSXNEdWVkM1c2RV9VVUtjdndvVVFZMFBxSnJQcUlGNDdSS2hxSXZXSmxpNVpyejVoVTFUenVSSzVJZThRdHBHRWtQbC1zdC1QSkZ4UGl5RGlFNktvWm8?oc=5\" target=\"_blank\">How green infrastructure is transforming circular economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Week India</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTIwemgtV0NSTUw0aWFia2NCWDB5aXBnUWZNX01BVmNmMVlqamlfcWZGS2MxaURpQTM0aTh3R2hGY1RlV1phbDVvdW9ReDR2c1A5WWdaYUhvRWMwaFRhWUVSVEM0aUQ2YW03QkFRM2hhZjlDU09EUklhVlNHcFU0RnJMTUpRZktPTUZsclVfYzE1a3dzeDZ3?oc=5",
+        "date": "2025-04-18",
+        "title": "Big Data In Smart Cities Market Size and Growth Forecast by Application, Type, and Region - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTIwemgtV0NSTUw0aWFia2NCWDB5aXBnUWZNX01BVmNmMVlqamlfcWZGS2MxaURpQTM0aTh3R2hGY1RlV1phbDVvdW9ReDR2c1A5WWdaYUhvRWMwaFRhWUVSVEM0aUQ2YW03QkFRM2hhZjlDU09EUklhVlNHcFU0RnJMTUpRZktPTUZsclVfYzE1a3dzeDZ3?oc=5\" target=\"_blank\">Big Data In Smart Cities Market Size and Growth Forecast by Application, Type, and Region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
