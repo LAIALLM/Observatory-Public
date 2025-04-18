@@ -2920,5 +2920,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-18",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d By 2030, global spending on engineering projects is projected to reach a staggering $15.5 trillion! With a CAGR of 4.2% from 2025 onwards, Asia Pacific \ud83c\udf0f will account for approximately 60% of this growth. Engineers, ready for opportunities?",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
