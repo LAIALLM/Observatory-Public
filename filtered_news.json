@@ -2789,5 +2789,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Kundara Taluk Hospital set for major upgrade with new operation theatre and ICU.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaHFRYm83dHp0aHZxTUYzRF9KM1h6dXJvNFRVMnZQTm1OTFJQRkMxZFBYVjFDU3lUNS1YeGNUcGw0WklFVnVCLWdUeU11VHhfLVJfdFJmNGZqbG1WWm90bXRCS1lVeXptVEFRVGgwZV9RT01aZXlPSkpTdXJGdEpxWDRnYXBUcmMwakxsRVpidGJjeERrcTFUZVI4c3hiTlgxdmJtT3NBQVpIZ3RBLW0zcUNjQ3h2eXlDTTBPZ1Z5ekVydktaQnVvSXFnaDg?oc=5",
+        "date": "2025-04-19",
+        "title": "Oracle Red Bull Racing runs billions of simulations on Oracle Cloud Infrastructure - Intelligent CIO",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOaHFRYm83dHp0aHZxTUYzRF9KM1h6dXJvNFRVMnZQTm1OTFJQRkMxZFBYVjFDU3lUNS1YeGNUcGw0WklFVnVCLWdUeU11VHhfLVJfdFJmNGZqbG1WWm90bXRCS1lVeXptVEFRVGgwZV9RT01aZXlPSkpTdXJGdEpxWDRnYXBUcmMwakxsRVpidGJjeERrcTFUZVI4c3hiTlgxdmJtT3NBQVpIZ3RBLW0zcUNjQ3h2eXlDTTBPZ1Z5ekVydktaQnVvSXFnaDg?oc=5\" target=\"_blank\">Oracle Red Bull Racing runs billions of simulations on Oracle Cloud Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intelligent CIO</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
