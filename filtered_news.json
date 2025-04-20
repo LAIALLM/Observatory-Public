@@ -2476,5 +2476,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-20",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf3 By 2050, 68% of the world's population will live in urban areas. \n\n\ud83c\uddee\ud83c\uddf3 \ud83c\uddea\ud83c\uddec Rapid urbanization in India and Egypt is projected to swell city populations by 500 million+ between 2025 - 2050.\n\n\ud83c\udf0d Sustainable city development is becoming a priority to accommodate the influx.",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
