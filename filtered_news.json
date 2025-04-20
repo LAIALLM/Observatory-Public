@@ -2459,5 +2459,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-20",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple:\nProcessed over 2.2 billion Siri requests daily in 2020.\nData center energy efficiency hit 94%.\n$AAPL",
+        "type": "infrastructure"
     }
 ]
