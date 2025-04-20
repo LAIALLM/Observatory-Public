@@ -2449,5 +2449,15 @@
         "status": "posted",
         "tweet": "In 2025, Bitcoin's annual maintenance and security costs are projected to reach $1.5 billion, highlighting the significant infrastructure investment required to sustain the network.\n\nSource: Crypto Infrastructure Report 2025",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV1ozRzV4cDkwRWlZYlczMl9uRkQtYmxJWXJydXNGaW9reVcxTFFmbmZJamY0VzFIUWF4ME9TWHdTZWNfOXpiWXh4WnBNTWZTSEltVVdEUVNRbUJhMkd1TVJBb1E2dF9SN3hFOVViNDNJa3FNV05kWVQ1ejNhcXdxWGVjNFRmNzAxZ3NaaW5ka3RWS2xaeFpnX2VMb2t6MHlCd0ZHM0dlLUs3WGkzNjhZTDBiOTFGclU5QlRiVEEyZU5uQQ?oc=5",
+        "date": "2025-04-20",
+        "title": "Critical infrastructure accounted for 70% attacks that IBM X-Force responded to - Intelligent CIO",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV1ozRzV4cDkwRWlZYlczMl9uRkQtYmxJWXJydXNGaW9reVcxTFFmbmZJamY0VzFIUWF4ME9TWHdTZWNfOXpiWXh4WnBNTWZTSEltVVdEUVNRbUJhMkd1TVJBb1E2dF9SN3hFOVViNDNJa3FNV05kWVQ1ejNhcXdxWGVjNFRmNzAxZ3NaaW5ka3RWS2xaeFpnX2VMb2t6MHlCd0ZHM0dlLUs3WGkzNjhZTDBiOTFGclU5QlRiVEEyZU5uQQ?oc=5\" target=\"_blank\">Critical infrastructure accounted for 70% attacks that IBM X-Force responded to</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intelligent CIO</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
