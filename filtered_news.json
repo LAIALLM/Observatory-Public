@@ -2089,5 +2089,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-21",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India is projected to surpass \ud83c\udde8\ud83c\uddf3 China as the world's most populated country by 2027, with an estimated population of 1.46 billion.\n\nMeanwhile, renewables contribute to 45% of India's energy mix in 2025, a significant increase compared to China's 35%.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
