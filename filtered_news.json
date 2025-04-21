@@ -2117,5 +2117,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-21",
+        "status": "posted",
+        "tweet": "Summary: Solana has the highest validator decentralization, followed by Ethereum and Bitcoin.\n\n1. Solana: 1,838 validators\n2. Ethereum: 537,000 validators\n3. Bitcoin: 13,000 nodes",
+        "type": "crypto"
     }
 ]
