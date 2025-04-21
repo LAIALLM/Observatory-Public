@@ -2407,5 +2407,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Amaravati set to become worlds first fully renewable-powered city, powered entirely by solar and wind energy.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-04-21",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8Apple Inc. \n\nEnergy Efficiency Rating: \ud83d\udd0bA++\n\nAnnual Energy Consumption: \ud83d\udcc912.8 TWh in 2020 \n\n$AAPL",
+        "type": "infrastructure"
     }
 ]
