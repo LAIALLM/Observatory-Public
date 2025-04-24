@@ -2507,5 +2507,12 @@
         "tweet": "\ud83c\udf0d Global wind and solar power capacity is expected to exceed 2,500 GW in 2025, reaching nearly 60% of total installed power generation capacity, according to the IEA. Renewable energy now fuels the equivalent of 40% of the world's electricity. \ud83c\udf1e\ud83d\udca8\ud83d\udd0b",
         "type": "statistical",
         "category": "energy"
+    },
+    {
+        "link": null,
+        "date": "2025-04-24",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8Microsoft\n\nThird quarter report: \nEnergy consumption dropped by 15%. \nData center efficiency at an all-time high at 98%. \n\nImplementing green strategies has paid off. \ud83d\udcbc\n(Stocks: $MSFT)",
+        "type": "infrastructure"
     }
 ]
