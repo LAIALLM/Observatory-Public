@@ -2419,5 +2419,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL\nEnergy use for the 2020 fiscal year:\nTotal consumption - 74,900,000 MWh. \nRenewables - 99% of total. \nCarbon footprint decreased by 40% since 2015.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWGtJWW9zNXZrNFBpQkJiZHNJUl9wS19iUkFSMmZ1Tzg4cEJtUnRMQzFfZUNrSXI0aXdOLWlEbnp5cUZnOEJjdGF6UFJmVUo5Q0tKNGRNUUlTWjFhSnozSzlHdUVGei16Y3BRTlgyT1pkVlY0dkNUdVdoS1VkWEo4bDRITU5UOTd1alE?oc=5",
+        "date": "2025-04-25",
+        "title": "Parkop attends regional meet for urban development - Post Courier",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNWGtJWW9zNXZrNFBpQkJiZHNJUl9wS19iUkFSMmZ1Tzg4cEJtUnRMQzFfZUNrSXI0aXdOLWlEbnp5cUZnOEJjdGF6UFJmVUo5Q0tKNGRNUUlTWjFhSnozSzlHdUVGei16Y3BRTlgyT1pkVlY0dkNUdVdoS1VkWEo4bDRITU5UOTd1alE?oc=5\" target=\"_blank\">Parkop attends regional meet for urban development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Post Courier</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
