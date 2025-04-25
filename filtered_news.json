@@ -2459,5 +2459,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-25",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India's projected population for 2025 is 1.43B. Regardless, literacy rates are predicted to rise to 88%.\n\n\ud83c\udde8\ud83c\uddf3 In China, with a decreasing population estimate of 1.38B, literacy rates are expected to be 97%.\n \nClearly, both nations are making significant strides in education.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
