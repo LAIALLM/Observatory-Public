@@ -2412,5 +2412,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: San Diego adopts its first ever mobility master plan, aiming to enhance transportation options across the city.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-04-25",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL\nEnergy use for the 2020 fiscal year:\nTotal consumption - 74,900,000 MWh. \nRenewables - 99% of total. \nCarbon footprint decreased by 40% since 2015.",
+        "type": "infrastructure"
     }
 ]
