@@ -2660,5 +2660,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: JCP&Ls $919 million infrastructure investment plan approved by BPU to enhance electric system reliability.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-04-25",
+        "status": "posted",
+        "tweet": "Bitcoin's annual carbon footprint exceeds 22 million metric tons of CO2, surpassing the yearly emissions of \ud83c\udde7\ud83c\udded Bahrain.\n\nEthereum's shift to proof-of-stake in 2022 reduced its carbon footprint by 99.95%, now emitting less than 3,000 metric tons of CO2 annually.\n\nSolana's energy c",
+        "type": "crypto"
     }
 ]
