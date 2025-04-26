@@ -2317,5 +2317,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Mascot Infrastructure to develop an integrated industrial township at Vithalapur.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-04-26",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 U.S. construction companies will generate $1.8 trillion in revenue by end of 2025, up 15% from 2023.\n\n\ud83c\udf0e Globally, construction industry is forecasted to reach $15.5 trillion by 2030, a 55% increase in 7 years. Growth driven by Asia & Middle East. Double digit growth expected.",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
