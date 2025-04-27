@@ -2089,5 +2089,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-27",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global infrastructure spending needs to reach $94 trillion by 2040 to keep pace with developmental goals. In contrast \ud83c\uddfa\ud83c\uddf8 U.S. infrastructure has an investment gap of $2.59 trillion through 2029. Time to bridge the gaps and prioritize infrastructure!",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
