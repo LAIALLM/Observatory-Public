@@ -2107,5 +2107,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-27",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual maintenance and security costs are projected to reach $1.5 billion, surpassing the combined budgets of \ud83c\uddfa\ud83c\uddf8 USA's top 5 national parks.",
+        "type": "crypto"
     }
 ]
