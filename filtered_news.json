@@ -2134,5 +2134,25 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tOURzTEhwNVRWWnFsRC1YVDNmOGxfWkVNbUpUZGV6UGdfdDlHVDZ6ZkRheGxRZm5FXzlxVzBVa2ZVM0NRbFNYLTBLTWZ3dkd0?oc=5",
+        "date": "2025-04-27",
+        "title": "Ideas: The DeepSeek moment: A catalyst for AI infrastructure growth - The Edge Malaysia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tOURzTEhwNVRWWnFsRC1YVDNmOGxfWkVNbUpUZGV6UGdfdDlHVDZ6ZkRheGxRZm5FXzlxVzBVa2ZVM0NRbFNYLTBLTWZ3dkd0?oc=5\" target=\"_blank\">Ideas: The DeepSeek moment: A catalyst for AI infrastructure growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Edge Malaysia</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOajAweHJ0cFRfak95Y2ZfQzNhM2NCYUtKdTRIcnJmZUl5emxQSDdETDkyWnNiNVNKSG1xSGhpLTV1NC1PSnJsLWlGUnhSMFE1YVhxRDI0ZE5Gek9kUW5jcXE2VUo3NUxxRHlQQ2NWN0ZjZGlWWG0zS3JGNUkyN3ZYM1pfd21GSTMyNGgzSzg4X0M3ZjNzZ1pLTEhSQWszTjhHWm1qM0VjUDNDU2xhUXRtdzdIbEo0cXM1QTczbXhHSlFzenpGN2ROczhITjNsS2c?oc=5",
+        "date": "2025-04-27",
+        "title": "Over 70 lakh trees planted in Ahmedabad in three years, PM Modi commends city's efforts in 'Mann Ki Baat' - The News Mill",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOajAweHJ0cFRfak95Y2ZfQzNhM2NCYUtKdTRIcnJmZUl5emxQSDdETDkyWnNiNVNKSG1xSGhpLTV1NC1PSnJsLWlGUnhSMFE1YVhxRDI0ZE5Gek9kUW5jcXE2VUo3NUxxRHlQQ2NWN0ZjZGlWWG0zS3JGNUkyN3ZYM1pfd21GSTMyNGgzSzg4X0M3ZjNzZ1pLTEhSQWszTjhHWm1qM0VjUDNDU2xhUXRtdzdIbEo0cXM1QTczbXhHSlFzenpGN2ROczhITjNsS2c?oc=5\" target=\"_blank\">Over 70 lakh trees planted in Ahmedabad in three years, PM Modi commends city's efforts in 'Mann Ki Baat'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The News Mill</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
