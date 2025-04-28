@@ -1920,5 +1920,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-04-28",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global construction market is projected to hit $15.5 trillion by 2030, with \ud83c\uddfa\ud83c\uddf8 US hitting a 4.2% growth rate and \ud83c\udde8\ud83c\uddf3 China maintaining at a steady 2% growth rate. 40% of this boom will be driven by urbanization in emerging economies.",
+        "type": "statistical",
+        "category": "construction projects"
     }
 ]
