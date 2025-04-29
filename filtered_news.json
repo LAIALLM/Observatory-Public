@@ -1965,5 +1965,46 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tZFpDNXBZa1dKcEc5bDFMT1J3ZGtVMlJkRnRCVmk0M1EtaVlTUWJSQnVLaTFSWTlKZ2hDVzRHWDk5amVGOS0yTWVfVzlDVVZpdE5JTDlzUWNhbUF1ZUk0aDdId3hxQktfcWhfNlNn?oc=5",
+        "date": "2025-04-29",
+        "title": "Uttar Pradesh to Build 57 Smart Cities - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5tZFpDNXBZa1dKcEc5bDFMT1J3ZGtVMlJkRnRCVmk0M1EtaVlTUWJSQnVLaTFSWTlKZ2hDVzRHWDk5amVGOS0yTWVfVzlDVVZpdE5JTDlzUWNhbUF1ZUk0aDdId3hxQktfcWhfNlNn?oc=5\" target=\"_blank\">Uttar Pradesh to Build 57 Smart Cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Uttar Pradesh to build 57 smart cities, aiming to enhance urban living standards."
+    },
+    {
+        "link": "https://www.enr.com/articles/60600-ai-driven-sitecloud-search",
+        "date": "2025-04-29",
+        "title": "AI-driven SiteCloud Search",
+        "summary": "<p>In the complex world of construction, what remains constant is the importance of delivering projects on time and on budget. AI-driven SiteCloud Search can help you do just that.</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/60599-a-practical-application-for-ai-to-improve-construction-productivity",
+        "date": "2025-04-29",
+        "title": "A Practical Application for AI to Improve Construction Productivity",
+        "summary": "<p>AI is shoehorned into every conversation about optimizing just about any industry. Construction is certainly not exempt from this.  </p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tZFpDNXBZa1dKcEc5bDFMT1J3ZGtVMlJkRnRCVmk0M1EtaVlTUWJSQnVLaTFSWTlKZ2hDVzRHWDk5amVGOS0yTWVfVzlDVVZpdE5JTDlzUWNhbUF1ZUk0aDdId3hxQktfcWhfNlNn?oc=5",
+        "date": "2025-04-29",
+        "title": "Uttar Pradesh to Build 57 Smart Cities - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5tZFpDNXBZa1dKcEc5bDFMT1J3ZGtVMlJkRnRCVmk0M1EtaVlTUWJSQnVLaTFSWTlKZ2hDVzRHWDk5amVGOS0yTWVfVzlDVVZpdE5JTDlzUWNhbUF1ZUk0aDdId3hxQktfcWhfNlNn?oc=5\" target=\"_blank\">Uttar Pradesh to Build 57 Smart Cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Uttar Pradesh to build 57 smart cities, aiming to enhance urban living standards.",
+        "type": "news"
     }
 ]
