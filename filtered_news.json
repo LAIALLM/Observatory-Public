@@ -2084,5 +2084,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Nava Raipur Atal Nagar becomes Indias first debt-free planned city.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-04-29",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin has the highest carbon footprint, followed by Ethereum and Solana.\n\n1. Bitcoin: 22-23 MT CO2e per transaction\n2. Ethereum: 26-39 kg CO2e per transaction\n3. Solana: 0.00056 kg CO2e per transaction",
+        "type": "crypto"
     }
 ]
