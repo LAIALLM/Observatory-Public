@@ -2091,5 +2091,35 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin has the highest carbon footprint, followed by Ethereum and Solana.\n\n1. Bitcoin: 22-23 MT CO2e per transaction\n2. Ethereum: 26-39 kg CO2e per transaction\n3. Solana: 0.00056 kg CO2e per transaction",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vUnVGMkl1TVNfaW5YMjdUU0ZVVzI2TmUwVERRdHVHQlViV0prQmxuaUhqWE1kLVZLaFVxQXdjeEdDYUU2cmZCMQ?oc=5",
+        "date": "2025-04-29",
+        "title": "Nozomi Networks Spotlights the Future of Cybersecurity for Critical Infrastructure - APN News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vUnVGMkl1TVNfaW5YMjdUU0ZVVzI2TmUwVERRdHVHQlViV0prQmxuaUhqWE1kLVZLaFVxQXdjeEdDYUU2cmZCMQ?oc=5\" target=\"_blank\">Nozomi Networks Spotlights the Future of Cybersecurity for Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">APN News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeWxZT0xaR2d6ZXZoa3N0UndWaUFVTlM1aHpDQVRKTzlpZXNIWXFWYWp6LUlSOWFLVUlHMVpJd0VNY3BRMG14VTA3YTJ6Yi1ScHB6eFJRZzdQY0M5UE9hN2F1Nzh5V1V3dUNWZ0d2SGFlSjNaVC1VcC1rYkhwX0Q4bzRXb3hsNTg2bkRQYk9ndlVPTi0xRlNZbTRKdnlnb3did3BueUR0NzZXTmJKODFUMDFYVVIyb0I2SVh4cGhQeHpPYk9US3NaVG81NlFVeDg?oc=5",
+        "date": "2025-04-29",
+        "title": "Turkish Trade Minister to lead construction and infrastructure delegation to Tripoli from 29-30 April - Libya Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNeWxZT0xaR2d6ZXZoa3N0UndWaUFVTlM1aHpDQVRKTzlpZXNIWXFWYWp6LUlSOWFLVUlHMVpJd0VNY3BRMG14VTA3YTJ6Yi1ScHB6eFJRZzdQY0M5UE9hN2F1Nzh5V1V3dUNWZ0d2SGFlSjNaVC1VcC1rYkhwX0Q4bzRXb3hsNTg2bkRQYk9ndlVPTi0xRlNZbTRKdnlnb3did3BueUR0NzZXTmJKODFUMDFYVVIyb0I2SVh4cGhQeHpPYk9US3NaVG81NlFVeDg?oc=5\" target=\"_blank\">Turkish Trade Minister to lead construction and infrastructure delegation to Tripoli from 29-30 April</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Libya Herald</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQl9mYVdqdVkwUGN0cGMyTEotWVFUUFdlQkxtbTkydVhmamE0YUhjNGRMRFM0VzlOaXpBT1k4d21yUjE5RXJ1WEtMcTUyUDk2R1E2SEdhMmxjNHU5dnR4TG5iQXU1aXliYXpyRzRrXzVONGJqQi1meE44S2EwZloxV1BCSmsxdy1sVHA3VjgwRkF4ZTRDSC1zN3I5X1JaQm9uWldMMXdqZFdGUTlKTDVVa1RxU0FRUkVETExzckg1YkotMWZaMHY4U01kMVRsWVBfcmEw?oc=5",
+        "date": "2025-04-29",
+        "title": "Abuja and Lagos show progress while Nairobi drops in 2025 smart cities ranking - Business Insider Africa",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQl9mYVdqdVkwUGN0cGMyTEotWVFUUFdlQkxtbTkydVhmamE0YUhjNGRMRFM0VzlOaXpBT1k4d21yUjE5RXJ1WEtMcTUyUDk2R1E2SEdhMmxjNHU5dnR4TG5iQXU1aXliYXpyRzRrXzVONGJqQi1meE44S2EwZloxV1BCSmsxdy1sVHA3VjgwRkF4ZTRDSC1zN3I5X1JaQm9uWldMMXdqZFdGUTlKTDVVa1RxU0FRUkVETExzckg1YkotMWZaMHY4U01kMVRsWVBfcmEw?oc=5\" target=\"_blank\">Abuja and Lagos show progress while Nairobi drops in 2025 smart cities ranking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Africa</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
