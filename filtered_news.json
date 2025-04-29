@@ -2006,5 +2006,83 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Uttar Pradesh to build 57 smart cities, aiming to enhance urban living standards.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-04-29",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 San Francisco-based tech giant XYZ Corp. announced a record:\n- 2 Petabytes of daily data processed\n- 15% increase from Q4 2020\n- Supported by an advanced AI infrastructure.\n\n $XYZ",
+        "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZkVVOWVEYWRpdkRiRUtWS0hPLTVxMnNrX1I4MV9Hd2hQT2xxVGVYd1ZqZFUtNVFENHlhcGUyeHRJcmozcHVrXzJ6a0k2VHZ0NF9yb3Rtb3hTSTNSczEwSUpjUnREc3NGQ1EtbFlzWHNlcGZJSFhqSGtZSzZ5STZLZUtmQ09pVG44TUE?oc=5",
+        "date": "2025-04-29",
+        "title": "Rethinking marketing in the construction industry and the path to improvement - Construction Week Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPZkVVOWVEYWRpdkRiRUtWS0hPLTVxMnNrX1I4MV9Hd2hQT2xxVGVYd1ZqZFUtNVFENHlhcGUyeHRJcmozcHVrXzJ6a0k2VHZ0NF9yb3Rtb3hTSTNSczEwSUpjUnREc3NGQ1EtbFlzWHNlcGZJSFhqSGtZSzZ5STZLZUtmQ09pVG44TUE?oc=5\" target=\"_blank\">Rethinking marketing in the construction industry and the path to improvement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Week Online</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUVM4ejB6TDMwUndaOXNwSFp2X1VGa3VZR1FPZDk3cmdZWlY5LWY4WElsaWtWZFFJQW9tLTZZb05hc25rYmFSNXpra1FQbXFuNUxjdHRrRVRPVG14dVNFV0VWWHVMbVRHYm1KVTI1d0tjZzhHcExRY0YxOXVrQS1WZ2NkaTlBT1BpemtlQjFvemJONzZWTURBcXNfd0xraWt4RFNPZnpjNzByZ3hoN0V2aw?oc=5",
+        "date": "2025-04-29",
+        "title": "CEC Kargil inspects ongoing infrastructure projects, addresses public concerns - Voice of Ladakh",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPUVM4ejB6TDMwUndaOXNwSFp2X1VGa3VZR1FPZDk3cmdZWlY5LWY4WElsaWtWZFFJQW9tLTZZb05hc25rYmFSNXpra1FQbXFuNUxjdHRrRVRPVG14dVNFV0VWWHVMbVRHYm1KVTI1d0tjZzhHcExRY0YxOXVrQS1WZ2NkaTlBT1BpemtlQjFvemJONzZWTURBcXNfd0xraWt4RFNPZnpjNzByZ3hoN0V2aw?oc=5\" target=\"_blank\">CEC Kargil inspects ongoing infrastructure projects, addresses public concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Voice of Ladakh</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRTJaNEVFWE03cEMyeE5oQlk1MzY1d2lpZmlPajNUaklzT3JZS1lXWGthOEFDZ1hOczNVQld0amVWS1Mya281LVZfQVpLT3JJUkZ5UVYtS3VSdEl3RUVlQllPQzFBS2IyUDBaWHE4eFdUSWt4QnZVYzl1d0tuQUd6RElHTGJZbXhVYWdMRUFzS0hZRUdsQW9kTHhsTzg?oc=5",
+        "date": "2025-04-29",
+        "title": "Hyper-Converged Infrastructure Market Expansion and Industry Insights | 2025 To 2034 Outlook Report - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNRTJaNEVFWE03cEMyeE5oQlk1MzY1d2lpZmlPajNUaklzT3JZS1lXWGthOEFDZ1hOczNVQld0amVWS1Mya281LVZfQVpLT3JJUkZ5UVYtS3VSdEl3RUVlQllPQzFBS2IyUDBaWHE4eFdUSWt4QnZVYzl1d0tuQUd6RElHTGJZbXhVYWdMRUFzS0hZRUdsQW9kTHhsTzg?oc=5\" target=\"_blank\">Hyper-Converged Infrastructure Market Expansion and Industry Insights | 2025 To 2034 Outlook Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDdjU2Y3QTdlQ1p0WXZjMjBVQnEtMHRpWkdnWlZOZy1pUmtJRE1JOWZsNnQtZE5zamFudmc5QXJOSjd0V3JXZG1sSVdLaFR0bVpKYlN5VEFmb3JEaS01cGVBLUVvaV9DUXNrTXpGM3RDWmRmampleWJFdWtfUUhmLVJZSDRUdEh0T3VFLUo0SzRpRkRKY2daSzJB?oc=5",
+        "date": "2025-04-29",
+        "title": "Metro Rail Infrastructure Market Set to Grow at a 7.7% CAGR Through 2032 | Persistence Market Research Analysis - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDdjU2Y3QTdlQ1p0WXZjMjBVQnEtMHRpWkdnWlZOZy1pUmtJRE1JOWZsNnQtZE5zamFudmc5QXJOSjd0V3JXZG1sSVdLaFR0bVpKYlN5VEFmb3JEaS01cGVBLUVvaV9DUXNrTXpGM3RDWmRmampleWJFdWtfUUhmLVJZSDRUdEh0T3VFLUo0SzRpRkRKY2daSzJB?oc=5\" target=\"_blank\">Metro Rail Infrastructure Market Set to Grow at a 7.7% CAGR Through 2032 | Persistence Market Research Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTWNTWGs4UlBKMkM0WDJtc1NMZHBRZXUzRlE2aV9DbTNNNWl2ckdoal9RcE9JQjBSSHRYZmQwVk9Ra1BHT2d2U2NYV1JsLXhjLWR4X050Y19uMjBsWlZQWjdKaENiVE1jdDlaVTdGdjdoRFVfVDI2ZmxwNmtXWERlTUtzYXBsb0RUaDVleENuWU9HS2NWa3M3anZETm5FdVJheXN0YkJMWWpMc2xMdHVvSWJ2SU5kM1J3X2xYNlV6WEVwNXdpTHllRVQ4T1RwcDZmMFJrOGFFa2tteUNxZHZLdk5sNkRudmVDMEx5WdIB8gFBVV95cUxQZE95dFFpMzNsMHpzT3pvSW5pVVR1QWNaeFItUnRDQUJhNE5tV3I5dFFwX2lxSkNtYkpsUjA5elRPLUdxWjd1LWFQVzlvMmZpTjFxeHRIQUQ0UXBIR29EZ3lfVERnWUEwblBwNklpRl8zV1VmcWRzeFUzdFQ3SkhHaFFjeVRyTjhVWVhKMlpGV0xtVVhURVhRSF84VkY0dUdiZWRqN1hRRnIyQndLZmJVZXA0WFlITGZraEoyVFRoWU5xVmYwbVZxV1o3SnRSSFh0UVkzSzk0RElOanRkdzQ3T3RqZk5RcnFuMl9LTmhWTkRNQQ?oc=5",
+        "date": "2025-04-29",
+        "title": "Pinning Down HICL Infrastructure PLC's (LON:HICL) P/E Is Difficult Right Now - simplywall.st",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTWNTWGs4UlBKMkM0WDJtc1NMZHBRZXUzRlE2aV9DbTNNNWl2ckdoal9RcE9JQjBSSHRYZmQwVk9Ra1BHT2d2U2NYV1JsLXhjLWR4X050Y19uMjBsWlZQWjdKaENiVE1jdDlaVTdGdjdoRFVfVDI2ZmxwNmtXWERlTUtzYXBsb0RUaDVleENuWU9HS2NWa3M3anZETm5FdVJheXN0YkJMWWpMc2xMdHVvSWJ2SU5kM1J3X2xYNlV6WEVwNXdpTHllRVQ4T1RwcDZmMFJrOGFFa2tteUNxZHZLdk5sNkRudmVDMEx5WdIB8gFBVV95cUxQZE95dFFpMzNsMHpzT3pvSW5pVVR1QWNaeFItUnRDQUJhNE5tV3I5dFFwX2lxSkNtYkpsUjA5elRPLUdxWjd1LWFQVzlvMmZpTjFxeHRIQUQ0UXBIR29EZ3lfVERnWUEwblBwNklpRl8zV1VmcWRzeFUzdFQ3SkhHaFFjeVRyTjhVWVhKMlpGV0xtVVhURVhRSF84VkY0dUdiZWRqN1hRRnIyQndLZmJVZXA0WFlITGZraEoyVFRoWU5xVmYwbVZxV1o3SnRSSFh0UVkzSzk0RElOanRkdzQ3T3RqZk5RcnFuMl9LTmhWTkRNQQ?oc=5\" target=\"_blank\">Pinning Down HICL Infrastructure PLC's (LON:HICL) P/E Is Difficult Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczJOYTRUUmZkeTJmNFVRTUVvMjBPS2RzM29uWDE0TUJ5OTFtUUIwVmVGX3p0WWVIZ2VQWHp4TzN4M2V2N2hEeW50Q1dPSDVZT3BTYlZWTWo1SGI4eXhmeFViQVJJSDUxQktCMk9KX29idjhlajNCLWZja2F6aHpGZlh5b012VUZCZzdOb3pnd2tQWDVhd0VZRUpjUzNmaG9UbnfSAacBQVVfeXFMT2J4UXBoTnVXMU5PRmNMeWxGWE9ua3Vteng1ck5QN3ZuWWZwdDR0WTZuSEx4TF9EVDNVb1UzMXZOcjlWV3RsS0FRemJDNjhBWm50VzZxbWNpdEQ0T1Z6NURuLVZvdWNZRVo5MjBwOXdtRlcyV1dpcjZ6blBOR191My0zbGN0UDdNOG5rSFV6Q08xU1NJVXBvY0EtWXBlaV9OSEhOM1VXRVU?oc=5",
+        "date": "2025-04-29",
+        "title": "Nava Raipur Atal Nagar Becomes India\u2019s First Debt-Free Planned City - NDTV Profit",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQczJOYTRUUmZkeTJmNFVRTUVvMjBPS2RzM29uWDE0TUJ5OTFtUUIwVmVGX3p0WWVIZ2VQWHp4TzN4M2V2N2hEeW50Q1dPSDVZT3BTYlZWTWo1SGI4eXhmeFViQVJJSDUxQktCMk9KX29idjhlajNCLWZja2F6aHpGZlh5b012VUZCZzdOb3pnd2tQWDVhd0VZRUpjUzNmaG9UbnfSAacBQVVfeXFMT2J4UXBoTnVXMU5PRmNMeWxGWE9ua3Vteng1ck5QN3ZuWWZwdDR0WTZuSEx4TF9EVDNVb1UzMXZOcjlWV3RsS0FRemJDNjhBWm50VzZxbWNpdEQ0T1Z6NURuLVZvdWNZRVo5MjBwOXdtRlcyV1dpcjZ6blBOR191My0zbGN0UDdNOG5rSFV6Q08xU1NJVXBvY0EtWXBlaV9OSEhOM1VXRVU?oc=5\" target=\"_blank\">Nava Raipur Atal Nagar Becomes India\u2019s First Debt-Free Planned City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV Profit</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Nava Raipur Atal Nagar becomes Indias first debt-free planned city."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczJOYTRUUmZkeTJmNFVRTUVvMjBPS2RzM29uWDE0TUJ5OTFtUUIwVmVGX3p0WWVIZ2VQWHp4TzN4M2V2N2hEeW50Q1dPSDVZT3BTYlZWTWo1SGI4eXhmeFViQVJJSDUxQktCMk9KX29idjhlajNCLWZja2F6aHpGZlh5b012VUZCZzdOb3pnd2tQWDVhd0VZRUpjUzNmaG9UbnfSAacBQVVfeXFMT2J4UXBoTnVXMU5PRmNMeWxGWE9ua3Vteng1ck5QN3ZuWWZwdDR0WTZuSEx4TF9EVDNVb1UzMXZOcjlWV3RsS0FRemJDNjhBWm50VzZxbWNpdEQ0T1Z6NURuLVZvdWNZRVo5MjBwOXdtRlcyV1dpcjZ6blBOR191My0zbGN0UDdNOG5rSFV6Q08xU1NJVXBvY0EtWXBlaV9OSEhOM1VXRVU?oc=5",
+        "date": "2025-04-29",
+        "title": "Nava Raipur Atal Nagar Becomes India\u2019s First Debt-Free Planned City - NDTV Profit",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQczJOYTRUUmZkeTJmNFVRTUVvMjBPS2RzM29uWDE0TUJ5OTFtUUIwVmVGX3p0WWVIZ2VQWHp4TzN4M2V2N2hEeW50Q1dPSDVZT3BTYlZWTWo1SGI4eXhmeFViQVJJSDUxQktCMk9KX29idjhlajNCLWZja2F6aHpGZlh5b012VUZCZzdOb3pnd2tQWDVhd0VZRUpjUzNmaG9UbnfSAacBQVVfeXFMT2J4UXBoTnVXMU5PRmNMeWxGWE9ua3Vteng1ck5QN3ZuWWZwdDR0WTZuSEx4TF9EVDNVb1UzMXZOcjlWV3RsS0FRemJDNjhBWm50VzZxbWNpdEQ0T1Z6NURuLVZvdWNZRVo5MjBwOXdtRlcyV1dpcjZ6blBOR191My0zbGN0UDdNOG5rSFV6Q08xU1NJVXBvY0EtWXBlaV9OSEhOM1VXRVU?oc=5\" target=\"_blank\">Nava Raipur Atal Nagar Becomes India\u2019s First Debt-Free Planned City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV Profit</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Nava Raipur Atal Nagar becomes Indias first debt-free planned city.",
+        "type": "news"
     }
 ]
