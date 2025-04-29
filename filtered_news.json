@@ -1945,5 +1945,25 @@
         "tweet": "\ud83c\udf0d Global infrastructure spending is set to hit $94 trillion by 2040, but we're still $15 trillion short of what's required for a smooth transition to a sustainable, climate-resilient world. The gap exposes critical need for renewed investment & financing strategies in 2025.",
         "type": "statistical",
         "category": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaWFxcm5hR19nLWszMWo3MDFpY3hUdnJjY19nZ1ZoWlg1WVR4VFhPckJqTnZXcWNibW10M3gtS3FZSGhVdkQ5ZWtwdzFUMFRYdXk5SVRkQWY4V0ZxYVd1al92azJUYWxheFhBTExNa0YwTDZqdjU0MWN5dE5rV1RRdE1KbXRpVWREMmE5aGRjZWxWVWlJZzgwSWVtU0VBbkhy?oc=5",
+        "date": "2025-04-29",
+        "title": "MTN suffers cybersecurity, but critical infrastructure secure - Communications Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNaWFxcm5hR19nLWszMWo3MDFpY3hUdnJjY19nZ1ZoWlg1WVR4VFhPckJqTnZXcWNibW10M3gtS3FZSGhVdkQ5ZWtwdzFUMFRYdXk5SVRkQWY4V0ZxYVd1al92azJUYWxheFhBTExNa0YwTDZqdjU0MWN5dE5rV1RRdE1KbXRpVWREMmE5aGRjZWxWVWlJZzgwSWVtU0VBbkhy?oc=5\" target=\"_blank\">MTN suffers cybersecurity, but critical infrastructure secure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications Today</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://infrastructuremagazine.com.au/women-in-industry-award-derelle-mitchell/",
+        "date": "2025-04-29",
+        "title": "A look back at the 2024 Woman of the Year winner",
+        "summary": "<figure><img alt=\"The 2024 Woman of the Year was Derelle Mitchell from Health Focus Manufacturing.\" src=\"https://infrastructuremagazine.com.au/wp-content/uploads/2025/04/2024-06-20PRI_2284_-Enhanced-NR_LR1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" /><figcaption>Image: Women in Industry Awards </figcaption></figure>The Women in Industry Awards are a platform to recognise and celebrate the achievements of women across a diverse range of industrial sectors.\u00a0\u00a0 For more than a decade, the awards [&#8230;]",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
