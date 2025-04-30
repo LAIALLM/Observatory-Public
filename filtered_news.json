@@ -2144,5 +2144,15 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WX2VfWmNwc1Jfc0E2ZjhaeXRFZkZDSkRrU0dIY1lNSGdaQ21rb1NYTE9qa24tYktyVkhKYmtsZnQ3SXRYd0ZDMTNHNHh1V3JOeU5mSXBvSldnVzl3LU5Fekw5MU42REUxNE1YWmdqZ0FQZ3c?oc=5",
+        "date": "2025-04-30",
+        "title": "Pune Urban Plan Revamp Targets 2046 Vision - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9WX2VfWmNwc1Jfc0E2ZjhaeXRFZkZDSkRrU0dIY1lNSGdaQ21rb1NYTE9qa24tYktyVkhKYmtsZnQ3SXRYd0ZDMTNHNHh1V3JOeU5mSXBvSldnVzl3LU5Fekw5MU42REUxNE1YWmdqZ0FQZ3c?oc=5\" target=\"_blank\">Pune Urban Plan Revamp Targets 2046 Vision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
