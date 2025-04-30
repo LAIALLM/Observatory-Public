@@ -1,128 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-04-20",
-        "status": "posted",
-        "tweet": "In 2025, Bitcoin's annual maintenance and security costs are projected to reach $1.5 billion, highlighting the significant infrastructure investment required to sustain the network.\n\nSource: Crypto Infrastructure Report 2025",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV1ozRzV4cDkwRWlZYlczMl9uRkQtYmxJWXJydXNGaW9reVcxTFFmbmZJamY0VzFIUWF4ME9TWHdTZWNfOXpiWXh4WnBNTWZTSEltVVdEUVNRbUJhMkd1TVJBb1E2dF9SN3hFOVViNDNJa3FNV05kWVQ1ejNhcXdxWGVjNFRmNzAxZ3NaaW5ka3RWS2xaeFpnX2VMb2t6MHlCd0ZHM0dlLUs3WGkzNjhZTDBiOTFGclU5QlRiVEEyZU5uQQ?oc=5",
-        "date": "2025-04-20",
-        "title": "Critical infrastructure accounted for 70% attacks that IBM X-Force responded to - Intelligent CIO",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV1ozRzV4cDkwRWlZYlczMl9uRkQtYmxJWXJydXNGaW9reVcxTFFmbmZJamY0VzFIUWF4ME9TWHdTZWNfOXpiWXh4WnBNTWZTSEltVVdEUVNRbUJhMkd1TVJBb1E2dF9SN3hFOVViNDNJa3FNV05kWVQ1ejNhcXdxWGVjNFRmNzAxZ3NaaW5ka3RWS2xaeFpnX2VMb2t6MHlCd0ZHM0dlLUs3WGkzNjhZTDBiOTFGclU5QlRiVEEyZU5uQQ?oc=5\" target=\"_blank\">Critical infrastructure accounted for 70% attacks that IBM X-Force responded to</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intelligent CIO</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2025-04-20",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple:\nProcessed over 2.2 billion Siri requests daily in 2020.\nData center energy efficiency hit 94%.\n$AAPL",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQWRlUkVURFJMSkpVNDQ5c2EyRUtQZ0pfVlBvNWYxSUVzTjFhaGJjSTl0WmlCZjk1STdRNFB4MGRGZWtINEQtYUNYSlFiSWprdHpnRkE4cU53V2I4ZnVjbksxNU9XbU1nVXlRSE9oTE9mb1NkMHVpcHRCZFVVeU4zaVFPbVU3TzUzcmg0X2sxUUV6LWNLZzc3bW5TaVJabXAtaEg0a0dQYV8tdS1KOEVuYzZERTU3ZUFub0t2dFhIRm1sOXFUZjJSUVRnYjdTSGRMbjFYbTRZdmVZS3E1d2J6M1BGZFZSM2VXb2FadEJ3?oc=5",
-        "date": "2025-04-20",
-        "title": "The Construction Industry\u2019s Labor Crisis: Can AI Bridge the Workforce Gap? - For Construction Pros",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQWRlUkVURFJMSkpVNDQ5c2EyRUtQZ0pfVlBvNWYxSUVzTjFhaGJjSTl0WmlCZjk1STdRNFB4MGRGZWtINEQtYUNYSlFiSWprdHpnRkE4cU53V2I4ZnVjbksxNU9XbU1nVXlRSE9oTE9mb1NkMHVpcHRCZFVVeU4zaVFPbVU3TzUzcmg0X2sxUUV6LWNLZzc3bW5TaVJabXAtaEg0a0dQYV8tdS1KOEVuYzZERTU3ZUFub0t2dFhIRm1sOXFUZjJSUVRnYjdTSGRMbjFYbTRZdmVZS3E1d2J6M1BGZFZSM2VXb2FadEJ3?oc=5\" target=\"_blank\">The Construction Industry\u2019s Labor Crisis: Can AI Bridge the Workforce Gap?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">For Construction Pros</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2025-04-20",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf3 By 2050, 68% of the world's population will live in urban areas. \n\n\ud83c\uddee\ud83c\uddf3 \ud83c\uddea\ud83c\uddec Rapid urbanization in India and Egypt is projected to swell city populations by 500 million+ between 2025 - 2050.\n\n\ud83c\udf0d Sustainable city development is becoming a priority to accommodate the influx.",
-        "type": "statistical",
-        "category": "cities"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOekpMS1BlbFZoNUJsV04yS1BkQWoyRTVBc1N0Qk9iMnZmUzRtZ0p0RzNCelFBQnIzaDVjMERERFBTMGRVbWdZdHUtalA4VWNWeDNvc3plWVA1cGE3cXhBS3pxeUdGQVBHWG83T0xZUHNMRVNBQ3ZWTmdBZEJYS19WTHo1SXpxbDZ0M29VWHROb0dMWEhfVFcyenBvaXpKejduMFV6aHlWNThHZFFyZXBoeHJyVV9fNk9HQlR4enRqN200Y0wwT2t6YXN2MHdrSzM2TVJONnhOS3J3RlRGNW5GcUZkTy1YdzhRUGE4V2xEVWt1Z9IB9wFBVV95cUxOVTUya2xGb3JYY3c4SHV3ZFE2RWJnU1FxVFIwWm9PRnFUcy1QQjFvWHNpdWJmNHNlLVRIcWxMdUtWelVEd3JOWUxsZmlZX19hdW9aM0JRT1BKQkRlM1lSLWgxQVdDVUNPbEltVGNQQUNsSi00OE1DVEtDandvX0pBMmtkTV94ZFJmeDZwWnFHVER1dWJWLTNWUkIzQ0hKcnY1clJXUWlyWm5Ib1UxWmw3QnJmbm9aMlplOUpZYTdHbFBiUGktcHdFMkduTkxEdUdKNUUxZmJFbDg2TkdTNkdyM3BpRUNtU1RQZTE1azd4OHFqWXZGU0U4?oc=5",
-        "date": "2025-04-20",
-        "title": "Omar Abdullah flight diversion sparks row: Delhi Airport cites infrastructure work, and \u2018several advisories\u2019 - Mint",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOekpMS1BlbFZoNUJsV04yS1BkQWoyRTVBc1N0Qk9iMnZmUzRtZ0p0RzNCelFBQnIzaDVjMERERFBTMGRVbWdZdHUtalA4VWNWeDNvc3plWVA1cGE3cXhBS3pxeUdGQVBHWG83T0xZUHNMRVNBQ3ZWTmdBZEJYS19WTHo1SXpxbDZ0M29VWHROb0dMWEhfVFcyenBvaXpKejduMFV6aHlWNThHZFFyZXBoeHJyVV9fNk9HQlR4enRqN200Y0wwT2t6YXN2MHdrSzM2TVJONnhOS3J3RlRGNW5GcUZkTy1YdzhRUGE4V2xEVWt1Z9IB9wFBVV95cUxOVTUya2xGb3JYY3c4SHV3ZFE2RWJnU1FxVFIwWm9PRnFUcy1QQjFvWHNpdWJmNHNlLVRIcWxMdUtWelVEd3JOWUxsZmlZX19hdW9aM0JRT1BKQkRlM1lSLWgxQVdDVUNPbEltVGNQQUNsSi00OE1DVEtDandvX0pBMmtkTV94ZFJmeDZwWnFHVER1dWJWLTNWUkIzQ0hKcnY1clJXUWlyWm5Ib1UxWmw3QnJmbm9aMlplOUpZYTdHbFBiUGktcHdFMkduTkxEdUdKNUUxZmJFbDg2TkdTNkdyM3BpRUNtU1RQZTE1azd4OHFqWXZGU0U4?oc=5\" target=\"_blank\">Omar Abdullah flight diversion sparks row: Delhi Airport cites infrastructure work, and \u2018several advisories\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2NvSTJrV3VEZzIyQzI3OHV1b2Y1Y0ZpenliZGhxY3prY3YxY1pKd200dlBLdTA5TUVSbzBrZ0JuQWR1bWVvZlk0d2d0ZVQ0VDRkZDRyU3FiNlFFVm13cDZwVDF6bFo0SVhoRm5BYWFZdVNjWXAzaXR4UGl6SGROYW9ROFJfQWlYNGJCWTJ2STI0M2piZHpGdXRObzBCRWdmeVRDd3Fwd3I0NEpzZHMyYWpWUnBEaUE?oc=5",
-        "date": "2025-04-20",
-        "title": "Anganwadi Center submerged after light rain, sparking infrastructure concerns - Tripura Chronicle",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2NvSTJrV3VEZzIyQzI3OHV1b2Y1Y0ZpenliZGhxY3prY3YxY1pKd200dlBLdTA5TUVSbzBrZ0JuQWR1bWVvZlk0d2d0ZVQ0VDRkZDRyU3FiNlFFVm13cDZwVDF6bFo0SVhoRm5BYWFZdVNjWXAzaXR4UGl6SGROYW9ROFJfQWlYNGJCWTJ2STI0M2piZHpGdXRObzBCRWdmeVRDd3Fwd3I0NEpzZHMyYWpWUnBEaUE?oc=5\" target=\"_blank\">Anganwadi Center submerged after light rain, sparking infrastructure concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tripura Chronicle</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejYzZWlSdzE5R040dmYwQ2hqTGVmaXZjeUNkaXNNdEZqNmRIMWFnMlBac2hsS0dfOWVIYXFqamZrZjNub1VrMjBfekN4Y1lscTVLWUFIeGp1dk5VakZkLVNhNFVsVnNFNWpKejZWV0hKb0w3aWp2bnlNa2RSWWFYY3V4N2Q1UkhGNU55S2k5U0ZtUXdNVjRnTGg0V3lvZHgxOEJJTG5sUW85OEJv0gGyAUFVX3lxTE53WE9vT2VZTHRmSWcySUZFSVhISlVkbHR0U2lXM0R2amNpLURzbkh0RG1BQnNBdVdQa3FIaVRMSnpaSkNHMWdKUk53MDd0WmFRT2djUW1NdlZYS0YtTzJTQzMxTnZSTV9GdEVhd19DeUo1RmdLWEIyOXQ0LXVHWHhjQ0ZYOXFBX2RWeC11M0NKTEFqTUl0T21kYnFoSXJQT01haHVKajA1WHVsa0poQzkzenc?oc=5",
-        "date": "2025-04-20",
-        "title": "Madhya Pradesh: Dhar To Expand Water Infrastructure Soon, Say Officials - Free Press Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQejYzZWlSdzE5R040dmYwQ2hqTGVmaXZjeUNkaXNNdEZqNmRIMWFnMlBac2hsS0dfOWVIYXFqamZrZjNub1VrMjBfekN4Y1lscTVLWUFIeGp1dk5VakZkLVNhNFVsVnNFNWpKejZWV0hKb0w3aWp2bnlNa2RSWWFYY3V4N2Q1UkhGNU55S2k5U0ZtUXdNVjRnTGg0V3lvZHgxOEJJTG5sUW85OEJv0gGyAUFVX3lxTE53WE9vT2VZTHRmSWcySUZFSVhISlVkbHR0U2lXM0R2amNpLURzbkh0RG1BQnNBdVdQa3FIaVRMSnpaSkNHMWdKUk53MDd0WmFRT2djUW1NdlZYS0YtTzJTQzMxTnZSTV9GdEVhd19DeUo1RmdLWEIyOXQ0LXVHWHhjQ0ZYOXFBX2RWeC11M0NKTEFqTUl0T21kYnFoSXJQT01haHVKajA1WHVsa0poQzkzenc?oc=5\" target=\"_blank\">Madhya Pradesh: Dhar To Expand Water Infrastructure Soon, Say Officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Free Press Journal</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGtfX1k2d3hXaFREbUVfN0ZGUWxnbzEzXzhjbjYyaG94eWNxWmxqWkFfZFIzeGxUTGQ4bmNNdnJLMFVFZC1sNkRQc194cS1WZklZV2NGSzRVTGZFS2FsOTBHU3BRZldfekxXYTJRSGFJcVFJSnIxNDJJU2psQ1ZSTVpqenZGb3ZPeDEyOGppSFZYMHFEdXIxM1A1NjlUREVkOW5CQzVUZ2NyRUp5b1Y1Y3EwM2RHQlczcVdhelRxMm9oRzTSAcgBQVVfeXFMUERJMndlOXhfbFo0R29JeHlaRHhoQlI5NVg1b3dLSTBTUk5yM2ZHajk1WE9xckx0WHN2ZWZkT3g3VjNYbFp0WkFYTXNzVWZUVHhYZXpLcEtCc1hPclB1WkVsWkRqRFBtR0c0TXRid292N1hKQkRSazVCdkxEY2NZRHFXQklHSTZkd2Q3czgyaExBenVJRHRiNElMT0lybEpyTzN5Tkhnc1doam83WWdKQkRkUEFldmNyaXJFbk41NEdkVzVhaGl6NUo?oc=5",
-        "date": "2025-04-20",
-        "title": "Engineering Velocity: How Mobile Infrastructure Is Powering Revenue Growth In FinTech - TechFinancials",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGtfX1k2d3hXaFREbUVfN0ZGUWxnbzEzXzhjbjYyaG94eWNxWmxqWkFfZFIzeGxUTGQ4bmNNdnJLMFVFZC1sNkRQc194cS1WZklZV2NGSzRVTGZFS2FsOTBHU3BRZldfekxXYTJRSGFJcVFJSnIxNDJJU2psQ1ZSTVpqenZGb3ZPeDEyOGppSFZYMHFEdXIxM1A1NjlUREVkOW5CQzVUZ2NyRUp5b1Y1Y3EwM2RHQlczcVdhelRxMm9oRzTSAcgBQVVfeXFMUERJMndlOXhfbFo0R29JeHlaRHhoQlI5NVg1b3dLSTBTUk5yM2ZHajk1WE9xckx0WHN2ZWZkT3g3VjNYbFp0WkFYTXNzVWZUVHhYZXpLcEtCc1hPclB1WkVsWkRqRFBtR0c0TXRid292N1hKQkRSazVCdkxEY2NZRHFXQklHSTZkd2Q3czgyaExBenVJRHRiNElMT0lybEpyTzN5Tkhnc1doam83WWdKQkRkUEFldmNyaXJFbk41NEdkVzVhaGl6NUo?oc=5\" target=\"_blank\">Engineering Velocity: How Mobile Infrastructure Is Powering Revenue Growth In FinTech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechFinancials</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWnQ4UmgzY09rUGhpMGdUUmE0dXdUMnlkbnpXU291Mm5kZXluQ05QUlFMeHo4MjRUQ3pEYU9nNER1ai1JU19XWXE2V0MteTRDaTM2NTc0YnZkTmNVWmZVenVGdl9FeHcybjVLMEVtMGxsTExKZFJGUHZFcEpuamxac29IOEFIY1gwWElieWYteURGamFsN1JrSERVcw?oc=5",
-        "date": "2025-04-20",
-        "title": "Over 9000 residents fight to preserve Pune green hills from construction - urbanacres.in",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQWnQ4UmgzY09rUGhpMGdUUmE0dXdUMnlkbnpXU291Mm5kZXluQ05QUlFMeHo4MjRUQ3pEYU9nNER1ai1JU19XWXE2V0MteTRDaTM2NTc0YnZkTmNVWmZVenVGdl9FeHcybjVLMEVtMGxsTExKZFJGUHZFcEpuamxac29IOEFIY1gwWElieWYteURGamFsN1JrSERVcw?oc=5\" target=\"_blank\">Over 9000 residents fight to preserve Pune green hills from construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0xta3NJS3NmZ1JaV1ZVQ2tjRmFMZzJjcEJ5S2VCeTN4MFBSaTR3QzRJbTR3eFlVRV8wenJ1bDVfdGUxZVRjNTY5bndCbWFwYXZnN2lFSnZDeHpmZy1kZE5fVHpuMjl3Wmx3eEIyVHp5R3NsQ01YaUlyYXBzc0FPWXBLNUU1YTVXVzZBLW1BTktaSXpE?oc=5",
-        "date": "2025-04-20",
-        "title": "Surat Opens Rs 40 Crore Flyover to Alleviate Traffic on Key Highway - urbanacres.in",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0xta3NJS3NmZ1JaV1ZVQ2tjRmFMZzJjcEJ5S2VCeTN4MFBSaTR3QzRJbTR3eFlVRV8wenJ1bDVfdGUxZVRjNTY5bndCbWFwYXZnN2lFSnZDeHpmZy1kZE5fVHpuMjl3Wmx3eEIyVHp5R3NsQ01YaUlyYXBzc0FPWXBLNUU1YTVXVzZBLW1BTktaSXpE?oc=5\" target=\"_blank\">Surat Opens Rs 40 Crore Flyover to Alleviate Traffic on Key Highway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejYzZWlSdzE5R040dmYwQ2hqTGVmaXZjeUNkaXNNdEZqNmRIMWFnMlBac2hsS0dfOWVIYXFqamZrZjNub1VrMjBfekN4Y1lscTVLWUFIeGp1dk5VakZkLVNhNFVsVnNFNWpKejZWV0hKb0w3aWp2bnlNa2RSWWFYY3V4N2Q1UkhGNU55S2k5U0ZtUXdNVjRnTGg0V3lvZHgxOEJJTG5sUW85OEJv?oc=5",
-        "date": "2025-04-20",
-        "title": "Madhya Pradesh: Dhar To Expand Water Infrastructure Soon, Say Officials - Free Press Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQejYzZWlSdzE5R040dmYwQ2hqTGVmaXZjeUNkaXNNdEZqNmRIMWFnMlBac2hsS0dfOWVIYXFqamZrZjNub1VrMjBfekN4Y1lscTVLWUFIeGp1dk5VakZkLVNhNFVsVnNFNWpKejZWV0hKb0w3aWp2bnlNa2RSWWFYY3V4N2Q1UkhGNU55S2k5U0ZtUXdNVjRnTGg0V3lvZHgxOEJJTG5sUW85OEJv?oc=5\" target=\"_blank\">Madhya Pradesh: Dhar To Expand Water Infrastructure Soon, Say Officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Free Press Journal</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZW9mT2pBM1RzN2FnLUtTXzd0eFdvV1ZId3RpRVNnS1lZZ2JQYUhxYUJHTjRJWTAyWFdkZ1NyaHFBLXdIVjN1VVlKQVZ6SzdGSnUwbDJrbEVkN0dGb2J1WG56elhXZGE4cG9tM0RCM19CQ1Y5em5EWEE3MjFTR1cyOUdtN1hJRktYa25MaC1pYTBRY1pDWXlpbW9RY252eWdhNWpZZm1CdXRzaG5zbG4wMkswVEJUMllpUDRtVUNXeks1NmdGWlNwdWljcTExTlZlM1plRg?oc=5",
-        "date": "2025-04-20",
-        "title": "Engineering Velocity: How Mobile Infrastructure Is Powering Revenue Growth In FinTech By TechFinancials - Investing.com South Africa",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZW9mT2pBM1RzN2FnLUtTXzd0eFdvV1ZId3RpRVNnS1lZZ2JQYUhxYUJHTjRJWTAyWFdkZ1NyaHFBLXdIVjN1VVlKQVZ6SzdGSnUwbDJrbEVkN0dGb2J1WG56elhXZGE4cG9tM0RCM19CQ1Y5em5EWEE3MjFTR1cyOUdtN1hJRktYa25MaC1pYTBRY1pDWXlpbW9RY252eWdhNWpZZm1CdXRzaG5zbG4wMkswVEJUMllpUDRtVUNXeks1NmdGWlNwdWljcTExTlZlM1plRg?oc=5\" target=\"_blank\">Engineering Velocity: How Mobile Infrastructure Is Powering Revenue Growth In FinTech By TechFinancials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com South Africa</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2025-04-21",
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 India is projected to surpass \ud83c\udde8\ud83c\uddf3 China as the world's most populated country by 2027, with an estimated population of 1.46 billion.\n\nMeanwhile, renewables contribute to 45% of India's energy mix in 2025, a significant increase compared to China's 35%.",
@@ -2202,5 +2080,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddec\ud83c\udded NEWS: Ghana confirms 5G launch under Next Generation Infrastructure Company.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-04-30",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.\nEnd of Q2 2021: $47.9 billion revenue from iPhone sales, up 50% YoY.\niCloud user base grows to 768 million, up 10% YoY.\n$AAPL",
+        "type": "infrastructure"
     }
 ]
