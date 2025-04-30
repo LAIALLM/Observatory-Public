@@ -2087,5 +2087,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.\nEnd of Q2 2021: $47.9 billion revenue from iPhone sales, up 50% YoY.\niCloud user base grows to 768 million, up 10% YoY.\n$AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-04-30",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's energy consumption led to stricter regulations in \ud83c\uddea\ud83c\uddfa EU, increasing infrastructure costs by 15%. Ethereum's shift to proof-of-stake reduced its impact, with no new regulations in \ud83c\uddfa\ud83c\uddf8 US, keeping costs stable.",
+        "type": "crypto"
     }
 ]
