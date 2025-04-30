@@ -2224,5 +2224,187 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZUluMDFYcm1JMzQzNldvSTRxMWMyM2JXRFFYWExUWmxMLUp1SFl4VWJNcFRqRXVQdGZBcC01czJNa3M2WndkY3gweHZZX1k5X2JqWjNPX1Z6dWRmN2xUUkVmank2SDl1SFdRQ3VWaGp2ZlZsN0ZOeDl0bUtMa2R3WEk1NlpCM290a3FXMXFPVVNwcmxQekR6X01KSkxRakwxZFlqX21kLTUwY0FhLVZndUs3a21ZUlNCNW1ZVjlTS3V6MzhJ?oc=5",
+        "date": "2025-04-30",
+        "title": "The Procurement Act is here - what does it mean for the construction industry? - building.co.uk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZUluMDFYcm1JMzQzNldvSTRxMWMyM2JXRFFYWExUWmxMLUp1SFl4VWJNcFRqRXVQdGZBcC01czJNa3M2WndkY3gweHZZX1k5X2JqWjNPX1Z6dWRmN2xUUkVmank2SDl1SFdRQ3VWaGp2ZlZsN0ZOeDl0bUtMa2R3WEk1NlpCM290a3FXMXFPVVNwcmxQekR6X01KSkxRakwxZFlqX21kLTUwY0FhLVZndUs3a21ZUlNCNW1ZVjlTS3V6MzhJ?oc=5\" target=\"_blank\">The Procurement Act is here - what does it mean for the construction industry?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">building.co.uk</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2RJdWJXN05xWU43djBCUWs2eWw2Y1RsRzFXbF9WX293T0cxZTN6SHRScWhicjNhVUE5N2JTbnhKUVVNTTlIQW1jcjFnV3BNX0NjVkN5QzQ1N2gwMnlvbmhNNG9ybTFVLVZqZV9XYUpuanpSU0FBWDMwQ2RTakRlc2tkNUZmSkU2QlU2MmxNOE5LdXMtSDk1WHFWTXBFa3lyemFselY0Y1VFNF93?oc=5",
+        "date": "2025-04-30",
+        "title": "Jacon makes equipment access easier with new website - Inside Construction",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2RJdWJXN05xWU43djBCUWs2eWw2Y1RsRzFXbF9WX293T0cxZTN6SHRScWhicjNhVUE5N2JTbnhKUVVNTTlIQW1jcjFnV3BNX0NjVkN5QzQ1N2gwMnlvbmhNNG9ybTFVLVZqZV9XYUpuanpSU0FBWDMwQ2RTakRlc2tkNUZmSkU2QlU2MmxNOE5LdXMtSDk1WHFWTXBFa3lyemFselY0Y1VFNF93?oc=5\" target=\"_blank\">Jacon makes equipment access easier with new website</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Construction</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnFLVFZoSTNsNUc5cVhRd1JJWFVObTBxc3k5NGgxcVBmZEM4d2dscFRTVXV0VDFaRWFUM0FvcWxraXBuU1F1aTc3cU8wMHhzSnFCN2piWnNKOGxiNWhxdUtaSllEZkpBTzdjWkQ5aWh2TklkX2JxeGRFemQ1Vm9WMUZjNGZvQzh3R3B1LUU1V1NiRzJpcmZr?oc=5",
+        "date": "2025-04-30",
+        "title": "WIN Awards celebrate women leaders in infrastructure - Ontario Construction News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnFLVFZoSTNsNUc5cVhRd1JJWFVObTBxc3k5NGgxcVBmZEM4d2dscFRTVXV0VDFaRWFUM0FvcWxraXBuU1F1aTc3cU8wMHhzSnFCN2piWnNKOGxiNWhxdUtaSllEZkpBTzdjWkQ5aWh2TklkX2JxeGRFemQ1Vm9WMUZjNGZvQzh3R3B1LUU1V1NiRzJpcmZr?oc=5\" target=\"_blank\">WIN Awards celebrate women leaders in infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ontario Construction News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVFoeU1DZlMxNm5RLTNKMmxpUUVRazhhaXpkbXZIRE1iWUpyWERSanh5NzN6aHFhd3dyaE5RZWFkdjJnbC1hQURzVFlydDdGcDhMcE9ncElKVTlIaU5pR2NiQXRnSzMtczhTNDFTbVp6QUo1MkJhLUJsXzNsZmVCMXhrd0QtYnFNUVMtLU44NVkyLXEwaHh6Z2FFdlBvdVBRWnNIZW1DMlNWU1hGUjFDMFptWQ?oc=5",
+        "date": "2025-04-30",
+        "title": "GWC And Yellow Door Energy To Build Major Solar Infrastructure Across Qatar - Construction Business News Middle East",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVFoeU1DZlMxNm5RLTNKMmxpUUVRazhhaXpkbXZIRE1iWUpyWERSanh5NzN6aHFhd3dyaE5RZWFkdjJnbC1hQURzVFlydDdGcDhMcE9ncElKVTlIaU5pR2NiQXRnSzMtczhTNDFTbVp6QUo1MkJhLUJsXzNsZmVCMXhrd0QtYnFNUVMtLU44NVkyLXEwaHh6Z2FFdlBvdVBRWnNIZW1DMlNWU1hGUjFDMFptWQ?oc=5\" target=\"_blank\">GWC And Yellow Door Energy To Build Major Solar Infrastructure Across Qatar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Business News Middle East</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddf6\ud83c\udde6 NEWS: GWC and Yellow Door Energy to build major solar infrastructure across Qatar, aiming to reduce carbon emissions."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzFUbDU0YzJzTVlyeTBCck9DNjd3OVN0NGtxT3Y5SFRnV0kxY21YSVRVWlVHYWFwMmpXMW1STU5BNGplRjVXb0NkUS1WSXVyeW0zN0Q0R2VYZVpCa1drX0dNeGxwNjRsbk9nU1hxM1JYcEFrX2RJcElJeXRQelFNTWRsUXM3dkp4aDFSTHFpRm43SjV3c3dMUQ?oc=5",
+        "date": "2025-04-30",
+        "title": "Southern Italy Runs Faster than the North Thanks to Infrastructures - We Build Value",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzFUbDU0YzJzTVlyeTBCck9DNjd3OVN0NGtxT3Y5SFRnV0kxY21YSVRVWlVHYWFwMmpXMW1STU5BNGplRjVXb0NkUS1WSXVyeW0zN0Q0R2VYZVpCa1drX0dNeGxwNjRsbk9nU1hxM1JYcEFrX2RJcElJeXRQelFNTWRsUXM3dkp4aDFSTHFpRm43SjV3c3dMUQ?oc=5\" target=\"_blank\">Southern Italy Runs Faster than the North Thanks to Infrastructures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">We Build Value</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf9 NEWS: Southern Italy outpaces the North due to improved infrastructure, reducing regional disparities."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTlZ3b2Z6cXY3WHQ3VHVFMXhTQWhuRkZLbkhSNUg3TmJvRFVWc1BWam9FS2V5YWhXVGNBdk9fME01eHhZXzFPN2JmbHVLTFZuTzVrYnhTVGpTc0pHVlY2VVpSWTdkOVF4QVNsZmh5eERWd0lKWDFMZWtldElUakNoWHlseXFCbHBGaW5QdWo3X2owNGxXT0RzbjZoMWdtVm03SHB5WlVzU002WDRjT3o5LVlMM3EyZWc0QUNaejIxRlFGVHN3eDhyTE43RQ?oc=5",
+        "date": "2025-04-30",
+        "title": "ROSEN Group Publishes Sustainability Report \u2013 Securing a Sustainable Future of Energy Infrastructure - Pipeline Technology Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQTlZ3b2Z6cXY3WHQ3VHVFMXhTQWhuRkZLbkhSNUg3TmJvRFVWc1BWam9FS2V5YWhXVGNBdk9fME01eHhZXzFPN2JmbHVLTFZuTzVrYnhTVGpTc0pHVlY2VVpSWTdkOVF4QVNsZmh5eERWd0lKWDFMZWtldElUakNoWHlseXFCbHBGaW5QdWo3X2owNGxXT0RzbjZoMWdtVm03SHB5WlVzU002WDRjT3o5LVlMM3EyZWc0QUNaejIxRlFGVHN3eDhyTE43RQ?oc=5\" target=\"_blank\">ROSEN Group Publishes Sustainability Report \u2013 Securing a Sustainable Future of Energy Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pipeline Technology Journal</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNVJoTEtnZGxsVS0zTC0yejItNWVfeGViYkRXQUVzYUtQZVdlTl9UU0ctS2FHaktSYTNMLTJIZGJHc3FRaVFaeGtic0pRc0ZTTkdIbkpNZUg0UHktRDVJZW5Gb2tsMXR5T2dNNGk1cW00Ri1Ra3lST1p6TzBvZnFWN2ZJejF1dThSR3FFM0dOSFN5VlJEMHpPeWs1MnRlWlhWZ0l5NGVn?oc=5",
+        "date": "2025-04-30",
+        "title": "Rashid: Want to Use Digital Infrastructure for Iraq - marketscreener.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQNVJoTEtnZGxsVS0zTC0yejItNWVfeGViYkRXQUVzYUtQZVdlTl9UU0ctS2FHaktSYTNMLTJIZGJHc3FRaVFaeGtic0pRc0ZTTkdIbkpNZUg0UHktRDVJZW5Gb2tsMXR5T2dNNGk1cW00Ri1Ra3lST1p6TzBvZnFWN2ZJejF1dThSR3FFM0dOSFN5VlJEMHpPeWs1MnRlWlhWZ0l5NGVn?oc=5\" target=\"_blank\">Rashid: Want to Use Digital Infrastructure for Iraq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOenpPNUJBLUFkLTM2cm5BOWVwdWZlamZfZEpXT2JRaWpyMkdiZ3hvdEVtOV9oUjRMR3UtYTJqWnBoaW9UYVlZOURIN2pvdG4xbTREeDFfWHNMaHVYTEJndTBQWDZTSG96X0VSazVxbkNzYnNaR3ZiVk9hb2Fnd2FrNE1RU1c3RWFDeERENEdiRG0xZllfR2d1WHJFMGstcEtWd04yWW9IWG5VYzhqeHFycmk0alQ0dnNYbEVxRURTeXpJWEVjLVpsclVUVWducUxweVZfckNpTdIB3gFBVV95cUxQNnBiWl9oVEx1Q2xVUE5fVS16djBmWEFuYnZFaURpVFlVN1U3Z1RzQm9FcnNsQWpZYi1JbWZqV1hrQWxoQlozd19WaWkyM1o2dFU5cWJueTBGTi1Xa0RFUnIzWV9CTjl0UHBQRDhhZUppS2NJQzV3eUZwa1FrZF81aTE2RmRMeUNFc1NfanpUSmdHLUJta2VFNU95THBhM1pZNDBGOUcwVWpCTy1nNktlc3hOeG1wd1loOWtCUXByRDdPekdxMGhIcGlaaC02TzVsOUlWUXJEVTBFeWxfVEE?oc=5",
+        "date": "2025-04-30",
+        "title": "Ilambarithi takes charge as Metropolitan Area & Urban Development secretary - The Hindu",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOenpPNUJBLUFkLTM2cm5BOWVwdWZlamZfZEpXT2JRaWpyMkdiZ3hvdEVtOV9oUjRMR3UtYTJqWnBoaW9UYVlZOURIN2pvdG4xbTREeDFfWHNMaHVYTEJndTBQWDZTSG96X0VSazVxbkNzYnNaR3ZiVk9hb2Fnd2FrNE1RU1c3RWFDeERENEdiRG0xZllfR2d1WHJFMGstcEtWd04yWW9IWG5VYzhqeHFycmk0alQ0dnNYbEVxRURTeXpJWEVjLVpsclVUVWducUxweVZfckNpTdIB3gFBVV95cUxQNnBiWl9oVEx1Q2xVUE5fVS16djBmWEFuYnZFaURpVFlVN1U3Z1RzQm9FcnNsQWpZYi1JbWZqV1hrQWxoQlozd19WaWkyM1o2dFU5cWJueTBGTi1Xa0RFUnIzWV9CTjl0UHBQRDhhZUppS2NJQzV3eUZwa1FrZF81aTE2RmRMeUNFc1NfanpUSmdHLUJta2VFNU95THBhM1pZNDBGOUcwVWpCTy1nNktlc3hOeG1wd1loOWtCUXByRDdPekdxMGhIcGlaaC02TzVsOUlWUXJEVTBFeWxfVEE?oc=5\" target=\"_blank\">Ilambarithi takes charge as Metropolitan Area & Urban Development secretary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVU45SkxGU2pSZ2s5em41T1JJVU5BR3VaSDJjS0ZHS3l0WXNJSlVxYmU4VHZ2S3ZVT095akFqUVNEaFk1clNSVlg0bEFPQzJra1U4eGZWN0ZEVERYU2dUMGZTVkhjT21oVFQzUzlKUmdsNWpma0JLZDBwOHM5RVU0MUFiSW1vWlR5dXF5bTg3VUpQejBIZ3M0LUxqQ21acHFINnN4NlRXNV9vblE?oc=5",
+        "date": "2025-04-30",
+        "title": "How municipalities are progressing zero waste strategies - Smart Cities World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVU45SkxGU2pSZ2s5em41T1JJVU5BR3VaSDJjS0ZHS3l0WXNJSlVxYmU4VHZ2S3ZVT095akFqUVNEaFk1clNSVlg0bEFPQzJra1U4eGZWN0ZEVERYU2dUMGZTVkhjT21oVFQzUzlKUmdsNWpma0JLZDBwOHM5RVU0MUFiSW1vWlR5dXF5bTg3VUpQejBIZ3M0LUxqQ21acHFINnN4NlRXNV9vblE?oc=5\" target=\"_blank\">How municipalities are progressing zero waste strategies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWVliMjlSQzFjS0d4ZzcxbkFSVzdrOTY5VU1jOVNCZG12TUNfaXlXb1RQSGNOVkFhbGZGeE5mVjd0VF9UU1ptaVI2Ump2MV9KQzFrY2ZBaVhReXpmU29xLUdycnZfMlBYX1FURVNsUC1lQktDZHhmUktZYk1JUnlYY1hoYldoN1U?oc=5",
+        "date": "2025-04-30",
+        "title": "Abuja and Lagos Show Improvement in 2025 Smart City Rankings - Africa.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOWVliMjlSQzFjS0d4ZzcxbkFSVzdrOTY5VU1jOVNCZG12TUNfaXlXb1RQSGNOVkFhbGZGeE5mVjd0VF9UU1ptaVI2Ump2MV9KQzFrY2ZBaVhReXpmU29xLUdycnZfMlBYX1FURVNsUC1lQktDZHhmUktZYk1JUnlYY1hoYldoN1U?oc=5\" target=\"_blank\">Abuja and Lagos Show Improvement in 2025 Smart City Rankings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Africa.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVFoeU1DZlMxNm5RLTNKMmxpUUVRazhhaXpkbXZIRE1iWUpyWERSanh5NzN6aHFhd3dyaE5RZWFkdjJnbC1hQURzVFlydDdGcDhMcE9ncElKVTlIaU5pR2NiQXRnSzMtczhTNDFTbVp6QUo1MkJhLUJsXzNsZmVCMXhrd0QtYnFNUVMtLU44NVkyLXEwaHh6Z2FFdlBvdVBRWnNIZW1DMlNWU1hGUjFDMFptWQ?oc=5",
+        "date": "2025-04-30",
+        "title": "GWC And Yellow Door Energy To Build Major Solar Infrastructure Across Qatar - Construction Business News Middle East",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVFoeU1DZlMxNm5RLTNKMmxpUUVRazhhaXpkbXZIRE1iWUpyWERSanh5NzN6aHFhd3dyaE5RZWFkdjJnbC1hQURzVFlydDdGcDhMcE9ncElKVTlIaU5pR2NiQXRnSzMtczhTNDFTbVp6QUo1MkJhLUJsXzNsZmVCMXhrd0QtYnFNUVMtLU44NVkyLXEwaHh6Z2FFdlBvdVBRWnNIZW1DMlNWU1hGUjFDMFptWQ?oc=5\" target=\"_blank\">GWC And Yellow Door Energy To Build Major Solar Infrastructure Across Qatar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Business News Middle East</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf6\ud83c\udde6 NEWS: GWC and Yellow Door Energy to build major solar infrastructure across Qatar, aiming to reduce carbon emissions significantly.",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzFUbDU0YzJzTVlyeTBCck9DNjd3OVN0NGtxT3Y5SFRnV0kxY21YSVRVWlVHYWFwMmpXMW1STU5BNGplRjVXb0NkUS1WSXVyeW0zN0Q0R2VYZVpCa1drX0dNeGxwNjRsbk9nU1hxM1JYcEFrX2RJcElJeXRQelFNTWRsUXM3dkp4aDFSTHFpRm43SjV3c3dMUQ?oc=5",
+        "date": "2025-04-30",
+        "title": "Southern Italy Runs Faster than the North Thanks to Infrastructures - We Build Value",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzFUbDU0YzJzTVlyeTBCck9DNjd3OVN0NGtxT3Y5SFRnV0kxY21YSVRVWlVHYWFwMmpXMW1STU5BNGplRjVXb0NkUS1WSXVyeW0zN0Q0R2VYZVpCa1drX0dNeGxwNjRsbk9nU1hxM1JYcEFrX2RJcElJeXRQelFNTWRsUXM3dkp4aDFSTHFpRm43SjV3c3dMUQ?oc=5\" target=\"_blank\">Southern Italy Runs Faster than the North Thanks to Infrastructures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">We Build Value</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf9 NEWS: Southern Italys infrastructure development outpaces the North, enhancing regional connectivity and economic growth.",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNnJSbWZwUmtMZkJRSEpIdWw4MU8xY1EzbzY0TEIyUU1vV2NBbS14eDNUMjNhRzFTeHBCTi1GeHpLZWJ3UDlQdjFtNlJuQk90eTFLWjJXTHhFZEZFT3lTdW5VdnpJaTllR3Y4RUh0RWNiR21zMWJLT2E3ejRQMGpDNGJjQ1g0cGhGaVhiUVhYdFFVNkVo?oc=5",
+        "date": "2025-04-30",
+        "title": "Let\u2019s address construction\u2019s evolving skills challenge - Construction Management Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNnJSbWZwUmtMZkJRSEpIdWw4MU8xY1EzbzY0TEIyUU1vV2NBbS14eDNUMjNhRzFTeHBCTi1GeHpLZWJ3UDlQdjFtNlJuQk90eTFLWjJXTHhFZEZFT3lTdW5VdnpJaTllR3Y4RUh0RWNiR21zMWJLT2E3ejRQMGpDNGJjQ1g0cGhGaVhiUVhYdFFVNkVo?oc=5\" target=\"_blank\">Let\u2019s address construction\u2019s evolving skills challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Management Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWRPZ2hWekRzazUtTXRZeGRaOVZmUEJVX0FhSmtuQ3hQRXhxbFlMV1dFZUFkR083WG92ZXF4WHRZWnd2MEVTWWlVdUdtVWNDNEZ3S0gxOUNfVXk1Q3FFbTFxUlhKWnMxdkQxb1F5YV8xYUtROVJGeFhodERtakFodlIxWW9mNWpiOUkxZjBFNUtLQQ?oc=5",
+        "date": "2025-04-30",
+        "title": "UK infrastructure group buys Uruguayan power assets from CDPQ - Latin Lawyer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWRPZ2hWekRzazUtTXRZeGRaOVZmUEJVX0FhSmtuQ3hQRXhxbFlMV1dFZUFkR083WG92ZXF4WHRZWnd2MEVTWWlVdUdtVWNDNEZ3S0gxOUNfVXk1Q3FFbTFxUlhKWnMxdkQxb1F5YV8xYUtROVJGeFhodERtakFodlIxWW9mNWpiOUkxZjBFNUtLQQ?oc=5\" target=\"_blank\">UK infrastructure group buys Uruguayan power assets from CDPQ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Latin Lawyer</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMFRPZlBuMHM0YzNfZ0NaZWpIem9Xd2UwTjl3Y0Q1Z0NERy15SUk3Y2JNWm9pYnAyQmZQTS1BZ3VWQUVlR3Q5QUVkcmJ2amc3ekMtMnVXVHpkOVdzenBDc0lZR0tNUWw0T09tWWNIYWdtTlNIWG5PYXRzYVpYY3I0enBjZWI1cWwyemlYNGg0ZXRzOWxwTzJzeHc2Wmg5LVZXelFDWUdEY2lyM25qcEJz?oc=5",
+        "date": "2025-04-30",
+        "title": "Data Center REITs: A Guide to Investing in Digital Infrastructure - Data Center Knowledge",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOMFRPZlBuMHM0YzNfZ0NaZWpIem9Xd2UwTjl3Y0Q1Z0NERy15SUk3Y2JNWm9pYnAyQmZQTS1BZ3VWQUVlR3Q5QUVkcmJ2amc3ekMtMnVXVHpkOVdzenBDc0lZR0tNUWw0T09tWWNIYWdtTlNIWG5PYXRzYVpYY3I0enBjZWI1cWwyemlYNGg0ZXRzOWxwTzJzeHc2Wmg5LVZXelFDWUdEY2lyM25qcEJz?oc=5\" target=\"_blank\">Data Center REITs: A Guide to Investing in Digital Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Knowledge</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkdma3RUT1ByNEJDNjJ4VUxrdVNTVzZXMUxGMTg3UTlIQzVGUUtDLXVFSVE2a0k4TEc4NGFULXduSVV4VzE4dGxFaDJHRUZic3NPQ3NHTDZHWlRxZWcwY2RVMWVBcjQ4aGR0UW92VWVtQ2lXd1k2dXk3OGdacWFqd1hIenR4MEJHLXRR0gGQAUFVX3lxTE9NODBSWmpQZ1FlWHUtNy1LVUVqZTBia3dKb1RiMEE5QVBpZ3JWMXNKQUR0S0VYT2NsdXY5blYwSXB5VXVTWm5aSl9rSzdLZWcyc2c0ZGktaGRpV0NSMWEySTNZeWlpNGRnXzBEY3Y1eEl3b1dveUxJbVk3XzVZVXFUS3VJTmtQWGg1SVFkLWN6RQ?oc=5",
+        "date": "2025-04-30",
+        "title": "China-Linked Hackers Targeting Organizational Infrastructure and High-Value Clients - GBHackers News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkdma3RUT1ByNEJDNjJ4VUxrdVNTVzZXMUxGMTg3UTlIQzVGUUtDLXVFSVE2a0k4TEc4NGFULXduSVV4VzE4dGxFaDJHRUZic3NPQ3NHTDZHWlRxZWcwY2RVMWVBcjQ4aGR0UW92VWVtQ2lXd1k2dXk3OGdacWFqd1hIenR4MEJHLXRR0gGQAUFVX3lxTE9NODBSWmpQZ1FlWHUtNy1LVUVqZTBia3dKb1RiMEE5QVBpZ3JWMXNKQUR0S0VYT2NsdXY5blYwSXB5VXVTWm5aSl9rSzdLZWcyc2c0ZGktaGRpV0NSMWEySTNZeWlpNGRnXzBEY3Y1eEl3b1dveUxJbVk3XzVZVXFUS3VJTmtQWGg1SVFkLWN6RQ?oc=5\" target=\"_blank\">China-Linked Hackers Targeting Organizational Infrastructure and High-Value Clients</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GBHackers News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVEM0RG5iS0RWeWQzVWljNll4ZXp1YU9venFodmJlNlBXcGN1TFJKaF9QZ3RBRGJya3dNNEoweFR3YXo2ZTdLblRxZ1hPNGNIOUM2cG5xdVRGNmxCcGVGWUdzYVU3ekNtUzFKRVFubWVGRkdQUDluZGZRV2JoRzJLN25memEwYXkzV2JLcjRlTHd3aDd4Q21zQ2RHa2toN09lLTBRX3lZcEVzQlpPcFZ6V1Noc2R2bEVVMG11dURuc2tMTElvWTBz?oc=5",
+        "date": "2025-04-30",
+        "title": "Built to Withstand the Surge: Why Market Infrastructure Matters More Than Ever - Traders Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPVEM0RG5iS0RWeWQzVWljNll4ZXp1YU9venFodmJlNlBXcGN1TFJKaF9QZ3RBRGJya3dNNEoweFR3YXo2ZTdLblRxZ1hPNGNIOUM2cG5xdVRGNmxCcGVGWUdzYVU3ekNtUzFKRVFubWVGRkdQUDluZGZRV2JoRzJLN25memEwYXkzV2JLcjRlTHd3aDd4Q21zQ2RHa2toN09lLTBRX3lZcEVzQlpPcFZ6V1Noc2R2bEVVMG11dURuc2tMTElvWTBz?oc=5\" target=\"_blank\">Built to Withstand the Surge: Why Market Infrastructure Matters More Than Ever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNczJYSTFOY3lWQ24zeGN3ckhZQmZmSmZvQ2VuQW5wR3hMM01EcV9TQV8zTmxBRDJock1xTHJQVWhKYUtVOWFLSkJRNk9GLW8wS3ZZZkRQQ0sybHdrZ1hLZnpVazBRbVo5SGhYeTNNSmhCbU9KU3JnUTA0b3lOdGhhMg?oc=5",
+        "date": "2025-04-30",
+        "title": "SWITCH Mobility Flags Off 100 SWITCH IeV3 for Waste Management to Indore, boosting city's sustainability efforts - Yahoo Finance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNczJYSTFOY3lWQ24zeGN3ckhZQmZmSmZvQ2VuQW5wR3hMM01EcV9TQV8zTmxBRDJock1xTHJQVWhKYUtVOWFLSkJRNk9GLW8wS3ZZZkRQQ0sybHdrZ1hLZnpVazBRbVo5SGhYeTNNSmhCbU9KU3JnUTA0b3lOdGhhMg?oc=5\" target=\"_blank\">SWITCH Mobility Flags Off 100 SWITCH IeV3 for Waste Management to Indore, boosting city's sustainability efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
