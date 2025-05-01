@@ -2285,5 +2285,65 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZTJEUUh1dWFjSl9XaEphVVl4WWE0TkJvQ0tMWWdzd0hPRlpNY0dScnVJaFZVak1VSkZteGpwb0ktQVI3R1JYMy0wc3Y1RlRWMU5CemJnU1JyeGt2NXRRYkE0Q1dBUG9LaEpneXZ3a2k0ZmZGeEQyMkRQc0VzdTVfQlpKaWFrVElMVG9sRWtlMlNQc1B0T2U5SjBiejVFNTlDekJLWkpSV1pfU25sZEsxMEdxX2FBNVB2M2tkbw?oc=5",
+        "date": "2025-05-01",
+        "title": "Construction pins its turnaround hopes on defence spending boost - AFR",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZTJEUUh1dWFjSl9XaEphVVl4WWE0TkJvQ0tMWWdzd0hPRlpNY0dScnVJaFZVak1VSkZteGpwb0ktQVI3R1JYMy0wc3Y1RlRWMU5CemJnU1JyeGt2NXRRYkE0Q1dBUG9LaEpneXZ3a2k0ZmZGeEQyMkRQc0VzdTVfQlpKaWFrVElMVG9sRWtlMlNQc1B0T2U5SjBiejVFNTlDekJLWkpSV1pfU25sZEsxMEdxX2FBNVB2M2tkbw?oc=5\" target=\"_blank\">Construction pins its turnaround hopes on defence spending boost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AFR</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObmJiMXpKaTBQbVU5eG01STIzU0ZLNGx5VXpFczBoQU93UmRHRVFINXdMV2lXZlU4QnlOY0t0bzJZdlJNY1A1RXgzUGZCWDBMVE8xZGZLV25Pc09Ydm1Rc0FXS3k5a0ZLSG05LURRTTVMNjJhaU9BYWpMbHBQaUpxWEN1TzZ6V0ZNSEVJTDF4aXlKcmV0aUwza3JGdVdobkU?oc=5",
+        "date": "2025-05-01",
+        "title": "How rising wages for construction workers are shifting the foundations of the housing market - New Haven Register",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObmJiMXpKaTBQbVU5eG01STIzU0ZLNGx5VXpFczBoQU93UmRHRVFINXdMV2lXZlU4QnlOY0t0bzJZdlJNY1A1RXgzUGZCWDBMVE8xZGZLV25Pc09Ydm1Rc0FXS3k5a0ZLSG05LURRTTVMNjJhaU9BYWpMbHBQaUpxWEN1TzZ6V0ZNSEVJTDF4aXlKcmV0aUwza3JGdVdobkU?oc=5\" target=\"_blank\">How rising wages for construction workers are shifting the foundations of the housing market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Haven Register</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHd5ZFYxQ1NhSFlGbHBEVUVsb3Y4LTlWdmV5Z0dJSmt2RHp1MkFQUllmallkdWUyemI1MGtpYVdWTFFxSW96TlVIU05zUWxpU3NhaTJWNFRmcndodmRrQjJCVnFxeUlPTjRHTTV2NzYtZ0FpeXJlbnpHQzIxTjVIbzRXMGJsZkJzOXN5OVdVRk1PRE40S05B?oc=5",
+        "date": "2025-05-01",
+        "title": "NFV Infrastructure (NFVI) Market Global Rising Demand & Huge Scope Till 2032 - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHd5ZFYxQ1NhSFlGbHBEVUVsb3Y4LTlWdmV5Z0dJSmt2RHp1MkFQUllmallkdWUyemI1MGtpYVdWTFFxSW96TlVIU05zUWxpU3NhaTJWNFRmcndodmRrQjJCVnFxeUlPTjRHTTV2NzYtZ0FpeXJlbnpHQzIxTjVIbzRXMGJsZkJzOXN5OVdVRk1PRE40S05B?oc=5\" target=\"_blank\">NFV Infrastructure (NFVI) Market Global Rising Demand & Huge Scope Till 2032</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZFNVbVdqYzJlNWdPWC1tTUtfbjlhek1Xd1AtdVl4VVhHQVYzam1FUGNaR19UYzBkM2oyMzU3RUJGQ19oZ1pwdWtfdjJFWWVaeEE4WHBtVUkyWmt1UHJtazhqWm5oVVJnbXo0RHRaUWZtbDZNYzgxMDFvdGpNejZEbEVSaFJIaWdaOXhrcFlGdjllSWJQVDhKaW54SHNNZVZxb3Nfa2lmX2o4WXJBSW5fd005Ti1hYTVobXFxZWpsaEVJVHpoVzhzN0FqTWFqSW9hdWVIRFdqZkxHZm12eklielZZRVFRMnlsUDhLZWh1VVN5c096UnNn?oc=5",
+        "date": "2025-05-01",
+        "title": "From Scalable Solutions to Full-Stack AI Infrastructure, GIGABYTE to Present End-to-End AI Portfolio at COMPUTEX 2025 - IT News Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZFNVbVdqYzJlNWdPWC1tTUtfbjlhek1Xd1AtdVl4VVhHQVYzam1FUGNaR19UYzBkM2oyMzU3RUJGQ19oZ1pwdWtfdjJFWWVaeEE4WHBtVUkyWmt1UHJtazhqWm5oVVJnbXo0RHRaUWZtbDZNYzgxMDFvdGpNejZEbEVSaFJIaWdaOXhrcFlGdjllSWJQVDhKaW54SHNNZVZxb3Nfa2lmX2o4WXJBSW5fd005Ti1hYTVobXFxZWpsaEVJVHpoVzhzN0FqTWFqSW9hdWVIRFdqZkxHZm12eklielZZRVFRMnlsUDhLZWh1VVN5c096UnNn?oc=5\" target=\"_blank\">From Scalable Solutions to Full-Stack AI Infrastructure, GIGABYTE to Present End-to-End AI Portfolio at COMPUTEX 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IT News Online</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWWNWc3lYc1pRbE1BMWQzdlY2NzZfbHBNdTIxdTMtSU0xanctblcwYmUzbkUwemdZemZWbU1tMk1nNG1Ld1hrZ0JzRDJqaFhwN3dQMTdHV1FsczFQTnF6ZnhreVdyaDRpdlltbXVYQjFlM2t0UkFsSkNoQktyQlBuWUtEcEZHR2lENjZYVmFzUjN4emdOc1U4a2h4Y0V0WFNybzlOcGFNY2t0WGF6bURrSUFLakpjQWs1M0xhVVJhclVIdU1HUGMxMnVYZkxuSXRnSnV1Y29oT1J0c2xoNTZPdnFxN2J1UGl3MU14U1k1RQ?oc=5",
+        "date": "2025-05-01",
+        "title": "Brookfield Infrastructure Partners LP (BIP) Q1 2025 Earnings Cal - GuruFocus",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWWNWc3lYc1pRbE1BMWQzdlY2NzZfbHBNdTIxdTMtSU0xanctblcwYmUzbkUwemdZemZWbU1tMk1nNG1Ld1hrZ0JzRDJqaFhwN3dQMTdHV1FsczFQTnF6ZnhreVdyaDRpdlltbXVYQjFlM2t0UkFsSkNoQktyQlBuWUtEcEZHR2lENjZYVmFzUjN4emdOc1U4a2h4Y0V0WFNybzlOcGFNY2t0WGF6bURrSUFLakpjQWs1M0xhVVJhclVIdU1HUGMxMnVYZkxuSXRnSnV1Y29oT1J0c2xoNTZPdnFxN2J1UGl3MU14U1k1RQ?oc=5\" target=\"_blank\">Brookfield Infrastructure Partners LP (BIP) Q1 2025 Earnings Cal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRTBPaThPcU9sQ2hzMmlmaVZ5bDhHNHpja21lN2RQTmJGeGZZOE5MMWcxX3ptN0tiWmNORWdxSThSc1E4bVczS3VYSHJfVEcwQnNnWTNtMXY4eG03eUNwMmlCU3lTZG5uOUVkeHU0UmxPM3VGSC1XeWRxQ0pkdExfQ0dndmxTT2h4dlZEMU9jMHN1bHVRTDZKMnZCTnhFUQ?oc=5",
+        "date": "2025-05-01",
+        "title": "Smart City Platform Market - Current Impact to Make Big Changes by 2032 - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPRTBPaThPcU9sQ2hzMmlmaVZ5bDhHNHpja21lN2RQTmJGeGZZOE5MMWcxX3ptN0tiWmNORWdxSThSc1E4bVczS3VYSHJfVEcwQnNnWTNtMXY4eG03eUNwMmlCU3lTZG5uOUVkeHU0UmxPM3VGSC1XeWRxQ0pkdExfQ0dndmxTT2h4dlZEMU9jMHN1bHVRTDZKMnZCTnhFUQ?oc=5\" target=\"_blank\">Smart City Platform Market - Current Impact to Make Big Changes by 2032</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
