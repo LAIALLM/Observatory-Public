@@ -2241,5 +2241,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf3\ud83c\uddff NEWS: Wellington starts Golden Mile revitalisation to enhance pedestrian access and public spaces.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-01",
+        "status": "posted",
+        "tweet": "Bitcoin's annual cloud & data center costs: $1.5 billion.\nEthereum's annual cloud & data center costs: $600 million.\n\nBitcoin's infrastructure demands are 2.5 times higher than Ethereum's.",
+        "type": "crypto"
     }
 ]
