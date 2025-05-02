@@ -2333,5 +2333,12 @@
         "tweet": "\ud83c\udf0e Global engineering projects are set to soar past $1.8 trillion by 2025. \n\n\ud83c\udde8\ud83c\uddf3 China leads the pack with the highest number of ongoing projects, followed by \ud83c\uddee\ud83c\uddf3 India.\n\nGreen engineering sees an unprecedented growth- with a 20% surge in renewable energy projects since 2023.",
         "type": "statistical",
         "category": "engineering projects"
+    },
+    {
+        "link": null,
+        "date": "2025-05-02",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 U.S. tech giant, Microsoft $MSFT initialized 3.96 million virtual machines last week - a 7.4% increase from the week prior. Data processed: 4.7 exabytes, up by 8.6%. Energy consumed: 37.5GWh, marking a 9.3% weekly rise.",
+        "type": "infrastructure"
     }
 ]
