@@ -2325,5 +2325,13 @@
         "status": "posted",
         "tweet": "Bitcoin's annual carbon footprint in 2025 is estimated at 65 million metric tons of CO2, equivalent to the yearly emissions of \ud83c\udde9\ud83c\uddf0 Denmark.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-05-02",
+        "status": "posted",
+        "tweet": "\ud83c\udf0e Global engineering projects are set to soar past $1.8 trillion by 2025. \n\n\ud83c\udde8\ud83c\uddf3 China leads the pack with the highest number of ongoing projects, followed by \ud83c\uddee\ud83c\uddf3 India.\n\nGreen engineering sees an unprecedented growth- with a 20% surge in renewable energy projects since 2023.",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
