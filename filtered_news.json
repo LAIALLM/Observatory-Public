@@ -2672,5 +2672,25 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMkpoX3NEclBqSWRmZWhvR25WUElYWTNQMHRIMFR3aG9qRGVBZnJDRm5PNWV2WkNKd2tVM29iaV9TY2lzUG44ZzNYbXhMTE5WbUZLR3J1ckotaVdicU5HLUVSMzBfRVZHXy1oZTRqS2RWMmZhT3BtX1FCZDZQMlRfOXdyX2trc3Y0Sm5TaUFxNEk3dUF5a0Y0MF9yQjgtb1BxNkp5dXgtMmVvLXVXRWd4VU0xbHI5ZGcxZk1GVkZGZU4wMmFjMlQ0MDZrQWFMU0toOW5n?oc=5",
+        "date": "2025-05-02",
+        "title": "Telcables hosts executive breakfast presenting its Africa Digital Bridge infrastructure - Intelligent CIO",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMkpoX3NEclBqSWRmZWhvR25WUElYWTNQMHRIMFR3aG9qRGVBZnJDRm5PNWV2WkNKd2tVM29iaV9TY2lzUG44ZzNYbXhMTE5WbUZLR3J1ckotaVdicU5HLUVSMzBfRVZHXy1oZTRqS2RWMmZhT3BtX1FCZDZQMlRfOXdyX2trc3Y0Sm5TaUFxNEk3dUF5a0Y0MF9yQjgtb1BxNkp5dXgtMmVvLXVXRWd4VU0xbHI5ZGcxZk1GVkZGZU4wMmFjMlQ0MDZrQWFMU0toOW5n?oc=5\" target=\"_blank\">Telcables hosts executive breakfast presenting its Africa Digital Bridge infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intelligent CIO</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/60681-specialty-contractors-drive-constructions-11k-jobs-gain-in-april",
+        "date": "2025-05-02",
+        "title": "Specialty Contractors Drive Construction's 11K Jobs Gain in April",
+        "summary": "<p>Residential and nonresidential specialty trade contractors kept hiring in April, collectively adding 9,000 jobs, according to the latest jobs report.</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
