@@ -2512,5 +2512,23 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-05-03",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d World Bank 2025 data: 1.5 billion people globally still lack basic road access. Investment in transport infrastructure could cut this by 40% by 2030.",
+        "type": "statistical",
+        "category": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMTdGbnFxbXlIbU1pQ0lSSDgyS2NxVlhyV2NMT0l4VFJWNnVvT1FKZ2JhS3g5aDZzM2NNWXNpRTVQeWRCRWxVOU9uOV9OWkZfUDBGZ2FqUkR5a3JYMzZwNnpTUnYzRWgxVDBSLWRVOXNGUWdxQkNhOGFUSjlkS0RmcmtRWFF5anZGa0hRdWY3MG1XNE9TRzdmMXJFREFLNW5HNXJlb1BMa1JjMEgyYjd1aFZ3?oc=5",
+        "date": "2025-05-03",
+        "title": "Minister Javed Ahmed Rana Reviews infrastructure projects, academic activities of EMRS - Rising Kashmir",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQMTdGbnFxbXlIbU1pQ0lSSDgyS2NxVlhyV2NMT0l4VFJWNnVvT1FKZ2JhS3g5aDZzM2NNWXNpRTVQeWRCRWxVOU9uOV9OWkZfUDBGZ2FqUkR5a3JYMzZwNnpTUnYzRWgxVDBSLWRVOXNGUWdxQkNhOGFUSjlkS0RmcmtRWFF5anZGa0hRdWY3MG1XNE9TRzdmMXJFREFLNW5HNXJlb1BMa1JjMEgyYjd1aFZ3?oc=5\" target=\"_blank\">Minister Javed Ahmed Rana Reviews infrastructure projects, academic activities of EMRS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rising Kashmir</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
