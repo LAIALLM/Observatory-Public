@@ -2472,5 +2472,15 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: China sees 47.6% rise in NEV charging infrastructure facilities, now totaling over 5.8 million units.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rVFdaRXU5cjJBazdmLUxlanQyWWZxUXI0VG92NGxsVTlyYWRwOXk4WGdLNGZ5dnVJSnJHRFpOWlFrbkVzTW42emtUTklpNzNhcFcwMWt5TlhpVFF0dEtQUEJfdHhGZnZnVVVZSXZzOERRTlZVdjdQVERzdjU?oc=5",
+        "date": "2025-05-03",
+        "title": "China sees 47.6-pct rise in NEV charging infrastructure facilities - Xinhua",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5rVFdaRXU5cjJBazdmLUxlanQyWWZxUXI0VG92NGxsVTlyYWRwOXk4WGdLNGZ5dnVJSnJHRFpOWlFrbkVzTW42emtUTklpNzNhcFcwMWt5TlhpVFF0dEtQUEJfdHhGZnZnVVVZSXZzOERRTlZVdjdQVERzdjU?oc=5\" target=\"_blank\">China sees 47.6-pct rise in NEV charging infrastructure facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Xinhua</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
