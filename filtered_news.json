@@ -2610,5 +2610,36 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyaGVhMi00LXVDcU1YdWNWOHhmc3FpcnNBZUpfUVJFelZEdHJTWjl1dFJqTENXQ0FnSkRDYjBoUG1qOWYzc2FpS0w0MUlHSTFsNkFrV01GVlVhd3cxRmRVME01MmQ4d0NIbHp0a2VoTHM3aDBvTWFvTnozVFcwRGfSAYcBQVVfeXFMTlM5T3p4YzZRYlJDSWdGOEdWbHA4Z2NxRy1iSENiSTFQUk5XSDhKTkthWTlCMGZhODJzM2EwcGNmeXRHU1RPNlNKeUtzQUpTM1JScVp4YUROdzJHMnRkdVZ5bkZCSzJmV0hZWHJlZlptcW5rN0FRWS1XOVl0dzdXa1Z3TXJzdEQw?oc=5",
+        "date": "2025-05-03",
+        "title": "Frequent gridlocks grind city to halt - The Express Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAyaGVhMi00LXVDcU1YdWNWOHhmc3FpcnNBZUpfUVJFelZEdHJTWjl1dFJqTENXQ0FnSkRDYjBoUG1qOWYzc2FpS0w0MUlHSTFsNkFrV01GVlVhd3cxRmRVME01MmQ4d0NIbHp0a2VoTHM3aDBvTWFvTnozVFcwRGfSAYcBQVVfeXFMTlM5T3p4YzZRYlJDSWdGOEdWbHA4Z2NxRy1iSENiSTFQUk5XSDhKTkthWTlCMGZhODJzM2EwcGNmeXRHU1RPNlNKeUtzQUpTM1JScVp4YUROdzJHMnRkdVZ5bkZCSzJmV0hZWHJlZlptcW5rN0FRWS1XOVl0dzdXa1Z3TXJzdEQw?oc=5\" target=\"_blank\">Frequent gridlocks grind city to halt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/60686-chine-allows-construction-to-resume-of-high-rise-stopped-for-last-decade",
+        "date": "2025-05-03",
+        "title": "China Allows Construction to Resume of High-Rise Stopped for Last Decade",
+        "summary": "<p>Located in Tianjin and originally named Goldin Finance 117, completion of the 597-meter mixed use structure, to be one of China's tallest, was halted in 2015 during a Chinese stock market crash.</p>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: Construction of the 597-meter Goldin Finance 117 in Tianjin, halted since 2015, is allowed to resume."
+    },
+    {
+        "link": "https://www.enr.com/articles/60686-chine-allows-construction-to-resume-of-high-rise-stopped-for-last-decade",
+        "date": "2025-05-03",
+        "title": "China Allows Construction to Resume of High-Rise Stopped for Last Decade",
+        "summary": "<p>Located in Tianjin and originally named Goldin Finance 117, completion of the 597-meter mixed use structure, to be one of China's tallest, was halted in 2015 during a Chinese stock market crash.</p>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: Construction resumes on Tianjins Goldin Finance 117, a 597-meter high-rise halted since 2015.",
+        "type": "news"
     }
 ]
