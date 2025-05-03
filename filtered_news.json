@@ -2451,5 +2451,26 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n\nRecord-breaking Q1 2021 data:\n- 111.4M iPhones sold\n- 33% YoY increase \n- $65.6B revenue from iPhone sales alone \n\n$AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wbFBkUnVNNncyNEl2S0NDU3k2YTJhd2hMQmFybnZGbnNpR250LVRjanoxdkVuM1JKRVF3clMwWUlyVFJLVEhYb0ZYcGhIUVVKMkk0WWtWUUpVV2tTeVA2WlVuYW90bHNETUlVaXE3OHhNTkhmMlNjT090NmdVZw?oc=5",
+        "date": "2025-05-03",
+        "title": "China sees 47.6% rise in NEV charging infrastructure facilities - China Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE4wbFBkUnVNNncyNEl2S0NDU3k2YTJhd2hMQmFybnZGbnNpR250LVRjanoxdkVuM1JKRVF3clMwWUlyVFJLVEhYb0ZYcGhIUVVKMkk0WWtWUUpVV2tTeVA2WlVuYW90bHNETUlVaXE3OHhNTkhmMlNjT090NmdVZw?oc=5\" target=\"_blank\">China sees 47.6% rise in NEV charging infrastructure facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">China Daily</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: China sees 47.6% rise in NEV charging infrastructure facilities, with public charging piles increasing by 55.6%"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wbFBkUnVNNncyNEl2S0NDU3k2YTJhd2hMQmFybnZGbnNpR250LVRjanoxdkVuM1JKRVF3clMwWUlyVFJLVEhYb0ZYcGhIUVVKMkk0WWtWUUpVV2tTeVA2WlVuYW90bHNETUlVaXE3OHhNTkhmMlNjT090NmdVZw?oc=5",
+        "date": "2025-05-03",
+        "title": "China sees 47.6% rise in NEV charging infrastructure facilities - China Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE4wbFBkUnVNNncyNEl2S0NDU3k2YTJhd2hMQmFybnZGbnNpR250LVRjanoxdkVuM1JKRVF3clMwWUlyVFJLVEhYb0ZYcGhIUVVKMkk0WWtWUUpVV2tTeVA2WlVuYW90bHNETUlVaXE3OHhNTkhmMlNjT090NmdVZw?oc=5\" target=\"_blank\">China sees 47.6% rise in NEV charging infrastructure facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">China Daily</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: China sees 47.6% rise in NEV charging infrastructure facilities, now totaling over 5.8 million units.",
+        "type": "news"
     }
 ]
