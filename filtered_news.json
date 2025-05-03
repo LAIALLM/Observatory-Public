@@ -2437,5 +2437,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Infrastructure company secures new order worth Rs 458 crore from North Eastern Electric Power Corporation, boosting its order book to Rs 21,939 crore.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-03",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's network scalability costs reached $1.2 billion annually, compared to Ethereum's $600 million. \n\nBitcoin's energy consumption equivalent to \ud83c\udde6\ud83c\uddfa Australia's yearly usage, while Ethereum's matches \ud83c\uddf3\ud83c\uddf4 Norway's.",
+        "type": "crypto"
     }
 ]
