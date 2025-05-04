@@ -2508,5 +2508,35 @@
         "tweet": "\ud83c\udf0d By 2025, 88% of all cities globally are projected to become 'smart' with integrated IoT-based solutions. \n\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf3 The U.S. and China lead the world with 550 and 400 smart cities, respectively.\n\ud83d\udcca This will result in an estimated $1.7 Trillion economic benefit worldwide.",
         "type": "statistical",
         "category": "smart cities"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTUJFNC1MTVVRb3p4aUdiVm5PbVJ3WWx5NlRYek9jcmhDSTBpck1jX1hyTHZTVkhibFFXMjRCNzNRQ3dScW5ocy1lMzF6REhIQlhiV3BEckc1bEhKTzMzVXpSNDlpd25vWU9CZ25PcVFhQldUNmtLa05LS01jVndJMWZJS2RvY3d4LVhiTWdUbUNLeXdORW1qZFNicWZIVUhX0gGrAUFVX3lxTE5rc1JRaURoOEFmcWNnOVNfekpmWU9NRnAxNlh3a1hqX2dpNUEwQ2dmc0t6WGFERHI3YTFyTEE2SEVvUm5ySi16bHRFb1BpdGpxTTZJS1YxOFlNaGVya0UyYWIwS2MwYnVWbDFnTWhTTWFNS0FoU2ExUlpDMkJkRjROUGo5T1RDZTNpNEd1NmEtNDBGOG5FUGN2dVpKdFdpcmZfREUyeF94MzFtRQ?oc=5",
+        "date": "2025-05-04",
+        "title": "Infrastructure selling point for schools: Education Minister - Greater Kashmir",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQTUJFNC1MTVVRb3p4aUdiVm5PbVJ3WWx5NlRYek9jcmhDSTBpck1jX1hyTHZTVkhibFFXMjRCNzNRQ3dScW5ocy1lMzF6REhIQlhiV3BEckc1bEhKTzMzVXpSNDlpd25vWU9CZ25PcVFhQldUNmtLa05LS01jVndJMWZJS2RvY3d4LVhiTWdUbUNLeXdORW1qZFNicWZIVUhX0gGrAUFVX3lxTE5rc1JRaURoOEFmcWNnOVNfekpmWU9NRnAxNlh3a1hqX2dpNUEwQ2dmc0t6WGFERHI3YTFyTEE2SEVvUm5ySi16bHRFb1BpdGpxTTZJS1YxOFlNaGVya0UyYWIwS2MwYnVWbDFnTWhTTWFNS0FoU2ExUlpDMkJkRjROUGo5T1RDZTNpNEd1NmEtNDBGOG5FUGN2dVpKdFdpcmZfREUyeF94MzFtRQ?oc=5\" target=\"_blank\">Infrastructure selling point for schools: Education Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Greater Kashmir</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcVdqYlRLcEhGQ2N4dllQU3d3dUNYNVBZV1MySEhEak9kMkl0UVp6T1d1ZWxpaWpHUFlHWDdTaVU3bGZZMzF4dkhHclBXbmhYbnZzRFM0Mng4U0V3TUFBd0ctemo4Q2Fhby1RRzNhaXdzVWpKVUVLUzlKWnM3S1ctc2NCT0hmNDcxY0wyUE9CdHFaQmZLQ2lnQzBNN1h6elpHTjlVYk9UYjZoZHBWU2U0RTNWUXJiZWd2Tmk4MTF0cktjYXA4cEZ1X05XVWxtNUk?oc=5",
+        "date": "2025-05-04",
+        "title": "Muslim World League condemns targeting of critical infrastructure, facilities in Sudan - The Peninsula Qatar",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQcVdqYlRLcEhGQ2N4dllQU3d3dUNYNVBZV1MySEhEak9kMkl0UVp6T1d1ZWxpaWpHUFlHWDdTaVU3bGZZMzF4dkhHclBXbmhYbnZzRFM0Mng4U0V3TUFBd0ctemo4Q2Fhby1RRzNhaXdzVWpKVUVLUzlKWnM3S1ctc2NCT0hmNDcxY0wyUE9CdHFaQmZLQ2lnQzBNN1h6elpHTjlVYk9UYjZoZHBWU2U0RTNWUXJiZWd2Tmk4MTF0cktjYXA4cEZ1X05XVWxtNUk?oc=5\" target=\"_blank\">Muslim World League condemns targeting of critical infrastructure, facilities in Sudan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Peninsula Qatar</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/60688-trump-admin-halts-125m-to-u-maine-for-floating-offshore-wind-turbine-r-and-d-construction",
+        "date": "2025-05-04",
+        "title": "Trump Admin Halts $12.5M to U Maine for Floating Offshore Wind Turbine R&D Construction",
+        "summary": "<p>US Energy Dept grant officials claimed the university did not comply with \u201cone or more\u201d grant terms, which it rebutted. Media reports link the move to continued attacks by President Donald Trump on federal support for US offshore wind energy development, but also to a separate policy dispute with Maine Gov. Janet Mills (D).</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
