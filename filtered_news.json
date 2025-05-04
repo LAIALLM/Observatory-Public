@@ -2433,5 +2433,12 @@
         "status": "posted",
         "tweet": "In 2025, Bitcoin mining remains highly concentrated in  \n\ud83c\udde8\ud83c\uddf3 China (65%) and  \n\ud83c\uddfa\ud83c\uddf8 USA (20%).  \n\nIn contrast, Ethereum's geographic distribution is more diverse, with  \n\ud83c\uddfa\ud83c\uddf8 USA (30%),  \n\ud83c\udde9\ud83c\uddea Germany (20%), and  \n\ud83c\uddf7\ud83c\uddfa Russia (15%) as top locations.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-05-04",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc., $APPL \nQ4 2021: Recorded 15.8 million MacBook shipments globally. \nThat's up 16% from Q4 2020.\nEnergy consumption also reduced by 3% in manufacturing.",
+        "type": "infrastructure"
     }
 ]
