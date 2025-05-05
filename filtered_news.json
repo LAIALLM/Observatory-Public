@@ -2303,5 +2303,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-05-05",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin has the highest hardware costs among the three, followed by Ethereum and Solana.\n\n1. Bitcoin: $10.8B annual hardware costs\n2. Ethereum: $2.4B annual hardware costs\n3. Solana: $120M annual hardware costs",
+        "type": "crypto"
     }
 ]
