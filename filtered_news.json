@@ -2565,5 +2565,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-05-06",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Google's data centers globally achieved a notable 19% reduction in energy consumption last year, hitting an all-time low in their carbon footprint.\n\n$GOOGL powering forward in sustainability!",
+        "type": "infrastructure"
     }
 ]
