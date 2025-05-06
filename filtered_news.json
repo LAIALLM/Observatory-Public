@@ -2545,5 +2545,25 @@
         "status": "posted",
         "tweet": "Bitcoin's annual electricity cost for processing transactions is estimated at $15 billion, handling up to 7 transactions per second.\n\nIn contrast, Visa processes over 24,000 transactions per second at a fraction of the cost.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd0k4anluSlVyNlpucU54aTlUNExreEp1a1UtZmZkNXNkaG9mODlJZzlibjNTeUdkcXZrcy05U3JZcG1jOUlSZm9yM2JmMEVxbHRTYlp0RXM4WlhHdzVENmNTYWRUcERCenRteHYyNHdoYVJORnRBcEVfTlVNc0pHWFBFdksyeVZRZzUzdklTcklGNmNTa1psVzNXUHJocmVOQnVxTzIzcw?oc=5",
+        "date": "2025-05-06",
+        "title": "Strong businesses thrive with safe employees - Daily Monitor",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNd0k4anluSlVyNlpucU54aTlUNExreEp1a1UtZmZkNXNkaG9mODlJZzlibjNTeUdkcXZrcy05U3JZcG1jOUlSZm9yM2JmMEVxbHRTYlp0RXM4WlhHdzVENmNTYWRUcERCenRteHYyNHdoYVJORnRBcEVfTlVNc0pHWFBFdksyeVZRZzUzdklTcklGNmNTa1psVzNXUHJocmVOQnVxTzIzcw?oc=5\" target=\"_blank\">Strong businesses thrive with safe employees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Monitor</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc2pJYTlVekVqZnBCYnZpNEZFYnJYb3lJLVZhN0FqdDRhazRQX0Q5VVhEWWdSeE5iSW8xRTlPQVY0ZDdYcGoxOExMMFhLTUQtcWplazlFMm1pME9wcDBfZ0J4RWppNzNsNnp2Wm1SdnJ2WjY0czJfb3FGZDlBTW1lTGF5YkQta0NUWUgxcg?oc=5",
+        "date": "2025-05-06",
+        "title": "Bengalurus 7000 Crore Infrastructure Overhaul Begin - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQc2pJYTlVekVqZnBCYnZpNEZFYnJYb3lJLVZhN0FqdDRhazRQX0Q5VVhEWWdSeE5iSW8xRTlPQVY0ZDdYcGoxOExMMFhLTUQtcWplazlFMm1pME9wcDBfZ0J4RWppNzNsNnp2Wm1SdnJ2WjY0czJfb3FGZDlBTW1lTGF5YkQta0NUWUgxcg?oc=5\" target=\"_blank\">Bengalurus 7000 Crore Infrastructure Overhaul Begin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
