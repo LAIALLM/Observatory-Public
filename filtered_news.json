@@ -2572,5 +2572,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Google's data centers globally achieved a notable 19% reduction in energy consumption last year, hitting an all-time low in their carbon footprint.\n\n$GOOGL powering forward in sustainability!",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-05-06",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8USA: By 2050, 70% of the population is projected to live in urban areas. After adding 2.5 billion more city-dwellers by 2050, urban areas will face significant pressure on infrastructure and resources. Proactive urban planning now is vital. Sustainable solutions needed.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
