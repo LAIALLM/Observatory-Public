@@ -3420,5 +3420,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-05-07",
+        "status": "posted",
+        "tweet": "Bitcoin nodes are distributed across 94 countries, with the highest concentration in:\n\ud83c\uddfa\ud83c\uddf8 USA (2,345 nodes)\n\ud83c\udde9\ud83c\uddea Germany (1,230 nodes)\n\nEthereum nodes are in 78 countries, with the top locations being:\n\ud83c\uddfa\ud83c\uddf8 USA (1,870 nodes)\n\ud83c\uddec\ud83c\udde7 UK (980 nodes)",
+        "type": "crypto"
     }
 ]
