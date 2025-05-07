@@ -3607,5 +3607,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Greenfield Airport approved in Puri to boost tourism, enhancing regional connectivity.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-07",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft's Q1 2022 results: \n- Cloud Services revenue increased by 36%. \n-  Office 365 Commercial users increased by 21%. \n- Azure revenue growth was up by 50%. \n$MSFT",
+        "type": "infrastructure"
     }
 ]
