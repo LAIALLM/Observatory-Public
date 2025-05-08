@@ -3424,5 +3424,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL \n\nNew quarterly report shows data volumes reach an all-time high. \n\n1.5 Exabytes processed daily, a 20% YoY increase. \n\nEnd-to-end encryption \u00e0 la carte: 99.7% efficiency rating. \n\nStay data-smart!",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-05-08",
+        "status": "posted",
+        "tweet": "\ud83c\udf0f Global urban population is projected to reach 69% by 2050 from 56% in 2025.\n\ud83c\uddee\ud83c\uddf3 India's urban inhabitants are set to rise to over 600 million, surpassing China \ud83c\udde8\ud83c\uddf3 by 2027. \n\nUrban planning and infrastructure investment are critical for sustainable cities.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
