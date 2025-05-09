@@ -3808,5 +3808,46 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin has the highest network scalability costs, followed by Ethereum and Solana.\n\n1. Bitcoin: $54M monthly for 7 TPS\n2. Ethereum: $15M monthly for 30 TPS\n3. Solana: $2M monthly for 65,000 TPS",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeTBmOVFtOGJiUjFPTkN1Sm9BcnRETTNiaUpwMVIzWF92eU83eUFmQ1Q1ZGxPWWJDa0tvLXpZTERJTnVDLVB6V3VDNTVGU0gxdW1jRXBfVm9uTXRMVlVVY2lqNkc1X2JHc3hjUUpXeUUxN3M2d01aRDdRQTN0S3J6UTBDWk9Wc24xeUpDallTR3A5aFB0R2ZtN3pPWE5YM2pJc212am1iVTktSmJHMDlQZmgwRzI?oc=5",
+        "date": "2025-05-09",
+        "title": "HCLTech introduces AR-based IT infrastructure solution with CareAR, ServiceNow - Techcircle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQeTBmOVFtOGJiUjFPTkN1Sm9BcnRETTNiaUpwMVIzWF92eU83eUFmQ1Q1ZGxPWWJDa0tvLXpZTERJTnVDLVB6V3VDNTVGU0gxdW1jRXBfVm9uTXRMVlVVY2lqNkc1X2JHc3hjUUpXeUUxN3M2d01aRDdRQTN0S3J6UTBDWk9Wc24xeUpDallTR3A5aFB0R2ZtN3pPWE5YM2pJc212am1iVTktSmJHMDlQZmgwRzI?oc=5\" target=\"_blank\">HCLTech introduces AR-based IT infrastructure solution with CareAR, ServiceNow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Techcircle</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YeVVqRnRHUGVKZDFQMExFUEFqNDRoT0JsdU1oVjZUdmhRZ0tLVVAwSXVQT0dfV0xwQkdrcXB3ei11MDVXRXpjaFQ4MGR3ZzVVTm5xLTdlNUtqTDhZdzloeXpPV01GQzVqZm9ZQTVlMFVIbF80?oc=5",
+        "date": "2025-05-09",
+        "title": "LS Corp. to Build Power Infrastructure for a New City in Bhutan - Businesskorea",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1YeVVqRnRHUGVKZDFQMExFUEFqNDRoT0JsdU1oVjZUdmhRZ0tLVVAwSXVQT0dfV0xwQkdrcXB3ei11MDVXRXpjaFQ4MGR3ZzVVTm5xLTdlNUtqTDhZdzloeXpPV01GQzVqZm9ZQTVlMFVIbF80?oc=5\" target=\"_blank\">LS Corp. to Build Power Infrastructure for a New City in Bhutan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Businesskorea</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde7\ud83c\uddf9 NEWS: LS Corp. to build power infrastructure for a new city in Bhutan, enhancing the regions energy capabilities."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNazdqWWpNTFdvLVZpckJMc1NNYjBKWWl2UVFCQi1LVWI0bFlRUy11anVKRVVjb1BFaTdzUFRRTHNCQlJ0YUZSNzBneWx1TS0xd2wwYlowQzVER0hfc0h3QjM5cElpMm9YcEQ2dHdtY0lMeThkaVV1akZUYzVFY0lRUG03SnBlZ1lJYWFmX0RyVHY5WlJSeXhYUg?oc=5",
+        "date": "2025-05-09",
+        "title": "Mumbai Metro 3 stretch opens easing travel between BKC and Worli today - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNazdqWWpNTFdvLVZpckJMc1NNYjBKWWl2UVFCQi1LVWI0bFlRUy11anVKRVVjb1BFaTdzUFRRTHNCQlJ0YUZSNzBneWx1TS0xd2wwYlowQzVER0hfc0h3QjM5cElpMm9YcEQ2dHdtY0lMeThkaVV1akZUYzVFY0lRUG03SnBlZ1lJYWFmX0RyVHY5WlJSeXhYUg?oc=5\" target=\"_blank\">Mumbai Metro 3 stretch opens easing travel between BKC and Worli today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YeVVqRnRHUGVKZDFQMExFUEFqNDRoT0JsdU1oVjZUdmhRZ0tLVVAwSXVQT0dfV0xwQkdrcXB3ei11MDVXRXpjaFQ4MGR3ZzVVTm5xLTdlNUtqTDhZdzloeXpPV01GQzVqZm9ZQTVlMFVIbF80?oc=5",
+        "date": "2025-05-09",
+        "title": "LS Corp. to Build Power Infrastructure for a New City in Bhutan - Businesskorea",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1YeVVqRnRHUGVKZDFQMExFUEFqNDRoT0JsdU1oVjZUdmhRZ0tLVVAwSXVQT0dfV0xwQkdrcXB3ei11MDVXRXpjaFQ4MGR3ZzVVTm5xLTdlNUtqTDhZdzloeXpPV01GQzVqZm9ZQTVlMFVIbF80?oc=5\" target=\"_blank\">LS Corp. to Build Power Infrastructure for a New City in Bhutan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Businesskorea</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde7\ud83c\uddf9 NEWS: LS Corp. to build power infrastructure for a new city in Bhutan, enhancing the regions energy capabilities.",
+        "type": "news"
     }
 ]
