@@ -3849,5 +3849,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde7\ud83c\uddf9 NEWS: LS Corp. to build power infrastructure for a new city in Bhutan, enhancing the regions energy capabilities.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-09",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.'s iCloud noted a massive 40% increase in user data uploads in 2021 compared to 2020 with users now storing over 1.5 exabytes of data on the cloud platform. \n\n\ud83d\udcc8   Apple Inc. $AAPL",
+        "type": "infrastructure"
     }
 ]
