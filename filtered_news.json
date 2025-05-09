@@ -3801,5 +3801,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Indore accelerates infrastructure growth with metro expressway and heritage restoration efforts.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-09",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin has the highest network scalability costs, followed by Ethereum and Solana.\n\n1. Bitcoin: $54M monthly for 7 TPS\n2. Ethereum: $15M monthly for 30 TPS\n3. Solana: $2M monthly for 65,000 TPS",
+        "type": "crypto"
     }
 ]
