@@ -3774,5 +3774,65 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3QyZWc2Q1NTUUZqQi1SWDFYRkxpUWhZTXNKZHVLUUF5OWllT01TTGZwcDRyVEpWb3pYVm9qUWNMTHgyWkNfYVNPQ21qQlNIaURCRE9ldE9UMldVTHMxT0lDdU9CMWZRMXpabkFmS0xVQVI2anJweHpJcVZQTVdKSnM0YWx0UWktSk0waDliRi1iVzR1X01lMk84MHQtS09h?oc=5",
+        "date": "2025-05-10",
+        "title": "Hong Kong\u2019s construction industry grapples with high 5% unemployment rate - Dimsum Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3QyZWc2Q1NTUUZqQi1SWDFYRkxpUWhZTXNKZHVLUUF5OWllT01TTGZwcDRyVEpWb3pYVm9qUWNMTHgyWkNfYVNPQ21qQlNIaURCRE9ldE9UMldVTHMxT0lDdU9CMWZRMXpabkFmS0xVQVI2anJweHpJcVZQTVdKSnM0YWx0UWktSk0waDliRi1iVzR1X01lMk84MHQtS09h?oc=5\" target=\"_blank\">Hong Kong\u2019s construction industry grapples with high 5% unemployment rate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dimsum Daily</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaZm1xS0c0NHNuNS1fX3ZhbDVsOVRYanplTWsyZDJYUkpTUVR6SC13TmJ2S0tQMThnc0FWVXRVMkFia2traW9EeE1jMDBGSWJicUhPUjBqd2ZmaGlBWjFMSzA3WjQ2MUMwbHdaMVFDQQ?oc=5",
+        "date": "2025-05-10",
+        "title": "Cyber Security: A Critical Element In Safeguarding Modern Rail Infrastructure - Metro Rail News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBaZm1xS0c0NHNuNS1fX3ZhbDVsOVRYanplTWsyZDJYUkpTUVR6SC13TmJ2S0tQMThnc0FWVXRVMkFia2traW9EeE1jMDBGSWJicUhPUjBqd2ZmaGlBWjFMSzA3WjQ2MUMwbHdaMVFDQQ?oc=5\" target=\"_blank\">Cyber Security: A Critical Element In Safeguarding Modern Rail Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Metro Rail News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUswaTBhejVZZE9UWFRuNnlmT1VDS2F6Z0hQcUYtbzVYMnl2bXRuMHlkeTh4dUtRME51ZGgyN2VBWGpqRVB1ekFNYm1ERENBazlyTU91R3F5dTZxd0JWSFctU1k1Y1ZLU0ZvdXRqSDNCRUxHWVB2RDVxdkw3aGV6NUZ4TG1xa0ZEd1IyUmQtVDFBUUQ1VUp3ZmZBUzJTcUFXVXZTX1gtdW5DdEM0c21EU2VR0gG3AUFVX3lxTE1OOHNCUzJ4WWt1dkMyRE5heklUUDhQRDBvbkVjQVBpNDZPNmNzaE01SThfWXBZMGJwYy03clVmampZYmt0V0hXcTZFbUV5eTBMSjRaQzdzY0duQ0htTFR2d2NscEpqem5zMGR1RFVtVmt3Szd1b2ZhdGlPTGk2ZG5obVhMbVVWUExZeGdRd0RtNmZXbEhqd1B4YzRiWGUwdnpGYnl1RGxSSUZYQlVhWF9UMS1DQXNnZw?oc=5",
+        "date": "2025-05-10",
+        "title": "World Bank approves phase one of Cameroon's water infrastructure plan - Smart Water Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUswaTBhejVZZE9UWFRuNnlmT1VDS2F6Z0hQcUYtbzVYMnl2bXRuMHlkeTh4dUtRME51ZGgyN2VBWGpqRVB1ekFNYm1ERENBazlyTU91R3F5dTZxd0JWSFctU1k1Y1ZLU0ZvdXRqSDNCRUxHWVB2RDVxdkw3aGV6NUZ4TG1xa0ZEd1IyUmQtVDFBUUQ1VUp3ZmZBUzJTcUFXVXZTX1gtdW5DdEM0c21EU2VR0gG3AUFVX3lxTE1OOHNCUzJ4WWt1dkMyRE5heklUUDhQRDBvbkVjQVBpNDZPNmNzaE01SThfWXBZMGJwYy03clVmampZYmt0V0hXcTZFbUV5eTBMSjRaQzdzY0duQ0htTFR2d2NscEpqem5zMGR1RFVtVmt3Szd1b2ZhdGlPTGk2ZG5obVhMbVVWUExZeGdRd0RtNmZXbEhqd1B4YzRiWGUwdnpGYnl1RGxSSUZYQlVhWF9UMS1DQXNnZw?oc=5\" target=\"_blank\">World Bank approves phase one of Cameroon's water infrastructure plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Water Magazine</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd25zdFZVaVpDNEplOFRVdzJyXzdHeEs5SlEybHkwejB3NWhKeUhtVlhWQ1lFM0FQa0pGb3ZuSmsxZHNmNWREMHdMTFJJd1ZCQ2lqSklkYWRmT1M1SkgtXzNxYk04VWVIVWN0VjFuMmVQVE8xNTBPcXdKR3QwRWdIc2gxTmhkZVMwcGhF?oc=5",
+        "date": "2025-05-10",
+        "title": "IAS Trainees Delve into Odisha\u2019s Urban Development Policies - pragativadi.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd25zdFZVaVpDNEplOFRVdzJyXzdHeEs5SlEybHkwejB3NWhKeUhtVlhWQ1lFM0FQa0pGb3ZuSmsxZHNmNWREMHdMTFJJd1ZCQ2lqSklkYWRmT1M1SkgtXzNxYk04VWVIVWN0VjFuMmVQVE8xNTBPcXdKR3QwRWdIc2gxTmhkZVMwcGhF?oc=5\" target=\"_blank\">IAS Trainees Delve into Odisha\u2019s Urban Development Policies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pragativadi.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX3BncE1uVFlMdktBRVdMTXNzSlBoMkRrc0lORFg1amhsbFg4RjFoU3Z2WmRxNzR3RXNDcU0xa1JBRGJaWlhNbVg2b3VBb3MwdHNtRnJrSm9INFFndk1oRDJzM2E5RERHZWotYlRRelBjTHlfLVllaTdBTzNOb1hjTlRSQ194Y1dzQ21R?oc=5",
+        "date": "2025-05-10",
+        "title": "Nagpur Urban Development Faces Scrutiny Amid Election Season - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX3BncE1uVFlMdktBRVdMTXNzSlBoMkRrc0lORFg1amhsbFg4RjFoU3Z2WmRxNzR3RXNDcU0xa1JBRGJaWlhNbVg2b3VBb3MwdHNtRnJrSm9INFFndk1oRDJzM2E5RERHZWotYlRRelBjTHlfLVllaTdBTzNOb1hjTlRSQ194Y1dzQ21R?oc=5\" target=\"_blank\">Nagpur Urban Development Faces Scrutiny Amid Election Season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXXzZ5QU1hMWNIMDFPSFRhejJNUG84cmNGYmtzRlBHT1pSWEVBcVZNbTZWbW9xNUpua1FrTUhGbFlSRzBQTk9WdHdvVnFUTWJkWWc?oc=5",
+        "date": "2025-05-10",
+        "title": ".......\ud83d\udc9e - Instagram",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXXzZ5QU1hMWNIMDFPSFRhejJNUG84cmNGYmtzRlBHT1pSWEVBcVZNbTZWbW9xNUpua1FrTUhGbFlSRzBQTk9WdHdvVnFUTWJkWWc?oc=5\" target=\"_blank\">.......\ud83d\udc9e</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Instagram</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
