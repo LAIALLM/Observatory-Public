@@ -3874,5 +3874,15 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUlBQUS04NV9TdWo2U1A4a0s4djQ5cmZObjRGUTFRRkoybzZ5b0ZGR0ZPM2RWbUhKMjBxWG1PejRfSXcyb29rcGZKOUFhLVlxVm5QMDNJSmV3cEdKMnVrTmZnMVBrNXRWemhYelJTdW1rRXVRQy1mdXBOZF9lYlMyaVI2X0J1U1ZfNmxDUzBsUlA1SUJlVmZEQUpn?oc=5",
+        "date": "2025-05-10",
+        "title": "Sudan\u2019s Ongoing Conflict has Devastated Key Medical Research Infrastructure - Africa.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQUlBQUS04NV9TdWo2U1A4a0s4djQ5cmZObjRGUTFRRkoybzZ5b0ZGR0ZPM2RWbUhKMjBxWG1PejRfSXcyb29rcGZKOUFhLVlxVm5QMDNJSmV3cEdKMnVrTmZnMVBrNXRWemhYelJTdW1rRXVRQy1mdXBOZF9lYlMyaVI2X0J1U1ZfNmxDUzBsUlA1SUJlVmZEQUpn?oc=5\" target=\"_blank\">Sudan\u2019s Ongoing Conflict has Devastated Key Medical Research Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Africa.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
