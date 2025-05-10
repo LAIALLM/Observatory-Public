@@ -3656,5 +3656,13 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin mining is geographically concentrated in three countries.\n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddfa\ud83c\uddf8 United States\n3. \ud83c\uddf0\ud83c\uddff Kazakhstan",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-05-10",
+        "status": "posted",
+        "tweet": "\ud83c\udf0e Global urban population is projected to rise by 2.5 billion by 2050. Most growth is expected in Africa and Asia.\n\ud83c\udfd8\ufe0f By 2025, roughly 68% of the world population is living in urban areas. \nUrban planning has never been more crucial for a sustainable future.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
