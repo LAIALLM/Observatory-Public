@@ -3894,5 +3894,15 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUkl4ZGNSVFgwV3BGS1FUNlhfZV9LNWxZWU44MTY0d2lIa01pelIwTHVMRHJGMzNBdm9jd2tvaTVfYkxEbHlTSDZSYVdSM0FEZEo1UWtlY2Z1NmpWXzM2d3VDNUFGdll6MDZjTkFkeTZPc2ozWktDUlMxenRadDBGWlVQR2k0NGpWUEo1UmY1MlhNaGNpSTBXZkN3VdIBogFBVV95cUxQOG5HajdDX3pINHRoYVdfTmlMX3JrcHlhbFNjeFhhbGRraFJLM1JOTHR4U0tiOWNIbzYyYXhQeHZubW56Ukd5YU8yR2tPLUdyaEhXc3pVbHExQ3RTLTdENG5od3h0S0FCSTNMSDN1NlN5d0s1dUVYTWNFak40eWJROGpXbmthVXN4WVY0b1Q1MDktaW9RTWNMWlV5X19MZUpBNFE?oc=5",
+        "date": "2025-05-10",
+        "title": "The relentless march of concrete - The Hindu",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQUkl4ZGNSVFgwV3BGS1FUNlhfZV9LNWxZWU44MTY0d2lIa01pelIwTHVMRHJGMzNBdm9jd2tvaTVfYkxEbHlTSDZSYVdSM0FEZEo1UWtlY2Z1NmpWXzM2d3VDNUFGdll6MDZjTkFkeTZPc2ozWktDUlMxenRadDBGWlVQR2k0NGpWUEo1UmY1MlhNaGNpSTBXZkN3VdIBogFBVV95cUxQOG5HajdDX3pINHRoYVdfTmlMX3JrcHlhbFNjeFhhbGRraFJLM1JOTHR4U0tiOWNIbzYyYXhQeHZubW56Ukd5YU8yR2tPLUdyaEhXc3pVbHExQ3RTLTdENG5od3h0S0FCSTNMSDN1NlN5d0s1dUVYTWNFak40eWJROGpXbmthVXN4WVY0b1Q1MDktaW9RTWNMWlV5X19MZUpBNFE?oc=5\" target=\"_blank\">The relentless march of concrete</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
