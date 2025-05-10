@@ -3649,5 +3649,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Google's ( $GOOGL ) data centers globally used 12.2 terawatt hours of electricity in 2020, equivalent to powering over 1.2 million homes. \nEquating to roughly 0.01% of the global energy usage.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-05-10",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin mining is geographically concentrated in three countries.\n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddfa\ud83c\uddf8 United States\n3. \ud83c\uddf0\ud83c\uddff Kazakhstan",
+        "type": "crypto"
     }
 ]
