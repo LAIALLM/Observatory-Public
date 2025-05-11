@@ -3497,5 +3497,12 @@
         "status": "posted",
         "tweet": "By 2025, the annual hardware costs for Bitcoin mining are projected to reach $10 billion, surpassing the GDP of many small countries.\n\nThis figure reflects the intense computational demands and frequent hardware upgrades required to maintain the network's operations.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-05-11",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Google's data centers globally \nused around 7.9 TWh of electricity in 2020. \nThis is equivalent to the energy usage of the state of Rhode Island \ud83c\uddfa\ud83c\uddf8. \n$GOOGL.",
+        "type": "infrastructure"
     }
 ]
