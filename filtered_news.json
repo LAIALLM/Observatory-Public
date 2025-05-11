@@ -3594,5 +3594,15 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlVoNkFWNEtTYUsweVU5MEhWX2tYR25NeXJQYkRySXdHSFFPMmZuRFVyVGFmVzB6N2syeUNNWkJUb3ZBR25ueEVEQ1VqOEdjNXR1a2dIOERlSEQwa0ZLQVJCV293SWxnUEs4em54THYySm1kRmh5TS1FbV9iVXAyU2xsRE8tOHl4WEZkNGN5OGJmVjl2SXlBQmFBckNlb01pNGhSS3dsR2VGZkU?oc=5",
+        "date": "2025-05-11",
+        "title": "Designing urban spaces for connectivity, community and climate change - The Straits Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlVoNkFWNEtTYUsweVU5MEhWX2tYR25NeXJQYkRySXdHSFFPMmZuRFVyVGFmVzB6N2syeUNNWkJUb3ZBR25ueEVEQ1VqOEdjNXR1a2dIOERlSEQwa0ZLQVJCV293SWxnUEs4em54THYySm1kRmh5TS1FbV9iVXAyU2xsRE8tOHl4WEZkNGN5OGJmVjl2SXlBQmFBckNlb01pNGhSS3dsR2VGZkU?oc=5\" target=\"_blank\">Designing urban spaces for connectivity, community and climate change</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Straits Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
