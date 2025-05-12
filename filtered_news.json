@@ -3308,5 +3308,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 USA: Renewable energy sources are projected to meet 50% of electricity demand by 2030. \n\n\ud83c\udf0d Worldwide: The percentage of electricity from renewables is expected to reach 26% by 2025. \n\nSwift action against climate change is visible.",
         "type": "statistical",
         "category": "energy"
+    },
+    {
+        "link": null,
+        "date": "2025-05-12",
+        "status": "posted",
+        "tweet": "Bitcoin's annual electricity consumption for mining reached 120 TWh in 2023, up from 75 TWh in 2020, surpassing the energy usage of countries like \ud83c\uddf3\ud83c\uddf4 Norway.",
+        "type": "crypto"
     }
 ]
