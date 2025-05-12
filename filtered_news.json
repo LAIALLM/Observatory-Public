@@ -3794,5 +3794,35 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\udde6 NEWS: RCCAOs comprehensive reforms aim to boost critical infrastructure construction and housing development.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTEYzQ2tMWFJUeVRLSjJSU3d2SmxsWFRDbkt1QTVPWGd0SGh6SHJWX19ZN0NfLUdPZ1d2UHNGQjRWci1nS1liZnVGYlIxS0Ewb20yUXMyc2k5SngzeHdCNHhUTGJCTTVtUzNLc1hrZ05ZeXdTZ1pQcVlVdDUxejRxZTIweURKTWVERHd3SFhLY05JcHhMdEUzREdPa0FBVC02NUtlVVI2dUpJWGFHbm5CWkd2aUdrQlRJWmZhQzhMTWFlUHR0NUZHZw?oc=5",
+        "date": "2025-05-12",
+        "title": "Elizabeth Non-Profit is Holding a Free 12-Week Construction Program for Veterans - TAPinto",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTEYzQ2tMWFJUeVRLSjJSU3d2SmxsWFRDbkt1QTVPWGd0SGh6SHJWX19ZN0NfLUdPZ1d2UHNGQjRWci1nS1liZnVGYlIxS0Ewb20yUXMyc2k5SngzeHdCNHhUTGJCTTVtUzNLc1hrZ05ZeXdTZ1pQcVlVdDUxejRxZTIweURKTWVERHd3SFhLY05JcHhMdEUzREdPa0FBVC02NUtlVVI2dUpJWGFHbm5CWkd2aUdrQlRJWmZhQzhMTWFlUHR0NUZHZw?oc=5\" target=\"_blank\">Elizabeth Non-Profit is Holding a Free 12-Week Construction Program for Veterans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TAPinto</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa25KSDNnMVRTOExEbndJSUdJWUc2OFhDN1JJNXFzdEU2WHM3TmY3YjRaaE9NSzJKU0dlYlJUNFVhcmxkcWROWmRoQnRDZ1ZfazVwal9BbTd2ajdBNjQ5bzhTOXNXMUx0VVlEeHBpU0FNei1HRm5Meld6dXB4SWxaU2hXcDlWcEN4WG9hNnFGMGRSVTNnbVk2cXhUZWY5VWxfWWpkdjBGaV91VTRyQUIwaktyd0VQRUpSemc?oc=5",
+        "date": "2025-05-12",
+        "title": "10 cities \u2018best prepared\u2019 for a smart city future - American City & County",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQa25KSDNnMVRTOExEbndJSUdJWUc2OFhDN1JJNXFzdEU2WHM3TmY3YjRaaE9NSzJKU0dlYlJUNFVhcmxkcWROWmRoQnRDZ1ZfazVwal9BbTd2ajdBNjQ5bzhTOXNXMUx0VVlEeHBpU0FNei1HRm5Meld6dXB4SWxaU2hXcDlWcEN4WG9hNnFGMGRSVTNnbVk2cXhUZWY5VWxfWWpkdjBGaV91VTRyQUIwaktyd0VQRUpSemc?oc=5\" target=\"_blank\">10 cities \u2018best prepared\u2019 for a smart city future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American City & County</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.urbantransportnews.com/article/the-ai-revolution-in-brand-communication-a-dubai-perspective",
+        "date": "2025-05-12",
+        "title": "The AI Revolution in Brand Communication: A Dubai Perspective",
+        "summary": "<p>As we navigate the ever-evolving landscape of marketing in 2025, it's clear that AI has become a crucial tool for brand communication, particularly in tech-savvy hubs like Dubai. The UAE's embrace of AI-driven marketing strategies offers valuable insights for forward-thinking marketing directors worldwide.</p>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
