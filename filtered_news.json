@@ -3416,5 +3416,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf0\ud83c\uddf7 NEWS: Kumho consortium wins Yeonsinnae Station complex project amid bidding resurgence.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-12",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Alphabet Inc.  \nJust announced Q4 results:  \n\ud83d\udca151.5 billion kWh annual energy-use  \n\ud83d\udcc89% increase from Q3  \n\ud83d\udcbcIncreased data center workload by 12%  \n$GOOGL",
+        "type": "infrastructure"
     }
 ]
