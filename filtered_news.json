@@ -3751,5 +3751,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: Victoria announces $5 billion public transport blitz, including funding for Melbourne Metro Tunnel.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-13",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual electricity consumption is projected to surpass 200 TWh, exceeding the total power usage of \ud83c\uddee\ud83c\uddf9 Italy.",
+        "type": "crypto"
     }
 ]
