@@ -3881,5 +3881,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf5\ud83c\uddea NEWS: Perus Shougang Hierro halts operations due to port infrastructure collapse.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-13",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Amazon: $AMZN\nDelivered packages have soared to 2.5 billion in 2019, a 150% increase from just four years ago. Significant growth demonstrating a powerful logistics network. Energy efficiency rating: \u2606\u2606\u2606\u2606.",
+        "type": "infrastructure"
     }
 ]
