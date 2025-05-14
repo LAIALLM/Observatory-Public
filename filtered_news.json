@@ -4034,5 +4034,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 USA: Autonomous vehicle usage up by 75% since 2023. Improved safety features resulted in a 35% decrease in traffic fatalities. \n\ud83c\udf0d Global: Electric vehicle sales projected to hit 12 million by the end of 2025, a 50% increase since 2023, making movement green, efficient.",
         "type": "statistical",
         "category": "transportation"
+    },
+    {
+        "link": null,
+        "date": "2025-05-14",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.'s Q4 data center energy consumption:  \n\n142 MW peak load.  \n783,336 MWh annual energy usage.  \n\n\ud83d\udcbb 96.7% of power from renewable sources.\n\n$AAPL",
+        "type": "infrastructure"
     }
 ]
