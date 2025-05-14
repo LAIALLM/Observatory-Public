@@ -3806,5 +3806,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-05-14",
+        "status": "posted",
+        "tweet": "Bitcoin's annual carbon footprint in 2025 is estimated at 65.7 million metric tons of CO2, equivalent to the yearly emissions of \ud83c\udde9\ud83c\uddf0 Denmark.",
+        "type": "crypto"
     }
 ]
