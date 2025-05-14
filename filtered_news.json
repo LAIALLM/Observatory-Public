@@ -4026,5 +4026,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf8\ud83c\udde6 NEWS: GAS wins $221mln contracts to build gas pipeline infrastructure",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-14",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 USA: Autonomous vehicle usage up by 75% since 2023. Improved safety features resulted in a 35% decrease in traffic fatalities. \n\ud83c\udf0d Global: Electric vehicle sales projected to hit 12 million by the end of 2025, a 50% increase since 2023, making movement green, efficient.",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
