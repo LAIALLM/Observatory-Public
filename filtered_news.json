@@ -4202,5 +4202,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\udde6 NEWS: CN Railway unveils $3.4B plan for 225 miles of new rail and 8 major projects in Western Canada.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-15",
+        "status": "posted",
+        "tweet": "Summary: Ranking of Countries with highest investment in Engineering Projects for 2025.\n\n1. \ud83c\udde8\ud83c\uddf3China\n2. \ud83c\uddfa\ud83c\uddf8USA \n3. \ud83c\uddef\ud83c\uddf5Japan \n4. \ud83c\udde9\ud83c\uddeaGermany \n5. \ud83c\uddee\ud83c\uddf3India\n\nChina tops the chart for 2025 with the highest investment in Engineering projects, closely followed by USA and Japan.",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
