@@ -3703,5 +3703,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.'s Q4 data center energy consumption:  \n\n142 MW peak load.  \n783,336 MWh annual energy usage.  \n\n\ud83d\udcbb 96.7% of power from renewable sources.\n\n$AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-05-15",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.  \niCloud now handles 300 petabytes (PB) of data daily, an increase of 20% since Q4, 2020.  \n68% of the data pertains to media files.\n$AAPL",
+        "type": "infrastructure"
     }
 ]
