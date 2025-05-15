@@ -3868,5 +3868,136 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN2JSY2lWc1o5MkdrSzAtM05kSTdwWlRXN0V0Y2VKWGpGM01DU2pZeVNzRjdWWFBicHBqSzRXR2JSVmRwaDRaMU4weXV2cmRnTjJxOTVtWnVpSk9QUEFQSFRKay1fWFhqY3dEMkpZZDNfSXc1T2JmeFJDb2s3eHVYZEhtVW1ma2tUT3EwbnhqUGFaM2tLemZpVnZuS1ZqU3ZPOHhhNklhLXY1VnVrN1VXbjNtU0ZYZGFHR2dZVw?oc=5",
+        "date": "2025-05-15",
+        "title": "Company debuts building material that could revolutionize construction industry: 'One step closer to high-performance materials' - The Cool Down",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPN2JSY2lWc1o5MkdrSzAtM05kSTdwWlRXN0V0Y2VKWGpGM01DU2pZeVNzRjdWWFBicHBqSzRXR2JSVmRwaDRaMU4weXV2cmRnTjJxOTVtWnVpSk9QUEFQSFRKay1fWFhqY3dEMkpZZDNfSXc1T2JmeFJDb2s3eHVYZEhtVW1ma2tUT3EwbnhqUGFaM2tLemZpVnZuS1ZqU3ZPOHhhNklhLXY1VnVrN1VXbjNtU0ZYZGFHR2dZVw?oc=5\" target=\"_blank\">Company debuts building material that could revolutionize construction industry: 'One step closer to high-performance materials'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cool Down</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVlILWY0Z2dlcjB1TzAtWURVOGVTcXYtUUxRSk9idlowaldyUVNEckJuQl9PbTJhOFJyeTBNM2Z1WmI1N3lWUE9lOGMzUlZqa3FEVldzYnNBWHh6N3dob0huQjZxeUUwUWhIVUNxVHpyUDVXSFlIa25DYXBYbjdDMk1uUk1LcHY3NlQzTXExVGJsd2dlemFRdzgwNDhNdERiUDBFcFo3TnJZWGJicDNB?oc=5",
+        "date": "2025-05-15",
+        "title": "Spring boost for construction as March output increases by 0.5% - Scottish Construction Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxORVlILWY0Z2dlcjB1TzAtWURVOGVTcXYtUUxRSk9idlowaldyUVNEckJuQl9PbTJhOFJyeTBNM2Z1WmI1N3lWUE9lOGMzUlZqa3FEVldzYnNBWHh6N3dob0huQjZxeUUwUWhIVUNxVHpyUDVXSFlIa25DYXBYbjdDMk1uUk1LcHY3NlQzTXExVGJsd2dlemFRdzgwNDhNdERiUDBFcFo3TnJZWGJicDNB?oc=5\" target=\"_blank\">Spring boost for construction as March output increases by 0.5%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scottish Construction Now</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbF93b0lDejI3dktBbEhPQVhLd1J0UmFhWHhKamdfSHN6dFMxWnpnSUZ6dnd6ZHlVQnc3djBLcUs5OVBSUWdLRkFiaHlVdzdvbGFfQnVwSkNJY2ZwVTlfZEZMMVJ5eUpFRjlfQnN5Tm56Vm1UT0hwTzZVclpBd1hNMFdsTkZ2VFRBNy1KRHNTWFV5eko3OVpVbU9ISWZJR1hWbWx1MG1sdHEzY0Utd3hYbzdnQjVQeVk0QXNabkV6c3dBTmlON0dkVHZDOThnMEd3c2Q1eEs5OU1rN0QzVk14Uk1kYw?oc=5",
+        "date": "2025-05-15",
+        "title": "ICC to showcase building safety and innovation expertise at Oman Design & Build Week - ZAWYA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbF93b0lDejI3dktBbEhPQVhLd1J0UmFhWHhKamdfSHN6dFMxWnpnSUZ6dnd6ZHlVQnc3djBLcUs5OVBSUWdLRkFiaHlVdzdvbGFfQnVwSkNJY2ZwVTlfZEZMMVJ5eUpFRjlfQnN5Tm56Vm1UT0hwTzZVclpBd1hNMFdsTkZ2VFRBNy1KRHNTWFV5eko3OVpVbU9ISWZJR1hWbWx1MG1sdHEzY0Utd3hYbzdnQjVQeVk0QXNabkV6c3dBTmlON0dkVHZDOThnMEd3c2Q1eEs5OU1rN0QzVk14Uk1kYw?oc=5\" target=\"_blank\">ICC to showcase building safety and innovation expertise at Oman Design & Build Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZAWYA</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPckNIU0oyTFRmTEdYXy1KYnJiR0tPSEphQ2VIM09hM0JSOTBMQWxUNTJaQV9DOWNqT3hXcG5RbU02d2QwWWxjdGFtX3daYWo0emhGTWc1MHBXRS1WY0l3R2M3QUNFa3BuWVBYNm5TdG1WVGktNlkzenRZNUNHVk5CdERDcXYyS0JDUDlYYnFTOVVwTHRWYkFlOUdFRE42NzFZVXUyN0tRU0d5THc1LW9TTkRmeEJkZGVuQ1B4R25qSXcySHBVaWc3dml3NExDdHAxYTRzb1FXX3pMM09JNl81UlQ5N200T0hJYzhpanVCdi1RblFrVXc?oc=5",
+        "date": "2025-05-15",
+        "title": "Reay Road Bridge Inaugurated to Boost South Mumbai Infrastructure - Construction World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPckNIU0oyTFRmTEdYXy1KYnJiR0tPSEphQ2VIM09hM0JSOTBMQWxUNTJaQV9DOWNqT3hXcG5RbU02d2QwWWxjdGFtX3daYWo0emhGTWc1MHBXRS1WY0l3R2M3QUNFa3BuWVBYNm5TdG1WVGktNlkzenRZNUNHVk5CdERDcXYyS0JDUDlYYnFTOVVwTHRWYkFlOUdFRE42NzFZVXUyN0tRU0d5THc1LW9TTkRmeEJkZGVuQ1B4R25qSXcySHBVaWc3dml3NExDdHAxYTRzb1FXX3pMM09JNl81UlQ5N200T0hJYzhpanVCdi1RblFrVXc?oc=5\" target=\"_blank\">Reay Road Bridge Inaugurated to Boost South Mumbai Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction World</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Reay Road Bridge inaugurated, enhancing South Mumbais infrastructure and connectivity."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNEhGVDhmNERQNm9vQVZLaWd4bkVjYXZKS1EtV29mMmtrX25tby14OVVERkllVlpNVTk1M1g5MnF5Uy03RW94Mml5d25lNFZKUWRGRzN3QVljd3ZHc2RiTjYwMFNQMzlqRE05bTBraWtHVFFyRWM0ZUF0eHM0OC1pX1hJbTZTV0h6bFVVSFJxVFc0Z0h6dDF6NzhsSHg5R1dpMFljMm1RNDBENDdHOFRlbnNfV1NKLUV4TnR4amd3c2diMkJLaGRmbUs4N3g?oc=5",
+        "date": "2025-05-15",
+        "title": "Chinese cyber threats and infrastructure vulnerabilities dominate 2026 DHS budget hearing - Industrial Cyber",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPNEhGVDhmNERQNm9vQVZLaWd4bkVjYXZKS1EtV29mMmtrX25tby14OVVERkllVlpNVTk1M1g5MnF5Uy03RW94Mml5d25lNFZKUWRGRzN3QVljd3ZHc2RiTjYwMFNQMzlqRE05bTBraWtHVFFyRWM0ZUF0eHM0OC1pX1hJbTZTV0h6bFVVSFJxVFc0Z0h6dDF6NzhsSHg5R1dpMFljMm1RNDBENDdHOFRlbnNfV1NKLUV4TnR4amd3c2diMkJLaGRmbUs4N3g?oc=5\" target=\"_blank\">Chinese cyber threats and infrastructure vulnerabilities dominate 2026 DHS budget hearing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Industrial Cyber</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRGpFRFZJZ0h2OW52MU1GdFVVa1I4bk1nbWNaZThpaXQ2bkVxZENTR0xjckt3UVBiTVBHN3NEeXRvVldRcVZjd2dDazY0YnJSX1ZRa3lEWXp1TWhQalhsVXVSTkMzQjNkZTZaWXg4MXgyVi1kQmVzZlRJajZYcFNGYnhzVHRJN0gyckxpazBmQ1poUmdZNG4zQ3V0M2tuZHJmWnc?oc=5",
+        "date": "2025-05-15",
+        "title": "Optics11 raises \u20ac17M to enhance power infrastructure resilience in Europe - Tech.eu",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNRGpFRFZJZ0h2OW52MU1GdFVVa1I4bk1nbWNaZThpaXQ2bkVxZENTR0xjckt3UVBiTVBHN3NEeXRvVldRcVZjd2dDazY0YnJSX1ZRa3lEWXp1TWhQalhsVXVSTkMzQjNkZTZaWXg4MXgyVi1kQmVzZlRJajZYcFNGYnhzVHRJN0gyckxpazBmQ1poUmdZNG4zQ3V0M2tuZHJmWnc?oc=5\" target=\"_blank\">Optics11 raises \u20ac17M to enhance power infrastructure resilience in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech.eu</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQmdOcEYybEhjOE5adm1ieTNyaXRGQlR3Y3I5RFliTFdzNERlX1B3VHAwOXRtMTZReXlBcnJ3Wmp2LWJ2RkxId1gxSjloMzZBSTlTNEtXVGh0NlRBQ2VOcWRiRGNKUUUtREVkUFBES1VMZ2c1c0lBSTRKdmFwLVZZMU5LWmN4TV9HQlhkb0twQ2J1YVBzU1BfV1hR?oc=5",
+        "date": "2025-05-15",
+        "title": "Cloud Infrastructure Market to Reach $440.2 Billion by 2032: - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOQmdOcEYybEhjOE5adm1ieTNyaXRGQlR3Y3I5RFliTFdzNERlX1B3VHAwOXRtMTZReXlBcnJ3Wmp2LWJ2RkxId1gxSjloMzZBSTlTNEtXVGh0NlRBQ2VOcWRiRGNKUUUtREVkUFBES1VMZ2c1c0lBSTRKdmFwLVZZMU5LWmN4TV9HQlhkb0twQ2J1YVBzU1BfV1hR?oc=5\" target=\"_blank\">Cloud Infrastructure Market to Reach $440.2 Billion by 2032:</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByTFdSWlNQU3dTRkVHMmRCTkZSYUstc0s2QjY3dk02OTBKX0R4cXhlOXVMdGc2QU9ZSEpKUENHRTY4dEZqajFZLUNhdWxURGZuekRNa0g0eThxU3ZoOFdCTHIxaTFOX3l3ZkR0N1U3Q0lXa3NFVjFhWDBxdw?oc=5",
+        "date": "2025-05-15",
+        "title": "NESO unveils energy infrastructure \u2018blueprint\u2019 - reNews",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFByTFdSWlNQU3dTRkVHMmRCTkZSYUstc0s2QjY3dk02OTBKX0R4cXhlOXVMdGc2QU9ZSEpKUENHRTY4dEZqajFZLUNhdWxURGZuekRNa0g0eThxU3ZoOFdCTHIxaTFOX3l3ZkR0N1U3Q0lXa3NFVjFhWDBxdw?oc=5\" target=\"_blank\">NESO unveils energy infrastructure \u2018blueprint\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reNews</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDdPUWpzNE9PcVZoX1JDUU1MbGpjal9oTE8yNzUxczVDcFNCMjZhZFZGVUR2VVhfOUpUYlcySFl0eFZyejhYVzFvMERTeVMzNjFCbTRiTnRETjg4b2UxcURydWdXOTNEWHZKR2NHd213eUFEeFRJTHpyOG5xWVczN1hIUlp0YUpRTzlGd0c4bXBxUk5mdl9ETDZqTHF0dl91SGxmaFpKYndfdVVpSnZ3YXZhMmN4TFppZXNoQ1hqcVZ0Zw?oc=5",
+        "date": "2025-05-15",
+        "title": "We can\u2019t restrict transportation funding to just infrastructure for cars and trucks - Minnesota Reformer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDdPUWpzNE9PcVZoX1JDUU1MbGpjal9oTE8yNzUxczVDcFNCMjZhZFZGVUR2VVhfOUpUYlcySFl0eFZyejhYVzFvMERTeVMzNjFCbTRiTnRETjg4b2UxcURydWdXOTNEWHZKR2NHd213eUFEeFRJTHpyOG5xWVczN1hIUlp0YUpRTzlGd0c4bXBxUk5mdl9ETDZqTHF0dl91SGxmaFpKYndfdVVpSnZ3YXZhMmN4TFppZXNoQ1hqcVZ0Zw?oc=5\" target=\"_blank\">We can\u2019t restrict transportation funding to just infrastructure for cars and trucks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Minnesota Reformer</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYkNwdE9VYzlNMk9fX3dVcDlINGpET2J4d21LNVpyM2JmNDJjd05jRlhXV2J2cVB2eGs5cTV0bGFoTHBKRTVLZ1o2bHIzelNsRzMzamZCYlBkU3UwQlIxZDNiTWlZWG1xbDNIQld3bEJJSzJVZ284ZS1reHExUkNhMTVQbTF1Yi1fQzhsa2pMSXBiWWlkN3JiMWZ1V2VHMms2U0E3eXZkcjRZeGJTS05fbFpud0g5Z3pjNXBCRWtPMzhDT2MybnM3UUtkclplRGoxOF9BczZyOU9xNW5yZFV4RlpJY1R0ZlZvWFpqXzd3MzdhbDc0MDlxTWxMb2o5QdIBgwJBVV95cUxNdUFPVjF1ZHVHVjNFWklxSzcyTnVaSzcxa1BpNFJONV9BZEFHM0FNeVl6Y0VfX2MwZDVkTUprekZNdDRiZUptUlBKQkthMTdrMFFvTE9VOWQzUzNRZ25Ic0NpOVBYNW5zVDhGU1o4czQ3MGZIX0lLdnI2MDdfYXhFN0t6aFNuOHlVcjdYR0doaV82N1dnSGNxMVRsR25IQkFYR0x4UTh1YTRHUk93RDZMZmZTTmNpMnFsbTc1ZkFXSlh3MDEzSENCY2d4MmxaeldhbFRwT1JRdTZ3NklCSWJicGhYeEgtYmNCY3FaWEs2cFpyd3pFNDFPNDg4aVR6WDJnZ1Zj?oc=5",
+        "date": "2025-05-15",
+        "title": "Urbanisation with sustainability: SBI calls for more Smart Cities and AMRUT projects - Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYkNwdE9VYzlNMk9fX3dVcDlINGpET2J4d21LNVpyM2JmNDJjd05jRlhXV2J2cVB2eGs5cTV0bGFoTHBKRTVLZ1o2bHIzelNsRzMzamZCYlBkU3UwQlIxZDNiTWlZWG1xbDNIQld3bEJJSzJVZ284ZS1reHExUkNhMTVQbTF1Yi1fQzhsa2pMSXBiWWlkN3JiMWZ1V2VHMms2U0E3eXZkcjRZeGJTS05fbFpud0g5Z3pjNXBCRWtPMzhDT2MybnM3UUtkclplRGoxOF9BczZyOU9xNW5yZFV4RlpJY1R0ZlZvWFpqXzd3MzdhbDc0MDlxTWxMb2o5QdIBgwJBVV95cUxNdUFPVjF1ZHVHVjNFWklxSzcyTnVaSzcxa1BpNFJONV9BZEFHM0FNeVl6Y0VfX2MwZDVkTUprekZNdDRiZUptUlBKQkthMTdrMFFvTE9VOWQzUzNRZ25Ic0NpOVBYNW5zVDhGU1o4czQ3MGZIX0lLdnI2MDdfYXhFN0t6aFNuOHlVcjdYR0doaV82N1dnSGNxMVRsR25IQkFYR0x4UTh1YTRHUk93RDZMZmZTTmNpMnFsbTc1ZkFXSlh3MDEzSENCY2d4MmxaeldhbFRwT1JRdTZ3NklCSWJicGhYeEgtYmNCY3FaWEs2cFpyd3pFNDFPNDg4aVR6WDJnZ1Zj?oc=5\" target=\"_blank\">Urbanisation with sustainability: SBI calls for more Smart Cities and AMRUT projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNam5VUlk5NkRhX3hzbU02YXZTOHVGcld6Y1ZXb0pmQTNDaEU1azdVUi1ibG10N1N1cmduWjZ1emVkcEprdWpGa2p6WExJQnFnbHktS0I1dzEwMXZONGF6ZUFERFpXZ3BfLVNKUE1oZFdoNXZraElKU0NjWUJVNFgzcW55RFdKYkRZTVBOcXRsQkQ1VTlZa2xPMVZKTTBHdXJYamJZZnZGUHEyZHBWSUEyNXdSZHFZZnJfWHN6UnM0QU9BU2k4Z1FkYmg2b3FkMmdvdjN2cnNVeU51TVQ0Zm0wMXl4eDNuZmNCMjdRTnhORGpXQThtU1M5R0xXZ2tqemF3TlNVUEY1NjNBR1NleTFZemVB?oc=5",
+        "date": "2025-05-15",
+        "title": "HILS Development is launching the social responsibility platform LIFE@HILS and announces high-impact initiatives for sustainable urban development - business-review.eu",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNam5VUlk5NkRhX3hzbU02YXZTOHVGcld6Y1ZXb0pmQTNDaEU1azdVUi1ibG10N1N1cmduWjZ1emVkcEprdWpGa2p6WExJQnFnbHktS0I1dzEwMXZONGF6ZUFERFpXZ3BfLVNKUE1oZFdoNXZraElKU0NjWUJVNFgzcW55RFdKYkRZTVBOcXRsQkQ1VTlZa2xPMVZKTTBHdXJYamJZZnZGUHEyZHBWSUEyNXdSZHFZZnJfWHN6UnM0QU9BU2k4Z1FkYmg2b3FkMmdvdjN2cnNVeU51TVQ0Zm0wMXl4eDNuZmNCMjdRTnhORGpXQThtU1M5R0xXZ2tqemF3TlNVUEY1NjNBR1NleTFZemVB?oc=5\" target=\"_blank\">HILS Development is launching the social responsibility platform LIFE@HILS and announces high-impact initiatives for sustainable urban development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">business-review.eu</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTHZZdW5BdlR0WkFDaENFZ1BzZG9jeWVaMC0xY0t2anYydzFjZi16ck5vWUJHUkktM05uN0JkNEcyUzlBcjBucUJ2YkNsTTUyWnVqVmxmR3lRSlYtUVF2SGhDd1J2YTRvZkd1OWFsMUFKRHFDZm8zci04X3FtazF1aWZ6ZGhqMThUc2hFMWlEYmRMd19Xak9UaDhVV1Roc3dFLTBLOUdlVHVYRmFUYUpqczI3OVJTdFFWci11cGxHRVZZbkxHMkNJdEkyNTBuTDV3OVYtb2JNcjV6Y1ZXclY2N3VUTzhYcWwyaVYyTXZn?oc=5",
+        "date": "2025-05-15",
+        "title": "Beijing Urban Construction Design & Development Group Adopts China Accounting Standards and Changes Auditor - TipRanks",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTHZZdW5BdlR0WkFDaENFZ1BzZG9jeWVaMC0xY0t2anYydzFjZi16ck5vWUJHUkktM05uN0JkNEcyUzlBcjBucUJ2YkNsTTUyWnVqVmxmR3lRSlYtUVF2SGhDd1J2YTRvZkd1OWFsMUFKRHFDZm8zci04X3FtazF1aWZ6ZGhqMThUc2hFMWlEYmRMd19Xak9UaDhVV1Roc3dFLTBLOUdlVHVYRmFUYUpqczI3OVJTdFFWci11cGxHRVZZbkxHMkNJdEkyNTBuTDV3OVYtb2JNcjV6Y1ZXclY2N3VUTzhYcWwyaVYyTXZn?oc=5\" target=\"_blank\">Beijing Urban Construction Design & Development Group Adopts China Accounting Standards and Changes Auditor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPckNIU0oyTFRmTEdYXy1KYnJiR0tPSEphQ2VIM09hM0JSOTBMQWxUNTJaQV9DOWNqT3hXcG5RbU02d2QwWWxjdGFtX3daYWo0emhGTWc1MHBXRS1WY0l3R2M3QUNFa3BuWVBYNm5TdG1WVGktNlkzenRZNUNHVk5CdERDcXYyS0JDUDlYYnFTOVVwTHRWYkFlOUdFRE42NzFZVXUyN0tRU0d5THc1LW9TTkRmeEJkZGVuQ1B4R25qSXcySHBVaWc3dml3NExDdHAxYTRzb1FXX3pMM09JNl81UlQ5N200T0hJYzhpanVCdi1RblFrVXc?oc=5",
+        "date": "2025-05-15",
+        "title": "Reay Road Bridge Inaugurated to Boost South Mumbai Infrastructure - Construction World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPckNIU0oyTFRmTEdYXy1KYnJiR0tPSEphQ2VIM09hM0JSOTBMQWxUNTJaQV9DOWNqT3hXcG5RbU02d2QwWWxjdGFtX3daYWo0emhGTWc1MHBXRS1WY0l3R2M3QUNFa3BuWVBYNm5TdG1WVGktNlkzenRZNUNHVk5CdERDcXYyS0JDUDlYYnFTOVVwTHRWYkFlOUdFRE42NzFZVXUyN0tRU0d5THc1LW9TTkRmeEJkZGVuQ1B4R25qSXcySHBVaWc3dml3NExDdHAxYTRzb1FXX3pMM09JNl81UlQ5N200T0hJYzhpanVCdi1RblFrVXc?oc=5\" target=\"_blank\">Reay Road Bridge Inaugurated to Boost South Mumbai Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction World</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Reay Road Bridge inaugurated, enhancing South Mumbais infrastructure and connectivity.",
+        "type": "news"
     }
 ]
