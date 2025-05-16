@@ -3287,5 +3287,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf0\ud83c\uddf7 NEWS: Samsung SDS selected for government-wide hyperscale AI infrastructure project, aiming to enhance national AI capabilities.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-16",
+        "status": "posted",
+        "tweet": "Bitcoin nodes are distributed across 94 countries, with the highest concentration in \ud83c\uddfa\ud83c\uddf8 USA (24%) and \ud83c\udde9\ud83c\uddea Germany (19%).\nEthereum nodes are more concentrated, with 35% in \ud83c\uddfa\ud83c\uddf8 USA and 15% in \ud83c\uddec\ud83c\udde7 UK, spanning 64 countries.",
+        "type": "crypto"
     }
 ]
