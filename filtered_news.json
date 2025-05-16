@@ -3302,5 +3302,12 @@
         "tweet": "\ud83c\udf0d By 2025, 68% of the world population is projected to live in urban areas. Embracing smart city technologies could save \ud83c\uddfa\ud83c\uddf8 US citizens up to $2,300 per year in services, representing potential savings of $20 billion annually nationwide.",
         "type": "statistical",
         "category": "smart cities"
+    },
+    {
+        "link": null,
+        "date": "2025-05-16",
+        "status": "posted",
+        "tweet": "\ud83d\udcca Tech giant, Adobe Systems \ud83c\uddfa\ud83c\uddf8, $ADBE experiences 3% uptick in Q2 energy efficiency rate, downing power usage per server by 5 kilowatts. \n\n\u2705 Green operations on the rise. Data-centric sustainability for the future.",
+        "type": "infrastructure"
     }
 ]
