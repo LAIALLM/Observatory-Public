@@ -3477,5 +3477,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Western Dedicated Freight Corridor nears completion, set to enhance rail freight efficiency in India.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-17",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin's infrastructural costs have historically been the highest among major blockchains.\n\n1. Bitcoin: Annual costs rose from $1.4B in 2018 to $15B in 2024.\n2. Ethereum: Costs increased from $300M in 2018 to $5B in 2024.\n3. Solana: Costs grew from $50M in 2018 to $1B i",
+        "type": "crypto"
     }
 ]
