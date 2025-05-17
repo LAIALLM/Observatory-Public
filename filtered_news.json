@@ -3345,5 +3345,65 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \nQ1 2021: 111.4 million iPhones sold. \nYear-over-year growth: 17.1%. \nMarket share: 23.4%.\n$AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOWo0eFZoQklLSm5NUGl3eU5UVXViUGNBMjIwenROS0lLbm9pYW1zYkVmUDEzYTRQSUFzQi0xX1lkOGdXUGlBbU14WWo1c3hFOW1EQVhvWk1KU0ptYjNqbm50VmlGYmd5V0h1RHV1VEktRDFNUXpnalVxWjJXbUluNXJ4UnJSQ2xQN0dvOVk0Vk9RZDFwQzNPdk03ZF9qMG54STBLZ0g0b21qQjRQS2FfN19GcHQ2ZGZSc1BhaDladnFWa0RrbTFRRGlnOC12Snpw?oc=5",
+        "date": "2025-05-17",
+        "title": "Government housing policy serves neither the exchequer nor the building industry - The Irish Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOWo0eFZoQklLSm5NUGl3eU5UVXViUGNBMjIwenROS0lLbm9pYW1zYkVmUDEzYTRQSUFzQi0xX1lkOGdXUGlBbU14WWo1c3hFOW1EQVhvWk1KU0ptYjNqbm50VmlGYmd5V0h1RHV1VEktRDFNUXpnalVxWjJXbUluNXJ4UnJSQ2xQN0dvOVk0Vk9RZDFwQzNPdk03ZF9qMG54STBLZ0g0b21qQjRQS2FfN19GcHQ2ZGZSc1BhaDladnFWa0RrbTFRRGlnOC12Snpw?oc=5\" target=\"_blank\">Government housing policy serves neither the exchequer nor the building industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Irish Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQekdjNGkxYXdVWFg4UHRrYVpDWUpEcUluTk5RM0JkZDVOSFVfMFVWSU80NGxrV1ByTVRQV3lYWGN6bllqODRpQ2ZrOHRvTF93QTZ3TV82XzE5RnNOaUdNRTJQbWpsemk1OVNBNTc2SzV0TTRMWDN6a0NqTGhER2RkV1lnZC1KS2VyX0tN?oc=5",
+        "date": "2025-05-17",
+        "title": "Uttar Pradesh Unveils New Private Health Infrastructure Plan - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQekdjNGkxYXdVWFg4UHRrYVpDWUpEcUluTk5RM0JkZDVOSFVfMFVWSU80NGxrV1ByTVRQV3lYWGN6bllqODRpQ2ZrOHRvTF93QTZ3TV82XzE5RnNOaUdNRTJQbWpsemk1OVNBNTc2SzV0TTRMWDN6a0NqTGhER2RkV1lnZC1KS2VyX0tN?oc=5\" target=\"_blank\">Uttar Pradesh Unveils New Private Health Infrastructure Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVWJTbXlFNGdDbWZ5eEZnZWxOSjJDM1lDWTdEYldDdGVLbExrdnp0MTZfdFBpck5BbTFXcHdCUV9Menl1clU1QWdwRlpsMWxKQlJQY1FoRmxacjl1VVRIeXB3enhNWTRzYVBpZmlNLXRtQWVZdzNPRVhZTWJ6UFl3SmtkYl9xYkVjOUVNQm1PdzN5MXNFZWc1S1JTbERJQkt1Z0tJckF0Ul9mSFNNeUJFTktaaHQ0aWZfMjBtRkZmc3FMSmhSdXFWWUR2UjV3LTBHVUE?oc=5",
+        "date": "2025-05-17",
+        "title": "BOARD OF TEXMACO INFRASTRUCTURE AND HOLDINGS RECOMMENDS FINAL DIVIDEND - Capital Market",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVWJTbXlFNGdDbWZ5eEZnZWxOSjJDM1lDWTdEYldDdGVLbExrdnp0MTZfdFBpck5BbTFXcHdCUV9Menl1clU1QWdwRlpsMWxKQlJQY1FoRmxacjl1VVRIeXB3enhNWTRzYVBpZmlNLXRtQWVZdzNPRVhZTWJ6UFl3SmtkYl9xYkVjOUVNQm1PdzN5MXNFZWc1S1JTbERJQkt1Z0tJckF0Ul9mSFNNeUJFTktaaHQ0aWZfMjBtRkZmc3FMSmhSdXFWWUR2UjV3LTBHVUE?oc=5\" target=\"_blank\">BOARD OF TEXMACO INFRASTRUCTURE AND HOLDINGS RECOMMENDS FINAL DIVIDEND</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital Market</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHo0aHI1eWN6Z1JqSnZkLUx0RTZxMUVNc0tiTDVXZll2VHBVSmF4WHpoUVphN2VPWTYzX2lQWkwzbWFTMVI2RkJsLU5obWxmYldXUlJqQjV3dU5BVkJzWm1Uc0JIWDJ4Tmp0MV9zbS1VVGI4LWZUbHBsOGdHal9Sc3FUZHJ5MFVxMzg1VFRtZ1N5RFhGZnBv?oc=5",
+        "date": "2025-05-17",
+        "title": "Mangaluru Bengaluru Day Trains Suspended Amid Infrastructure Upgrades - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHo0aHI1eWN6Z1JqSnZkLUx0RTZxMUVNc0tiTDVXZll2VHBVSmF4WHpoUVphN2VPWTYzX2lQWkwzbWFTMVI2RkJsLU5obWxmYldXUlJqQjV3dU5BVkJzWm1Uc0JIWDJ4Tmp0MV9zbS1VVGI4LWZUbHBsOGdHal9Sc3FUZHJ5MFVxMzg1VFRtZ1N5RFhGZnBv?oc=5\" target=\"_blank\">Mangaluru Bengaluru Day Trains Suspended Amid Infrastructure Upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb1FSMENzM2pRVnBNcVBVR0w5eFBWbHdENkExRGRrc1QzQ1dzbUtsUnIxZmdqXzMyV2xJSVE0Z1NGakFlbEVDQUVLLXoxZHhfZzUzX1VwUnY3SE5qUDR0UFNBOGJ1aDBuUnl4S25HME1VWHZ5d3RkRWE2bkd0dzJCNk43X2t4aXh0TVBIUnlSNW14UDI0NFVoc3FoR0ZWY2Zta0tZWmRyM3hzRXhRbllfbW1n0gG3AUFVX3lxTE0xSmJkdDQ5QXJuejd0eHNzOWh0QXdLdWdvNTQ1c250bUxibEkzT1RKdkdCY0hVSUQxbGl2X3BZeFlHeURGZWRHRjJTQVdvQ2k5T1BoWGk3U3BsbDFGdFNYWjc4cDdaSi1ic1NOaVo5dV9tZTYwY1NMM1JpZkx3bFlXTklUcVNrZHpqd1NjS0pUclRhR3BvdUM0eXI0T0pieURaSXRqa3NMSDVtM2FTcTRqODRMclM2Yw?oc=5",
+        "date": "2025-05-17",
+        "title": "West Bengal Allocated Rs 230 Cr Fund to Develop Rural Health Infrastructure - APAC Media",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNb1FSMENzM2pRVnBNcVBVR0w5eFBWbHdENkExRGRrc1QzQ1dzbUtsUnIxZmdqXzMyV2xJSVE0Z1NGakFlbEVDQUVLLXoxZHhfZzUzX1VwUnY3SE5qUDR0UFNBOGJ1aDBuUnl4S25HME1VWHZ5d3RkRWE2bkd0dzJCNk43X2t4aXh0TVBIUnlSNW14UDI0NFVoc3FoR0ZWY2Zta0tZWmRyM3hzRXhRbllfbW1n0gG3AUFVX3lxTE0xSmJkdDQ5QXJuejd0eHNzOWh0QXdLdWdvNTQ1c250bUxibEkzT1RKdkdCY0hVSUQxbGl2X3BZeFlHeURGZWRHRjJTQVdvQ2k5T1BoWGk3U3BsbDFGdFNYWjc4cDdaSi1ic1NOaVo5dV9tZTYwY1NMM1JpZkx3bFlXTklUcVNrZHpqd1NjS0pUclRhR3BvdUM0eXI0T0pieURaSXRqa3NMSDVtM2FTcTRqODRMclM2Yw?oc=5\" target=\"_blank\">West Bengal Allocated Rs 230 Cr Fund to Develop Rural Health Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">APAC Media</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9URnBQUWZSNjR6QUZMcDktZkc5aVRiMFZxdVlaV21tZE9FM3pySGx3Z3gxMHdUSG9GRnc3cjZRZnM3eTh2MDZ5aFlJN1RpWXhJMmFZTXBSM2dYNWVBYWM5cEYydnJKNmdLTXVrUUdUbDVsaXc?oc=5",
+        "date": "2025-05-17",
+        "title": "PMC Clears Encroachments in Katraj Kondhwa - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9URnBQUWZSNjR6QUZMcDktZkc5aVRiMFZxdVlaV21tZE9FM3pySGx3Z3gxMHdUSG9GRnc3cjZRZnM3eTh2MDZ5aFlJN1RpWXhJMmFZTXBSM2dYNWVBYWM5cEYydnJKNmdLTXVrUUdUbDVsaXc?oc=5\" target=\"_blank\">PMC Clears Encroachments in Katraj Kondhwa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
