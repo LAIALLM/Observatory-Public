@@ -3297,5 +3297,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: US DOT opens $1.5B funding round for transit buses and bus facilities, dropping equity- and sustainability-related requirements from this years round.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORXhnQUNzSDB3a2xFYTVmU3NfcE9OS0cweVY0bEVJOEJBdVNkVW5MZU95ekJZdWctTm5yUlQ4QkVrMUpQYTNlNjlNWUVOTkd1eUwyZENQcjFRQlJCZVI0azZrWEpPUXAzWElfZ3lkbEdUaExKYno5UFRCc3I3OUJuckRmR0Y3X1l5b2h2UVlMTkVDVkg1OHJIOVUtUi1fUFoxb2t4clZObndjRXNOVDBJUWtBOGdRRV9IWC0wems5NzZWQ2t5SkRLSW9MMlVPU2JmSzNqcnBtdzVBUmFY?oc=5",
+        "date": "2025-05-17",
+        "title": "Twin projects to give Lucknow\u2019s infrastructure a boost, transform skyline - Hindustan Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxORXhnQUNzSDB3a2xFYTVmU3NfcE9OS0cweVY0bEVJOEJBdVNkVW5MZU95ekJZdWctTm5yUlQ4QkVrMUpQYTNlNjlNWUVOTkd1eUwyZENQcjFRQlJCZVI0azZrWEpPUXAzWElfZ3lkbEdUaExKYno5UFRCc3I3OUJuckRmR0Y3X1l5b2h2UVlMTkVDVkg1OHJIOVUtUi1fUFoxb2t4clZObndjRXNOVDBJUWtBOGdRRV9IWC0wems5NzZWQ2t5SkRLSW9MMlVPU2JmSzNqcnBtdzVBUmFY?oc=5\" target=\"_blank\">Twin projects to give Lucknow\u2019s infrastructure a boost, transform skyline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTS10cm9GYmhBNEttcWhWbkVNbXBGSm5VejNINXZ3cmh6QzY4UndYc01CUE5lVjNWQ0N1MnRhdnJuSDcyQm94Tkw3YW5ObVZVZmRIcE9QYUZXUkNSYS1RUFJMcEZiNV9uWG9tV2pNME1mYTZkN3VoTVdSbUdLNEd2alJpMA?oc=5",
+        "date": "2025-05-17",
+        "title": "PCMC Unveils New Development Plan for Pimpri-Chinchwad - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOTS10cm9GYmhBNEttcWhWbkVNbXBGSm5VejNINXZ3cmh6QzY4UndYc01CUE5lVjNWQ0N1MnRhdnJuSDcyQm94Tkw3YW5ObVZVZmRIcE9QYUZXUkNSYS1RUFJMcEZiNV9uWG9tV2pNME1mYTZkN3VoTVdSbUdLNEd2alJpMA?oc=5\" target=\"_blank\">PCMC Unveils New Development Plan for Pimpri-Chinchwad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
