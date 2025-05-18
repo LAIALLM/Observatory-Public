@@ -2981,5 +2981,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUDRkZXM0MC00cWVjdU9xTC1seEhRM0RLeEZuWU4tb012XzFiVjd5c2lYTWZWY1ZZRWFnMzZPajRLMGlzUTlyOUJSSVNrRG54Qzk4WDNhVHVZMWJ5SGUtUUFMdkQ5aW0wekc5dDRLMWNKVk04a0tDWDJFT2tjbE92V3h1WFAtQ1RLUzJEeUNlV3hOUVROWkVrZHVCQkxrNkVtSFJ4YXBPQWVPLTVIY0hZOHV2YjdmYVMxa18xQXl3TdIBxAFBVV95cUxPbDRiSS1rZExQSkJpQXJsY2VqN2l3UHpxaU9SNlVIZm5pR01Vd0Ywd01tNHkxbDBWcDB6X2Zyc2tzbzgxbUFyaGxYV0EyeHZvMnlOZlJWQV82dFo3V21aRVJfLXVCZkcwN1ZCS2VKRXBrTmtsY1dILVcwTVp0V3FyV3k2ampmdk5vWmdwMXNsUWxta1BCMDFLdEtQZDN2MDI4ZE9XZ3A4ajlUNF9ReVJfeVhYU0g1cllNeXZpdzI5blRpNURY?oc=5",
+        "date": "2025-05-18",
+        "title": "Delhi govt working on multiple projects to improve road infrastructure - The Statesman",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUDRkZXM0MC00cWVjdU9xTC1seEhRM0RLeEZuWU4tb012XzFiVjd5c2lYTWZWY1ZZRWFnMzZPajRLMGlzUTlyOUJSSVNrRG54Qzk4WDNhVHVZMWJ5SGUtUUFMdkQ5aW0wekc5dDRLMWNKVk04a0tDWDJFT2tjbE92V3h1WFAtQ1RLUzJEeUNlV3hOUVROWkVrZHVCQkxrNkVtSFJ4YXBPQWVPLTVIY0hZOHV2YjdmYVMxa18xQXl3TdIBxAFBVV95cUxPbDRiSS1rZExQSkJpQXJsY2VqN2l3UHpxaU9SNlVIZm5pR01Vd0Ywd01tNHkxbDBWcDB6X2Zyc2tzbzgxbUFyaGxYV0EyeHZvMnlOZlJWQV82dFo3V21aRVJfLXVCZkcwN1ZCS2VKRXBrTmtsY1dILVcwTVp0V3FyV3k2ampmdk5vWmdwMXNsUWxta1BCMDFLdEtQZDN2MDI4ZE9XZ3A4ajlUNF9ReVJfeVhYU0g1cllNeXZpdzI5blRpNURY?oc=5\" target=\"_blank\">Delhi govt working on multiple projects to improve road infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Statesman</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNG9qNjg1UkFhQXdXRW80MTVlby1FS1ZHTEcxU1BGVnhPRHVyU3JUU3Z4LTRxT0FIRmZubmtWUzVvbktVNDBzUXJ0YVNhREV6cHZBNnZxYXhnc3p6UmJWU0x2bkIzakM1UTVVV19kdjN1RHVmV3ROc2ZDUTZZTTVXUFBPWUpaajByMENJRkNXZ2RQd2MxSHcxTkR2UGhNcWw5cjhiX2tydjg0a1Nz?oc=5",
+        "date": "2025-05-18",
+        "title": "Development, Beautification on Cards: Smart City CEO inspects Sites - tripuratimes.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPNG9qNjg1UkFhQXdXRW80MTVlby1FS1ZHTEcxU1BGVnhPRHVyU3JUU3Z4LTRxT0FIRmZubmtWUzVvbktVNDBzUXJ0YVNhREV6cHZBNnZxYXhnc3p6UmJWU0x2bkIzakM1UTVVV19kdjN1RHVmV3ROc2ZDUTZZTTVXUFBPWUpaajByMENJRkNXZ2RQd2MxSHcxTkR2UGhNcWw5cjhiX2tydjg0a1Nz?oc=5\" target=\"_blank\">Development, Beautification on Cards: Smart City CEO inspects Sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tripuratimes.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
