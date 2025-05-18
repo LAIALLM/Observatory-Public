@@ -3001,5 +3001,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-05-18",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global urban development firms are shaping our future. By 2025, world urban population will rise to 5.3 billion, 66% jump from 2015. \ud83c\udde8\ud83c\uddf3 China is on a full sprint with a 400% increase in urban development projects in just 5 years, surpassing \ud83c\uddfa\ud83c\uddf8 USA's 300% growth rate.",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
