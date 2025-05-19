@@ -2792,5 +2792,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-05-19",
+        "status": "posted",
+        "tweet": "From 2020 to 2025, the annual electricity cost of running Bitcoin increased from $4.3 billion to $12.5 billion, while Ethereum's cost rose from $1.5 billion to $3.8 billion.\n\nBitcoin's energy consumption now surpasses that of \ud83c\udde6\ud83c\uddfa Australia, while Ethereum's is comparable to \ud83c\udde8\ud83c\udded Swi",
+        "type": "crypto"
     }
 ]
