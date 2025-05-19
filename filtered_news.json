@@ -3090,5 +3090,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf4\ud83c\uddf2 NEWS: Investcorp invests $550M in Duqm Port, aiming to enhance its logistics and industrial capabilities.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-19",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL \n\nDatacenter energy consumption Q4 2020. 1.5 million MWh. Down 4% YoY. Matches global trend for IT sector. \n\nData centers 100% powered by renewable energy. \n\nSustainability commitment continues.",
+        "type": "infrastructure"
     }
 ]
