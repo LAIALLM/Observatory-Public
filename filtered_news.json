@@ -2835,5 +2835,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL \n\nDatacenter energy consumption Q4 2020. 1.5 million MWh. Down 4% YoY. Matches global trend for IT sector. \n\nData centers 100% powered by renewable energy. \n\nSustainability commitment continues.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-05-20",
+        "status": "posted",
+        "tweet": "Bitcoin's annual electricity consumption for mining reached 120 TWh in 2023, up from 78 TWh in 2021, surpassing the yearly power usage of countries like \ud83c\udde6\ud83c\uddf7 Argentina.",
+        "type": "crypto"
     }
 ]
