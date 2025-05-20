@@ -2842,5 +2842,12 @@
         "status": "posted",
         "tweet": "Bitcoin's annual electricity consumption for mining reached 120 TWh in 2023, up from 78 TWh in 2021, surpassing the yearly power usage of countries like \ud83c\udde6\ud83c\uddf7 Argentina.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-05-20",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8Apple's $AAPL data centers now running on 100% renewable energy. New facility in Iowa, 400,000 sq. ft, $1.3b expenditure.\n\n2019 Q4 energy utilization: 76.6 kWh per square foot, a 7% decrease from Q3!\n\nRenewable energy certificates: 100% achieved.",
+        "type": "infrastructure"
     }
 ]
