@@ -3106,5 +3106,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. | Energy Efficiency: \n2019 report shows 75% of energy used comes from renewable sources. \nEstimated annual energy savings: 31 million kWh. \n$AAPL strives for further green tech integration.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-05-21",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China's investment in its public transport system climbed by 8.5% in 2025 alone, leading the global transit infrastructure development. \n\nMeanwhile, \ud83c\uddfa\ud83c\uddf8 U.S. investment in public transportation has stagnated with a meagre 0.5% increase. \n\nTime for a change?",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
