@@ -3114,5 +3114,12 @@
         "tweet": "\ud83c\udde8\ud83c\uddf3 China's investment in its public transport system climbed by 8.5% in 2025 alone, leading the global transit infrastructure development. \n\nMeanwhile, \ud83c\uddfa\ud83c\uddf8 U.S. investment in public transportation has stagnated with a meagre 0.5% increase. \n\nTime for a change?",
         "type": "statistical",
         "category": "transportation"
+    },
+    {
+        "link": null,
+        "date": "2025-05-21",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin has the highest cost per transaction among the three, while Solana offers the lowest cost with the highest throughput.\n\n1. Bitcoin: $1.92 per transaction, 7 transactions/second\n2. Ethereum: $0.23 per transaction, 30 transactions/second\n3. Solana: $0.00025 per tra",
+        "type": "crypto"
     }
 ]
