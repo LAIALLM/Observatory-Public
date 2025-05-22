@@ -2966,5 +2966,13 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin has the highest cost per transaction, followed by Ethereum, with Solana being the most cost-effective.\n\n1. Bitcoin: $1.7M per transaction, 7 TPS\n2. Ethereum: $36 per transaction, 30 TPS\n3. Solana: $0.00025 per transaction, 65,000 TPS",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-05-22",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf3 UN projects that by 2050, 68% of the world population will reside in urban areas. In contrast, this figure was 56% in 2025. This shift will challenge cities' infrastructures, testing their capacity to provide for an ever-growing populace. \n\nEnsure sustainable urban growth! \ud83c\udf31",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
