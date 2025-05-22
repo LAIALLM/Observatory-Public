@@ -2739,5 +2739,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-05-22",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Tesla's annual energy consumption (GigaWatt hour) at their \ud83c\udf0d global Supercharger network:\n\n2017: 166 GWh\n2018: 590 GWh\n2019: 1,131 GWh\n2020: 2,618 GWh\n\nThe company's energy usage more than doubled between 2019 and 2020. $TSLA",
+        "type": "infrastructure"
     }
 ]
