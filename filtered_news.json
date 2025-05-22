@@ -2959,5 +2959,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Corporate investments rise to \u20b928.50 lakh crore, driven by core infrastructure industries.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-22",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin has the highest cost per transaction, followed by Ethereum, with Solana being the most cost-effective.\n\n1. Bitcoin: $1.7M per transaction, 7 TPS\n2. Ethereum: $36 per transaction, 30 TPS\n3. Solana: $0.00025 per transaction, 65,000 TPS",
+        "type": "crypto"
     }
 ]
