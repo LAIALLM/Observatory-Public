@@ -2766,5 +2766,25 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf3 UN projects that by 2050, 68% of the world population will reside in urban areas. In contrast, this figure was 56% in 2025. This shift will challenge cities' infrastructures, testing their capacity to provide for an ever-growing populace. \n\nEnsure sustainable urban growth! \ud83c\udf31",
         "type": "statistical",
         "category": "cities"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1pYY01VMlA0eENWa1Vfa0x0SHZQbllIWVg3QkVoQlhnYVkzUlFYeDQ5c1QtcUFvQ01JeE9ZSGVoLWlUYmhyekFBd0tSWVZ3MExTeUNlRFFlbVNsbmZUbkpMX2dydnU0alV4N3M3VFBxUGE1MzhBT2ZKNjJGczNGT1liUFp0ZE03NVNPQXRTdTh6ZVVxR21KYkctcFZxSjVPczZtTFdfSmtRUzNoNXo2dnVUVTc?oc=5",
+        "date": "2025-05-23",
+        "title": "Kyivstar Rebuilds Ukraine Infrastructure with 800+ 4G Towers - The Fast Mode",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1pYY01VMlA0eENWa1Vfa0x0SHZQbllIWVg3QkVoQlhnYVkzUlFYeDQ5c1QtcUFvQ01JeE9ZSGVoLWlUYmhyekFBd0tSWVZ3MExTeUNlRFFlbVNsbmZUbkpMX2dydnU0alV4N3M3VFBxUGE1MzhBT2ZKNjJGczNGT1liUFp0ZE03NVNPQXRTdTh6ZVVxR21KYkctcFZxSjVPczZtTFdfSmtRUzNoNXo2dnVUVTc?oc=5\" target=\"_blank\">Kyivstar Rebuilds Ukraine Infrastructure with 800+ 4G Towers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fast Mode</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjZkwtOG9nNkhGVmc3dHdEQk0taHNpYi1fWGNXU3JWYmZGUTlVRHRzeks1aEYzdEtxTXhfbnBLcU0wUDd2ejd0VHlON3VyNEgzSERoOGp3?oc=5",
+        "date": "2025-05-23",
+        "title": "Chinese Infrastructure Projects Appear on Global Currency in New Book Celebrating Belt and Road Imprint - PR Newswire Asia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjZkwtOG9nNkhGVmc3dHdEQk0taHNpYi1fWGNXU3JWYmZGUTlVRHRzeks1aEYzdEtxTXhfbnBLcU0wUDd2ejd0VHlON3VyNEgzSERoOGp3?oc=5\" target=\"_blank\">Chinese Infrastructure Projects Appear on Global Currency in New Book Celebrating Belt and Road Imprint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire Asia</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
