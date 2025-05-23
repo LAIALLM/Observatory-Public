@@ -2858,5 +2858,19 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Pune major highway upgrade approved for sustainable growth, aiming to reduce traffic congestion.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-23",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global tech giant, Microsoft $MSFT, sees a staggering 75% increase in its cloud services use since the start of 2020.\n\n\u26a1 Azure now processes over 1.5 petabytes of data daily.\n\n\ud83d\udcca Infrastructure efficiency improved by 60%, with energy consumption down 18%.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-05-23",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual carbon footprint is estimated at 72 million metric tons of CO2, equivalent to \ud83c\uddf8\ud83c\uddea Sweden's total emissions.\n\nEthereum, post-merge, produces around 2.7 million metric tons of CO2 annually, similar to \ud83c\uddf1\ud83c\uddee Liechtenstein's emissions.",
+        "type": "crypto"
     }
 ]
