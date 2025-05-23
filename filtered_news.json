@@ -2872,5 +2872,13 @@
         "status": "posted",
         "tweet": "In 2025, Bitcoin's annual carbon footprint is estimated at 72 million metric tons of CO2, equivalent to \ud83c\uddf8\ud83c\uddea Sweden's total emissions.\n\nEthereum, post-merge, produces around 2.7 million metric tons of CO2 annually, similar to \ud83c\uddf1\ud83c\uddee Liechtenstein's emissions.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-05-23",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 U.S. construction market is projected to touch $1.8 trillion mark by 2025. \ud83c\udfd7\ufe0f\n\n\ud83c\udf0d Meanwhile, globally, construction industry is expected to reach $15.5 trillion by 2030, with \ud83c\udde8\ud83c\uddf3 China & \ud83c\uddee\ud83c\uddf3 India leading the charge.",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
