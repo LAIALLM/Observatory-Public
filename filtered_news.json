@@ -2663,5 +2663,13 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin consumes the most electricity, followed by Ethereum and Solana.\n\n1. Bitcoin: Annual electricity use exceeds 120 TWh, surpassing \ud83c\uddf3\ud83c\uddf4 Norway's consumption.\n2. Ethereum: Post-merge, uses about 7 TWh/year, similar to \ud83c\uddf1\ud83c\uddee Liechtenstein.\n3. Solana: Consumes around 2.6 TW",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-05-24",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global: Urban population is projected to reach 66% by 2050, over 2.5 billion increase from 2025. \n\n\ud83c\uddf8\ud83c\uddea Sweden: Already kicking the trend with 87% living in urban areas in 2025, a 7% rise from 2020. \n\nRapid urban growth demands more efficient, sustainable urban planning. \ud83c\udfd9\ufe0f\ud83c\udf33",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
