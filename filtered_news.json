@@ -2731,5 +2731,25 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnZrNlJGTVVzcl8wX0pMVmVJMzFRSEtTQ29ILXQ5ZUNJOTdkTllublRpeUNYUXVDM2NVSnNHeXM3aGo5ZzRYakRsbzNYcEV6b2k4cG5JQ0FTVXZkUVhFMlNrQ2x0OEFzZjN0QV9PdW9lSHRqb2ZnblJENllRem83OEhvODBRLW5jNlNJeF9UaVZNUlYtVVZoY3ZVRkU1bVpHUjJraVV0U25rX0N4YUlPeF9FbFdlNkJ2Rnh3TGw4Yw?oc=5",
+        "date": "2025-05-24",
+        "title": "BOARD OF AFCONS INFRASTRUCTURE RECOMMENDS FINAL DIVIDEND - Capital Market",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnZrNlJGTVVzcl8wX0pMVmVJMzFRSEtTQ29ILXQ5ZUNJOTdkTllublRpeUNYUXVDM2NVSnNHeXM3aGo5ZzRYakRsbzNYcEV6b2k4cG5JQ0FTVXZkUVhFMlNrQ2x0OEFzZjN0QV9PdW9lSHRqb2ZnblJENllRem83OEhvODBRLW5jNlNJeF9UaVZNUlYtVVZoY3ZVRkU1bVpHUjJraVV0U25rX0N4YUlPeF9FbFdlNkJ2Rnh3TGw4Yw?oc=5\" target=\"_blank\">BOARD OF AFCONS INFRASTRUCTURE RECOMMENDS FINAL DIVIDEND</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital Market</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2pZMTBHeDdLUFZoYm9kSWwyZFlmV1VhaVNtcFlCaDREWDdtQkZlUkFvZnJoXzR6N1Z0aWhpV3o0TWxkY2xrQVRxb0IyMVQ4NU5icFU4RTVaVEZuX2N0aTZNRDJpNzdhZnFCMmFVV1V3WUl4ZlJ5OE1CdnR3ME9Neg?oc=5",
+        "date": "2025-05-24",
+        "title": "Mumbai Unveils Stunning Green Coastal Road Promenade - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2pZMTBHeDdLUFZoYm9kSWwyZFlmV1VhaVNtcFlCaDREWDdtQkZlUkFvZnJoXzR6N1Z0aWhpV3o0TWxkY2xrQVRxb0IyMVQ4NU5icFU4RTVaVEZuX2N0aTZNRDJpNzdhZnFCMmFVV1V3WUl4ZlJ5OE1CdnR3ME9Neg?oc=5\" target=\"_blank\">Mumbai Unveils Stunning Green Coastal Road Promenade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
