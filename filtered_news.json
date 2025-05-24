@@ -2829,5 +2829,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: \u20b911,000 crore projects completed across 6 cities under Smart City Mission by Gujarat government.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sWW9iTEI0R1JGVjA3eUdIbFBNZFNhOE0zX1N2bTBCUmVJN0ItZVcxM2hETWlEcXlzaFR0ejZwUE9iWGNkZGpTeklXYXFydFRibktJa3F1dVc0LW1FUjR6NUsyVlpKOG9GUHJacnpLMmRvQQ?oc=5",
+        "date": "2025-05-24",
+        "title": "SWGH DC assess infrastructure projects - Highland Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5sWW9iTEI0R1JGVjA3eUdIbFBNZFNhOE0zX1N2bTBCUmVJN0ItZVcxM2hETWlEcXlzaFR0ejZwUE9iWGNkZGpTeklXYXFydFRibktJa3F1dVc0LW1FUjR6NUsyVlpKOG9GUHJacnpLMmRvQQ?oc=5\" target=\"_blank\">SWGH DC assess infrastructure projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Highland Post</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOTFneGVBRk00TnZRYk1MbHRvV29wRGppQ2pMSXpwVmlWVHRhakJrTHdLY09idUxBUWNJQ3dwc2JfekNGTEVkNmpYdmhhd2NHUkVsNm9NTUpBbVhsejhqbjQyUlZoYVY0MlFWYlg4dW9EaV9HZHRmdThQY0xjX3NBTUZqT3k1RW1HUEkwSk5FaFBrSDdNaWFlMXMxbHZZUklGWDhpOEo4aw?oc=5",
+        "date": "2025-05-24",
+        "title": "PM Modi Calls for \u2018Viksit Bharat by 2047\u2019 at NITI Aayog Governing Council Meeting - pragativadi.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNOTFneGVBRk00TnZRYk1MbHRvV29wRGppQ2pMSXpwVmlWVHRhakJrTHdLY09idUxBUWNJQ3dwc2JfekNGTEVkNmpYdmhhd2NHUkVsNm9NTUpBbVhsejhqbjQyUlZoYVY0MlFWYlg4dW9EaV9HZHRmdThQY0xjX3NBTUZqT3k1RW1HUEkwSk5FaFBrSDdNaWFlMXMxbHZZUklGWDhpOEo4aw?oc=5\" target=\"_blank\">PM Modi Calls for \u2018Viksit Bharat by 2047\u2019 at NITI Aayog Governing Council Meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pragativadi.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
