@@ -2761,5 +2761,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-05-24",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.'s Q3 data traffic: \n1.5 Exabytes processed. \nEnergy efficiency up by 17% compared to Q2. \n$AAPL",
+        "type": "infrastructure"
     }
 ]
