@@ -2540,5 +2540,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-05-25",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n\nEnd Q2 data:\n\ud83d\udcbb 75M Macs sold\n\ud83d\udcf1 500M iPhones sold\n\u231a 25M Apple Watches sold\nUnits of energy consumed \ud83d\udca1: 35 million MWh\n\nEnvironmental efficiency \ud83c\udf31: 80%\n$AAPL",
+        "type": "infrastructure"
     }
 ]
