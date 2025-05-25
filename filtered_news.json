@@ -2638,5 +2638,13 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-05-25",
+        "status": "posted",
+        "tweet": "Summary: Top 5 nations leading in infrastructure investment in 2025.\n\n\ud83c\udde8\ud83c\uddf3 China \n\ud83c\uddfa\ud83c\uddf8 United States \n\ud83c\uddee\ud83c\uddf3 India \n\ud83c\uddef\ud83c\uddf5 Japan \n\ud83c\udde9\ud83c\uddea Germany \n\nBy 2025, infrastructure spending is projected to be highest in these countries, driving global economic growth and development.",
+        "type": "statistical",
+        "category": "infrastructure companies"
     }
 ]
