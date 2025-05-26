@@ -2352,5 +2352,65 @@
         "tweet": "\ud83c\udf0d Global urban development firms are set for rapid expansion. \nAccording to 2025 projections, urbanization rates are skyrocketing, with an estimated 68% of the world population anticipated to be living in urban areas by 2050. \nSeize the growth!",
         "type": "statistical",
         "category": "urban development firms"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaVUwMUozNzd3aWhBdXZNMHg3dmhXekE4SXFnSVdsdmVwOS11VzViRVloT28zZUhxZGVHd05zVDltWFl5SlBCRXZvSzhnSzByb3JQNS13MkRTV2ZqbGU5RnpPeHVWWmpINzhoQTg0bTItQVNockZWbTNybFlqS2FhVEpsTDRMMWZVT1VoMTM0Z05ad1hMM0NXSi1MdVRqams?oc=5",
+        "date": "2025-05-26",
+        "title": "Residential construction strike confirmed by Alliance - CTV News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPaVUwMUozNzd3aWhBdXZNMHg3dmhXekE4SXFnSVdsdmVwOS11VzViRVloT28zZUhxZGVHd05zVDltWFl5SlBCRXZvSzhnSzByb3JQNS13MkRTV2ZqbGU5RnpPeHVWWmpINzhoQTg0bTItQVNockZWbTNybFlqS2FhVEpsTDRMMWZVT1VoMTM0Z05ad1hMM0NXSi1MdVRqams?oc=5\" target=\"_blank\">Residential construction strike confirmed by Alliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX3h6ZUNjZUJxcF9VUjdGbExnWktkVV9YeTU5ek0zMW1TdFlaNEd6Nl9iQnVvVUc5UWdpSFViZXY1VWNBZnhmQUNFSS0tQTA0Qm0yZXVFZTRPd3ZNMnRTb094ckZTYmlzcmFrSEh4T3h6SmtEMXRYN0s5OXplM2hfWDVFSms0ZDZ1MjdudVhwUWd4X2RMZktWYw?oc=5",
+        "date": "2025-05-26",
+        "title": "Odisha CM Meets Railway Minister to Boost State\u2019s Rail Infrastructure - pragativadi.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQX3h6ZUNjZUJxcF9VUjdGbExnWktkVV9YeTU5ek0zMW1TdFlaNEd6Nl9iQnVvVUc5UWdpSFViZXY1VWNBZnhmQUNFSS0tQTA0Qm0yZXVFZTRPd3ZNMnRTb094ckZTYmlzcmFrSEh4T3h6SmtEMXRYN0s5OXplM2hfWDVFSms0ZDZ1MjdudVhwUWd4X2RMZktWYw?oc=5\" target=\"_blank\">Odisha CM Meets Railway Minister to Boost State\u2019s Rail Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pragativadi.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVhDbXNKMkluOHNPUGpUbDg2NGw5Q1Znb2NaZkZHYUVZMzlZVElYbHNWa1BEa3NQTUtCWXdONHNIZTlEZ2FwbWVkc0xCeHR0WnBVRmdpMkxYQ3U2aFhzTWsxTXNTVEswemZ4d1pCT0NwT3E1RlpJNnYwaG1manBvcnJSYlhqWXpITG9hdGJqTm9XV2JaUFpwalBpcXhxNWVXUFdNUA?oc=5",
+        "date": "2025-05-26",
+        "title": "Why Fintech Growth Still Depends on Physical Infrastructure: By Denys Boiko - Finextra Research",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVhDbXNKMkluOHNPUGpUbDg2NGw5Q1Znb2NaZkZHYUVZMzlZVElYbHNWa1BEa3NQTUtCWXdONHNIZTlEZ2FwbWVkc0xCeHR0WnBVRmdpMkxYQ3U2aFhzTWsxTXNTVEswemZ4d1pCT0NwT3E1RlpJNnYwaG1manBvcnJSYlhqWXpITG9hdGJqTm9XV2JaUFpwalBpcXhxNWVXUFdNUA?oc=5\" target=\"_blank\">Why Fintech Growth Still Depends on Physical Infrastructure: By Denys Boiko</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finextra Research</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUlENkJUcjdlaFV2ZVAxY05Hc0RKOEl3bC1PeTNCX2FIVXZIU1BfcXlVb184UVlLX0tGMEpXb3hQYjFwRnRER1JQSnhVai1YRXhIejVRb2xoWHF3NW5SNmJBYzFaUGFISU5JeVA2STF3OElSdEFoZmxJVnRCeExJOFVwbmoyVzdMS1pIQmJDQzkwN3hfNFFXclJDcTNHUnYxTGNKZ2xZYjA3dWwwcE1xNkxhYS1iTm5JNjFfMWZidTgtLWfSAcgBQVVfeXFMT3lXUGVBMWdQd0h2eEF0UWk2OWhGX2RFMTZMRlRFY3RndXpaWlJTc1FUS3VuUmFiS05DLTdCMkZqQ193OWl0ZmpFdW5Xc2dnNWJMV1o3aENBeE9Nc0xteUZuekxPM1I3Z3ZaYjMtV1RsQVVJTEE2SmpxVFRUVTBycWUwNS10STN3NTlOSU5zLXhjNkJpaXdHa1ozTV9WNnBOLUF1TE52LWo2MVlaTG9zSXhSSVZHc0tfWFBEUGk5NDYzY2RvZ0tScC0?oc=5",
+        "date": "2025-05-26",
+        "title": "Reliance Infrastructure Turns Profitable With \u20b94,387 Crore Net Profit In March Quarter - Free Press Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUlENkJUcjdlaFV2ZVAxY05Hc0RKOEl3bC1PeTNCX2FIVXZIU1BfcXlVb184UVlLX0tGMEpXb3hQYjFwRnRER1JQSnhVai1YRXhIejVRb2xoWHF3NW5SNmJBYzFaUGFISU5JeVA2STF3OElSdEFoZmxJVnRCeExJOFVwbmoyVzdMS1pIQmJDQzkwN3hfNFFXclJDcTNHUnYxTGNKZ2xZYjA3dWwwcE1xNkxhYS1iTm5JNjFfMWZidTgtLWfSAcgBQVVfeXFMT3lXUGVBMWdQd0h2eEF0UWk2OWhGX2RFMTZMRlRFY3RndXpaWlJTc1FUS3VuUmFiS05DLTdCMkZqQ193OWl0ZmpFdW5Xc2dnNWJMV1o3aENBeE9Nc0xteUZuekxPM1I3Z3ZaYjMtV1RsQVVJTEE2SmpxVFRUVTBycWUwNS10STN3NTlOSU5zLXhjNkJpaXdHa1ozTV9WNnBOLUF1TE52LWo2MVlaTG9zSXhSSVZHc0tfWFBEUGk5NDYzY2RvZ0tScC0?oc=5\" target=\"_blank\">Reliance Infrastructure Turns Profitable With \u20b94,387 Crore Net Profit In March Quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Free Press Journal</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS2dsUEZ6Rm9BZ3NCSUYtWWdodTl2Z1pfanJIb2VBUE9BVFVBOEhQMEFqdXl5Qk0zVlZQNmNUWS1qRXFNVnFfNXpZb0dPWkJEUndiWWhKY05QbkVSUEhYVjlrVnpBdHlpT2lwcFZMNk1yeDYwM0pTVW84UnFYUkt1bW1HMFdOeDU0cnJVNm1aNi02em1Yd3pFZnQ4SmRhSjJ3dFFORXQ1RGNWUVRUY094R3pkUk5UVldEVUhNXy1fWF93R2xGZUFSQTZPcm0?oc=5",
+        "date": "2025-05-26",
+        "title": "Petroleum Minister inspects LNG infrastructure in Ain Sokhna ahead of summer demand surge - Dailynewsegypt",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPS2dsUEZ6Rm9BZ3NCSUYtWWdodTl2Z1pfanJIb2VBUE9BVFVBOEhQMEFqdXl5Qk0zVlZQNmNUWS1qRXFNVnFfNXpZb0dPWkJEUndiWWhKY05QbkVSUEhYVjlrVnpBdHlpT2lwcFZMNk1yeDYwM0pTVW84UnFYUkt1bW1HMFdOeDU0cnJVNm1aNi02em1Yd3pFZnQ4SmRhSjJ3dFFORXQ1RGNWUVRUY094R3pkUk5UVldEVUhNXy1fWF93R2xGZUFSQTZPcm0?oc=5\" target=\"_blank\">Petroleum Minister inspects LNG infrastructure in Ain Sokhna ahead of summer demand surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dailynewsegypt</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR1pqQWU1Tk10bjFrR3pXcVRySk5sck1ta3FzZ2t3WnFBLWl1NFdLMHJwcGNMTzBWemprT09wNTdYYnJJMld6aDFvNHltTm55SmxwUHZPSUtLM2xid2hXSFc1cEt6VFJPMG1iR3l3T1lhdmh3M2FfSWVEXzJMMnVQaTh5a3ZkWTRVZEY1QVZSMHlRUzgyX3dWNUI5T1A0blZldGdsRFdMSWd3eml1N0JEZWR3SERsM2tXR09WSzlhR19FNWN5OE16clRBY2xQOXV4RzhVQVRwVzVFRE9RZzhF?oc=5",
+        "date": "2025-05-26",
+        "title": "Gujarat government approves Vapi's first-ever town planning scheme for streamlined development - Prop News Time",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR1pqQWU1Tk10bjFrR3pXcVRySk5sck1ta3FzZ2t3WnFBLWl1NFdLMHJwcGNMTzBWemprT09wNTdYYnJJMld6aDFvNHltTm55SmxwUHZPSUtLM2xid2hXSFc1cEt6VFJPMG1iR3l3T1lhdmh3M2FfSWVEXzJMMnVQaTh5a3ZkWTRVZEY1QVZSMHlRUzgyX3dWNUI5T1A0blZldGdsRFdMSWd3eml1N0JEZWR3SERsM2tXR09WSzlhR19FNWN5OE16clRBY2xQOXV4RzhVQVRwVzVFRE9RZzhF?oc=5\" target=\"_blank\">Gujarat government approves Vapi's first-ever town planning scheme for streamlined development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prop News Time</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
