@@ -2344,5 +2344,13 @@
         "status": "posted",
         "tweet": "In 2025, Bitcoin's annual cloud and data center costs reach $1.5 billion, compared to Ethereum's $800 million. \n\nBitcoin's infrastructure spans over 100 countries, with major hubs in  flag:US USA,  flag:CN China, and  flag:DE Germany. \n\nEthereum's operations are more concentrated",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-05-26",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global urban development firms are set for rapid expansion. \nAccording to 2025 projections, urbanization rates are skyrocketing, with an estimated 68% of the world population anticipated to be living in urban areas by 2050. \nSeize the growth!",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
