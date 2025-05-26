@@ -2337,5 +2337,12 @@
         "status": "posted",
         "tweet": "\ud83c\udf10 Microsoft \ud83c\uddfa\ud83c\uddf8: Cloud services usage surge by 775% in Q2 2020, compared to Q1 2020. \n\nData centers energy efficiency: PUE 1.125 \ud83c\udf3f\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-05-26",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual cloud and data center costs reach $1.5 billion, compared to Ethereum's $800 million. \n\nBitcoin's infrastructure spans over 100 countries, with major hubs in  flag:US USA,  flag:CN China, and  flag:DE Germany. \n\nEthereum's operations are more concentrated",
+        "type": "crypto"
     }
 ]
