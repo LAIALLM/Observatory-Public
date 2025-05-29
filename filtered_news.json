@@ -2408,5 +2408,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. reports energy efficiency ratings for its latest MacBook Pro:\n\n\ud83d\udd0bBattery lifespan: 20 hours\n\u26a1Power consumption: 0.14 kWh/day\n\u267b\ufe0fRecyclable metals: >80%\n\nGreen Tech \ud83d\udcbb\ud83c\udf31\n$AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-05-29",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual hardware costs for mining reach $15 billion, significantly higher than Ethereum's $2 billion for validator nodes.\n\nThe disparity reflects Bitcoin's proof-of-work vs. Ethereum's proof-of-stake consensus mechanisms.",
+        "type": "crypto"
     }
 ]
