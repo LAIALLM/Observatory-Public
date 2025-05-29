@@ -2401,5 +2401,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-05-29",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. reports energy efficiency ratings for its latest MacBook Pro:\n\n\ud83d\udd0bBattery lifespan: 20 hours\n\u26a1Power consumption: 0.14 kWh/day\n\u267b\ufe0fRecyclable metals: >80%\n\nGreen Tech \ud83d\udcbb\ud83c\udf31\n$AAPL",
+        "type": "infrastructure"
     }
 ]
