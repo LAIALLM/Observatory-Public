@@ -2371,5 +2371,35 @@
         "tweet": "Summary: The top 5 countries driving the global infrastructural projects in 2025.\n\n\ud83c\udde8\ud83c\uddf3 China\n\ud83c\uddfa\ud83c\uddf8 USA\n\ud83c\uddee\ud83c\uddf3 India\n\ud83c\udde6\ud83c\uddea UAE\n\ud83c\udde7\ud83c\uddf7 Brazil\n\nIn 2025, China leads the global infrastructure growth, with the US, India, UAE, and Brazil closely following.",
         "type": "statistical",
         "category": "infrastructural projects"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ2t2akc3eTJWYWxDejRLd2dncV9UdTlBR3hGaUtUREdlbWhzUnk4U25hVlpyNjFydElsQmtmNVZUemdlUkRGQ25sXy1XV1UzVE50bVRfbWphQ01Xd2Qtem0zVDJlZ0NhdFh0X0d1Ul9oQ3FWdGJqRmJxajJRQXR3TWllbkFFZXVwNU9sdUdkU2RsZmdyUGxESjVXcmJIOGNEX3NWWC0xbzlEVFM5cmh6Wg?oc=5",
+        "date": "2025-05-29",
+        "title": "Procurement firm aims to cut one billion hours of admin time - Braintree & Witham Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ2t2akc3eTJWYWxDejRLd2dncV9UdTlBR3hGaUtUREdlbWhzUnk4U25hVlpyNjFydElsQmtmNVZUemdlUkRGQ25sXy1XV1UzVE50bVRfbWphQ01Xd2Qtem0zVDJlZ0NhdFh0X0d1Ul9oQ3FWdGJqRmJxajJRQXR3TWllbkFFZXVwNU9sdUdkU2RsZmdyUGxESjVXcmJIOGNEX3NWWC0xbzlEVFM5cmh6Wg?oc=5\" target=\"_blank\">Procurement firm aims to cut one billion hours of admin time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Braintree & Witham Times</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZdU1KVHBPVEN5akZKLTV5TzlVaTFDSFNrQThpUTJyUFlvZ05tQ1RuZS1UMDVjdncteks0ZEd2M0RvVndIUjFkWW1SNmNpeHY0MmpKWWNBTHVHdUY4VEdOR3ZLNUd6Rkg4Y1NoSjZLb0JmWG1QT29GRVc0dm8?oc=5",
+        "date": "2025-05-29",
+        "title": "Mumbai Approves Dharavi Redevelopment Master Plan - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZdU1KVHBPVEN5akZKLTV5TzlVaTFDSFNrQThpUTJyUFlvZ05tQ1RuZS1UMDVjdncteks0ZEd2M0RvVndIUjFkWW1SNmNpeHY0MmpKWWNBTHVHdUY4VEdOR3ZLNUd6Rkg4Y1NoSjZLb0JmWG1QT29GRVc0dm8?oc=5\" target=\"_blank\">Mumbai Approves Dharavi Redevelopment Master Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://infrastructuremagazine.com.au/converge-industrys-platform-for-collaboration/",
+        "date": "2025-05-29",
+        "title": "Converge: Industry\u2019s platform for collaboration",
+        "summary": "<figure><img alt=\"\" src=\"https://infrastructuremagazine.com.au/wp-content/uploads/2025/05/Converge-image-1.jpeg\" style=\"float: right; margin: 0 0 10px 10px;\" /><figcaption>Sustainability in the built environment will be a major focus of the upcoming 2025 Converge Expo. Image: stock.adobe.com/Kwangmoozaa.</figcaption></figure>Victoria University Associate Professor Malindu Sandanayake, one of the industry\u2019s premier voices on sustainability in the built environment, outlines the importance and opportunities to come from the highly anticipated Converge [&#8230;]",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
