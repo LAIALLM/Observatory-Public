@@ -2335,5 +2335,105 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. ($AAPL)\n- Q2 2021 results show a staggering 215.6 million iPhone units sold, generating $47.9 billion in revenue. \n- iPad sales totaled 44.3 million, bringing a revenue of $7.8 billion. \n\nComputing power meets market demand.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11VmJ3OFZ3cXRvZExzRFhMNUhCbGIwXzZuV2NRTHJLY204VmFJbEdFemM3ZGhLOElaS2FCWm1CVlZtb1BpcGhtMFlVbVpLSEE?oc=5",
+        "date": "2025-05-30",
+        "title": "MMK offers technological solutions for the construction industry in Kazakhstan - Metalinfo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE11VmJ3OFZ3cXRvZExzRFhMNUhCbGIwXzZuV2NRTHJLY204VmFJbEdFemM3ZGhLOElaS2FCWm1CVlZtb1BpcGhtMFlVbVpLSEE?oc=5\" target=\"_blank\">MMK offers technological solutions for the construction industry in Kazakhstan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Metalinfo</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1RZOG9Eb1JkQ3VjYkVVODl5dklFcXhDa2dGb1FGa3ZoeGdJaVkyNUo0TWJDTURpejZBQTRKMF9DN3B0WlFhMG40MmZNNW5xQ1hVVG5peTJ0d0ZTbU9hMXkwWWxlRlQzTHpkUlQ3QmR5QVNpZ1lmOFBKNzM4SUpzMGY2TEZfMHoySzl3SWN5ZEF3WksydU1KcDNmRzY3SWQtN1JCMGRLaEhqaVpOTGF5ZjRzZmpTOWJxcUduMnkwY0s5YU10aU5QUWplWTMzMlNCRTJXWldn0gHbAUFVX3lxTE1MRVhtcEhGMUFDbnpRblJfdzVVd2paWlNlS1ltbFJRcENZVHVkbk5QMGJpUG00MGhsNFRhRW5DRlNCVk85VHdtdTUzUFRHWTluaURRVkZQMVFXRTVLNV9YSlQ1MTdWa3R3bVU3eGNtSlRWUmVhYjFTUXVrcmtZUnJfbUtYSXFqbHhpYUJVR1Z2RV9DVi1qTXhXX0xaNXdUVG5fQWl0M2pqLXRlSW1rWjBydGtIeXpJNlkyWWxKdjk3MElnSnBVX2Z0ZWRUdkI0RWhFcTl1WGxEVDlsRQ?oc=5",
+        "date": "2025-05-30",
+        "title": "Prime Minister Modi unveils Rs 47,573 crore infrastructure projects in Kanpur - India Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1RZOG9Eb1JkQ3VjYkVVODl5dklFcXhDa2dGb1FGa3ZoeGdJaVkyNUo0TWJDTURpejZBQTRKMF9DN3B0WlFhMG40MmZNNW5xQ1hVVG5peTJ0d0ZTbU9hMXkwWWxlRlQzTHpkUlQ3QmR5QVNpZ1lmOFBKNzM4SUpzMGY2TEZfMHoySzl3SWN5ZEF3WksydU1KcDNmRzY3SWQtN1JCMGRLaEhqaVpOTGF5ZjRzZmpTOWJxcUduMnkwY0s5YU10aU5QUWplWTMzMlNCRTJXWldn0gHbAUFVX3lxTE1MRVhtcEhGMUFDbnpRblJfdzVVd2paWlNlS1ltbFJRcENZVHVkbk5QMGJpUG00MGhsNFRhRW5DRlNCVk85VHdtdTUzUFRHWTluaURRVkZQMVFXRTVLNV9YSlQ1MTdWa3R3bVU3eGNtSlRWUmVhYjFTUXVrcmtZUnJfbUtYSXFqbHhpYUJVR1Z2RV9DVi1qTXhXX0xaNXdUVG5fQWl0M2pqLXRlSW1rWjBydGtIeXpJNlkyWWxKdjk3MElnSnBVX2Z0ZWRUdkI0RWhFcTl1WGxEVDlsRQ?oc=5\" target=\"_blank\">Prime Minister Modi unveils Rs 47,573 crore infrastructure projects in Kanpur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOZU1Dcm9SMVZtMlRPVXlIbmExbUdZcWVmVEFfYTA2OWVsRW5SVnVfRUlLZElmb2tzYjY1SklwRkVZQnlRWGtNUWEyM0dtblk3ZnhzS0lXeUtWeDdYYjBFLWtiUHhsaklGYnJXdGNwUjJUekM4eGdhNEU4SWZFYlBQSVVrdW1RQlpheHFMRTViOFVUZzVDSC1TdXZmSlQyNFNhM3BSNEF0VDQ0Z2l1cnhDUHlDVnk2aUpSR0d6VzUzYmxuQ2gxT2JidmJrM3BGTXpnYldDUmZNV3ZqSUhEZS1qcG5lT1EyR0FjSlpCNzcxNFplYlV2SzVmYzJOQnRwTmkzQ2xtWVNBNHBhQmhkVjJZ0gGUAkFVX3lxTE9mTDMxaWFRSFZTY2hGd3UyMEt6VU9ES3FfOV9QdXNZWXBMdzMwQXZNZzZtYWFMWC1xZEx0VXlYY2IxMG90WTRQODRWOTN0VTJqSUVtcmdLb08xYXVld3ZwR1ppbmVtTjUtbVE2amlsTDVrYThPc0FiVGFUN3ZYMkF6QndVSmdWV21ycUJaSy1DMGpCN21jZjZlZDExdFE0SlVRR2JUSmhxTE84WnNrS3VCZUIxU19IV2puS21qVm5ZMjd0QmxZdVRyM0NVYnlENHBfQ1gyTVpNM3p5NEFVVnlqVWFnOVdBdndYZGZ1OUZTZU9aQ3YweVFyS09ycGYzeDhhUkc4U05LNHg3RWlHYVpTbTgwTA?oc=5",
+        "date": "2025-05-30",
+        "title": "AI as infrastructure: India must develop the right tech | Mint - Mint",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxOZU1Dcm9SMVZtMlRPVXlIbmExbUdZcWVmVEFfYTA2OWVsRW5SVnVfRUlLZElmb2tzYjY1SklwRkVZQnlRWGtNUWEyM0dtblk3ZnhzS0lXeUtWeDdYYjBFLWtiUHhsaklGYnJXdGNwUjJUekM4eGdhNEU4SWZFYlBQSVVrdW1RQlpheHFMRTViOFVUZzVDSC1TdXZmSlQyNFNhM3BSNEF0VDQ0Z2l1cnhDUHlDVnk2aUpSR0d6VzUzYmxuQ2gxT2JidmJrM3BGTXpnYldDUmZNV3ZqSUhEZS1qcG5lT1EyR0FjSlpCNzcxNFplYlV2SzVmYzJOQnRwTmkzQ2xtWVNBNHBhQmhkVjJZ0gGUAkFVX3lxTE9mTDMxaWFRSFZTY2hGd3UyMEt6VU9ES3FfOV9QdXNZWXBMdzMwQXZNZzZtYWFMWC1xZEx0VXlYY2IxMG90WTRQODRWOTN0VTJqSUVtcmdLb08xYXVld3ZwR1ppbmVtTjUtbVE2amlsTDVrYThPc0FiVGFUN3ZYMkF6QndVSmdWV21ycUJaSy1DMGpCN21jZjZlZDExdFE0SlVRR2JUSmhxTE84WnNrS3VCZUIxU19IV2puS21qVm5ZMjd0QmxZdVRyM0NVYnlENHBfQ1gyTVpNM3p5NEFVVnlqVWFnOVdBdndYZGZ1OUZTZU9aQ3YweVFyS09ycGYzeDhhUkc4U05LNHg3RWlHYVpTbTgwTA?oc=5\" target=\"_blank\">AI as infrastructure: India must develop the right tech | Mint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVdxcEVLRlFlV2d0LWdMdHBxYm1kaTUtdWNOWkNsa1hIUFpvVmVUSDJGZjFsMkNkbzRPZGF6SVNvUlQ1TXJRSTF5UGI3R01SMFZWa3ZXQkJWQnlBQTZnUUxnUng2OEZJM1NxM0k1Y0c2YWtHQnQ3V1gxVkhoVE5OcTR1THR2Zy1Pel8wSTU2RlN5cjJUdlE?oc=5",
+        "date": "2025-05-30",
+        "title": "Villupuram tourism suffers as Gingee Fort lacks basic infrastructure - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVdxcEVLRlFlV2d0LWdMdHBxYm1kaTUtdWNOWkNsa1hIUFpvVmVUSDJGZjFsMkNkbzRPZGF6SVNvUlQ1TXJRSTF5UGI3R01SMFZWa3ZXQkJWQnlBQTZnUUxnUng2OEZJM1NxM0k1Y0c2YWtHQnQ3V1gxVkhoVE5OcTR1THR2Zy1Pel8wSTU2RlN5cjJUdlE?oc=5\" target=\"_blank\">Villupuram tourism suffers as Gingee Fort lacks basic infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMUp3T0FLNGo5ZzB0bjRTSXBSeElxSUY1NU91Y0NISnEwNUYwV2xzRHEtUHVZQ205UElDT19ScFkzc2dlbGdWSG55eEJWZjZOM291eTVXRnpiczY3b2o0RkxTbEIydjVIcUVGTC0zR0Y3NmEzVzVZSUl4X0E5eFo1Ymw1THNoR1c1dWoyWVBhRlRGdkFCZ0J6X3FZSTNJczZ3UXlMeEU2eDg5bVVleUZFQUw0cGRJNWI4RFpUZjNCbVBxdnJESlBMZ3g1c2ZndzdVLTlEYWRQeEZkaHo3SkJ0WG5B?oc=5",
+        "date": "2025-05-30",
+        "title": "Renowned Ocean Engineering Expert from IIT Madras Visits Matterlab, Commends World-Class Infrastructure & Vision - Passionate In Marketing",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMUp3T0FLNGo5ZzB0bjRTSXBSeElxSUY1NU91Y0NISnEwNUYwV2xzRHEtUHVZQ205UElDT19ScFkzc2dlbGdWSG55eEJWZjZOM291eTVXRnpiczY3b2o0RkxTbEIydjVIcUVGTC0zR0Y3NmEzVzVZSUl4X0E5eFo1Ymw1THNoR1c1dWoyWVBhRlRGdkFCZ0J6X3FZSTNJczZ3UXlMeEU2eDg5bVVleUZFQUw0cGRJNWI4RFpUZjNCbVBxdnJESlBMZ3g1c2ZndzdVLTlEYWRQeEZkaHo3SkJ0WG5B?oc=5\" target=\"_blank\">Renowned Ocean Engineering Expert from IIT Madras Visits Matterlab, Commends World-Class Infrastructure & Vision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Passionate In Marketing</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQzRjVWVETVk3R0Y2YllWWkM5Q2NRWjhMaS0tQlVQeE1UanBRRVFVOVRfam1wVk9VSGlJb0xTQWJZZ19uRjhZSjlOTXl6WExKNE1MVW85TEU3V0k5S0xBdHMyemJhbXExdHRuRnhUYmRuZ1lvTy15OVc1YjBBcnhDVS1YTGRPLW9kLVpUZjduNFlQOW1obERuSDJzQ2o3SnJ4WG5QeUxnUHpRT0ltQmhLQ081ZU12NDhJSVBTR2dOQQ?oc=5",
+        "date": "2025-05-30",
+        "title": "Digita goes ahead with plans to split into infrastructure and service companies - Telecompaper",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOQzRjVWVETVk3R0Y2YllWWkM5Q2NRWjhMaS0tQlVQeE1UanBRRVFVOVRfam1wVk9VSGlJb0xTQWJZZ19uRjhZSjlOTXl6WExKNE1MVW85TEU3V0k5S0xBdHMyemJhbXExdHRuRnhUYmRuZ1lvTy15OVc1YjBBcnhDVS1YTGRPLW9kLVpUZjduNFlQOW1obERuSDJzQ2o3SnJ4WG5QeUxnUHpRT0ltQmhLQ081ZU12NDhJSVBTR2dOQQ?oc=5\" target=\"_blank\">Digita goes ahead with plans to split into infrastructure and service companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telecompaper</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sVkhPSi02amV4eHlIMDMyRnN0MGxDZmlJblRMOHZXRXY5VXI5THFEV01DbGppSVl5Vl9FdWVaU2NZa2FyRU4wMlBTYzk0a3B5WDJZOUtDbm5ra3I0Nmw0V3d4dW9Zc0ZhMkNxbUxKUk1WVWRJS3BHX01TVm1mamM?oc=5",
+        "date": "2025-05-30",
+        "title": "Ahmedabad to Relocate RMC Plants from Housing Areas - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9sVkhPSi02amV4eHlIMDMyRnN0MGxDZmlJblRMOHZXRXY5VXI5THFEV01DbGppSVl5Vl9FdWVaU2NZa2FyRU4wMlBTYzk0a3B5WDJZOUtDbm5ra3I0Nmw0V3d4dW9Zc0ZhMkNxbUxKUk1WVWRJS3BHX01TVm1mamM?oc=5\" target=\"_blank\">Ahmedabad to Relocate RMC Plants from Housing Areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1hwM3h5S0lnNzl1OHFEZS1wRi10bEhoQmxGam9lcVBmZmlsRFpDSUw0a3JKLThURTFSMGNIeGZpYUE4YzFaYUV4MUFDaEZQeDhYUnk2T18wRF93aVZoNVBsbWpSUW5zTkYzdHdsanR6SFlTM0NzMzAzYmlaRmhQWg?oc=5",
+        "date": "2025-05-30",
+        "title": "Ahmedabad Residents Protest Olympic Road Demolitions - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1hwM3h5S0lnNzl1OHFEZS1wRi10bEhoQmxGam9lcVBmZmlsRFpDSUw0a3JKLThURTFSMGNIeGZpYUE4YzFaYUV4MUFDaEZQeDhYUnk2T18wRF93aVZoNVBsbWpSUW5zTkYzdHdsanR6SFlTM0NzMzAzYmlaRmhQWg?oc=5\" target=\"_blank\">Ahmedabad Residents Protest Olympic Road Demolitions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa2tvX2UtN1R5Ui1fbk5oSy1SYk1NN3ZBVFAtek0wbEtzTjJpNzlQYmxjSW1TVjA5X0U2czN0MWJMZVJoSUMydUR6aXZ4N0VRZDhfeTA5STMwTk5jRWhlYWdKbC1mLTJGSlowbkI2bGR0Qmd0bmY0TjRQektJTDdpOVNNVk5GZERVaXh6TjdiWlpScGxn?oc=5",
+        "date": "2025-05-30",
+        "title": "Bengaluru clears drain blocks to stop flooding before monsoon rains - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQa2tvX2UtN1R5Ui1fbk5oSy1SYk1NN3ZBVFAtek0wbEtzTjJpNzlQYmxjSW1TVjA5X0U2czN0MWJMZVJoSUMydUR6aXZ4N0VRZDhfeTA5STMwTk5jRWhlYWdKbC1mLTJGSlowbkI2bGR0Qmd0bmY0TjRQektJTDdpOVNNVk5GZERVaXh6TjdiWlpScGxn?oc=5\" target=\"_blank\">Bengaluru clears drain blocks to stop flooding before monsoon rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeWotUHgxbUNUaU0wTWdMRndXUnRudkk1NnNlS2w3MkhZclVzaHFsdE0waFRKRHZyd2phNjNGXzBEaU1Nd0pWX1puamt6bGprRVRhcTZxZmUyTmtrZ1VyaXB6ZS1BemFPb1ozMlNpV3huQWpnT1AwTUJWTXEtd0xkVlRPOXRnNExXZ3JIN1JOOVJMWXZvOUVFdkk1VQ?oc=5",
+        "date": "2025-05-30",
+        "title": "Climate action - D\u00fcsseldorf opens hydrogen filling station - Smart Cities World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOeWotUHgxbUNUaU0wTWdMRndXUnRudkk1NnNlS2w3MkhZclVzaHFsdE0waFRKRHZyd2phNjNGXzBEaU1Nd0pWX1puamt6bGprRVRhcTZxZmUyTmtrZ1VyaXB6ZS1BemFPb1ozMlNpV3huQWpnT1AwTUJWTXEtd0xkVlRPOXRnNExXZ3JIN1JOOVJMWXZvOUVFdkk1VQ?oc=5\" target=\"_blank\">Climate action - D\u00fcsseldorf opens hydrogen filling station</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
