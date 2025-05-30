@@ -2328,5 +2328,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Union cabinet approves \u20b93,653-cr 4-lane Badvel-Nellore highway to boost industrial connectivity in Andhra.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-30",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. ($AAPL)\n- Q2 2021 results show a staggering 215.6 million iPhone units sold, generating $47.9 billion in revenue. \n- iPad sales totaled 44.3 million, bringing a revenue of $7.8 billion. \n\nComputing power meets market demand.",
+        "type": "infrastructure"
     }
 ]
