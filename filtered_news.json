@@ -2526,5 +2526,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-05-30",
+        "status": "posted",
+        "tweet": "Summary: Top 5 cities for construction growth in 2025.\n\n\ud83c\udde8\ud83c\uddf3 Shanghai\n\ud83c\uddee\ud83c\uddf3 Delhi\n\ud83c\uddee\ud83c\udde9 Jakarta\n\ud83c\uddf3\ud83c\uddec Lagos\n\ud83c\udde7\ud83c\uddf7 Sao Paulo\n\nData shows these cities will lead the construction sector in 2025, reflecting rapid urbanization in developing countries.",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
