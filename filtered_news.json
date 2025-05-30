@@ -2300,5 +2300,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: PM Modi virtually launches a 500-bed hospital and ropeway in Sikkim on its 50th Statehood Day.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-30",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual carbon footprint is estimated at 72 million metric tons of CO2, equivalent to \ud83c\uddf8\ud83c\uddea Sweden's total emissions. \n\nEthereum's footprint is significantly lower at 12 million metric tons, comparable to \ud83c\uddf1\ud83c\uddf0 Sri Lanka's emissions.",
+        "type": "crypto"
     }
 ]
