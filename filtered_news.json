@@ -2473,5 +2473,96 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Pune Metro expansion approved, enhancing citys green mobility with new lines.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0k3TmtIR3lHQ0QybzFwVnZlMU81SThQdkxhYjBqTjhsWkU1Z1RUVU9CRV95bmhHQlBsemRicVRVMUtESkpXc1A2R2cydVFva2wxcWZ2Y25wS29laERzMkd5OWxvOEZYUHM0NjJXSk5uNXc2cFBydHpBWkVaZ2lQWlk0OFlVUjlsQ3lUQUxod2hHNHZCMFhzTUY1TkRjQQ?oc=5",
+        "date": "2025-05-31",
+        "title": "President attends Build SL 2025 Housing and Construction Expo - Ada Derana",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxON0k3TmtIR3lHQ0QybzFwVnZlMU81SThQdkxhYjBqTjhsWkU1Z1RUVU9CRV95bmhHQlBsemRicVRVMUtESkpXc1A2R2cydVFva2wxcWZ2Y25wS29laERzMkd5OWxvOEZYUHM0NjJXSk5uNXc2cFBydHpBWkVaZ2lQWlk0OFlVUjlsQ3lUQUxod2hHNHZCMFhzTUY1TkRjQQ?oc=5\" target=\"_blank\">President attends Build SL 2025 Housing and Construction Expo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ada Derana</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU0FSaG5vcGRsMFhEZ2pvVHc3bEM3T1RqU3ZYaTRMcTlJdVlJYzU4U1pwVGs4cm81YVBYMWxWYWRUYnBDaG1ETmRQaW9CVE44M0dteDBiNUxaQl85M3pGLWJNa3lnWWJHZnVOMjI1M1dEZlBJeU9GMFNoRkIzTTE3WGVVaG1SN3M2dUtsc0RTMkx2WXRhdTNWLWstbWZIZw?oc=5",
+        "date": "2025-05-31",
+        "title": "Preparing Your IT Infrastructure for the AI Era - InformationWeek",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQU0FSaG5vcGRsMFhEZ2pvVHc3bEM3T1RqU3ZYaTRMcTlJdVlJYzU4U1pwVGs4cm81YVBYMWxWYWRUYnBDaG1ETmRQaW9CVE44M0dteDBiNUxaQl85M3pGLWJNa3lnWWJHZnVOMjI1M1dEZlBJeU9GMFNoRkIzTTE3WGVVaG1SN3M2dUtsc0RTMkx2WXRhdTNWLWstbWZIZw?oc=5\" target=\"_blank\">Preparing Your IT Infrastructure for the AI Era</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InformationWeek</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ2hVSTk4SFVkdFQ1NFFUWENWTXphRVF4bENUWnp0QWV5WDZvT2RaZTF6YWw3VW93MXZYaVhMTWkxbFppV2NKUVprcmg0Rm1aR21ua0hvSlBqUjF0c0lldUd4UHVsb2hPeVh3T3NqVDFyQ0dLcEU2VDVKb1V4N1FTZHhaX1BmQzk1RmVXbC1NeDBpRWtxUTJmTkFjS0xKdE1pa21NYy0zZEZPR1lBQWU2VWFkVzZqeUVyQW1BZmU2QVpKSW9oZW1oallqODhnX1VSNWVUMjBwV2J6QQ?oc=5",
+        "date": "2025-05-31",
+        "title": "Cost Optimisation for Building Durable Roads - Construction World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ2hVSTk4SFVkdFQ1NFFUWENWTXphRVF4bENUWnp0QWV5WDZvT2RaZTF6YWw3VW93MXZYaVhMTWkxbFppV2NKUVprcmg0Rm1aR21ua0hvSlBqUjF0c0lldUd4UHVsb2hPeVh3T3NqVDFyQ0dLcEU2VDVKb1V4N1FTZHhaX1BmQzk1RmVXbC1NeDBpRWtxUTJmTkFjS0xKdE1pa21NYy0zZEZPR1lBQWU2VWFkVzZqeUVyQW1BZmU2QVpKSW9oZW1oallqODhnX1VSNWVUMjBwV2J6QQ?oc=5\" target=\"_blank\">Cost Optimisation for Building Durable Roads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction World</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGI3Y29EX0Y2cVZ1VEhycC0tZ0F1VjVUYUdzRmpYZy1VQWh6aVMycnUzTDZxbXVrYTQxSVF0dWhXTlhqUEdDczJRQmZ0YnpiSi1oRTVmQmNSejdDZVdveEVsQjBkVnFJdmg0MUFrVjFUajhzcGFua0RCTlhiOHpYVnl6VGoyd3ZYajNrQVJXTmtkRjh6LVlmbmJRUWtKOHJXWTdjWGpJVVdIZ181R0FqZ3ppRTNuSW5nWEZPR0oxZmxpQQ?oc=5",
+        "date": "2025-05-31",
+        "title": "US Supreme Court narrows scope of environmental review of major infrastructure projects - JURIST Legal News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGI3Y29EX0Y2cVZ1VEhycC0tZ0F1VjVUYUdzRmpYZy1VQWh6aVMycnUzTDZxbXVrYTQxSVF0dWhXTlhqUEdDczJRQmZ0YnpiSi1oRTVmQmNSejdDZVdveEVsQjBkVnFJdmg0MUFrVjFUajhzcGFua0RCTlhiOHpYVnl6VGoyd3ZYajNrQVJXTmtkRjh6LVlmbmJRUWtKOHJXWTdjWGpJVVdIZ181R0FqZ3ppRTNuSW5nWEZPR0oxZmxpQQ?oc=5\" target=\"_blank\">US Supreme Court narrows scope of environmental review of major infrastructure projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JURIST Legal News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Supreme Court narrows scope of environmental review for major infrastructure projects, limiting consideration to direct environmental impacts."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVm1CbDNXcFh4dm1USldXbktwdjByczJFWkUwY1A0VFBETWtDekw1MXdKenVEVXpDMVcxYk13MWkzQ1lsN1NjVUhiOGtkckNFeTY1WVFiQ3JOaHg4RlJ2NUh3bEVWYnJkVF80MFR5LWpLQU9jZkszR0FqYTJXanlfS0g1TURZaEpMeV8zZE0xaGF3NE1pR25mbC1xWGtpWDZaMXhwLUxKa3pHbERaSGhjbklYV2R6RXBFQng4cXA1dVFPdFpPMFNSTzJKQjhLVGtoUXlISVRRQmllNDQ?oc=5",
+        "date": "2025-05-31",
+        "title": "Renowned Ocean Engineering Expert from IIT Madras Visits Matterlab, Commends World-Class Infrastructure & Vision - indiaeducationdiary.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVm1CbDNXcFh4dm1USldXbktwdjByczJFWkUwY1A0VFBETWtDekw1MXdKenVEVXpDMVcxYk13MWkzQ1lsN1NjVUhiOGtkckNFeTY1WVFiQ3JOaHg4RlJ2NUh3bEVWYnJkVF80MFR5LWpLQU9jZkszR0FqYTJXanlfS0g1TURZaEpMeV8zZE0xaGF3NE1pR25mbC1xWGtpWDZaMXhwLUxKa3pHbERaSGhjbklYV2R6RXBFQng4cXA1dVFPdFpPMFNSTzJKQjhLVGtoUXlISVRRQmllNDQ?oc=5\" target=\"_blank\">Renowned Ocean Engineering Expert from IIT Madras Visits Matterlab, Commends World-Class Infrastructure & Vision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">indiaeducationdiary.in</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYUc1SUVFZzN1X1c0cDRYR21JbUNmTnZpTVdjbXNSYVFldE1ZbDlINmVjS3VlZkdYQ1NmTkpRSG85OUkteDl5UXF0OTM4TTJwQjRMZWg0anBkY0p2N05hQVRMQ21GQ3MtZ0ViazlWUUJXdjFENkdXVWtDYU1ETlVZcVlzTjhtc3NsblhUaGo4X3BrcVhKZmFuVnYtT0FxSW4xMUE?oc=5",
+        "date": "2025-05-31",
+        "title": "Principal Secy Usha Padhee Reviews Urban and Transport Projects in Keonjhar - pragativadi.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQYUc1SUVFZzN1X1c0cDRYR21JbUNmTnZpTVdjbXNSYVFldE1ZbDlINmVjS3VlZkdYQ1NmTkpRSG85OUkteDl5UXF0OTM4TTJwQjRMZWg0anBkY0p2N05hQVRMQ21GQ3MtZ0ViazlWUUJXdjFENkdXVWtDYU1ETlVZcVlzTjhtc3NsblhUaGo4X3BrcVhKZmFuVnYtT0FxSW4xMUE?oc=5\" target=\"_blank\">Principal Secy Usha Padhee Reviews Urban and Transport Projects in Keonjhar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pragativadi.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN0dZS2g5TVA2bTBKaF9kQ0s3ejZKc0RLVHU3aGNEc3dQM3JrcUMxc01yRTJ3dFVSb2ZvOUpDSWc1bFBXanVGMzN2aFc2VXdmT2NnTXBkU3VDV2l5UXZMcDl6Sy12QjhZaEFUYXZBdFYwMmdxUUtHUGNrT3l2UTBJbU9pd1ViSmN6RHZmZEZ4NW91RVdEdnQtaHdIRVR2TnhFb3EtbEhHSXEtQnhGUFgwd2VWSHZkR2Q3X3RfMw?oc=5",
+        "date": "2025-05-31",
+        "title": "Principal Secy Usha Padhee Reviews Urban Development And Transport Works In Keonjhar - Ommcom News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPN0dZS2g5TVA2bTBKaF9kQ0s3ejZKc0RLVHU3aGNEc3dQM3JrcUMxc01yRTJ3dFVSb2ZvOUpDSWc1bFBXanVGMzN2aFc2VXdmT2NnTXBkU3VDV2l5UXZMcDl6Sy12QjhZaEFUYXZBdFYwMmdxUUtHUGNrT3l2UTBJbU9pd1ViSmN6RHZmZEZ4NW91RVdEdnQtaHdIRVR2TnhFb3EtbEhHSXEtQnhGUFgwd2VWSHZkR2Q3X3RfMw?oc=5\" target=\"_blank\">Principal Secy Usha Padhee Reviews Urban Development And Transport Works In Keonjhar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ommcom News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoUVBNOThxR1FYVGJ6eXl6cHR1ZHV0d0s4dVh0aGFCNmZJTkdGVjJwN0RVNXBETFZsVXlvRk9PbFBSeXNyb1liRHRUMm85VVFHZDBZMUpqUEJVbUtRSjVYdVFBUEZuLUtaaWtVcTZiSVNiYTdzQTZv?oc=5",
+        "date": "2025-05-31",
+        "title": "MP Poojary orders SLP issues resolved in 15 days amid mounting public complaints - Daijiworld",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBoUVBNOThxR1FYVGJ6eXl6cHR1ZHV0d0s4dVh0aGFCNmZJTkdGVjJwN0RVNXBETFZsVXlvRk9PbFBSeXNyb1liRHRUMm85VVFHZDBZMUpqUEJVbUtRSjVYdVFBUEZuLUtaaWtVcTZiSVNiYTdzQTZv?oc=5\" target=\"_blank\">MP Poojary orders SLP issues resolved in 15 days amid mounting public complaints</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daijiworld</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGI3Y29EX0Y2cVZ1VEhycC0tZ0F1VjVUYUdzRmpYZy1VQWh6aVMycnUzTDZxbXVrYTQxSVF0dWhXTlhqUEdDczJRQmZ0YnpiSi1oRTVmQmNSejdDZVdveEVsQjBkVnFJdmg0MUFrVjFUajhzcGFua0RCTlhiOHpYVnl6VGoyd3ZYajNrQVJXTmtkRjh6LVlmbmJRUWtKOHJXWTdjWGpJVVdIZ181R0FqZ3ppRTNuSW5nWEZPR0oxZmxpQQ?oc=5",
+        "date": "2025-05-31",
+        "title": "US Supreme Court narrows scope of environmental review of major infrastructure projects - JURIST Legal News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGI3Y29EX0Y2cVZ1VEhycC0tZ0F1VjVUYUdzRmpYZy1VQWh6aVMycnUzTDZxbXVrYTQxSVF0dWhXTlhqUEdDczJRQmZ0YnpiSi1oRTVmQmNSejdDZVdveEVsQjBkVnFJdmg0MUFrVjFUajhzcGFua0RCTlhiOHpYVnl6VGoyd3ZYajNrQVJXTmtkRjh6LVlmbmJRUWtKOHJXWTdjWGpJVVdIZ181R0FqZ3ppRTNuSW5nWEZPR0oxZmxpQQ?oc=5\" target=\"_blank\">US Supreme Court narrows scope of environmental review of major infrastructure projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JURIST Legal News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: US Supreme Court narrows scope of environmental review for major infrastructure projects, ruling that only direct effects need consideration.",
+        "type": "news"
     }
 ]
