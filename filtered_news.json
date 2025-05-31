@@ -2340,5 +2340,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Sempra Infrastructure secures key non-FTA export permit for Port Arthur LNG Phase 2, allowing exports to non-free trade agreement countries.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-05-31",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 U.S. \nConstruction sector expected to grow 15% in 2025, with green building practices keeping up the pace at 25%. \nIndustry leaders' aim: 80% of all new projects to be energy-efficient by 2030, putting the power back in the hands of consumers.",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
