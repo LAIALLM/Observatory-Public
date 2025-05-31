@@ -2348,5 +2348,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 U.S. \nConstruction sector expected to grow 15% in 2025, with green building practices keeping up the pace at 25%. \nIndustry leaders' aim: 80% of all new projects to be energy-efficient by 2030, putting the power back in the hands of consumers.",
         "type": "statistical",
         "category": "construction companies"
+    },
+    {
+        "link": null,
+        "date": "2025-05-31",
+        "status": "posted",
+        "tweet": "Summary: Solana has the lowest maintenance & security costs among Bitcoin, Ethereum, and Solana in 2025.\n\n1. Solana: $10M/year\n2. Ethereum: $50M/year\n3. Bitcoin: $100M/year",
+        "type": "crypto"
     }
 ]
