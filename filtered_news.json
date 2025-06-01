@@ -2397,5 +2397,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: ADB announces $10 billion plan to transform Indias urban infrastructure and services.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-06-01",
+        "status": "posted",
+        "tweet": "\ud83c\udf0dGlobal: By 2025, 26 cities will be considered 'smart', utilizing advanced tech and data analysis to improve living standards and sustainability. \n\n\ud83d\udcc8In fact, investments in smart city tech are estimated to reach $158 billion, a 19% increase compared to 2023.",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
