@@ -2523,5 +2523,25 @@
         "status": "posted",
         "tweet": "\ud83d\udcc8 In Q3 2021, Google's parent company \ud83c\uddfa\ud83c\uddf8Alphabet Inc. reported datacenter energy consumption of 10.9 TWh - that's roughly equivalent to the annual energy use of 1 million US homes. \n\nStock ticker: $GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUWc1dUpnWVlKeGJsNU5RU1BrQnpaSDdtRlhlcnVTOE1MN2FOQWJlTjJnZG5Za2VrY1pqeG9ZWnpraTVNTG5aVGF2c0xCYkp2dG4yTWkxYzk1elFCa0F3TlRxLVZ0WlM1bU1BMGJmMmIzOWQ3aGxyVTFjdzZWYkJlQWhSYmg2WFJaVWZtM3VlZnRXSzVNTnBoRnVLdDc1NGcwUGFjNlZZaXhhLUQzRHMzdllUamdDR1VIZGI40gHDAUFVX3lxTFBXaEp0NTNFaDhlOGluMmRVdlFJeTVGNlo1cEZlbWNyS3o0eGJvUXUzamsybUNEN0k2LS1ncGtvZXpTdEVQUDc5eHhZakRwSC0xRUhjTm45UWxnQ1VqQXdzRWZ5dVUyRjFwcjY3V3pxaUVfRjMtLW1UcUNLU0pmUjNuMWJiSWttV05sRXY4NEZNZ19KeWdhdGhRZm95aEc0R0lIcHZWLWFMeUV1ejBtSnpUT2JIejdFZGQ5TXVsU292R0pvVQ?oc=5",
+        "date": "2025-06-01",
+        "title": "Asian Development Bank Chief Pledges $10 Billion For India's Urban Infrastructure - NDTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUWc1dUpnWVlKeGJsNU5RU1BrQnpaSDdtRlhlcnVTOE1MN2FOQWJlTjJnZG5Za2VrY1pqeG9ZWnpraTVNTG5aVGF2c0xCYkp2dG4yTWkxYzk1elFCa0F3TlRxLVZ0WlM1bU1BMGJmMmIzOWQ3aGxyVTFjdzZWYkJlQWhSYmg2WFJaVWZtM3VlZnRXSzVNTnBoRnVLdDc1NGcwUGFjNlZZaXhhLUQzRHMzdllUamdDR1VIZGI40gHDAUFVX3lxTFBXaEp0NTNFaDhlOGluMmRVdlFJeTVGNlo1cEZlbWNyS3o0eGJvUXUzamsybUNEN0k2LS1ncGtvZXpTdEVQUDc5eHhZakRwSC0xRUhjTm45UWxnQ1VqQXdzRWZ5dVUyRjFwcjY3V3pxaUVfRjMtLW1UcUNLU0pmUjNuMWJiSWttV05sRXY4NEZNZ19KeWdhdGhRZm95aEc0R0lIcHZWLWFMeUV1ejBtSnpUT2JIejdFZGQ5TXVsU292R0pvVQ?oc=5\" target=\"_blank\">Asian Development Bank Chief Pledges $10 Billion For India's Urban Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWlhzTkd4WlgyRHFQTUozSVlxMTlaN1ZhRVdfOV9EYXplVUxYbVZaTmJlMU9DaTZUZDVDZ25BamtheUhpaVNOTFRNcjljTjBXNnlrQ2FkMGFaYlRjeWdDbDJrMGlwWVNMLVplcmk2WVNacGtDNmlGNDhjNUZDbElDb1VTb2dBYmFzQWQ4RzBMWjJoSXJweUtSSlk0OVAtZmVhbWlrcHpwYWgweW1taUFfWlJQOA?oc=5",
+        "date": "2025-06-01",
+        "title": "Do Tiranga Lights and a Polo View Walkthrough Make Srinagar a Smart City? - The Kashmir Images Newspaper",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOWlhzTkd4WlgyRHFQTUozSVlxMTlaN1ZhRVdfOV9EYXplVUxYbVZaTmJlMU9DaTZUZDVDZ25BamtheUhpaVNOTFRNcjljTjBXNnlrQ2FkMGFaYlRjeWdDbDJrMGlwWVNMLVplcmk2WVNacGtDNmlGNDhjNUZDbElDb1VTb2dBYmFzQWQ4RzBMWjJoSXJweUtSSlk0OVAtZmVhbWlrcHpwYWgweW1taUFfWlJQOA?oc=5\" target=\"_blank\">Do Tiranga Lights and a Polo View Walkthrough Make Srinagar a Smart City?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Kashmir Images Newspaper</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
