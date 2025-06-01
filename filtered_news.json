@@ -2486,5 +2486,42 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: PM Modi pledges $10 billion for Indias urban infrastructure in meeting with Asian Development Banks President Masato Janda.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZE45UXhCU1Q4aFctRDRSODFKd2RoUmtFVkU0YVlvSmR5Q3F0cklhcldfb2I2SzdaZDNEcjhXcHVxeUpsZnl2VEh2czNlLXFkTkhySVQ2clR3bDFSNmxKVmhkZWthaDc1YWJZT1o5aWxpckRuRl8xd1JYYlI4U2l1Vw?oc=5",
+        "date": "2025-06-01",
+        "title": "Patna Enhances Rail Infrastructure with New Terminal - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNZE45UXhCU1Q4aFctRDRSODFKd2RoUmtFVkU0YVlvSmR5Q3F0cklhcldfb2I2SzdaZDNEcjhXcHVxeUpsZnl2VEh2czNlLXFkTkhySVQ2clR3bDFSNmxKVmhkZWthaDc1YWJZT1o5aWxpckRuRl8xd1JYYlI4U2l1Vw?oc=5\" target=\"_blank\">Patna Enhances Rail Infrastructure with New Terminal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWnZySmRBdjZDdXNMcDBjOENZbjJhejVQblphNXA0Mlp1a2pxcHJDZjlUdlRreWJEMDZUXzZNWXJtUGRGQlRXNFRJb2hwQm4wNi11b0xKNVZfZ0R3bWlFX1F0NGNUM3htcEc4S1JNZEd1S3dERTQ5QzZoa25nNGszOXUwV2FmeUVOSFHSAYoBQVVfeXFMTlp2ckpkQXY2Q3VzTHAwYzhDWW4yYXo1UG5aYTVwNDJadWtqcXByQ2Y5VHZUa3liRDA2VF82TVlybVBkRkJUVzRUSW9ocEJuMDYtdW9MSjVWX2dEd21pRV9RdDRjVDN4bXBHOEtSTWRHdUt3REU0OUM2aGtuZzRrMzl1MFdhZnlFTkhR?oc=5",
+        "date": "2025-06-01",
+        "title": "AJP Slams 25 Years of Misrule Behind Guwahati Flood Crisis - Borok Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOWnZySmRBdjZDdXNMcDBjOENZbjJhejVQblphNXA0Mlp1a2pxcHJDZjlUdlRreWJEMDZUXzZNWXJtUGRGQlRXNFRJb2hwQm4wNi11b0xKNVZfZ0R3bWlFX1F0NGNUM3htcEc4S1JNZEd1S3dERTQ5QzZoa25nNGszOXUwV2FmeUVOSFHSAYoBQVVfeXFMTlp2ckpkQXY2Q3VzTHAwYzhDWW4yYXo1UG5aYTVwNDJadWtqcXByQ2Y5VHZUa3liRDA2VF82TVlybVBkRkJUVzRUSW9ocEJuMDYtdW9MSjVWX2dEd21pRV9RdDRjVDN4bXBHOEtSTWRHdUt3REU0OUM2aGtuZzRrMzl1MFdhZnlFTkhR?oc=5\" target=\"_blank\">AJP Slams 25 Years of Misrule Behind Guwahati Flood Crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Borok Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObkxwWERwSVNSR0NCcG13dGdLTktWX0UxWFVOcFVLankteFBhbHNhZUVySEcyYjlXSDJtNUNwLVZFX19zblRCc0NJWGtXTTNPZE5GdnhzMkJ2T2NmOThvMEFvVHJuMG1wMmtITU9aTy1zakZ5LThJYUF5NE5oSFpBVkR6bTNpTm1obU52UzZ4dExYRTdCRmU0dW5scGZXdw?oc=5",
+        "date": "2025-06-01",
+        "title": "J&K\u2019s Urban Shift: How Smart Cities Are Reshaping Daily Life - Kashmir Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObkxwWERwSVNSR0NCcG13dGdLTktWX0UxWFVOcFVLankteFBhbHNhZUVySEcyYjlXSDJtNUNwLVZFX19zblRCc0NJWGtXTTNPZE5GdnhzMkJ2T2NmOThvMEFvVHJuMG1wMmtITU9aTy1zakZ5LThJYUF5NE5oSFpBVkR6bTNpTm1obU52UzZ4dExYRTdCRmU0dW5scGZXdw?oc=5\" target=\"_blank\">J&amp;K\u2019s Urban Shift: How Smart Cities Are Reshaping Daily Life</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kashmir Observer</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-01",
+        "status": "posted",
+        "tweet": "\ud83d\udcc8 In Q3 2021, Google's parent company \ud83c\uddfa\ud83c\uddf8Alphabet Inc. reported datacenter energy consumption of 10.9 TWh - that's roughly equivalent to the annual energy use of 1 million US homes. \n\nStock ticker: $GOOGL",
+        "type": "infrastructure"
     }
 ]
