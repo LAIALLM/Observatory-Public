@@ -2467,5 +2467,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: PMRDA starts acquiring land for 150 new roads and reserved plots to boost infrastructure.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-06-02",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 By 2030, Bitcoin mining's energy consumption could surpass that of the entire country, prompting stricter government regulations on crypto infrastructure.\n\n\ud83c\uddea\ud83c\uddfa Ethereum's transition to Proof of Stake is projected to reduce its energy use by 99.95%, potentially easing regulatory",
+        "type": "crypto"
     }
 ]
