@@ -2806,5 +2806,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: RITES Ltd partners with Shree Cement to enhance rail infrastructure for sustainable logistics.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-06-02",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 USA expected to spend $612 billion on engineering projects by 2027, a 35% increase compared to 2025. \n\nWhile \ud83c\udde8\ud83c\uddf3 China's projected spending is $1.2 trillion, nearly double that of the USA.",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
