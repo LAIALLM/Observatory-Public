@@ -2601,5 +2601,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 USA expected to spend $612 billion on engineering projects by 2027, a 35% increase compared to 2025. \n\nWhile \ud83c\udde8\ud83c\uddf3 China's projected spending is $1.2 trillion, nearly double that of the USA.",
         "type": "statistical",
         "category": "engineering projects"
+    },
+    {
+        "link": null,
+        "date": "2025-06-03",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Google: Producing an average of 260 petabytes of data daily in Q4 2021. This represents a 15% increase from Q3. Energy efficiency? Up by 8% to 1.3 watts per GB. $GOOGL",
+        "type": "infrastructure"
     }
 ]
