@@ -2608,5 +2608,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Google: Producing an average of 260 petabytes of data daily in Q4 2021. This represents a 15% increase from Q3. Energy efficiency? Up by 8% to 1.3 watts per GB. $GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-06-03",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's validator decentralization remains limited with only 10 key pools controlling over 50% of the network.\n\nEthereum, with over 600,000 validators across 100+ countries, showcases significantly higher decentralization and resilience.",
+        "type": "crypto"
     }
 ]
