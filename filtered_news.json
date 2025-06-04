@@ -2740,5 +2740,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft $MSFT \nYear-on-Year Revenue Growth: \nQ1 2021: 12% increase, reaching $37.2bn. \nCloud business Azure responsible for 47% of revenue, up 48% from previous year.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-06-04",
+        "status": "posted",
+        "tweet": "By 2025, Bitcoin's network scalability costs are projected to exceed $10 billion annually, surpassing the annual GDP of \ud83c\udde7\ud83c\uddff Belize.",
+        "type": "crypto"
     }
 ]
