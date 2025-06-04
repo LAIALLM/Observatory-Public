@@ -2747,5 +2747,13 @@
         "status": "posted",
         "tweet": "By 2025, Bitcoin's network scalability costs are projected to exceed $10 billion annually, surpassing the annual GDP of \ud83c\udde7\ud83c\uddff Belize.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-06-04",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global urban development firms are poised for unprecedented growth. \nIn 2025, projected investment in smart city initiatives is estimated to hit $158B, a 22% increase from 2023. \nThis surge in investment will likely mean more sustainable and tech-integrated urban spaces.",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
