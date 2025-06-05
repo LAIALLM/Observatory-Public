@@ -3173,5 +3173,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8Apple $AAPL \nQ2 2021 Data: \n- 75% increase in annual energy output.\n- 5.1 million metric tons of carbon emissions eliminated.\n- Now powering 100% of facilities with renewable energy.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-06-05",
+        "status": "posted",
+        "tweet": "Summary: Top 5 nations leading in engineering projects by investment in 2025.\n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddfa\ud83c\uddf8 United States\n3. \ud83c\uddef\ud83c\uddf5 Japan\n4. \ud83c\udde9\ud83c\uddea Germany\n5. \ud83c\uddee\ud83c\uddf3 India",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
