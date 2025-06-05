@@ -3181,5 +3181,25 @@
         "tweet": "Summary: Top 5 nations leading in engineering projects by investment in 2025.\n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddfa\ud83c\uddf8 United States\n3. \ud83c\uddef\ud83c\uddf5 Japan\n4. \ud83c\udde9\ud83c\uddea Germany\n5. \ud83c\uddee\ud83c\uddf3 India",
         "type": "statistical",
         "category": "engineering projects"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rSDFhNHd4N2NRcjQ0eGhCZHR3VzNncENnTEFLV3NDZUMxUTdLanIxMnFHZG1tQ18wc3FFMWx1SlFwRzlqX2dzdnJsNE1UbmN6cGQ4UXUzTHNicVpXdi1Gd1p4VmRld2Zo?oc=5",
+        "date": "2025-06-05",
+        "title": "Two construction workers killed in Florida crane collapse: The latest victims of America\u2019s industrial slaughterhouse - World Socialist Web Site",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rSDFhNHd4N2NRcjQ0eGhCZHR3VzNncENnTEFLV3NDZUMxUTdLanIxMnFHZG1tQ18wc3FFMWx1SlFwRzlqX2dzdnJsNE1UbmN6cGQ4UXUzTHNicVpXdi1Gd1p4VmRld2Zo?oc=5\" target=\"_blank\">Two construction workers killed in Florida crane collapse: The latest victims of America\u2019s industrial slaughterhouse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">World Socialist Web Site</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNUxJUjM0TE5NQlZURHRwbFJOYkRvbEVmZUlZNkxqLXV2bW1qRzFGYkNlWDVPX05iaUtqaGNKU3ZwaU4yanFCMGR2WE4tbkNrZGlPZWo0WncwcEFhUXRRdzNIMjFQZ1ptY3ZGbEdiTy1adGQ1VHdOVDRKaXJqeVpwdHlUT1ZxN0NZTmo3QW41VElPcG1qdDN5RUFWaFlrUXE1YkRSc0MtUTFEOHhfUHJXWg?oc=5",
+        "date": "2025-06-05",
+        "title": "Amazon to invest $10B in North Carolina to expand cloud, AI infrastructure - Communications Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQNUxJUjM0TE5NQlZURHRwbFJOYkRvbEVmZUlZNkxqLXV2bW1qRzFGYkNlWDVPX05iaUtqaGNKU3ZwaU4yanFCMGR2WE4tbkNrZGlPZWo0WncwcEFhUXRRdzNIMjFQZ1ptY3ZGbEdiTy1adGQ1VHdOVDRKaXJqeVpwdHlUT1ZxN0NZTmo3QW41VElPcG1qdDN5RUFWaFlrUXE1YkRSc0MtUTFEOHhfUHJXWg?oc=5\" target=\"_blank\">Amazon to invest $10B in North Carolina to expand cloud, AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications Today</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
