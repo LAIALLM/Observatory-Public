@@ -1,129 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-05-26",
-        "status": "posted",
-        "tweet": "\ud83c\udf10 Microsoft \ud83c\uddfa\ud83c\uddf8: Cloud services usage surge by 775% in Q2 2020, compared to Q1 2020. \n\nData centers energy efficiency: PUE 1.125 \ud83c\udf3f\n$MSFT",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2025-05-26",
-        "status": "posted",
-        "tweet": "In 2025, Bitcoin's annual cloud and data center costs reach $1.5 billion, compared to Ethereum's $800 million. \n\nBitcoin's infrastructure spans over 100 countries, with major hubs in  flag:US USA,  flag:CN China, and  flag:DE Germany. \n\nEthereum's operations are more concentrated",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2025-05-26",
-        "status": "posted",
-        "tweet": "\ud83c\udf0d Global urban development firms are set for rapid expansion. \nAccording to 2025 projections, urbanization rates are skyrocketing, with an estimated 68% of the world population anticipated to be living in urban areas by 2050. \nSeize the growth!",
-        "type": "statistical",
-        "category": "urban development firms"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaVUwMUozNzd3aWhBdXZNMHg3dmhXekE4SXFnSVdsdmVwOS11VzViRVloT28zZUhxZGVHd05zVDltWFl5SlBCRXZvSzhnSzByb3JQNS13MkRTV2ZqbGU5RnpPeHVWWmpINzhoQTg0bTItQVNockZWbTNybFlqS2FhVEpsTDRMMWZVT1VoMTM0Z05ad1hMM0NXSi1MdVRqams?oc=5",
-        "date": "2025-05-26",
-        "title": "Residential construction strike confirmed by Alliance - CTV News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPaVUwMUozNzd3aWhBdXZNMHg3dmhXekE4SXFnSVdsdmVwOS11VzViRVloT28zZUhxZGVHd05zVDltWFl5SlBCRXZvSzhnSzByb3JQNS13MkRTV2ZqbGU5RnpPeHVWWmpINzhoQTg0bTItQVNockZWbTNybFlqS2FhVEpsTDRMMWZVT1VoMTM0Z05ad1hMM0NXSi1MdVRqams?oc=5\" target=\"_blank\">Residential construction strike confirmed by Alliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX3h6ZUNjZUJxcF9VUjdGbExnWktkVV9YeTU5ek0zMW1TdFlaNEd6Nl9iQnVvVUc5UWdpSFViZXY1VWNBZnhmQUNFSS0tQTA0Qm0yZXVFZTRPd3ZNMnRTb094ckZTYmlzcmFrSEh4T3h6SmtEMXRYN0s5OXplM2hfWDVFSms0ZDZ1MjdudVhwUWd4X2RMZktWYw?oc=5",
-        "date": "2025-05-26",
-        "title": "Odisha CM Meets Railway Minister to Boost State\u2019s Rail Infrastructure - pragativadi.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQX3h6ZUNjZUJxcF9VUjdGbExnWktkVV9YeTU5ek0zMW1TdFlaNEd6Nl9iQnVvVUc5UWdpSFViZXY1VWNBZnhmQUNFSS0tQTA0Qm0yZXVFZTRPd3ZNMnRTb094ckZTYmlzcmFrSEh4T3h6SmtEMXRYN0s5OXplM2hfWDVFSms0ZDZ1MjdudVhwUWd4X2RMZktWYw?oc=5\" target=\"_blank\">Odisha CM Meets Railway Minister to Boost State\u2019s Rail Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pragativadi.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVhDbXNKMkluOHNPUGpUbDg2NGw5Q1Znb2NaZkZHYUVZMzlZVElYbHNWa1BEa3NQTUtCWXdONHNIZTlEZ2FwbWVkc0xCeHR0WnBVRmdpMkxYQ3U2aFhzTWsxTXNTVEswemZ4d1pCT0NwT3E1RlpJNnYwaG1manBvcnJSYlhqWXpITG9hdGJqTm9XV2JaUFpwalBpcXhxNWVXUFdNUA?oc=5",
-        "date": "2025-05-26",
-        "title": "Why Fintech Growth Still Depends on Physical Infrastructure: By Denys Boiko - Finextra Research",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVhDbXNKMkluOHNPUGpUbDg2NGw5Q1Znb2NaZkZHYUVZMzlZVElYbHNWa1BEa3NQTUtCWXdONHNIZTlEZ2FwbWVkc0xCeHR0WnBVRmdpMkxYQ3U2aFhzTWsxTXNTVEswemZ4d1pCT0NwT3E1RlpJNnYwaG1manBvcnJSYlhqWXpITG9hdGJqTm9XV2JaUFpwalBpcXhxNWVXUFdNUA?oc=5\" target=\"_blank\">Why Fintech Growth Still Depends on Physical Infrastructure: By Denys Boiko</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finextra Research</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUlENkJUcjdlaFV2ZVAxY05Hc0RKOEl3bC1PeTNCX2FIVXZIU1BfcXlVb184UVlLX0tGMEpXb3hQYjFwRnRER1JQSnhVai1YRXhIejVRb2xoWHF3NW5SNmJBYzFaUGFISU5JeVA2STF3OElSdEFoZmxJVnRCeExJOFVwbmoyVzdMS1pIQmJDQzkwN3hfNFFXclJDcTNHUnYxTGNKZ2xZYjA3dWwwcE1xNkxhYS1iTm5JNjFfMWZidTgtLWfSAcgBQVVfeXFMT3lXUGVBMWdQd0h2eEF0UWk2OWhGX2RFMTZMRlRFY3RndXpaWlJTc1FUS3VuUmFiS05DLTdCMkZqQ193OWl0ZmpFdW5Xc2dnNWJMV1o3aENBeE9Nc0xteUZuekxPM1I3Z3ZaYjMtV1RsQVVJTEE2SmpxVFRUVTBycWUwNS10STN3NTlOSU5zLXhjNkJpaXdHa1ozTV9WNnBOLUF1TE52LWo2MVlaTG9zSXhSSVZHc0tfWFBEUGk5NDYzY2RvZ0tScC0?oc=5",
-        "date": "2025-05-26",
-        "title": "Reliance Infrastructure Turns Profitable With \u20b94,387 Crore Net Profit In March Quarter - Free Press Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUlENkJUcjdlaFV2ZVAxY05Hc0RKOEl3bC1PeTNCX2FIVXZIU1BfcXlVb184UVlLX0tGMEpXb3hQYjFwRnRER1JQSnhVai1YRXhIejVRb2xoWHF3NW5SNmJBYzFaUGFISU5JeVA2STF3OElSdEFoZmxJVnRCeExJOFVwbmoyVzdMS1pIQmJDQzkwN3hfNFFXclJDcTNHUnYxTGNKZ2xZYjA3dWwwcE1xNkxhYS1iTm5JNjFfMWZidTgtLWfSAcgBQVVfeXFMT3lXUGVBMWdQd0h2eEF0UWk2OWhGX2RFMTZMRlRFY3RndXpaWlJTc1FUS3VuUmFiS05DLTdCMkZqQ193OWl0ZmpFdW5Xc2dnNWJMV1o3aENBeE9Nc0xteUZuekxPM1I3Z3ZaYjMtV1RsQVVJTEE2SmpxVFRUVTBycWUwNS10STN3NTlOSU5zLXhjNkJpaXdHa1ozTV9WNnBOLUF1TE52LWo2MVlaTG9zSXhSSVZHc0tfWFBEUGk5NDYzY2RvZ0tScC0?oc=5\" target=\"_blank\">Reliance Infrastructure Turns Profitable With \u20b94,387 Crore Net Profit In March Quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Free Press Journal</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS2dsUEZ6Rm9BZ3NCSUYtWWdodTl2Z1pfanJIb2VBUE9BVFVBOEhQMEFqdXl5Qk0zVlZQNmNUWS1qRXFNVnFfNXpZb0dPWkJEUndiWWhKY05QbkVSUEhYVjlrVnpBdHlpT2lwcFZMNk1yeDYwM0pTVW84UnFYUkt1bW1HMFdOeDU0cnJVNm1aNi02em1Yd3pFZnQ4SmRhSjJ3dFFORXQ1RGNWUVRUY094R3pkUk5UVldEVUhNXy1fWF93R2xGZUFSQTZPcm0?oc=5",
-        "date": "2025-05-26",
-        "title": "Petroleum Minister inspects LNG infrastructure in Ain Sokhna ahead of summer demand surge - Dailynewsegypt",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPS2dsUEZ6Rm9BZ3NCSUYtWWdodTl2Z1pfanJIb2VBUE9BVFVBOEhQMEFqdXl5Qk0zVlZQNmNUWS1qRXFNVnFfNXpZb0dPWkJEUndiWWhKY05QbkVSUEhYVjlrVnpBdHlpT2lwcFZMNk1yeDYwM0pTVW84UnFYUkt1bW1HMFdOeDU0cnJVNm1aNi02em1Yd3pFZnQ4SmRhSjJ3dFFORXQ1RGNWUVRUY094R3pkUk5UVldEVUhNXy1fWF93R2xGZUFSQTZPcm0?oc=5\" target=\"_blank\">Petroleum Minister inspects LNG infrastructure in Ain Sokhna ahead of summer demand surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dailynewsegypt</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR1pqQWU1Tk10bjFrR3pXcVRySk5sck1ta3FzZ2t3WnFBLWl1NFdLMHJwcGNMTzBWemprT09wNTdYYnJJMld6aDFvNHltTm55SmxwUHZPSUtLM2xid2hXSFc1cEt6VFJPMG1iR3l3T1lhdmh3M2FfSWVEXzJMMnVQaTh5a3ZkWTRVZEY1QVZSMHlRUzgyX3dWNUI5T1A0blZldGdsRFdMSWd3eml1N0JEZWR3SERsM2tXR09WSzlhR19FNWN5OE16clRBY2xQOXV4RzhVQVRwVzVFRE9RZzhF?oc=5",
-        "date": "2025-05-26",
-        "title": "Gujarat government approves Vapi's first-ever town planning scheme for streamlined development - Prop News Time",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR1pqQWU1Tk10bjFrR3pXcVRySk5sck1ta3FzZ2t3WnFBLWl1NFdLMHJwcGNMTzBWemprT09wNTdYYnJJMld6aDFvNHltTm55SmxwUHZPSUtLM2xid2hXSFc1cEt6VFJPMG1iR3l3T1lhdmh3M2FfSWVEXzJMMnVQaTh5a3ZkWTRVZEY1QVZSMHlRUzgyX3dWNUI5T1A0blZldGdsRFdMSWd3eml1N0JEZWR3SERsM2tXR09WSzlhR19FNWN5OE16clRBY2xQOXV4RzhVQVRwVzVFRE9RZzhF?oc=5\" target=\"_blank\">Gujarat government approves Vapi's first-ever town planning scheme for streamlined development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prop News Time</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWmRnalE3ZjR2Y0FoUzBPd3FoV3Y3YlR3d3BDdUZ5TzhsUHh2YkJRRy1IYjVLSWtHdUZXM0ZHcjlocWhIU3l6UnNVWldnRHJ4bWVZUThPWC1PUnBQNzJSZDAwcXNUZFB0MTZ0NFhyV3ZBdG41YWJLdkxNSEt0Tk5fU3JjWWlDbHBoX3Y0Y1ZhZUF1N0cwWjR1MTRkRTdFc3YyMUJrNHRUclB1OUQxQzhqbVJhaWpXWE5ZcUE?oc=5",
-        "date": "2025-05-26",
-        "title": "Students get a taste of construction industry with 21st annual Project Heavy Duty - Energeticcity",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPWmRnalE3ZjR2Y0FoUzBPd3FoV3Y3YlR3d3BDdUZ5TzhsUHh2YkJRRy1IYjVLSWtHdUZXM0ZHcjlocWhIU3l6UnNVWldnRHJ4bWVZUThPWC1PUnBQNzJSZDAwcXNUZFB0MTZ0NFhyV3ZBdG41YWJLdkxNSEt0Tk5fU3JjWWlDbHBoX3Y0Y1ZhZUF1N0cwWjR1MTRkRTdFc3YyMUJrNHRUclB1OUQxQzhqbVJhaWpXWE5ZcUE?oc=5\" target=\"_blank\">Students get a taste of construction industry with 21st annual Project Heavy Duty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energeticcity</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWJfaEVSWmgxWDNDZnlyZVlUS05OX3A1dVZORmlINXRKNXVIMlhMbU1MTF8tVWlRaEc2QS1KY1A3bkpwUHFYY0J2RU01OGNVREQ3NlFkQlRDUjNFVTljU2E1LUdPX2h1SHRrQzBTVFkzOWx6a0lhVkxCV055WTJXQzdkRjRXc1k?oc=5",
-        "date": "2025-05-26",
-        "title": "US$1.7bn to boost California highway infrastructure - Global Highways",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWJfaEVSWmgxWDNDZnlyZVlUS05OX3A1dVZORmlINXRKNXVIMlhMbU1MTF8tVWlRaEc2QS1KY1A3bkpwUHFYY0J2RU01OGNVREQ3NlFkQlRDUjNFVTljU2E1LUdPX2h1SHRrQzBTVFkzOWx6a0lhVkxCV055WTJXQzdkRjRXc1k?oc=5\" target=\"_blank\">US$1.7bn to boost California highway infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Highways</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: US$1.7bn to boost California highway infrastructure, focusing on the repair and replacement of aging bridges."
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmVjQWppaUxzd2JlVkhuR3AwMmswRUt2OHZUemVzWm5iYVk0M0FSUS1FTlA3aTBaLUhqVVdTY2hfTTREaEhreTMwckpvQTZsM0R6cTQyczUxRkkyVXctZHl6OTZKQklVUVF6SEZqQ0tXcmQ5S21XTkNaY2NINW1jV2pQVmpQRjRBY0tCUm5wR3dDSnh2dnFCczJLTnF5Y2NFekdzcWdzNHE3OE1EdWU4U1RtSi1sa1dQam9nWG9QMA?oc=5",
-        "date": "2025-05-26",
-        "title": "Dahod: PM Modi Inaugurates development projects under the Smart City Mission #Gallery - Social News XYZ",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmVjQWppaUxzd2JlVkhuR3AwMmswRUt2OHZUemVzWm5iYVk0M0FSUS1FTlA3aTBaLUhqVVdTY2hfTTREaEhreTMwckpvQTZsM0R6cTQyczUxRkkyVXctZHl6OTZKQklVUVF6SEZqQ0tXcmQ5S21XTkNaY2NINW1jV2pQVmpQRjRBY0tCUm5wR3dDSnh2dnFCczJLTnF5Y2NFekdzcWdzNHE3OE1EdWU4U1RtSi1sa1dQam9nWG9QMA?oc=5\" target=\"_blank\">Dahod: PM Modi Inaugurates development projects under the Smart City Mission #Gallery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Social News XYZ</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWJfaEVSWmgxWDNDZnlyZVlUS05OX3A1dVZORmlINXRKNXVIMlhMbU1MTF8tVWlRaEc2QS1KY1A3bkpwUHFYY0J2RU01OGNVREQ3NlFkQlRDUjNFVTljU2E1LUdPX2h1SHRrQzBTVFkzOWx6a0lhVkxCV055WTJXQzdkRjRXc1k?oc=5",
-        "date": "2025-05-26",
-        "title": "US$1.7bn to boost California highway infrastructure - Global Highways",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNNWJfaEVSWmgxWDNDZnlyZVlUS05OX3A1dVZORmlINXRKNXVIMlhMbU1MTF8tVWlRaEc2QS1KY1A3bkpwUHFYY0J2RU01OGNVREQ3NlFkQlRDUjNFVTljU2E1LUdPX2h1SHRrQzBTVFkzOWx6a0lhVkxCV055WTJXQzdkRjRXc1k?oc=5\" target=\"_blank\">US$1.7bn to boost California highway infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Highways</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: US$1.7bn to boost California highway infrastructure, focusing on expanding and repairing key routes.",
-        "type": "news"
-    },
-    {
-        "link": null,
         "date": "2025-05-27",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple's annual energy consumption: \n2019 - 77.8M GigaJoules,\n2020 - 68.5M GigaJoules. \nDown 11.9%. \n$APPL \ud83c\udf4f\ud83c\udf0d",
@@ -3289,5 +3166,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon to invest $10 billion in North Carolina for AI infrastructure expansion",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-06-05",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8Apple $AAPL \nQ2 2021 Data: \n- 75% increase in annual energy output.\n- 5.1 million metric tons of carbon emissions eliminated.\n- Now powering 100% of facilities with renewable energy.",
+        "type": "infrastructure"
     }
 ]
