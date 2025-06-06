@@ -3534,5 +3534,12 @@
         "status": "posted",
         "tweet": "In 2025, Bitcoin's network scalability costs reached $1.2 billion annually, significantly higher than Ethereum's $300 million. \n\nBTC's cost per transaction is $60, compared to ETH's $0.50, highlighting Ethereum's superior scalability efficiency.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-06-06",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Google's data center in Oregon consumed 900,000 MWh of electricity in 2020. \nOut of this, 62% was renewable energy.\n$GOOG",
+        "type": "infrastructure"
     }
 ]
