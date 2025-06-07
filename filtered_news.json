@@ -3611,5 +3611,77 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf3 UN: By 2050, 68% of the world's population will reside in urban areas. That's an increase of approximately 2.5 billion urban dwellers from 2025. Rapid urbanization calls for sustainable city planning and management.",
         "type": "statistical",
         "category": "cities"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONjB5eE9QWEl2U04wb0lRcFNsQ1JUcDE5dW4zWlYwenNGeHBoNkNEWmFRUFhLT0dZMGZISlVpSlBZemR1M1k2SFc0WnFfUERKSWdQaklWeTcyQ19GOWVoNVRINzdwRFZIMnVnNnZYSUVMNkR3R0ZPcXZGX2hsd1BkYzFDU3pELXFXMF9xUldzM2w2S0RXSDRTQmc2dDNfN1NMbUNZUw?oc=5",
+        "date": "2025-06-07",
+        "title": "Japan approves 20 trillion yen plan for disaster-resilient infrastructure - Public TV English",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONjB5eE9QWEl2U04wb0lRcFNsQ1JUcDE5dW4zWlYwenNGeHBoNkNEWmFRUFhLT0dZMGZISlVpSlBZemR1M1k2SFc0WnFfUERKSWdQaklWeTcyQ19GOWVoNVRINzdwRFZIMnVnNnZYSUVMNkR3R0ZPcXZGX2hsd1BkYzFDU3pELXFXMF9xUldzM2w2S0RXSDRTQmc2dDNfN1NMbUNZUw?oc=5\" target=\"_blank\">Japan approves 20 trillion yen plan for disaster-resilient infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Public TV English</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddef\ud83c\uddf5 NEWS: Japan approves 20 trillion yen plan for disaster-resilient infrastructure, focusing on enhancing the resilience of roads and ports."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa1JCNVlGTnFxeUViWEZKZWN2Tnl0ZDlLZ0Z4SzhJeEFWanFHQVo4NU1PbDdqM3ZDeS0taDNLTkpWaW4yanRDMU9FQV9pRUtuMzBzeEZFbHpKN0tOaEtDZWpoMk5DMHprSXotejItTG5UdXpPV2pQbTBRZzBlajVmTFpkV2RhLXF4MUpPaFAxTmRWSFBqcDBOMnZET1RNN3AyNzgyaktMOV84UExqZXl3WWlYWTA0aHM?oc=5",
+        "date": "2025-06-07",
+        "title": "India\u2019s Aviation Future Takes Flight: Leaders Reimagine Infrastructure for Viksit Bharat 2047 - APN News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQa1JCNVlGTnFxeUViWEZKZWN2Tnl0ZDlLZ0Z4SzhJeEFWanFHQVo4NU1PbDdqM3ZDeS0taDNLTkpWaW4yanRDMU9FQV9pRUtuMzBzeEZFbHpKN0tOaEtDZWpoMk5DMHprSXotejItTG5UdXpPV2pQbTBRZzBlajVmTFpkV2RhLXF4MUpPaFAxTmRWSFBqcDBOMnZET1RNN3AyNzgyaktMOV84UExqZXl3WWlYWTA0aHM?oc=5\" target=\"_blank\">India\u2019s Aviation Future Takes Flight: Leaders Reimagine Infrastructure for Viksit Bharat 2047</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">APN News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5tLTF0YWVvSlZrSGM0cWNMd2hpalpMczNpNG53LXB5WHZUZ1EyZTVnVEVsdVJXLUJYVGFZNmhoQlJIZ3M?oc=5",
+        "date": "2025-06-07",
+        "title": "MLA TAKES STOCK OF SIOLIM\u2019S INFRASTRUCTURE DEVELOPMENT - Aiz Goa News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5tLTF0YWVvSlZrSGM0cWNMd2hpalpMczNpNG53LXB5WHZUZ1EyZTVnVEVsdVJXLUJYVGFZNmhoQlJIZ3M?oc=5\" target=\"_blank\">MLA TAKES STOCK OF SIOLIM\u2019S INFRASTRUCTURE DEVELOPMENT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aiz Goa News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZnBiZGNqWklMdXNEYTlTLUIyZ0FURmZiaHZTTlQ1UmwwUEd5RE1LR3lLU1lpOFRNRXpvWFl1SlpueVAwb2NOeVpHVFQxSnFjcWJEbzJBclA4ZFk5LUZ4SHNKSENzVGpBWGtzWUE0ZWdYb01OS0ZXTlN5UjJneG1FUE1tUlI0cTRobUI4anNtV2JKU0RRb1p6REZzNU9qbDZPVE5XR215UHZVd21aYmhQek1fM204S0I1MkpGcXJXSHhjRjJPS3EwYVhvVGl3MXU3TFFhUE5BVkZQbWvSAegBQVVfeXFMUHR2ZVVxQTBuR1lxV0w4X1Ric3ozaDU1VzZDNmpCclRCZVQwb2ZBVWZ1RkMyUHNYdjFuZTJfTmpBeTZQT2wtbnByUnJCdll1SS01YlNDck5VQlp0eWJtR21fcjFIVUo0QUNWRlVJNWZ4ZHRyWGFPbWRlV0VQei1ZMGwyT3lCS3RfQlhmYjFDRm14cXZvSWtzUjZ2My1aVU1KLTR3U3A4eEpPd05uZG1NYVJYSk1vY0x6TjRNenBNcDg0d1JzSkp0RTdkb2s3UUZKX2ZhMlppdHdZUEM4NTc2MUNicmlaS1A5cw?oc=5",
+        "date": "2025-06-07",
+        "title": "India takes the lead in tackling extreme heat risks, says PM\u2019s Principal Secretary at UN meet - The New Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZnBiZGNqWklMdXNEYTlTLUIyZ0FURmZiaHZTTlQ1UmwwUEd5RE1LR3lLU1lpOFRNRXpvWFl1SlpueVAwb2NOeVpHVFQxSnFjcWJEbzJBclA4ZFk5LUZ4SHNKSENzVGpBWGtzWUE0ZWdYb01OS0ZXTlN5UjJneG1FUE1tUlI0cTRobUI4anNtV2JKU0RRb1p6REZzNU9qbDZPVE5XR215UHZVd21aYmhQek1fM204S0I1MkpGcXJXSHhjRjJPS3EwYVhvVGl3MXU3TFFhUE5BVkZQbWvSAegBQVVfeXFMUHR2ZVVxQTBuR1lxV0w4X1Ric3ozaDU1VzZDNmpCclRCZVQwb2ZBVWZ1RkMyUHNYdjFuZTJfTmpBeTZQT2wtbnByUnJCdll1SS01YlNDck5VQlp0eWJtR21fcjFIVUo0QUNWRlVJNWZ4ZHRyWGFPbWRlV0VQei1ZMGwyT3lCS3RfQlhmYjFDRm14cXZvSWtzUjZ2My1aVU1KLTR3U3A4eEpPd05uZG1NYVJYSk1vY0x6TjRNenBNcDg0d1JzSkp0RTdkb2s3UUZKX2ZhMlppdHdZUEM4NTc2MUNicmlaS1A5cw?oc=5\" target=\"_blank\">India takes the lead in tackling extreme heat risks, says PM\u2019s Principal Secretary at UN meet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDJlZXQyQnJBYkNIbndyMkliTmxLbFBxTFV2NF9NSmNSVGtEQV94ZDFEbnJzOGtpSDhrUE1FRmpxZnVlcDZKU2FlNVhKYWw4WjNUaVloLTdQYTc5c0NhcWFYUTUxUmRycEVuX3BobUdpVEZTMTVud0JTWFVJajN1UVJoRjdEX3FIaVFRdQ?oc=5",
+        "date": "2025-06-07",
+        "title": "Noida Yeida Secures 5200 Acres for Airport-Linked Development - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDJlZXQyQnJBYkNIbndyMkliTmxLbFBxTFV2NF9NSmNSVGtEQV94ZDFEbnJzOGtpSDhrUE1FRmpxZnVlcDZKU2FlNVhKYWw4WjNUaVloLTdQYTc5c0NhcWFYUTUxUmRycEVuX3BobUdpVEZTMTVud0JTWFVJajN1UVJoRjdEX3FIaVFRdQ?oc=5\" target=\"_blank\">Noida Yeida Secures 5200 Acres for Airport-Linked Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Noida Yeida secures 5200 acres for airport-linked development, aiming to boost regional connectivity."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONjB5eE9QWEl2U04wb0lRcFNsQ1JUcDE5dW4zWlYwenNGeHBoNkNEWmFRUFhLT0dZMGZISlVpSlBZemR1M1k2SFc0WnFfUERKSWdQaklWeTcyQ19GOWVoNVRINzdwRFZIMnVnNnZYSUVMNkR3R0ZPcXZGX2hsd1BkYzFDU3pELXFXMF9xUldzM2w2S0RXSDRTQmc2dDNfN1NMbUNZUw?oc=5",
+        "date": "2025-06-07",
+        "title": "Japan approves 20 trillion yen plan for disaster-resilient infrastructure - Public TV English",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONjB5eE9QWEl2U04wb0lRcFNsQ1JUcDE5dW4zWlYwenNGeHBoNkNEWmFRUFhLT0dZMGZISlVpSlBZemR1M1k2SFc0WnFfUERKSWdQaklWeTcyQ19GOWVoNVRINzdwRFZIMnVnNnZYSUVMNkR3R0ZPcXZGX2hsd1BkYzFDU3pELXFXMF9xUldzM2w2S0RXSDRTQmc2dDNfN1NMbUNZUw?oc=5\" target=\"_blank\">Japan approves 20 trillion yen plan for disaster-resilient infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Public TV English</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddef\ud83c\uddf5 NEWS: Japan approves 20 trillion yen plan for disaster-resilient infrastructure, aiming to enhance the nations ability to withstand natural disasters.",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDJlZXQyQnJBYkNIbndyMkliTmxLbFBxTFV2NF9NSmNSVGtEQV94ZDFEbnJzOGtpSDhrUE1FRmpxZnVlcDZKU2FlNVhKYWw4WjNUaVloLTdQYTc5c0NhcWFYUTUxUmRycEVuX3BobUdpVEZTMTVud0JTWFVJajN1UVJoRjdEX3FIaVFRdQ?oc=5",
+        "date": "2025-06-07",
+        "title": "Noida Yeida Secures 5200 Acres for Airport-Linked Development - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDJlZXQyQnJBYkNIbndyMkliTmxLbFBxTFV2NF9NSmNSVGtEQV94ZDFEbnJzOGtpSDhrUE1FRmpxZnVlcDZKU2FlNVhKYWw4WjNUaVloLTdQYTc5c0NhcWFYUTUxUmRycEVuX3BobUdpVEZTMTVud0JTWFVJajN1UVJoRjdEX3FIaVFRdQ?oc=5\" target=\"_blank\">Noida Yeida Secures 5200 Acres for Airport-Linked Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Noida Yeida secures 5200 acres for airport-linked development, aiming to boost regional connectivity.",
+        "type": "news"
     }
 ]
