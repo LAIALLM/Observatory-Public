@@ -3545,5 +3545,12 @@
         "tweet": "Summary: Asia dominates the top 5 cities with the highest projected construction projects by 2025.\n\n\ud83c\udde8\ud83c\uddf3 Shanghai\n\ud83c\uddee\ud83c\uddf3 Mumbai\n\ud83c\udde8\ud83c\uddf3 Beijing\n\ud83c\uddf8\ud83c\udde6 Riyadh\n\ud83c\udde6\ud83c\uddea Dubai",
         "type": "statistical",
         "category": "construction projects"
+    },
+    {
+        "link": null,
+        "date": "2025-06-07",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Silicon Valley-based tech company, Alphabet Inc. ($GOOGL), processed 3.5 billion searches per day in 2021. A 200% increase from 1.2 billion in 2012. \n\nEnergy consumption per search remained steady - 0.3 watt-hours.",
+        "type": "infrastructure"
     }
 ]
