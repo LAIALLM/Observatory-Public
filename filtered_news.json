@@ -3603,5 +3603,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-07",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf3 UN: By 2050, 68% of the world's population will reside in urban areas. That's an increase of approximately 2.5 billion urban dwellers from 2025. Rapid urbanization calls for sustainable city planning and management.",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
