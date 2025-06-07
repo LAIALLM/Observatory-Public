@@ -3683,5 +3683,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Noida Yeida secures 5200 acres for airport-linked development, aiming to boost regional connectivity.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-06-07",
+        "status": "posted",
+        "tweet": "In 2025, Solana's validator network spans over 1,800 nodes across 20 countries, showcasing significant decentralization.\n\nThe top 3 countries hosting Solana validators are:\n\ud83c\uddfa\ud83c\uddf8 United States: 32%\n\ud83c\udde9\ud83c\uddea Germany: 15%\n\ud83c\uddeb\ud83c\uddf7 France: 10%",
+        "type": "crypto"
     }
 ]
