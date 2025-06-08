@@ -3491,5 +3491,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Punes Rs 42,711 Cr Ring Road Project set to transform citys connectivity and urban expansion, spanning 172 km.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-06-08",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 USA 2025: Six trillion dollars is projected to be required over the next 20 years to address aging infrastructure. \n\nDespite this, our annual infrastructure spending is still falling short by an alarming $2.6 trillion, risking economic stability.",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
