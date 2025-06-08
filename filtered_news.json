@@ -3402,5 +3402,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-08",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Amazon Web Services\n\ud83d\udcca In 2020, AWS hosted over 45% of the world's total public cloud infrastructure. \n\n1 million+ active customers \n$10 billion+ revenue in Q1 \n\n($AMZN)",
+        "type": "infrastructure"
     }
 ]
