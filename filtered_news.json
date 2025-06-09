@@ -3482,5 +3482,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Indias maritime infrastructure receives a $20 billion commitment to enhance port development.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-06-09",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 California-based tech giant, Apple Inc.\nEnergy consumption for data centers: Decreased by 40% since 2016. \nRenewable energy usage: 100% since 2019. \nCarbon footprint reduction: 25% since 2015.\n$AAPL",
+        "type": "infrastructure"
     }
 ]
