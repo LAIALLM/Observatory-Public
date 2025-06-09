@@ -3242,5 +3242,13 @@
         "status": "posted",
         "tweet": "Summary: Solana has the highest transaction throughput at the lowest cost, followed by Ethereum and Bitcoin.\n\n1. Solana: 5,000 TPS, $0.00025 per transaction\n2. Ethereum: 30 TPS, $2.50 per transaction\n3. Bitcoin: 7 TPS, $2.00 per transaction",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-06-09",
+        "status": "posted",
+        "tweet": "Summary: 2025's top 5 economies by projected GDP:\n\n1. \ud83c\uddfa\ud83c\uddf8 USA \n2. \ud83c\udde8\ud83c\uddf3 China \n3. \ud83c\uddef\ud83c\uddf5 Japan \n4. \ud83c\udde9\ud83c\uddea Germany \n5. \ud83c\uddee\ud83c\uddf3 India",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
