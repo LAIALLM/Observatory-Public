@@ -3395,5 +3395,12 @@
         "status": "posted",
         "tweet": "From 2016 to 2023, the annual electricity cost of running the Bitcoin network increased from $0.5 billion to $10.4 billion, highlighting the growing infrastructural demands of blockchain technology.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-06-10",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \nQ1 Energy Consumption: \nData Centers - 100% Renewable.\nRetail Stores - 81% Renewable. \n\nShare price: $AAPL",
+        "type": "infrastructure"
     }
 ]
