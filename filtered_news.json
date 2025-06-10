@@ -3695,5 +3695,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: SBUT unveils Bhendi Bazaar as Mumbais landmark eco-urban project, focusing on sustainable redevelopment.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-06-10",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global carbon emissions from transport have reached 8.5 Gt CO2 in 2025, an alarming increase of 10% compared to 2023. \n\n\ud83c\uddfa\ud83c\uddf8 USA continues to lead with 2.4 Gt CO2 accounting for 28% of global transport emissions. \n\nSwift actions and green alternatives are imperative.",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
