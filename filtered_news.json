@@ -3814,5 +3814,46 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOblUwYlNZMkdReVhqWEMzeldWTXd0WkNDRnVYOHlLSHYyWERXOGpyZGdiV3N5VG03bXNHekZFRFROWTJOTVVkdzhCY2xkTFFuSHNlSjBicXdZUVZCLWh4Z2lHcjhwS2tuTHZFcWxpNDJmbkZjakQyY2tCY2EzZEI2TXpMUThlSllkODBQemlnckd0cFBWQjJaUW95ak9tRF920gGmAUFVX3lxTE1kYTBPTm5MdWlaV09DbllqWXhxbE5rMXJPRDdEZWFWS1ZELVhTZjl3Q0FQVzZyWWIwZUcyZTl1ZEpHSVU4NUtEMEs0NUlhLTZTMEdnVC1CcUtZdl8tMTdNTnVVcHo4RVFyTHQtZ1MwVXFfcU1UdEkzTG1sY1ltbmsyeWlhbW5IS2VTR2FIQ3NoZlNPaUhfQURCTFJGVXFHclN3cW5vYVE?oc=5",
+        "date": "2025-06-11",
+        "title": "Brookfield Advancing AI Infrastructure In Sweden With SEK 95 Billion Investment - Pulse 2.0",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOblUwYlNZMkdReVhqWEMzeldWTXd0WkNDRnVYOHlLSHYyWERXOGpyZGdiV3N5VG03bXNHekZFRFROWTJOTVVkdzhCY2xkTFFuSHNlSjBicXdZUVZCLWh4Z2lHcjhwS2tuTHZFcWxpNDJmbkZjakQyY2tCY2EzZEI2TXpMUThlSllkODBQemlnckd0cFBWQjJaUW95ak9tRF920gGmAUFVX3lxTE1kYTBPTm5MdWlaV09DbllqWXhxbE5rMXJPRDdEZWFWS1ZELVhTZjl3Q0FQVzZyWWIwZUcyZTl1ZEpHSVU4NUtEMEs0NUlhLTZTMEdnVC1CcUtZdl8tMTdNTnVVcHo4RVFyTHQtZ1MwVXFfcU1UdEkzTG1sY1ltbmsyeWlhbW5IS2VTR2FIQ3NoZlNPaUhfQURCTFJGVXFHclN3cW5vYVE?oc=5\" target=\"_blank\">Brookfield Advancing AI Infrastructure In Sweden With SEK 95 Billion Investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00LUxHTkF3akRvMkZXUEFHTC1qTGhpVjZ6UE9PcGxORXlYMUdtUmFsMUh0QmFmREhjV0dRRWxLSVN6X3N4bEF1bVYwNzBoV3FXdU0zSjNSck4tSDBOZmVjekFQNXY4bm05M3dTemttZTBBdjFKWXRLUFVET2plTEnSAYQBQVVfeXFMT2lGZFJJTXFwNU9IT1BGc1U2RngzWWp2YUl2bnJYNm9qSkc4WFZoWVBGcngxOUdzZS10NGswaFVnbnVROVFnVVAwY2Q4Qll4Sm1vWm1EelFYYnlCZWdQcldzZ2dxdUNpNE0wRGhxaXlzTldLYnIzMlBPTTlVaG5qS1RBWXg4?oc=5",
+        "date": "2025-06-11",
+        "title": "Igneo Infrastructure Partners Buying Infinity Aviation - Pulse 2.0",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE00LUxHTkF3akRvMkZXUEFHTC1qTGhpVjZ6UE9PcGxORXlYMUdtUmFsMUh0QmFmREhjV0dRRWxLSVN6X3N4bEF1bVYwNzBoV3FXdU0zSjNSck4tSDBOZmVjekFQNXY4bm05M3dTemttZTBBdjFKWXRLUFVET2plTEnSAYQBQVVfeXFMT2lGZFJJTXFwNU9IT1BGc1U2RngzWWp2YUl2bnJYNm9qSkc4WFZoWVBGcngxOUdzZS10NGswaFVnbnVROVFnVVAwY2Q4Qll4Sm1vWm1EelFYYnlCZWdQcldzZ2dxdUNpNE0wRGhxaXlzTldLYnIzMlBPTTlVaG5qS1RBWXg4?oc=5\" target=\"_blank\">Igneo Infrastructure Partners Buying Infinity Aviation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/60882-us-dot-clears-third-of-grant-award-backlog-worth-nearly-10b",
+        "date": "2025-06-11",
+        "title": "US DOT Clears Third of Grant Award Backlog, Worth Nearly $10B",
+        "summary": "<p>U.S. Dept. of Transportation staff finalized another 529 grant agreements from the \u201cbacklog\u201d of 3,200 awards that Transportation Secretary Sean Duffy said had not been signed by the start of the Trump administration. </p>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: US DOT clears nearly $10B in grant awards, finalizing 529 agreements from a backlog of 3,200."
+    },
+    {
+        "link": "https://www.enr.com/articles/60882-us-dot-clears-third-of-grant-award-backlog-worth-nearly-10b",
+        "date": "2025-06-11",
+        "title": "US DOT Clears Third of Grant Award Backlog, Worth Nearly $10B",
+        "summary": "<p>U.S. Dept. of Transportation staff finalized another 529 grant agreements from the \u201cbacklog\u201d of 3,200 awards that Transportation Secretary Sean Duffy said had not been signed by the start of the Trump administration. </p>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: US DOT clears nearly $10B in grant awards, finalizing 529 agreements from a backlog of 3,200.",
+        "type": "news"
     }
 ]
