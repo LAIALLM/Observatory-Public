@@ -3465,5 +3465,35 @@
         "status": "posted",
         "tweet": "In 2025, Bitcoin's node distribution spans 92 countries, with \ud83c\uddfa\ud83c\uddf8 USA hosting 27% and \ud83c\udde9\ud83c\uddea Germany 15%. \n\nIn contrast, Ethereum's nodes are in 78 countries, with \ud83c\uddfa\ud83c\uddf8 USA at 32% and \ud83c\uddec\ud83c\udde7 UK at 12%.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BTkZHVGVmRm1JSTNncDdmM1Y2UVN1VTR1VDRUM1NIWHEyTTVDMzVkS3F6dGdUdVU1WURpUjFtQXdWb0ZtQ0NuQndaeG9oR3NyMUdYa3I4a05lU3BHV0Z4Z1hXSkhmTkRPQTBuMG5rVlZTQ0VH?oc=5",
+        "date": "2025-06-11",
+        "title": "Employment Rises by 245,000 in May; Construction and Manufacturing Sectors Struggle - Businesskorea",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9BTkZHVGVmRm1JSTNncDdmM1Y2UVN1VTR1VDRUM1NIWHEyTTVDMzVkS3F6dGdUdVU1WURpUjFtQXdWb0ZtQ0NuQndaeG9oR3NyMUdYa3I4a05lU3BHV0Z4Z1hXSkhmTkRPQTBuMG5rVlZTQ0VH?oc=5\" target=\"_blank\">Employment Rises by 245,000 in May; Construction and Manufacturing Sectors Struggle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Businesskorea</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00ajdjZW9PWjR5aWZNa0hjMFFtUV9ldGw0eHRRS0kxX2JkT3RmY0NQczVaZzM3eFdGbzJXNHBva2t2T1IwcU0zc21qOE1TMkMwYUpQSFhRdk5LWnZWb3JvYlRZUU0xUVhFZVBEb3Y0MVIxa1BhRS1LT0RPRFI?oc=5",
+        "date": "2025-06-11",
+        "title": "Yeida finalises farmland rates near Noida airport - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE00ajdjZW9PWjR5aWZNa0hjMFFtUV9ldGw0eHRRS0kxX2JkT3RmY0NQczVaZzM3eFdGbzJXNHBva2t2T1IwcU0zc21qOE1TMkMwYUpQSFhRdk5LWnZWb3JvYlRZUU0xUVhFZVBEb3Y0MVIxa1BhRS1LT0RPRFI?oc=5\" target=\"_blank\">Yeida finalises farmland rates near Noida airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lQjhXUmk5b1p4WTFHSWppaVpfeUhYMUNDUzJIeHhIQlBKblVUZVpKS2hWQkg3VDRhMXFnSHJzQ1BJVjd0Zy1iNjlZR2FMU2xUUGZhdXNKeE1pbXptRnR1TkZVVjluejVFVko5a3NVbDdfWEhxc0NxRkNnWQ?oc=5",
+        "date": "2025-06-11",
+        "title": "Yamuna Expressway gets 5km protected growth zone - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1lQjhXUmk5b1p4WTFHSWppaVpfeUhYMUNDUzJIeHhIQlBKblVUZVpKS2hWQkg3VDRhMXFnSHJzQ1BJVjd0Zy1iNjlZR2FMU2xUUGZhdXNKeE1pbXptRnR1TkZVVjluejVFVko5a3NVbDdfWEhxc0NxRkNnWQ?oc=5\" target=\"_blank\">Yamuna Expressway gets 5km protected growth zone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
