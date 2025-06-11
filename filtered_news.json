@@ -3495,5 +3495,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-11",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global investment in smart city initiatives is projected to reach $327 billion by 2025. A 165% increase from 2023 figures.\n\nThis indicates a vibrant urban redesign trend aiming to improve quality of life, sustainability, and efficiency.",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
