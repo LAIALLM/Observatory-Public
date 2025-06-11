@@ -3945,5 +3945,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-11",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL\n- Q2 2021 global iPhone revenue: $47.94 billion\n- Y-Y growth: +65.2%\n\n\ud83c\udf0d Worldwide market share: 15.2%\n- Quarterly shipments: 365.2 million units\n- Q2 2020 vs Q2 2021 units growth: +13.2%",
+        "type": "infrastructure"
     }
 ]
