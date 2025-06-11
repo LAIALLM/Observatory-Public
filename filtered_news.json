@@ -3724,5 +3724,95 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOelZFbjNMTENGRFNKNDcwQXhfaFRIQXVQV1laemJLbHhsY3BMbXZEdjZEdGk0RkNuZ0ZaWmF1ZWtxdU4wRUV2ZWVpVG1tNERJc2ZVZGVzYTlrVFlYVkMwTEVldUhBRnN0ellFYnJRS2ZDQm11S3lnT0pzcDl4OE5mMGJQU0ZLV0wzNGg0SkJn?oc=5",
+        "date": "2025-06-11",
+        "title": "Canada's Building Permits Take A Significant Hit In April - Finimize",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOelZFbjNMTENGRFNKNDcwQXhfaFRIQXVQV1laemJLbHhsY3BMbXZEdjZEdGk0RkNuZ0ZaWmF1ZWtxdU4wRUV2ZWVpVG1tNERJc2ZVZGVzYTlrVFlYVkMwTEVldUhBRnN0ellFYnJRS2ZDQm11S3lnT0pzcDl4OE5mMGJQU0ZLV0wzNGg0SkJn?oc=5\" target=\"_blank\">Canada's Building Permits Take A Significant Hit In April</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finimize</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdWlWTHlkM0ViYWJhMWRjelh0clQwYVhiZ1hlZzBLd1lDRE54U0M2dFZGd052MHp3aFBNVHNGR0N0NHBGN1drMEhOS0pqUVNzQ3dfV0tyLVN1LTV6QWpLZDgwNkd2LWtac3AtSEJ4ZEJfa1NUYVRqelhpWFNrd1p3cndKTlQzcFNsU3c?oc=5",
+        "date": "2025-06-11",
+        "title": "Maxvolt Energy Ramps Up Battery Recycling Infrastructure | - Chemical Industry Digest",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdWlWTHlkM0ViYWJhMWRjelh0clQwYVhiZ1hlZzBLd1lDRE54U0M2dFZGd052MHp3aFBNVHNGR0N0NHBGN1drMEhOS0pqUVNzQ3dfV0tyLVN1LTV6QWpLZDgwNkd2LWtac3AtSEJ4ZEJfa1NUYVRqelhpWFNrd1p3cndKTlQzcFNsU3c?oc=5\" target=\"_blank\">Maxvolt Energy Ramps Up Battery Recycling Infrastructure |</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chemical Industry Digest</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMjlDeDVpRndKeDNiZUFGYUl1UWNCVkkzenJNcDBUTHpkZWlGWUZaMDZUYjVDald5d0VBeUJDbFlnVWQ2OWpyTUlLVklJMnNKRExXRGF0QnZiRGV5Ti1nb3RBcllLN1BfSnUxN0ktcDdIeGFRRnplTjFDT3ZTMXNub2xQb0tXU2tRYS0tdTlkQWVjQ1dKWEFTVXpvdXJUU1R2d3dYbVFxdkN3a2FNb1U1TnVwRjhWZ2YyRC1XM2pIaWMwb2RiaW9UTldnNEtValJRY0pXOXlB?oc=5",
+        "date": "2025-06-11",
+        "title": "Hindusthan Urban Infrastructure Faces Significant Volatility Amid Deteriorating Financial Health - MarketsMojo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMjlDeDVpRndKeDNiZUFGYUl1UWNCVkkzenJNcDBUTHpkZWlGWUZaMDZUYjVDald5d0VBeUJDbFlnVWQ2OWpyTUlLVklJMnNKRExXRGF0QnZiRGV5Ti1nb3RBcllLN1BfSnUxN0ktcDdIeGFRRnplTjFDT3ZTMXNub2xQb0tXU2tRYS0tdTlkQWVjQ1dKWEFTVXpvdXJUU1R2d3dYbVFxdkN3a2FNb1U1TnVwRjhWZ2YyRC1XM2pIaWMwb2RiaW9UTldnNEtValJRY0pXOXlB?oc=5\" target=\"_blank\">Hindusthan Urban Infrastructure Faces Significant Volatility Amid Deteriorating Financial Health</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketsMojo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQck5weEVPWFlUTHM4bFM0MXBid043NlBKdXl1aTR1eXEySmpBRDRrUGVOZmluVzlKMFhqODlLcTQ1OGx5S19OLWtwbmVkaExScWtUd1czcDRLWmNOWEk4S2NKbGpMbG0wXzB6RDYtYnR0aFBBbGZRZjVMa29lZk5PNjAxZHVjMTZKSU1RUmVLT2xGdnJPNjlxNXFpTGUwN3pOYzVuUEZFNmk0VTBIM2Y1dF93OE1wVjJEQzRVdkRpQdIBwwFBVV95cUxONERJTWZEdTBRenBzd3BTR1YwTW1BcXUtYVF0T3U3SHBvQlF6bHljQW4zTnFFaDJxTlo2ZTlJYVJCUUlKcjNVWHo1N0JrUlo5SEVPR2ExOUhSZnRhbEtZMXlYWjRaUjh0Q1d3ejlraE9YSTdVbHplZkhOYUg4SXNJVHdvWW9IWkpXRHBLMlE1SHZjUER6Z3ozaURLOGlaeE9mRUhkVkFUb0dXUW5Cc29GWDJsMkVYNFE2aTY2QkZnZXAxdUU?oc=5",
+        "date": "2025-06-11",
+        "title": "India, Sweden explore deeper trade ties in clean energy, tech and infrastructure - Tribune India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQck5weEVPWFlUTHM4bFM0MXBid043NlBKdXl1aTR1eXEySmpBRDRrUGVOZmluVzlKMFhqODlLcTQ1OGx5S19OLWtwbmVkaExScWtUd1czcDRLWmNOWEk4S2NKbGpMbG0wXzB6RDYtYnR0aFBBbGZRZjVMa29lZk5PNjAxZHVjMTZKSU1RUmVLT2xGdnJPNjlxNXFpTGUwN3pOYzVuUEZFNmk0VTBIM2Y1dF93OE1wVjJEQzRVdkRpQdIBwwFBVV95cUxONERJTWZEdTBRenBzd3BTR1YwTW1BcXUtYVF0T3U3SHBvQlF6bHljQW4zTnFFaDJxTlo2ZTlJYVJCUUlKcjNVWHo1N0JrUlo5SEVPR2ExOUhSZnRhbEtZMXlYWjRaUjh0Q1d3ejlraE9YSTdVbHplZkhOYUg4SXNJVHdvWW9IWkpXRHBLMlE1SHZjUER6Z3ozaURLOGlaeE9mRUhkVkFUb0dXUW5Cc29GWDJsMkVYNFE2aTY2QkZnZXAxdUU?oc=5\" target=\"_blank\">India, Sweden explore deeper trade ties in clean energy, tech and infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tribune India</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGd5ak1SLXhKakl4ekJzUUdvcGdMeDNQd0hFMHFmUzItdHhzbmNnN19sMEVyYV92SHZIM1Fvd2dEeGNWcWhYQmx0N3dZbGJUNkE2NEVyajltUlJrMlJsSTJ4Z3dNNS1aeUJnYVVBNUx2VEtxU29vTjFGcy1TVEoyYmZPUWpQR1VxUEtSOXV0T3BrV21QTlJR?oc=5",
+        "date": "2025-06-11",
+        "title": "Hyper-Converged Infrastructure (HCI) Market Set to Witness - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGd5ak1SLXhKakl4ekJzUUdvcGdMeDNQd0hFMHFmUzItdHhzbmNnN19sMEVyYV92SHZIM1Fvd2dEeGNWcWhYQmx0N3dZbGJUNkE2NEVyajltUlJrMlJsSTJ4Z3dNNS1aeUJnYVVBNUx2VEtxU29vTjFGcy1TVEoyYmZPUWpQR1VxUEtSOXV0T3BrV21QTlJR?oc=5\" target=\"_blank\">Hyper-Converged Infrastructure (HCI) Market Set to Witness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNM0lreGtDSVAwSGluZG5RMHpHVmhIX0daeHFld195cW1Ha19ZWGFKR1F4QkFrbkk3b1JHYzJCdU9pdTNZNmR5RTJ5Slh2QzBQR2tzWXZsQUlUdnA2RjJOSFh0WnFYZzlkaXl5UFA3REQ0bnJTeFhTcHBYTS1NUWhtQjVFT1ZlMUwwRnFGcFo5SC0xengwUmhSSDJZcTYwSExmUncyT1pHUHZjWXlBMGFHdzZFMUJUNEtJcFZuM2I1aWxZbTBreUxBaVNlbkVGREoycV9OdUdLRnFMRTg0NHdSWHpXUEF1YlQ2alZxNW9ybEI?oc=5",
+        "date": "2025-06-11",
+        "title": "Vantiq Receives 2025 IoT Infrastructure Innovation Award for Advancing Real-Time Intelligent Operations - PR Newswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNM0lreGtDSVAwSGluZG5RMHpHVmhIX0daeHFld195cW1Ha19ZWGFKR1F4QkFrbkk3b1JHYzJCdU9pdTNZNmR5RTJ5Slh2QzBQR2tzWXZsQUlUdnA2RjJOSFh0WnFYZzlkaXl5UFA3REQ0bnJTeFhTcHBYTS1NUWhtQjVFT1ZlMUwwRnFGcFo5SC0xengwUmhSSDJZcTYwSExmUncyT1pHUHZjWXlBMGFHdzZFMUJUNEtJcFZuM2I1aWxZbTBreUxBaVNlbkVGREoycV9OdUdLRnFMRTg0NHdSWHpXUEF1YlQ2alZxNW9ybEI?oc=5\" target=\"_blank\">Vantiq Receives 2025 IoT Infrastructure Innovation Award for Advancing Real-Time Intelligent Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2R0TWM0YXVTMnU1dFcxUG1pN1B0NmxMdXZnQkhHMmJIYWRCRjM3RmRucDJIYVIxRzVjQWZheHQ4cU55UnlMNFdPYm1DSF9QSExiRDB2a2FoMlV1LWQ2SGhUaC1IQS05djVfVGVIc1BFa3pkZFY4NnFldjZPNDJwd0ZFY01yS2ZYNlJOYktrYWUyaTVmXzA4bXFwNnI2a2dFTU55TmlVaDlfeHBVcUHSAbYBQVVfeXFMTXlnNG5rVjlHdGtBcm5INkV1b3VGS0U4X3hiZ0pmS2tIZXJaVDh2eHMtai1SYVlvMXkxanhIMEtUN0EtSnRSRlpOejhwZ2dFbGItT2RmMnprVUhiaXJtTnRIa09ENjQycDlPYmVtQkJBa25hQ1AxbEN6MTRYdEFXYWlLUjNFZEk1anV2Z05ReVdJOGJIMGxvQUhLYy1xbEdTdi00SWtOUDdlWVNIaGVBY3pVM1ZKb0E?oc=5",
+        "date": "2025-06-11",
+        "title": "Do You Believe in the Upside Potential of FTAI Infrastructure (FIP)? - Insider Monkey",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2R0TWM0YXVTMnU1dFcxUG1pN1B0NmxMdXZnQkhHMmJIYWRCRjM3RmRucDJIYVIxRzVjQWZheHQ4cU55UnlMNFdPYm1DSF9QSExiRDB2a2FoMlV1LWQ2SGhUaC1IQS05djVfVGVIc1BFa3pkZFY4NnFldjZPNDJwd0ZFY01yS2ZYNlJOYktrYWUyaTVmXzA4bXFwNnI2a2dFTU55TmlVaDlfeHBVcUHSAbYBQVVfeXFMTXlnNG5rVjlHdGtBcm5INkV1b3VGS0U4X3hiZ0pmS2tIZXJaVDh2eHMtai1SYVlvMXkxanhIMEtUN0EtSnRSRlpOejhwZ2dFbGItT2RmMnprVUhiaXJtTnRIa09ENjQycDlPYmVtQkJBa25hQ1AxbEN6MTRYdEFXYWlLUjNFZEk1anV2Z05ReVdJOGJIMGxvQUhLYy1xbEdTdi00SWtOUDdlWVNIaGVBY3pVM1ZKb0E?oc=5\" target=\"_blank\">Do You Believe in the Upside Potential of FTAI Infrastructure (FIP)?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ2Y3WFFhanhlY3RLVDJWdDJ0OUluYUhzNHNvdENiUFVfVWUyVFlycXVRTkdNN0paN2RnUmptTE1raXh5THlxbTNzNlpKSTA1d3RRem9CYnhRNGtUZ0ktTmYwTno2OW8tUmlZV2dRakl2dG1abmtIc0pYcE9oMURtT283dVRNak1NQ0dfY3ZSNWVDYnJ0TDlhWQ?oc=5",
+        "date": "2025-06-11",
+        "title": "Electric Vehicles Today - Charging Infrastructure: The Key to Europe's EV Revolution - Yahoo Finance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ2Y3WFFhanhlY3RLVDJWdDJ0OUluYUhzNHNvdENiUFVfVWUyVFlycXVRTkdNN0paN2RnUmptTE1raXh5THlxbTNzNlpKSTA1d3RRem9CYnhRNGtUZ0ktTmYwTno2OW8tUmlZV2dRakl2dG1abmtIc0pYcE9oMURtT283dVRNak1NQ0dfY3ZSNWVDYnJ0TDlhWQ?oc=5\" target=\"_blank\">Electric Vehicles Today - Charging Infrastructure: The Key to Europe's EV Revolution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.smartcitiesdive.com/news/walmart-wing-drone-delivery-availability-expansion/750403/",
+        "date": "2025-06-11",
+        "title": "Walmart to expand drone delivery to 5 more cities",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/eMJEqCjZRWpiPDy6EsUzVK53l6iRqIIFokH39NufFE8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9kcm9uZS13aXRoLXdhbG1hcnQtZGVsaXZlcnkuanBn.webp\" /></div></figure><p>Customers in Atlanta, Houston and more will be able to tap into the technology by next year as part of the retailer's deepening collaboration with Wing.</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
