@@ -3591,5 +3591,13 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin has the highest hardware costs, followed by Ethereum and Solana.\n\n1. Bitcoin: $10-15 billion annually\n2. Ethereum: $1-2 billion annually\n3. Solana: $100-200 million annually",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-06-12",
+        "status": "posted",
+        "tweet": "Summary: Top 5 countries investing massively in infrastructure by GDP percentage in 2025.\n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddee\ud83c\uddf3 India\n3. \ud83c\uddf0\ud83c\uddf7 South Korea\n4. \ud83c\udde8\ud83c\udde6 Canada\n5. \ud83c\udde6\ud83c\uddfa Australia\n\nWith over $2.1T slated for investment, these nations lead the global charge to future-proof their societies.",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
