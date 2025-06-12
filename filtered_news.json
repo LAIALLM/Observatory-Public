@@ -3584,5 +3584,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8Apple Inc. ($AAPL)\nPowered by 100% renewable energy, Apple Data Centers process 200M+ iMessages daily. Efficiency rating remains an industry-best 1.1 PUE.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-06-12",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin has the highest hardware costs, followed by Ethereum and Solana.\n\n1. Bitcoin: $10-15 billion annually\n2. Ethereum: $1-2 billion annually\n3. Solana: $100-200 million annually",
+        "type": "crypto"
     }
 ]
