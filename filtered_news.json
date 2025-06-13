@@ -3743,5 +3743,53 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-13",
+        "status": "posted",
+        "tweet": "Summary: Top 5 countries projected to invest the most in infrastructure by 2030.\n\n\ud83c\udde8\ud83c\uddf3 China\n\ud83c\uddfa\ud83c\uddf8 USA\n\ud83c\uddee\ud83c\uddf3 India\n\ud83c\uddef\ud83c\uddf5 Japan\n\ud83c\udde9\ud83c\uddea Germany\n\nBy 2030, these five countries are predicted to account for almost 60% of global infrastructure spending.",
+        "type": "statistical",
+        "category": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWWZoZnJCZ3dlWkJBQXJuMjlsUmNXdUpqRV9haGVfeDBadmdFbFc4UG1Ya3ByM0k3WVEycllGYWsxeWxRVl9IOEs4ZzlPangzSTJCM3YwQWx1VUFlRENoZFhVR3NLYV9TS2p0Wk5VZUYzaUh5Tk1uX3pHR3doMjd4VkpqRExmMlpIMmF4X1k5OFpqXzhXS2l2TjhMR3loWXJFc1FqVHUyOVNWeGNUelRnamM0dlA2emRHV1UtQlNVREVLUzFoOWVzeUN3MGRhZmlmOXpRYQ?oc=5",
+        "date": "2025-06-13",
+        "title": "GTL Infrastructure Faces Mixed Performance Amid Sector Challenges and Market Dynamics - MarketsMojo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWWZoZnJCZ3dlWkJBQXJuMjlsUmNXdUpqRV9haGVfeDBadmdFbFc4UG1Ya3ByM0k3WVEycllGYWsxeWxRVl9IOEs4ZzlPangzSTJCM3YwQWx1VUFlRENoZFhVR3NLYV9TS2p0Wk5VZUYzaUh5Tk1uX3pHR3doMjd4VkpqRExmMlpIMmF4X1k5OFpqXzhXS2l2TjhMR3loWXJFc1FqVHUyOVNWeGNUelRnamM0dlA2emRHV1UtQlNVREVLUzFoOWVzeUN3MGRhZmlmOXpRYQ?oc=5\" target=\"_blank\">GTL Infrastructure Faces Mixed Performance Amid Sector Challenges and Market Dynamics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketsMojo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTVyRnpvOFJfSXpVVkZRaTJqOEd2VTRHWk9EVGtOM3owSFkxSHJUY1kzaXJPdEROVFlzcnV3YTl3dGdlRU9JZ055b2s0WXpqRnBEZWZpODhaenQzSkxhaVp3eXFfamUyTVFOTjVVRVdaRlAzSUFzM2lCMzJNcldPeWRYVHB0S0Zuem1JV0ZYTkp4dFZTRkRwVW1nWWoweU1GRFJCakpRRWxDVWVhM1VOZXFDaw?oc=5",
+        "date": "2025-06-13",
+        "title": "NTT DATA Launches AI Powered Software Defined Infrastructure Services for Cisco Products - APN News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxObTVyRnpvOFJfSXpVVkZRaTJqOEd2VTRHWk9EVGtOM3owSFkxSHJUY1kzaXJPdEROVFlzcnV3YTl3dGdlRU9JZ055b2s0WXpqRnBEZWZpODhaenQzSkxhaVp3eXFfamUyTVFOTjVVRVdaRlAzSUFzM2lCMzJNcldPeWRYVHB0S0Zuem1JV0ZYTkp4dFZTRkRwVW1nWWoweU1GRFJCakpRRWxDVWVhM1VOZXFDaw?oc=5\" target=\"_blank\">NTT DATA Launches AI Powered Software Defined Infrastructure Services for Cisco Products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">APN News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ3FvM1ZKak5YVmxvNE5oLWlWTVVnOXVEZjdwRGJ3WlJaTGJDSzhlSUtHWDJjSVRlZ3dhd0I1YWNyUkVvR0lFU0tLckRMdGRRT1UzcHNXUlpoaTZqb3VwYkQ2ZkVVMXo2S25razNUTXZvYVRKWTJQVGtodDRKMzVPc0Q3WWhhSkM3LWw2cWtGVEVjMHVDRmJsbjlTMkNCT2ZjcV9PZXJHVDQxeW5qMGt5d0pMUXFPUUp3bGcyZEstSXR0bHRUUGFVNjlhZWlrRTdPZDFCOHE2ZkRvZF9YUzVJTFdjSnjSAeoBQVVfeXFMT3NjMFZRTmYyZVZ3eXdTSHl5WFljZHgtY1RMSXlLRk51alYwUVQydm5GNVVQSXhSYU45SnVseF9iWmlfNlYtY1I4ejY4cE9vZnMyc0E1OUp4TE5RVU1obktNYk5TWFpQaUlsN3ZSNFR2R0ZheDBENHlvcHRxNlNmYTNnWjFSVjI4cWNUNkM0N1RjcThMM1dpdzdPcmNuYjBsZk1sMUdPb0htcHRDcnZUWlJVU2l0Szg0SzR2aF9Kb3F3X1pnNFhKTUxhUVROb28zNFFuWXc5VDFWS2IwZ3lFazBSTkFHREFuUDV3?oc=5",
+        "date": "2025-06-13",
+        "title": "Tripura CM unveils key projects, vows inclusive growth and citizen-friendly infrastructure - India Today NE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ3FvM1ZKak5YVmxvNE5oLWlWTVVnOXVEZjdwRGJ3WlJaTGJDSzhlSUtHWDJjSVRlZ3dhd0I1YWNyUkVvR0lFU0tLckRMdGRRT1UzcHNXUlpoaTZqb3VwYkQ2ZkVVMXo2S25razNUTXZvYVRKWTJQVGtodDRKMzVPc0Q3WWhhSkM3LWw2cWtGVEVjMHVDRmJsbjlTMkNCT2ZjcV9PZXJHVDQxeW5qMGt5d0pMUXFPUUp3bGcyZEstSXR0bHRUUGFVNjlhZWlrRTdPZDFCOHE2ZkRvZF9YUzVJTFdjSnjSAeoBQVVfeXFMT3NjMFZRTmYyZVZ3eXdTSHl5WFljZHgtY1RMSXlLRk51alYwUVQydm5GNVVQSXhSYU45SnVseF9iWmlfNlYtY1I4ejY4cE9vZnMyc0E1OUp4TE5RVU1obktNYk5TWFpQaUlsN3ZSNFR2R0ZheDBENHlvcHRxNlNmYTNnWjFSVjI4cWNUNkM0N1RjcThMM1dpdzdPcmNuYjBsZk1sMUdPb0htcHRDcnZUWlJVU2l0Szg0SzR2aF9Kb3F3X1pnNFhKTUxhUVROb28zNFFuWXc5VDFWS2IwZ3lFazBSTkFHREFuUDV3?oc=5\" target=\"_blank\">Tripura CM unveils key projects, vows inclusive growth and citizen-friendly infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOaWRrNElLenBqelVYS3Y4TEo5T1JIUlB3dzNFSGFwYXp6OUZ2ZGtyMHFnQW9VeDFLM3VQZ3ZUVHlyb2ppbEgzTWc5akdaRGdkWXZCWGRuQ1dhQll5YlY3SW1ua3o5bTZSWjBqT0RxZ3l2MjV0SDJxQUlTcFZ2YlNnVU1FNW5UTjZOWGprUlJNSDJ5Q05vZlhMbUVKU2xlWEFWVHo5VnNnSC1FZF90Q3lsdGxWWFJWRF95Wnp4dXVDVDhyQi1WdVk1bGI1czdRbjVBcERkcjBoczdYMXRrOEVma0ZFT3dXYVh1NlNhdFFsWHpMRWU5RHVUTm5YY2Z6VEFJa1ZxbGpSZU5SanJoRkdzUHBCYzgtWWIybTBBd1lFSk50Y2s4U296YkpBRm5GU093TmdfYnJibw?oc=5",
+        "date": "2025-06-13",
+        "title": "Discuss how emerging smart city models can reduce transit demands through better urban design. Analyse why Indian smart cities have struggled to achieve this integration. - INSIGHTS IAS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwJBVV95cUxOaWRrNElLenBqelVYS3Y4TEo5T1JIUlB3dzNFSGFwYXp6OUZ2ZGtyMHFnQW9VeDFLM3VQZ3ZUVHlyb2ppbEgzTWc5akdaRGdkWXZCWGRuQ1dhQll5YlY3SW1ua3o5bTZSWjBqT0RxZ3l2MjV0SDJxQUlTcFZ2YlNnVU1FNW5UTjZOWGprUlJNSDJ5Q05vZlhMbUVKU2xlWEFWVHo5VnNnSC1FZF90Q3lsdGxWWFJWRF95Wnp4dXVDVDhyQi1WdVk1bGI1czdRbjVBcERkcjBoczdYMXRrOEVma0ZFT3dXYVh1NlNhdFFsWHpMRWU5RHVUTm5YY2Z6VEFJa1ZxbGpSZU5SanJoRkdzUHBCYzgtWWIybTBBd1lFSk50Y2s4U296YkpBRm5GU093TmdfYnJibw?oc=5\" target=\"_blank\">Discuss how emerging smart city models can reduce transit demands through better urban design. Analyse why Indian smart cities have struggled to achieve this integration.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">INSIGHTS IAS</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
