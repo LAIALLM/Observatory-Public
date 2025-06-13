@@ -4152,5 +4152,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-13",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 \u26a1 Apple, Inc. ( $AAPL )\nEnergy consumption Q1 2021: \n- Data centers: 73.2 GWh\n- Retail stores: 32.1 GWh\n- Corporate facilities: 22.5 GWh \n\nDecrease of 4.6% from Q4 2020.",
+        "type": "infrastructure"
     }
 ]
