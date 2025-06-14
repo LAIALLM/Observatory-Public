@@ -3680,5 +3680,12 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-14",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL \n\n- Q2 2021 energy consumption: 3.8 million MWh,\n- 74.8% decrease since Q2 2020. \n\nLeading in tech. Leading in sustainability.",
+        "type": "infrastructure"
     }
 ]
