@@ -3687,5 +3687,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL \n\n- Q2 2021 energy consumption: 3.8 million MWh,\n- 74.8% decrease since Q2 2020. \n\nLeading in tech. Leading in sustainability.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMUdtbXd6aTlxcTJadEp1RkZDbF9STkVkREV4VmdlRTI5UkxudVhFSTFhalR5UklXeWZzSVVoZXZ2VFFDTkRTSzB4NGdJRXV3c25rZEswVW16NGVRNFdsZDkxdWRGTFAyT1FSZmx4bGFwbTVoeDhhOURHSHllUlhpMlNZal95Wk9qZWEyemxmbFpqYTZldEJON2NhZmRCaENVMXVyS3B1UVAtNklGNDFlMDBOcFdsb1RPNDFtNFZsMjFDbWUzNkpfUDQ3Sm8?oc=5",
+        "date": "2025-06-14",
+        "title": "Setubandhan Infrastructure Shows Resilience Amid Broader Market Declines - MarketsMojo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOMUdtbXd6aTlxcTJadEp1RkZDbF9STkVkREV4VmdlRTI5UkxudVhFSTFhalR5UklXeWZzSVVoZXZ2VFFDTkRTSzB4NGdJRXV3c25rZEswVW16NGVRNFdsZDkxdWRGTFAyT1FSZmx4bGFwbTVoeDhhOURHSHllUlhpMlNZal95Wk9qZWEyemxmbFpqYTZldEJON2NhZmRCaENVMXVyS3B1UVAtNklGNDFlMDBOcFdsb1RPNDFtNFZsMjFDbWUzNkpfUDQ3Sm8?oc=5\" target=\"_blank\">Setubandhan Infrastructure Shows Resilience Amid Broader Market Declines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketsMojo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOUlReUJqeXNEYkhyc0V6S24za0xuVEMydEtGa0RDSEtaWGdUWnZtM2tXTjctU2tZc0ZVXzNKa3hFQ0pURG5fRm5uN2RNbXBhcUJxeE5tZXFwdlloSmFJOUlCMUZwUzBGNkMwZm1fNDJiSHRfT2J5YTdLbGNwZjNZcXA0dVp0MVRkT19CYWZCczZ5MFg1YjBQenZRRkpxbE1fYzRieWdXTElfX2NXYVBDQlpDWDNXakltZWZ1V1I3VFQ?oc=5",
+        "date": "2025-06-14",
+        "title": "Uganda commits $361 million to boost sports infrastructure ahead of major tournaments - Pan-Africa Football",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOUlReUJqeXNEYkhyc0V6S24za0xuVEMydEtGa0RDSEtaWGdUWnZtM2tXTjctU2tZc0ZVXzNKa3hFQ0pURG5fRm5uN2RNbXBhcUJxeE5tZXFwdlloSmFJOUlCMUZwUzBGNkMwZm1fNDJiSHRfT2J5YTdLbGNwZjNZcXA0dVp0MVRkT19CYWZCczZ5MFg1YjBQenZRRkpxbE1fYzRieWdXTElfX2NXYVBDQlpDWDNXakltZWZ1V1I3VFQ?oc=5\" target=\"_blank\">Uganda commits $361 million to boost sports infrastructure ahead of major tournaments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pan-Africa Football</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
