@@ -3242,5 +3242,15 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGhQNmh1MTlVUkg4a0pyb0xhdjlXVDFpVXAtejRJN2QxRVJwLTNpdHUtcVJGd2t4cDFDMkoxSkd1NTF2SUtETDVUODllRFdQNFNIb1VyOUR4blk5NHUtS3pncjhtSWt3RFU2RURhbVVIUXhYYmQ3cTlPbVFJNVlLY1BwRkwyVTJscktLVURRRFIyemhybWlwN0pzM3pMUGRkZjYtMmFXc25vMnpQcVE?oc=5",
+        "date": "2025-06-15",
+        "title": "Adani Cement and CREDAI to Elevate Sustainable Urban Construction - Oneindia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGhQNmh1MTlVUkg4a0pyb0xhdjlXVDFpVXAtejRJN2QxRVJwLTNpdHUtcVJGd2t4cDFDMkoxSkd1NTF2SUtETDVUODllRFdQNFNIb1VyOUR4blk5NHUtS3pncjhtSWt3RFU2RURhbVVIUXhYYmQ3cTlPbVFJNVlLY1BwRkwyVTJscktLVURRRFIyemhybWlwN0pzM3pMUGRkZjYtMmFXc25vMnpQcVE?oc=5\" target=\"_blank\">Adani Cement and CREDAI to Elevate Sustainable Urban Construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oneindia</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
