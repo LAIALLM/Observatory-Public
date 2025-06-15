@@ -3204,5 +3204,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US-based tech firm Meta Platforms Inc. \n\nVisual data pooled daily - 4 petabytes. \n\nEnergy efficiency rating - 98% in Q4 2021. \n\n$FB",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-06-15",
+        "status": "posted",
+        "tweet": "\ud83c\udf10\ud83d\udcc8 By 2025, global infrastructure investment is expected to reach $94 trillion, a 19% increase from 2020. Meanwhile, \ud83c\uddfa\ud83c\uddf8 U.S. is projected to face an infrastructure gap of $2 trillion, largely within transport and utilities sectors. \ud83c\udfd7\ufe0f\ud83d\ude86\ud83d\udca6 Time to bridge the gap!",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
