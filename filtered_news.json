@@ -3150,5 +3150,12 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-15",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual electricity consumption is estimated at 120 TWh, surpassing that of \ud83c\uddf3\ud83c\uddf4 Norway (119 TWh). \n\nIn contrast, Ethereum's annual consumption is around 22 TWh, similar to \ud83c\uddf1\ud83c\uddf0 Sri Lanka (21 TWh).",
+        "type": "crypto"
     }
 ]
