@@ -3197,5 +3197,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-15",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US-based tech firm Meta Platforms Inc. \n\nVisual data pooled daily - 4 petabytes. \n\nEnergy efficiency rating - 98% in Q4 2021. \n\n$FB",
+        "type": "infrastructure"
     }
 ]
