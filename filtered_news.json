@@ -3204,5 +3204,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf0\ud83c\uddf7 NEWS: Incheon confirms master plan for Eco-Meta City urban development by 2032, aiming to create a sustainable urban environment.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-06-16",
+        "status": "posted",
+        "tweet": "In 2025, over 65% of Bitcoin's mining hash rate is concentrated in \n\n\ud83c\udde8\ud83c\uddf3 China and \n\n\ud83c\uddfa\ud83c\uddf8 USA,\n\nhighlighting significant geographic centralization in the network's infrastructure.",
+        "type": "crypto"
     }
 ]
