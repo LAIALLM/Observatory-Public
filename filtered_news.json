@@ -3235,5 +3235,13 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin has the highest carbon footprint, followed by Ethereum and Solana.\n\n1. Bitcoin: 22-23 MT CO2e per transaction\n2. Ethereum: 25-37 kg CO2e per transaction\n3. Solana: 0.00055 kg CO2e per transaction",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-06-17",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global population set to reach 8.1 billion in 2025, up from 7.8 billion in 2020. India predicted to surpass \ud83c\udde8\ud83c\uddf3 China as world's most populated country by 2027, with population projected at 1.5 billion. Steady growth predicted despite declining fertility rates.",
+        "type": "statistical",
+        "category": "population"
     }
 ]
