@@ -3421,5 +3421,46 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.  \nInfrastructure Update:\n\nDatacenter operations achieved 77% efficiency in 2021 Q3. \n\nYear-on-year improvement: 5%. \n\n$AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUm9rOWNjNmlJTGNBM2RrQjkyMGVWMFVBclh2Zk1zaUZzcldJUzI3b2tBeWszb1dZWkcwaUtLcEZqUjcwSVdVTThCLXNaSk5ibFgtS1BOTkZSYlNUOU1GcUNISWlrWTE3VmIwY244eHV2Q0pxYkQwelRuY2JnRGNjMVFLRVdlcjl4aVNqenp6bnQ2UnRJZ3NVSlJwMllyN3h3VlNXb2Vrc3hleEZYeTdZMlo2TVVSNURt?oc=5",
+        "date": "2025-06-17",
+        "title": "OpenPayd and Circle Partner on Unified Fiat and Stablecoin Infrastructure - PYMNTS.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUm9rOWNjNmlJTGNBM2RrQjkyMGVWMFVBclh2Zk1zaUZzcldJUzI3b2tBeWszb1dZWkcwaUtLcEZqUjcwSVdVTThCLXNaSk5ibFgtS1BOTkZSYlNUOU1GcUNISWlrWTE3VmIwY244eHV2Q0pxYkQwelRuY2JnRGNjMVFLRVdlcjl4aVNqenp6bnQ2UnRJZ3NVSlJwMllyN3h3VlNXb2Vrc3hleEZYeTdZMlo2TVVSNURt?oc=5\" target=\"_blank\">OpenPayd and Circle Partner on Unified Fiat and Stablecoin Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXgtX0drX09SR3IyNUlYVlNFcTVvSi1pNWhwdUloc3VjMk9pa0dpSWJIX3pnUHlzWlVnUUlnZ2N6cldXNkRfZ3lBMXk1LUFaTHNFMjJCMlpwLW1wSjNEQXNpUDBWQVBydi1KcnV5Z3ZiT29QWDRBVHh2TFo5LU1qUmd3bWpFRjYxdERJSkJ2RnFTNjhfT0dvUFUyUkZjWnlwYXVnX0FTdTZUdWl1WXNpRDVTV0RkZ3RYSFUyYkJxSks5RVh5U3lEZjhaUHJBUmpiMkMzcGxZQm5zTktuNVpjWVJhdkg?oc=5",
+        "date": "2025-06-17",
+        "title": "Iteris Selected to Support Intelligent Transportation Systems Project in Dubai - GlobeNewswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXgtX0drX09SR3IyNUlYVlNFcTVvSi1pNWhwdUloc3VjMk9pa0dpSWJIX3pnUHlzWlVnUUlnZ2N6cldXNkRfZ3lBMXk1LUFaTHNFMjJCMlpwLW1wSjNEQXNpUDBWQVBydi1KcnV5Z3ZiT29QWDRBVHh2TFo5LU1qUmd3bWpFRjYxdERJSkJ2RnFTNjhfT0dvUFUyUkZjWnlwYXVnX0FTdTZUdWl1WXNpRDVTV0RkZ3RYSFUyYkJxSks5RVh5U3lEZjhaUHJBUmpiMkMzcGxZQm5zTktuNVpjWVJhdkg?oc=5\" target=\"_blank\">Iteris Selected to Support Intelligent Transportation Systems Project in Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/60913-clock-ticking-on-california-high-speed-rail-federal-funding",
+        "date": "2025-06-17",
+        "title": "Clock Ticking On California High Speed Rail Federal Funding",
+        "summary": "<p>Officials with the California High-Speed Rail authority refute criticisms of the project that underpin the Federal Railroad Authority's decision to terminate $4B in previously awarded grants to the project.</p><br />",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Clock ticking on California High Speed Rail as federal funding at risk; officials refute criticisms behind FRAs decision to terminate $4B in grants."
+    },
+    {
+        "link": "https://www.enr.com/articles/60913-clock-ticking-on-california-high-speed-rail-federal-funding",
+        "date": "2025-06-17",
+        "title": "Clock Ticking On California High Speed Rail Federal Funding",
+        "summary": "<p>Officials with the California High-Speed Rail authority refute criticisms of the project that underpin the Federal Railroad Authority's decision to terminate $4B in previously awarded grants to the project.</p><br />",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Clock ticking on California High Speed Rail as federal funding at risk; officials refute criticisms behind FRAs decision to terminate $4B in grants.",
+        "type": "news"
     }
 ]
