@@ -3462,5 +3462,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Clock ticking on California High Speed Rail as federal funding at risk; officials refute criticisms behind FRAs decision to terminate $4B in grants.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa19ISWdMR1dGd2w3a2tnaEd5UkxfTURZZlZ5b0JQd05iYk1ueWJ4NUE1bzBhNGx2WFFtU1V0Rmd1NXB3VHh6bVQtLVY1aENOeWhycWR6aHd0aEt0ZGl4LS1jNlRmbVVFVS1jZ0p5QUZhcUUxMzJLSVBVQ2xraGlXVjNEYm5WcEN6b3hRVWVhMnNiVEluTlA5cGNhVFpDYmMyZ1E?oc=5",
+        "date": "2025-06-17",
+        "title": "Quebec residential construction strike: Court to hear bad faith complaints next week - CityNews Montreal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQa19ISWdMR1dGd2w3a2tnaEd5UkxfTURZZlZ5b0JQd05iYk1ueWJ4NUE1bzBhNGx2WFFtU1V0Rmd1NXB3VHh6bVQtLVY1aENOeWhycWR6aHd0aEt0ZGl4LS1jNlRmbVVFVS1jZ0p5QUZhcUUxMzJLSVBVQ2xraGlXVjNEYm5WcEN6b3hRVWVhMnNiVEluTlA5cGNhVFpDYmMyZ1E?oc=5\" target=\"_blank\">Quebec residential construction strike: Court to hear bad faith complaints next week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CityNews Montreal</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZDItSkQzS0M2bTFFc3hKUDEzcE0zOEF4TlBWTHZtRS1qblVWSkpxRkg3RnhWX3pxekZyRUhCUjJzMnlFVXlRajd1N2Z1bUFnRE9Zb0hhXzU5VDE5czdOOEdQcDhsQXJ6U1NzWlVMbjlRLWp5S2tYcU53VERfNDNfQmlHSVlfU3dnNG1ONHZ6Wi16c2tOenh2RzNCNzkyTExHRXBkeDljVkdNVzVhX1I0b2NxUHo?oc=5",
+        "date": "2025-06-17",
+        "title": "B.C. signals fall timeline for long-awaited prompt payment legislation - Business in Vancouver",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPZDItSkQzS0M2bTFFc3hKUDEzcE0zOEF4TlBWTHZtRS1qblVWSkpxRkg3RnhWX3pxekZyRUhCUjJzMnlFVXlRajd1N2Z1bUFnRE9Zb0hhXzU5VDE5czdOOEdQcDhsQXJ6U1NzWlVMbjlRLWp5S2tYcU53VERfNDNfQmlHSVlfU3dnNG1ONHZ6Wi16c2tOenh2RzNCNzkyTExHRXBkeDljVkdNVzVhX1I0b2NxUHo?oc=5\" target=\"_blank\">B.C. signals fall timeline for long-awaited prompt payment legislation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business in Vancouver</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
