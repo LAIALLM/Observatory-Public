@@ -3385,5 +3385,13 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin mining is geographically concentrated in China, the US, and Kazakhstan.\n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddfa\ud83c\uddf8 United States\n3. \ud83c\uddf0\ud83c\uddff Kazakhstan",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-06-19",
+        "status": "posted",
+        "tweet": "\ud83c\udf0dBy 2025, 26 global cities are 'smart' with integrated IoT technology. \n\n\ud83c\uddfa\ud83c\uddf8US leads with 8, \ud83c\udde8\ud83c\uddf3China holds 5, while \ud83c\uddee\ud83c\uddf3India, \ud83c\uddec\ud83c\udde7UK, and \ud83c\udde6\ud83c\uddfaAustralia host 2 each. \n\nInvestments in smart city projects expected to reach $330B by 2026.",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
