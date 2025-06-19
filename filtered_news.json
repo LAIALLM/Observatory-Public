@@ -3925,5 +3925,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: Chinese efficiency brings Central Asias first light rail to Kazakhstan, enhancing regional infrastructure.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-06-19",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 IBM: 2021 Q3 results show 6% revenue growth in cloud and cognitive software division, totaling $5.6 billion. \nIBM's Z-series mainframe sees 49% revenue increase YoY, now at $1.5 billion. \n$IBM",
+        "type": "infrastructure"
     }
 ]
