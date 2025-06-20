@@ -3625,5 +3625,12 @@
         "tweet": "\ud83c\udf0d Global solar power capacity is projected to reach 1,469 GW by 2025, enough to power 235 million homes. Renewable energy takes the lead!",
         "type": "statistical",
         "category": "energy"
+    },
+    {
+        "link": null,
+        "date": "2025-06-20",
+        "status": "posted",
+        "tweet": "Bitcoin processes 7 transactions per second at an estimated annual energy cost of $16.6 billion.\n\nEthereum processes 30 transactions per second at an estimated annual energy cost of $5.4 billion.\n\nThe cost per transaction is significantly higher for Bitcoin.",
+        "type": "crypto"
     }
 ]
