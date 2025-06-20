@@ -3632,5 +3632,12 @@
         "status": "posted",
         "tweet": "Bitcoin processes 7 transactions per second at an estimated annual energy cost of $16.6 billion.\n\nEthereum processes 30 transactions per second at an estimated annual energy cost of $5.4 billion.\n\nThe cost per transaction is significantly higher for Bitcoin.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-06-20",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Google's data centers:\n- Achieved 50% reduction in energy use \n- Power usage effectiveness (PUE) at 1.1 \n- Powered by 100% renewable energy \n\n\ud83d\udcc8 $GOOGL",
+        "type": "infrastructure"
     }
 ]
