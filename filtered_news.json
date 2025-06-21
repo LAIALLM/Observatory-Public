@@ -3872,5 +3872,15 @@
         "status": "posted",
         "tweet": "\ud83c\udded\ud83c\uddfa NEWS: Liget Budapest named worlds best urban development project, recognized for transforming a former military area into a cultural hub.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd2VpRXVEQ3oyeHhIX0I2emVxVGNJQ1VMeDNnRFlBZXJZVEZuYTBsUmVqSnBWMnVyTHNIcmx5Z1JpWjB6bm85eDhfaXV5TTNxcG9SLVIxZ1ROblJFWUl0c1ozbWx6ZWZvSXlOSm1TZ3hFQ0Zxa2w4Q1NGbDB0VVNWYVZ2aHpGNFdHbHd0V3RGTkFvZXphUWc?oc=5",
+        "date": "2025-06-21",
+        "title": "\u2018The current state of the construction sector is unacceptable\u2019 - Times of Malta",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNd2VpRXVEQ3oyeHhIX0I2emVxVGNJQ1VMeDNnRFlBZXJZVEZuYTBsUmVqSnBWMnVyTHNIcmx5Z1JpWjB6bm85eDhfaXV5TTNxcG9SLVIxZ1ROblJFWUl0c1ozbWx6ZWZvSXlOSm1TZ3hFQ0Zxa2w4Q1NGbDB0VVNWYVZ2aHpGNFdHbHd0V3RGTkFvZXphUWc?oc=5\" target=\"_blank\">\u2018The current state of the construction sector is unacceptable\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of Malta</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
