@@ -3892,5 +3892,35 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZFExTktVeEFMd2xPeFoyQm16N1Q5RGVPSHRidk95Uzd1REJBaXFvWlo3MmI5ZXJDN0RaR2Y1blNQVFhFNzZWSnhleVdjbUFIbTYyUFlCNm45aUF5dGVPaUhFaE5IYlRjdVNHQTdackxxZWJpanZrVVVYNmpIUS1iNGRxLUdIMDE1bUp3Y2tna2sxWnZfU2c?oc=5",
+        "date": "2025-06-21",
+        "title": "Attack to infrastructure is attack to whole society - Tehran Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZFExTktVeEFMd2xPeFoyQm16N1Q5RGVPSHRidk95Uzd1REJBaXFvWlo3MmI5ZXJDN0RaR2Y1blNQVFhFNzZWSnhleVdjbUFIbTYyUFlCNm45aUF5dGVPaUhFaE5IYlRjdVNHQTdackxxZWJpanZrVVVYNmpIUS1iNGRxLUdIMDE1bUp3Y2tna2sxWnZfU2c?oc=5\" target=\"_blank\">Attack to infrastructure is attack to whole society</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tehran Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5weTB0RC1VcHM0UkNZUGRRZmlFUDRPLTNPRl9ZT0VkRUJiZ3Q2NEdkRW54YkpyX2V0b1E?oc=5",
+        "date": "2025-06-21",
+        "title": "Haqqani acknowledges internal rifts are delaying infrastructure projects - Amu TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiOkFVX3lxTE5weTB0RC1VcHM0UkNZUGRRZmlFUDRPLTNPRl9ZT0VkRUJiZ3Q2NEdkRW54YkpyX2V0b1E?oc=5\" target=\"_blank\">Haqqani acknowledges internal rifts are delaying infrastructure projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amu TV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNblJheUJpODg3ZFJZbDVNank5dXg0SlJzaW5sbzREbXh0RkhmV3BReHRYSlZmVENialh5cVRXNU5VV2VzaHFwMDFGR3B6V1A4a0NoNkpzaG80Yng1bTl0azIzNHdGclN1NVdXQjZZbFY5WkE1d0pvdFpHTW81UmNUREgwdTRMZmktV0xBN3E2MkxFQmszUnJBWGdCRDgycW1RazRJS0hfNHF3dVZmLTA1YU56SlJjWDNrVlhwa3NDSjNuaEI4VDF6WUt3N245SDhmcHB2eVJrR2R0Z0E?oc=5",
+        "date": "2025-06-21",
+        "title": "A year later, govt clears 4 of 6 town planning schemes proposed by PMRDA - Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNblJheUJpODg3ZFJZbDVNank5dXg0SlJzaW5sbzREbXh0RkhmV3BReHRYSlZmVENialh5cVRXNU5VV2VzaHFwMDFGR3B6V1A4a0NoNkpzaG80Yng1bTl0azIzNHdGclN1NVdXQjZZbFY5WkE1d0pvdFpHTW81UmNUREgwdTRMZmktV0xBN3E2MkxFQmszUnJBWGdCRDgycW1RazRJS0hfNHF3dVZmLTA1YU56SlJjWDNrVlhwa3NDSjNuaEI4VDF6WUt3N245SDhmcHB2eVJrR2R0Z0E?oc=5\" target=\"_blank\">A year later, govt clears 4 of 6 town planning schemes proposed by PMRDA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
