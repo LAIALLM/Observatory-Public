@@ -3882,5 +3882,15 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xVFdkTm9oU1AwRWpUa0VZMkRDd3c5b3Q5UXREa2txcDBrNFd3N2o4bTd6U0NKNXJycU5tZGw1ZENKNHFpWnlkOHY0b0t0NVJEU1J2THRLVnBGdl94Qkk0RzdsUm9XS2dyTS1Z0gFwQVVfeXFMUDl2UjYzRDFQcnNqaUx3aVN2Y1BRU0NkakRMQjRha09NYjRsNWVua3JKQ0xIRWFqaGl4TnNESkc5QlVrUU5LT1JWbGpRQjFmMzNrODJaQjBpQy15eVB4dFJOd1kzSk5XS0xMeU92WmJQNg?oc=5",
+        "date": "2025-06-21",
+        "title": "Iranian Hacktivist Attacking Israeli Military, Government, and Infrastructure Targets - GBHackers News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE8xVFdkTm9oU1AwRWpUa0VZMkRDd3c5b3Q5UXREa2txcDBrNFd3N2o4bTd6U0NKNXJycU5tZGw1ZENKNHFpWnlkOHY0b0t0NVJEU1J2THRLVnBGdl94Qkk0RzdsUm9XS2dyTS1Z0gFwQVVfeXFMUDl2UjYzRDFQcnNqaUx3aVN2Y1BRU0NkakRMQjRha09NYjRsNWVua3JKQ0xIRWFqaGl4TnNESkc5QlVrUU5LT1JWbGpRQjFmMzNrODJaQjBpQy15eVB4dFJOd1kzSk5XS0xMeU92WmJQNg?oc=5\" target=\"_blank\">Iranian Hacktivist Attacking Israeli Military, Government, and Infrastructure Targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GBHackers News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
