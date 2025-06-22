@@ -3354,5 +3354,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n\nAnnual energy consumption report:\nConsumed 77.8 million MWh in 2020, 8.3% increase from 2019. \n\nRenewable sources contributed to 76.5% of total consumption.\n\n\ud83d\udcc8 $AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-06-22",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual carbon footprint is projected to exceed 120 million metric tons of CO2, surpassing the yearly emissions of \ud83c\udde6\ud83c\uddf7 Argentina.",
+        "type": "crypto"
     }
 ]
