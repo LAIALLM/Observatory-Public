@@ -3432,5 +3432,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Uttar Pradesh sets infrastructure benchmark with 9 new expressways under Yogis leadership.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNam01dVNuOVl5TDM4clFaZ3ZmRWZDWnlTT3c3aTdDQzR0aUV6ZUUweHpORlNpTFktdll1VkFDVDMteXJOb0NHdzc4cWFaZ2NKOHFxRExBUEZpN18wVmxQSVdXOTBHUmI0aEhmT3R2QkNWdV9mcFY5SHVwMVBZRlZucHhYVEh2bnBFblZRQzJIR014VndDSXFQcHU0SzhVRU11YlRfd3B6djl3d0NTM1k4bVNocnFLaHlNamtKQmFOa0FxNHRHQWVQV3d4ZmZPWGh0UEE?oc=5",
+        "date": "2025-06-22",
+        "title": "Air India Crash Uncovers Major Gaps in India's Aviation Safety and MRO Infrastructure - BizzBuzz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNam01dVNuOVl5TDM4clFaZ3ZmRWZDWnlTT3c3aTdDQzR0aUV6ZUUweHpORlNpTFktdll1VkFDVDMteXJOb0NHdzc4cWFaZ2NKOHFxRExBUEZpN18wVmxQSVdXOTBHUmI0aEhmT3R2QkNWdV9mcFY5SHVwMVBZRlZucHhYVEh2bnBFblZRQzJIR014VndDSXFQcHU0SzhVRU11YlRfd3B6djl3d0NTM1k4bVNocnFLaHlNamtKQmFOa0FxNHRHQWVQV3d4ZmZPWGh0UEE?oc=5\" target=\"_blank\">Air India Crash Uncovers Major Gaps in India's Aviation Safety and MRO Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BizzBuzz</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCaF96ZnNWVXltbk9nTUpOWEMwTFJfOU9STUJYUlFjNnVvbnNTaTlBUU9YeWk4c0lXV1E1VmJaS1BlQUZMSVlGSnBOSmFIUVBHLUVyMXRNc3FCWkphU2F0d1p0WldnczF2Z2ZfeA?oc=5",
+        "date": "2025-06-22",
+        "title": "Mumbai to See Water Cuts for One Week - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBCaF96ZnNWVXltbk9nTUpOWEMwTFJfOU9STUJYUlFjNnVvbnNTaTlBUU9YeWk4c0lXV1E1VmJaS1BlQUZMSVlGSnBOSmFIUVBHLUVyMXRNc3FCWkphU2F0d1p0WldnczF2Z2ZfeA?oc=5\" target=\"_blank\">Mumbai to See Water Cuts for One Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
