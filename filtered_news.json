@@ -3452,5 +3452,13 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-22",
+        "status": "posted",
+        "tweet": "Summary: Top 5 countries in terms of total construction projects projected for 2025 \n\n\ud83c\udde8\ud83c\uddf3 China\n\ud83c\uddfa\ud83c\uddf8 United States \n\ud83c\uddee\ud83c\uddf3 India \n\ud83c\uddee\ud83c\udde9 Indonesia \n\ud83c\udde6\ud83c\uddea United Arab Emirates",
+        "type": "statistical",
+        "category": "construction projects"
     }
 ]
