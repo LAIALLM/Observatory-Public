@@ -3561,5 +3561,85 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2FqcGdEREw3ZXR1QW9Lb0FKcDMyX3FTNmItQldzMUctV0tmSEtlS3JsQVI4SVV5SnVzZnMzX2toT0ZBaHpULXZzek1QNTF4dHhnWTVyRmJlQndtVndnNUtZU3JNczlQcVp4Ny1jRjJhOVFYcUtUcHhjd3ZNd3AyMFZUWDdfLWhIUWw0X3pZbXhHRERQMjRtaTBOQlkzQm04RFA4V2RBU21QRWpFc3IyU20xRXN3c2dVVTFqQ3A4TFd0VnVFcDY2d0ZQZw?oc=5",
+        "date": "2025-06-23",
+        "title": "GCA to Provide Technical Support to Strengthen Climate-Resilient Infrastructure and Land Services in Cameroon - Global Center on Adaptation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2FqcGdEREw3ZXR1QW9Lb0FKcDMyX3FTNmItQldzMUctV0tmSEtlS3JsQVI4SVV5SnVzZnMzX2toT0ZBaHpULXZzek1QNTF4dHhnWTVyRmJlQndtVndnNUtZU3JNczlQcVp4Ny1jRjJhOVFYcUtUcHhjd3ZNd3AyMFZUWDdfLWhIUWw0X3pZbXhHRERQMjRtaTBOQlkzQm04RFA4V2RBU21QRWpFc3IyU20xRXN3c2dVVTFqQ3A4TFd0VnVFcDY2d0ZQZw?oc=5\" target=\"_blank\">GCA to Provide Technical Support to Strengthen Climate-Resilient Infrastructure and Land Services in Cameroon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Center on Adaptation</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWF3bkhSLXBOeTI4TkNkR0w5YUdhT1dmV0JqaEx4RDUwWXlwdGlFNUhiZUI4aTA1QUxoNHp2STROUVBvUkIxcjdRZkgxd0JKQjVQREU3NEV6U3hNLUFpTThtdG53Mk9sdFdfcnFTcUdVbmtoamFMUk1oZXRKcHRLTVNlRUN5WHpWYS12aHRtT1U2SFEyRnhkZg?oc=5",
+        "date": "2025-06-23",
+        "title": "HIVE Acquires 7.2MW Toronto Data Center to Expand AI Infrastructure - Bitcoin.com News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWF3bkhSLXBOeTI4TkNkR0w5YUdhT1dmV0JqaEx4RDUwWXlwdGlFNUhiZUI4aTA1QUxoNHp2STROUVBvUkIxcjdRZkgxd0JKQjVQREU3NEV6U3hNLUFpTThtdG53Mk9sdFdfcnFTcUdVbmtoamFMUk1oZXRKcHRLTVNlRUN5WHpWYS12aHRtT1U2SFEyRnhkZg?oc=5\" target=\"_blank\">HIVE Acquires 7.2MW Toronto Data Center to Expand AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin.com News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVUZJN29UYVFDSktVWXAwU1NZTU4ydGo4ZHpxa3RyVGRadHJtclhiX2wyYmpKc0FFOERhOUF0UEZhZEZLcWsydkhFSDFsdEpZb2E0X0NiRHR1YW9UdTZwSHJBanl2LTJRNFR1d0dOUHJxRW5BU28tZjJwMVR0OUZHeWwzNjhid0Vtc3FOYkE1eHBtcnhEQ0hRTGJUbUZMVEZFb2xHS3l6MnQxX1RhVFE?oc=5",
+        "date": "2025-06-23",
+        "title": "Indian Aces 2025: When business success becomes social infrastructure - Arabian Business",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNVUZJN29UYVFDSktVWXAwU1NZTU4ydGo4ZHpxa3RyVGRadHJtclhiX2wyYmpKc0FFOERhOUF0UEZhZEZLcWsydkhFSDFsdEpZb2E0X0NiRHR1YW9UdTZwSHJBanl2LTJRNFR1d0dOUHJxRW5BU28tZjJwMVR0OUZHeWwzNjhid0Vtc3FOYkE1eHBtcnhEQ0hRTGJUbUZMVEZFb2xHS3l6MnQxX1RhVFE?oc=5\" target=\"_blank\">Indian Aces 2025: When business success becomes social infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arabian Business</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ2lXLWFuckYzTlh1MFVSZUsyYUFXTENMVWxUQkJiUG52VzFuOE5HcEJEY0Z5V1lOeVhWWEY0MEdoMGtMd3BwakxXSl9WNDJncHhvUU04eWdRZTdlbU1yWFROWXRVM1FFRDVIUFZpRDlUNi1oc3g2X0trcGtkcWRySkZ4RHZJMzlrWmtPTk5TRnZvZ1BsampZYXprOERYVHd5WEg2VmxMX3NVMUg4VnNrTTAzSjZ1M3BQVGxYUXlyRlk2MXV6TkE?oc=5",
+        "date": "2025-06-23",
+        "title": "PanStreet International: Rethinking Infrastructure Retrofitting for Autonomous Parking - Parking Network",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ2lXLWFuckYzTlh1MFVSZUsyYUFXTENMVWxUQkJiUG52VzFuOE5HcEJEY0Z5V1lOeVhWWEY0MEdoMGtMd3BwakxXSl9WNDJncHhvUU04eWdRZTdlbU1yWFROWXRVM1FFRDVIUFZpRDlUNi1oc3g2X0trcGtkcWRySkZ4RHZJMzlrWmtPTk5TRnZvZ1BsampZYXprOERYVHd5WEg2VmxMX3NVMUg4VnNrTTAzSjZ1M3BQVGxYUXlyRlk2MXV6TkE?oc=5\" target=\"_blank\">PanStreet International: Rethinking Infrastructure Retrofitting for Autonomous Parking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Parking Network</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaU9ReEg2RXdJdHhEaEVMRVpQSHFhdm1MaVBPMEcwcEhUVnZZRGJNZHByODZIeW1GdTlDS2ZGZzVWTU53OFNvb2prd2dDd2t0eXJMX2h2NlVEN3pRNFZyakJJbDB0ZFI0dkdWS1JZWkhyU1h4YzJldlFuOXA5OW5qcVFrMEhQcktkNEwydEFUekhHTHVNOHlXVXZ5TmR1WG1adkJlRGVzOHA3MkRfMVphcTRIY0M5UXNC?oc=5",
+        "date": "2025-06-23",
+        "title": "Centuri secures over $575 million in infrastructure contracts - Investing.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaU9ReEg2RXdJdHhEaEVMRVpQSHFhdm1MaVBPMEcwcEhUVnZZRGJNZHByODZIeW1GdTlDS2ZGZzVWTU53OFNvb2prd2dDd2t0eXJMX2h2NlVEN3pRNFZyakJJbDB0ZFI0dkdWS1JZWkhyU1h4YzJldlFuOXA5OW5qcVFrMEhQcktkNEwydEFUekhHTHVNOHlXVXZ5TmR1WG1adkJlRGVzOHA3MkRfMVphcTRIY0M5UXNC?oc=5\" target=\"_blank\">Centuri secures over $575 million in infrastructure contracts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY3lmUGtDelR5dnhFRnhjNnN6Smw1UzBpZGZxOENvT1VVa0FnajJIYURFWHV2S3JLUUFVVEdzNmZUNldCRTJ1djVzZ05tTFh0UlY4NnRianp0UGVXSGtkdVFIV0xoN0tBSmY4bDl4Z2k5d3hnbThmSlQ1R3pkeXRDemhKOFF5NGVHZHBDelBzN0E?oc=5",
+        "date": "2025-06-23",
+        "title": "LAFPP discloses a new infrastructure commitment - Infrastructure Investor",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQY3lmUGtDelR5dnhFRnhjNnN6Smw1UzBpZGZxOENvT1VVa0FnajJIYURFWHV2S3JLUUFVVEdzNmZUNldCRTJ1djVzZ05tTFh0UlY4NnRianp0UGVXSGtkdVFIV0xoN0tBSmY4bDl4Z2k5d3hnbThmSlQ1R3pkeXRDemhKOFF5NGVHZHBDelBzN0E?oc=5\" target=\"_blank\">LAFPP discloses a new infrastructure commitment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infrastructure Investor</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNEZDRXU1Z3ByLVNPX3RucFJSQlhqQ2t1Rmw4S09sWUppODlmNjFFZ0xjc2JqQjlqWHUxaXpYaWdYbFJwcjUxeTFRT2JXY1NGUTYwem5xUS1VV3pOM1IxMloxUDlDT0U3SUMxMjBEUWN4dTdiQmxCY0Z4azZLWEJRbDZ4TE5GTlpvaFFQRjZDZWc5RllJTUdfZGFJQ19CLU1hYktnSjVnaUpZWHNFUVhaTTlpdUEzVnFuRWNDZ1VSSnJ1dw?oc=5",
+        "date": "2025-06-23",
+        "title": "WardsAuto Podcast: BEV Charging Infrastructure Getting Better Despite Political Opposition - Wards Auto",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNEZDRXU1Z3ByLVNPX3RucFJSQlhqQ2t1Rmw4S09sWUppODlmNjFFZ0xjc2JqQjlqWHUxaXpYaWdYbFJwcjUxeTFRT2JXY1NGUTYwem5xUS1VV3pOM1IxMloxUDlDT0U3SUMxMjBEUWN4dTdiQmxCY0Z4azZLWEJRbDZ4TE5GTlpvaFFQRjZDZWc5RllJTUdfZGFJQ19CLU1hYktnSjVnaUpZWHNFUVhaTTlpdUEzVnFuRWNDZ1VSSnJ1dw?oc=5\" target=\"_blank\">WardsAuto Podcast: BEV Charging Infrastructure Getting Better Despite Political Opposition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wards Auto</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdGxVb2E3R0hsUEJVTlgwLWphc3NMWFRyaERyTjhKR3dkV1g5R3I2cDBWRnlLVUdhZ3Bza05SajZTZnRJT3dlWG5LdlV2TWxvQ2pScU5vOTRoc2hvazBQSkZTdHlUcXdxU3FBWEM2V2RXNF9feDZYZHlVVlhrb1cxbTNrWHh4WHVUYWxYckNnMFExRi1yd3dka0xyUDZWRDdOMHdLNGRDeklydGZpQmVyWm5VTmRzcmhldmItQlRLQmZYUGhaUGV3OFdRWWlfMVB3TExMWDN6Z2h6czFuZmV4ZDZKeUpiSmU0Vm1xNVd5blAxTTFha0RuTDU4SjhWaWl6T1B0QkZ5SGNRQllyekF3?oc=5",
+        "date": "2025-06-23",
+        "title": "Executive Vice-President Fitto hosts implementation dialogue on Sustainable Urban Development of Cohesion policy - European Commission",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxOdGxVb2E3R0hsUEJVTlgwLWphc3NMWFRyaERyTjhKR3dkV1g5R3I2cDBWRnlLVUdhZ3Bza05SajZTZnRJT3dlWG5LdlV2TWxvQ2pScU5vOTRoc2hvazBQSkZTdHlUcXdxU3FBWEM2V2RXNF9feDZYZHlVVlhrb1cxbTNrWHh4WHVUYWxYckNnMFExRi1yd3dka0xyUDZWRDdOMHdLNGRDeklydGZpQmVyWm5VTmRzcmhldmItQlRLQmZYUGhaUGV3OFdRWWlfMVB3TExMWDN6Z2h6czFuZmV4ZDZKeUpiSmU0Vm1xNVd5blAxTTFha0RuTDU4SjhWaWl6T1B0QkZ5SGNRQllyekF3?oc=5\" target=\"_blank\">Executive Vice-President Fitto hosts implementation dialogue on Sustainable Urban Development of Cohesion policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">European Commission</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
