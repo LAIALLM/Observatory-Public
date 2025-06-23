@@ -3171,5 +3171,13 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-23",
+        "status": "posted",
+        "tweet": "Summary: Europe dominates the list of urban development growth in 2025\n\n\ud83c\uddf1\ud83c\uddfa Luxembourg\n\ud83c\uddf8\ud83c\uddee Slovenia\n\ud83c\uddea\ud83c\uddea Estonia\n\ud83c\uddf3\ud83c\uddf1 Netherlands\n\ud83c\uddee\ud83c\uddea Ireland\n\nBy 2025, these countries have the highest annual growth rate in urban development projects: no other region comes close.",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
