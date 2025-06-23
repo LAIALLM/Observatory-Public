@@ -3064,5 +3064,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. in Q3 2021:\n\nDevice production: 75 million iPhones produced\nEnergy usage: 4.1 million MWh\n\nRenewable resources: 75% of total energy consumed.\nRevenue: $81.4 billion ($41.27B in iPhone sales)\n\nStock Status: Publicly traded \n$AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-06-23",
+        "status": "posted",
+        "tweet": "Summary: Solana has the lowest infrastructural costs due to staking, followed by Ethereum, while Bitcoin's mining costs are significantly higher.\n\n1. Solana: Staking costs - $0.01 per transaction\n2. Ethereum: Staking costs - $0.10 per transaction\n3. Bitcoin: Mining costs - $50 pe",
+        "type": "crypto"
     }
 ]
