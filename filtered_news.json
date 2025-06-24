@@ -3590,5 +3590,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-24",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global tech giant Microsoft's data centers use 1.125 billion kWh of electric power annually. Renewable energy powered 60% of this usage in 2019.\n\n\ud83d\udc9a Aim is 70% by 2023.\n\n\ud83d\udcc8 $MSFT",
+        "type": "infrastructure"
     }
 ]
