@@ -3697,5 +3697,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-24",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d According to a 2025 Global Smart Cities Market report, the smart cities market is projected to expand to $820.7 billion by 2030 \u2013 a staggering CAGR of 22.9% from 2025 - 2030. \n\nInvestments in digital, sustainable urbanization are fueling the future.",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
