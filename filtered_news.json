@@ -3933,5 +3933,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Maharashtra launches e-Cabinet and approves key infrastructure projects.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-06-25",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin processes 7 transactions per second at an annual energy cost of $15 billion, while Ethereum handles 30 transactions per second at $5 billion, and Solana manages 65,000 transactions per second at $1 billion.",
+        "type": "crypto"
     }
 ]
