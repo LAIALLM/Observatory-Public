@@ -3947,5 +3947,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \nRecord-breaking quarter: $111.4 billion in revenue. \nUp 21% compared to 2020 Q1. $AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-06-25",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 USA: By 2025, an estimated $2.6 trillion funding gap is predicted for infrastructure needs. This includes $1.2 trillion for transportation, $736 billion for water and waste, and $429 billion for schools.\n\nInaction could result in $10 trillion in lost GDP by 2039.",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
