@@ -4052,5 +4052,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-26",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin nodes are distributed across 95 countries, with the highest concentration in:\n\n\ud83c\uddfa\ud83c\uddf8 USA: 27%\n\ud83c\udde9\ud83c\uddea Germany: 18%\n\ud83c\uddeb\ud83c\uddf7 France: 10%\n\nIn contrast, Ethereum nodes are more centralized, present in 68 countries, with:\n\n\ud83c\uddfa\ud83c\uddf8 USA: 35%\n\ud83c\uddec\ud83c\udde7 UK: 15%\n\ud83c\udde8\ud83c\udde6 Canada: 12%",
+        "type": "crypto"
     }
 ]
