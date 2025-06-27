@@ -3958,5 +3958,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Tech giant Apple Inc. reported its highest daily data volumes.\n \n500 petabytes processed in the last 24 hours.\n \nA 20% increase from the previous quarter.\n\n$AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-06-27",
+        "status": "posted",
+        "tweet": "By 2025, Ethereum's shift to proof-of-stake is projected to reduce its annual energy consumption to 99.95% less than Bitcoin's proof-of-work, saving costs equivalent to \ud83c\uddfa\ud83c\uddf8 USA's annual electricity bill for 2 million households.",
+        "type": "crypto"
     }
 ]
