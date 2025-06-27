@@ -4005,5 +4005,15 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/60963-committee-launches-structural-engineering-code-review-to-reduce-embodied-carbon",
+        "date": "2025-06-27",
+        "title": "Team Launches Structural Engineering Code Review With Eye on Reducing Embodied Carbon",
+        "summary": "<p>A group of civil and structural engineers working with leading industry groups is undertaking a review of the primary structural design codes to identify tweaks and changes that could reduce embodied carbon.&nbsp;</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
