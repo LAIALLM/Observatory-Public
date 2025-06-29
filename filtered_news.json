@@ -3164,5 +3164,12 @@
         "status": "posted",
         "tweet": "In 2025, Ethereum's validator decentralization shows 4,300 unique entities operating over 900,000 validators, with the top 10 operators controlling just 12% of the network's stake, enhancing security and resilience.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-06-29",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d  Google's data centers, worldwide, used 7.6 TWh of electricity in 2019. This is equivalent to the power consumed by the city of San Francisco in one year. \n\n\ud83c\uddfa\ud83c\uddf8 In the US alone, they consumed 3.3 TWh of electricity. \n\nStock ticker: $GOOGL",
+        "type": "infrastructure"
     }
 ]
