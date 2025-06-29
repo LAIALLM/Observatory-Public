@@ -3171,5 +3171,13 @@
         "status": "posted",
         "tweet": "\ud83c\udf0d  Google's data centers, worldwide, used 7.6 TWh of electricity in 2019. This is equivalent to the power consumed by the city of San Francisco in one year. \n\n\ud83c\uddfa\ud83c\uddf8 In the US alone, they consumed 3.3 TWh of electricity. \n\nStock ticker: $GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-06-29",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 USA: Electric vehicles are projected to comprise 10% of new car sales in 2025, a five-fold increase from 2% in 2020. \n\n\ud83c\udf0d Globally: By 2030, it's predicted that 50% of all new cars will be electric.\n\nSwitch gears, accelerate to a sustainable future.",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
