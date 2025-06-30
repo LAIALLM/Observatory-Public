@@ -2646,5 +2646,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-30",
+        "status": "posted",
+        "tweet": "By 2025, Ethereum's shift to proof-of-stake is projected to reduce its annual energy consumption by 99.95%, from 78 TWh to 0.01 TWh, compared to Bitcoin's proof-of-work mining.\n\nThis stark contrast highlights the significant cost savings and environmental benefits of staking over",
+        "type": "crypto"
     }
 ]
