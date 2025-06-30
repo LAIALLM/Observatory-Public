@@ -3251,5 +3251,43 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-06-30",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China's GDP is projected to reach $24.7 trillion in 2025, thus overtaking \ud83c\uddfa\ud83c\uddf8 USA's projected $23.2 trillion GDP.\n\nConversely, \ud83c\uddf3\ud83c\uddec Nigeria has the highest projected population growth, expected to surpass \ud83c\uddfa\ud83c\uddf8 USA's total populace by 2050.",
+        "type": "statistical",
+        "category": "countries"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRDhSdktNSnM3Y1VGZE1wUmd6MDktTlBaZF95Z2tDOXNlX05TcUd5RkJLbkw5U0VhczBwQnhPQVZaTTYwMm5ycTNsU2RSRDh1VnozOUtHNWFFWGRlWUdFajhVUjJxVnpWMWlMdWFxaWlBeDJMMW9XWjE5ZG9BMHR3MVVFdHlxTmRydzRmZV9pM3ZjaVRjYWNWVmlZMmxyYVkwa3JMSU83alZwQW1kTHlnel91U3A5VHRzZDZnUjZn?oc=5",
+        "date": "2025-06-30",
+        "title": "How extreme weather is undermining India\u2019s infrastructure and economy - Daily Pioneer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQRDhSdktNSnM3Y1VGZE1wUmd6MDktTlBaZF95Z2tDOXNlX05TcUd5RkJLbkw5U0VhczBwQnhPQVZaTTYwMm5ycTNsU2RSRDh1VnozOUtHNWFFWGRlWUdFajhVUjJxVnpWMWlMdWFxaWlBeDJMMW9XWjE5ZG9BMHR3MVVFdHlxTmRydzRmZV9pM3ZjaVRjYWNWVmlZMmxyYVkwa3JMSU83alZwQW1kTHlnel91U3A5VHRzZDZnUjZn?oc=5\" target=\"_blank\">How extreme weather is undermining India\u2019s infrastructure and economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Pioneer</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ2pRZ2ZqSlVaaGxzVHFlbWlXdkU2XzFUQUJKaUVGUUt3aS1jZHowc3J0TzdXbEtITFJ2ZGVvYWl6Yi1FZElTVks4cEMzbDhxbUdNWXA0cjRGSzRGNjVZODI4RHExTC1qMkJlMkRYd1lXMnJlTURabkRJdFNqZlVpYTNCdFZZYVQxaXlsWERXQ0VuMHpyMVdHUjM1ajM?oc=5",
+        "date": "2025-06-30",
+        "title": "In Urban Planning, AI Prompting Could be the new Design Thinking - Planetizen",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ2pRZ2ZqSlVaaGxzVHFlbWlXdkU2XzFUQUJKaUVGUUt3aS1jZHowc3J0TzdXbEtITFJ2ZGVvYWl6Yi1FZElTVks4cEMzbDhxbUdNWXA0cjRGSzRGNjVZODI4RHExTC1qMkJlMkRYd1lXMnJlTURabkRJdFNqZlVpYTNCdFZZYVQxaXlsWERXQ0VuMHpyMVdHUjM1ajM?oc=5\" target=\"_blank\">In Urban Planning, AI Prompting Could be the new Design Thinking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Planetizen</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkRJdk9STGxqY192QTFVZnZHZjczTUNXRnFYMEtVM3V3bjg5UllrMDBKeXh1TmxRZTZJaEpUaWVSV1ZsNjEyYW54b3FlZnA5d0pwSmdkdWZ2UHZueGVUM083NTVSZ0lJRk9aN295X2NHZ1FiaXNWYzZ2VXVYdkxPYXNrWV9BWFZfMDVQYjFkdVBFeTVaNkN3LUNaMDljd3p2Q2RyWUt2NVdUZElsd0czMkVBSlE?oc=5",
+        "date": "2025-06-30",
+        "title": "From ancient kilns to smart city: The metamorphosis of Moradabad - Daily Pioneer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkRJdk9STGxqY192QTFVZnZHZjczTUNXRnFYMEtVM3V3bjg5UllrMDBKeXh1TmxRZTZJaEpUaWVSV1ZsNjEyYW54b3FlZnA5d0pwSmdkdWZ2UHZueGVUM083NTVSZ0lJRk9aN295X2NHZ1FiaXNWYzZ2VXVYdkxPYXNrWV9BWFZfMDVQYjFkdVBFeTVaNkN3LUNaMDljd3p2Q2RyWUt2NVdUZElsd0czMkVBSlE?oc=5\" target=\"_blank\">From ancient kilns to smart city: The metamorphosis of Moradabad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Pioneer</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
