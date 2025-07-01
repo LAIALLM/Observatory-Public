@@ -3348,5 +3348,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf8\ud83c\udde6 NEWS: Naver Cloud partners with New Murabba for smart city development in Saudi Arabia.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-07-01",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin processes 7 transactions per second at an estimated annual infrastructure cost of $20 billion.\n\nEthereum handles 30 transactions per second, costing $5 billion annually.\n\nSolana achieves 65,000 transactions per second for $100 million yearly.",
+        "type": "crypto"
     }
 ]
