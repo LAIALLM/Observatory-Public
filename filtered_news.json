@@ -3578,5 +3578,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddea NEWS: DP World to invest $2.5 billion in logistics infrastructure projects across four continents.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-07-02",
+        "status": "posted",
+        "tweet": "\ud83c\udf0f Global urban development firms are projected to generate over $700bn in revenues by 2026, up 10% from 2025.\ud83d\ude80\n\nThis uptick also anticipates 25% more smart cities by the end of the decade, hinting at sustainable urban livelihoods. \ud83d\udca1\ud83d\udcbc\n\n#kickstart2025 #urbanrise",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
