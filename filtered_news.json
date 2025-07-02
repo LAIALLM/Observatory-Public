@@ -3338,5 +3338,12 @@
         "tweet": "\ud83c\udf0d Global spending on smart city initiatives is projected to reach $327 billion by 2025, with \ud83c\uddfa\ud83c\uddf8 USA, \ud83c\udde8\ud83c\uddf3 China and \ud83c\uddee\ud83c\uddf3 India leading in investments. This marks a 25% increase from 2023, demonstrating the rapid growth in urban digital transformation.",
         "type": "statistical",
         "category": "smart cities"
+    },
+    {
+        "link": null,
+        "date": "2025-07-02",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual maintenance and security costs total $1.2 billion, compared to Ethereum's $800 million. \n\nThese figures reflect the significant investment required to sustain these blockchain networks.",
+        "type": "crypto"
     }
 ]
