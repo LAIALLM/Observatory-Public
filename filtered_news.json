@@ -3221,5 +3221,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-03",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 U.S. infrastructure companies expected to enjoy a 15% surge in sector growth by 2030, as tech advances feed demand for smart cities, green technologies, & wireless networks. \ud83c\udfd7\ufe0f\ud83d\udca1  \n\nIn contrast, \ud83c\uddea\ud83c\uddfa EU seeing a slower 6% growth due to tighter environmental regulations. \ud83c\udf0d\ud83d\udcc9",
+        "type": "statistical",
+        "category": "infrastructure companies"
     }
 ]
