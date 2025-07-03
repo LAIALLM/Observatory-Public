@@ -2897,5 +2897,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-03",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Google's data centers used 5.3 terawatt hours of electricity across global operations in 2019, accounting for less than 0.01% of global energy.\n\n\ud83c\udf0d Energy efficiency of Google's data centers is twice the industry average, leading in savings and environmental impact.\n\n$GOOGL \ud83d\udcca",
+        "type": "infrastructure"
     }
 ]
