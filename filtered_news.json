@@ -2880,5 +2880,20 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-04",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.\nData centers' energy consumption: 83% hydropower, 11% wind, 4% solar.\n100% renewable energy power since 2014.\nCurrent share price: $134.32\nStock ticker: $AAPL",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-07-04",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3China's middle class is projected to swell to 1.2 billion by 2027, surpassing the entire population of \ud83c\uddee\ud83c\uddf3India current at 1.4 billion.\n\nEconomic trends indicate a dramatic reverse in wealth distribution as emerging markets take the lead.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
