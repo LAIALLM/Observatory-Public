@@ -2850,5 +2850,35 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin has the highest cloud & data center costs among the three cryptocurrencies in 2025.\n\n1. Bitcoin: $1.5B annually\n2. Ethereum: $800M annually\n3. Solana: $200M annually",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGF2aTNIWVJ1SjJSUjczT3p5b0QxVHFJX2FmZWN4ZFhyZ2FjV21mZGp2VkluWUs3VExicGFWUDhfVDVDMWxvejRHOEVKVTdQcGluMHRuUXBhTkI1dnA2REJtU3VzSlRIdUp5Z20zQWlWdmpabk5DMm4yV2t2OVdacFo0VFdlZWxBRXFxaHVKMUhDRVgyOEFMUFp2Y3lZWmxGUEs4ODZ1ZFNsU1BGTGtkV1ZVVGJCVUZHSHpGbi1oc180QQ?oc=5",
+        "date": "2025-07-04",
+        "title": "Tech Professionals in Pune Demand Urgent Action on Infrastructure Crisis - Pune Times Mirror",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGF2aTNIWVJ1SjJSUjczT3p5b0QxVHFJX2FmZWN4ZFhyZ2FjV21mZGp2VkluWUs3VExicGFWUDhfVDVDMWxvejRHOEVKVTdQcGluMHRuUXBhTkI1dnA2REJtU3VzSlRIdUp5Z20zQWlWdmpabk5DMm4yV2t2OVdacFo0VFdlZWxBRXFxaHVKMUhDRVgyOEFMUFp2Y3lZWmxGUEs4ODZ1ZFNsU1BGTGtkV1ZVVGJCVUZHSHpGbi1oc180QQ?oc=5\" target=\"_blank\">Tech Professionals in Pune Demand Urgent Action on Infrastructure Crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pune Times Mirror</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSjNicXZpNnlabGNVWFZseUhmYnVmYWlXRjJNdkdiUUJSTUtfTlNrYWFlX0lOMUZfUXVwenAzOGZIeDRibGNrcUJTTHFUQlFoaVltdlRzYVpaOXVTNEdsZ3JMNms3eXBUekpwclRMSWNwZHFYaG9RS3B6VnFfTnZ0cU1DLUhYOUFWSmVrY0dvWnlmb1JXcjFnVVVfYVZtWDhNaXpzSjhWUGNDVXdZQnRVQjlIdVBtaE50dVRpWUFmYlRZejBsN1IyMFVaNnZEOVlaTHdMQkVmbGxXZUY5Ync?oc=5",
+        "date": "2025-07-04",
+        "title": "Smart City Expo 2025 urges cities to become drivers of change in its largest edition - PR Newswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSjNicXZpNnlabGNVWFZseUhmYnVmYWlXRjJNdkdiUUJSTUtfTlNrYWFlX0lOMUZfUXVwenAzOGZIeDRibGNrcUJTTHFUQlFoaVltdlRzYVpaOXVTNEdsZ3JMNms3eXBUekpwclRMSWNwZHFYaG9RS3B6VnFfTnZ0cU1DLUhYOUFWSmVrY0dvWnlmb1JXcjFnVVVfYVZtWDhNaXpzSjhWUGNDVXdZQnRVQjlIdVBtaE50dVRpWUFmYlRZejBsN1IyMFVaNnZEOVlaTHdMQkVmbGxXZUY5Ync?oc=5\" target=\"_blank\">Smart City Expo 2025 urges cities to become drivers of change in its largest edition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/60993-new-york-city-seeks-startup-applicants-for-water-tech-pilot-program",
+        "date": "2025-07-04",
+        "title": "New York City Seeks Startup Applicants for Water Tech Pilot Program",
+        "summary": "<p>Startup companies with hardware and software innovations will soon have a chance to partner with the New York City Dept. of Environmental Protection on improving the buildout and operation of the city\u2019s massive municipal water system.&nbsp;</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
