@@ -3158,5 +3158,15 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQR0pVaHVURjZIYk40RHRpcUlHTFdIS1Vvd1VqaVcyZENFdHFYMlZzNm82UnR3QU1icUVWbVBfQUNjWGJMX2pDZ2tLaUg3a1JVM0RIT3hBeFdIWlg3LUxCdnpPbXlRTkozWWE2amlfckJnbUw4RWg5S2tXcVUtWHplZDFjTVRkdGh4WG1Cd2duSS1meWpvdGFEdk9qTlk3TUZ5NkpRbkNfRHV2SXJsOGlvalhkNlo4eEtycXJVMWZ2a0EtbFBVXzktT3VPTHlEWGZzbEZaeE1mUW50b2F4ZTl1QU1meGl5ajFQcnBkUUZLNU1nTFI0ZGFCUlpTMA?oc=5",
+        "date": "2025-07-05",
+        "title": "Japan's construction industry has been slow to adopt IT, largely because the sector is dominated by smaller companies. - Japan Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQR0pVaHVURjZIYk40RHRpcUlHTFdIS1Vvd1VqaVcyZENFdHFYMlZzNm82UnR3QU1icUVWbVBfQUNjWGJMX2pDZ2tLaUg3a1JVM0RIT3hBeFdIWlg3LUxCdnpPbXlRTkozWWE2amlfckJnbUw4RWg5S2tXcVUtWHplZDFjTVRkdGh4WG1Cd2duSS1meWpvdGFEdk9qTlk3TUZ5NkpRbkNfRHV2SXJsOGlvalhkNlo4eEtycXJVMWZ2a0EtbFBVXzktT3VPTHlEWGZzbEZaeE1mUW50b2F4ZTl1QU1meGl5ajFQcnBkUUZLNU1nTFI0ZGFCUlpTMA?oc=5\" target=\"_blank\">Japan's construction industry has been slow to adopt IT, largely because the sector is dominated by smaller companies.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Japan Today</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
