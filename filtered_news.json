@@ -2922,5 +2922,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-05",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India has overtaken \ud83c\udde8\ud83c\uddf3 China as the most populated country in 2025, with 1.44B people!\n\nMeanwhile, \ud83c\uddf3\ud83c\uddec Nigeria on track to surpass \ud83c\uddfa\ud83c\uddf8 USA in population by 2050, projected at 402M. \n\nDemographics are dynamically shaping global future.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
