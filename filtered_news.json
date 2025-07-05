@@ -2930,5 +2930,45 @@
         "tweet": "\ud83c\uddee\ud83c\uddf3 India has overtaken \ud83c\udde8\ud83c\uddf3 China as the most populated country in 2025, with 1.44B people!\n\nMeanwhile, \ud83c\uddf3\ud83c\uddec Nigeria on track to surpass \ud83c\uddfa\ud83c\uddf8 USA in population by 2050, projected at 402M. \n\nDemographics are dynamically shaping global future.",
         "type": "statistical",
         "category": "countries"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZUlXdWN0dlZLdXk0bDd6eHFTd0g5eDR5ekxDcExfWVFQTGNYRXVZMlJ4azFrMURwakp4SlJVVldGQVVkVkF5QmhEcXhla0t2OEVHNWhHb0tjQ2tydVZCY2ZaQzZ3Vk9QTzRmM0VwQXhWUHJyVWctSkx1VDBuZHJNeGZKN1VqQkt6c2RDMVllMzhHZw?oc=5",
+        "date": "2025-07-05",
+        "title": "\u2018Why sustainability in building practices is vital\u2019 - The Guardian Nigeria News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZUlXdWN0dlZLdXk0bDd6eHFTd0g5eDR5ekxDcExfWVFQTGNYRXVZMlJ4azFrMURwakp4SlJVVldGQVVkVkF5QmhEcXhla0t2OEVHNWhHb0tjQ2tydVZCY2ZaQzZ3Vk9QTzRmM0VwQXhWUHJyVWctSkx1VDBuZHJNeGZKN1VqQkt6c2RDMVllMzhHZw?oc=5\" target=\"_blank\">\u2018Why sustainability in building practices is vital\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian Nigeria News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdFlGRWxscU1zQWliU0JnODZNRU9uTVNkb0p2R0pDXzNqcTl3NjNheTB1WUN1Mkg2WWg2REh6a0JsbUk1UXJvbHJtaVFHUDRnTU96WExrZzZQbUJEVWhnYzhkSWxLVUROOU4ydms5d2RBRlljTFIxSkRSZ20zSFMwM245d245cm1DN0ozZXFCd2lRZDRzVUxHT19LNTBhTGwtNnp4MGVObXAxU1l2a2plMjJhXzFkaVVjRTJZS0VCOURENmtxakZhUENZQ1FGVTBOdnJnckE0OVNwQQ?oc=5",
+        "date": "2025-07-05",
+        "title": "Top Indian Cities with the Best EV Charging Infrastructure in 2025: Where Going Electric Makes Sense - Times Bull",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdFlGRWxscU1zQWliU0JnODZNRU9uTVNkb0p2R0pDXzNqcTl3NjNheTB1WUN1Mkg2WWg2REh6a0JsbUk1UXJvbHJtaVFHUDRnTU96WExrZzZQbUJEVWhnYzhkSWxLVUROOU4ydms5d2RBRlljTFIxSkRSZ20zSFMwM245d245cm1DN0ozZXFCd2lRZDRzVUxHT19LNTBhTGwtNnp4MGVObXAxU1l2a2plMjJhXzFkaVVjRTJZS0VCOURENmtxakZhUENZQ1FGVTBOdnJnckE0OVNwQQ?oc=5\" target=\"_blank\">Top Indian Cities with the Best EV Charging Infrastructure in 2025: Where Going Electric Makes Sense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times Bull</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlVXbHdwb3h5aUg1RWg5X1MwNnJqMjR0VExyZFhUZXptc2k1clhZSng1TlhBaVVwYUZCd1JPRG9jY0l4aDJjX0h0NWltSDU1U1YtVnluOC16RmJ3bmdQWVRuMEpvSXpEODZoamY0SHBhbjlWTEFXSEozUF9zd29sMkRBSFVUZTd5T0xqVHBGTXpGdkRJUVVCOV9lQUgxaEE0Uzd6Tw?oc=5",
+        "date": "2025-07-05",
+        "title": "CoreWeave's Blackwell Ultra Edge: Leading the AI Infrastructure Revolution - AInvest",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlVXbHdwb3h5aUg1RWg5X1MwNnJqMjR0VExyZFhUZXptc2k1clhZSng1TlhBaVVwYUZCd1JPRG9jY0l4aDJjX0h0NWltSDU1U1YtVnluOC16RmJ3bmdQWVRuMEpvSXpEODZoamY0SHBhbjlWTEFXSEozUF9zd29sMkRBSFVUZTd5T0xqVHBGTXpGdkRJUVVCOV9lQUgxaEE0Uzd6Tw?oc=5\" target=\"_blank\">CoreWeave's Blackwell Ultra Edge: Leading the AI Infrastructure Revolution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUFVxTm1ZNVhqRTRiT0pqZDdRMl9Ib2FNc1lmS3dfRVFyaDhpYURqRl9KUlQwQWdZODFRRUUzTVBicWUtdkJZV0kzcm01YkVNeXJjSUh2Z2tXdXVuWktCbzVRZ29MQnJGa1IwVVdpaDdfVm84eUhYS0hhQnVvbEJPcXdXWVNIVEg4YjZxcmNCMEh2VGcxYl9GMzRFRUF5UGN3aTktQUxyd1lsNktlU1I3bTBDWmxRT08yYjJtdEhjMklHSnM0b3AxSzNKN1JuRHd0MHBqNEhwbXA1YjBuRmR3Vm9ybw?oc=5",
+        "date": "2025-07-05",
+        "title": "Urban development must go hand-in-hand with environment protection: Khattar - Hindustan Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUFVxTm1ZNVhqRTRiT0pqZDdRMl9Ib2FNc1lmS3dfRVFyaDhpYURqRl9KUlQwQWdZODFRRUUzTVBicWUtdkJZV0kzcm01YkVNeXJjSUh2Z2tXdXVuWktCbzVRZ29MQnJGa1IwVVdpaDdfVm84eUhYS0hhQnVvbEJPcXdXWVNIVEg4YjZxcmNCMEh2VGcxYl9GMzRFRUF5UGN3aTktQUxyd1lsNktlU1I3bTBDWmxRT08yYjJtdEhjMklHSnM0b3AxSzNKN1JuRHd0MHBqNEhwbXA1YjBuRmR3Vm9ybw?oc=5\" target=\"_blank\">Urban development must go hand-in-hand with environment protection: Khattar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
