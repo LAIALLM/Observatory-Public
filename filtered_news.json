@@ -3088,5 +3088,45 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Hyderabad Metropolitan Development Authority introduces revamped land pooling policy to boost infrastructure and control illegal constructions.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fSDhsMjNydDhwQk9jSko5YkE3b19OTzhVNGVpWmRkb05LdTIzSUMzZ0JxZkNDSWVRaG5xSFBpNy1oY3dHeHZYYzAtVGpkSjg2VEVR?oc=5",
+        "date": "2025-07-05",
+        "title": "Uzbekistan\u2019s construction industry thrives with private sector at forefront - Trend News Agency",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fSDhsMjNydDhwQk9jSko5YkE3b19OTzhVNGVpWmRkb05LdTIzSUMzZ0JxZkNDSWVRaG5xSFBpNy1oY3dHeHZYYzAtVGpkSjg2VEVR?oc=5\" target=\"_blank\">Uzbekistan\u2019s construction industry thrives with private sector at forefront</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trend News Agency</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoMkRWQVJBUTJGQmtsY2FQMUwySlI2c2VJX0stVWJLVXFMdW85MFZNSmpaSXI4eUEzSUNzUDF1akNjUXN0TVVrczRQb2dsaFE4V1V5TGF4RFREY0hOZEt0UA?oc=5",
+        "date": "2025-07-05",
+        "title": "Patel Infrastructure - Saur Energy International",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoMkRWQVJBUTJGQmtsY2FQMUwySlI2c2VJX0stVWJLVXFMdW85MFZNSmpaSXI4eUEzSUNzUDF1akNjUXN0TVVrczRQb2dsaFE4V1V5TGF4RFREY0hOZEt0UA?oc=5\" target=\"_blank\">Patel Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Saur Energy International</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTBjbk9wRUg2aUhjYWRNN2RMcE00djJndTg1bFE1ZXBHSTRjMjFrYzRCUDFXSlFIQmdsRWdDb2ZCS0ZpdmRjV0RaSXhCVzhQd01FWWhQazRSeGFxdGxjWmI0X2kyQ1hicF9BaDBtY1ZhZ3JhNXhPXzNMOC00TktmWnl4dzFPOUZTYmRJalpmbG42VTktRklZTmtJWERRU1lhdkV5UTBMLXEzdw?oc=5",
+        "date": "2025-07-05",
+        "title": "HA Sustainable Infrastructure: Rare High Income And Growth Opportunity (NYSE:HASI) - Seeking Alpha",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTBjbk9wRUg2aUhjYWRNN2RMcE00djJndTg1bFE1ZXBHSTRjMjFrYzRCUDFXSlFIQmdsRWdDb2ZCS0ZpdmRjV0RaSXhCVzhQd01FWWhQazRSeGFxdGxjWmI0X2kyQ1hicF9BaDBtY1ZhZ3JhNXhPXzNMOC00TktmWnl4dzFPOUZTYmRJalpmbG42VTktRklZTmtJWERRU1lhdkV5UTBMLXEzdw?oc=5\" target=\"_blank\">HA Sustainable Infrastructure: Rare High Income And Growth Opportunity (NYSE:HASI)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2OXctN0hoZldCcUM5TDZ0eHIwZFZHWlI5VWcwdGY3S0d4SjIxNmsyT05FTmRsV0N6WlRpbExEcHBRVElzR1M0M1pNXzl2UXNkd293TlotT1VCRXJfejFsQUJmVzl4bjUtNHZRbjRiQk5GN3lH?oc=5",
+        "date": "2025-07-05",
+        "title": "Committee inaugurated to transform Kumasi into Smart City - GBC Ghana Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB2OXctN0hoZldCcUM5TDZ0eHIwZFZHWlI5VWcwdGY3S0d4SjIxNmsyT05FTmRsV0N6WlRpbExEcHBRVElzR1M0M1pNXzl2UXNkd293TlotT1VCRXJfejFsQUJmVzl4bjUtNHZRbjRiQk5GN3lH?oc=5\" target=\"_blank\">Committee inaugurated to transform Kumasi into Smart City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GBC Ghana Online</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
