@@ -3084,5 +3084,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n$AAPL\n2019 Q4 report: 5.74 billion kWh total energy consumption, 82% renewable sources. \nData centers: 100% powered by renewable energy for 3rd consecutive year. \n\nCarbon footprint: 22.6 million metric tons, decreased by 35.8% since 2015.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-07-06",
+        "status": "posted",
+        "tweet": "Summary: Top 5 countries projected to have the highest GDP by 2025.\n\n\ud83c\udde8\ud83c\uddf3 China\n\ud83c\uddfa\ud83c\uddf8 United States\n\ud83c\uddee\ud83c\uddf3 India\n\ud83c\uddef\ud83c\uddf5 Japan\n\ud83c\udde9\ud83c\uddea Germany",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
