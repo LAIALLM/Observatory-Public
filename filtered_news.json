@@ -3077,5 +3077,12 @@
         "status": "posted",
         "tweet": "In 2025, Bitcoin's node distribution shows:\n\n\ud83c\uddfa\ud83c\uddf8 USA: 38%\n\ud83c\udde9\ud83c\uddea Germany: 15%\n\ud83c\uddeb\ud83c\uddf7 France: 8%\n\nOver 60% of nodes are concentrated in just three countries, highlighting potential centralization risks.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-07-06",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n$AAPL\n2019 Q4 report: 5.74 billion kWh total energy consumption, 82% renewable sources. \nData centers: 100% powered by renewable energy for 3rd consecutive year. \n\nCarbon footprint: 22.6 million metric tons, decreased by 35.8% since 2015.",
+        "type": "infrastructure"
     }
 ]
