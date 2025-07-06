@@ -3112,5 +3112,55 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjRCLTM5cmlpdTZSV2dnaVF4WWN0eHp2YnlPZzVteDdQQ2txdi1wLUNhcVA1a3FsMm5hVVFrWWN3S2NwVW9RTV9yaUxYZmlyMXVzdDVJY1licVR1ZXQzT3Z1N3dkYmRsX1U0UVJPemVwU0p4OWdJbExMQW1KcTZVVXkwUHhYMkRUMFRZRUdQaTZyaXpFbmtpQjZuZkJBUDZMUDRkV0RGNU5aZVkzaWZJWi1DM095dEk?oc=5",
+        "date": "2025-07-06",
+        "title": "Kongsberg opens Oslofjord test facility for maritime critical infrastructure protection - Defence Industry Europe",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxONjRCLTM5cmlpdTZSV2dnaVF4WWN0eHp2YnlPZzVteDdQQ2txdi1wLUNhcVA1a3FsMm5hVVFrWWN3S2NwVW9RTV9yaUxYZmlyMXVzdDVJY1licVR1ZXQzT3Z1N3dkYmRsX1U0UVJPemVwU0p4OWdJbExMQW1KcTZVVXkwUHhYMkRUMFRZRUdQaTZyaXpFbmtpQjZuZkJBUDZMUDRkV0RGNU5aZVkzaWZJWi1DM095dEk?oc=5\" target=\"_blank\">Kongsberg opens Oslofjord test facility for maritime critical infrastructure protection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Defence Industry Europe</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjlMTURVMlN4R0I4cEI1LURTUEpicmpNNFhSTzZLT3JRaWxBUnl5Z1VFLXR3ZnNMeEw2XzM3b2RoWmFkYm1DQnRoQm02UFFoLTFCOXhvOWNMaXhhcjdKSW1JeVVVSk82UkVjM24zRW14VGRqdjk0NERYa0dvdWtGNHBOUVk1Y3ZaS1FmWjgzLVpfdnlUaDdwcmlaWWM3dU5HLTVlamUtM1FzNkMyaUNn?oc=5",
+        "date": "2025-07-06",
+        "title": "The Floodgates Have Opened: How Climate Catastrophes Are Fueling a New Era of Infrastructure Investing - AInvest",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjlMTURVMlN4R0I4cEI1LURTUEpicmpNNFhSTzZLT3JRaWxBUnl5Z1VFLXR3ZnNMeEw2XzM3b2RoWmFkYm1DQnRoQm02UFFoLTFCOXhvOWNMaXhhcjdKSW1JeVVVSk82UkVjM24zRW14VGRqdjk0NERYa0dvdWtGNHBOUVk1Y3ZaS1FmWjgzLVpfdnlUaDdwcmlaWWM3dU5HLTVlamUtM1FzNkMyaUNn?oc=5\" target=\"_blank\">The Floodgates Have Opened: How Climate Catastrophes Are Fueling a New Era of Infrastructure Investing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlhPZzhHeG52NEtQbmxyT0lqX2dLeHVMUVU2U3d1R2dEVkNucXpRSkVwM3R2T2xmLURhMWFHaVhac0haWXl4MGZLSlhKNzRGNkoyMkJ3RW9YYmgteHhybDNDQkFLTXVfZ1cyY2pvdUszcjJfcVhxWlpjbXhEaFdtT1J0eFlVYUFTa1VxV2VDbFVCUDN5YU53VE1pYnZmaDZ1QllMOGdPQ3hnellBd21fag?oc=5",
+        "date": "2025-07-06",
+        "title": "Overtourism in Barcelona Strains Infrastructure and Local Life - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlhPZzhHeG52NEtQbmxyT0lqX2dLeHVMUVU2U3d1R2dEVkNucXpRSkVwM3R2T2xmLURhMWFHaVhac0haWXl4MGZLSlhKNzRGNkoyMkJ3RW9YYmgteHhybDNDQkFLTXVfZ1cyY2pvdUszcjJfcVhxWlpjbXhEaFdtT1J0eFlVYUFTa1VxV2VDbFVCUDN5YU53VE1pYnZmaDZ1QllMOGdPQ3hnellBd21fag?oc=5\" target=\"_blank\">Overtourism in Barcelona Strains Infrastructure and Local Life</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJcThURXNQN0VnLVR6SFlZRy1MdnRBVUNEVVFBcXU2aUVsbzJqUmR3NWdPNGh4UGkxMVZkWUE1NlNBTGh0UVJvdTA1YlVsMEtuWXJEeFpzRjVJUVFwWW1R?oc=5",
+        "date": "2025-07-06",
+        "title": "The impact of China\u2019s artificial intelligence development on urban energy efficiency - Nature",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJcThURXNQN0VnLVR6SFlZRy1MdnRBVUNEVVFBcXU2aUVsbzJqUmR3NWdPNGh4UGkxMVZkWUE1NlNBTGh0UVJvdTA1YlVsMEtuWXJEeFpzRjVJUVFwWW1R?oc=5\" target=\"_blank\">The impact of China\u2019s artificial intelligence development on urban energy efficiency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVUNkSklXZTJ5QlhmeW9wWDNoTUxMRlptQmVORF9IOTFCaVRLODJrd2JwM3lscEVBR09RbVkwd293SXJ6M3kyeElLalRBRGw5NC1RNXRtdDhoNWR5RXFOWkdoMWdvbEhhTHVmZnFhTVlrdzVxdU5KQ0F0a0oyakR3U083blV4amZFZXNzR1FKenY3RlRSRzNqRFdCbG9tWEhyTXdZNG5sdnhHaTMtSGdQOVdCdWUxRjRaZzBHWktoOXFyZHk0VEJB0gHMAUFVX3lxTFBoNkZQanlfX3lhZzBzTEdYUHc3WWhnM2ExUk9Fak1CcjhJTGlkQVktbjBmMG1GVHMzQngzQzhjSk9ZQnc4NzRfamNnVm1yVGtvbnZQQWV2QnRqOEV1enBRN0s1V2FraUkyX2t1Y0wwRDVFVWVqR3lnMDBaaDRwQTBDY1JPWkgxVllSQ1Y4Qi1PZ2xyR3RhS1UwQ2FneTRQZ3RtMmxfanRsM21VN3ZhMkdMLWMtWXNMejZyU3R2UUNUU2hrbkY0MUlqbzIxRw?oc=5",
+        "date": "2025-07-06",
+        "title": "Bejai centre to be developed into a smart anganwadi - Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQVUNkSklXZTJ5QlhmeW9wWDNoTUxMRlptQmVORF9IOTFCaVRLODJrd2JwM3lscEVBR09RbVkwd293SXJ6M3kyeElLalRBRGw5NC1RNXRtdDhoNWR5RXFOWkdoMWdvbEhhTHVmZnFhTVlrdzVxdU5KQ0F0a0oyakR3U083blV4amZFZXNzR1FKenY3RlRSRzNqRFdCbG9tWEhyTXdZNG5sdnhHaTMtSGdQOVdCdWUxRjRaZzBHWktoOXFyZHk0VEJB0gHMAUFVX3lxTFBoNkZQanlfX3lhZzBzTEdYUHc3WWhnM2ExUk9Fak1CcjhJTGlkQVktbjBmMG1GVHMzQngzQzhjSk9ZQnc4NzRfamNnVm1yVGtvbnZQQWV2QnRqOEV1enBRN0s1V2FraUkyX2t1Y0wwRDVFVWVqR3lnMDBaaDRwQTBDY1JPWkgxVllSQ1Y4Qi1PZ2xyR3RhS1UwQ2FneTRQZ3RtMmxfanRsM21VN3ZhMkdMLWMtWXNMejZyU3R2UUNUU2hrbkY0MUlqbzIxRw?oc=5\" target=\"_blank\">Bejai centre to be developed into a smart anganwadi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
