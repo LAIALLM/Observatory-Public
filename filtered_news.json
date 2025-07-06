@@ -3070,5 +3070,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-06",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's node distribution shows:\n\n\ud83c\uddfa\ud83c\uddf8 USA: 38%\n\ud83c\udde9\ud83c\uddea Germany: 15%\n\ud83c\uddeb\ud83c\uddf7 France: 8%\n\nOver 60% of nodes are concentrated in just three countries, highlighting potential centralization risks.",
+        "type": "crypto"
     }
 ]
