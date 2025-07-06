@@ -3092,5 +3092,15 @@
         "tweet": "Summary: Top 5 countries projected to have the highest GDP by 2025.\n\n\ud83c\udde8\ud83c\uddf3 China\n\ud83c\uddfa\ud83c\uddf8 United States\n\ud83c\uddee\ud83c\uddf3 India\n\ud83c\uddef\ud83c\uddf5 Japan\n\ud83c\udde9\ud83c\uddea Germany",
         "type": "statistical",
         "category": "countries"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeUJnQW5CZTdITXllYTdCUW9iUm4wUGxFTDNQbzdISEdmb0dVV1Z3RjFfWVhST3ZQdElHMHJNTmRvVlZxbjhpcFpLRmhld0lrei1NSlF1YVNfN29aaFMwOW56d2dlZ1pPVDZYMnBmOThQZjQxbVZUVC1yX2R4RDlMNEM2c183YW1WV0NtWkVsOTBvdUpzZXFYWVo3VjkxdTM5eDBNbVFiZmhKWkJaa1BzN2RSS2ZMRTJEakE?oc=5",
+        "date": "2025-07-06",
+        "title": "'I'll call ICE': Undocumented Houston construction workers face rising risks - Houston Chronicle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQeUJnQW5CZTdITXllYTdCUW9iUm4wUGxFTDNQbzdISEdmb0dVV1Z3RjFfWVhST3ZQdElHMHJNTmRvVlZxbjhpcFpLRmhld0lrei1NSlF1YVNfN29aaFMwOW56d2dlZ1pPVDZYMnBmOThQZjQxbVZUVC1yX2R4RDlMNEM2c183YW1WV0NtWkVsOTBvdUpzZXFYWVo3VjkxdTM5eDBNbVFiZmhKWkJaa1BzN2RSS2ZMRTJEakE?oc=5\" target=\"_blank\">'I'll call ICE': Undocumented Houston construction workers face rising risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Houston Chronicle</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
