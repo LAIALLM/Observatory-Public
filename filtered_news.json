@@ -3165,5 +3165,55 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin's annual electricity consumption exceeds that of Ethereum and Solana combined.\n\n1. Bitcoin: 121 TWh/year, surpassing \ud83c\uddfa\ud83c\uddfa Ukraine's total\n2. Ethereum: 25 TWh/year, similar to \ud83c\uddf1\ud83c\uddf0 Sri Lanka's usage\n3. Solana: 1 TWh/year, comparable to \ud83c\udde7\ud83c\uddff Belize's consumption",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObnlqWXVJbXVKZG9aaklkS3MtNVcyTldnSjMtb28xMmtBOWdMU1NaWFc5YlgyVUo1VnNzc1BUWS1ielp6V2MtM01aZFhyVWV3U3FMck9sZW9JUkEySHUwYUdDM0Z5Q1dSbzQydDRVYXptQ0lpcXVBQ3lxRnJoYmxwWk5iNTgzRzN1d0hEZDNVQ3dFS2JCYnJhX1hrckczdzJ0?oc=5",
+        "date": "2025-07-07",
+        "title": "Construction Industry Council signs conflict avoidance pledge - Construction Management Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObnlqWXVJbXVKZG9aaklkS3MtNVcyTldnSjMtb28xMmtBOWdMU1NaWFc5YlgyVUo1VnNzc1BUWS1ielp6V2MtM01aZFhyVWV3U3FMck9sZW9JUkEySHUwYUdDM0Z5Q1dSbzQydDRVYXptQ0lpcXVBQ3lxRnJoYmxwWk5iNTgzRzN1d0hEZDNVQ3dFS2JCYnJhX1hrckczdzJ0?oc=5\" target=\"_blank\">Construction Industry Council signs conflict avoidance pledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Management Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGFlRnFfTTgzZ3ZfZjNTWm9sdTc1TEtrbC1Nc19FYkQ4ZC1WMW12Z1lUa0tSTkNpRTlZbjhnR0pmSUJqUUE3Nnd3dG5GRGhGS1Y3SDR4UkYxTUlFMjBldGNkT3JVZnJjdjdQQXhaSnNhNy1nOXMxWFM1Sm4ybGZpTzVkYm9NSmhOa3NnbHlQdGtTQWJuLV9LcHBqSGNIaXpaNEQtaVM1bmhvUQ?oc=5",
+        "date": "2025-07-07",
+        "title": "Balfour Beatty removes Danny Sullivan from contracts - Construction News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGFlRnFfTTgzZ3ZfZjNTWm9sdTc1TEtrbC1Nc19FYkQ4ZC1WMW12Z1lUa0tSTkNpRTlZbjhnR0pmSUJqUUE3Nnd3dG5GRGhGS1Y3SDR4UkYxTUlFMjBldGNkT3JVZnJjdjdQQXhaSnNhNy1nOXMxWFM1Sm4ybGZpTzVkYm9NSmhOa3NnbHlQdGtTQWJuLV9LcHBqSGNIaXpaNEQtaVM1bmhvUQ?oc=5\" target=\"_blank\">Balfour Beatty removes Danny Sullivan from contracts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ1lndFA0SjFITGxQQWZ0a0cySVVvLXR4R0FTRVNyOW5Gbi1lNDJNU1d1b0RabWh1cVFBdjNFWWZneDEzNUNrdmVjWk9nZHAtUmNsd2puUlJPUHBLUnFoQ0g1bGNvcWZqSWpGQ2RxeThKclVPYU5SaF9PVVg4b3k1bk1LaUF3NDlUYXhjd1hrb19mRzhNMUtTaWlNbDNUQVNCaTlyeENWVm1YS215TlZRNHMyaVJtSHlNb1Z4cElhVzNVbjlWYVdyU2t4MWw5QmRFN05ocw?oc=5",
+        "date": "2025-07-07",
+        "title": "IDF says dozens of targets hit in Gaza strikes; terror infrastructure destroyed in ground ops - The Times of Israel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ1lndFA0SjFITGxQQWZ0a0cySVVvLXR4R0FTRVNyOW5Gbi1lNDJNU1d1b0RabWh1cVFBdjNFWWZneDEzNUNrdmVjWk9nZHAtUmNsd2puUlJPUHBLUnFoQ0g1bGNvcWZqSWpGQ2RxeThKclVPYU5SaF9PVVg4b3k1bk1LaUF3NDlUYXhjd1hrb19mRzhNMUtTaWlNbDNUQVNCaTlyeENWVm1YS215TlZRNHMyaVJtSHlNb1Z4cElhVzNVbjlWYVdyU2t4MWw5QmRFN05ocw?oc=5\" target=\"_blank\">IDF says dozens of targets hit in Gaza strikes; terror infrastructure destroyed in ground ops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPYlpNSFA0bThPTENubjlLNTdqaG04WkRUSDhwLVVnZWk0RmR1NlNSWVRFOEZJejczZWgyQ0NaQ2JXMm5GNFgyQlEtYWdqcjlpNmtWV1NjRkhpd3VNSFROTC1EanZOa3NhR1ljVG1RTmotdl8tUFFxYXd1MFI2VHo2UXFZQUl5X2RpTzBob2tSYTNocXl4cFQ5WDJ0SFNqQTFnUjlsSThvaDdJZ1MyaHNidHBhR3FLWi1pVjc1U3VNbjF0SDNhc1NPSWZOS1pJaWl2V3V0UGgyNEd3eGYxUEdnTzE2X2dIczg4bmNHOFdjWDV6Tjd1Q2FrR3JjRDAtUldYY3lUeEJXQVJXbGc3QWNXenlsUGpsZXA4UTVxcUVHVQ?oc=5",
+        "date": "2025-07-07",
+        "title": "ORV3 Rack Market Global Forecast Report to 2030: ORV3 Rack - GlobeNewswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPYlpNSFA0bThPTENubjlLNTdqaG04WkRUSDhwLVVnZWk0RmR1NlNSWVRFOEZJejczZWgyQ0NaQ2JXMm5GNFgyQlEtYWdqcjlpNmtWV1NjRkhpd3VNSFROTC1EanZOa3NhR1ljVG1RTmotdl8tUFFxYXd1MFI2VHo2UXFZQUl5X2RpTzBob2tSYTNocXl4cFQ5WDJ0SFNqQTFnUjlsSThvaDdJZ1MyaHNidHBhR3FLWi1pVjc1U3VNbjF0SDNhc1NPSWZOS1pJaWl2V3V0UGgyNEd3eGYxUEdnTzE2X2dIczg4bmNHOFdjWDV6Tjd1Q2FrR3JjRDAtUldYY3lUeEJXQVJXbGc3QWNXenlsUGpsZXA4UTVxcUVHVQ?oc=5\" target=\"_blank\">ORV3 Rack Market Global Forecast Report to 2030: ORV3 Rack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWhzQ3RwWjVYbWNieTE0aWoxS2Mzb3BvLXQxUUhxSVhTSExuU3RVS25tRGhRbTdMeTl3XzEyQzV0bDVNeTBCb08wUzQzYklBaURyOFo4VWlVRHl5ZDZybjAya0JqdUxkRmNaQVhDeUFYRzk5ZDhfMkZ4VXk2MWlvbjU3Z3lrRTd4NDEyR1BRV3pqN21BN1Z0eGlkWms4WmRDRVpKSTEtckFITE9jN05WUWFZdnR2QkxfMGxNNkEtRWw2STNKdXJ5RW1DdFNzWXZkR1lKMjBpRQ?oc=5",
+        "date": "2025-07-07",
+        "title": "Vertiv demonstrates Mission-Critical Infrastructure solutions in Saudi Arabia - ZAWYA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWhzQ3RwWjVYbWNieTE0aWoxS2Mzb3BvLXQxUUhxSVhTSExuU3RVS25tRGhRbTdMeTl3XzEyQzV0bDVNeTBCb08wUzQzYklBaURyOFo4VWlVRHl5ZDZybjAya0JqdUxkRmNaQVhDeUFYRzk5ZDhfMkZ4VXk2MWlvbjU3Z3lrRTd4NDEyR1BRV3pqN21BN1Z0eGlkWms4WmRDRVpKSTEtckFITE9jN05WUWFZdnR2QkxfMGxNNkEtRWw2STNKdXJ5RW1DdFNzWXZkR1lKMjBpRQ?oc=5\" target=\"_blank\">Vertiv demonstrates Mission-Critical Infrastructure solutions in Saudi Arabia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZAWYA</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
