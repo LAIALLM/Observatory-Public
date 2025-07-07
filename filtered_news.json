@@ -3158,5 +3158,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: NPCI acquires prime land in Mumbais BKC for Rs 829 crore, plans 16-storey global headquarters.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-07-07",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin's annual electricity consumption exceeds that of Ethereum and Solana combined.\n\n1. Bitcoin: 121 TWh/year, surpassing \ud83c\uddfa\ud83c\uddfa Ukraine's total\n2. Ethereum: 25 TWh/year, similar to \ud83c\uddf1\ud83c\uddf0 Sri Lanka's usage\n3. Solana: 1 TWh/year, comparable to \ud83c\udde7\ud83c\uddff Belize's consumption",
+        "type": "crypto"
     }
 ]
