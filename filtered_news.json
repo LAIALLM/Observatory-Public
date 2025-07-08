@@ -3368,5 +3368,12 @@
         "status": "posted",
         "tweet": "\ud83c\udf0d Google's Q3 2021 performance:\n\nData Center Power Usage Effectiveness (PUE): 1.09.\n\nThis represents an industry-leading energy efficiency achievement. \ud83d\udcc9\ud83d\udca1 \n\n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-07-08",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual carbon footprint is estimated at 22.7 million metric tons of CO2, equivalent to \ud83c\udde8\ud83c\udded Switzerland's total emissions.\n\nEthereum, post-merge, produces 2.8 million metric tons of CO2 annually, similar to \ud83c\uddf1\ud83c\uddf0 Sri Lanka's emissions.",
+        "type": "crypto"
     }
 ]
