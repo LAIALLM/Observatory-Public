@@ -3589,5 +3589,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Mumbai unveils 7.5 km coastal road promenade from Breach Candy to Worli, opening July 15.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-07-08",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global urban population is projected to reach 6.7 billion by 2050, out of a total projected population of 9.8 billion.\ud83c\udfd9\ufe0fBy contrast, \ud83d\ude9c rural populations are predicted to decrease to approximately 3.1 billion. Massive urban growth is on way! Be ready for the transformations.",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
