@@ -3501,5 +3501,12 @@
         "tweet": "\ud83c\udf0d Global population expected to reach 8.1 billion by 2025. \n\n\ud83c\uddee\ud83c\uddf3 India set to surpass \ud83c\udde8\ud83c\uddf3 China as the most populous country, housing 20% of the world's population. \n\nPopulation growth and distribution critical to global resource planning.",
         "type": "statistical",
         "category": "population"
+    },
+    {
+        "link": null,
+        "date": "2025-07-09",
+        "status": "posted",
+        "tweet": "Bitcoin's annual maintenance and security costs exceed $1.5 billion, while Ethereum's are around $500 million.\n\n\ud83c\uddfa\ud83c\uddf8 USA-based miners bear 40% of Bitcoin's costs, whereas\ud83c\udde8\ud83c\uddf3 China hosts 65% of Ethereum's security infrastructure.",
+        "type": "crypto"
     }
 ]
