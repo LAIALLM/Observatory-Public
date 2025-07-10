@@ -3480,5 +3480,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-10",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US urban development firms are experiencing a boom, with a predicted 6% growth in 2025, surpassing $784 billion. \n\nWhile in \ud83c\udde8\ud83c\uddf3 China, despite being the world's top urban developer, growth has slowed to 3% yearly due to cooling property markets.",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
