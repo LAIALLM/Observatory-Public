@@ -3346,5 +3346,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: Northamptonshire receives major funding boost for transport infrastructure, aimed at improving local road networks.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-07-10",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin, Ethereum, and Solana ranked by annual cloud & data center costs in 2025.\n\n1. Bitcoin: $1.5 billion\n2. Ethereum: $800 million\n3. Solana: $300 million",
+        "type": "crypto"
     }
 ]
