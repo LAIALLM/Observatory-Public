@@ -3490,5 +3490,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-11",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 U.S construction industry forecast for 2025:\n\nConstruction companies to invest $1.5 trillion in smart buildings.\nGreen construction uptick of 15%.\nSemi-automated labor increases productivity by 30%.",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
