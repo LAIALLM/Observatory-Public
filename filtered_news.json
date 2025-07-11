@@ -3413,5 +3413,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Pune Municipal Corporation establishes war room to speed up over 30 major infrastructure projects across the city.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-07-11",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8\ud83c\udf4eApple Inc.\nQ3 report \ud83d\udcc8: Data Center Energy Consumption decreased by 30%. \nNow at 2.5 million MWh, down from 3.5 million MWh. Continued commitment to renewable energy strategies.\n$AAPL",
+        "type": "infrastructure"
     }
 ]
