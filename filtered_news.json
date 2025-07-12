@@ -3624,5 +3624,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-12",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. witnessed impressive growth this quarter. \n\nData centers energy consumption reduced by 40%. Energy efficiency \u2b06\ufe0f by 25%. \n\nAnnual carbon emissions \ud83c\udfed dropped by 15%.\n\nStatistics: Q2, 2021. $AAPL.",
+        "type": "infrastructure"
     }
 ]
