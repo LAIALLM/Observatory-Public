@@ -3264,5 +3264,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n\nEnergy consumption for 2020 Q4: 28.9 terajoules, a 6% reduction from 2019 Q4.\n\nProduction figures for iPhone 12: 75.7 million units, a 12% increase from 2019 Q4.\n\n$AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-07-13",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d By 2030, global infrastructure investment needs are projected to reach $94 trillion, with the US \ud83c\uddfa\ud83c\uddf8 and China \ud83c\udde8\ud83c\uddf3 accounting for nearly 60% of total. \n\nSubstantial growth expected in renewable energy sector, set to represent almost one-third of total required investment.",
+        "type": "statistical",
+        "category": "infrastructure companies"
     }
 ]
