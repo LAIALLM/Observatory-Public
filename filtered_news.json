@@ -3257,5 +3257,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-13",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n\nEnergy consumption for 2020 Q4: 28.9 terajoules, a 6% reduction from 2019 Q4.\n\nProduction figures for iPhone 12: 75.7 million units, a 12% increase from 2019 Q4.\n\n$AAPL",
+        "type": "infrastructure"
     }
 ]
