@@ -3292,5 +3292,25 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM0daWDZ5Zzk2TVprYjg4TnZJY1J4enRtUHhtQXBINjI2aG5xOU1kaVFSUUNSaFJ0QmEwVW0ycmU0Uko4eHo3Y0o2MmZMcDNINWdjRV9kVjJhRGZFN1RPVVhTNzljWXJDOEdfZER2VlNCRHBnMzF6a2tvblZLa1psdnlzaGNVQWNCM0gwcXVCbDJnTVd2NEJvUEEzdmFQN3I2VTd2dFdFY29Td3RodV9Dbg?oc=5",
+        "date": "2025-07-13",
+        "title": "Celebrating 30 years of excellence in urban development - The West Australian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQM0daWDZ5Zzk2TVprYjg4TnZJY1J4enRtUHhtQXBINjI2aG5xOU1kaVFSUUNSaFJ0QmEwVW0ycmU0Uko4eHo3Y0o2MmZMcDNINWdjRV9kVjJhRGZFN1RPVVhTNzljWXJDOEdfZER2VlNCRHBnMzF6a2tvblZLa1psdnlzaGNVQWNCM0gwcXVCbDJnTVd2NEJvUEEzdmFQN3I2VTd2dFdFY29Td3RodV9Dbg?oc=5\" target=\"_blank\">Celebrating 30 years of excellence in urban development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The West Australian</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tMnhYY1MwYkR5Umk1NGZKdVhNTXpYVHgtQkwxZDI4NmtHVndDbHBmVFFuRDRmUUdZa0FJRVJ1cmhZUjJza1NSaFMzVF92NFMt?oc=5",
+        "date": "2025-07-13",
+        "title": "Solutions: Smart city goals need infrastructure to match - The Edge Malaysia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tMnhYY1MwYkR5Umk1NGZKdVhNTXpYVHgtQkwxZDI4NmtHVndDbHBmVFFuRDRmUUdZa0FJRVJ1cmhZUjJza1NSaFMzVF92NFMt?oc=5\" target=\"_blank\">Solutions: Smart city goals need infrastructure to match</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Edge Malaysia</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
