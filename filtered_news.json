@@ -3200,5 +3200,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Patna Metro dispatches first coach as Blue Line nears August 15 launch.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-07-13",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual carbon footprint is projected to surpass 120 million metric tons of CO2, equivalent to the yearly emissions of \ud83c\udde6\ud83c\uddf7 Argentina.",
+        "type": "crypto"
     }
 ]
