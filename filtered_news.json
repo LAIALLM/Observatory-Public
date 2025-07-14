@@ -3313,5 +3313,35 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.\nDaily data volumes surpass 15 petabytes.\nEnergy consumption: 8.9M MWh annually.\nEfficiency rating clocked at 1.85 PUE.\n$AAPL.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbjdqdWFQZ2U3MU5XMnFIY1FzNXN2dDdPM1lKalcwY3FvN1NJRXJwdkpuVTJMdFh3LURVOU53U3ZyNGRHOXMxbG9yLVhueV9xT2ZGR3lUcWpCbHdhalBqbTZraUZxSDRaa3dReUxCcUNQNHBnR3Zmd3pwR2lENXZwQXhsZkdDME5mYmJjb015aFg0RmZrNWt1TU1JeXh5Q1UwcG9ILVpSSzFXUQ?oc=5",
+        "date": "2025-07-14",
+        "title": "China\u2019s Space Infrastructure Diplomacy - American Security Project",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbjdqdWFQZ2U3MU5XMnFIY1FzNXN2dDdPM1lKalcwY3FvN1NJRXJwdkpuVTJMdFh3LURVOU53U3ZyNGRHOXMxbG9yLVhueV9xT2ZGR3lUcWpCbHdhalBqbTZraUZxSDRaa3dReUxCcUNQNHBnR3Zmd3pwR2lENXZwQXhsZkdDME5mYmJjb015aFg0RmZrNWt1TU1JeXh5Q1UwcG9ILVpSSzFXUQ?oc=5\" target=\"_blank\">China\u2019s Space Infrastructure Diplomacy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Security Project</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTYzTko3c0lQVzJoRWl0UTZVQTVaaTJueTJpTnd6aERxMFZoS1J4YUhvYzM4OWlJT2o3dEFsRVg1Q2pOZWZEdUJvcDRCcW9fNGpsOXU0WEVTWV90R2ZlUFRydjFiQVFYMzBZUmJUYVRwcEgxaVE5am1DV05zeDJBOHJuT2lUTmxWNUExRm10bEtBZzVLMTJoNmM3S241bkx0SzBj?oc=5",
+        "date": "2025-07-14",
+        "title": "Ondo Finance Acquires Strangelove to Strengthen Full-Stack RWA Infrastructure - Blockonomi",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTYzTko3c0lQVzJoRWl0UTZVQTVaaTJueTJpTnd6aERxMFZoS1J4YUhvYzM4OWlJT2o3dEFsRVg1Q2pOZWZEdUJvcDRCcW9fNGpsOXU0WEVTWV90R2ZlUFRydjFiQVFYMzBZUmJUYVRwcEgxaVE5am1DV05zeDJBOHJuT2lUTmxWNUExRm10bEtBZzVLMTJoNmM3S241bkx0SzBj?oc=5\" target=\"_blank\">Ondo Finance Acquires Strangelove to Strengthen Full-Stack RWA Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockonomi</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSjAzVUc2OWtxemMtV2Jvb09kb3RVLVoxRVBBYVk2X2lKdTh4YjdJYnY4M2dURmR3aTBWUktzdHZpN2JPS1ZQMUVEV1RzbVJ0dG9fYlk5LWE0UFM2Y0x4VlZHT1dVX2VnQ1FrMno4VV9oYWFrTjlYUUpUSExlZlNqR0phek5rV1dJRUhUbWU5UzNlc2U4VmRHZDhScVNNM3RoWlQyZlhR?oc=5",
+        "date": "2025-07-14",
+        "title": "Mumbais Navi Mumbai Airport boosts real estate growth with improved connectivity - urbanacres.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQSjAzVUc2OWtxemMtV2Jvb09kb3RVLVoxRVBBYVk2X2lKdTh4YjdJYnY4M2dURmR3aTBWUktzdHZpN2JPS1ZQMUVEV1RzbVJ0dG9fYlk5LWE0UFM2Y0x4VlZHT1dVX2VnQ1FrMno4VV9oYWFrTjlYUUpUSExlZlNqR0phek5rV1dJRUhUbWU5UzNlc2U4VmRHZDhScVNNM3RoWlQyZlhR?oc=5\" target=\"_blank\">Mumbais Navi Mumbai Airport boosts real estate growth with improved connectivity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urbanacres.in</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
