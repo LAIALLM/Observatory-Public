@@ -3343,5 +3343,35 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV1FpdWRmbkZxYzg4VS1pa0xIcFRzVHRESnQ4RGZfNW9MMU54TmJGMnZURXlHanBWMGJlTndsbW9TU1ZhTGZGZTlpWlpFRzFoMXljdWJ2MlFJZFp6UC1KbVdXblZCYzBPbEdUT3JSME5ON282UlkwUnlqR2VQZnV3elJydXBDQzd0UHYxejN6aU5TVTNyTUJjZm5CUkRMM0padTUw?oc=5",
+        "date": "2025-07-14",
+        "title": "The Best-Paying Construction Industry Professions in Alabama - Dothan Eagle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOV1FpdWRmbkZxYzg4VS1pa0xIcFRzVHRESnQ4RGZfNW9MMU54TmJGMnZURXlHanBWMGJlTndsbW9TU1ZhTGZGZTlpWlpFRzFoMXljdWJ2MlFJZFp6UC1KbVdXblZCYzBPbEdUT3JSME5ON282UlkwUnlqR2VQZnV3elJydXBDQzd0UHYxejN6aU5TVTNyTUJjZm5CUkRMM0padTUw?oc=5\" target=\"_blank\">The Best-Paying Construction Industry Professions in Alabama</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dothan Eagle</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzY0RmQ3SUZ0ZHk5ZkQzS3NrUmE0enNkMUE1OEZ2Qjc2VklIdUV4OHJJMnJEMlJYRUhjVlNzU2VoeWJSM2JpeThyWDMyWFZLcDROVVhpcjdPbWRJckRySElLMVdIMVRIVHkwdnh2d1pFWmdyYS1vVDVVZDEydGxoWGxqY0FKMVVI?oc=5",
+        "date": "2025-07-14",
+        "title": "Crypto Coins and Wallet Infrastructure Evolve in 2025 - AInvest",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzY0RmQ3SUZ0ZHk5ZkQzS3NrUmE0enNkMUE1OEZ2Qjc2VklIdUV4OHJJMnJEMlJYRUhjVlNzU2VoeWJSM2JpeThyWDMyWFZLcDROVVhpcjdPbWRJckRySElLMVdIMVRIVHkwdnh2d1pFWmdyYS1vVDVVZDEydGxoWGxqY0FKMVVI?oc=5\" target=\"_blank\">Crypto Coins and Wallet Infrastructure Evolve in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/61040-multiple-factors-led-to-texas-flood-tragedy-sources-say",
+        "date": "2025-07-14",
+        "title": "Multiple Factors Led to Texas Flood Tragedy, Sources Say",
+        "summary": "<p>Overdevelopment in a flood-prone area and inadequate mapping by FEMA contributed to July 4 catastrophe,&nbsp;</p><br /><br />",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
