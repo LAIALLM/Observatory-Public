@@ -3105,5 +3105,12 @@
         "tweet": "\ud83c\udf0d By 2025, the global smart cities market is projected to reach $820 billion. \ud83c\udf06\n\nInvestments in smart infrastructure and IoT are driving this growth, with \ud83c\uddea\ud83c\uddfa Europe slated to account for 40% of the market. \n\nRapid urbanization and digital transformation are the key accelerants.",
         "type": "statistical",
         "category": "smart cities"
+    },
+    {
+        "link": null,
+        "date": "2025-07-15",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.:\n\n$AAPL\nFY2020, data centre energy consumption total: 1.125 billion kWh. \nRenewable energy usage: 100%. \nPUE value: 1.17.\n100% of power comes from renewable sources - with an impressive 88.5% overall energy efficiency rating.\n\nData accuracy: \u27a1\ufe0f SEC annual report.",
+        "type": "infrastructure"
     }
 ]
