@@ -3097,5 +3097,13 @@
         "status": "posted",
         "tweet": "From 2020 to 2025, Bitcoin's annual electricity cost rose from $4.6B to $12.5B, while Ethereum's dropped from $3.2B to $0.5B post-merge.\n\nBitcoin's 2025 cost exceeds Ethereum's by 25 times, highlighting Ethereum's efficiency gains.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-07-15",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d By 2025, the global smart cities market is projected to reach $820 billion. \ud83c\udf06\n\nInvestments in smart infrastructure and IoT are driving this growth, with \ud83c\uddea\ud83c\uddfa Europe slated to account for 40% of the market. \n\nRapid urbanization and digital transformation are the key accelerants.",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
