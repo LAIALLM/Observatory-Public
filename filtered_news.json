@@ -3640,5 +3640,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf4\ud83c\uddf2 NEWS: Dhofar invests $93mln in road development to support urban growth.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-07-16",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global smart city spending projected to reach $327 billion by 2025, a 16.4% increase from 2024. Sustainable developments, IoT technologies, and AI applications lead the investment boom. All in pursuit of more livable, efficient, and resilient urban environments. \ud83d\udcb9\ud83c\udfd9\ufe0f",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
