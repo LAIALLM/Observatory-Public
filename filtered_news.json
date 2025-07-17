@@ -3367,5 +3367,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-17",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global population set to reach 8.1 billion by 2025 \ud83d\udcc8 With the UN predicting India \ud83c\uddee\ud83c\uddf3 surpassing China \ud83c\udde8\ud83c\uddf3 as the world's most populous country by 2025, colossal challenges are looming in urban planning and resource management.",
+        "type": "statistical",
+        "category": "population"
     }
 ]
