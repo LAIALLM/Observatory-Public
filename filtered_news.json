@@ -3525,5 +3525,35 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZDN3V1RLUGI3djVjVkExd0hPdmgtMjJQdFZUN1hYOVZsQWMwV3IyMjZ2UVVCM1V2dUlpSXJSZWNpeEo3S3FJN0JwaDh5SkxJT2RBSkJIUERQaDNzUWJwazJRVHB1d1p5MEdmdVRtOVdNM2RWdHZrb0FpR190WDBFbFBGOTc3T1lNQW9mU1paM0VabzJBUll3SVNRdnRKNFNYNmR2SNIBqAFBVV95cUxOa0RXeUJnRlY5TTJka3Q0TnJYNjB6eGxZdGtBbmtMNC1aYXJWZlg2QXFpcGJNN0kzTHVIT2ZiNkZGR1p0QXhvNnVhZzZVcGFpYVBfN01GYlFvTHQxZU1NdFJZVWdndEdQV2lzbVpNeU5ud1Q0eE43blV2RGhZR040am42TWNOYWw0S1V0MzBjS1VKTzk4bVpnZEx6UEFDSmVVOUNxeW1hSEY?oc=5",
+        "date": "2025-07-17",
+        "title": "Satellite Hospital faces cleanliness, infrastructure issues - The Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZDN3V1RLUGI3djVjVkExd0hPdmgtMjJQdFZUN1hYOVZsQWMwV3IyMjZ2UVVCM1V2dUlpSXJSZWNpeEo3S3FJN0JwaDh5SkxJT2RBSkJIUERQaDNzUWJwazJRVHB1d1p5MEdmdVRtOVdNM2RWdHZrb0FpR190WDBFbFBGOTc3T1lNQW9mU1paM0VabzJBUll3SVNRdnRKNFNYNmR2SNIBqAFBVV95cUxOa0RXeUJnRlY5TTJka3Q0TnJYNjB6eGxZdGtBbmtMNC1aYXJWZlg2QXFpcGJNN0kzTHVIT2ZiNkZGR1p0QXhvNnVhZzZVcGFpYVBfN01GYlFvTHQxZU1NdFJZVWdndEdQV2lzbVpNeU5ud1Q0eE43blV2RGhZR040am42TWNOYWw0S1V0MzBjS1VKTzk4bVpnZEx6UEFDSmVVOUNxeW1hSEY?oc=5\" target=\"_blank\">Satellite Hospital faces cleanliness, infrastructure issues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://infrastructuremagazine.com.au/rail-suppliers-invited-to-sharpen-skills/",
+        "date": "2025-07-17",
+        "title": "Rail suppliers invited to sharpen skills",
+        "summary": "<figure><img alt=\"\" src=\"https://infrastructuremagazine.com.au/wp-content/uploads/2025/02/AdobeStock_283017482.jpeg\" style=\"float: right; margin: 0 0 10px 10px;\" /><figcaption>Image: master1305/stock.adobe.com  </figcaption></figure>Regional Victorian businesses have a new chance to upskill for major project work as Inland Rail launches a second round of supplier capability workshops targeting its Beveridge to Albury section. [&#8230;]",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://infrastructuremagazine.com.au/barge-to-bridge-birdsville-track-as-cooper-creek-cut/",
+        "date": "2025-07-17",
+        "title": "Barge to bridge Birdsville Track as Cooper Creek cut",
+        "summary": "<figure><img alt=\"\" src=\"https://infrastructuremagazine.com.au/wp-content/uploads/2025/07/cooper-creek-ali-matthews.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" /><figcaption>Image: Ali Matthews / Cooper Creek Homestay</figcaption></figure>Authorities are scrambling to respond to ongoing flood damage in South Australia. A temporary barge will be deployed on the Cooper Creek as floodwaters cut off critical outback infrastructure in [&#8230;]",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
