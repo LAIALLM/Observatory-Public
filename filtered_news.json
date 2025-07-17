@@ -3375,5 +3375,45 @@
         "tweet": "\ud83c\udf0d Global population set to reach 8.1 billion by 2025 \ud83d\udcc8 With the UN predicting India \ud83c\uddee\ud83c\uddf3 surpassing China \ud83c\udde8\ud83c\uddf3 as the world's most populous country by 2025, colossal challenges are looming in urban planning and resource management.",
         "type": "statistical",
         "category": "population"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1hqWTlCUGw4T2g4WVF6TURqeWs3WmdEeThPdTFvcnhFVld3MFVVMVBBRFVRNWFuNW9feDJlVVdXdzFLUE01VzdkS0w3NTF4Wk04ZDdoZ2pKZXg2R2NmSUMwVDRMVWdZYVlZZGNRNkFLblp5emEwWWhuamVSZzhWbFdTUlJsMkNUWmpjckhTLVRFZVVrZkY4U1VIRE1yNkN0VzBCVS1n?oc=5",
+        "date": "2025-07-17",
+        "title": "How to Build a Rock-Solid Infrastructure for Scalable Data Collection Projects - WiFi Planet",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1hqWTlCUGw4T2g4WVF6TURqeWs3WmdEeThPdTFvcnhFVld3MFVVMVBBRFVRNWFuNW9feDJlVVdXdzFLUE01VzdkS0w3NTF4Wk04ZDdoZ2pKZXg2R2NmSUMwVDRMVWdZYVlZZGNRNkFLblp5emEwWWhuamVSZzhWbFdTUlJsMkNUWmpjckhTLVRFZVVrZkY4U1VIRE1yNkN0VzBCVS1n?oc=5\" target=\"_blank\">How to Build a Rock-Solid Infrastructure for Scalable Data Collection Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WiFi Planet</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkNkdDE1ajEwb003WDNKcUYyTDRtMWNDWEJCMHMzSlN6ZUVQeGs5ZFdHSkN6NjY4Z3BMZl9nNFdzSGN5MkRtT0RyMEVPZlZVSzdZdU44Zl9Zemh1UjlwSmF1VzdILS13WjBUY044bG40VHNXMExyM0MxTEpJYy1zYjZzdE41eGtfbEFWZnpIT3ZyUnNRaXplcWxxa21NRE0?oc=5",
+        "date": "2025-07-17",
+        "title": "Zain KSA partners with Cisco to develop advanced AI infrastructure - Fierce Network",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkNkdDE1ajEwb003WDNKcUYyTDRtMWNDWEJCMHMzSlN6ZUVQeGs5ZFdHSkN6NjY4Z3BMZl9nNFdzSGN5MkRtT0RyMEVPZlZVSzdZdU44Zl9Zemh1UjlwSmF1VzdILS13WjBUY044bG40VHNXMExyM0MxTEpJYy1zYjZzdE41eGtfbEFWZnpIT3ZyUnNRaXplcWxxa21NRE0?oc=5\" target=\"_blank\">Zain KSA partners with Cisco to develop advanced AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fierce Network</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFBkVlpMVEVzRlE3MUpEVU5YcWtrT0h2d1Q4cERUMFJsZUFjdXp4TndhSDFZazI5VVlXTGZaUkZUOEctb0NoVTNDRVhQVWpmVl9NdGhtNmtSLUNKQ3cyeDdJd1BKSVA1YW8zMnQxdDVUakk1RG1sLUhqbldrdFdvbg?oc=5",
+        "date": "2025-07-17",
+        "title": "Blockskye Raises $15.8 Million to Overhaul Corporate Travel Infrastructure - Yahoo Finance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFBkVlpMVEVzRlE3MUpEVU5YcWtrT0h2d1Q4cERUMFJsZUFjdXp4TndhSDFZazI5VVlXTGZaUkZUOEctb0NoVTNDRVhQVWpmVl9NdGhtNmtSLUNKQ3cyeDdJd1BKSVA1YW8zMnQxdDVUakk1RG1sLUhqbldrdFdvbg?oc=5\" target=\"_blank\">Blockskye Raises $15.8 Million to Overhaul Corporate Travel Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.constructiondive.com/news/women-ppe-construction-safety-gear/753356/",
+        "date": "2025-07-17",
+        "title": "Why a women-owned firm developed PPE for women",
+        "summary": "<p>ARX&rsquo;s leaders say they leaned on their own experiences and researched how women wear and use gear to create better products.</p>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
