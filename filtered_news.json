@@ -3435,5 +3435,25 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjFDTHZnTlpFN2djUWpLZGt1Z3NNdkNJVGFlV3owUjRGYzFOSWlKMHlmTmtYLTVJR3lKc0lRZXQ3VkJ1TDVMTHhjOXZVQVNUVXpFZzVKZEItYnRGLWhrVUdrVldTOG5ZVjBFMmtvRlpKdlpldzVqb0oyWHVPMlhmZmUwUGY0UzV5WEd6Q0JnUmFYeU5ybkVIMjNINEh0V3RjdWN4UzQwQ2JBWGN4Mlp1M1RSSW9TVUFiSEJPMWNBUlp5dTDSAcgBQVVfeXFMT2k5MnNuYy14T0hocmFDUjJ3aXZ6dWRldlprS0I3WmlEYm1JbzJmTG93b2VoY2NraVFxX3RMbFR0WUE3N1pOSXo3YlBienpKYm9tOGZjVHhyQXBDZy1nSV9zYk5SN3YyRy1KLTZPazNUbFlBWFpUSE9pcFktQVVhTjJvUUVfbkVuZ0hVd0IzRHhHOUpOZDN6a19YSDk5b3FhVDJUS21tX3NzNzFoU1ZJUHNWVzIzLTRTOEZva2N3dkUtbmN6QjBUSDg?oc=5",
+        "date": "2025-07-17",
+        "title": "Maha plans vertiports for air taxi ops across dists - Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjFDTHZnTlpFN2djUWpLZGt1Z3NNdkNJVGFlV3owUjRGYzFOSWlKMHlmTmtYLTVJR3lKc0lRZXQ3VkJ1TDVMTHhjOXZVQVNUVXpFZzVKZEItYnRGLWhrVUdrVldTOG5ZVjBFMmtvRlpKdlpldzVqb0oyWHVPMlhmZmUwUGY0UzV5WEd6Q0JnUmFYeU5ybkVIMjNINEh0V3RjdWN4UzQwQ2JBWGN4Mlp1M1RSSW9TVUFiSEJPMWNBUlp5dTDSAcgBQVVfeXFMT2k5MnNuYy14T0hocmFDUjJ3aXZ6dWRldlprS0I3WmlEYm1JbzJmTG93b2VoY2NraVFxX3RMbFR0WUE3N1pOSXo3YlBienpKYm9tOGZjVHhyQXBDZy1nSV9zYk5SN3YyRy1KLTZPazNUbFlBWFpUSE9pcFktQVVhTjJvUUVfbkVuZ0hVd0IzRHhHOUpOZDN6a19YSDk5b3FhVDJUS21tX3NzNzFoU1ZJUHNWVzIzLTRTOEZva2N3dkUtbmN6QjBUSDg?oc=5\" target=\"_blank\">Maha plans vertiports for air taxi ops across dists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/60858-ten-minutes-with-john-finn-we-oneil-constructions-new-ceo",
+        "date": "2025-07-17",
+        "title": "Ten Minutes With: John Finn, W.E. O'Neil Construction's New CEO",
+        "summary": "<p>Three-decade industry veteran says he's ready to shape the Chicago contractor\u2019s next 100 years</p>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
