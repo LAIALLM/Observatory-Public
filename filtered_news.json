@@ -3350,5 +3350,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-17",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual maintenance and security costs total $1.2 billion, compared to Ethereum's $800 million. \n\nBTC's costs include $700 million for network security, while ETH's are $500 million.",
+        "type": "crypto"
     }
 ]
