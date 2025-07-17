@@ -3455,5 +3455,35 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRnFSeVRYOS1weS1Ndjd1clVMSlk3eTgxb0s3c0tLNTQ0MmQ3MVctWFc3bXFad1hIVV9udWFLcFJDWGV6WkhtOFdvMVg4U0hrT1ZDUGp1ZWVpS1lNUmt2UmVzTEw1S29RWWNGcDUxNVZNU3QwWUVCMzA1bFhSNzNVUVoybmZ2OE1ybXU2RUhrX2c?oc=5",
+        "date": "2025-07-17",
+        "title": "OpenAI Taps Google Cloud to Supercharge ChatGPT Infrastructure - Vocal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNRnFSeVRYOS1weS1Ndjd1clVMSlk3eTgxb0s3c0tLNTQ0MmQ3MVctWFc3bXFad1hIVV9udWFLcFJDWGV6WkhtOFdvMVg4U0hrT1ZDUGp1ZWVpS1lNUmt2UmVzTEw1S29RWWNGcDUxNVZNU3QwWUVCMzA1bFhSNzNVUVoybmZ2OE1ybXU2RUhrX2c?oc=5\" target=\"_blank\">OpenAI Taps Google Cloud to Supercharge ChatGPT Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vocal</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVhjdVNIYkNlQ3VNVDluNzFIc3ZsNEh1U1hpRmxDbURCSGpqOFUwSnZvazhaUnVmZDV4UHM2SVhlQjRGN3BEM0g3cXJKZE5xUV9yeG03NGg1dVRybnNYVTktNGVCSXk1b0M3TGJXUGtMNWh6Q2ROR0ZxSzBrc1pOZkUxTHVoMW5MNWpTVVptY1pTWVowcVp3b3hLWWpvNm9BWGJLMHdJY2UxblBrUEE5Sng4ZWY4VHc0VVRucDlfQWc?oc=5",
+        "date": "2025-07-17",
+        "title": "Blaize Secures Massive $120M Deal to Power AI Revolution Across Asia's $112B Smart Cities Market - Stock Titan",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVhjdVNIYkNlQ3VNVDluNzFIc3ZsNEh1U1hpRmxDbURCSGpqOFUwSnZvazhaUnVmZDV4UHM2SVhlQjRGN3BEM0g3cXJKZE5xUV9yeG03NGg1dVRybnNYVTktNGVCSXk1b0M3TGJXUGtMNWh6Q2ROR0ZxSzBrc1pOZkUxTHVoMW5MNWpTVVptY1pTWVowcVp3b3hLWWpvNm9BWGJLMHdJY2UxblBrUEE5Sng4ZWY4VHc0VVRucDlfQWc?oc=5\" target=\"_blank\">Blaize Secures Massive $120M Deal to Power AI Revolution Across Asia's $112B Smart Cities Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEhZaGJMVWtXbmJTMVh1aExEcUZkQXdoS1RDZGlQRFkweGttRnZZZGR5Z1FPRWl5YTlndFI0YVBfb0RWamdWUXZTMGs0cWJPWlVnaEdSYklnMUU0SkFVYUdhcENVRzZ2M3pFZHpfQWRnU1ZzRVlqTU82ZWlBeC1Pa3ZKd2lfZHRUTVg1bmJsQVFiN0JmeldteDhGQlpIRnZvOXJ5aQ?oc=5",
+        "date": "2025-07-17",
+        "title": "Akon Shuts Down Doubts About $6 Billion Smart City Project in Senegal - The Source Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEhZaGJMVWtXbmJTMVh1aExEcUZkQXdoS1RDZGlQRFkweGttRnZZZGR5Z1FPRWl5YTlndFI0YVBfb0RWamdWUXZTMGs0cWJPWlVnaEdSYklnMUU0SkFVYUdhcENVRzZ2M3pFZHpfQWRnU1ZzRVlqTU82ZWlBeC1Pa3ZKd2lfZHRUTVg1bmJsQVFiN0JmeldteDhGQlpIRnZvOXJ5aQ?oc=5\" target=\"_blank\">Akon Shuts Down Doubts About $6 Billion Smart City Project in Senegal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Source Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
