@@ -3260,5 +3260,35 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple $AAPL spent an impressive $18.75bn on R&D in 2021, outpacing the industry average by 16%. \n\nA key player in driving global tech innovation.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhVkFzYUxsYVE5dHRseDQzYUhwQW80dTRqLWhyZUJ6eUdyZFJ5TFN5NlhoYktJVEdZZ1p2UlNNRm1lWElDekg5aHZqRldjWFFGT3BySUU0N0tDMXYxRk1YekNpcW4?oc=5",
+        "date": "2025-07-17",
+        "title": "Housing activity picks up pace - Elite Agent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhVkFzYUxsYVE5dHRseDQzYUhwQW80dTRqLWhyZUJ6eUdyZFJ5TFN5NlhoYktJVEdZZ1p2UlNNRm1lWElDekg5aHZqRldjWFFGT3BySUU0N0tDMXYxRk1YekNpcW4?oc=5\" target=\"_blank\">Housing activity picks up pace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elite Agent</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42QVVuQjlBUDRkdUxUTDJJcHdua0dDQWhreUhsR0ZtYVBqbEloTFlvRlNqc0lHTTRiVGQyb0dCUVdjeXRqTkwwakh5d1RDcUN3NjFMZzQxWTd0Ri1qNWJQbW4tTHNqaVB5QnZUTFFpWWlWdS01MVJqbXY1RmVKZw?oc=5",
+        "date": "2025-07-17",
+        "title": "Xi addresses Central Urban Work Conference, listing priorities for urban development - China Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE42QVVuQjlBUDRkdUxUTDJJcHdua0dDQWhreUhsR0ZtYVBqbEloTFlvRlNqc0lHTTRiVGQyb0dCUVdjeXRqTkwwakh5d1RDcUN3NjFMZzQxWTd0Ri1qNWJQbW4tTHNqaVB5QnZUTFFpWWlWdS01MVJqbXY1RmVKZw?oc=5\" target=\"_blank\">Xi addresses Central Urban Work Conference, listing priorities for urban development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">China Daily</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNUtJNm5jaU1KTDJ4TENUOG9hWGZPOTVOU2lqajJIMU1wZWtKOUJPYzBpWmloOFFCNWpETjdJT3p6WGpkSWpkSTVwaEFKZE1OU1hQLUN5SjJKbXRTajhTd2FKUUdxWUF2X3ZZUk1MTEQyN18zWF9zbHFvRDFCM3pQZEZyaWI1aXFJUThjT2wwNVpmUk04NjktSjF1UDBOeXhqeUpIV2VoQW1ob2NVTlpHUEpndUc?oc=5",
+        "date": "2025-07-17",
+        "title": "Urban Development Department submits new blight study for part of north Lincoln - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNNUtJNm5jaU1KTDJ4TENUOG9hWGZPOTVOU2lqajJIMU1wZWtKOUJPYzBpWmloOFFCNWpETjdJT3p6WGpkSWpkSTVwaEFKZE1OU1hQLUN5SjJKbXRTajhTd2FKUUdxWUF2X3ZZUk1MTEQyN18zWF9zbHFvRDFCM3pQZEZyaWI1aXFJUThjT2wwNVpmUk04NjktSjF1UDBOeXhqeUpIV2VoQW1ob2NVTlpHUEpndUc?oc=5\" target=\"_blank\">Urban Development Department submits new blight study for part of north Lincoln</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
