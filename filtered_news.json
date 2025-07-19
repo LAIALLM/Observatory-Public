@@ -5444,5 +5444,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-19",
+        "status": "posted",
+        "tweet": "Summary: Top 5 countries with highest GDP (Nominal) in 2025, according to World Bank projections. \n\n\ud83c\uddfa\ud83c\uddf8United States\n\ud83c\udde8\ud83c\uddf3China\n\ud83c\uddef\ud83c\uddf5Japan\n\ud83c\udde9\ud83c\uddeaGermany\n\ud83c\uddee\ud83c\uddf3India",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
