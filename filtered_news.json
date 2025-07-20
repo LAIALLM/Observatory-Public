@@ -5366,5 +5366,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-20",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual carbon footprint is projected to surpass 120 million metric tons of CO2, equivalent to the yearly emissions of \ud83c\udde6\ud83c\uddf7 Argentina.",
+        "type": "crypto"
     }
 ]
