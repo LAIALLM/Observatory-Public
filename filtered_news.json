@@ -5621,5 +5621,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-21",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple: Q1 2021 reported record revenues of $111.4 billion. $AAPL data shows a 21% year-over-year increase.\n\nNote: Q1 in Apple's fiscal calendar is October \u2013 December 2020.",
+        "type": "infrastructure"
     }
 ]
