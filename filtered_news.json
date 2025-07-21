@@ -5604,5 +5604,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-21",
+        "status": "posted",
+        "tweet": "Bitcoin's annual electricity consumption for mining reached 120 TWh in 2023, up from 78 TWh in 2020, surpassing the yearly power usage of countries like \ud83c\uddf3\ud83c\uddf4 Norway.",
+        "type": "crypto"
     }
 ]
