@@ -5735,5 +5735,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-22",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin has 10,000 validators across 90 countries, with the highest concentration in \ud83c\uddfa\ud83c\uddf8 USA (30%) and \ud83c\udde8\ud83c\uddf3 China (25%).\n\nEthereum, with 5,000 validators, shows greater decentralization, spread across 120 countries, with no single country exceeding 15% of total validators.",
+        "type": "crypto"
     }
 ]
