@@ -5742,5 +5742,12 @@
         "status": "posted",
         "tweet": "In 2025, Bitcoin has 10,000 validators across 90 countries, with the highest concentration in \ud83c\uddfa\ud83c\uddf8 USA (30%) and \ud83c\udde8\ud83c\uddf3 China (25%).\n\nEthereum, with 5,000 validators, shows greater decentralization, spread across 120 countries, with no single country exceeding 15% of total validators.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-07-22",
+        "status": "posted",
+        "tweet": "\ud83c\udf0eAmazon Web Services (AWS) now powers over 40% of the world's public cloud infrastructure.\ud83d\udc40\n\n\ud83c\uddfa\ud83c\uddf8In the U.S, this figure rises to over 45%.\n\n$AMZN's AWS data centres consume 2.3 TWh of electricity annually.\ud83d\udca1\n\nThat's comparable to powering 212,765 U.S homes for a year!\ud83c\udfe0",
+        "type": "infrastructure"
     }
 ]
