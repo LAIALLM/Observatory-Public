@@ -6525,5 +6525,13 @@
         "status": "posted",
         "tweet": "\ud83d\ude80 SpaceX: \n\n\ud83c\uddfa\ud83c\uddf8 Hawthorne HQ:\n- 710,000 sqft for manufacturing\n- Over 6,000 employees\n\n\ud83d\udd0b Energy consumption: \n-696,000 kWh per annum\n\n\ud83d\udcc8 Production: \n- Producing 120 Starlink satellites monthly.\n\nStock ticker: $TSLA.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-07-23",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 By the end of 2025, US construction industry revenue is projected to reach $1.99 trillion.\n\n\ud83c\udf0d Meanwhile, the global construction market is set to expand to $10.5 trillion.\n\nUS companies dominate nearly 20% of the global market!",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
