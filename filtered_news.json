@@ -6168,5 +6168,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: NYCs $700M subway flood plan hinges on a $30B sewer overhaul.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-07-23",
+        "status": "posted",
+        "tweet": "In 2025, Ethereum's staking costs are significantly lower than Bitcoin's mining costs. Ethereum staking uses 99.95% less energy, costing $50 million annually, while Bitcoin mining consumes 120 TWh/year, costing $15 billion.\n\nThis stark contrast highlights the efficiency of Ethere",
+        "type": "crypto"
     }
 ]
