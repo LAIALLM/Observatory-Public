@@ -6175,5 +6175,25 @@
         "status": "posted",
         "tweet": "In 2025, Ethereum's staking costs are significantly lower than Bitcoin's mining costs. Ethereum staking uses 99.95% less energy, costing $50 million annually, while Bitcoin mining consumes 120 TWh/year, costing $15 billion.\n\nThis stark contrast highlights the efficiency of Ethere",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWkRjbjJMZjYxdGRZVGNCSnZfZ0RzalRkdk9GWnJGMS1SNE42ZGlNQmhpSnlkUlpnNXJnTGdEeDdyYTg3b0t6MG5lVTcyQmRhN0NaSW1ZVjFjTmNtT2RpSWxzMWZVbC14MXAxR3VmR1dhdG5EM0Z4R0RTT3picWhQcFFybVlXRVRxY3NOVnBzaHVKT2ROT3UzX2k0VGFRcWQ2SUxpZEZtMGlKWTdoNXcxcA?oc=5",
+        "date": "2025-07-23",
+        "title": "State data centre policies \u2014 Powering India\u2019s digital infrastructure growth - Communications Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPWkRjbjJMZjYxdGRZVGNCSnZfZ0RzalRkdk9GWnJGMS1SNE42ZGlNQmhpSnlkUlpnNXJnTGdEeDdyYTg3b0t6MG5lVTcyQmRhN0NaSW1ZVjFjTmNtT2RpSWxzMWZVbC14MXAxR3VmR1dhdG5EM0Z4R0RTT3picWhQcFFybVlXRVRxY3NOVnBzaHVKT2ROT3UzX2k0VGFRcWQ2SUxpZEZtMGlKWTdoNXcxcA?oc=5\" target=\"_blank\">State data centre policies \u2014 Powering India\u2019s digital infrastructure growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications Today</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1M2TXFhZDhSTDIzQUk0RUJZbHY4akR6U2ZBQ1o0R3U4dDlndWlqcENkcDhVWTlxRU9FeENCTHgzMFBvVjBRelJiQ1J1eXJMR3ZLQWFaTUFzZXNnaFZ3NTBsU3VjUW1iZE1nWmo2RF92WXRQV3JMbXVHX0FnSzd1eXdIVkFyMHZfUmlycVN4V0xYOGNXQVJ6RHFFdkxpZnZPMlR5TEVR?oc=5",
+        "date": "2025-07-23",
+        "title": "New Zealand introduces new laws to govern space infrastructure - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1M2TXFhZDhSTDIzQUk0RUJZbHY4akR6U2ZBQ1o0R3U4dDlndWlqcENkcDhVWTlxRU9FeENCTHgzMFBvVjBRelJiQ1J1eXJMR3ZLQWFaTUFzZXNnaFZ3NTBsU3VjUW1iZE1nWmo2RF92WXRQV3JMbXVHX0FnSzd1eXdIVkFyMHZfUmlycVN4V0xYOGNXQVJ6RHFFdkxpZnZPMlR5TEVR?oc=5\" target=\"_blank\">New Zealand introduces new laws to govern space infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
