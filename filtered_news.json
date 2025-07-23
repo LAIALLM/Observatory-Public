@@ -6518,5 +6518,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: India must invest $2.4 trillion to build low-carbon infrastructure and save cities like Mumbai.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-07-23",
+        "status": "posted",
+        "tweet": "\ud83d\ude80 SpaceX: \n\n\ud83c\uddfa\ud83c\uddf8 Hawthorne HQ:\n- 710,000 sqft for manufacturing\n- Over 6,000 employees\n\n\ud83d\udd0b Energy consumption: \n-696,000 kWh per annum\n\n\ud83d\udcc8 Production: \n- Producing 120 Starlink satellites monthly.\n\nStock ticker: $TSLA.",
+        "type": "infrastructure"
     }
 ]
