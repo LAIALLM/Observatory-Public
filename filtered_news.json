@@ -6131,5 +6131,136 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNFNDcXdDb1k0VkRsNWtHcldfZWxOYm9uYXlXb3lSU2xNYzJjVTdQLTV2Tk9tVVZROTVrbUNTZ05vZG1xUXRSbjV4X1A5QW1xWHN2Z1Q5UDJ0bmxKWUpHaVVwd1NLdG84NmxEX2l6TjQ2VUZnRF9ORS1XeFFNUTV6NlQteXdlZUJHNUhfellfTmxsMXNBcW9nYUpn?oc=5",
+        "date": "2025-07-24",
+        "title": "This startup says it's made ChatGPT for construction sites. Read the pitch deck it used to raise $40 million. - Business Insider",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNNFNDcXdDb1k0VkRsNWtHcldfZWxOYm9uYXlXb3lSU2xNYzJjVTdQLTV2Tk9tVVZROTVrbUNTZ05vZG1xUXRSbjV4X1A5QW1xWHN2Z1Q5UDJ0bmxKWUpHaVVwd1NLdG84NmxEX2l6TjQ2VUZnRF9ORS1XeFFNUTV6NlQteXdlZUJHNUhfellfTmxsMXNBcW9nYUpn?oc=5\" target=\"_blank\">This startup says it's made ChatGPT for construction sites. Read the pitch deck it used to raise $40 million.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSzRlRDMwUHlxZl9Sd3hLckgzd3E0aG5GT19xeGFXZDFmcHA0TUpyQVVSZXduMUhVY0FNQTZ0MkVHR2NxbV9CSWFhRV94WVRudXBSMjd2ZkR1NEduX1NxSFktM0xHazRYYnBDYTJrOFBfenFpU3hLdk9VZkN0WjdOWVhOVU1ibUZKT0h6dVVON1lhb0RGeHVEZmJPTzhGR2tkWXNPT05YM2R2MjlVbXlJTi1CeFVQcThxekQ5am00T3Y?oc=5",
+        "date": "2025-07-24",
+        "title": "Assam CM Lays Foundation for Rs 147 Cr Infrastructure Projects at Dibrugarh University - Northeast Live",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSzRlRDMwUHlxZl9Sd3hLckgzd3E0aG5GT19xeGFXZDFmcHA0TUpyQVVSZXduMUhVY0FNQTZ0MkVHR2NxbV9CSWFhRV94WVRudXBSMjd2ZkR1NEduX1NxSFktM0xHazRYYnBDYTJrOFBfenFpU3hLdk9VZkN0WjdOWVhOVU1ibUZKT0h6dVVON1lhb0RGeHVEZmJPTzhGR2tkWXNPT05YM2R2MjlVbXlJTi1CeFVQcThxekQ5am00T3Y?oc=5\" target=\"_blank\">Assam CM Lays Foundation for Rs 147 Cr Infrastructure Projects at Dibrugarh University</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northeast Live</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUF8waWg1dnpEc0N0ZXA1N2sxdEFYVXkxMkNQNGFRYXpNMkl0ZktJaXdNSEtSbjhlb0QyMWZBN25PVGxTaFpIcHN2NEg2U1VKeER1cTFuR3dmQ1YxdEZvNG0tYjRiU2c4LUV1VzRRbkVSUEFudEt1MlIzQnk0bS1MZEZGSWthbFloc1FJdmZabjFlTGV0VVJMLTZSR0pmUHE4d1JOTWRKOXQ?oc=5",
+        "date": "2025-07-24",
+        "title": "SoftBank Expands NVIDIA-Powered AI Infrastructure Beyond 10,000 GPUs - HPCwire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUF8waWg1dnpEc0N0ZXA1N2sxdEFYVXkxMkNQNGFRYXpNMkl0ZktJaXdNSEtSbjhlb0QyMWZBN25PVGxTaFpIcHN2NEg2U1VKeER1cTFuR3dmQ1YxdEZvNG0tYjRiU2c4LUV1VzRRbkVSUEFudEt1MlIzQnk0bS1MZEZGSWthbFloc1FJdmZabjFlTGV0VVJMLTZSR0pmUHE4d1JOTWRKOXQ?oc=5\" target=\"_blank\">SoftBank Expands NVIDIA-Powered AI Infrastructure Beyond 10,000 GPUs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HPCwire</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSF9rRWtfRloxRm44OHdzbTk5MTk0TnM1ejZIcDhVX2xhZnhxZGZpSjNLSlR3MEEwVkpKejYwTUI3YmREQVJ3Qm8zNlhNWGFTd0RjeTZHdjdQemIzSXdtbzNhQzN1OXBqZ2c2U0VRTm9IRy1oMThodS0ya29RbDRwUkxsNGRxTHV5dlo0LWhCdzFJUXgzRVV5eWN6Z3phTVQ5a0pBa2plYUw4Q0J4ZXRlaEtMM2llaXQzUmh0UEdQcDQzV0hzcWc?oc=5",
+        "date": "2025-07-24",
+        "title": "Lokesh Chandra Flags Frequent Outages, Pushes For Stronger Power Infrastructure and Recovery Drives - PUNE PULSE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOSF9rRWtfRloxRm44OHdzbTk5MTk0TnM1ejZIcDhVX2xhZnhxZGZpSjNLSlR3MEEwVkpKejYwTUI3YmREQVJ3Qm8zNlhNWGFTd0RjeTZHdjdQemIzSXdtbzNhQzN1OXBqZ2c2U0VRTm9IRy1oMThodS0ya29RbDRwUkxsNGRxTHV5dlo0LWhCdzFJUXgzRVV5eWN6Z3phTVQ5a0pBa2plYUw4Q0J4ZXRlaEtMM2llaXQzUmh0UEdQcDQzV0hzcWc?oc=5\" target=\"_blank\">Lokesh Chandra Flags Frequent Outages, Pushes For Stronger Power Infrastructure and Recovery Drives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PUNE PULSE</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVmk4Z04ySm5qR1VONUlWNFZlZ3JwN19xN0M5MHNCMVFKaUVpeFFmOXNoTml6aEVKeHpSbEpabW1lUEhFeVFVbUctM1JGeXNVMkpfLXBNYk5SRURLVDdWeVNsaFcwT2xVNlgyd3VjdTNsNGdEUHZQcGozVWZCYXlHYmtiVUJuSnF5TnpGeW5KTUJoSjZCUWotVUlINDBVa3dyeFFoblFMSHRwLTlwbEdEOHZqMEdLVXc5em9kaHR1bFkyaDVuRUJkXw?oc=5",
+        "date": "2025-07-24",
+        "title": "ARCLIGHT ACQUIRES ADVANCED POWER, A LEADING POWER INFRASTRUCTURE DEVELOPER - PR Newswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVmk4Z04ySm5qR1VONUlWNFZlZ3JwN19xN0M5MHNCMVFKaUVpeFFmOXNoTml6aEVKeHpSbEpabW1lUEhFeVFVbUctM1JGeXNVMkpfLXBNYk5SRURLVDdWeVNsaFcwT2xVNlgyd3VjdTNsNGdEUHZQcGozVWZCYXlHYmtiVUJuSnF5TnpGeW5KTUJoSjZCUWotVUlINDBVa3dyeFFoblFMSHRwLTlwbEdEOHZqMEdLVXc5em9kaHR1bFkyaDVuRUJkXw?oc=5\" target=\"_blank\">ARCLIGHT ACQUIRES ADVANCED POWER, A LEADING POWER INFRASTRUCTURE DEVELOPER</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdU1md3ZoLWtQUURzYkgzamJfcUYzek1WWFFHSkl3dkZLdE5XcHlHV3NYX2loVDMwSzlfNVpGaEtQYzFyWk8tblVUWjg2T21hQjBCd2R6MC1lY3lEZy15T3QxcE5TVjNnb3NzZVY5cmhjSFFjbEkzaUxpcE1BYlRvT3ZXa1JBaFhmYVBmWWxXTkc2dWRYUkZCOER1Q3RpSUowWHdydzhibHJ5ZklPeHg0bHo0TkFxNks4OE1iNkxGYlNRUm9nYU9rRTZ1WFEwSzdhY1ZMZWxUQmhabmd4d1drbGZNTE9ZZFluUXpkWE13MEoyaEd0Sm1CMmdB?oc=5",
+        "date": "2025-07-24",
+        "title": "Centre Approves Rs 86,107 Crore for 52 Railway Projects in Bihar to Boost Connectivity and Infrastructure - All Details Inside - Indian Masterminds",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdU1md3ZoLWtQUURzYkgzamJfcUYzek1WWFFHSkl3dkZLdE5XcHlHV3NYX2loVDMwSzlfNVpGaEtQYzFyWk8tblVUWjg2T21hQjBCd2R6MC1lY3lEZy15T3QxcE5TVjNnb3NzZVY5cmhjSFFjbEkzaUxpcE1BYlRvT3ZXa1JBaFhmYVBmWWxXTkc2dWRYUkZCOER1Q3RpSUowWHdydzhibHJ5ZklPeHg0bHo0TkFxNks4OE1iNkxGYlNRUm9nYU9rRTZ1WFEwSzdhY1ZMZWxUQmhabmd4d1drbGZNTE9ZZFluUXpkWE13MEoyaEd0Sm1CMmdB?oc=5\" target=\"_blank\">Centre Approves Rs 86,107 Crore for 52 Railway Projects in Bihar to Boost Connectivity and Infrastructure - All Details Inside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Masterminds</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Centre approves Rs 86,107 crore for 52 railway projects in Bihar to enhance connectivity and infrastructure."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQnN3TlZqUHlZQU9SX0Z1UV9Bc2hGbnEyTzFaaTV4WXI1XzN6cUdvczZNNTFsbzZwN3F4QmJIUkk1QXM2NjJxN19RU3VvOHR3X21fbVNIMks2X2UtdWVrSGNCVElMYXozLW9JYm1hdk1mSkdlQmFrR2c5dUQxSnFSOEx0QWFrekwySDZtVVJTTGI0bE12RVR3bDdyLVJLdHZxTmFGeUF0djZkdEtFMEd5MmpLMV9oLUFZTk9FMElRT2d1ay1qczlNTExFbVc?oc=5",
+        "date": "2025-07-24",
+        "title": "Pakistan launches first-ever agri-Infrastructure sukuk to boost food security and climate resilience - Global Islamic Economy Gateway",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPQnN3TlZqUHlZQU9SX0Z1UV9Bc2hGbnEyTzFaaTV4WXI1XzN6cUdvczZNNTFsbzZwN3F4QmJIUkk1QXM2NjJxN19RU3VvOHR3X21fbVNIMks2X2UtdWVrSGNCVElMYXozLW9JYm1hdk1mSkdlQmFrR2c5dUQxSnFSOEx0QWFrekwySDZtVVJTTGI0bE12RVR3bDdyLVJLdHZxTmFGeUF0djZkdEtFMEd5MmpLMV9oLUFZTk9FMElRT2d1ay1qczlNTExFbVc?oc=5\" target=\"_blank\">Pakistan launches first-ever agri-Infrastructure sukuk to boost food security and climate resilience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Islamic Economy Gateway</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNkpCX1BLR0kyRHRSVk9fbUxKNXc2MHM4YlpyUFV3QV9oVHJ6R3JhdDBtcERxT2RRd0JwNkFjZ0I2WUxacVpkeHNiX0hLUUxTMS12dFJ3ejM0LWtlampoNHJQVVlKV0M5eGltRWFneHREQjE0YmRGVGgzdm5TaXFFUi1VZ3RTc1hQV0thNEgtamtqd1ozbS1fV3dLMC1mQUJYWnpwbkhMQmxaM2Fza09KTWVJcUhaMEFPUTVXbTlHNHM2OFZMMk1lX0JLYkZ2Y1FTYnhJ0gHYAUFVX3lxTFBFTVhJRnowRzByUVItTWxOam95UXlXZWI2V1RhdTVwNGVYOGlCOEFvdFotMTdpdXJfRl93X3BWV3V3TFZsN2RPSnpha1VaUnB4S0FWYVZBSU92SnM3QW5hMF80QXhrUnBoQ3JwWUJhdG9mTHR0bXd3VjUyNkttSGJzN3FyTmlVeTRiN0drRUV4THAxVFJuMUpTb1ZOY3NBWmN1dnpwdGFYVzRLazdQQ19KZjBhUmNBeXRUT1VZNWZCdFp6N1FOb3dTQ21YVnYwcGd1MG9yTjhlMw?oc=5",
+        "date": "2025-07-24",
+        "title": "China expands Himalayan grip with rail, roads & border villages, spurs alarm in India: Report - Telegraph India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNkpCX1BLR0kyRHRSVk9fbUxKNXc2MHM4YlpyUFV3QV9oVHJ6R3JhdDBtcERxT2RRd0JwNkFjZ0I2WUxacVpkeHNiX0hLUUxTMS12dFJ3ejM0LWtlampoNHJQVVlKV0M5eGltRWFneHREQjE0YmRGVGgzdm5TaXFFUi1VZ3RTc1hQV0thNEgtamtqd1ozbS1fV3dLMC1mQUJYWnpwbkhMQmxaM2Fza09KTWVJcUhaMEFPUTVXbTlHNHM2OFZMMk1lX0JLYkZ2Y1FTYnhJ0gHYAUFVX3lxTFBFTVhJRnowRzByUVItTWxOam95UXlXZWI2V1RhdTVwNGVYOGlCOEFvdFotMTdpdXJfRl93X3BWV3V3TFZsN2RPSnpha1VaUnB4S0FWYVZBSU92SnM3QW5hMF80QXhrUnBoQ3JwWUJhdG9mTHR0bXd3VjUyNkttSGJzN3FyTmlVeTRiN0drRUV4THAxVFJuMUpTb1ZOY3NBWmN1dnpwdGFYVzRLazdQQ19KZjBhUmNBeXRUT1VZNWZCdFp6N1FOb3dTQ21YVnYwcGd1MG9yTjhlMw?oc=5\" target=\"_blank\">China expands Himalayan grip with rail, roads & border villages, spurs alarm in India: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telegraph India</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQLUZXLXZrZDQyVWZfLWhtV1h5QmppRmRBcW9aajhGQW9kSVVyVEZqODRpTFl0UDJ4UFBmS09GeW5GYXB0SW1pZE5mTFlHbk1Ra3VQUUxYMFlXdks3cEhTb2loQWQ1MVBUNXE1WWl6OU9KaGxvZWtPVVgzcHJuSlFvU0dwMGRvb0R0N1Jtb3FtN0paaFM4R0lNUGdSS2tTTlRDdDdKYUNwTWdLVzg5eWhIS3drWnp3WFRWLV9OR1QzR1J4NFFCZ1dYV2YxTjA3bU1yVGF6dVZjRThXSC1hb0M5X0xXbkludTRVTHl1LWgtcXZvVkRIbnBkNUptR2V5VWt1SE84OGtLU1hfRmNaNjE1MWJKMTcxelkwc09iQWxBMUpsMzQtdnFfQ09MWHZDSjJ1SWZfX1haWQ?oc=5",
+        "date": "2025-07-24",
+        "title": "Actelis Networks Books Mobile Infrastructure Connectivity - GlobeNewswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwJBVV95cUxQLUZXLXZrZDQyVWZfLWhtV1h5QmppRmRBcW9aajhGQW9kSVVyVEZqODRpTFl0UDJ4UFBmS09GeW5GYXB0SW1pZE5mTFlHbk1Ra3VQUUxYMFlXdks3cEhTb2loQWQ1MVBUNXE1WWl6OU9KaGxvZWtPVVgzcHJuSlFvU0dwMGRvb0R0N1Jtb3FtN0paaFM4R0lNUGdSS2tTTlRDdDdKYUNwTWdLVzg5eWhIS3drWnp3WFRWLV9OR1QzR1J4NFFCZ1dYV2YxTjA3bU1yVGF6dVZjRThXSC1hb0M5X0xXbkludTRVTHl1LWgtcXZvVkRIbnBkNUptR2V5VWt1SE84OGtLU1hfRmNaNjE1MWJKMTcxelkwc09iQWxBMUpsMzQtdnFfQ09MWHZDSjJ1SWZfX1haWQ?oc=5\" target=\"_blank\">Actelis Networks Books Mobile Infrastructure Connectivity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSzNZMEc5OFFMcHVSVFhtSlhPbV9CM2xtTkFKbU9pT3hWcUpoek5UVGpnWGRaQW4wQ0w2YUZvaWtmNTQzRVBQTkVQaUZJZ3V5YmVCdGc1WUJtVncxZFRZUnJpQTVRdEJVcjBobDE0T0FpUkM1dGoxSHZuYjZIdWdSNFJtSm1mbDI2OHJ2S2NtZVJ2d0UxUHJQcFFTMDZtTGl6d2pjZ2tYeFpQYkF0VjZhYkRJZHU?oc=5",
+        "date": "2025-07-24",
+        "title": "Globalstar Expands Canadian Ground Station Infrastructure - Business Wire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPSzNZMEc5OFFMcHVSVFhtSlhPbV9CM2xtTkFKbU9pT3hWcUpoek5UVGpnWGRaQW4wQ0w2YUZvaWtmNTQzRVBQTkVQaUZJZ3V5YmVCdGc1WUJtVncxZFRZUnJpQTVRdEJVcjBobDE0T0FpUkM1dGoxSHZuYjZIdWdSNFJtSm1mbDI2OHJ2S2NtZVJ2d0UxUHJQcFFTMDZtTGl6d2pjZ2tYeFpQYkF0VjZhYkRJZHU?oc=5\" target=\"_blank\">Globalstar Expands Canadian Ground Station Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXpNZ1IwMGFtYk5STEZJUmpKUkJyeC00RFF6TGJKM0tyWlp4T0llWnpFLVNTNzgwWE53a1cyUUVJcWdMWUQ1elB4X0xrWUFIWThlZjFIRWxRaUNlZ3Znd0RyMzNzRDg1ZkM3SExPdFFZWnh0M1RZZFQ0UGNBWm9hMXhMdnhDQk01YjB3RnJvYkI1QzJZcVkzamdhM09PaUVjVDI4TGY2VjJkcktqNXc?oc=5",
+        "date": "2025-07-24",
+        "title": "Building infrastructure: Turning visions into reality - news.cgtn.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXpNZ1IwMGFtYk5STEZJUmpKUkJyeC00RFF6TGJKM0tyWlp4T0llWnpFLVNTNzgwWE53a1cyUUVJcWdMWUQ1elB4X0xrWUFIWThlZjFIRWxRaUNlZ3Znd0RyMzNzRDg1ZkM3SExPdFFZWnh0M1RZZFQ0UGNBWm9hMXhMdnhDQk01YjB3RnJvYkI1QzJZcVkzamdhM09PaUVjVDI4TGY2VjJkcktqNXc?oc=5\" target=\"_blank\">Building infrastructure: Turning visions into reality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cgtn.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVVY0WWhEb092MldxWWhNTWtSRGx3cFJ3ci1pVUk3enBCMGhDeDZjbzBUTGV1NTJnRUVXNUlGRFMyYTlIWXMxYXdrV1E4NlNUVVlTYzI3d0JETV82MUxuYXZOUXBNMGo5OHRrZ3hCdEJLcms2SUhKZENiZXVyYl9KbmpxWVpyZWEyTDVtR2NGUk5vSW56XzQ0?oc=5",
+        "date": "2025-07-24",
+        "title": "Middlefield Global Infrastructure Dividend ETF Distributions - Yahoo Finance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVVY0WWhEb092MldxWWhNTWtSRGx3cFJ3ci1pVUk3enBCMGhDeDZjbzBUTGV1NTJnRUVXNUlGRFMyYTlIWXMxYXdrV1E4NlNUVVlTYzI3d0JETV82MUxuYXZOUXBNMGo5OHRrZ3hCdEJLcms2SUhKZENiZXVyYl9KbmpxWVpyZWEyTDVtR2NGUk5vSW56XzQ0?oc=5\" target=\"_blank\">Middlefield Global Infrastructure Dividend ETF Distributions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdU1md3ZoLWtQUURzYkgzamJfcUYzek1WWFFHSkl3dkZLdE5XcHlHV3NYX2loVDMwSzlfNVpGaEtQYzFyWk8tblVUWjg2T21hQjBCd2R6MC1lY3lEZy15T3QxcE5TVjNnb3NzZVY5cmhjSFFjbEkzaUxpcE1BYlRvT3ZXa1JBaFhmYVBmWWxXTkc2dWRYUkZCOER1Q3RpSUowWHdydzhibHJ5ZklPeHg0bHo0TkFxNks4OE1iNkxGYlNRUm9nYU9rRTZ1WFEwSzdhY1ZMZWxUQmhabmd4d1drbGZNTE9ZZFluUXpkWE13MEoyaEd0Sm1CMmdB?oc=5",
+        "date": "2025-07-24",
+        "title": "Centre Approves Rs 86,107 Crore for 52 Railway Projects in Bihar to Boost Connectivity and Infrastructure - All Details Inside - Indian Masterminds",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdU1md3ZoLWtQUURzYkgzamJfcUYzek1WWFFHSkl3dkZLdE5XcHlHV3NYX2loVDMwSzlfNVpGaEtQYzFyWk8tblVUWjg2T21hQjBCd2R6MC1lY3lEZy15T3QxcE5TVjNnb3NzZVY5cmhjSFFjbEkzaUxpcE1BYlRvT3ZXa1JBaFhmYVBmWWxXTkc2dWRYUkZCOER1Q3RpSUowWHdydzhibHJ5ZklPeHg0bHo0TkFxNks4OE1iNkxGYlNRUm9nYU9rRTZ1WFEwSzdhY1ZMZWxUQmhabmd4d1drbGZNTE9ZZFluUXpkWE13MEoyaEd0Sm1CMmdB?oc=5\" target=\"_blank\">Centre Approves Rs 86,107 Crore for 52 Railway Projects in Bihar to Boost Connectivity and Infrastructure - All Details Inside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Masterminds</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Centre approves Rs 86,107 crore for 52 railway projects in Bihar to enhance connectivity and infrastructure.",
+        "type": "news"
     }
 ]
