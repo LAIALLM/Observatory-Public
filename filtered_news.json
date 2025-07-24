@@ -6047,5 +6047,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 USA: Vehicle emissions are projected to fall by 25% by 2030 due to the increasing use of electric cars.\n\n\ud83c\udf0d Global: Yet, global transport emissions could rise 33% by 2050 if changes aren't made now. Time to prioritize green transportation!",
         "type": "statistical",
         "category": "transportation"
+    },
+    {
+        "link": null,
+        "date": "2025-07-24",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n\nAverage daily server requests: 1 billion. \n\nData capacity: 300 petabytes.\n  \nEnergy consumption of global operations: 23.9 million MWh in 2020. \n\nEfficiency rating: 98.3% \n\n$AAPL",
+        "type": "infrastructure"
     }
 ]
