@@ -6476,5 +6476,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Dholeras manufacturing-realty loop is shaping a new industrial city, driving economic growth through integrated development.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-07-25",
+        "status": "posted",
+        "tweet": "Summary: Solana has the highest validator decentralization, followed by Ethereum and Bitcoin.\n\n1. Solana: 1,839 validators across 21 countries\n2. Ethereum: 442,129 validators across 12 countries\n3. Bitcoin: 12,500 nodes across 98 countries",
+        "type": "crypto"
     }
 ]
