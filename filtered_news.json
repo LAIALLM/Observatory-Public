@@ -6894,5 +6894,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-26",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.\nProduction report: Q3 - 73.5 million iPhones produced, a 21% increase YoY. \nEnergy consumption: down 15% QoQ, now at 2.5 million MWh. \nEfficiency rating: 87%.\n$AAPL",
+        "type": "infrastructure"
     }
 ]
