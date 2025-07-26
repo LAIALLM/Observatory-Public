@@ -6843,5 +6843,36 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2pyeXRkVVRQRloyQ3RjZlRqTzNuY0hLNk1BeVgzTkFvS2E4a0FtTEFXa2RweXBJSjB4bktNVVpXYVhmZlNWZHJ5OXdLUk5WTnczMWN3THFwZmxpREZpaXF1LUIyN082NHNxZHNfdS1RcjhKU2k1UlllRTUzMUFrZTY3UEgxNUtYN2RLTXFTWXJOamhjX1M2TkdrdkhiemxjaDhUU3hhQTQ1VWhRSDVuNXItQ3V5dEE?oc=5",
+        "date": "2025-07-26",
+        "title": "Javid Dar launches road projects to boost rural infrastructure in Baramulla - Kashmir Images",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2pyeXRkVVRQRloyQ3RjZlRqTzNuY0hLNk1BeVgzTkFvS2E4a0FtTEFXa2RweXBJSjB4bktNVVpXYVhmZlNWZHJ5OXdLUk5WTnczMWN3THFwZmxpREZpaXF1LUIyN082NHNxZHNfdS1RcjhKU2k1UlllRTUzMUFrZTY3UEgxNUtYN2RLTXFTWXJOamhjX1M2TkdrdkhiemxjaDhUU3hhQTQ1VWhRSDVuNXItQ3V5dEE?oc=5\" target=\"_blank\">Javid Dar launches road projects to boost rural infrastructure in Baramulla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kashmir Images</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaWV1cDJ1bEUyQzNjaTA3Yy02YXlqdnpnU1RtRllLVkZiUnlMZm5ZNmhKZ0xXSlBzNTBFNGJrTmNQdnIyZ0VBSERpeHdURGJ6WmpfVjZSTXUwNEZLTV9ORndiRWJad2xxVDdtd3hvLWtiWnYzMks2YWxkRkRpLXFWOEc3S3pMWHk4OEJQRFRURjc5NVZuVjRvZG5qQ1BwbE9fa0RZOXJ1RjNuQWVNU0ZRY1ROY9IBtwFBVV95cUxNLUJxTm5CYjBtOVRqQkVBVDNIVHEtS3M5emw5OGhycTAyeHozZ2FQdlN4b0hfbFN1VDFEV0pGc1BYc2h4R3p2ZjFJdWl3VE53WTVkcEg2MXUxVklXb3BOWUhnMFJUci1xT0xWZ3diN1RJd0NZUmdnYUlKM0kxV1FPRzRBM2U1X2JoUVNCNnZuWVJCek9ndHdQRFVFSXZVOEFjVWlSNTBVTDd5elpaOE83Z2prRm9fMVE?oc=5",
+        "date": "2025-07-26",
+        "title": "India pledges $565m to Maldives to boost defense, infrastructure - Kuwait Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQaWV1cDJ1bEUyQzNjaTA3Yy02YXlqdnpnU1RtRllLVkZiUnlMZm5ZNmhKZ0xXSlBzNTBFNGJrTmNQdnIyZ0VBSERpeHdURGJ6WmpfVjZSTXUwNEZLTV9ORndiRWJad2xxVDdtd3hvLWtiWnYzMks2YWxkRkRpLXFWOEc3S3pMWHk4OEJQRFRURjc5NVZuVjRvZG5qQ1BwbE9fa0RZOXJ1RjNuQWVNU0ZRY1ROY9IBtwFBVV95cUxNLUJxTm5CYjBtOVRqQkVBVDNIVHEtS3M5emw5OGhycTAyeHozZ2FQdlN4b0hfbFN1VDFEV0pGc1BYc2h4R3p2ZjFJdWl3VE53WTVkcEg2MXUxVklXb3BOWUhnMFJUci1xT0xWZ3diN1RJd0NZUmdnYUlKM0kxV1FPRzRBM2U1X2JoUVNCNnZuWVJCek9ndHdQRFVFSXZVOEFjVWlSNTBVTDd5elpaOE83Z2prRm9fMVE?oc=5\" target=\"_blank\">India pledges $565m to Maldives to boost defense, infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kuwait Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: India pledges $565m to Maldives to boost defense and infrastructure."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaWV1cDJ1bEUyQzNjaTA3Yy02YXlqdnpnU1RtRllLVkZiUnlMZm5ZNmhKZ0xXSlBzNTBFNGJrTmNQdnIyZ0VBSERpeHdURGJ6WmpfVjZSTXUwNEZLTV9ORndiRWJad2xxVDdtd3hvLWtiWnYzMks2YWxkRkRpLXFWOEc3S3pMWHk4OEJQRFRURjc5NVZuVjRvZG5qQ1BwbE9fa0RZOXJ1RjNuQWVNU0ZRY1ROY9IBtwFBVV95cUxNLUJxTm5CYjBtOVRqQkVBVDNIVHEtS3M5emw5OGhycTAyeHozZ2FQdlN4b0hfbFN1VDFEV0pGc1BYc2h4R3p2ZjFJdWl3VE53WTVkcEg2MXUxVklXb3BOWUhnMFJUci1xT0xWZ3diN1RJd0NZUmdnYUlKM0kxV1FPRzRBM2U1X2JoUVNCNnZuWVJCek9ndHdQRFVFSXZVOEFjVWlSNTBVTDd5elpaOE83Z2prRm9fMVE?oc=5",
+        "date": "2025-07-26",
+        "title": "India pledges $565m to Maldives to boost defense, infrastructure - Kuwait Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQaWV1cDJ1bEUyQzNjaTA3Yy02YXlqdnpnU1RtRllLVkZiUnlMZm5ZNmhKZ0xXSlBzNTBFNGJrTmNQdnIyZ0VBSERpeHdURGJ6WmpfVjZSTXUwNEZLTV9ORndiRWJad2xxVDdtd3hvLWtiWnYzMks2YWxkRkRpLXFWOEc3S3pMWHk4OEJQRFRURjc5NVZuVjRvZG5qQ1BwbE9fa0RZOXJ1RjNuQWVNU0ZRY1ROY9IBtwFBVV95cUxNLUJxTm5CYjBtOVRqQkVBVDNIVHEtS3M5emw5OGhycTAyeHozZ2FQdlN4b0hfbFN1VDFEV0pGc1BYc2h4R3p2ZjFJdWl3VE53WTVkcEg2MXUxVklXb3BOWUhnMFJUci1xT0xWZ3diN1RJd0NZUmdnYUlKM0kxV1FPRzRBM2U1X2JoUVNCNnZuWVJCek9ndHdQRFVFSXZVOEFjVWlSNTBVTDd5elpaOE83Z2prRm9fMVE?oc=5\" target=\"_blank\">India pledges $565m to Maldives to boost defense, infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kuwait Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: India pledges $565m to Maldives to boost defense and infrastructure.",
+        "type": "news"
     }
 ]
