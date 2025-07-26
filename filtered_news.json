@@ -6665,5 +6665,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 USA: In 2025, $1.288 trillion is expected to be spent on engineering projects, a 4.3% increase from 2023. \n\n\ud83c\udf0d Globally: Engineering project expenditures are projected to reach a staggering $5.98 trillion, showing a 6% growth rate since 2023.",
         "type": "statistical",
         "category": "engineering projects"
+    },
+    {
+        "link": null,
+        "date": "2025-07-26",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's network scalability costs reached $1.2 billion annually, while Ethereum's costs were $800 million.\n\nBTC's costs could power \ud83c\uddfa\ud83c\uddf8 New York City for 2 months, ETH's for 1.5 months.",
+        "type": "crypto"
     }
 ]
