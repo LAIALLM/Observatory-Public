@@ -6626,5 +6626,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-27",
+        "status": "posted",
+        "tweet": "Summary: Experiencing a major construction boom, these cities lead in global construction project value in 2025:\n\n\ud83c\udde8\ud83c\uddf3 Shanghai\n\ud83c\udde6\ud83c\uddea Dubai\n\ud83c\uddfa\ud83c\uddf8 New York\n\ud83c\uddf8\ud83c\udde6 Riyadh\n\ud83c\uddee\ud83c\uddf3 Mumbai",
+        "type": "statistical",
+        "category": "construction projects"
     }
 ]
