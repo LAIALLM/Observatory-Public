@@ -6745,5 +6745,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-27",
+        "status": "posted",
+        "tweet": "From 2017 to 2025, the annual electricity cost of running the Bitcoin network increased from $1.4 billion to an estimated $10 billion, highlighting the growing infrastructural demands of blockchain technology.",
+        "type": "crypto"
     }
 ]
