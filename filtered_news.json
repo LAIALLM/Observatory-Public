@@ -6893,5 +6893,35 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRHRoRkJkUzlvYkpBU2U5NVNMdVBzVXpNZlJGNzg3Zk8zMXR2Y2xQMTVlbGtpNGxkQThjVUpIWkVlek9JQ3pmRGljN1lVT0RDNGVqaEtMc2dna3dxWmt3bnR6bldfR2F1TDRkRzBNWl9zVndLTjZGdDdxYm05UDlqbzBmak9LdnlWWHFSYmxwb3o3NXFERFAwX2tMT29hU2FsQ1JYSUVWZUhSZFJIYU1Dbk53bEpDd3A1SE1fNVdfYlYybHJkZUpiaXJ4c1JhRm41RHBNOUZXOHkyQ0hfamowUmZ0NlJzME0?oc=5",
+        "date": "2025-07-27",
+        "title": "RIDDLE: Why Russia\u2019s housing market defied the mortgage subsidy collapse - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRHRoRkJkUzlvYkpBU2U5NVNMdVBzVXpNZlJGNzg3Zk8zMXR2Y2xQMTVlbGtpNGxkQThjVUpIWkVlek9JQ3pmRGljN1lVT0RDNGVqaEtMc2dna3dxWmt3bnR6bldfR2F1TDRkRzBNWl9zVndLTjZGdDdxYm05UDlqbzBmak9LdnlWWHFSYmxwb3o3NXFERFAwX2tMT29hU2FsQ1JYSUVWZUhSZFJIYU1Dbk53bEpDd3A1SE1fNVdfYlYybHJkZUpiaXJ4c1JhRm41RHBNOUZXOHkyQ0hfamowUmZ0NlJzME0?oc=5\" target=\"_blank\">RIDDLE: Why Russia\u2019s housing market defied the mortgage subsidy collapse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObkExdzg5TVJ1Qy04eXRnN0RRajIxS2dxYUUzalp3R3pzeTBEb2hobjhEV0dPNmlnamwxRGd6aXJzQWdpbmlSeWRtZC1YcjBrUXU3aS1FdzBQRHctX0tJdnpuOWs1cHkzZE9kUm5NdmdNTzhiTlFFaUhQS0JVd0hLY1BUb2xOZ0lPemdRdVF0UWk1MUlRWWpkUGhjcEdISnc?oc=5",
+        "date": "2025-07-27",
+        "title": "Will the government's changes bring down building costs? - RNZ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObkExdzg5TVJ1Qy04eXRnN0RRajIxS2dxYUUzalp3R3pzeTBEb2hobjhEV0dPNmlnamwxRGd6aXJzQWdpbmlSeWRtZC1YcjBrUXU3aS1FdzBQRHctX0tJdnpuOWs1cHkzZE9kUm5NdmdNTzhiTlFFaUhQS0JVd0hLY1BUb2xOZ0lPemdRdVF0UWk1MUlRWWpkUGhjcEdISnc?oc=5\" target=\"_blank\">Will the government's changes bring down building costs?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RNZ</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWm9wWE9SeVVoNG5IZ0U1Y0tCa3VGQVVnYnZORkRRT0d4Ym5DOW1qaFdPdE9DTnpzWHRDc0tMOXRqbUdLYXJGREtZTTZyVGFSVnpWSEhZcnRKMWI1OFVvR2RrZC1PLUlCdzhHQUFtWTNyeEk2MGFSRDk1b1FYQlBvM2h5RXkyU1RqSjloMEsyR3AzellrU3NMNzNuTElpQ3drQ1Y0ODZGdw?oc=5",
+        "date": "2025-07-27",
+        "title": "Reliance Infrastructure\u2019s Strategic Growth Initiative - TipRanks",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOWm9wWE9SeVVoNG5IZ0U1Y0tCa3VGQVVnYnZORkRRT0d4Ym5DOW1qaFdPdE9DTnpzWHRDc0tMOXRqbUdLYXJGREtZTTZyVGFSVnpWSEhZcnRKMWI1OFVvR2RrZC1PLUlCdzhHQUFtWTNyeEk2MGFSRDk1b1FYQlBvM2h5RXkyU1RqSjloMEsyR3AzellrU3NMNzNuTElpQ3drQ1Y0ODZGdw?oc=5\" target=\"_blank\">Reliance Infrastructure\u2019s Strategic Growth Initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
