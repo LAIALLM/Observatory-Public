@@ -6923,5 +6923,15 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVBXcWhfWXJLZlVLbU5pY0l4THM5enRPaDBQU0d0V09zT1RESWk2ZFAtZFlkbHhwUGJCcXdBNHBSQzBMSGdENnV0aldJQlpTY3o1NFZkd05OX1ctUHA1SEZFX1llYXRCOENBdDVkOTFYaldKN0x2cVN2NVppUXpIUWxxS3pPNGJxaVAxeWdlZm9mV0p0Qi1uYW9uYw?oc=5",
+        "date": "2025-07-27",
+        "title": "'Unprecedented' coastal growth sees house prices, planning issues mount - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVBXcWhfWXJLZlVLbU5pY0l4THM5enRPaDBQU0d0V09zT1RESWk2ZFAtZFlkbHhwUGJCcXdBNHBSQzBMSGdENnV0aldJQlpTY3o1NFZkd05OX1ctUHA1SEZFX1llYXRCOENBdDVkOTFYaldKN0x2cVN2NVppUXpIUWxxS3pPNGJxaVAxeWdlZm9mV0p0Qi1uYW9uYw?oc=5\" target=\"_blank\">'Unprecedented' coastal growth sees house prices, planning issues mount</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
