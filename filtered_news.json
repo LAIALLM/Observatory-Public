@@ -5130,5 +5130,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Nagpur unveils Rs 25,567 crore mobility plan to boost infrastructure.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-07-28",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin processes 7 transactions per second at an estimated annual infrastructure cost of $1.5 billion.\n\nEthereum, in contrast, handles 30 transactions per second, costing $800 million annually.\n\n\ud83c\uddfa\ud83c\uddf8 USA's energy consumption for Bitcoin equals 1.5 million households.",
+        "type": "crypto"
     }
 ]
