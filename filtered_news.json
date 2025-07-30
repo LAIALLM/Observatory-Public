@@ -4387,5 +4387,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-30",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global smart city market projected to hit $2.57 trillion by 2025, up from $1.55 trillion in 2024 \u2013 a staggering 65.8% increase! Remember, more than just a buzzword, smart cities are about enhancing quality of life, fostering sustainability, and driving economic growth. \ud83d\udcc8\ud83c\udf06",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
