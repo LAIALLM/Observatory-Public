@@ -4313,5 +4313,19 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-30",
+        "status": "posted",
+        "tweet": "In 2025, Ethereum's staking costs are projected to be 99.95% lower than Bitcoin's mining costs, saving the equivalent of \ud83c\uddfa\ud83c\uddf8 USA's annual electricity consumption for 1.2 million homes.",
+        "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-07-30",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc: \nAnnual energy consumption: 33 Million MWh. \nData Centre Efficiency: PUE 1.1. \nRenewable sources: 76% \n$AAPL",
+        "type": "infrastructure"
     }
 ]
