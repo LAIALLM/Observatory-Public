@@ -4297,5 +4297,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-07-31",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.: \nIn 2020, energy consumption of global facilities reduced by 13.8%. \nNow, 100% powered by renewable energy sources.\n$AAPL",
+        "type": "infrastructure"
     }
 ]
