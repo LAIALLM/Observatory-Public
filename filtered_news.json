@@ -3940,5 +3940,25 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin has the highest hardware costs, followed by Ethereum and Solana.\n\n1. Bitcoin: $10.8B annually\n2. Ethereum: $1.5B annually\n3. Solana: $200M annually",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DRDlfQmZ3WUJBV0wxcFNOTWczV1A3UnVuNDdyQTBpczN3dDNCTG41eG9UeGR6VHVUWjg4LThIYkJvcGwwVHVNS3E2VFcxc2YwdTlrZWkzV2xmV21hYTd3MjA2VndWZnZacnRFUldiWXlscGR6?oc=5",
+        "date": "2025-08-01",
+        "title": "Cement Sales Dip Below 20 Million Tons in First Half for First Time in 33 Years - Businesskorea",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5DRDlfQmZ3WUJBV0wxcFNOTWczV1A3UnVuNDdyQTBpczN3dDNCTG41eG9UeGR6VHVUWjg4LThIYkJvcGwwVHVNS3E2VFcxc2YwdTlrZWkzV2xmV21hYTd3MjA2VndWZnZacnRFUldiWXlscGR6?oc=5\" target=\"_blank\">Cement Sales Dip Below 20 Million Tons in First Half for First Time in 33 Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Businesskorea</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMmFMclM1dWFtSVAxZ0Z1ZUNGNXJDaXVCdFI2SkZUZlRZYVNDb2FfcHVEZW1lNjNPbUlhcmtEN1d1RDkwbHF5RnM1YklJb3lGSlRPSll6OFd4alBHb0V2YVpoTC1RdlBxcU5fb1p6X1doYmViYzVuX0VaMGlMVmllRjRnSF9ncWw0ZThsOTJFU09Dci00bk9jYlh5d3dMblBJZVJlbEtlSmhHSzAzamhuMXRpY0VLUU9ucHZoVEh0blVtcnlqZTVNU25B?oc=5",
+        "date": "2025-08-01",
+        "title": "Movers and Shakers: Biggest construction and engineering appointments July 2025 - New Civil Engineer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOMmFMclM1dWFtSVAxZ0Z1ZUNGNXJDaXVCdFI2SkZUZlRZYVNDb2FfcHVEZW1lNjNPbUlhcmtEN1d1RDkwbHF5RnM1YklJb3lGSlRPSll6OFd4alBHb0V2YVpoTC1RdlBxcU5fb1p6X1doYmViYzVuX0VaMGlMVmllRjRnSF9ncWw0ZThsOTJFU09Dci00bk9jYlh5d3dMblBJZVJlbEtlSmhHSzAzamhuMXRpY0VLUU9ucHZoVEh0blVtcnlqZTVNU25B?oc=5\" target=\"_blank\">Movers and Shakers: Biggest construction and engineering appointments July 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Civil Engineer</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
