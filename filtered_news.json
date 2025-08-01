@@ -4231,5 +4231,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: YEIDA accelerates land acquisition to enhance urban development.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-08-01",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft: In Q2 2021, the company's cloud-services platform Azure recorded a 50% YoY growth.\nEfficiency rating: 99.995% uptime.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
