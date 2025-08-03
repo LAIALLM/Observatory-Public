@@ -3847,5 +3847,15 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/61120-nova-scotia-offshore-wind-push-jumpstarts-canada-bid-to-be-major-clean-energy-player",
+        "date": "2025-08-03",
+        "title": "Nova Scotia Offshore Wind Push Jumpstarts Canada Bid to Be Major Clean Energy Player",
+        "summary": "<p>Province launches program for 5 GW by 2030, as new national Prime Minister Mark Carney also pushes fast-track approvals of fossil fuel projects to gain country's own energy dominance.&nbsp;</p>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
