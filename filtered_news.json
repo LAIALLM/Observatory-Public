@@ -3184,5 +3184,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddea NEWS: Dubai surpasses 1,270 EV charging points as DEWA expands green mobility infrastructure.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-08-04",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global infrastructure investment needed by 2040: $94 trillion. \nCurrent trend only meets 50% of this.\n$3.7 trillion investment required annually to bridge the gap.\nLet's build for tomorrow.\nSource: Global Infrastructure Hub, 2025.",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
