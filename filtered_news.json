@@ -3002,5 +3002,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-08-05",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL \nLatest report shows an impressive rise in their renewable energy consumption for global facilities. \nReached 100% in 2021, up from 93% in 2019.",
+        "type": "infrastructure"
     }
 ]
