@@ -2918,5 +2918,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Madhya Pradesh introduces bill to reshape urban growth with new metropolitan planning law, aiming to enhance urban development.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-08-06",
+        "status": "posted",
+        "tweet": "Bitcoin nodes: 46% in \ud83c\uddfa\ud83c\uddf8, 17% in \ud83c\udde9\ud83c\uddea, 10% in \ud83c\uddf3\ud83c\uddf1.\n\nEthereum nodes: 29% in \ud83c\uddfa\ud83c\uddf8, 15% in \ud83c\udde9\ud83c\uddea, 12% in \ud83c\uddec\ud83c\udde7.\n\nData as of 2025.",
+        "type": "crypto"
     }
 ]
