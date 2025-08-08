@@ -3162,5 +3162,42 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3VZeTdpMXh0Z2ZrMm9VUThDdE4wd09kd2thUHhTYkVBOWotUWQ0eVliSEk4ZWpBaFh3clhaM2dodTJlb19jRFE4ektnaUpYc25oUk5tbkhlLXo3aXFVWFRtVV8zRVRnV3gwS3M0R0VUa1VFN2tIcUtIM25KQTA2NVhfR2QtMmxsbjlZUlhnekxiWHN4VDdYeFE2c1A0UTFHejh5Q3NOWjBsQmVEOXVKeDg1M3BOOVFfcXdyUUdIaTQ5d1BYQVJsU0VJNFRPUFc4dl9tWQ?oc=5",
+        "date": "2025-08-08",
+        "title": "Poondi reservoir to undergo infrastructure boost before Northeast monsoon - The Hindu",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3VZeTdpMXh0Z2ZrMm9VUThDdE4wd09kd2thUHhTYkVBOWotUWQ0eVliSEk4ZWpBaFh3clhaM2dodTJlb19jRFE4ektnaUpYc25oUk5tbkhlLXo3aXFVWFRtVV8zRVRnV3gwS3M0R0VUa1VFN2tIcUtIM25KQTA2NVhfR2QtMmxsbjlZUlhnekxiWHN4VDdYeFE2c1A0UTFHejh5Q3NOWjBsQmVEOXVKeDg1M3BOOVFfcXdyUUdIaTQ5d1BYQVJsU0VJNFRPUFc4dl9tWQ?oc=5\" target=\"_blank\">Poondi reservoir to undergo infrastructure boost before Northeast monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/61164-ten-minutes-with-victor-hernandez-representing-a-new-generation-of-industry-talent",
+        "date": "2025-08-08",
+        "title": "Ten Minutes With Victor Hernandez, Young Engineer Coming Up on Major LA Projects",
+        "summary": "<p>Former Skanska intern jumpstarted his career on the LA Metro D Line construction.</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/61163-mta-inspector-general-flags-23m-in-unaccounted-track-material",
+        "date": "2025-08-08",
+        "title": "MTA Inspector General Flags $2M in Unaccounted Track Material at Hurricane Sandy Recovery Project",
+        "summary": "<p><span style=\"font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; display: inline !important; float: none;\">MTA Inspector General report found that New York City Transit failed to take possession of purchased materials from the 207th Street Yard project. The agency has since adopted report recommendations.&nbsp;</span></p><br />",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-08-08",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. ($AAPL)\nUpgraded 200MW of data center operations to renewable energy, reducing CO2 footprint by 8%. \n100% renewable powering 12/12 US facilities.",
+        "type": "infrastructure"
     }
 ]
