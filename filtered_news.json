@@ -2953,5 +2953,13 @@
         "status": "posted",
         "tweet": "In 2025, Bitcoin's annual electricity consumption is projected to surpass 200 TWh, exceeding the total power usage of \ud83c\uddf3\ud83c\uddf4 Norway.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-08-08",
+        "status": "posted",
+        "tweet": "Summary: Top 5 countries with highest investments in infrastructure by 2025.\n\n1. \ud83c\udde8\ud83c\uddf3China\n2. \ud83c\uddfa\ud83c\uddf8USA\n3. \ud83c\uddee\ud83c\uddf3India\n4. \ud83c\udde7\ud83c\uddf7Brazil\n5. \ud83c\uddf7\ud83c\uddfaRussia\n\nIn 2025, China leads the world in infrastructure investment, followed closely by the USA. India, Brazil, and Russia complete the top five.",
+        "type": "statistical",
+        "category": "infrastructure companies"
     }
 ]
