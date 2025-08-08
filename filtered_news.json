@@ -3142,5 +3142,25 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlZGT0FVVG5GXzB6eUVMZWhSVVZTcjVBMGlCMDR6SjJMcHFmMlhfWW00R3JKT2NNMDBOT21sQ0hLYVVRcWM3b2JJaE1QM3UyMnNTQjEzb0h3Z2JWM2I4ZW5jYk0wYUJBUnhSb05jZkhpRG1jdVFBZ2lhUm5Ic0JmaXVnQ2xHX19raGJr?oc=5",
+        "date": "2025-08-08",
+        "title": "Storage Guardian Exec on Infrastructure Builds With StorONE - Channel Insider",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYlZGT0FVVG5GXzB6eUVMZWhSVVZTcjVBMGlCMDR6SjJMcHFmMlhfWW00R3JKT2NNMDBOT21sQ0hLYVVRcWM3b2JJaE1QM3UyMnNTQjEzb0h3Z2JWM2I4ZW5jYk0wYUJBUnhSb05jZkhpRG1jdVFBZ2lhUm5Ic0JmaXVnQ2xHX19raGJr?oc=5\" target=\"_blank\">Storage Guardian Exec on Infrastructure Builds With StorONE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Channel Insider</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/61162-unpermitted-wells-at-750m-iowa-data-center-site-lead-to-20k-fine",
+        "date": "2025-08-08",
+        "title": "Unpermitted Wells at $750M Iowa Data Center Site Lead to $20K Fine",
+        "summary": "<p>Linn County, Iowa is pursuing a $20,000 civil penalty against a Minn.-based dewatering firm after 40 unpermitted wells were found at a data center being built in Cedar Rapids, Iowa.&nbsp;</p>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
