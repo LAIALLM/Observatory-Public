@@ -2796,5 +2796,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Andhra Pradesh experiences significant improvement in road infrastructure under CRIF initiative.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-08-09",
+        "status": "posted",
+        "tweet": "Summary: In 2025, these are the 5 countries investing the most in infrastructure.\n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddfa\ud83c\uddf8 USA\n3. \ud83c\uddee\ud83c\uddf3 India\n4. \ud83c\uddef\ud83c\uddf5 Japan\n5. \ud83c\udde9\ud83c\uddea Germany\n\nEstimated $2.4T total global infrastructure investment by 2025. China leads the pack, contributing approx. 30% worldwide.",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
