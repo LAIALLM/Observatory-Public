@@ -2541,5 +2541,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-08-10",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \nThird quarter results: total net sales $81.4 billion. \nServices: $17.5 billion, up 25% YOY. \n\ud83d\udcf1iPhone: $39.6 billion, up 50% YOY. $AAPL",
+        "type": "infrastructure"
     }
 ]
