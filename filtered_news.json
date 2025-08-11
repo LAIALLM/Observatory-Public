@@ -2444,5 +2444,13 @@
         "status": "posted",
         "tweet": "In 2025, Bitcoin's energy consumption led to stricter regulations in \ud83c\uddea\ud83c\uddfa EU, increasing infrastructure costs by 15%. Ethereum's shift to proof-of-stake reduced its impact, with no new regulations in \ud83c\uddfa\ud83c\uddf8 US, maintaining stable costs.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-08-11",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India's projected population in 2027: 1.5 billion\n\ud83c\udde8\ud83c\uddf3 China's projected population in 2027: 1.4 billion\n\nIn just two years, India will surpass China to become the world's most populous country.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
