@@ -2793,5 +2793,36 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONmlNNFVHdlREblBLVFRwQ3lydV9BM2txa2tOLWhoUGdpVmVDVzFEMTdmZ2VLOUdsNFBxZUpTTlNkSWdHZ2tBMXI2Qk1pQ0JzTjhraFBieXlJRTAzVERhRXJ1QVA1ZnhETkF3cjRHY0JBSVRqc1dOWm5ONFo2UHdxY2pHdGFVbnRrbE1VWVFkRkFldVM4TUZfMWdZVGpUYkN4M0pjQXJCVURVaWhhQmxlcVpVZ1lGWmhvbTI4Yjd30gHCAUFVX3lxTE5SYkcwbHF0TGZmY2VvN0pVcGZRZ1ZySldBQjM0ZXkxVXVaZEYwVllKQTcyaVRsczlBcmJ4bG14ZFJ5dk9KclVGWjdFYm9PekIzZE5IazBmOUdpWWQ1dlBxemNVclhKYzN5bWxzMF9PY1Fmdi1feC1ESy1xd2p0ZU1laEFCQmdsWEtoMVNXR2VEUVZkVlNwRnd6eHNwbnN0ZFl2WlRocGhXVkRsc3lmLWVYcjRrc0ZSNU90NjVwSTJtaUdB?oc=5",
+        "date": "2025-08-11",
+        "title": "Al-Sabriya housing project moves forward with Chinese inspection - Kuwait Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxONmlNNFVHdlREblBLVFRwQ3lydV9BM2txa2tOLWhoUGdpVmVDVzFEMTdmZ2VLOUdsNFBxZUpTTlNkSWdHZ2tBMXI2Qk1pQ0JzTjhraFBieXlJRTAzVERhRXJ1QVA1ZnhETkF3cjRHY0JBSVRqc1dOWm5ONFo2UHdxY2pHdGFVbnRrbE1VWVFkRkFldVM4TUZfMWdZVGpUYkN4M0pjQXJCVURVaWhhQmxlcVpVZ1lGWmhvbTI4Yjd30gHCAUFVX3lxTE5SYkcwbHF0TGZmY2VvN0pVcGZRZ1ZySldBQjM0ZXkxVXVaZEYwVllKQTcyaVRsczlBcmJ4bG14ZFJ5dk9KclVGWjdFYm9PekIzZE5IazBmOUdpWWQ1dlBxemNVclhKYzN5bWxzMF9PY1Fmdi1feC1ESy1xd2p0ZU1laEFCQmdsWEtoMVNXR2VEUVZkVlNwRnd6eHNwbnN0ZFl2WlRocGhXVkRsc3lmLWVYcjRrc0ZSNU90NjVwSTJtaUdB?oc=5\" target=\"_blank\">Al-Sabriya housing project moves forward with Chinese inspection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kuwait Times</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/61167-arup-mace-consult-jv-appointed-program-management-partner-for-287b-hong-kong-megaproject",
+        "date": "2025-08-11",
+        "title": "Mace Consult- Arup JV Picked as PM Partner for $28.7B Hong Kong Megaproject",
+        "summary": "<p>UK firms\u2019 joint venture will provide <span style=\"font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; display: inline !important; float: none;\">multi-disciplinary services for two key projects components under the first project management office appointment for the <span style=\"font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; display: inline !important; float: none;\">Hong Kong Special Administrative Region g</span>overnment.</span></p>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udded\ud83c\uddf0 NEWS: Mace Consult-Arup JV selected as PM partner for $28.7B megaproject, providing multi-disciplinary services for key components under Hong Kongs first project management office appointment."
+    },
+    {
+        "link": "https://www.enr.com/articles/61167-arup-mace-consult-jv-appointed-program-management-partner-for-287b-hong-kong-megaproject",
+        "date": "2025-08-11",
+        "title": "Mace Consult- Arup JV Picked as PM Partner for $28.7B Hong Kong Megaproject",
+        "summary": "<p>UK firms\u2019 joint venture will provide <span style=\"font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; display: inline !important; float: none;\">multi-disciplinary services for two key projects components under the first project management office appointment for the <span style=\"font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; display: inline !important; float: none;\">Hong Kong Special Administrative Region g</span>overnment.</span></p>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udded\ud83c\uddf0 NEWS: Mace Consult-Arup JV selected as PM partner for $28.7B megaproject, providing multi-disciplinary services for two key components under Hong Kongs first project management office appointment.",
+        "type": "news"
     }
 ]
