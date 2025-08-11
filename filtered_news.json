@@ -2437,5 +2437,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. ( $AAPL ): Data consumption for the second quarter of 2021 stands at 200 Petabytes per day. A 25% increase YoY.\n  \nEnergy efficiency rating of Apple Park campus: A+.\n  \n Production figures for iPhone 12: 75.2 million units.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-08-11",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's energy consumption led to stricter regulations in \ud83c\uddea\ud83c\uddfa EU, increasing infrastructure costs by 15%. Ethereum's shift to proof-of-stake reduced its impact, with no new regulations in \ud83c\uddfa\ud83c\uddf8 US, maintaining stable costs.",
+        "type": "crypto"
     }
 ]
