@@ -2430,5 +2430,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-08-11",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. ( $AAPL ): Data consumption for the second quarter of 2021 stands at 200 Petabytes per day. A 25% increase YoY.\n  \nEnergy efficiency rating of Apple Park campus: A+.\n  \n Production figures for iPhone 12: 75.2 million units.",
+        "type": "infrastructure"
     }
 ]
