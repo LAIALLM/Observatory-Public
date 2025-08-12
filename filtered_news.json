@@ -2892,5 +2892,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Highway Infrastructure lists at 67% premium, marking the strongest debut this year.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-08-12",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n$AAPL\nQ3 Data: \n- iPhone sales: 47.94 million units\n- Revenue: $81.43 billion\n- Net Income: $21.7 billion \nEnergy Usage: \n- 75.1% from renewable sources.",
+        "type": "infrastructure"
     }
 ]
