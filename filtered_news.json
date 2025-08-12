@@ -2821,5 +2821,76 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin's annual electricity consumption exceeds that of Ethereum and Solana combined.\n\n1. Bitcoin: 121 TWh/year, surpassing \ud83c\uddfa\ud83c\uddf8 Ukraine's total.\n2. Ethereum: 25 TWh/year, similar to \ud83c\udde8\ud83c\udded Switzerland.\n3. Solana: 0.1 TWh/year, comparable to \ud83c\uddf1\ud83c\uddfa Luxembourg.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jeVBMVzhBWWxlYjdIMHdtQlhLZ1JVZnM5cWctZF9uNmJWdTRINzRxN19lZ1FFU2Z2RWQzTWp0U3B5VFVvWk02QVpmRklnbDhh?oc=5",
+        "date": "2025-08-12",
+        "title": "Reimagining construction beyond sustainability - The Edge Malaysia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jeVBMVzhBWWxlYjdIMHdtQlhLZ1JVZnM5cWctZF9uNmJWdTRINzRxN19lZ1FFU2Z2RWQzTWp0U3B5VFVvWk02QVpmRklnbDhh?oc=5\" target=\"_blank\">Reimagining construction beyond sustainability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Edge Malaysia</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOTI1eHFZZEFTa3VxVEZfeEt0ams4enRqTzhWejk4aVhYbC1Tam5YajVYcFFaOEphVDhoem40YzUtZ0F6WjBFQ2FhT0Y4WTd0RmlBVVdmZXRlNEVTTzdYYnEtd0JuLXVOVEpEMy1KZ0l0T0ZISXZNQ09xUEpSTzhPTDV5TnQwUGU4WUFmOXVwWTQxZzBhdjVJUVI2NGFLUmI0RGdNQnctbWQzdlhVVFhKY05Nai1VSjZqaVBBMUtybk5EYjdsaDNCOHZsVjhVY1FVVXBzQmZ0U3pYWURJU1AxWUwtRdIB6AFBVV95cUxNM2JweW8yc0lFWnpvWVBOelNTMHhpd3pITTRIcXpfSE9UaDZDTTV4Y3FCRWpheTE1YnJFTURYWURNNEVieUZpSk1zT2hBODJOMERLeGZuZnlzLTBFQWljSWJLazJ3T0xtMUVsQmhySmx5Qzl0cUt0VmM1LWdRazJiV2VZZERkb1BZWGhPS2FObjBtUktqYk9FMXh1OGk0cmptdy1WcnRhUXdySHM3TDUzckU0cmxMTVotUmxraDVDOHhCZ203NkgwWjRPT25wTGY5aW9IQWtiWDlhM0tza291N2l0MHRkdHZY?oc=5",
+        "date": "2025-08-12",
+        "title": "Highway Infrastructure Shares List at 67% Premium, Hit Upper Circuit on Debut - Times Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOTI1eHFZZEFTa3VxVEZfeEt0ams4enRqTzhWejk4aVhYbC1Tam5YajVYcFFaOEphVDhoem40YzUtZ0F6WjBFQ2FhT0Y4WTd0RmlBVVdmZXRlNEVTTzdYYnEtd0JuLXVOVEpEMy1KZ0l0T0ZISXZNQ09xUEpSTzhPTDV5TnQwUGU4WUFmOXVwWTQxZzBhdjVJUVI2NGFLUmI0RGdNQnctbWQzdlhVVFhKY05Nai1VSjZqaVBBMUtybk5EYjdsaDNCOHZsVjhVY1FVVXBzQmZ0U3pYWURJU1AxWUwtRdIB6AFBVV95cUxNM2JweW8yc0lFWnpvWVBOelNTMHhpd3pITTRIcXpfSE9UaDZDTTV4Y3FCRWpheTE1YnJFTURYWURNNEVieUZpSk1zT2hBODJOMERLeGZuZnlzLTBFQWljSWJLazJ3T0xtMUVsQmhySmx5Qzl0cUt0VmM1LWdRazJiV2VZZERkb1BZWGhPS2FObjBtUktqYk9FMXh1OGk0cmptdy1WcnRhUXdySHM3TDUzckU0cmxMTVotUmxraDVDOHhCZ203NkgwWjRPT25wTGY5aW9IQWtiWDlhM0tza291N2l0MHRkdHZY?oc=5\" target=\"_blank\">Highway Infrastructure Shares List at 67% Premium, Hit Upper Circuit on Debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times Now</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemlTZmFRY05aYXdXXzFPaW80RUViZ2JxSEVvMjl1WVdHMXhaVlhxaklqRDRoNWppa0hyVjVjMExUYnJ0dml5clcydzlpS0xCT1piMFpFWmpmZkFJUnhmbnhQcnBuYWFmWWhoemp5Rjd5TEpoQ3RlZHp3V1BVMmhpcWxuS1B3c0NmQnZkNi01QjAwUHlkSGk2OS1tZHZXVHVubmNhd0lHZXhiTWl6?oc=5",
+        "date": "2025-08-12",
+        "title": "Highway Infrastructure lists at 67% premium, strongest debut this year - NewsBytes",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPemlTZmFRY05aYXdXXzFPaW80RUViZ2JxSEVvMjl1WVdHMXhaVlhxaklqRDRoNWppa0hyVjVjMExUYnJ0dml5clcydzlpS0xCT1piMFpFWmpmZkFJUnhmbnhQcnBuYWFmWWhoemp5Rjd5TEpoQ3RlZHp3V1BVMmhpcWxuS1B3c0NmQnZkNi01QjAwUHlkSGk2OS1tZHZXVHVubmNhd0lHZXhiTWl6?oc=5\" target=\"_blank\">Highway Infrastructure lists at 67% premium, strongest debut this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsBytes</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Highway Infrastructure lists at 67% premium, marking the strongest debut this year."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02QVIwRXhtRVBwWEx1QWZXejliVURnelh2bFlTQUYxMWxJRUJmcV9aTzhMR21qN3lOOE8wUEVWd0d3M1lMaVBkX1JKZnFEd19QMlg0UWZKUTRBYWppWDlv?oc=5",
+        "date": "2025-08-12",
+        "title": "Urban visual-spatial intelligence: linking human and sensor perception for sustainable urban development - Nature",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE02QVIwRXhtRVBwWEx1QWZXejliVURnelh2bFlTQUYxMWxJRUJmcV9aTzhMR21qN3lOOE8wUEVWd0d3M1lMaVBkX1JKZnFEd19QMlg0UWZKUTRBYWppWDlv?oc=5\" target=\"_blank\">Urban visual-spatial intelligence: linking human and sensor perception for sustainable urban development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0xoTWFhVTRpbklBdFAtU1pHaWdoVkU5bnAxeGJaQmdVdElTVnFJOERvU0dUbzI5VHVuRlV3MGl1bzNoTGozZHBpam9iTVg5R1FJY2ZYREhGQ3NpbUZ3UEtFcGR3UXg3WUV2emdzdksxOHk5akZzX2stYUNLVU9kWHkxX19NdHpCb2JIQ2cxX2ZTTVVFS1JpbmUxQkl2cGdiSlBhaS1QSC16Qm42?oc=5",
+        "date": "2025-08-12",
+        "title": "Spain\u2019s Regional Resilience Fund backs urban development and sustainable tourism - Impact Investor",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0xoTWFhVTRpbklBdFAtU1pHaWdoVkU5bnAxeGJaQmdVdElTVnFJOERvU0dUbzI5VHVuRlV3MGl1bzNoTGozZHBpam9iTVg5R1FJY2ZYREhGQ3NpbUZ3UEtFcGR3UXg3WUV2emdzdksxOHk5akZzX2stYUNLVU9kWHkxX19NdHpCb2JIQ2cxX2ZTTVVFS1JpbmUxQkl2cGdiSlBhaS1QSC16Qm42?oc=5\" target=\"_blank\">Spain\u2019s Regional Resilience Fund backs urban development and sustainable tourism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Impact Investor</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeU1wTjRVaEFQaGJrQmotVkRIMGVaaktuZXNraXlqV2lrdXZwMUhjSW05X0h3bmo4VFhRN213WmZOa1BOdFhjRkZlbUtaamxLdFd4T2NqejVVeEdJNzEzeTBrdU5mYlltZ2xjaWRYZXptaER6bmFxZTZDR1VDN2ZYUTNmLXFTMDhBeWEybXNzcllJOUg4Y0g0TkxfMjlZbm9ERDQyV3BSNkpPcWNXalhydGMtTVJDNkRLR25v?oc=5",
+        "date": "2025-08-12",
+        "title": "UAE, Gulf retail spaces need to keep pace with \u201920-minute city\u2019 concept - Gulf News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeU1wTjRVaEFQaGJrQmotVkRIMGVaaktuZXNraXlqV2lrdXZwMUhjSW05X0h3bmo4VFhRN213WmZOa1BOdFhjRkZlbUtaamxLdFd4T2NqejVVeEdJNzEzeTBrdU5mYlltZ2xjaWRYZXptaER6bmFxZTZDR1VDN2ZYUTNmLXFTMDhBeWEybXNzcllJOUg4Y0g0TkxfMjlZbm9ERDQyV3BSNkpPcWNXalhydGMtTVJDNkRLR25v?oc=5\" target=\"_blank\">UAE, Gulf retail spaces need to keep pace with \u201920-minute city\u2019 concept</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf News</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemlTZmFRY05aYXdXXzFPaW80RUViZ2JxSEVvMjl1WVdHMXhaVlhxaklqRDRoNWppa0hyVjVjMExUYnJ0dml5clcydzlpS0xCT1piMFpFWmpmZkFJUnhmbnhQcnBuYWFmWWhoemp5Rjd5TEpoQ3RlZHp3V1BVMmhpcWxuS1B3c0NmQnZkNi01QjAwUHlkSGk2OS1tZHZXVHVubmNhd0lHZXhiTWl6?oc=5",
+        "date": "2025-08-12",
+        "title": "Highway Infrastructure lists at 67% premium, strongest debut this year - NewsBytes",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPemlTZmFRY05aYXdXXzFPaW80RUViZ2JxSEVvMjl1WVdHMXhaVlhxaklqRDRoNWppa0hyVjVjMExUYnJ0dml5clcydzlpS0xCT1piMFpFWmpmZkFJUnhmbnhQcnBuYWFmWWhoemp5Rjd5TEpoQ3RlZHp3V1BVMmhpcWxuS1B3c0NmQnZkNi01QjAwUHlkSGk2OS1tZHZXVHVubmNhd0lHZXhiTWl6?oc=5\" target=\"_blank\">Highway Infrastructure lists at 67% premium, strongest debut this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsBytes</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Highway Infrastructure lists at 67% premium, marking the strongest debut this year.",
+        "type": "news"
     }
 ]
