@@ -3019,5 +3019,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-08-12",
+        "status": "posted",
+        "tweet": "\ud83c\udf0e Global electric vehicle sales are projected to hit 12.6 million in 2025, a dramatic increase from 2.5 million in 2020. Meanwhile, traditional gasoline vehicle sales are expected to decline by 2% annually over the same period. \ud83d\ude99\ud83d\udd0b\u26a1",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
