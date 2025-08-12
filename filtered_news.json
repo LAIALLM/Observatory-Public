@@ -1,128 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-08-02",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. | $AAPL\n2019 Q4 report shows a 60% increase in renewable energy use for data centers since Q1.\n\nIt now powers 100% of its operations in 44 countries with renewable energy.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjRMdlhraWE2NzRxaXJod0FrQzZodTkyMUJ3MjBUUDFHN0RCYU5OdnJlVEV1Z2dYa1VjY21FSm9pMTBKSEtqV2NySVRaYWNhaXFuX3htS241WnBQVGlxYXNnRDkyWjBGLUNRbUo0SkxKaEhMTDQ2V3lsWU9hU2FkMGF0Y29LcGFrNmxyWUNqcnhDWWpUeGlRV1FUbGliVDMwUUtTMlZYMnJoZWlMb0pKZFVFTFh1REEyZHlTNHVrbFhYblpLWGfSAcwBQVVfeXFMUHlTaWQtZUpCUGdrUmRfZjgwYXYwSnVoX0pFU0dVZjBBVnNueFBIeG9GQnF2TmdZaEY3dlhzakJ5QTFuNDkxbTQwX1pYemN0eUc2SmtFVFc3ektkcm9QU0c4cjJvQnhYbm93Y1pEWG5KMV8zUS1qeTl5ZFdvdkxPamozbHVZTFVmeG9zcHFkTHdRemRKZVc4VHNjM0NRTTlsVG9YTjR1eTVBTWxjUUF1MkxVSHNEZFhSREVxLVlZZzBsYXIySTltSTZsMVo4?oc=5",
-        "date": "2025-08-02",
-        "title": "Meta to share AI infrastructure costs via $2 billion asset sale - The Hindu",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjRMdlhraWE2NzRxaXJod0FrQzZodTkyMUJ3MjBUUDFHN0RCYU5OdnJlVEV1Z2dYa1VjY21FSm9pMTBKSEtqV2NySVRaYWNhaXFuX3htS241WnBQVGlxYXNnRDkyWjBGLUNRbUo0SkxKaEhMTDQ2V3lsWU9hU2FkMGF0Y29LcGFrNmxyWUNqcnhDWWpUeGlRV1FUbGliVDMwUUtTMlZYMnJoZWlMb0pKZFVFTFh1REEyZHlTNHVrbFhYblpLWGfSAcwBQVVfeXFMUHlTaWQtZUpCUGdrUmRfZjgwYXYwSnVoX0pFU0dVZjBBVnNueFBIeG9GQnF2TmdZaEY3dlhzakJ5QTFuNDkxbTQwX1pYemN0eUc2SmtFVFc3ektkcm9QU0c4cjJvQnhYbm93Y1pEWG5KMV8zUS1qeTl5ZFdvdkxPamozbHVZTFVmeG9zcHFkTHdRemRKZVc4VHNjM0NRTTlsVG9YTjR1eTVBTWxjUUF1MkxVSHNEZFhSREVxLVlZZzBsYXIySTltSTZsMVo4?oc=5\" target=\"_blank\">Meta to share AI infrastructure costs via $2 billion asset sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONG9KMjBnUDA2dnpIZl9OTDM0RUgtbjAtcmU1Q3hqNnlXaG1KNDB2M2ZLelkxbkdmQUpkZ0tEQVlIckNkN3BodTJ4R21scFVib19Icnc5WWJwWFZsbktLajdTXzE4MjlpRHVxQmljdUFaMnd1WmpybnlWeHUydEtpZzZ1akpzbC13OWhTUWI0REVuLWt6V3JxVVpzbTJNaHY1MzNQNDNoM0Fkclh1dnMzTEh1a3d6aEFNYVBMd3kxUU3SAc4BQVVfeXFMUGwtUlUyNzBRcGY1OUtrNmFHX2lVUS1Yc2JhYXM4U0U4NFZhcXJVX0FYcVVjRTNlSnYwTWJncjRzemw0ejlvelNTblVrMUdmdk16dEdlVWQxNHM5VUZPc2VVU194RGlYejcyT2xKY1JRY1BHSWk0aVRMalc2a1JTYWdyOU5qenhyUXZIMHFmdWkzQm9RTG9ub19rdGlIUGJ0aF9VeGJDUTJpTkhyN2pKSk1YZ0lRaDBUckkzRUdqWTBzb3EtckYxZlU2bElTMWc?oc=5",
-        "date": "2025-08-02",
-        "title": "Smart City to re-tender Palayam market redevelopment - The New Indian Express",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxONG9KMjBnUDA2dnpIZl9OTDM0RUgtbjAtcmU1Q3hqNnlXaG1KNDB2M2ZLelkxbkdmQUpkZ0tEQVlIckNkN3BodTJ4R21scFVib19Icnc5WWJwWFZsbktLajdTXzE4MjlpRHVxQmljdUFaMnd1WmpybnlWeHUydEtpZzZ1akpzbC13OWhTUWI0REVuLWt6V3JxVVpzbTJNaHY1MzNQNDNoM0Fkclh1dnMzTEh1a3d6aEFNYVBMd3kxUU3SAc4BQVVfeXFMUGwtUlUyNzBRcGY1OUtrNmFHX2lVUS1Yc2JhYXM4U0U4NFZhcXJVX0FYcVVjRTNlSnYwTWJncjRzemw0ejlvelNTblVrMUdmdk16dEdlVWQxNHM5VUZPc2VVU194RGlYejcyT2xKY1JRY1BHSWk0aVRMalc2a1JTYWdyOU5qenhyUXZIMHFmdWkzQm9RTG9ub19rdGlIUGJ0aF9VeGJDUTJpTkhyN2pKSk1YZ0lRaDBUckkzRUdqWTBzb3EtckYxZlU2bElTMWc?oc=5\" target=\"_blank\">Smart City to re-tender Palayam market redevelopment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTXpSYkx2Q1NidHkyVjBpeHdIY0tfQTQ2TnNLMXJzV0lRajkwaDNZX0dTSWlRQlM0NElzMURrSEhwNGM0VXhPWllPT1R0NHoxNW1aN3QtYnlyMGhjX2dORm1udWw4SWh3YzZQU010a0RuczJ5Y3RsWFVqS01kem1WUWNLb9IBgwFBVV95cUxOTXpSYkx2Q1NidHkyVjBpeHdIY0tfQTQ2TnNLMXJzV0lRajkwaDNZX0dTSWlRQlM0NElzMURrSEhwNGM0VXhPWllPT1R0NHoxNW1aN3QtYnlyMGhjX2dORm1udWw4SWh3YzZQU010a0RuczJ5Y3RsWFVqS01kem1WUWNLbw?oc=5",
-        "date": "2025-08-02",
-        "title": "Rourkela\u2019s dangling cables belie Smart City claims - orissapost.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOTXpSYkx2Q1NidHkyVjBpeHdIY0tfQTQ2TnNLMXJzV0lRajkwaDNZX0dTSWlRQlM0NElzMURrSEhwNGM0VXhPWllPT1R0NHoxNW1aN3QtYnlyMGhjX2dORm1udWw4SWh3YzZQU010a0RuczJ5Y3RsWFVqS01kem1WUWNLb9IBgwFBVV95cUxOTXpSYkx2Q1NidHkyVjBpeHdIY0tfQTQ2TnNLMXJzV0lRajkwaDNZX0dTSWlRQlM0NElzMURrSEhwNGM0VXhPWllPT1R0NHoxNW1aN3QtYnlyMGhjX2dORm1udWw4SWh3YzZQU010a0RuczJ5Y3RsWFVqS01kem1WUWNLbw?oc=5\" target=\"_blank\">Rourkela\u2019s dangling cables belie Smart City claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">orissapost.com</font>",
-        "similarity_excluded": "No",
-        "score": 4,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObmc2MFQ4YTdHeGUybjRjeUxWRkNBanFzZWh0N0p3MkJOTVQxYWVyMS1TN2x2dHM4R1Z0TmkzQXF0SWVtZXpkSXcxRkNISWk3Z3dBbGZMNG81cldPUS1ta3dIbnFPdFgwMnFEbVdyTGl1SGlLSHZiNUt4ZGxBd2JWcy1Ka3lUYkxtSzVmcDJjZ1c2WGllMUt1ZnZiQi1mWjM2MXI1S0NVdmk2bzM0ZXZuTjRxNjM2b1Q4TjJqZXlpUC1QNVVwUWpRb19oV2diWWZQaHluSjJ0QTFFczNjR01nNW9pYlgzUUl4T1U4?oc=5",
-        "date": "2025-08-02",
-        "title": "DCS Rescue Addresses Critical Safety Requirements for Construction Industry Confined Space Operations - 24-7 Press Release Newswire",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxObmc2MFQ4YTdHeGUybjRjeUxWRkNBanFzZWh0N0p3MkJOTVQxYWVyMS1TN2x2dHM4R1Z0TmkzQXF0SWVtZXpkSXcxRkNISWk3Z3dBbGZMNG81cldPUS1ta3dIbnFPdFgwMnFEbVdyTGl1SGlLSHZiNUt4ZGxBd2JWcy1Ka3lUYkxtSzVmcDJjZ1c2WGllMUt1ZnZiQi1mWjM2MXI1S0NVdmk2bzM0ZXZuTjRxNjM2b1Q4TjJqZXlpUC1QNVVwUWpRb19oV2diWWZQaHluSjJ0QTFFczNjR01nNW9pYlgzUUl4T1U4?oc=5\" target=\"_blank\">DCS Rescue Addresses Critical Safety Requirements for Construction Industry Confined Space Operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24-7 Press Release Newswire</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUEJOTlk3V1dUMXRaaFduNkoxdGtiMXBjMjBLdXlvNWk3WUxmZHEycFJtak5pdjNzVjNNWkk5M0NlaHU1Ri1GeHdKeTJEVTdmQi11anppd19uX2NWTUx5d3NOSDF6bnlxWnpSSllNZDA3dU04Z3QxQVBiOUxDakxfemxiNDFBOW04Nm5QWm1HYkJMZUZTZVY1ZUt3OXUtODF4T0l6R3J1b1pBQzJ3amkweloybVkySGVkRlg0cGFsTjJodE1ORHlHeDBJN0pla09JT05VbVQ1ZEhVR1NrUVlEb3dSYlN5a1E?oc=5",
-        "date": "2025-08-02",
-        "title": "PM Modi unveils Rs 2,200 crore development boost in Varanasi, inaugurates key infrastructure projects - financialexpress.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUEJOTlk3V1dUMXRaaFduNkoxdGtiMXBjMjBLdXlvNWk3WUxmZHEycFJtak5pdjNzVjNNWkk5M0NlaHU1Ri1GeHdKeTJEVTdmQi11anppd19uX2NWTUx5d3NOSDF6bnlxWnpSSllNZDA3dU04Z3QxQVBiOUxDakxfemxiNDFBOW04Nm5QWm1HYkJMZUZTZVY1ZUt3OXUtODF4T0l6R3J1b1pBQzJ3amkweloybVkySGVkRlg0cGFsTjJodE1ORHlHeDBJN0pla09JT05VbVQ1ZEhVR1NrUVlEb3dSYlN5a1E?oc=5\" target=\"_blank\">PM Modi unveils Rs 2,200 crore development boost in Varanasi, inaugurates key infrastructure projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">financialexpress.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNclJJeS1nRnNzbEcxcTBTb0pSZk5XY3A0bUZHdGN2Tm51dVdBa2t2MHNOMnBJY0lUVGFmM2hHLTI2QmRZNVdWX1BobC1yYmRyRF9lZXFucms4eUtYZUhJcHFPcWdNTEZ5bU4yS1ZKWGRMempybHdFZmJHSFZUMXhSeDVEX1BPNGpCaWJGZmtsZkdXaVhqRy1tRXJKb1I2cGtoSG92Sjg5Xzg5bEliVjA0RjNfQldrVmtIVThwaS1NbGRwVFducjA2U2NaTm1NdW9SNWVISk9mUWZqM2pRRDlXampfLW1fREUzRUh3U0ZOTEJqd3dSVS1HbU1BdFU3UDV0WHF5aERZdUZpRlJYYnZLZTEyLUxBdHJ2cDhhd1lmVG1LUUpIRDlIdGVrNGhMdllXRlVlX1BnaWNyd19vOU9PTnFkUF9FVHc?oc=5",
-        "date": "2025-08-02",
-        "title": "Newly Announced Fee Hikes At Bali\u2019s Premier Cultural Sites Are Part Of A Bold Strategy To Enhance Infrastructure, Support Local Communities, And Foster Sustainable Tourism Growth - Travel And Tour World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxNclJJeS1nRnNzbEcxcTBTb0pSZk5XY3A0bUZHdGN2Tm51dVdBa2t2MHNOMnBJY0lUVGFmM2hHLTI2QmRZNVdWX1BobC1yYmRyRF9lZXFucms4eUtYZUhJcHFPcWdNTEZ5bU4yS1ZKWGRMempybHdFZmJHSFZUMXhSeDVEX1BPNGpCaWJGZmtsZkdXaVhqRy1tRXJKb1I2cGtoSG92Sjg5Xzg5bEliVjA0RjNfQldrVmtIVThwaS1NbGRwVFducjA2U2NaTm1NdW9SNWVISk9mUWZqM2pRRDlXampfLW1fREUzRUh3U0ZOTEJqd3dSVS1HbU1BdFU3UDV0WHF5aERZdUZpRlJYYnZLZTEyLUxBdHJ2cDhhd1lmVG1LUUpIRDlIdGVrNGhMdllXRlVlX1BnaWNyd19vOU9PTnFkUF9FVHc?oc=5\" target=\"_blank\">Newly Announced Fee Hikes At Bali\u2019s Premier Cultural Sites Are Part Of A Bold Strategy To Enhance Infrastructure, Support Local Communities, And Foster Sustainable Tourism Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2025-08-02",
-        "status": "posted",
-        "tweet": "In 2025, Bitcoin's network has 10,000 validators across 90 countries, with the highest concentration in \ud83c\uddfa\ud83c\uddf8 USA (30%) and \ud83c\udde8\ud83c\uddf3 China (25%).\n\nEthereum, with 5,000 validators, shows greater decentralization, spread across 120 countries, with no single country exceeding 15% of total va",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2lfY1lpVGVyZVhUS0NUWFdwX0dsNGxKRmlSNWZaMTFKVHB6dTBPd0o1cU1HZUs2MGhmVWZlZG8yT00waklWNzBKM3o4YVg0aU1hOEVtVlFWMFFndEJVVG1hX09GSlE2a28tbUxXNlBnM1d6TWZtbHRxRlpPVUNZRnhHQTnSAYoBQVVfeXFMUGNFQ0lReEVXX1p0V1JfZFhRcnhvOG5RWGhqRHY1Qy12RkVXaWRMcnE5SzhRNnRWTGg1WURjajJuUzhmQjY3UlVRbG9Ja2s2c0JZZFc1bXFBRmw0SGdyc2lRRkJyRWpQSnQ1VHZTamxPTThNM2ZhU1NNczg0N1JaVDZzWlRIb3Eybnpn?oc=5",
-        "date": "2025-08-02",
-        "title": "Heavy rains lash Himachal 404 roads closed infrastructure affected - theweek.in",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2lfY1lpVGVyZVhUS0NUWFdwX0dsNGxKRmlSNWZaMTFKVHB6dTBPd0o1cU1HZUs2MGhmVWZlZG8yT00waklWNzBKM3o4YVg0aU1hOEVtVlFWMFFndEJVVG1hX09GSlE2a28tbUxXNlBnM1d6TWZtbHRxRlpPVUNZRnhHQTnSAYoBQVVfeXFMUGNFQ0lReEVXX1p0V1JfZFhRcnhvOG5RWGhqRHY1Qy12RkVXaWRMcnE5SzhRNnRWTGg1WURjajJuUzhmQjY3UlVRbG9Ja2s2c0JZZFc1bXFBRmw0SGdyc2lRRkJyRWpQSnQ1VHZTamxPTThNM2ZhU1NNczg0N1JaVDZzWlRIb3Eybnpn?oc=5\" target=\"_blank\">Heavy rains lash Himachal 404 roads closed infrastructure affected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theweek.in</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPczM3VVdyTUU4WDFidDVIaGgzQmM1a0tyWkx6WEJ3Nm5ZVjdrQURjQ011N1A1ZmRJZnZLNXZncXdaM1dsMHNYSkVIM2lnUEdKT2twUG1vbHBRZ3FWYWtfUWZRTHRud2lNLVRqZTRGWXNDU256RWNVU09mZDBabVdMOEdST1NYLVc3a3RUSFV1WFROb2dzSGwwdFhhWmc3TldyejRMdkxaQTF0elJVSzRjWXBkMXlDWHhQY014VXcwd2FiWkdlTEktbtIBzgFBVV95cUxNc2F6X2E2bWs4WFBhbG5zZHczZnRZWktoYlR3MVBIckJYWURPZGJUMUpxUkZmQXppa2J0dDNPTGRya3ZoN0o2YVVKYjg0TVFYZ0FzUmJsdTF2RnFFNVpVZEc4anE2ZkkzaGlZOG1lcEVrNjdBQ3FZQm1PWHJiNGRydVpEVHNwZnM2ZHFsM2VCNmxLSGs3cE9OMVZiVzJWUlpnRUtjWHlyaTRERnVmbnA5aU1wSUtMSUJmeGplTm9oTGJqNWpzbmVpY2xiQjFqdw?oc=5",
-        "date": "2025-08-02",
-        "title": "Delhi Education Minister joins school cleanliness drive; vows to fix staff shortage, infrastructure issues - Careers360",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPczM3VVdyTUU4WDFidDVIaGgzQmM1a0tyWkx6WEJ3Nm5ZVjdrQURjQ011N1A1ZmRJZnZLNXZncXdaM1dsMHNYSkVIM2lnUEdKT2twUG1vbHBRZ3FWYWtfUWZRTHRud2lNLVRqZTRGWXNDU256RWNVU09mZDBabVdMOEdST1NYLVc3a3RUSFV1WFROb2dzSGwwdFhhWmc3TldyejRMdkxaQTF0elJVSzRjWXBkMXlDWHhQY014VXcwd2FiWkdlTEktbtIBzgFBVV95cUxNc2F6X2E2bWs4WFBhbG5zZHczZnRZWktoYlR3MVBIckJYWURPZGJUMUpxUkZmQXppa2J0dDNPTGRya3ZoN0o2YVVKYjg0TVFYZ0FzUmJsdTF2RnFFNVpVZEc4anE2ZkkzaGlZOG1lcEVrNjdBQ3FZQm1PWHJiNGRydVpEVHNwZnM2ZHFsM2VCNmxLSGs3cE9OMVZiVzJWUlpnRUtjWHlyaTRERnVmbnA5aU1wSUtMSUJmeGplTm9oTGJqNWpzbmVpY2xiQjFqdw?oc=5\" target=\"_blank\">Delhi Education Minister joins school cleanliness drive; vows to fix staff shortage, infrastructure issues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Careers360</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX0tZRVYtVmtqWmZtVm5JRXJOYzJtTlVTVzRiX2hvZnU4Z2pOblpuN0lldDB4RERaV04wNWF5MmpLQ0lWRHFuQmZzaGsxa3dEWWx2bmhCT0E5Nlp4cnNScjhkYmV0VFgwcTRnbGFSbnE3ZUdaMjhmRVJwcFR5UEYweGJYNy1ZeFJjN0dyb2pyTTNfb2xCbmlBaXlmNXdUZE5EQTlqYUlXdnRXT2d2Nm9EVGRsbjluOXFIZThCM1BfVjhvWkczcTE4X29qWjFiTkU5T1QzeUJZMG5CXy1WSmpMbGZiMl9nUnVx?oc=5",
-        "date": "2025-08-02",
-        "title": "Brookfield Infrastructure Partners\u2019 Q2 2025: Navigating Contradictions in Investment Strategy, Dollar Strength, and Demand Trends - AInvest",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX0tZRVYtVmtqWmZtVm5JRXJOYzJtTlVTVzRiX2hvZnU4Z2pOblpuN0lldDB4RERaV04wNWF5MmpLQ0lWRHFuQmZzaGsxa3dEWWx2bmhCT0E5Nlp4cnNScjhkYmV0VFgwcTRnbGFSbnE3ZUdaMjhmRVJwcFR5UEYweGJYNy1ZeFJjN0dyb2pyTTNfb2xCbmlBaXlmNXdUZE5EQTlqYUlXdnRXT2d2Nm9EVGRsbjluOXFIZThCM1BfVjhvWkczcTE4X29qWjFiTkU5T1QzeUJZMG5CXy1WSmpMbGZiMl9nUnVx?oc=5\" target=\"_blank\">Brookfield Infrastructure Partners\u2019 Q2 2025: Navigating Contradictions in Investment Strategy, Dollar Strength, and Demand Trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0NqRkdSZUlyZmZIQkhncFN1cXdHOHBhVGkzaENwR202djZZeXVaMEpiWDM3WXVva215dG82R2ZiRnFGcGlPRktaYWszQldDNER1dG5Yc2tjSGZiNXZ2NXJMM2dQUmJhR281c0tPX3RXcHBMenJnNjd5WkZJc1dJQ0V6ajFwU0c1SGROWFRkeXdUZVRXdDFxNw?oc=5",
-        "date": "2025-08-02",
-        "title": "US threatens sanctions over attacks on Iraq\u2019s vital infrastructure - Caliber.Az",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0NqRkdSZUlyZmZIQkhncFN1cXdHOHBhVGkzaENwR202djZZeXVaMEpiWDM3WXVva215dG82R2ZiRnFGcGlPRktaYWszQldDNER1dG5Yc2tjSGZiNXZ2NXJMM2dQUmJhR281c0tPX3RXcHBMenJnNjd5WkZJc1dJQ0V6ajFwU0c1SGROWFRkeXdUZVRXdDFxNw?oc=5\" target=\"_blank\">US threatens sanctions over attacks on Iraq\u2019s vital infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Caliber.Az</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2025-08-02",
-        "status": "posted",
-        "tweet": "\ud83c\udf0dGlobal investment in renewable energy engineering projects has surged by 25% in 2025, reaching $500 billion. \n\ud83c\udde8\ud83c\uddf3China leads with a whopping $150 billion, while \ud83c\uddfa\ud83c\uddf8USA, \ud83c\uddee\ud83c\uddf3India, and \ud83c\uddea\ud83c\uddfaEurope collectively contribute $285 billion. Renaissance of green technology is on the horizon!",
-        "type": "statistical",
-        "category": "engineering projects"
-    },
-    {
-        "link": null,
         "date": "2025-08-03",
         "status": "posted",
         "tweet": "Summary: Solana has the highest validator decentralization, followed by Ethereum and Bitcoin.\n\n1. Solana: 1,885 validators across 20 countries\n2. Ethereum: 523,000 validators across 15 countries\n3. Bitcoin: 10,000 nodes across 90 countries",
@@ -2936,5 +2814,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf2\ud83c\uddfd NEWS: Govt unveils US$600mn infrastructure plan for eastern Mexico state, focusing on road and bridge development.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-08-12",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin's annual electricity consumption exceeds that of Ethereum and Solana combined.\n\n1. Bitcoin: 121 TWh/year, surpassing \ud83c\uddfa\ud83c\uddf8 Ukraine's total.\n2. Ethereum: 25 TWh/year, similar to \ud83c\udde8\ud83c\udded Switzerland.\n3. Solana: 0.1 TWh/year, comparable to \ud83c\uddf1\ud83c\uddfa Luxembourg.",
+        "type": "crypto"
     }
 ]
