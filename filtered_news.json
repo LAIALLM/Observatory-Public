@@ -3439,5 +3439,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Mumbais CM Devendra Fadnavis inaugurates Metro Institute and Santacruz-Chembur Link Road, enhancing city infrastructure.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-08-14",
+        "status": "posted",
+        "tweet": "\ud83c\udf0f Global wind power capacity is expected to hit 897 GW by 2025, doubling 2020 figures. At the same point, 34% of US homes \ud83c\uddfa\ud83c\uddf8 are projected to be powered by solar energy, up from 6% in 2020. Transition to renewables is accelerating!",
+        "type": "statistical",
+        "category": "energy"
     }
 ]
