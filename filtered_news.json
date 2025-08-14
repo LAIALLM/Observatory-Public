@@ -3089,5 +3089,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Google ($GOOGL) server farms consumed about 7.6 TWh of electricity in 2019, equivalent to the power usage of Cincinnati. \n\nThis represents approximately 0.01% of global energy.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-08-14",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin's annual carbon footprint exceeds that of Ethereum and Solana combined.\n\n1. Bitcoin: 70.36 million metric tons CO2 equivalent\n2. Ethereum: 22.47 million metric tons CO2 equivalent\n3. Solana: 1.91 million metric tons CO2 equivalent",
+        "type": "crypto"
     }
 ]
