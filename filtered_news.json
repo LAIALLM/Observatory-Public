@@ -3162,5 +3162,35 @@
         "tweet": "\ud83c\udde8\ud83c\uddf3China is set to complete 35 new metro systems by 2025, totaling 11,000 kilometers of urban rail coverage. \nMeanwhile, \ud83c\uddfa\ud83c\uddf8United States plans to invest $1 trillion in infrastructure over the next decade, with only $115 billion dedicated to roads, bridges, and major projects.",
         "type": "statistical",
         "category": "infrastructural projects"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeDhLc2xuZ3h0Vmw2dWtUUnlZNFhSdHdVc053NVdwYnQwSlRuRVVweG1yLVFNbHVlZndRMVd4dG5lQ0dfNi1zejIwZTRuRW1XblNjeU04cTdsMDJ5dlo1cHRBZHpBd25TVkE5QnU2aXNqMDdzYmVaQkVPTUQxa3IxNEFld1VsYWtPczRwVkl0VjMxSnQ3OFFIQllBSUI5OEdrV1kxN0g2WnpfWjNDZjRRdXR3Y2pIM3B6MUExa2xfUTBFWmRFZFRV?oc=5",
+        "date": "2025-08-15",
+        "title": "UK construction momentum aids economic growth though continued pace remains uncertain - Construction Wave",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOeDhLc2xuZ3h0Vmw2dWtUUnlZNFhSdHdVc053NVdwYnQwSlRuRVVweG1yLVFNbHVlZndRMVd4dG5lQ0dfNi1zejIwZTRuRW1XblNjeU04cTdsMDJ5dlo1cHRBZHpBd25TVkE5QnU2aXNqMDdzYmVaQkVPTUQxa3IxNEFld1VsYWtPczRwVkl0VjMxSnQ3OFFIQllBSUI5OEdrV1kxN0g2WnpfWjNDZjRRdXR3Y2pIM3B6MUExa2xfUTBFWmRFZFRV?oc=5\" target=\"_blank\">UK construction momentum aids economic growth though continued pace remains uncertain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Wave</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnpxNVNiS2tJemJuVEg3eDdhdzJ1bFJmY2I3MEgwbk01NmZkMV9FTFJ2TmpwcFQzT3oxOF8zUnlzVGhwWGszSExWUlZPbGxvTThzdHZTdjRfXzV1RERVaG5qOWw5VGc1Z0dMZVJVdzBzUE5XbkYzeEpDRGxYNkRpc3hpRmg3TWJVd0lMRWhwQQ?oc=5",
+        "date": "2025-08-15",
+        "title": "How was National able to take down construction so quickly? - thestandard.org.nz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnpxNVNiS2tJemJuVEg3eDdhdzJ1bFJmY2I3MEgwbk01NmZkMV9FTFJ2TmpwcFQzT3oxOF8zUnlzVGhwWGszSExWUlZPbGxvTThzdHZTdjRfXzV1RERVaG5qOWw5VGc1Z0dMZVJVdzBzUE5XbkYzeEpDRGxYNkRpc3hpRmg3TWJVd0lMRWhwQQ?oc=5\" target=\"_blank\">How was National able to take down construction so quickly?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestandard.org.nz</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX01EblljbHNKWUdyQmg3cWtFNlZRVkpHU2tBeU9zc1BadE5DQ2VxT051UTNSVG5VbTFXQ21TWmEwZ29JY2ZHT1lkOWZ6UGhQMHplWUJScGNTdlZhaWlqZVZub1NKWldFcWJUSkIwbVRpY014NkVsdUtOenJleHhpeEdFWnMzOEFFRGJCeXBQUE8yNnVxUTQ0NXJwUGZ1M2lRYUhTVlp0ZmF4WVJ3Mmc?oc=5",
+        "date": "2025-08-15",
+        "title": "Unlocking infrastructure potential in the Pacific: Challenges and strategic pathways - Dentons",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQX01EblljbHNKWUdyQmg3cWtFNlZRVkpHU2tBeU9zc1BadE5DQ2VxT051UTNSVG5VbTFXQ21TWmEwZ29JY2ZHT1lkOWZ6UGhQMHplWUJScGNTdlZhaWlqZVZub1NKWldFcWJUSkIwbVRpY014NkVsdUtOenJleHhpeEdFWnMzOEFFRGJCeXBQUE8yNnVxUTQ0NXJwUGZ1M2lRYUhTVlp0ZmF4WVJ3Mmc?oc=5\" target=\"_blank\">Unlocking infrastructure potential in the Pacific: Challenges and strategic pathways</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dentons</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
