@@ -3193,5 +3193,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-08-16",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL\n58.3 million Apple TV+ subscribers, Q4 2021.\n\nIncrease of 20% from Q3 2021. \n\n2nd largest on-demand video service in North America.",
+        "type": "infrastructure"
     }
 ]
