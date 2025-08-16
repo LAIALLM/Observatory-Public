@@ -3068,5 +3068,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-08-16",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin has the highest annual maintenance & security costs among major cryptocurrencies.\n\n1. Bitcoin: $1.5 billion\n2. Ethereum: $600 million\n3. Solana: $100 million",
+        "type": "crypto"
     }
 ]
