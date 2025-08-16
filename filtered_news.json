@@ -3270,5 +3270,25 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV2VpMEVGT2s0NlNqWXZRT2pMRFhwVHJzOWZHNmNkb0ljSUszQ1V5cVpoeWd5ZE9FSnVyWVJHT3NzTnVIamFnRFJWbzJZbG9JejVQSlR1QkYybS1RZzFrQktaNV94OUNURGUxZGN2YVQxY1NyZ3dYUllWVzVYOEFYVmktNldTRXNXQ19ra011cjFDaUNhVWN5Yy1sWjlZczZEUFNMSnRR?oc=5",
+        "date": "2025-08-16",
+        "title": "Ripple CTO Sees XRP Ledger as Key Infrastructure for Global Financial Systems - Bitcoin.com News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPV2VpMEVGT2s0NlNqWXZRT2pMRFhwVHJzOWZHNmNkb0ljSUszQ1V5cVpoeWd5ZE9FSnVyWVJHT3NzTnVIamFnRFJWbzJZbG9JejVQSlR1QkYybS1RZzFrQktaNV94OUNURGUxZGN2YVQxY1NyZ3dYUllWVzVYOEFYVmktNldTRXNXQ19ra011cjFDaUNhVWN5Yy1sWjlZczZEUFNMSnRR?oc=5\" target=\"_blank\">Ripple CTO Sees XRP Ledger as Key Infrastructure for Global Financial Systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin.com News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnJON0lmbGgzQlJsYVljcjBaX0djQWZOZklTV3pOMnhLWGxWUGJBclNLRDRQXzBhRGFScERla0VlUFVGTlJGaDVCamx2aUlPN3RvQ2xudURfT0RuUjFPUXNpZldGNUZFYlFsZUprY0pmTXdpQTdRMEhrMW1vQmNPYTJralN3aWdqUmsxVzlIMVFTWDg1MzNldl9kUUNKeUpFYlV3ckNmT0dMcGh2RlpmcE55WQ?oc=5",
+        "date": "2025-08-16",
+        "title": "Bitcoin News Today: Bitcoin Treasury Firms Build Digital Finance Infrastructure - AInvest",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnJON0lmbGgzQlJsYVljcjBaX0djQWZOZklTV3pOMnhLWGxWUGJBclNLRDRQXzBhRGFScERla0VlUFVGTlJGaDVCamx2aUlPN3RvQ2xudURfT0RuUjFPUXNpZldGNUZFYlFsZUprY0pmTXdpQTdRMEhrMW1vQmNPYTJralN3aWdqUmsxVzlIMVFTWDg1MzNldl9kUUNKeUpFYlV3ckNmT0dMcGh2RlpmcE55WQ?oc=5\" target=\"_blank\">Bitcoin News Today: Bitcoin Treasury Firms Build Digital Finance Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
