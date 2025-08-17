@@ -2932,5 +2932,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-08-17",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3India is projected to surpass \ud83c\udde8\ud83c\uddf3China as the most populous country in 2027, reaching 1.44 billion people. \n\nAt the same time, \ud83c\uddef\ud83c\uddf5Japan's population is expected to shrink to 113 million, due to a low birth rate.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
