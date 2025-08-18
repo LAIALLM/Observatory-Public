@@ -2711,5 +2711,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Google $GOOGL\n\nIn Q3 2021, Google Cloud Platform processed over 1 Exabyte (1 million Terabytes) of data per day. \n\nNext gen cloud computing in motion.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-08-18",
+        "status": "posted",
+        "tweet": "Bitcoin processes 7 transactions per second at an estimated annual energy cost of $14.4 billion.\n\nEthereum handles 30 transactions per second, with an annual energy expenditure of $5.2 billion.\n\nThe cost per transaction is significantly lower on Ethereum due to higher throughput.",
+        "type": "crypto"
     }
 ]
