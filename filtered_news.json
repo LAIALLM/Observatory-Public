@@ -2718,5 +2718,13 @@
         "status": "posted",
         "tweet": "Bitcoin processes 7 transactions per second at an estimated annual energy cost of $14.4 billion.\n\nEthereum handles 30 transactions per second, with an annual energy expenditure of $5.2 billion.\n\nThe cost per transaction is significantly lower on Ethereum due to higher throughput.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-08-18",
+        "status": "posted",
+        "tweet": "Summary: Top 5 countries with the largest construction markets in 2025.\n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddfa\ud83c\uddf8 USA\n3. \ud83c\uddee\ud83c\uddf3 India\n4. \ud83c\uddef\ud83c\uddf5 Japan\n5. \ud83c\udff4 UK\n\nBy end of 2025, China set to retain its rank, with USA and India close behind. Japan and UK remain robust.",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
