@@ -3323,5 +3323,45 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xa0Jyc19NeWRUZ3RwUVotSGNCOUp4d1ZFR2tzRlpPeUplMmJpYVFKbTNZM3hRaTRnOHJOMmhfODFzdXZHbHlzQmg4ZUN4OGRaNnJreWVkckpFS3AwWnlxLXhJdDJxb0doa2VScXN0dVg4OWJlR3MwdGY2RTM?oc=5",
+        "date": "2025-08-19",
+        "title": "Construction Warning Issued After Foreign-Born Population Plummets - Newsweek",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5xa0Jyc19NeWRUZ3RwUVotSGNCOUp4d1ZFR2tzRlpPeUplMmJpYVFKbTNZM3hRaTRnOHJOMmhfODFzdXZHbHlzQmg4ZUN4OGRaNnJreWVkckpFS3AwWnlxLXhJdDJxb0doa2VScXN0dVg4OWJlR3MwdGY2RTM?oc=5\" target=\"_blank\">Construction Warning Issued After Foreign-Born Population Plummets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BbUxXS2R0bFF3NjR3U0Z6RmNSdmNkU0pGUFlLb3E4MFA4ZW44eVM2bHpERm0zWXlaSzhWb0Q1WDYzcU9OV0lES0lqamJYQ3h1UVVuUlVSUkl3dWFSX0RzanBjZWQ0NU9Cd3BHaXBR?oc=5",
+        "date": "2025-08-19",
+        "title": "How accessible are our Urban Spaces? - MorungExpress",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9BbUxXS2R0bFF3NjR3U0Z6RmNSdmNkU0pGUFlLb3E4MFA4ZW44eVM2bHpERm0zWXlaSzhWb0Q1WDYzcU9OV0lES0lqamJYQ3h1UVVuUlVSUkl3dWFSX0RzanBjZWQ0NU9Cd3BHaXBR?oc=5\" target=\"_blank\">How accessible are our Urban Spaces?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MorungExpress</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTZLLTBYU1BFcGZxMG1TZFpFa0dIYm5TNUVUWEk4QUFRSWVuS3B6NmRlS1ZUci1nOEo3YWZ1c1NKQWx2cXUwUDJlZUhqTEMyWDhJdURRbE53elg3TDgxYjU3UGZnTzNKZU1kZVUyU0xOMVU3VXRweFFpbjFmMllzaHVTNXFZUEFzdkhNMTk0QUQ5MWlyMmlyZ1J6YmpFanZfRkRyWjVWeFA?oc=5",
+        "date": "2025-08-19",
+        "title": "Hyderabad \u2013 India\u2019s Smart and Fast-Growing City - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTTZLLTBYU1BFcGZxMG1TZFpFa0dIYm5TNUVUWEk4QUFRSWVuS3B6NmRlS1ZUci1nOEo3YWZ1c1NKQWx2cXUwUDJlZUhqTEMyWDhJdURRbE53elg3TDgxYjU3UGZnTzNKZU1kZVUyU0xOMVU3VXRweFFpbjFmMllzaHVTNXFZUEFzdkhNMTk0QUQ5MWlyMmlyZ1J6YmpFanZfRkRyWjVWeFA?oc=5\" target=\"_blank\">Hyderabad \u2013 India\u2019s Smart and Fast-Growing City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/61219-stack-data-center-project-in-virginia-opts-for-low-carbon-concrete-from-sublime",
+        "date": "2025-08-19",
+        "title": "STACK Data Center Project in Virginia Opts for Low-Carbon Concrete From Sublime",
+        "summary": "<p>Sublime Systems' low-carbon concrete has been used in a data center project for the first time, a STACK Infrastructure data center in Prince William County, Va. </p>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
