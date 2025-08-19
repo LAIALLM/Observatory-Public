@@ -3443,5 +3443,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-08-19",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Netflix's Q2 content streaming surged to record 200 petabytes daily.\nData consumption increased by 15% YoY.\n\n$NFLX stock saw a positive impact, rising 4% after announcement.",
+        "type": "infrastructure"
     }
 ]
