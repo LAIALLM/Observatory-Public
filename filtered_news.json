@@ -3092,5 +3092,25 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQc3E3VmlnaHA4Mjg0XzNuQTQwX1dkaFdjZk82bHNPaWR3SjFFajhlT1lrNW1nTDl5MDFWaWJpLXhDVWxxUk9wT1ctVmQ0WWNEU291RHhsNWdJOERESVk0Z0FZZjF6bGZIMjlpc1poVkRtZHRCeEVYMmZJNXhnMVo1NG5PWU44eWlWM1JBbVdaN24weG9jUGlYdGxMaFRIUEo5aHhoSEdYb0x6bEFLMW1Hcm5VTXVxU1J6X3k4VnhuNXg3UHJVV2ZOWkRJRHRNZTJqVlJXUXR6Ui1vc0ZoNHI3NWd5RDZVX0lxZ2g3ZmtpcEFPZkhUZmtoRzZJWW4?oc=5",
+        "date": "2025-08-19",
+        "title": "Reliance Infrastructure Adjusts Outlook Amid Mixed Performance and Rising Promoter Confidence - MarketsMojo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQc3E3VmlnaHA4Mjg0XzNuQTQwX1dkaFdjZk82bHNPaWR3SjFFajhlT1lrNW1nTDl5MDFWaWJpLXhDVWxxUk9wT1ctVmQ0WWNEU291RHhsNWdJOERESVk0Z0FZZjF6bGZIMjlpc1poVkRtZHRCeEVYMmZJNXhnMVo1NG5PWU44eWlWM1JBbVdaN24weG9jUGlYdGxMaFRIUEo5aHhoSEdYb0x6bEFLMW1Hcm5VTXVxU1J6X3k4VnhuNXg3UHJVV2ZOWkRJRHRNZTJqVlJXUXR6Ui1vc0ZoNHI3NWd5RDZVX0lxZ2g3ZmtpcEFPZkhUZmtoRzZJWW4?oc=5\" target=\"_blank\">Reliance Infrastructure Adjusts Outlook Amid Mixed Performance and Rising Promoter Confidence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketsMojo</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVBNbDFOMXhORURTWjZsR3pxMUlsWlhFb0lHVktaRWFYMExVX3lFeDRFZzkycEFsR2laTDE2UjBhZmRxdDA2NmpOMU5MbnVZUWkwTFdURDV2Z01mMGxOUkVoQVh1eW84cmpQNFB0cW5pUXl0RlpFQ1V2OVE0UHY5ZXQ5WmNFeGptZmZCdEtHZEZHRE5yMlF0YVhUZFdZenNRaFA5amRROGRvUVpicjJyR0tUMFU5bmh2bXJWaWNVTU5xMjNQR1Yw0gHMAUFVX3lxTE91ZmtuTDZBNnJHMDF4d0lIaTBwZHlrTzBxRnRpUktzNTlpZHdJSEpscFFpYlQwM0FsOHhJZmluTGp4ZTdpdDcya3lrS2xUVzAzdkdlY25RejIzLU5tUG90RnZ6NEh1QWhSNGM5dGlCX2c1ZnQwaUJZcm9QdFc4MUZTbTZaWkhCNW9UTjV3UEQ5MWVzWWRnNVZET1BqYTEwTEhEOGNBQnFYWUFvQThlYVQ2RDN4TUtFbGJzUVFGUWNmazlCNk9BdC1JX29DdQ?oc=5",
+        "date": "2025-08-19",
+        "title": "Reliance Infrastructure receives LoA from NHPC - Business Standard",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVBNbDFOMXhORURTWjZsR3pxMUlsWlhFb0lHVktaRWFYMExVX3lFeDRFZzkycEFsR2laTDE2UjBhZmRxdDA2NmpOMU5MbnVZUWkwTFdURDV2Z01mMGxOUkVoQVh1eW84cmpQNFB0cW5pUXl0RlpFQ1V2OVE0UHY5ZXQ5WmNFeGptZmZCdEtHZEZHRE5yMlF0YVhUZFdZenNRaFA5amRROGRvUVpicjJyR0tUMFU5bmh2bXJWaWNVTU5xMjNQR1Yw0gHMAUFVX3lxTE91ZmtuTDZBNnJHMDF4d0lIaTBwZHlrTzBxRnRpUktzNTlpZHdJSEpscFFpYlQwM0FsOHhJZmluTGp4ZTdpdDcya3lrS2xUVzAzdkdlY25RejIzLU5tUG90RnZ6NEh1QWhSNGM5dGlCX2c1ZnQwaUJZcm9QdFc4MUZTbTZaWkhCNW9UTjV3UEQ5MWVzWWRnNVZET1BqYTEwTEhEOGNBQnFYWUFvQThlYVQ2RDN4TUtFbGJzUVFGUWNmazlCNk9BdC1JX29DdQ?oc=5\" target=\"_blank\">Reliance Infrastructure receives LoA from NHPC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
