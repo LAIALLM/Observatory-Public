@@ -3450,5 +3450,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Netflix's Q2 content streaming surged to record 200 petabytes daily.\nData consumption increased by 15% YoY.\n\n$NFLX stock saw a positive impact, rising 4% after announcement.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTU1Xa3Q2X1hGQU1ESWdCeFFTcVQxTFpWZkQxWDgzNC03eXRBd29kR0ZNZWxzbXAzV1k5QjEyNDU3Z0luU1MzYkJZLUNwMnFMYVlOSnhNUVhlODFSZkptUWdPNi1uUEwxbVRNeDlwRzN1ejg4M2RSYzh0ejBQbXo4YUVEcDRjejNURWhial9vcnRYZVZ1QjEyZXZqZ0EtelprckkwTk9RQ3g0MERLU3pmSjdwVVZUeUg4bWdVMHRB?oc=5",
+        "date": "2025-08-19",
+        "title": "Big Banks Pile Into Stablecoin Infrastructure as Wall Street Eyes Crypto Custody - PYMNTS.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNTU1Xa3Q2X1hGQU1ESWdCeFFTcVQxTFpWZkQxWDgzNC03eXRBd29kR0ZNZWxzbXAzV1k5QjEyNDU3Z0luU1MzYkJZLUNwMnFMYVlOSnhNUVhlODFSZkptUWdPNi1uUEwxbVRNeDlwRzN1ejg4M2RSYzh0ejBQbXo4YUVEcDRjejNURWhial9vcnRYZVZ1QjEyZXZqZ0EtelprckkwTk9RQ3g0MERLU3pmSjdwVVZUeUg4bWdVMHRB?oc=5\" target=\"_blank\">Big Banks Pile Into Stablecoin Infrastructure as Wall Street Eyes Crypto Custody</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMG9VM2U3QUpaa2dTTWM4ZVM1Qm5pUno1X3BfdG9zaVR4c2U0eDRnYTM5eUFjTXVFUHJJd2g0TUFlaDhLbjFZRlI3WDJTdnhZNjkxbFI4ODZMT1ZHZEtvcExtUXFzeHZLa0h1dklTRUZKX3JMQ3ppcnNZZDlKcE9sU1ZabVpaeXlIZDJPaUZ0VVJCb0xXTmJzWXBTc0lkUmtUdWlKLXBIdzQ?oc=5",
+        "date": "2025-08-19",
+        "title": "Hyderabad \u2013 India\u2019s Smart and Fast-Growing City - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMG9VM2U3QUpaa2dTTWM4ZVM1Qm5pUno1X3BfdG9zaVR4c2U0eDRnYTM5eUFjTXVFUHJJd2g0TUFlaDhLbjFZRlI3WDJTdnhZNjkxbFI4ODZMT1ZHZEtvcExtUXFzeHZLa0h1dklTRUZKX3JMQ3ppcnNZZDlKcE9sU1ZabVpaeXlIZDJPaUZ0VVJCb0xXTmJzWXBTc0lkUmtUdWlKLXBIdzQ?oc=5\" target=\"_blank\">Hyderabad \u2013 India\u2019s Smart and Fast-Growing City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
