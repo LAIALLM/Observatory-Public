@@ -3492,5 +3492,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Third Pillar Solar signs $700M floating solar agreement with Diamond Infrastructure, marking a significant advancement in renewable energy projects.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-08-20",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.\n\nMarch 2022 power consumption data:\n\n\u26a1 4.2 billion kWh total\n\u26a1 1.8 billion kWh renewable\n\nAll facilities remain 100% carbon neutral.\n\nStock ticker $AAPL",
+        "type": "infrastructure"
     }
 ]
