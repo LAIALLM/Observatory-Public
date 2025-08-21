@@ -3151,5 +3151,13 @@
         "status": "posted",
         "tweet": "Bitcoin mining in 2025 is concentrated in:\n\n\ud83c\udde8\ud83c\uddf3 China (35%)\n\ud83c\uddfa\ud83c\uddf8 USA (30%)\n\nEthereum mining is more distributed:\n\n\ud83c\uddfa\ud83c\uddf8 USA (20%)\n\ud83c\uddf7\ud83c\uddfa Russia (15%)\n\ud83c\udde8\ud83c\udde6 Canada (10%)\n\nData shows Bitcoin's geographic concentration is higher than Ethereum's.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-08-21",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 USA: Experts predict a 30% increase in urban population by 2050. Hence, the demand for sustainable cities is urgent. \n\n\ud83c\udf0d Globally: The UN reports 68% of the world population will live in urban areas by 2050, increasing urban planning challenges for governments worldwide.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
