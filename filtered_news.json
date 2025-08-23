@@ -2882,5 +2882,20 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-08-23",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \nQ2 2021 Results: \n\nData Center Energy Consumption: \nReduced by 6% to 416.2 MWh. \n\nAnnual Carbon Footprint: \nDown 22% to 22.6 million metric tons. \n\n$AAPL",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-08-23",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global infrastructure companies are projected to generate over $4.2 trillion in revenue by 2025 - a 30% increase from 2023. \n\nIn the \ud83c\uddfa\ud83c\uddf8 United States alone, $115 billion will contribute to upgrading crucial infrastructures such as bridges, roads, and airports.",
+        "type": "statistical",
+        "category": "infrastructure companies"
     }
 ]
