@@ -2862,5 +2862,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 By 2030, increased regulatory scrutiny on Bitcoin's energy consumption could lead to infrastructure costs rising by an estimated 30% in the U.S., impacting grid stability and necessitating significant upgrades.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY2pJcVlabE5STXVNT3hSVDNITTlBbVRUTXpZT0hTLVktY2ZaV3hFNTUxaXZiZm56ZVNoY05POWRlb3ppUk5KWXE4RUI4QzJYTWFJS3ZldHdkOXNROXNQNDhNMWZRclVXa1dDVVNIbkFnV0hLdnA3cWNwTkF4M25UQTlvTktaczdac2tmWnBDbXVudTQ1aFpWSEREMTZ4b1BSQ0tnd2dTYnN0bjh4SEdqaWZHOURkTjR1NVBNMVRFLTV0UQ?oc=5",
+        "date": "2025-08-23",
+        "title": "Steer Opens Mumbai Office at Dextrus to Support India\u2019s Infrastructure and Sustainability Goals - Prittle Prattle News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY2pJcVlabE5STXVNT3hSVDNITTlBbVRUTXpZT0hTLVktY2ZaV3hFNTUxaXZiZm56ZVNoY05POWRlb3ppUk5KWXE4RUI4QzJYTWFJS3ZldHdkOXNROXNQNDhNMWZRclVXa1dDVVNIbkFnV0hLdnA3cWNwTkF4M25UQTlvTktaczdac2tmWnBDbXVudTQ1aFpWSEREMTZ4b1BSQ0tnd2dTYnN0bjh4SEdqaWZHOURkTjR1NVBNMVRFLTV0UQ?oc=5\" target=\"_blank\">Steer Opens Mumbai Office at Dextrus to Support India\u2019s Infrastructure and Sustainability Goals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prittle Prattle News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNUczdlNJUy1zLUg5d2NRM1NET3RKMF9faUdTNHZpanlQMGVfRktrOHJZZ1dsRFpjVkh6dG5IZnZFTlh2a2d0WU1NZ2J4ZDNpX2U1WEFqc2VZMkZjUWx5VndjSC00dGc1YkJ2MlR1T2E5ekQzYUdyREFCcUJsNS1vZ2NvMXBFTjA4dlIxekpERk1WSU5rNUNlcVplOUdnREx3R2ZpOTBpSkjSAa4BQVVfeXFMT0U5RGlVTElBbVdYbUNUZ0ZpRHZaSWp3czJ1N2Y3QnlXOXNGTl9zZE91TGNUOXlKdlZYNkwwNHl4a01ubk5yX2NJWjdIRUFmdVRUVWNHOXlNTHEtOS1kUDdCQ29zUG9INTlWX3lrM2g4WTViY0FRdEUyYTVjdTFNUm1VdWM3aEFzWGVzaDM4Q1MyWngxT0lEQzlpb0FxM3lXWi1uX1g3M2o5T2U0NThR?oc=5",
+        "date": "2025-08-23",
+        "title": "Yogi calls for transformation of Lucknow municipalities - The Hans India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNUczdlNJUy1zLUg5d2NRM1NET3RKMF9faUdTNHZpanlQMGVfRktrOHJZZ1dsRFpjVkh6dG5IZnZFTlh2a2d0WU1NZ2J4ZDNpX2U1WEFqc2VZMkZjUWx5VndjSC00dGc1YkJ2MlR1T2E5ekQzYUdyREFCcUJsNS1vZ2NvMXBFTjA4dlIxekpERk1WSU5rNUNlcVplOUdnREx3R2ZpOTBpSkjSAa4BQVVfeXFMT0U5RGlVTElBbVdYbUNUZ0ZpRHZaSWp3czJ1N2Y3QnlXOXNGTl9zZE91TGNUOXlKdlZYNkwwNHl4a01ubk5yX2NJWjdIRUFmdVRUVWNHOXlNTHEtOS1kUDdCQ29zUG9INTlWX3lrM2g4WTViY0FRdEUyYTVjdTFNUm1VdWM3aEFzWGVzaDM4Q1MyWngxT0lEQzlpb0FxM3lXWi1uX1g3M2o5T2U0NThR?oc=5\" target=\"_blank\">Yogi calls for transformation of Lucknow municipalities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hans India</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
