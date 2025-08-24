@@ -2788,5 +2788,35 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Uttar Pradesh approves GIS-based Master Plan 2031 for Ghaziabad region, focusing on transit-oriented development.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQndzTjJhSkRBYWJfaTVaTmtNWWZ4VDVpTmlweHVFOWxzd2N4VFBRRUgtMXg4ME8tUWwyVlVXRmV1Y3hsY24ydTY3UldkWmkyejMzZ3dnc1h5X2dnd0xPaGw1NG5IZHRRQTM3NTJVWHE1emZja21icnN2SWloeGhqNFFlYjBGMmZl?oc=5",
+        "date": "2025-08-24",
+        "title": "\u2018Construction mafias demand sex for protection\u2019 - sundayworld.co.za",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQndzTjJhSkRBYWJfaTVaTmtNWWZ4VDVpTmlweHVFOWxzd2N4VFBRRUgtMXg4ME8tUWwyVlVXRmV1Y3hsY24ydTY3UldkWmkyejMzZ3dnc1h5X2dnd0xPaGw1NG5IZHRRQTM3NTJVWHE1emZja21icnN2SWloeGhqNFFlYjBGMmZl?oc=5\" target=\"_blank\">\u2018Construction mafias demand sex for protection\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sundayworld.co.za</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUFM3WFotVmhScXdDdWJidjFGQ3hkdm1iTWRoS2J0Y0hrY0FYcWo4UXEwOG5uNkxUNUVRN0RFVFFINWt1SVBaWWtZYUsyaVhPM0ZoTHIxN04zUnlsNFZoNnB3dl90N1l2ZXQ0U3B3ZGFNS3g5NVVveVo2Znc3NC1NVVpVYi1qOVo4YXc1WmtVYXVwR2JFNXZhOWtERU4tNVVrYzRSWGx1REtBbkU3U2d2aGFPVmozZHU1X2ZNbXNuTGpDbmxjLUE?oc=5",
+        "date": "2025-08-24",
+        "title": "Punjab govt to equip jails with modern infrastructure: Laljit Singh Bhullar - Punjab News Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOUFM3WFotVmhScXdDdWJidjFGQ3hkdm1iTWRoS2J0Y0hrY0FYcWo4UXEwOG5uNkxUNUVRN0RFVFFINWt1SVBaWWtZYUsyaVhPM0ZoTHIxN04zUnlsNFZoNnB3dl90N1l2ZXQ0U3B3ZGFNS3g5NVVveVo2Znc3NC1NVVpVYi1qOVo4YXc1WmtVYXVwR2JFNXZhOWtERU4tNVVrYzRSWGx1REtBbkU3U2d2aGFPVmozZHU1X2ZNbXNuTGpDbmxjLUE?oc=5\" target=\"_blank\">Punjab govt to equip jails with modern infrastructure: Laljit Singh Bhullar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Punjab News Express</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaDhDODJFUFdUQl9TNHZTd2FiUjZfMDhJM2JBYWFaQXJKLS1WNFc4bWtVSzFPMUNPd1lReFlGLWtiazlGVUNSRVR1ckh5Mzd2LVVxdkotU2VrVEM2WVVudFN1NkR4VlBNSngtN0xka2lFWXNOSUlTekpPdDctZndCQnItanB2VE1XbHZ0NlhwdjFIZEFKa1BwbWE3MzZOQ2lkeEczenZsQQ?oc=5",
+        "date": "2025-08-24",
+        "title": "Israeli airstrikes hit civilian infrastructure in Sanaa as Yemen reiterates Gaza support - Tehran Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPaDhDODJFUFdUQl9TNHZTd2FiUjZfMDhJM2JBYWFaQXJKLS1WNFc4bWtVSzFPMUNPd1lReFlGLWtiazlGVUNSRVR1ckh5Mzd2LVVxdkotU2VrVEM2WVVudFN1NkR4VlBNSngtN0xka2lFWXNOSUlTekpPdDctZndCQnItanB2VE1XbHZ0NlhwdjFIZEFKa1BwbWE3MzZOQ2lkeEczenZsQQ?oc=5\" target=\"_blank\">Israeli airstrikes hit civilian infrastructure in Sanaa as Yemen reiterates Gaza support</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tehran Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
