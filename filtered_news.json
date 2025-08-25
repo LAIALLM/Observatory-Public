@@ -3016,5 +3016,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: Major Big Build works underway across Victoria, with disruptions expected on the Eastern Freeway.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-08-25",
+        "status": "posted",
+        "tweet": "Summary: Solana has the lowest annual maintenance & security costs among the three, followed by Ethereum and Bitcoin.\n\n1. Solana: $2.5 million\n2. Ethereum: $10 million\n3. Bitcoin: $20 million",
+        "type": "crypto"
     }
 ]
