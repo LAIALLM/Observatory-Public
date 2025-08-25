@@ -2726,5 +2726,35 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Assam govt acquires land in Mumbai for public infrastructure development.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkYyVnJ6cTZQMnNEZS00Rkt6c2c1a1QxZUJuUmQwNjNsOV9iMmIzcWVhWTdnZ3MyZlJxVURkOW5PMUY1TldBUUdFdm41LWplN3ZrWFBrMGEtVjY2WEU1Q3ZyckpjNE1wdi0xYklTR2JvdUlwalNtR0RnZElOSGdWT3Rmc0ZOV2pUT3VGWTllVDZSdGNVOG9hMw?oc=5",
+        "date": "2025-08-25",
+        "title": "Securing smart grid infrastructure from cyber threats - GovInsider",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkYyVnJ6cTZQMnNEZS00Rkt6c2c1a1QxZUJuUmQwNjNsOV9iMmIzcWVhWTdnZ3MyZlJxVURkOW5PMUY1TldBUUdFdm41LWplN3ZrWFBrMGEtVjY2WEU1Q3ZyckpjNE1wdi0xYklTR2JvdUlwalNtR0RnZElOSGdWT3Rmc0ZOV2pUT3VGWTllVDZSdGNVOG9hMw?oc=5\" target=\"_blank\">Securing smart grid infrastructure from cyber threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GovInsider</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelh5Q3RFM01fSzd1QXIySmRDNGJKWnlWZ3d2N2FJcTg0aWMyVG1lX2RRSnRIYV9UcnpiZWhQTTZHTEU4NEQ5eHNnalVqTERqc1E5V2VZUFJVSGlJX0dLRW12MkxETnlHNDBrMWZJQmZkU1gyXzNfMzRkclFWU1FfaFF2VENIVnZfYkxYU184UGU0dF9iWExv?oc=5",
+        "date": "2025-08-25",
+        "title": "John Hancock Infrastructure Fund Q2 2025 Commentary (Mutual Fund:JEEBX) - Seeking Alpha",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOelh5Q3RFM01fSzd1QXIySmRDNGJKWnlWZ3d2N2FJcTg0aWMyVG1lX2RRSnRIYV9UcnpiZWhQTTZHTEU4NEQ5eHNnalVqTERqc1E5V2VZUFJVSGlJX0dLRW12MkxETnlHNDBrMWZJQmZkU1gyXzNfMzRkclFWU1FfaFF2VENIVnZfYkxYU184UGU0dF9iWExv?oc=5\" target=\"_blank\">John Hancock Infrastructure Fund Q2 2025 Commentary (Mutual Fund:JEEBX)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQazFvMkRUM08zeGY5akVJblJLUHBWdmpqYnBSZzlXVzV4cjczSzVKdlFWbUN6WEYzbEJzeHhCblFpRE9ZOXZ3aFpiMnQ2dGFLdWFGUlNOQ3pnMEtEWTJBWldXWTBhV3RURFM1NHVFYXBOYkF1WTdxSlJKMVZfank4aDNGLU11d3NvZXFrTFNFN0djUWE2aEZtTHczc2R2WWptU2VONVNOT3YtbGdDb3FVVzR3eEpkdG5EaDNJalBzZXo?oc=5",
+        "date": "2025-08-25",
+        "title": "Climate Resilience Infrastructure: A Lucrative Frontier in Southeast Asia Amid Rising Storm Threats - AInvest",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQazFvMkRUM08zeGY5akVJblJLUHBWdmpqYnBSZzlXVzV4cjczSzVKdlFWbUN6WEYzbEJzeHhCblFpRE9ZOXZ3aFpiMnQ2dGFLdWFGUlNOQ3pnMEtEWTJBWldXWTBhV3RURFM1NHVFYXBOYkF1WTdxSlJKMVZfank4aDNGLU11d3NvZXFrTFNFN0djUWE2aEZtTHczc2R2WWptU2VONVNOT3YtbGdDb3FVVzR3eEpkdG5EaDNJalBzZXo?oc=5\" target=\"_blank\">Climate Resilience Infrastructure: A Lucrative Frontier in Southeast Asia Amid Rising Storm Threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
