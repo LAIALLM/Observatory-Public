@@ -2883,5 +2883,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Govt to set up 6 waste-to-energy plants across state",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-08-26",
+        "status": "posted",
+        "tweet": "In 2025, Ethereum's annual staking costs are $1.2 billion, significantly lower than Bitcoin's $15 billion mining costs. \n\nEthereum's staking is 88% more energy-efficient than Bitcoin's mining, comparable to \u26a1\ud83c\uddfa\ud83c\uddf8 US annual residential electricity use for 1.5 million homes.",
+        "type": "crypto"
     }
 ]
