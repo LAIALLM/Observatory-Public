@@ -2851,5 +2851,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc: \n\nIn Q1 2021, \nTotal operating expenses \u2b06\ufe0f to $10.9B, \nEnergy consumption in data centers \u2b07\ufe0f 7.2% YoY, \nTotal data volume processed daily \u2b06\ufe0f to 985 PB. \n\n$AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-08-27",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual carbon footprint is projected to surpass 120 million metric tons of CO2, equivalent to the yearly emissions of \ud83c\udde6\ud83c\uddf7 Argentina.",
+        "type": "crypto"
     }
 ]
