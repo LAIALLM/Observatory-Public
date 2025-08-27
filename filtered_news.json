@@ -2979,5 +2979,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-08-27",
+        "status": "posted",
+        "tweet": "\ud83c\udf10 By 2025, the global construction industry is projected to reach $10.5 trillion, an impressive 30% growth from 2020, with \ud83c\udde8\ud83c\uddf3 China and \ud83c\uddee\ud83c\uddf3 India leading the pack in market share. Eco-friendly construction trends are on a steady rise. Be part of the global green build wave!",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
