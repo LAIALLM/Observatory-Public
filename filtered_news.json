@@ -2764,5 +2764,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: Works ramp up for Sydney CBDs next super station, the deepest underground structure, as it prepares for tunnel boring machines.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-08-28",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual maintenance and security costs reach $1.2 billion, while Ethereum's are at $800 million. \n\nBitcoin's costs are 50% higher, reflecting its larger network and higher security requirements.",
+        "type": "crypto"
     }
 ]
