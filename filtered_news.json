@@ -2601,5 +2601,13 @@
         "status": "posted",
         "tweet": "Bitcoin's annual electricity consumption for processing transactions costs around $10 billion, handling approximately 300,000 transactions per day.\n\nEthereum processes about 1.2 million transactions daily at an annual energy cost of roughly $5 billion.\n\nSolana achieves over 2,000",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-08-29",
+        "status": "posted",
+        "tweet": "\ud83c\udf0dGlobal urban development firms are booming in 2025! \n\n\ud83d\udcc8 Growth rate is projected at 11.2% annually - set to reach $880 billion by 2030. \n\n\ud83c\uddfa\ud83c\uddf8 US firms leading, with an impressive sector growth of 14.1%. \n\n\ud83d\udd1c Today's decisions shaping our urban futures!",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
