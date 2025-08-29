@@ -2594,5 +2594,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-08-29",
+        "status": "posted",
+        "tweet": "Bitcoin's annual electricity consumption for processing transactions costs around $10 billion, handling approximately 300,000 transactions per day.\n\nEthereum processes about 1.2 million transactions daily at an annual energy cost of roughly $5 billion.\n\nSolana achieves over 2,000",
+        "type": "crypto"
     }
 ]
