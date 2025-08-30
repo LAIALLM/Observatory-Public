@@ -2576,5 +2576,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-08-30",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin has the highest network scalability costs, followed by Ethereum and Solana.\n\n1. Bitcoin: $1.5 billion annual cost\n2. Ethereum: $600 million annual cost\n3. Solana: $100 million annual cost",
+        "type": "crypto"
     }
 ]
