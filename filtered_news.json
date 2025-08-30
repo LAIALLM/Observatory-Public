@@ -2653,5 +2653,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-08-30",
+        "status": "posted",
+        "tweet": "Summary: These economies forecast the highest construction sector growth till 2030.\n\n1. \ud83c\udde8\ud83c\uddf3China\n2. \ud83c\uddee\ud83c\uddf3India\n3. \ud83c\uddfa\ud83c\uddf8US\n4. \ud83c\uddee\ud83c\udde9Indonesia\n5. \ud83c\udde8\ud83c\udde6Canada \n\nProjections credit a combination of urbanization, infrastructure plans, and population growth.",
+        "type": "statistical",
+        "category": "construction projects"
     }
 ]
