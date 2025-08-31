@@ -2531,5 +2531,13 @@
         "status": "posted",
         "tweet": "\ud83d\udcca Apple Inc. ($AAPL) reports Q1 data storage usage at a record-breaking 300 petabytes, up 20% year-on-year. \n\n\ud83c\uddfa\ud83c\uddf8 Silicon Valley data centers running at 95% energy efficiency.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-08-31",
+        "status": "posted",
+        "tweet": "Summary: Top 5 global economies in 2025 by GDP (PPP)\n\n\ud83c\udde8\ud83c\uddf3 China \n\ud83c\uddfa\ud83c\uddf8 United States \n\ud83c\uddee\ud83c\uddf3 India \n\ud83c\uddef\ud83c\uddf5 Japan \n\ud83c\udde9\ud83c\uddea Germany\n\nStay tuned for more updates and facts.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
