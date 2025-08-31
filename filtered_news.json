@@ -2669,5 +2669,45 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNEVrSjdtQTFyTlRvQXFDbElRRDVxclhRQjdoR09zMWczbTUwbkM0bnE3ekR5VUhGZkFjTlpiQlNSODdSWUtUZTJNVGFFWWY2RlpjNGNDQlFXTjVONXhtcWdGS2hsODl0VWM1NlNzQ2pXS1Zpb2xzaWcydEhuU19tS2JJRkhobVV1dUFpa29hcXNfZy1o?oc=5",
+        "date": "2025-08-31",
+        "title": "Chamath Palihapitiya envisions decentralized stablecoin infrastructure reducing costs - Traders Union",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNEVrSjdtQTFyTlRvQXFDbElRRDVxclhRQjdoR09zMWczbTUwbkM0bnE3ekR5VUhGZkFjTlpiQlNSODdSWUtUZTJNVGFFWWY2RlpjNGNDQlFXTjVONXhtcWdGS2hsODl0VWM1NlNzQ2pXS1Zpb2xzaWcydEhuU19tS2JJRkhobVV1dUFpa29hcXNfZy1o?oc=5\" target=\"_blank\">Chamath Palihapitiya envisions decentralized stablecoin infrastructure reducing costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQVhLbFA3czJnZHhpZHZfd3dTckpYUEQ1SmxEWlVoTnhGOXBXNWpZZ0JaUE9sZC1aa1pFU1FhU1RYeS1UTUNDNjZrNEMwMGRsNzVzaDBzTzhXczhjNjU4bjlVLV9aR2didXNVSl9USktUN3YzQTIxUzRfTXFqbEY5ZS0xRWFlQ2VjZ3VwUVAtVkFjbERFa09qSzh2cWNLbjNuSFkyY19LOHVkWkp5WTczVXh6OA?oc=5",
+        "date": "2025-08-31",
+        "title": "Russia Is Waging War on European Critical Infrastructure - The National Interest",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPQVhLbFA3czJnZHhpZHZfd3dTckpYUEQ1SmxEWlVoTnhGOXBXNWpZZ0JaUE9sZC1aa1pFU1FhU1RYeS1UTUNDNjZrNEMwMGRsNzVzaDBzTzhXczhjNjU4bjlVLV9aR2didXNVSl9USktUN3YzQTIxUzRfTXFqbEY5ZS0xRWFlQ2VjZ3VwUVAtVkFjbERFa09qSzh2cWNLbjNuSFkyY19LOHVkWkp5WTczVXh6OA?oc=5\" target=\"_blank\">Russia Is Waging War on European Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Interest</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDV2X0c0MVYwdE9BZkZMTURwSGNlcjdTMTJsaHlGcFFQUzV6Y3RHNGFqS0tOajlZcUZRZjltVE1yMnRqY0NybUY4N3ZBMDZGUjFSNnQwUms4NVRXZEhGMEtqMXNWNGpxQmhWRm85NDNjdkQ0ZDdFeWpicW5rZWh4bUFxQ1IyRUU0NGdPLUN2YmdJaWVidFowbDVTMWM?oc=5",
+        "date": "2025-08-31",
+        "title": "The Rise of Stablecoin-Driven Financial Infrastructure in Latin America - AInvest",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDV2X0c0MVYwdE9BZkZMTURwSGNlcjdTMTJsaHlGcFFQUzV6Y3RHNGFqS0tOajlZcUZRZjltVE1yMnRqY0NybUY4N3ZBMDZGUjFSNnQwUms4NVRXZEhGMEtqMXNWNGpxQmhWRm85NDNjdkQ0ZDdFeWpicW5rZWh4bUFxQ1IyRUU0NGdPLUN2YmdJaWVidFowbDVTMWM?oc=5\" target=\"_blank\">The Rise of Stablecoin-Driven Financial Infrastructure in Latin America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTk1bk9sVXNYVEdpT3h1UmNvcVd0Y2Y1R1lTTDc2TzRoU0pqRUI4T2lZTG1lRTdueE85OTRpaVBSa2ZlQ3Nnb19CRlNueHZvaUhNckhraVNnMm15cjhvem01X1ViTmxuTWd5NXFUZzl4bUJVMEkya21TRVkzajAwajVfNmhrVkhEOG16WkVaV2Z6alVCb05UQmliRW9wYjJrcmp0bUxpaUp1aHVuSE5hdE1LSERzSDg?oc=5",
+        "date": "2025-08-31",
+        "title": "Little Pepe (LILPEPE): The Meme Coin with Infrastructure, Security, and Scalability to Challenge XRP and Dogecoin - AInvest",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTk1bk9sVXNYVEdpT3h1UmNvcVd0Y2Y1R1lTTDc2TzRoU0pqRUI4T2lZTG1lRTdueE85OTRpaVBSa2ZlQ3Nnb19CRlNueHZvaUhNckhraVNnMm15cjhvem01X1ViTmxuTWd5NXFUZzl4bUJVMEkya21TRVkzajAwajVfNmhrVkhEOG16WkVaV2Z6alVCb05UQmliRW9wYjJrcmp0bUxpaUp1aHVuSE5hdE1LSERzSDg?oc=5\" target=\"_blank\">Little Pepe (LILPEPE): The Meme Coin with Infrastructure, Security, and Scalability to Challenge XRP and Dogecoin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
