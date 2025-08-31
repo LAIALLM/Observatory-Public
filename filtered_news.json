@@ -2494,5 +2494,35 @@
         "status": "posted",
         "tweet": "From 2020 to 2025, Bitcoin's annual electricity cost rose from $4.3B to $12.5B, while Ethereum's dropped from $4.6B to $1.2B post-merge.\n\nBitcoin's cost increase contrasts sharply with Ethereum's significant reduction, highlighting different infrastructural efficiency trends.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmhKS05JVGlmWW9jbW51Zmxab2FxaHlyN1JhTHVVWFRwczRNYjZPa1JjSkw4RWd0NkhDRlN6eHBqVno4X0NQOVZuS1hOdzJIQWMzdVpQYnhfUGI4M0s2T3ZSZ00wUi1seWdPVFFTeFoxaFgyM2l0S2taazhSb1E5bFZRWno4YlE3ME9Md3NiMXJJYnpZWW4wc05BR1NOaXRrdTc4cmtENlE3REM2NUFjLQ?oc=5",
+        "date": "2025-08-31",
+        "title": "Sabah Unveils RM130.6 Million ABM Campus To Nurture Skilled Talent - BusinessToday Malaysia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmhKS05JVGlmWW9jbW51Zmxab2FxaHlyN1JhTHVVWFRwczRNYjZPa1JjSkw4RWd0NkhDRlN6eHBqVno4X0NQOVZuS1hOdzJIQWMzdVpQYnhfUGI4M0s2T3ZSZ00wUi1seWdPVFFTeFoxaFgyM2l0S2taazhSb1E5bFZRWno4YlE3ME9Md3NiMXJJYnpZWW4wc05BR1NOaXRrdTc4cmtENlE3REM2NUFjLQ?oc=5\" target=\"_blank\">Sabah Unveils RM130.6 Million ABM Campus To Nurture Skilled Talent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BusinessToday Malaysia</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOVpGOEVTREJMc3ZsdkhUWldkTmg5SDgyNmtYVTBJSGpwOXF4WU1sRkY0a1dRM0lwVjEtM1VOYzhTTkY0Nmd0dXRHb2pzREF5amFHM0FHZ2dqM0dlMWtnaVZzYTBrTTZJclg3V0UwaEZXbFBNSWk2U0NyMGEyQlhRQXdPa09qZXFXbTEzcWN5S0ZJWDdmWEpMZUVnT1huWXcweEZyLVVoM0daWmI3OFl2b1NBaGh0VU1tbndpWlAzMA?oc=5",
+        "date": "2025-08-31",
+        "title": "Huge Russian strike caught on camera as Pavlohrad infrastructure targeted - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQOVpGOEVTREJMc3ZsdkhUWldkTmg5SDgyNmtYVTBJSGpwOXF4WU1sRkY0a1dRM0lwVjEtM1VOYzhTTkY0Nmd0dXRHb2pzREF5amFHM0FHZ2dqM0dlMWtnaVZzYTBrTTZJclg3V0UwaEZXbFBNSWk2U0NyMGEyQlhRQXdPa09qZXFXbTEzcWN5S0ZJWDdmWEpMZUVnT1huWXcweEZyLVVoM0daWmI3OFl2b1NBaGh0VU1tbndpWlAzMA?oc=5\" target=\"_blank\">Huge Russian strike caught on camera as Pavlohrad infrastructure targeted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkJpSl81M1dqNDdBRkpGVnhDSmo5clY3aGVaQzFhTjZSNXFMcXZPdE0tWmJ6bU9BamYyekpqU0g1TVVDQXZ1cTdZU25zSmhrQ2s0ZlUwZXc5NGtvaUJVRVQ5Ym9OMFM4M1EyNWdLSG92NHhxR3ZCMFBOTUVRVjVBcWFrQjFnZmRicWxyUndQYkdkRmZYVXVQMnJNcTlxQUNkcnpjdWtEUno?oc=5",
+        "date": "2025-08-31",
+        "title": "The Cosmic Leap: How SpaceX's Starlink is Redefining Global Broadband Infrastructure - AInvest",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkJpSl81M1dqNDdBRkpGVnhDSmo5clY3aGVaQzFhTjZSNXFMcXZPdE0tWmJ6bU9BamYyekpqU0g1TVVDQXZ1cTdZU25zSmhrQ2s0ZlUwZXc5NGtvaUJVRVQ5Ym9OMFM4M1EyNWdLSG92NHhxR3ZCMFBOTUVRVjVBcWFrQjFnZmRicWxyUndQYkdkRmZYVXVQMnJNcTlxQUNkcnpjdWtEUno?oc=5\" target=\"_blank\">The Cosmic Leap: How SpaceX's Starlink is Redefining Global Broadband Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
