@@ -2524,5 +2524,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-08-31",
+        "status": "posted",
+        "tweet": "\ud83d\udcca Apple Inc. ($AAPL) reports Q1 data storage usage at a record-breaking 300 petabytes, up 20% year-on-year. \n\n\ud83c\uddfa\ud83c\uddf8 Silicon Valley data centers running at 95% energy efficiency.",
+        "type": "infrastructure"
     }
 ]
