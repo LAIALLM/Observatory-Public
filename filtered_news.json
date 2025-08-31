@@ -2569,5 +2569,35 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGh3eXRZYVp1c0ZidmtDNTlSMGFkRTlWX2MyaTRkem9QMTJ1NDFuVFFIeW9rcWlOblRiWU5uTjhGaG9pQko3cDd6WnEteUZySEVZVTRqRWpsWWJQTmdfblZpQXFTTHF4dGxualhFc1Vna0F3QlZwNUZIVHlGWEdlOXNtb1dEcHVMX194N1dodlFLbkFPdG9FVjJGMWp1TllsbWYyTUptZjA?oc=5",
+        "date": "2025-08-31",
+        "title": "KZN woman wins double at the construction industry awards - IOL",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGh3eXRZYVp1c0ZidmtDNTlSMGFkRTlWX2MyaTRkem9QMTJ1NDFuVFFIeW9rcWlOblRiWU5uTjhGaG9pQko3cDd6WnEteUZySEVZVTRqRWpsWWJQTmdfblZpQXFTTHF4dGxualhFc1Vna0F3QlZwNUZIVHlGWEdlOXNtb1dEcHVMX194N1dodlFLbkFPdG9FVjJGMWp1TllsbWYyTUptZjA?oc=5\" target=\"_blank\">KZN woman wins double at the construction industry awards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IOL</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjRVWUNLaU5tYlpwcWVVZ3JuZ1RPQnM4S2FBNVJSWkV4WThaNVZMRjJuV0dyc3hPSjM5OEh0enRNbFpGWEJhdWctQlNLVHVHRlNsSmQzSUF0QWdqaDQ4ZXNxS1NiLXJ1Rkw3djdwUVY5Z19oWGFvVHFRNHp4aHAtX3d1QXBJZGVVR1VJeXM4bzBWam4zQXBPdFVLX1YxaFNSa2EtVFppUFFtUWpULXM3c3FfLU9fWGZCdF8xYg?oc=5",
+        "date": "2025-08-31",
+        "title": "Hong Kong\u2019s Blockchain-Driven Financial Infrastructure as a Strategic Investment Opportunity - AInvest",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjRVWUNLaU5tYlpwcWVVZ3JuZ1RPQnM4S2FBNVJSWkV4WThaNVZMRjJuV0dyc3hPSjM5OEh0enRNbFpGWEJhdWctQlNLVHVHRlNsSmQzSUF0QWdqaDQ4ZXNxS1NiLXJ1Rkw3djdwUVY5Z19oWGFvVHFRNHp4aHAtX3d1QXBJZGVVR1VJeXM4bzBWam4zQXBPdFVLX1YxaFNSa2EtVFppUFFtUWpULXM3c3FfLU9fWGZCdF8xYg?oc=5\" target=\"_blank\">Hong Kong\u2019s Blockchain-Driven Financial Infrastructure as a Strategic Investment Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQUVEUUhVR3BRcHQyNUdKRGhURnlCX3Q0UFRmTlFCZlo2OGVmTXBhcTF2dTFoWEhDeHE3dW9pVGtMN1JoS0NUd0x6cWk4LXgyYURoQUs4dk05QzZaMnZOVEMyUXdFVXVwUS1TMEZCN2dOUlA0Rm9rVENEajQ2OUFpcWxnaWYzV2d0bnZDU1FEOVNLdnM?oc=5",
+        "date": "2025-08-31",
+        "title": "Ethereum as the Infrastructure of the Future: Why Banks and Investors Must Embrace It Now - AInvest",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOQUVEUUhVR3BRcHQyNUdKRGhURnlCX3Q0UFRmTlFCZlo2OGVmTXBhcTF2dTFoWEhDeHE3dW9pVGtMN1JoS0NUd0x6cWk4LXgyYURoQUs4dk05QzZaMnZOVEMyUXdFVXVwUS1TMEZCN2dOUlA0Rm9rVENEajQ2OUFpcWxnaWYzV2d0bnZDU1FEOVNLdnM?oc=5\" target=\"_blank\">Ethereum as the Infrastructure of the Future: Why Banks and Investors Must Embrace It Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
