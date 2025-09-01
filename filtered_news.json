@@ -2760,5 +2760,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: BRO to complete key Aalo-Mechukha road in Arunachal by 2026, enhancing connectivity in the region.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-09-01",
+        "status": "posted",
+        "tweet": "\ud83c\udf0e Global internet traffic at Google: 167.34 exabytes per day \ud83d\udd39 Peak energy use: 260 megawatts in Q2 2021 \ud83d\udd39 Data storage: approx. 15 exabytes \ud83d\udd39 Carbon-neutral since 2007 \ud83c\uddfa\ud83c\uddf8 USA data centers: 13 \ud83c\uddea\ud83c\uddfa EU data centers: 8 $GOOGL",
+        "type": "infrastructure"
     }
 ]
