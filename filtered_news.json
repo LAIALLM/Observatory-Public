@@ -2553,5 +2553,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-09-01",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual hardware costs for mining reach $10 billion, compared to Ethereum's $1.5 billion for validator nodes.\n\nThe majority of Bitcoin's hardware is concentrated in \u2691 China and \u2691 United States, while Ethereum's is more distributed across \u2691 Europe and \u2691 Asia.",
+        "type": "crypto"
     }
 ]
