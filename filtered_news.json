@@ -3322,5 +3322,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddea NEWS: Global transport and infrastructure leaders collaborate to provide Dublin with a transformative metro system.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-09-02",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL\n\nQ1 2021 report:\n- 111.4M iPhones sold\n- 36.8 million iPads sold\n- Mac sales reached 5.5M units\n- Services revenue crossed $15.7B \n- Energy efficiency rating: A\n- Daily data consumption: 5.6PB\nGrowth areas: Cloud services & wearable tech.",
+        "type": "infrastructure"
     }
 ]
