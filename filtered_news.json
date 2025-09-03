@@ -3181,5 +3181,12 @@
         "status": "posted",
         "tweet": "\ud83d\udcc8 Apple Inc. \n- U.S. \ud83c\uddfa\ud83c\uddf8: Data Center energy consumption decreased by 6% in Q2 2021. \n- Ireland \ud83c\uddee\ud83c\uddea: Solar power usage ramped up by 20% within the same period. \n$AAPL continues its sustainability journey.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-09-03",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's node distribution:\n\n\ud83c\uddfa\ud83c\uddf8 USA: 35%\n\ud83c\udde9\ud83c\uddea Germany: 15%\n\ud83c\udde8\ud83c\uddf3 China: 10%\n\nEthereum's node distribution:\n\n\ud83c\uddfa\ud83c\uddf8 USA: 25%\n\ud83c\uddec\ud83c\udde7 UK: 12%\n\ud83c\udde8\ud83c\udde6 Canada: 8%\n\nData reflects the concentration of blockchain infrastructure.",
+        "type": "crypto"
     }
 ]
