@@ -3354,5 +3354,12 @@
         "tweet": "\ud83c\udf0d By 2025, 58% of the world's population is expected to live in smart cities. Investments in smart city tech are projected to reach $327 billion globally, increasing residential efficiency by 30% and reducing municipal energy costs by 40%. \ud83c\udfd9\ufe0f\ud83d\ude80\ud83d\udca1",
         "type": "statistical",
         "category": "smart cities"
+    },
+    {
+        "link": null,
+        "date": "2025-09-04",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \nQ4 2021 report unveiled:\n- 365 million Apple Pay transactions daily, up 15% YoY.\n- 63% reduction in carbon footprint since 2015.\n- Data center efficiency at 99.97%.\n\nCompany actively achieving tech and sustainability targets.\nStock Ticker: $AAPL.",
+        "type": "infrastructure"
     }
 ]
