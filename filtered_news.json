@@ -3339,5 +3339,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-09-04",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's network scalability costs reached $1.2 billion annually, significantly higher than Ethereum's $300 million. \n\nBTC's energy consumption equivalent to \ud83c\uddfa\ud83c\uddfaUkraine's yearly usage, while ETH's is comparable to \ud83c\udde8\ud83c\uddedSwitzerland's.",
+        "type": "crypto"
     }
 ]
