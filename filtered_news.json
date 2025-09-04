@@ -3346,5 +3346,13 @@
         "status": "posted",
         "tweet": "In 2025, Bitcoin's network scalability costs reached $1.2 billion annually, significantly higher than Ethereum's $300 million. \n\nBTC's energy consumption equivalent to \ud83c\uddfa\ud83c\uddfaUkraine's yearly usage, while ETH's is comparable to \ud83c\udde8\ud83c\uddedSwitzerland's.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-09-04",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d By 2025, 58% of the world's population is expected to live in smart cities. Investments in smart city tech are projected to reach $327 billion globally, increasing residential efficiency by 30% and reducing municipal energy costs by 40%. \ud83c\udfd9\ufe0f\ud83d\ude80\ud83d\udca1",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
