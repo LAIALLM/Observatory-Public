@@ -3673,5 +3673,13 @@
         "status": "posted",
         "tweet": "\ud83c\udf0d Google's data centers annually consumed almost 7.6 TWh of electricity in 2019 - approximate power usage of 675,000 American households. \n\n\u231a\ufe0f 80% increase since 2015. \n\n\ud83d\udcc8 Stock: $GOOG",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-09-05",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d In 2025, urban development firms will build 60% more green buildings than in 2023 due to revised global sustainability regulations. The total capital flow into the sector is projected to reach $25 trillion, symbolizing a 10% increase since 2023.",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
