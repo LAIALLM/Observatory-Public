@@ -3446,5 +3446,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-09-05",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual electricity consumption is projected to reach 204 TWh, surpassing the total power usage of \ud83c\udde6\ud83c\uddf7 Argentina (121 TWh in 2022).",
+        "type": "crypto"
     }
 ]
