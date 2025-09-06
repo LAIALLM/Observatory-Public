@@ -3491,5 +3491,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-09-06",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global infrastructure spending is projected to reach $9 trillion by 2025. \ud83c\uddfa\ud83c\uddf8 U.S. infrastructure spending, however, remains flat at $450 billion. It's 5% of the global total, although the U.S. economy accounts for 24% of global GDP.",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
