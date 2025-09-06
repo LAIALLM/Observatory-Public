@@ -3353,5 +3353,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. (NASDAQ: $AAPL)\n\nQ2 2021 figures: \n\n- Total revenue: $81.4 billion \n- Increase in iPhone sales: 50%\n- Net income: $21.7 billion, up 93%\n- Earnings per diluted share: $1.30 \n\nApple services reached all-time high revenue with $17.5 billion. Powerful quarter.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-09-06",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's network scalability costs reached $5.2 billion annually, while Ethereum's costs were significantly lower at $1.8 billion.\n\nThe difference is attributed to Bitcoin's proof-of-work vs. Ethereum's proof-of-stake consensus mechanisms.",
+        "type": "crypto"
     }
 ]
