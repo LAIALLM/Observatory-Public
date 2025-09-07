@@ -3297,5 +3297,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf0\ud83c\uddec NEWS: 900 million soms allocated for Kochkor district infrastructure development.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-09-07",
+        "status": "posted",
+        "tweet": "Summary: Top 5 nations with the most invested in urban development projects for 2025.\n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddfa\ud83c\uddf8 USA\n3. \ud83c\uddee\ud83c\uddf3 India\n4. \ud83c\udde6\ud83c\uddea UAE\n5. \ud83c\udde9\ud83c\uddea Germany\n\nAccording to recent projections, China leads in urban development endeavors, followed by the USA, India, UAE, and Germany.",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
