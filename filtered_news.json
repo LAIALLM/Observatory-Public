@@ -3335,5 +3335,25 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1dQZ2RYdlNyTnBXWU40T0pwbk5yVlk4UkNQQlk4YmJzdU9Ed2VtWEZuM0dabGhBYmN1THFwb0NpMUlkQmZFSHlhTWViWm9JWmFNT2ZudnZRMU5YbFFSS2s1ZTFXX0tVelBKVkRLbkRoMnJxbnZHQUJJTl9XWTRmaEVvcDkySHhJNDZ3eDlQTVlTQTBIcnVz?oc=5",
+        "date": "2025-09-07",
+        "title": "Drone Strike Injures Three and Damages Infrastructure in Odessa - \u0411\u0443\u043a\u0432\u0438",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1dQZ2RYdlNyTnBXWU40T0pwbk5yVlk4UkNQQlk4YmJzdU9Ed2VtWEZuM0dabGhBYmN1THFwb0NpMUlkQmZFSHlhTWViWm9JWmFNT2ZudnZRMU5YbFFSS2s1ZTFXX0tVelBKVkRLbkRoMnJxbnZHQUJJTl9XWTRmaEVvcDkySHhJNDZ3eDlQTVlTQTBIcnVz?oc=5\" target=\"_blank\">Drone Strike Injures Three and Damages Infrastructure in Odessa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0411\u0443\u043a\u0432\u0438</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRFZLWUp2cXozbm5qRFFSU1QtWlh2RW9qMlRibVREM0k2c3R6UHQyTjhsNjBFQkdJZWNDdTk3aE5UelF6U1FGckpGM3BiV2JUUTMtd3ZUUndjcHdyVy05a195VmlBQTFlR3hZc0JtckVQckdWUkpRVUt1TEoxTkZrQ3B5NDVNWGU0YWQ2S2t6WGxtSjdyeHZXNVNra1Q4b0Iwd3NuTjhZNVI4Y2JZdU5yd3RmaDhzMmFUeENkZA?oc=5",
+        "date": "2025-09-07",
+        "title": "Guest column: Modernizing California\u2019s water infrastructure isn't optional \u2014 it's urgent - Ventura County Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQRFZLWUp2cXozbm5qRFFSU1QtWlh2RW9qMlRibVREM0k2c3R6UHQyTjhsNjBFQkdJZWNDdTk3aE5UelF6U1FGckpGM3BiV2JUUTMtd3ZUUndjcHdyVy05a195VmlBQTFlR3hZc0JtckVQckdWUkpRVUt1TEoxTkZrQ3B5NDVNWGU0YWQ2S2t6WGxtSjdyeHZXNVNra1Q4b0Iwd3NuTjhZNVI4Y2JZdU5yd3RmaDhzMmFUeENkZA?oc=5\" target=\"_blank\">Guest column: Modernizing California\u2019s water infrastructure isn't optional \u2014 it's urgent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ventura County Star</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
