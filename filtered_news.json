@@ -3269,5 +3269,12 @@
         "status": "posted",
         "tweet": "Bitcoin's annual electricity consumption in 2025 is projected to surpass 200 TWh, exceeding the total power usage of \ud83c\udde6\ud83c\uddf7 Argentina.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-09-07",
+        "status": "posted",
+        "tweet": "\ud83c\udf0e Global:\nAmazon's renewable energy capacity has surpassed 10,000 MW for the first time in its history. \n\n\ud83c\uddfa\ud83c\uddf8 USA:\nThat's enough to power 2.3 million American homes for a year.\n\n$AMZN #sustainability #renewableenergy",
+        "type": "infrastructure"
     }
 ]
