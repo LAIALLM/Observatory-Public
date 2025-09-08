@@ -3080,5 +3080,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-09-08",
+        "status": "posted",
+        "tweet": "In 2025, the annual hardware costs for running the Bitcoin network are projected to exceed $10 billion, surpassing the GDP of \ud83c\udde7\ud83c\uddff Belize.\n\nThis estimate accounts for the continuous replacement and upgrade of mining rigs to maintain network efficiency and security.",
+        "type": "crypto"
     }
 ]
