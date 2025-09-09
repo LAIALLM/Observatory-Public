@@ -3513,5 +3513,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: 15 new metro stations to strengthen Gurugrams urban infrastructure, enhancing connectivity.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-09-09",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d By 2025, urban areas are expected to house 60% of the global population. \n\n\ud83c\uddfa\ud83c\uddf3 UN forecasts indicate 68% will live in urban areas by 2050.\n\nWith urbanization on the rise, sustainable and efficient planning is more critical than ever.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
