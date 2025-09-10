@@ -3284,5 +3284,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: $261 million Newell Highway upgrade between Narrabri and Moree completed, featuring the regions largest heavy vehicle rest area.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-09-10",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin has the highest annual maintenance & security costs among the three, followed by Ethereum and Solana.\n\n1. Bitcoin: $1.5 billion\n2. Ethereum: $600 million\n3. Solana: $100 million",
+        "type": "crypto"
     }
 ]
