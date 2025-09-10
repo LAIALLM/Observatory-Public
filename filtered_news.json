@@ -3402,5 +3402,82 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: New Nagpur Smart City to rise on 1,710 acres, promising jobs and world-class infrastructure.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObl9IX1hHTEI4YnJrVERzT3cweVY0UE1tQmhRcG5aVE9CLUVhMkU2eTZqVDhzYkNlREtRN1FnTGMwYjVxd1NCUW1PX0VCZ0RYNXVNOW9TR0Y2aWxXby05RDFsWlpOVHZSOHczTFR5d3ZSdGhFTnZPNUhyNXNRRExFd21vSHdBcDRxWFNTTDdWNk5KYVJtR0xJaFVqaVNUZm10bzF0SndpZlY1LVpXbzdEMmR6RndCUTVLVnBOWEs4TjRaMTk2RFNhbHJWVHRvbkdOem5uOGswRFFlaFJXc0F3UXhQNA?oc=5",
+        "date": "2025-09-10",
+        "title": "What construction buyers can learn from other industries - Planning, Building & Construction Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxObl9IX1hHTEI4YnJrVERzT3cweVY0UE1tQmhRcG5aVE9CLUVhMkU2eTZqVDhzYkNlREtRN1FnTGMwYjVxd1NCUW1PX0VCZ0RYNXVNOW9TR0Y2aWxXby05RDFsWlpOVHZSOHczTFR5d3ZSdGhFTnZPNUhyNXNRRExFd21vSHdBcDRxWFNTTDdWNk5KYVJtR0xJaFVqaVNUZm10bzF0SndpZlY1LVpXbzdEMmR6RndCUTVLVnBOWEs4TjRaMTk2RFNhbHJWVHRvbkdOem5uOGswRFFlaFJXc0F3UXhQNA?oc=5\" target=\"_blank\">What construction buyers can learn from other industries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Planning, Building & Construction Today</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeGlGUjRRLUZRSGlLNVNNTVJEY01DbGhuWDNJaUdoOEVhUTg4bUhIeUttaGJ1Y3ZSa2RINmxtd1NuWF9GaFZDWHN4OHREVW0yYlJLZWZ6UmJXTjJBR1NGdFdMTTdILVk4THNHczJzZjhlb1hEZ25ESVAtQVRNRjU4NU1VVE5adGR0YlVPQTV1RF83SXpPbDEwTEpNQzhGWS1BSy0ycVF6UmV2b3NzWjdxaWZEWEFVOGg1MFpzdS1FMGxKT2dsRlE?oc=5",
+        "date": "2025-09-10",
+        "title": "The new KPI in scheduling: Building schedule certainty before day one - Planning, Building & Construction Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQeGlGUjRRLUZRSGlLNVNNTVJEY01DbGhuWDNJaUdoOEVhUTg4bUhIeUttaGJ1Y3ZSa2RINmxtd1NuWF9GaFZDWHN4OHREVW0yYlJLZWZ6UmJXTjJBR1NGdFdMTTdILVk4THNHczJzZjhlb1hEZ25ESVAtQVRNRjU4NU1VVE5adGR0YlVPQTV1RF83SXpPbDEwTEpNQzhGWS1BSy0ycVF6UmV2b3NzWjdxaWZEWEFVOGg1MFpzdS1FMGxKT2dsRlE?oc=5\" target=\"_blank\">The new KPI in scheduling: Building schedule certainty before day one</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Planning, Building & Construction Today</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSVhSSmJlbUVXNi1obUhQRXNNWjlDcEZlQmtHcjc0SEw1QTR3Snl6QndVdGVRWDBybnZEVzRzU3pnLXkwX1NlX251OFlLbVR1U29Oa0UzeE9YeFM3ajNlLU54MWFnT3Itd0JHbE93ZEw3aW1EaWZsZVBjcVgyVkV1Q0EwRFJ0OUhQT2FCWW5OYTg4UFk?oc=5",
+        "date": "2025-09-10",
+        "title": "Urban India must invest in blue-green infrastructure - India Development Review",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNSVhSSmJlbUVXNi1obUhQRXNNWjlDcEZlQmtHcjc0SEw1QTR3Snl6QndVdGVRWDBybnZEVzRzU3pnLXkwX1NlX251OFlLbVR1U29Oa0UzeE9YeFM3ajNlLU54MWFnT3Itd0JHbE93ZEw3aW1EaWZsZVBjcVgyVkV1Q0EwRFJ0OUhQT2FCWW5OYTg4UFk?oc=5\" target=\"_blank\">Urban India must invest in blue-green infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Development Review</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOX19CM3hKN0owbE9HWUo0Vmx4bDU1NUdmVU1DT3ZJWWNMQzlnOEtiSVpvNGRIQm5XRTZqQm9wbTY4QlNZajhaR210VkYxcjVHZ0JSODZfUEhkSG12a1llYThJWnJPZDB5TnAxUnUtSEFtenFZUTc4NmlyblVTMlRVRnZ2R2I2SFhSSmdOUkdiaWJ6cTlhODhUZ1B3YUs0Q0NXRW1hWXpOY3MxaFNpTXVLSndJSUNNYzhrZ0dJa1pUdkxXdDFxUWEtaS1EdUs3MGdsdXRTV3NTd3ZObU5VdU54NEMtbVZXRUVIMVRIUUg3aXM2VzjSAfgBQVVfeXFMTm05dnpoMDgzbE9NNndhNDBPMzdWVE5BM2FpS2t4X2pTamE0TExIRXQ2RkVVdldybkFkdFg3RU4wUDJHQnBiSTg4ck45U2dPMWN4UmZxUWdHMTNKMUdGeVZuZVJhdTMxbkttcExCWWc4MVh6M0VVLVhXVUZ4SkJ3akJ0dW5Jcll2Ry1COG42UHVvWU9jblVKdnQwd2Y3Ym1RQmFtUjJWR1ZjUE04Q2l3UTZGWlJWVjRsQnA4eU9jZUdVSkVWTU9RRHk4RTE3Sm5kQUJEMVU4cmxSeTJGSXFYUHVMZHNneURLenVWNjBPcl9HSGlkeW05ekE?oc=5",
+        "date": "2025-09-10",
+        "title": "Fintech: Turning Maharashtra\u2019s infrastructure vision into real-world opportunities - The Economic Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOX19CM3hKN0owbE9HWUo0Vmx4bDU1NUdmVU1DT3ZJWWNMQzlnOEtiSVpvNGRIQm5XRTZqQm9wbTY4QlNZajhaR210VkYxcjVHZ0JSODZfUEhkSG12a1llYThJWnJPZDB5TnAxUnUtSEFtenFZUTc4NmlyblVTMlRVRnZ2R2I2SFhSSmdOUkdiaWJ6cTlhODhUZ1B3YUs0Q0NXRW1hWXpOY3MxaFNpTXVLSndJSUNNYzhrZ0dJa1pUdkxXdDFxUWEtaS1EdUs3MGdsdXRTV3NTd3ZObU5VdU54NEMtbVZXRUVIMVRIUUg3aXM2VzjSAfgBQVVfeXFMTm05dnpoMDgzbE9NNndhNDBPMzdWVE5BM2FpS2t4X2pTamE0TExIRXQ2RkVVdldybkFkdFg3RU4wUDJHQnBiSTg4ck45U2dPMWN4UmZxUWdHMTNKMUdGeVZuZVJhdTMxbkttcExCWWc4MVh6M0VVLVhXVUZ4SkJ3akJ0dW5Jcll2Ry1COG42UHVvWU9jblVKdnQwd2Y3Ym1RQmFtUjJWR1ZjUE04Q2l3UTZGWlJWVjRsQnA4eU9jZUdVSkVWTU9RRHk4RTE3Sm5kQUJEMVU4cmxSeTJGSXFYUHVMZHNneURLenVWNjBPcl9HSGlkeW05ekE?oc=5\" target=\"_blank\">Fintech: Turning Maharashtra\u2019s infrastructure vision into real-world opportunities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa3Z1c2NiQkVWYTBCVHBKeWExS016b3BlcURDdldpTWo3cU5TcEZrYTFramVqQjJkUjFrVkdfVm9CS0c3SHJKRW1VLU42OWUyandienpvaXNWeTVWU3ZyVkxDRGNnR2ZvbmlzNm5nS3NJeHJZbEgzR05aNkEyZzhpdW9ha3VrWjNGaDB3NlVKcWFCcEw0V2pqeVQtRm1JRy13VXNoVHo2YmhaVnhDLTZ0T0ZKUUo2eUVaczZLRDZxM2M3ZFkwNWFCd05GcUF3VV9EUUItRzB6NXN3S2JwU1ZIWGY2dTY2SW9yWEdsV1ZrclU1UHg4a3RpOQ?oc=5",
+        "date": "2025-09-10",
+        "title": "UK India Infrastructure Financing Bridge (UKIIFB) Year 1 Report Highlights Strong Progress in Catalysing Sustainable Infrastructure Investment - orissadiary.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa3Z1c2NiQkVWYTBCVHBKeWExS016b3BlcURDdldpTWo3cU5TcEZrYTFramVqQjJkUjFrVkdfVm9CS0c3SHJKRW1VLU42OWUyandienpvaXNWeTVWU3ZyVkxDRGNnR2ZvbmlzNm5nS3NJeHJZbEgzR05aNkEyZzhpdW9ha3VrWjNGaDB3NlVKcWFCcEw0V2pqeVQtRm1JRy13VXNoVHo2YmhaVnhDLTZ0T0ZKUUo2eUVaczZLRDZxM2M3ZFkwNWFCd05GcUF3VV9EUUItRzB6NXN3S2JwU1ZIWGY2dTY2SW9yWEdsV1ZrclU1UHg4a3RpOQ?oc=5\" target=\"_blank\">UK India Infrastructure Financing Bridge (UKIIFB) Year 1 Report Highlights Strong Progress in Catalysing Sustainable Infrastructure Investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">orissadiary.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPam04SGFCVktSZk1oczc4U09nck13MElHbk1wQmtENVdnVnVhTElWeVBtRWJMVm9kbEc4Xy1jd00zWFNMWGQ5d0dsR2FfLTkxWGdoZ1J5d3ZDeXpjd1hnNFNmOUlscDQ3SGswaFBFdmVxcndWcU5BMUExYWVWSktCT0lRWkI3dUtOSDZ3N055S0c2akIxOFU0Um9R?oc=5",
+        "date": "2025-09-10",
+        "title": "ChargeZone Acquires Zerovolt\u2019s Wadala Hub, Boosts EV Infrastructure - EV Mechanica",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPam04SGFCVktSZk1oczc4U09nck13MElHbk1wQmtENVdnVnVhTElWeVBtRWJMVm9kbEc4Xy1jd00zWFNMWGQ5d0dsR2FfLTkxWGdoZ1J5d3ZDeXpjd1hnNFNmOUlscDQ3SGswaFBFdmVxcndWcU5BMUExYWVWSktCT0lRWkI3dUtOSDZ3N055S0c2akIxOFU0Um9R?oc=5\" target=\"_blank\">ChargeZone Acquires Zerovolt\u2019s Wadala Hub, Boosts EV Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EV Mechanica</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRkdQS1NsRGMwMHgteEdmWVFKV1ZzX0xTUnNZODRkRzUxemlXaTEyX3hVdnhaVGFxZnFqVUs0WVp4VkI5SVgwdXZKanc2LVlRRVZNanV1SUMxZ2hTQnpTRUtRUUlza2NTWWhiQmtKR3h2ekZZdEdGa2VNUkJkOHB1YmNZcExOaHdfODUxM3RtaWRtUW1WRlZuck5HM0dFcDdZcE82TlVqbnBGdHpNaDJYSm1LV1BWaXBMRHdlNm5ZVnlvVkFLOFlhd2JpWFhkeWQ1R2lvQXcwTVF0VHRYZGRWVHhrNTBQa3pDVUl3TGh3?oc=5",
+        "date": "2025-09-10",
+        "title": "Egypt: TMG Holding's Arab Projects and Urban Development receives credit rating upgrade to AA- from MERIS - ZAWYA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRkdQS1NsRGMwMHgteEdmWVFKV1ZzX0xTUnNZODRkRzUxemlXaTEyX3hVdnhaVGFxZnFqVUs0WVp4VkI5SVgwdXZKanc2LVlRRVZNanV1SUMxZ2hTQnpTRUtRUUlza2NTWWhiQmtKR3h2ekZZdEdGa2VNUkJkOHB1YmNZcExOaHdfODUxM3RtaWRtUW1WRlZuck5HM0dFcDdZcE82TlVqbnBGdHpNaDJYSm1LV1BWaXBMRHdlNm5ZVnlvVkFLOFlhd2JpWFhkeWQ1R2lvQXcwTVF0VHRYZGRWVHhrNTBQa3pDVUl3TGh3?oc=5\" target=\"_blank\">Egypt: TMG Holding's Arab Projects and Urban Development receives credit rating upgrade to AA- from MERIS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZAWYA</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-09-10",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n\nData Centers electricity use: 834,100 MWh in 2020. \n\nFully renewable energy sources since 2018. \n\n$AAPL",
+        "type": "infrastructure"
     }
 ]
