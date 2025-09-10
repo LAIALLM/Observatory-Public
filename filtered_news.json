@@ -3479,5 +3479,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n\nData Centers electricity use: 834,100 MWh in 2020. \n\nFully renewable energy sources since 2018. \n\n$AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-09-10",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global population is projected to reach 8.1 billion in 2025, a significant increase from 7.8 billion in 2020. \n\n\ud83c\uddee\ud83c\uddf3India's population is projected to surpass \ud83c\udde8\ud83c\uddf3China's by 2027, making it the world's most populous country.",
+        "type": "statistical",
+        "category": "population"
     }
 ]
