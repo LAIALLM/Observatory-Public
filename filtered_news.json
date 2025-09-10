@@ -1,298 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-08-31",
-        "status": "posted",
-        "tweet": "From 2020 to 2025, Bitcoin's annual electricity cost rose from $4.3B to $12.5B, while Ethereum's dropped from $4.6B to $1.2B post-merge.\n\nBitcoin's cost increase contrasts sharply with Ethereum's significant reduction, highlighting different infrastructural efficiency trends.",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmhKS05JVGlmWW9jbW51Zmxab2FxaHlyN1JhTHVVWFRwczRNYjZPa1JjSkw4RWd0NkhDRlN6eHBqVno4X0NQOVZuS1hOdzJIQWMzdVpQYnhfUGI4M0s2T3ZSZ00wUi1seWdPVFFTeFoxaFgyM2l0S2taazhSb1E5bFZRWno4YlE3ME9Md3NiMXJJYnpZWW4wc05BR1NOaXRrdTc4cmtENlE3REM2NUFjLQ?oc=5",
-        "date": "2025-08-31",
-        "title": "Sabah Unveils RM130.6 Million ABM Campus To Nurture Skilled Talent - BusinessToday Malaysia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmhKS05JVGlmWW9jbW51Zmxab2FxaHlyN1JhTHVVWFRwczRNYjZPa1JjSkw4RWd0NkhDRlN6eHBqVno4X0NQOVZuS1hOdzJIQWMzdVpQYnhfUGI4M0s2T3ZSZ00wUi1seWdPVFFTeFoxaFgyM2l0S2taazhSb1E5bFZRWno4YlE3ME9Md3NiMXJJYnpZWW4wc05BR1NOaXRrdTc4cmtENlE3REM2NUFjLQ?oc=5\" target=\"_blank\">Sabah Unveils RM130.6 Million ABM Campus To Nurture Skilled Talent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BusinessToday Malaysia</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOVpGOEVTREJMc3ZsdkhUWldkTmg5SDgyNmtYVTBJSGpwOXF4WU1sRkY0a1dRM0lwVjEtM1VOYzhTTkY0Nmd0dXRHb2pzREF5amFHM0FHZ2dqM0dlMWtnaVZzYTBrTTZJclg3V0UwaEZXbFBNSWk2U0NyMGEyQlhRQXdPa09qZXFXbTEzcWN5S0ZJWDdmWEpMZUVnT1huWXcweEZyLVVoM0daWmI3OFl2b1NBaGh0VU1tbndpWlAzMA?oc=5",
-        "date": "2025-08-31",
-        "title": "Huge Russian strike caught on camera as Pavlohrad infrastructure targeted - MSN",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQOVpGOEVTREJMc3ZsdkhUWldkTmg5SDgyNmtYVTBJSGpwOXF4WU1sRkY0a1dRM0lwVjEtM1VOYzhTTkY0Nmd0dXRHb2pzREF5amFHM0FHZ2dqM0dlMWtnaVZzYTBrTTZJclg3V0UwaEZXbFBNSWk2U0NyMGEyQlhRQXdPa09qZXFXbTEzcWN5S0ZJWDdmWEpMZUVnT1huWXcweEZyLVVoM0daWmI3OFl2b1NBaGh0VU1tbndpWlAzMA?oc=5\" target=\"_blank\">Huge Russian strike caught on camera as Pavlohrad infrastructure targeted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkJpSl81M1dqNDdBRkpGVnhDSmo5clY3aGVaQzFhTjZSNXFMcXZPdE0tWmJ6bU9BamYyekpqU0g1TVVDQXZ1cTdZU25zSmhrQ2s0ZlUwZXc5NGtvaUJVRVQ5Ym9OMFM4M1EyNWdLSG92NHhxR3ZCMFBOTUVRVjVBcWFrQjFnZmRicWxyUndQYkdkRmZYVXVQMnJNcTlxQUNkcnpjdWtEUno?oc=5",
-        "date": "2025-08-31",
-        "title": "The Cosmic Leap: How SpaceX's Starlink is Redefining Global Broadband Infrastructure - AInvest",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkJpSl81M1dqNDdBRkpGVnhDSmo5clY3aGVaQzFhTjZSNXFMcXZPdE0tWmJ6bU9BamYyekpqU0g1TVVDQXZ1cTdZU25zSmhrQ2s0ZlUwZXc5NGtvaUJVRVQ5Ym9OMFM4M1EyNWdLSG92NHhxR3ZCMFBOTUVRVjVBcWFrQjFnZmRicWxyUndQYkdkRmZYVXVQMnJNcTlxQUNkcnpjdWtEUno?oc=5\" target=\"_blank\">The Cosmic Leap: How SpaceX's Starlink is Redefining Global Broadband Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2025-08-31",
-        "status": "posted",
-        "tweet": "\ud83d\udcca Apple Inc. ($AAPL) reports Q1 data storage usage at a record-breaking 300 petabytes, up 20% year-on-year. \n\n\ud83c\uddfa\ud83c\uddf8 Silicon Valley data centers running at 95% energy efficiency.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2025-08-31",
-        "status": "posted",
-        "tweet": "Summary: Top 5 global economies in 2025 by GDP (PPP)\n\n\ud83c\udde8\ud83c\uddf3 China \n\ud83c\uddfa\ud83c\uddf8 United States \n\ud83c\uddee\ud83c\uddf3 India \n\ud83c\uddef\ud83c\uddf5 Japan \n\ud83c\udde9\ud83c\uddea Germany\n\nStay tuned for more updates and facts.",
-        "type": "statistical",
-        "category": "countries"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjY4YnVxclplWllUdHZjU2RnM0luOUpUYmlIcVBaVWhMeS01dG1wZGR3MXJYdHNia082Ul9MVXpYMWZyTWdkbDFocXN4VmoweWw1Qk9OeE5keDRabE5rZzhKMlJGVXhwaVQ0SEZ4SW1VRHJyNVlDQ05VWWRqV0RPMHFkOUJud2lLTXA2bUlYTQ?oc=5",
-        "date": "2025-08-31",
-        "title": "Brisbane 2032 infrastructure plan still hazy - InsideTheGames",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjY4YnVxclplWllUdHZjU2RnM0luOUpUYmlIcVBaVWhMeS01dG1wZGR3MXJYdHNia082Ul9MVXpYMWZyTWdkbDFocXN4VmoweWw1Qk9OeE5keDRabE5rZzhKMlJGVXhwaVQ0SEZ4SW1VRHJyNVlDQ05VWWRqV0RPMHFkOUJud2lLTXA2bUlYTQ?oc=5\" target=\"_blank\">Brisbane 2032 infrastructure plan still hazy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">InsideTheGames</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMV19lY3V4ZW94UDRYREt3cThvY3plWkhLalpCTm9VUkRxWVJUVjZGQWVvVjNQZW9lbktkeERMSHFWeXlHdjVpcXBmdVAwSE8wNWRsSk1n?oc=5",
-        "date": "2025-08-31",
-        "title": "The installation of a ready-mixed concrete production facility (BP) that HDC Hyundai Development con.. - \ub9e4\uc77c\uacbd\uc81c",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMV19lY3V4ZW94UDRYREt3cThvY3plWkhLalpCTm9VUkRxWVJUVjZGQWVvVjNQZW9lbktkeERMSHFWeXlHdjVpcXBmdVAwSE8wNWRsSk1n?oc=5\" target=\"_blank\">The installation of a ready-mixed concrete production facility (BP) that HDC Hyundai Development con..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\ub9e4\uc77c\uacbd\uc81c</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYXRkdkw5c3k3NmtLemd2MkswUTVXY05NVWdLbWZZUXVtZHh4VTV3RG42Nko5NDRacm96SVdZdmNOYU5yYm9SblJnMTJaWGVZblc0LVpLS0R4ZWhoNFJJd3NSVFZtWkkyc2JncldCbkxKR3RQZTFsNHZyNzJGWmtlMmlLWEVMbEg2ZGp1RVV3bDU3Rk5UUU15Q3I1X281NEE4eTVRVE5DTVM5Ym56RGszOXFmeUJ4WV85ZVhHMjVZNnJ5NFdpU0VQcXhLLWNoNUVZYXBNMG51dGs?oc=5",
-        "date": "2025-08-31",
-        "title": "InvroMining Expands Multi-Asset Mining Platform, Launches New AI-Driven Infrastructure - PR Newswire",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYXRkdkw5c3k3NmtLemd2MkswUTVXY05NVWdLbWZZUXVtZHh4VTV3RG42Nko5NDRacm96SVdZdmNOYU5yYm9SblJnMTJaWGVZblc0LVpLS0R4ZWhoNFJJd3NSVFZtWkkyc2JncldCbkxKR3RQZTFsNHZyNzJGWmtlMmlLWEVMbEg2ZGp1RVV3bDU3Rk5UUU15Q3I1X281NEE4eTVRVE5DTVM5Ym56RGszOXFmeUJ4WV85ZVhHMjVZNnJ5NFdpU0VQcXhLLWNoNUVZYXBNMG51dGs?oc=5\" target=\"_blank\">InvroMining Expands Multi-Asset Mining Platform, Launches New AI-Driven Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGh3eXRZYVp1c0ZidmtDNTlSMGFkRTlWX2MyaTRkem9QMTJ1NDFuVFFIeW9rcWlOblRiWU5uTjhGaG9pQko3cDd6WnEteUZySEVZVTRqRWpsWWJQTmdfblZpQXFTTHF4dGxualhFc1Vna0F3QlZwNUZIVHlGWEdlOXNtb1dEcHVMX194N1dodlFLbkFPdG9FVjJGMWp1TllsbWYyTUptZjA?oc=5",
-        "date": "2025-08-31",
-        "title": "KZN woman wins double at the construction industry awards - IOL",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGh3eXRZYVp1c0ZidmtDNTlSMGFkRTlWX2MyaTRkem9QMTJ1NDFuVFFIeW9rcWlOblRiWU5uTjhGaG9pQko3cDd6WnEteUZySEVZVTRqRWpsWWJQTmdfblZpQXFTTHF4dGxualhFc1Vna0F3QlZwNUZIVHlGWEdlOXNtb1dEcHVMX194N1dodlFLbkFPdG9FVjJGMWp1TllsbWYyTUptZjA?oc=5\" target=\"_blank\">KZN woman wins double at the construction industry awards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IOL</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjRVWUNLaU5tYlpwcWVVZ3JuZ1RPQnM4S2FBNVJSWkV4WThaNVZMRjJuV0dyc3hPSjM5OEh0enRNbFpGWEJhdWctQlNLVHVHRlNsSmQzSUF0QWdqaDQ4ZXNxS1NiLXJ1Rkw3djdwUVY5Z19oWGFvVHFRNHp4aHAtX3d1QXBJZGVVR1VJeXM4bzBWam4zQXBPdFVLX1YxaFNSa2EtVFppUFFtUWpULXM3c3FfLU9fWGZCdF8xYg?oc=5",
-        "date": "2025-08-31",
-        "title": "Hong Kong\u2019s Blockchain-Driven Financial Infrastructure as a Strategic Investment Opportunity - AInvest",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjRVWUNLaU5tYlpwcWVVZ3JuZ1RPQnM4S2FBNVJSWkV4WThaNVZMRjJuV0dyc3hPSjM5OEh0enRNbFpGWEJhdWctQlNLVHVHRlNsSmQzSUF0QWdqaDQ4ZXNxS1NiLXJ1Rkw3djdwUVY5Z19oWGFvVHFRNHp4aHAtX3d1QXBJZGVVR1VJeXM4bzBWam4zQXBPdFVLX1YxaFNSa2EtVFppUFFtUWpULXM3c3FfLU9fWGZCdF8xYg?oc=5\" target=\"_blank\">Hong Kong\u2019s Blockchain-Driven Financial Infrastructure as a Strategic Investment Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQUVEUUhVR3BRcHQyNUdKRGhURnlCX3Q0UFRmTlFCZlo2OGVmTXBhcTF2dTFoWEhDeHE3dW9pVGtMN1JoS0NUd0x6cWk4LXgyYURoQUs4dk05QzZaMnZOVEMyUXdFVXVwUS1TMEZCN2dOUlA0Rm9rVENEajQ2OUFpcWxnaWYzV2d0bnZDU1FEOVNLdnM?oc=5",
-        "date": "2025-08-31",
-        "title": "Ethereum as the Infrastructure of the Future: Why Banks and Investors Must Embrace It Now - AInvest",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOQUVEUUhVR3BRcHQyNUdKRGhURnlCX3Q0UFRmTlFCZlo2OGVmTXBhcTF2dTFoWEhDeHE3dW9pVGtMN1JoS0NUd0x6cWk4LXgyYURoQUs4dk05QzZaMnZOVEMyUXdFVXVwUS1TMEZCN2dOUlA0Rm9rVENEajQ2OUFpcWxnaWYzV2d0bnZDU1FEOVNLdnM?oc=5\" target=\"_blank\">Ethereum as the Infrastructure of the Future: Why Banks and Investors Must Embrace It Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd0JtUWZGdGdzdVAtSU9haWNWS1VNazl1ZFdwcDlqNEhBc1hoODhwQjhNcVVlYXZRLW42eTJkanJDMjZWd0hqbnVUY3ZFX3FfUE04OUN6d0FDS0wyLWhwamRiS0NhaC1aelRIekVlajZQX1k0ejhoLWJjNkdKdERmVkcyV1JKUi1NUkJHcHpGTTdTb1k?oc=5",
-        "date": "2025-08-31",
-        "title": "Construction hubs may be the key for the construction industry - ioplus.nl",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPd0JtUWZGdGdzdVAtSU9haWNWS1VNazl1ZFdwcDlqNEhBc1hoODhwQjhNcVVlYXZRLW42eTJkanJDMjZWd0hqbnVUY3ZFX3FfUE04OUN6d0FDS0wyLWhwamRiS0NhaC1aelRIekVlajZQX1k0ejhoLWJjNkdKdERmVkcyV1JKUi1NUkJHcHpGTTdTb1k?oc=5\" target=\"_blank\">Construction hubs may be the key for the construction industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ioplus.nl</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUE9VYnNIY3Z0TnBOMzBoUFB5VVlKM21YSzBaejRzbG1zUXJUSW5mS2ZadXNlcm5XazBHaV9maThJY2tBSXlVYnBVRDl6V0N2Z2ZUcnhkR09xOWhuS0ZYVFFRLW03SXcybUZpZjVKX0JWbjlZM0xWQ2lXYlVBd0JCcUdrN0ctZnlWcE9iVnQ2MGpKUlRqdzVFNElYcjZKcHhVWkZ5Smlnb3dxLXF5OFEyTXN1TDdGYjNyQkxmZGhTM215TEhFMzlvbm9ncU1QQ0F0R3pweW5sOTRXZFpvWlBWSXlGU0Z5ZVhFSzIzeU41NUNiUkl6UzM5aXk1ZERobDQxcjFQUDNuYw?oc=5",
-        "date": "2025-08-31",
-        "title": "FY Energy Expands Green Energy Cloud Computing Contracts to Support Low-Carbon Blockchain Infrastructure - GlobeNewswire",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQUE9VYnNIY3Z0TnBOMzBoUFB5VVlKM21YSzBaejRzbG1zUXJUSW5mS2ZadXNlcm5XazBHaV9maThJY2tBSXlVYnBVRDl6V0N2Z2ZUcnhkR09xOWhuS0ZYVFFRLW03SXcybUZpZjVKX0JWbjlZM0xWQ2lXYlVBd0JCcUdrN0ctZnlWcE9iVnQ2MGpKUlRqdzVFNElYcjZKcHhVWkZ5Smlnb3dxLXF5OFEyTXN1TDdGYjNyQkxmZGhTM215TEhFMzlvbm9ncU1QQ0F0R3pweW5sOTRXZFpvWlBWSXlGU0Z5ZVhFSzIzeU41NUNiUkl6UzM5aXk1ZERobDQxcjFQUDNuYw?oc=5\" target=\"_blank\">FY Energy Expands Green Energy Cloud Computing Contracts to Support Low-Carbon Blockchain Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTZOd0VQQXZlVngwancwNjlqckh1RGJMRWEzcDRpWThfbnJ6RmR2Wi1EQ1R3Xzk4THg1OWVVbnJYWTVCLXY4aTIyLVZ1amN3bnNNck8tbzJqMHNkQ1FlRVNYZlNMMzhZZ1oxSlg1YWFEZ3FoQ0xwZHFZR21LbFhrOVl4TGU5UlVNWUtoRUNnZjBiQ2w1Q1hVMlB6OEdhMTZJMm5EYkFvTEUwQQ?oc=5",
-        "date": "2025-08-31",
-        "title": "Resilient Infrastructure and Insurance Stocks in France Amid Escalating Storm Risks - AInvest",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTZOd0VQQXZlVngwancwNjlqckh1RGJMRWEzcDRpWThfbnJ6RmR2Wi1EQ1R3Xzk4THg1OWVVbnJYWTVCLXY4aTIyLVZ1amN3bnNNck8tbzJqMHNkQ1FlRVNYZlNMMzhZZ1oxSlg1YWFEZ3FoQ0xwZHFZR21LbFhrOVl4TGU5UlVNWUtoRUNnZjBiQ2w1Q1hVMlB6OEdhMTZJMm5EYkFvTEUwQQ?oc=5\" target=\"_blank\">Resilient Infrastructure and Insurance Stocks in France Amid Escalating Storm Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHJsSkN6bEcyaDR6V0U2WHN0bzdhSnMydE9QbHNRbjUwNjRtcEZGTlRUWWxWNmpuSXRuazgwc3FsWTkxUDk0TlR0cXYwUWpJMnpOb05KTlRvYVpMNDhpMFJ1dXVGVlVnVjl1VDVUM1NqbmpwQ0FKN3RwVU1TSUR5NGw1VUlmZTRsY0RDM3BGWDYxNXd6VksxRzR3U0JRNWZuZFpGb2pBZE9KRExOQmozMXBZd3lKSkJrenVSWi11bW53TVcwZEJZ?oc=5",
-        "date": "2025-08-31",
-        "title": "Stablecoin Infrastructure as the Next DeFi Growth Catalyst: Plasma\u2019s $500M EtherFi Partnership and the Path to Long-Term Value - AInvest",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHJsSkN6bEcyaDR6V0U2WHN0bzdhSnMydE9QbHNRbjUwNjRtcEZGTlRUWWxWNmpuSXRuazgwc3FsWTkxUDk0TlR0cXYwUWpJMnpOb05KTlRvYVpMNDhpMFJ1dXVGVlVnVjl1VDVUM1NqbmpwQ0FKN3RwVU1TSUR5NGw1VUlmZTRsY0RDM3BGWDYxNXd6VksxRzR3U0JRNWZuZFpGb2pBZE9KRExOQmozMXBZd3lKSkJrenVSWi11bW53TVcwZEJZ?oc=5\" target=\"_blank\">Stablecoin Infrastructure as the Next DeFi Growth Catalyst: Plasma\u2019s $500M EtherFi Partnership and the Path to Long-Term Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0lIVzd3WlRsSVRpT2FWdlRxanFKMHhxRGFxOTRkQ0p0OWxfRThuSkFuRlRLeXZKcTFDQ0ZVYjVmY3VJSnp4YldKd1FnRjJWWEYyMlluVE12QlRkVjdWcEQ4dEdTZm82VGRxZVVBbjB4QncxMFJiRHJ5ZWo0ajBwNlVaVlY0NnRab0lUTEhCM2JfRlV0aUg5WEswQUNmZER6TjA5Y2hn0gGrAUFVX3lxTE1ySzJneXE0NkJ2YWlKMFZMM05JVlBWMnE2ZEstQmRTZDBKSTNsWV9yX1phdTQ5aG9tbVNEWEZyVldORGNGRkNlRll2VkJuVWNlQzAwaFNHYTA2M01fVUEtN1YwNU1Ga0QyclNTNThjaTYyTzVnOVBkWkJOeTZueTFXcS1Ec21ielRHMHFMT0VvckVVWmVOQlRTbW5VaU9HOUxWYm5EMmRYaVYxQQ?oc=5",
-        "date": "2025-08-31",
-        "title": "DIU hits Russian air defense infrastructure in Crimea - Ukrinform",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0lIVzd3WlRsSVRpT2FWdlRxanFKMHhxRGFxOTRkQ0p0OWxfRThuSkFuRlRLeXZKcTFDQ0ZVYjVmY3VJSnp4YldKd1FnRjJWWEYyMlluVE12QlRkVjdWcEQ4dEdTZm82VGRxZVVBbjB4QncxMFJiRHJ5ZWo0ajBwNlVaVlY0NnRab0lUTEhCM2JfRlV0aUg5WEswQUNmZER6TjA5Y2hn0gGrAUFVX3lxTE1ySzJneXE0NkJ2YWlKMFZMM05JVlBWMnE2ZEstQmRTZDBKSTNsWV9yX1phdTQ5aG9tbVNEWEZyVldORGNGRkNlRll2VkJuVWNlQzAwaFNHYTA2M01fVUEtN1YwNU1Ga0QyclNTNThjaTYyTzVnOVBkWkJOeTZueTFXcS1Ec21ielRHMHFMT0VvckVVWmVOQlRTbW5VaU9HOUxWYm5EMmRYaVYxQQ?oc=5\" target=\"_blank\">DIU hits Russian air defense infrastructure in Crimea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ukrinform</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLVFDRV9VMW5uVEtpc1U4QjdkMjhlWHNuc2JEcW0zcXgyRC1DWU52bVh4ZnJDWTRYY2EwUWVvaEg2NlFER211ODAwUy1PemtOdGg1TUhreGNOUlJ2WjhVU1BrZElBS3ppcVNSN0E2WXMwVEVwTzBfbWVFV3BuY09ndk9lZzVtQ0ZMYzkxaldTVWczYldq?oc=5",
-        "date": "2025-08-31",
-        "title": "XRP\u2019s Emerging Role as a Global Payments Infrastructure Pillar - AInvest",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQLVFDRV9VMW5uVEtpc1U4QjdkMjhlWHNuc2JEcW0zcXgyRC1DWU52bVh4ZnJDWTRYY2EwUWVvaEg2NlFER211ODAwUy1PemtOdGg1TUhreGNOUlJ2WjhVU1BrZElBS3ppcVNSN0E2WXMwVEVwTzBfbWVFV3BuY09ndk9lZzVtQ0ZMYzkxaldTVWczYldq?oc=5\" target=\"_blank\">XRP\u2019s Emerging Role as a Global Payments Infrastructure Pillar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUXBOZmxVY0RxVkhRZHVYRnBFeDgxXzl2STNTUTdBY1RRM25BazhDZ3dIM25Vck5pX0RCeXBxOHBrVEFyVUx0V0p0TUdoSkV5aVA4TzBDQkE0RS1mZnNGQ3JWQXlJUlBldmZoNmJZRk1Eam1lZ3BFZ3hwZk5YVG1DSnQwYWE3N3dydC01cnZwVXhzWlZkRG0wLVRyLXI0MzB3eG1JbUlLcUxzeU9JZHJXQ0Y0YjA?oc=5",
-        "date": "2025-08-31",
-        "title": "Metrospeed Advances Metro Smart City, Hosts Chevron Interns on Project Tour - thisdaylive",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNUXBOZmxVY0RxVkhRZHVYRnBFeDgxXzl2STNTUTdBY1RRM25BazhDZ3dIM25Vck5pX0RCeXBxOHBrVEFyVUx0V0p0TUdoSkV5aVA4TzBDQkE0RS1mZnNGQ3JWQXlJUlBldmZoNmJZRk1Eam1lZ3BFZ3hwZk5YVG1DSnQwYWE3N3dydC01cnZwVXhzWlZkRG0wLVRyLXI0MzB3eG1JbUlLcUxzeU9JZHJXQ0Y0YjA?oc=5\" target=\"_blank\">Metrospeed Advances Metro Smart City, Hosts Chevron Interns on Project Tour</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thisdaylive</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNEVrSjdtQTFyTlRvQXFDbElRRDVxclhRQjdoR09zMWczbTUwbkM0bnE3ekR5VUhGZkFjTlpiQlNSODdSWUtUZTJNVGFFWWY2RlpjNGNDQlFXTjVONXhtcWdGS2hsODl0VWM1NlNzQ2pXS1Zpb2xzaWcydEhuU19tS2JJRkhobVV1dUFpa29hcXNfZy1o?oc=5",
-        "date": "2025-08-31",
-        "title": "Chamath Palihapitiya envisions decentralized stablecoin infrastructure reducing costs - Traders Union",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNEVrSjdtQTFyTlRvQXFDbElRRDVxclhRQjdoR09zMWczbTUwbkM0bnE3ekR5VUhGZkFjTlpiQlNSODdSWUtUZTJNVGFFWWY2RlpjNGNDQlFXTjVONXhtcWdGS2hsODl0VWM1NlNzQ2pXS1Zpb2xzaWcydEhuU19tS2JJRkhobVV1dUFpa29hcXNfZy1o?oc=5\" target=\"_blank\">Chamath Palihapitiya envisions decentralized stablecoin infrastructure reducing costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQVhLbFA3czJnZHhpZHZfd3dTckpYUEQ1SmxEWlVoTnhGOXBXNWpZZ0JaUE9sZC1aa1pFU1FhU1RYeS1UTUNDNjZrNEMwMGRsNzVzaDBzTzhXczhjNjU4bjlVLV9aR2didXNVSl9USktUN3YzQTIxUzRfTXFqbEY5ZS0xRWFlQ2VjZ3VwUVAtVkFjbERFa09qSzh2cWNLbjNuSFkyY19LOHVkWkp5WTczVXh6OA?oc=5",
-        "date": "2025-08-31",
-        "title": "Russia Is Waging War on European Critical Infrastructure - The National Interest",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPQVhLbFA3czJnZHhpZHZfd3dTckpYUEQ1SmxEWlVoTnhGOXBXNWpZZ0JaUE9sZC1aa1pFU1FhU1RYeS1UTUNDNjZrNEMwMGRsNzVzaDBzTzhXczhjNjU4bjlVLV9aR2didXNVSl9USktUN3YzQTIxUzRfTXFqbEY5ZS0xRWFlQ2VjZ3VwUVAtVkFjbERFa09qSzh2cWNLbjNuSFkyY19LOHVkWkp5WTczVXh6OA?oc=5\" target=\"_blank\">Russia Is Waging War on European Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Interest</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDV2X0c0MVYwdE9BZkZMTURwSGNlcjdTMTJsaHlGcFFQUzV6Y3RHNGFqS0tOajlZcUZRZjltVE1yMnRqY0NybUY4N3ZBMDZGUjFSNnQwUms4NVRXZEhGMEtqMXNWNGpxQmhWRm85NDNjdkQ0ZDdFeWpicW5rZWh4bUFxQ1IyRUU0NGdPLUN2YmdJaWVidFowbDVTMWM?oc=5",
-        "date": "2025-08-31",
-        "title": "The Rise of Stablecoin-Driven Financial Infrastructure in Latin America - AInvest",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDV2X0c0MVYwdE9BZkZMTURwSGNlcjdTMTJsaHlGcFFQUzV6Y3RHNGFqS0tOajlZcUZRZjltVE1yMnRqY0NybUY4N3ZBMDZGUjFSNnQwUms4NVRXZEhGMEtqMXNWNGpxQmhWRm85NDNjdkQ0ZDdFeWpicW5rZWh4bUFxQ1IyRUU0NGdPLUN2YmdJaWVidFowbDVTMWM?oc=5\" target=\"_blank\">The Rise of Stablecoin-Driven Financial Infrastructure in Latin America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTk1bk9sVXNYVEdpT3h1UmNvcVd0Y2Y1R1lTTDc2TzRoU0pqRUI4T2lZTG1lRTdueE85OTRpaVBSa2ZlQ3Nnb19CRlNueHZvaUhNckhraVNnMm15cjhvem01X1ViTmxuTWd5NXFUZzl4bUJVMEkya21TRVkzajAwajVfNmhrVkhEOG16WkVaV2Z6alVCb05UQmliRW9wYjJrcmp0bUxpaUp1aHVuSE5hdE1LSERzSDg?oc=5",
-        "date": "2025-08-31",
-        "title": "Little Pepe (LILPEPE): The Meme Coin with Infrastructure, Security, and Scalability to Challenge XRP and Dogecoin - AInvest",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTk1bk9sVXNYVEdpT3h1UmNvcVd0Y2Y1R1lTTDc2TzRoU0pqRUI4T2lZTG1lRTdueE85OTRpaVBSa2ZlQ3Nnb19CRlNueHZvaUhNckhraVNnMm15cjhvem01X1ViTmxuTWd5NXFUZzl4bUJVMEkya21TRVkzajAwajVfNmhrVkhEOG16WkVaV2Z6alVCb05UQmliRW9wYjJrcmp0bUxpaUp1aHVuSE5hdE1LSERzSDg?oc=5\" target=\"_blank\">Little Pepe (LILPEPE): The Meme Coin with Infrastructure, Security, and Scalability to Challenge XRP and Dogecoin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmNtbTAtZnpvSmVCSUxiVF9uSzVraG9qR2JUUGRPT1phclVTcENuMUp4dmxsUHVNc0t1UWZnUVplNEFKVlJZOGZkTkNzZnN2TXVDMVN1VzVCQzlfaHNaZlVUOUNEUjl1ZEwybHJjZGVoZVg0YTdWMDVSWDlrTDViMmMzcEJpUUF1a3RzQmlEbTJzS19DeThkM2NYQmxqWnBSN3FEZnhENENnS3FGVFE?oc=5",
-        "date": "2025-08-31",
-        "title": "Best Infrastructure as Code (IaC) Tools in 2025 for DevOps - Digital Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmNtbTAtZnpvSmVCSUxiVF9uSzVraG9qR2JUUGRPT1phclVTcENuMUp4dmxsUHVNc0t1UWZnUVplNEFKVlJZOGZkTkNzZnN2TXVDMVN1VzVCQzlfaHNaZlVUOUNEUjl1ZEwybHJjZGVoZVg0YTdWMDVSWDlrTDViMmMzcEJpUUF1a3RzQmlEbTJzS19DeThkM2NYQmxqWnBSN3FEZnhENENnS3FGVFE?oc=5\" target=\"_blank\">Best Infrastructure as Code (IaC) Tools in 2025 for DevOps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Journal</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV3pOUFdudUVWZFpNaTZkV29EZFlsT09ySUtXQ2tnWmFCdF9RV2tzbjFLMzcxb295d3hqZWktbmlKdi1RXzBzblhtTUg5dVcyT2hYb3hNUlk0eXdJMUgzYXRXR2RlUGVsem1yVUdiVG9kc2ZTem1Vb2pMUVZhXzl0Z2ZPd2pjLWtudmNidXlhQ0dIS3d0cWhMeXJKUWZfUENVMkhQOENoanhxdUdYTk5DRGt5aDk2LVRHemVqN2VGeV9vNk5WaWc?oc=5",
-        "date": "2025-08-31",
-        "title": "Infrastructure Opportunity Outlook by IMPACCT.Info - Construction World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPV3pOUFdudUVWZFpNaTZkV29EZFlsT09ySUtXQ2tnWmFCdF9RV2tzbjFLMzcxb295d3hqZWktbmlKdi1RXzBzblhtTUg5dVcyT2hYb3hNUlk0eXdJMUgzYXRXR2RlUGVsem1yVUdiVG9kc2ZTem1Vb2pMUVZhXzl0Z2ZPd2pjLWtudmNidXlhQ0dIS3d0cWhMeXJKUWZfUENVMkhQOENoanhxdUdYTk5DRGt5aDk2LVRHemVqN2VGeV9vNk5WaWc?oc=5\" target=\"_blank\">Infrastructure Opportunity Outlook by IMPACCT.Info</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction World</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOamdTYzBleTIzenFlN1hSUVFjLWt3UnVDaVA4dF9ON3N6dlVpemphQ2ZfSlZmSUdsc21mV3BoUEI3ZXVGX3JtaVdZTW0yOFBCaXhaclVIZjlrb2ZWVjdWanFSbzZUTXZuNDMtNmFPdG1mdmphR0RrelpNS1BpX01rNGJ2UXV5YkRzRFFCQm44eUJFX190NTFUek9veUMtSHozSTYwT1l2YkhmQnFzQXhCdkc4OHd3Y2FZbkxxSFpnNUMtdkJ4YUE?oc=5",
-        "date": "2025-08-31",
-        "title": "The Resurgence of Stablecoin Infrastructure: Why VC-Backed Platforms Like Rain and M^0 Are Cornerstones of the Next Crypto Bull Run - AInvest",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOamdTYzBleTIzenFlN1hSUVFjLWt3UnVDaVA4dF9ON3N6dlVpemphQ2ZfSlZmSUdsc21mV3BoUEI3ZXVGX3JtaVdZTW0yOFBCaXhaclVIZjlrb2ZWVjdWanFSbzZUTXZuNDMtNmFPdG1mdmphR0RrelpNS1BpX01rNGJ2UXV5YkRzRFFCQm44eUJFX190NTFUek9veUMtSHozSTYwT1l2YkhmQnFzQXhCdkc4OHd3Y2FZbkxxSFpnNUMtdkJ4YUE?oc=5\" target=\"_blank\">The Resurgence of Stablecoin Infrastructure: Why VC-Backed Platforms Like Rain and M^0 Are Cornerstones of the Next Crypto Bull Run</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVV8xbzFRYzFvSkgyWTN0bVNSX0ZKZEFXM2ZNekp6dGFudzliZ2ZjZVdydFotcnJnamNfWUZncUU5M0szMWMtMnhXd3NGaWV3T1NOT1RCcEhoV1FDM1ZXU3BGbHp3NjludktYWmtEUENtaGtLcDlGRnRiUXFZTWZjaGk2QW54LUJLNFlXNnFvb3BwcDEtU2FNbXlaM3h4bGtEVG4yN3F3OXd5WVQ5UFQwY3VfWWY2UERqZ3AwaFUxUG9KcG81Y1pYaUJmXy1fREZGYmdzeFJOV0NfakNWWndhTW5BVXhsMnhXVk9v?oc=5",
-        "date": "2025-08-31",
-        "title": "Ripple\u2019s Silent Revolution: RLUSD and XRP Infrastructure Creates Foundation for Internet of Value - TradingView",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVV8xbzFRYzFvSkgyWTN0bVNSX0ZKZEFXM2ZNekp6dGFudzliZ2ZjZVdydFotcnJnamNfWUZncUU5M0szMWMtMnhXd3NGaWV3T1NOT1RCcEhoV1FDM1ZXU3BGbHp3NjludktYWmtEUENtaGtLcDlGRnRiUXFZTWZjaGk2QW54LUJLNFlXNnFvb3BwcDEtU2FNbXlaM3h4bGtEVG4yN3F3OXd5WVQ5UFQwY3VfWWY2UERqZ3AwaFUxUG9KcG81Y1pYaUJmXy1fREZGYmdzeFJOV0NfakNWWndhTW5BVXhsMnhXVk9v?oc=5\" target=\"_blank\">Ripple\u2019s Silent Revolution: RLUSD and XRP Infrastructure Creates Foundation for Internet of Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHNhX0lpWTlENVBXMmJGTklRT3RTX0c4WFpkRlVYRkZLdTR4cDJ4LTBXWHhRT0ljY1dEWXJVQkR2Y2dnanVUVlViMVBPRm5EX0Fab0J2VEtleXVsY2hhbXhNcDZhQ0FyTy03M2wyQ19RekVueXRTeWZxSGxsR1hTbE5iZnVKclU3OENYWWRiVEJ4RG5xV0liWFBoa254cFNEQW5vOWVFR05ZR2FQazhtcXVGV0tkOE0?oc=5",
-        "date": "2025-08-31",
-        "title": "Circle Internet Group (CRCL): The Undervalued Powerhouse in AI-Driven Energy Infrastructure - AInvest",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHNhX0lpWTlENVBXMmJGTklRT3RTX0c4WFpkRlVYRkZLdTR4cDJ4LTBXWHhRT0ljY1dEWXJVQkR2Y2dnanVUVlViMVBPRm5EX0Fab0J2VEtleXVsY2hhbXhNcDZhQ0FyTy03M2wyQ19RekVueXRTeWZxSGxsR1hTbE5iZnVKclU3OENYWWRiVEJ4RG5xV0liWFBoa254cFNEQW5vOWVFR05ZR2FQazhtcXVGV0tkOE0?oc=5\" target=\"_blank\">Circle Internet Group (CRCL): The Undervalued Powerhouse in AI-Driven Energy Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONFRobzdnQjQySnFJMkxuODI4RUl5MmZDOTg3QmRybFZGeWxXcUg5aDlqMzJEMWRENHBVa3RQOU9yVXUwdFRwbDZxOHpWMWJEUHNnTFRVa1RwVHVvVXpEbDRMOEJWQk5IOTc5NWVUX2gwN3ZIcGY3bklpekhRSDVIcjZiUGlUd1NDOEc4MERMbFZibGZRem9WbFBkWXJoQXVSTUNRMmFmak0?oc=5",
-        "date": "2025-08-31",
-        "title": "Infrastructure Stocks To Keep An Eye On - August 30th - MarketBeat",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONFRobzdnQjQySnFJMkxuODI4RUl5MmZDOTg3QmRybFZGeWxXcUg5aDlqMzJEMWRENHBVa3RQOU9yVXUwdFRwbDZxOHpWMWJEUHNnTFRVa1RwVHVvVXpEbDRMOEJWQk5IOTc5NWVUX2gwN3ZIcGY3bklpekhRSDVIcjZiUGlUd1NDOEc4MERMbFZibGZRem9WbFBkWXJoQXVSTUNRMmFmak0?oc=5\" target=\"_blank\">Infrastructure Stocks To Keep An Eye On - August 30th</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaG1VMGxPU2swRk5EZWsxdzQ1emd5ZmNpcUJBWmJRYm1MV2JDOTFBM0ZzNjZYdjFySVNLblY2MWw4UHNvMmI3Z183aGpwVjhKalYzcnVVNklZQVpKYTJSeWp3YXVrbC01VUFnS1J5R2FMb0lNaXdsZUlNX0xRd0FsMkZPMklLTGdEQUo4M3c5SWZCR29UbEpv?oc=5",
-        "date": "2025-08-31",
-        "title": "What MACD and RSI say about Mobile Infrastructure Corporation - 2025 Volatility Report & Growth Focused Entry Point Reports - Newser",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPaG1VMGxPU2swRk5EZWsxdzQ1emd5ZmNpcUJBWmJRYm1MV2JDOTFBM0ZzNjZYdjFySVNLblY2MWw4UHNvMmI3Z183aGpwVjhKalYzcnVVNklZQVpKYTJSeWp3YXVrbC01VUFnS1J5R2FMb0lNaXdsZUlNX0xRd0FsMkZPMklLTGdEQUo4M3c5SWZCR29UbEpv?oc=5\" target=\"_blank\">What MACD and RSI say about Mobile Infrastructure Corporation - 2025 Volatility Report & Growth Focused Entry Point Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newser</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2025-09-01",
         "status": "posted",
         "tweet": "In 2025, Bitcoin's annual hardware costs for mining reach $10 billion, compared to Ethereum's $1.5 billion for validator nodes.\n\nThe majority of Bitcoin's hardware is concentrated in \u2691 China and \u2691 United States, while Ethereum's is more distributed across \u2691 Europe and \u2691 Asia.",
@@ -3535,5 +3243,46 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.  \nData center energy consumption in 2020: Approximately 791,000 MWh.  \nDecrease of 6.2% from 2019 levels.  \n\ud83d\udcbb $AAPL.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ2hMOHBwVzBzNFFEVzNNQmJudkVwS3lyc2FqbUNjano2RksxQlVpUkZfZENEVkJJMlk3UllzOFR5bVJIak1ZcktaaXJkVkppdVZiSlJlaWhhdkRCV180Zm8zYUNoNnByVmcwa0VqMTE2elRDVEpPRXE2ZVROYVlEc0o4VTJvcmxvb1NDYzNqbUZLY0NSdm5INkxQUmpaekVXeTBaV0loWUlmdw?oc=5",
+        "date": "2025-09-10",
+        "title": "Brisbane Roar Renews Platinum Partnership with Construction Skills Queensland - Ministry of Sport",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ2hMOHBwVzBzNFFEVzNNQmJudkVwS3lyc2FqbUNjano2RksxQlVpUkZfZENEVkJJMlk3UllzOFR5bVJIak1ZcktaaXJkVkppdVZiSlJlaWhhdkRCV180Zm8zYUNoNnByVmcwa0VqMTE2elRDVEpPRXE2ZVROYVlEc0o4VTJvcmxvb1NDYzNqbUZLY0NSdm5INkxQUmpaekVXeTBaV0loWUlmdw?oc=5\" target=\"_blank\">Brisbane Roar Renews Platinum Partnership with Construction Skills Queensland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ministry of Sport</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR0N6LWMyLU1xTHBUblpMcGNYUldFU3lXSVZZbmtaTW0ya2tPbHZCWXRJVGozeE5qSTU0UXB5dGRNZWZQWUdFd3pPS0FkdkltaEFrZzF1QzFUY2doczJGTWtFM0xtaW1ONmxDTFU4d2xzZzNQZHpCUnhCODdJdTJLSUxMVFN0T2hiTE5BeDRkajhtcmVzTHZHVUZuLXRlSkpIWUxRc20zU3RJZkZHeDdkTmNXSVc3SElSQWlfb19Zc2x6OV9YVWtpMEVDY08xQndkQ1FzZXJ30gHbAUFVX3lxTFBuZnZFN016X1VaV2RZWG9NTUVTbE45a1NhTEtienVFVGZEV2tPb0NxaEdSbmwzQTdGeHR6SVlMQjVZMlpRbnhsVTVETF90OF9HWEhuak12YjlxX1Z1LVZpM216VEJER1ZMcjBtaDFYNmJDbzlwVUdMNWlVWFB1dWEzY1daaE5oU3BXX1ViaVM3dkk0cS1Kei1vT0xUMVVkVUlmcUk4UmVBb2tsYV8tcXpKTUYtalV0VmkweUkwUkcxSWNTajdkQ3hoRWowTWJmeTYwVXh2WW5xTDBrbw?oc=5",
+        "date": "2025-09-10",
+        "title": "25 more city junctions to get smart AI-based traffic signals - Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR0N6LWMyLU1xTHBUblpMcGNYUldFU3lXSVZZbmtaTW0ya2tPbHZCWXRJVGozeE5qSTU0UXB5dGRNZWZQWUdFd3pPS0FkdkltaEFrZzF1QzFUY2doczJGTWtFM0xtaW1ONmxDTFU4d2xzZzNQZHpCUnhCODdJdTJLSUxMVFN0T2hiTE5BeDRkajhtcmVzTHZHVUZuLXRlSkpIWUxRc20zU3RJZkZHeDdkTmNXSVc3SElSQWlfb19Zc2x6OV9YVWtpMEVDY08xQndkQ1FzZXJ30gHbAUFVX3lxTFBuZnZFN016X1VaV2RZWG9NTUVTbE45a1NhTEtienVFVGZEV2tPb0NxaEdSbmwzQTdGeHR6SVlMQjVZMlpRbnhsVTVETF90OF9HWEhuak12YjlxX1Z1LVZpM216VEJER1ZMcjBtaDFYNmJDbzlwVUdMNWlVWFB1dWEzY1daaE5oU3BXX1ViaVM3dkk0cS1Kei1vT0xUMVVkVUlmcUk4UmVBb2tsYV8tcXpKTUYtalV0VmkweUkwUkcxSWNTajdkQ3hoRWowTWJmeTYwVXh2WW5xTDBrbw?oc=5\" target=\"_blank\">25 more city junctions to get smart AI-based traffic signals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://infrastructuremagazine.com.au/261-million-newell-highway-upgrade-wraps-up/",
+        "date": "2025-09-10",
+        "title": "$261 million Newell Highway upgrade wraps up",
+        "summary": "<figure><img alt=\"\" src=\"https://infrastructuremagazine.com.au/wp-content/uploads/2025/09/newell-highway-nsw-regionalAdobeStock_456179731.jpeg\" style=\"float: right; margin: 0 0 10px 10px;\" /><figcaption>Image: Taras Vyshnya/stock.adobe.com</figcaption></figure>A $261 million upgrade to the Newell Highway between Narrabri and Moree has been completed. The final section of the work has delivered the region\u2019s largest heavy vehicle rest area [&#8230;]",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: $261 million Newell Highway upgrade between Narrabri and Moree completed, featuring regions largest heavy vehicle rest area."
+    },
+    {
+        "link": "https://infrastructuremagazine.com.au/261-million-newell-highway-upgrade-wraps-up/",
+        "date": "2025-09-10",
+        "title": "$261 million Newell Highway upgrade wraps up",
+        "summary": "<figure><img alt=\"\" src=\"https://infrastructuremagazine.com.au/wp-content/uploads/2025/09/newell-highway-nsw-regionalAdobeStock_456179731.jpeg\" style=\"float: right; margin: 0 0 10px 10px;\" /><figcaption>Image: Taras Vyshnya/stock.adobe.com</figcaption></figure>A $261 million upgrade to the Newell Highway between Narrabri and Moree has been completed. The final section of the work has delivered the region\u2019s largest heavy vehicle rest area [&#8230;]",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: $261 million Newell Highway upgrade between Narrabri and Moree completed, featuring the regions largest heavy vehicle rest area.",
+        "type": "news"
     }
 ]
