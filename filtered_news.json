@@ -3441,5 +3441,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.'s Q1 data shows strong performance:\n1.5 billion active devices worldwide \ud83c\udf10\n$91.8 billion revenue, up 9% YoY \ud83d\udcb0\nProfit margins of 38.35% \ud83d\udcc8\n\nStock ticker: $AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-09-11",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin has the highest network scalability costs, followed by Ethereum and Solana.\n\n1. Bitcoin: $1.5B annual cost for scaling\n2. Ethereum: $500M annual cost for scaling\n3. Solana: $100M annual cost for scaling",
+        "type": "crypto"
     }
 ]
