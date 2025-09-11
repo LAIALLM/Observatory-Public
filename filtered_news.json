@@ -3315,5 +3315,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: Final stages for West Gate Freeway as construction works on the outbound exit between Williamstown and Millers Road are underway.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-09-11",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d By 2025, 58% of the world's population is expected to live in urban areas. To support the environmental, economic, and social health of these rapidly growing metropolitan hubs, smart city investments are set to reach a staggering $62 billion globally by 2026.",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
