@@ -2941,5 +2941,12 @@
         "status": "posted",
         "tweet": "Bitcoin's annual cloud and data center costs are projected to reach $15 billion by 2025, surpassing the total annual electricity consumption of \ud83c\uddf3\ud83c\uddf1 Netherlands.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-09-12",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc: Processing 200 billion iMessages daily. \nServer capacity: 2.5 million TB.\nPower usage effectiveness (PUE): 1.08.\n$AAPL",
+        "type": "infrastructure"
     }
 ]
