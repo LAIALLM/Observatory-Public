@@ -2585,5 +2585,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-09-13",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin's infrastructure costs have risen most sharply, followed by Ethereum and Solana.\n\n1. Bitcoin: Costs increased 300% from 2017 to 2024.\n2. Ethereum: Costs up 200% over the same period.\n3. Solana: Costs rose 150% since its launch in 2020.",
+        "type": "crypto"
     }
 ]
