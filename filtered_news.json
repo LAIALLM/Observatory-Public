@@ -2701,5 +2701,45 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. ($AAPL) reports the production of 220 million iPhones in 2021, marking a 12.8% increase from the previous year. Energy efficiency of production saw a 15% improvement.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbm1rczg1NEJmZE1OeHJZTEIxUURkSWFRMjhaTHhPTm5YQ2pJaUhBQWRJdVRyWlBzYlJieFQwV2ZZSUhIZUhfcXNPb2ZXMEVxS3dfX0VDS0xvRGdYalNHRzFFX0N6clB2UzNxZ0dVWXczdHJuY1I0d1cyOEtlanJBVWJQc1Q5azNILWJRVXZYX1JhaWNuTzRPUkdUekh0YlhQRFVDRlZrcVRqUVHSAbABQVVfeXFMT1BJOFpHenFvejVQX2RUMjB6MG5iX2tmMVBzSndCU1ZMUkt5Zm1CdDhBUElwVGtwVXBJNWxpOXRUZFM0U2hMYmhnU1ViOUEzYVBweFA5QjJQTkk2VUlMYjZkRHBVNjRsLXRNQ1dKbkwtX0MxUUgtYWNwSm5uWHVrMm5IaHhiUUViaHhQMGVseWZrTl9PWFVyRHFmVkF6cGROY1FqWDQzX0UtWlRFejZwMFE?oc=5",
+        "date": "2025-09-13",
+        "title": "Modi's Mega Infrastructure Boost in Manipur - Devdiscourse",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbm1rczg1NEJmZE1OeHJZTEIxUURkSWFRMjhaTHhPTm5YQ2pJaUhBQWRJdVRyWlBzYlJieFQwV2ZZSUhIZUhfcXNPb2ZXMEVxS3dfX0VDS0xvRGdYalNHRzFFX0N6clB2UzNxZ0dVWXczdHJuY1I0d1cyOEtlanJBVWJQc1Q5azNILWJRVXZYX1JhaWNuTzRPUkdUekh0YlhQRFVDRlZrcVRqUVHSAbABQVVfeXFMT1BJOFpHenFvejVQX2RUMjB6MG5iX2tmMVBzSndCU1ZMUkt5Zm1CdDhBUElwVGtwVXBJNWxpOXRUZFM0U2hMYmhnU1ViOUEzYVBweFA5QjJQTkk2VUlMYjZkRHBVNjRsLXRNQ1dKbkwtX0MxUUgtYWNwSm5uWHVrMm5IaHhiUUViaHhQMGVseWZrTl9PWFVyRHFmVkF6cGROY1FqWDQzX0UtWlRFejZwMFE?oc=5\" target=\"_blank\">Modi's Mega Infrastructure Boost in Manipur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUNBVnFJYjZEVDhkaERoU1Z5Y1BCdjZpelNzM3RoUV9GU0t5WW9sTkNiV0YxYnkzTGpHSEhidGFNRjhWTEhYY0JSMk95YWl6UzB1dzNSTTI0b3hrdG1TanVfRlRKeHZidTBXcFdGVDJGVF8tRkYzWjVCVlBlaGFndTNBXzJucVR4QWZfVnZfcGlmLWVkVHpuNGtraGF4QkIwNnE2MHd1QjhfQWlORG5OUUNRaw?oc=5",
+        "date": "2025-09-13",
+        "title": "Municipal School No.11 in Mira-Bhayandar sets an example in climate smart infrastructure - APN News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUNBVnFJYjZEVDhkaERoU1Z5Y1BCdjZpelNzM3RoUV9GU0t5WW9sTkNiV0YxYnkzTGpHSEhidGFNRjhWTEhYY0JSMk95YWl6UzB1dzNSTTI0b3hrdG1TanVfRlRKeHZidTBXcFdGVDJGVF8tRkYzWjVCVlBlaGFndTNBXzJucVR4QWZfVnZfcGlmLWVkVHpuNGtraGF4QkIwNnE2MHd1QjhfQWlORG5OUUNRaw?oc=5\" target=\"_blank\">Municipal School No.11 in Mira-Bhayandar sets an example in climate smart infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">APN News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNQTZNcUN6T21FSVB0UWZ2SG42VFQ4N0dZbGVZTTBQMzU4WG9wZXpYcldTb2RhR1dkbG82SjRoWTMxWDdsV1ppVnJWc2JiYTFhYVVLRU96MGZET1ppOXpVOU96VkVrdGJFUWdIRUtLWmFJQkFMNkJudTFZaENEOTNyaklGQjIyTXFycmxNbGcwZnRBRE9DOUJ1UFd3ZExyZGtJNUVBbVg5UzlyaFhLNmJIYWstamxkSTk3bkdxLXlSMGVvVGRnYVVQc3BlYTFoVlhWOUF2clY3Qnp4QzB3US1lSmtkR2hELVc3WjZ5RDRZUzVzR21MUE9DNUt3ZXlMa3pyMlNmTVVnZ9IBjAJBVV95cUxPTGV6UWpwRTFrMVdQZkhpY05nSXRsWTVwbXhyVUxRSm0wLVM5ajdHRmktTWdWNVkwMkFmaWVxaVQ5RF83ZHlXNThSVmIwME85NXpNZzRybjdOSElDZndjY2g4UWFQWWRYNkNuRGZxSW1BMlMzbUdOZlFLVnI4YkJ3WFQtZEQxS3BlRWhSWHRNREJQWjFtRVVrQ2FtQVQ2V0pnbFVSRVNsZk5PS3pJbEtNbm1lQnJJdTdIQW51VHhBM3VQRE9VeW1ZR1BtZHdrdEJ4djRBYmVmZnNrMjBZNklkMFB1NFAxbTBiU2cyQkJjZHp1bUhWLXVlbmFTSlZtbEpUWkxfeXBkNEQ0TXYx?oc=5",
+        "date": "2025-09-13",
+        "title": "Projects unveiled today will improve people's lives in Manipur, in terms of infrastructure, healthcare: Modi in Churachandpur. - Devdiscourse",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNQTZNcUN6T21FSVB0UWZ2SG42VFQ4N0dZbGVZTTBQMzU4WG9wZXpYcldTb2RhR1dkbG82SjRoWTMxWDdsV1ppVnJWc2JiYTFhYVVLRU96MGZET1ppOXpVOU96VkVrdGJFUWdIRUtLWmFJQkFMNkJudTFZaENEOTNyaklGQjIyTXFycmxNbGcwZnRBRE9DOUJ1UFd3ZExyZGtJNUVBbVg5UzlyaFhLNmJIYWstamxkSTk3bkdxLXlSMGVvVGRnYVVQc3BlYTFoVlhWOUF2clY3Qnp4QzB3US1lSmtkR2hELVc3WjZ5RDRZUzVzR21MUE9DNUt3ZXlMa3pyMlNmTVVnZ9IBjAJBVV95cUxPTGV6UWpwRTFrMVdQZkhpY05nSXRsWTVwbXhyVUxRSm0wLVM5ajdHRmktTWdWNVkwMkFmaWVxaVQ5RF83ZHlXNThSVmIwME85NXpNZzRybjdOSElDZndjY2g4UWFQWWRYNkNuRGZxSW1BMlMzbUdOZlFLVnI4YkJ3WFQtZEQxS3BlRWhSWHRNREJQWjFtRVVrQ2FtQVQ2V0pnbFVSRVNsZk5PS3pJbEtNbm1lQnJJdTdIQW51VHhBM3VQRE9VeW1ZR1BtZHdrdEJ4djRBYmVmZnNrMjBZNklkMFB1NFAxbTBiU2cyQkJjZHp1bUhWLXVlbmFTSlZtbEpUWkxfeXBkNEQ0TXYx?oc=5\" target=\"_blank\">Projects unveiled today will improve people's lives in Manipur, in terms of infrastructure, healthcare: Modi in Churachandpur.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLW8yWjFoWTVFaVE4QU4yLTlkUTFHb00yNU5lQXcwMi1PWkdBSi12Zjd6dV85VmJEcFpzTXVxUmNQQjFYTW5FTTZwT1dnMXlYdlMxMU55WWszNE4yMEpwQnZvT01wcXFzeUlucHJwcnRGU1ZveUlOZEd1dFRJTF9wQkNWWGZ1V1E3TlQxNGlPLUhWN096VEJ5aXRDeWxDTUUybTVkWHhBNGx1UGFB0gGyAUFVX3lxTFBtR1pQam52Vi1jX19EQjBNQnRuZ1JvVnZTZTExUjlHbThPRU9Pb01vSEtEdU5GaEdTSUFYVlpTV09jdUNPcng4ZEo1ZUdXcHF2TnVLbXZES2I0dkY5ZzhnMU9jamw0X3o5TmJqV01nRlhrWlB2cno5eHl2alFxa2FSUGFLVEF2LVcyU20yWnRLcmdZZ2xTN0Z2TWhXdmpEOEN2YVY0cUUybk1VeWtGeS1BMGc?oc=5",
+        "date": "2025-09-13",
+        "title": "Two Maoists Killed in Bijapur Encounter, Arms and Explosives Seized - The Assam Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQLW8yWjFoWTVFaVE4QU4yLTlkUTFHb00yNU5lQXcwMi1PWkdBSi12Zjd6dV85VmJEcFpzTXVxUmNQQjFYTW5FTTZwT1dnMXlYdlMxMU55WWszNE4yMEpwQnZvT01wcXFzeUlucHJwcnRGU1ZveUlOZEd1dFRJTF9wQkNWWGZ1V1E3TlQxNGlPLUhWN096VEJ5aXRDeWxDTUUybTVkWHhBNGx1UGFB0gGyAUFVX3lxTFBtR1pQam52Vi1jX19EQjBNQnRuZ1JvVnZTZTExUjlHbThPRU9Pb01vSEtEdU5GaEdTSUFYVlpTV09jdUNPcng4ZEo1ZUdXcHF2TnVLbXZES2I0dkY5ZzhnMU9jamw0X3o5TmJqV01nRlhrWlB2cno5eHl2alFxa2FSUGFLVEF2LVcyU20yWnRLcmdZZ2xTN0Z2TWhXdmpEOEN2YVY0cUUybk1VeWtGeS1BMGc?oc=5\" target=\"_blank\">Two Maoists Killed in Bijapur Encounter, Arms and Explosives Seized</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Assam Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
