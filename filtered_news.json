@@ -2694,5 +2694,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Maharashtra approves INR 2,000 crore HUDCO loan to enhance urban infrastructure.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-09-13",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. ($AAPL) reports the production of 220 million iPhones in 2021, marking a 12.8% increase from the previous year. Energy efficiency of production saw a 15% improvement.",
+        "type": "infrastructure"
     }
 ]
