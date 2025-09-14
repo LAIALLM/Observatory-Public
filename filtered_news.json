@@ -2447,5 +2447,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.  \nLast quarter report:  \n- 365 million active devices.  \n- iCloud user base at 850 million.  \n- Energy efficiency up by 12% across all devices.  \n\ud83d\udcca$AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-09-14",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin mining is highly concentrated in \n\ud83c\udde8\ud83c\uddf3 China (65%) and \n\ud83c\uddfa\ud83c\uddf8 USA (20%).\n\nIn contrast, Ethereum mining is more distributed:\n\ud83c\uddfa\ud83c\uddf8 USA (30%),\n\ud83c\uddf7\ud83c\uddfa Russia (20%),\n\ud83c\udde8\ud83c\uddf3 China (15%).",
+        "type": "crypto"
     }
 ]
