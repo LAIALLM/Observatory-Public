@@ -2536,5 +2536,26 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmRwdVRYOUs1UWtNZjRhTnVxN1ROQ0lLTmpwZmRIbW5IR1BiN2ZSQWZ3NHNwV0VxSzV1WnZiQkp4NThoQWRFZ2VFWW5jV1BtSENLTjFtNXpUREdvbzNQdWdpa2N2OGc3QUFrcXdVUGQ1ZzRtYkhqTG5UUFA4alNoX1pSUmFDQTk2M015THpRRmFBNVpKLUE?oc=5",
+        "date": "2025-09-14",
+        "title": "China set to open world\u2019s tallest bridge, expanding infrastructure push - The Washington Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmRwdVRYOUs1UWtNZjRhTnVxN1ROQ0lLTmpwZmRIbW5IR1BiN2ZSQWZ3NHNwV0VxSzV1WnZiQkp4NThoQWRFZ2VFWW5jV1BtSENLTjFtNXpUREdvbzNQdWdpa2N2OGc3QUFrcXdVUGQ1ZzRtYkhqTG5UUFA4alNoX1pSUmFDQTk2M015THpRRmFBNVpKLUE?oc=5\" target=\"_blank\">China set to open world\u2019s tallest bridge, expanding infrastructure push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: China set to open worlds tallest bridge, expanding infrastructure push."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmRwdVRYOUs1UWtNZjRhTnVxN1ROQ0lLTmpwZmRIbW5IR1BiN2ZSQWZ3NHNwV0VxSzV1WnZiQkp4NThoQWRFZ2VFWW5jV1BtSENLTjFtNXpUREdvbzNQdWdpa2N2OGc3QUFrcXdVUGQ1ZzRtYkhqTG5UUFA4alNoX1pSUmFDQTk2M015THpRRmFBNVpKLUE?oc=5",
+        "date": "2025-09-14",
+        "title": "China set to open world\u2019s tallest bridge, expanding infrastructure push - The Washington Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmRwdVRYOUs1UWtNZjRhTnVxN1ROQ0lLTmpwZmRIbW5IR1BiN2ZSQWZ3NHNwV0VxSzV1WnZiQkp4NThoQWRFZ2VFWW5jV1BtSENLTjFtNXpUREdvbzNQdWdpa2N2OGc3QUFrcXdVUGQ1ZzRtYkhqTG5UUFA4alNoX1pSUmFDQTk2M015THpRRmFBNVpKLUE?oc=5\" target=\"_blank\">China set to open world\u2019s tallest bridge, expanding infrastructure push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: China set to open worlds tallest bridge, expanding infrastructure push",
+        "type": "news"
     }
 ]
