@@ -2329,5 +2329,85 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin has the highest network scalability costs, followed by Ethereum and Solana.\n\n1. Bitcoin: $1.5B annual cost for 7 TPS\n2. Ethereum: $500M annual cost for 30 TPS\n3. Solana: $100M annual cost for 2,000 TPS",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbEdfb1A2c0xtdWdMb1A4VHpRNmFucEFpM0tyR3Vid3M4cmtjZzBoaVJjX3lnX2VCUEl1QU1EandDQVVxbHhzUmJoX2lYVm5SWVpHYjhIZzlZR0J6bjdaNmVIN2NfNEdIc19HVnhKa21UQUhMSkxrT05XRGc2ZURMeTFqYUJrMk9sSW4yM1RFbXpMV2NvUEtiMnFMSlpfSVltZ2E2WUJHbw?oc=5",
+        "date": "2025-09-15",
+        "title": "Construction workers are dying and being injured because of negligence - The Mail & Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPbEdfb1A2c0xtdWdMb1A4VHpRNmFucEFpM0tyR3Vid3M4cmtjZzBoaVJjX3lnX2VCUEl1QU1EandDQVVxbHhzUmJoX2lYVm5SWVpHYjhIZzlZR0J6bjdaNmVIN2NfNEdIc19HVnhKa21UQUhMSkxrT05XRGc2ZURMeTFqYUJrMk9sSW4yM1RFbXpMV2NvUEtiMnFMSlpfSVltZ2E2WUJHbw?oc=5\" target=\"_blank\">Construction workers are dying and being injured because of negligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mail & Guardian</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNazMzQnRWdlJqbXR5TE8wVDJ0VmdpWFpEZmhyNTlfV2xNOG9EY2diQTVGMGFJaTAxc29wQ29sOEw0STFVaEczSmFqXzhveDdpQ2wycl8yV2loX1lLTHptOS1ocnhUQzNTSWVnNzRQTlI3V0w2ZkphYjZJUlJ4bVZSOFh0Z1g1dWtuS0ZzSWhxczEzVHhWOC1zanM5RG1MNTRMQlppcmRaM2dNVXktaHZtbGF1NTdqX2xmSnQ3c3I5WHFheC1XTVlBMlV5UVR3ZEJvY1lHaQ?oc=5",
+        "date": "2025-09-15",
+        "title": "RDB Infrastructure and Power Adjusts Evaluation Amid Mixed Financial Indicators and Market Sentiment - Markets Mojo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNazMzQnRWdlJqbXR5TE8wVDJ0VmdpWFpEZmhyNTlfV2xNOG9EY2diQTVGMGFJaTAxc29wQ29sOEw0STFVaEczSmFqXzhveDdpQ2wycl8yV2loX1lLTHptOS1ocnhUQzNTSWVnNzRQTlI3V0w2ZkphYjZJUlJ4bVZSOFh0Z1g1dWtuS0ZzSWhxczEzVHhWOC1zanM5RG1MNTRMQlppcmRaM2dNVXktaHZtbGF1NTdqX2xmSnQ3c3I5WHFheC1XTVlBMlV5UVR3ZEJvY1lHaQ?oc=5\" target=\"_blank\">RDB Infrastructure and Power Adjusts Evaluation Amid Mixed Financial Indicators and Market Sentiment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Markets Mojo</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaM1ZlZ09od3o2V1FVdm5EQkZkTmQxekExZGtRd3ZWOVhuTWdFSjY2UW56cHhoZldkUElsX0FHcVphOWlVa2lwX0loSmpUX1BTWDJNd1ktOGJpVHhyaENwUXFLemRGamdzQWxIWUROMEg?oc=5",
+        "date": "2025-09-15",
+        "title": "American Tower among potential bidders in latest attempt to sell TDF Infrastructure - Financial Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBaM1ZlZ09od3o2V1FVdm5EQkZkTmQxekExZGtRd3ZWOVhuTWdFSjY2UW56cHhoZldkUElsX0FHcVphOWlVa2lwX0loSmpUX1BTWDJNd1ktOGJpVHhyaENwUXFLemRGamdzQWxIWUROMEg?oc=5\" target=\"_blank\">American Tower among potential bidders in latest attempt to sell TDF Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRXROVjNvV0FZX0RIVTZNX2VXMUdYSmNNald6WUpGd0RDTjQyeUN3TEh6UEJvbmQwQVpicHlCUXgzbzVMVmV3dU96S1lGTy1oNDRpUnJmSjBQZmlsZm42czVXSjVBWmd6WVpPMW0wbnAxaDRMS2pVSTNZcHNCcmVYQVdWdnpvVGw4cGQtT3VxbFVOQjFmYXdDaklFazc5dTQtMHhMcGVobVNSbDNSV2E1YmtoWVBFUnFYOW85RXpSX2NiOUVzcUdtMFFHUkc?oc=5",
+        "date": "2025-09-15",
+        "title": "Philippines' Marcos says no one will be spared in infrastructure corruption probe - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPRXROVjNvV0FZX0RIVTZNX2VXMUdYSmNNald6WUpGd0RDTjQyeUN3TEh6UEJvbmQwQVpicHlCUXgzbzVMVmV3dU96S1lGTy1oNDRpUnJmSjBQZmlsZm42czVXSjVBWmd6WVpPMW0wbnAxaDRMS2pVSTNZcHNCcmVYQVdWdnpvVGw4cGQtT3VxbFVOQjFmYXdDaklFazc5dTQtMHhMcGVobVNSbDNSV2E1YmtoWVBFUnFYOW85RXpSX2NiOUVzcUdtMFFHUkc?oc=5\" target=\"_blank\">Philippines' Marcos says no one will be spared in infrastructure corruption probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN0YycFZZV2U4YTZkLUFMcWFmaWxrcGUxSGp5a3dIZk1zVEVQVGd3aXF3TVJScUR0ZHFIa2lUR0l1MExBczNzY2NyanFsdkp4b2tmWDZtZy00ejVYdFlsQ3FQS2l5Vl8tZDRtMTR4eTAyVHZHbHlVOXNiUGRsTVlYd2dpMUx4Z2xTTGQyTWYycWJqMkpYYmNPNUNPS21hanZfVGNfNlBzTWU3S1htc3hWcHplc2RxWWs3bV96SmxmTllmZEV4bktzTm0zZlBPN0RqYW5tWWpjMk5JTDg?oc=5",
+        "date": "2025-09-15",
+        "title": "Parliamentary Standing Committee on Industry visits GIFT City; Studies various aspects of GIFT City Model - Passionate In Marketing",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN0YycFZZV2U4YTZkLUFMcWFmaWxrcGUxSGp5a3dIZk1zVEVQVGd3aXF3TVJScUR0ZHFIa2lUR0l1MExBczNzY2NyanFsdkp4b2tmWDZtZy00ejVYdFlsQ3FQS2l5Vl8tZDRtMTR4eTAyVHZHbHlVOXNiUGRsTVlYd2dpMUx4Z2xTTGQyTWYycWJqMkpYYmNPNUNPS21hanZfVGNfNlBzTWU3S1htc3hWcHplc2RxWWs3bV96SmxmTllmZEV4bktzTm0zZlBPN0RqYW5tWWpjMk5JTDg?oc=5\" target=\"_blank\">Parliamentary Standing Committee on Industry visits GIFT City; Studies various aspects of GIFT City Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Passionate In Marketing</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbU5uZzFtdEkzSXo3Rm5OUnpRZTQ3UUJISnpab3pjUzdXY0MtaUdlTFd6aG8wQ3RlaENtRE5jUWIwUUJPSGRheEx0MlRVcU9qa01sZVNFY0xQMGtlTnJERHRLeXBsQnlEcGVwRS1Rd2EwczMwa014b1hOYzhJZ0lRUXltWnZEVFlBWmlfdmplVURaMjVVdmZMWkc3S0RwSUI2QUZ6THhXc0V3VlZ5eExHSHdITjhjWjDSAcQBQVVfeXFMT3Bscm5NRzc4QUlFekloSzY1cHJtV3hDb2tFMXU3WnptbWtNc2U1Q1RBeEhsaEZ0dkt0NHA3S29Gekh0MVhsUkZoN0l5blBNNnVpWHNhMld0N0JNTm1OWVlaUkxHRnpQQzFQZFp3dEpBLXhuMGpHazNjRGwzX2ZMb3NFOXlQMW8yeGpCRF8xYWtqNlFDa1ZqcGlRNW1jN0drdzl4b0FUblJRb3FVMFJCalhkRFhnMFJZZTRoSldBZzJSZ21uTw?oc=5",
+        "date": "2025-09-15",
+        "title": "Smart city or sinking city? Guwahati residents slam civic betrayal - sentinelassam.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNbU5uZzFtdEkzSXo3Rm5OUnpRZTQ3UUJISnpab3pjUzdXY0MtaUdlTFd6aG8wQ3RlaENtRE5jUWIwUUJPSGRheEx0MlRVcU9qa01sZVNFY0xQMGtlTnJERHRLeXBsQnlEcGVwRS1Rd2EwczMwa014b1hOYzhJZ0lRUXltWnZEVFlBWmlfdmplVURaMjVVdmZMWkc3S0RwSUI2QUZ6THhXc0V3VlZ5eExHSHdITjhjWjDSAcQBQVVfeXFMT3Bscm5NRzc4QUlFekloSzY1cHJtV3hDb2tFMXU3WnptbWtNc2U1Q1RBeEhsaEZ0dkt0NHA3S29Gekh0MVhsUkZoN0l5blBNNnVpWHNhMld0N0JNTm1OWVlaUkxHRnpQQzFQZFp3dEpBLXhuMGpHazNjRGwzX2ZMb3NFOXlQMW8yeGpCRF8xYWtqNlFDa1ZqcGlRNW1jN0drdzl4b0FUblJRb3FVMFJCalhkRFhnMFJZZTRoSldBZzJSZ21uTw?oc=5\" target=\"_blank\">Smart city or sinking city? Guwahati residents slam civic betrayal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sentinelassam.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/61347-construction-suicide-prevention-efforts-grow-as-aec-firms-focus-on-mental-health-care",
+        "date": "2025-09-15",
+        "title": "Construction Suicide Prevention Efforts Grow as AEC Firms Focus on Mental Health Care",
+        "summary": "<p>\u201cTackling mental health in construction is not a one-and-done effort,\u201d says Bechtel Chairman and CEO Brendan Bechtel, founding member of the CEO Advisory Council on industry suicide prevention.</p>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://infrastructuremagazine.com.au/engineers-australia-waives-admin-fee-for-new-members/",
+        "date": "2025-09-15",
+        "title": "Engineers Australia waives admin fee for new members",
+        "summary": "<figure><img alt=\"\" src=\"https://infrastructuremagazine.com.au/wp-content/uploads/2025/09/Editorial-image-1-small.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" /><figcaption>Image: Engineers Australia</figcaption></figure>Engineers Australia has extended its membership promotion. Engineers Australia is waiving the $105 administration fee for new members who join before 30 September. The offer applies only to first-time memberships [&#8230;]",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
