@@ -3041,5 +3041,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Adanis Rs 4031 cr ropeway project will reduce the 9-hour Kedarnath Yatra trek to just 36 minutes.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-09-15",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. ($AAPL) reports impressive stats: \n\nQ1 2022 - 95.6M iPhones sold. \n35.2% increase YoY. \n\nGlobal market share: \n15.8%, up 1.1% from 2021.",
+        "type": "infrastructure"
     }
 ]
