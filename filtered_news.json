@@ -3291,5 +3291,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Construction begins on $152M Port Everglades bulkhead project to upgrade seawalls from the 1950s for better resilience against rising seas and storm surges.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-09-16",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3India is set to overcome \ud83c\udde8\ud83c\uddf3China as the world's most populous country by 2027, reaching 1.44 billion people. \n\nSurprisingly, \ud83c\uddf3\ud83c\uddec Nigeria is projected to surpass \ud83c\uddfa\ud83c\uddf8U.S. as the third most populous country by 2050, with an expected population of 400 million.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
