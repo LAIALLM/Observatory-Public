@@ -1,169 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-09-06",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. (NASDAQ: $AAPL)\n\nQ2 2021 figures: \n\n- Total revenue: $81.4 billion \n- Increase in iPhone sales: 50%\n- Net income: $21.7 billion, up 93%\n- Earnings per diluted share: $1.30 \n\nApple services reached all-time high revenue with $17.5 billion. Powerful quarter.",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2025-09-06",
-        "status": "posted",
-        "tweet": "In 2025, Bitcoin's network scalability costs reached $5.2 billion annually, while Ethereum's costs were significantly lower at $1.8 billion.\n\nThe difference is attributed to Bitcoin's proof-of-work vs. Ethereum's proof-of-stake consensus mechanisms.",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdDFFSnc2QUhjUk9FOXB4VXBEUTA3Qm1WNUdZZDhwbUM0ZlowbGI5WTExUEQ2SUR1eUgtODlyS1dqUEl3cTRab3l4blJXV2NjMEpWaHhmaWxMSHR6QjN4M0NJRy0wVVUzV0xtQkVFS1c2Q01HNjM0bWpPV2Z2NFRVZG05ejlaYnpxVDM2Tk1qSDAySEpmVWpSc2FyVdIBoAFBVV95cUxOMWFfY3pZalpYUWxPT1JCUnM3SFp1d3ladThDbzVaS1FKLWtCVEI1WHZQT1B1eHJBMHdLZmdyT09xSWJRZ2lhem9UaGVwMnVUaV8tcV8zUVp0cjB3Tkdyb21XMGNqNVIxVFFJa29ENTMxaDNPcE5qMldmNEk1TENLd01UdzdvalFldmFNWldaWkVKSEd3RDg2UnpLanVMSWp6?oc=5",
-        "date": "2025-09-06",
-        "title": "DTI names new officials of construction, contractors bodies - Inquirer.net",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNdDFFSnc2QUhjUk9FOXB4VXBEUTA3Qm1WNUdZZDhwbUM0ZlowbGI5WTExUEQ2SUR1eUgtODlyS1dqUEl3cTRab3l4blJXV2NjMEpWaHhmaWxMSHR6QjN4M0NJRy0wVVUzV0xtQkVFS1c2Q01HNjM0bWpPV2Z2NFRVZG05ejlaYnpxVDM2Tk1qSDAySEpmVWpSc2FyVdIBoAFBVV95cUxOMWFfY3pZalpYUWxPT1JCUnM3SFp1d3ladThDbzVaS1FKLWtCVEI1WHZQT1B1eHJBMHdLZmdyT09xSWJRZ2lhem9UaGVwMnVUaV8tcV8zUVp0cjB3Tkdyb21XMGNqNVIxVFFJa29ENTMxaDNPcE5qMldmNEk1TENLd01UdzdvalFldmFNWldaWkVKSEd3RDg2UnpLanVMSWp6?oc=5\" target=\"_blank\">DTI names new officials of construction, contractors bodies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inquirer.net</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZG9kejd2cDlIUmZlaGhiRHZZWmdVaTJ3RnZVU05LaVVMMkdVT3hJcmNYczBOdWRfcmk5UUlJZzVIV05tSWJ6LUpTeERzdnc2X1prZVRHSmgzOFEtYjNSdG1sTUplZEo0R2VzN09icWxxVkRjVUFqTGIxdFlyTktTcVhZSEJIbHRWVDJQOVVIQ3k2bERDbEtIaENWRjlxb01IdjJrY1hRSWdidw?oc=5",
-        "date": "2025-09-06",
-        "title": "Infrastructure Damage Forces NCLT To Curtail Hearings In Delhi - BW Legal World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZG9kejd2cDlIUmZlaGhiRHZZWmdVaTJ3RnZVU05LaVVMMkdVT3hJcmNYczBOdWRfcmk5UUlJZzVIV05tSWJ6LUpTeERzdnc2X1prZVRHSmgzOFEtYjNSdG1sTUplZEo0R2VzN09icWxxVkRjVUFqTGIxdFlyTktTcVhZSEJIbHRWVDJQOVVIQ3k2bERDbEtIaENWRjlxb01IdjJrY1hRSWdidw?oc=5\" target=\"_blank\">Infrastructure Damage Forces NCLT To Curtail Hearings In Delhi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BW Legal World</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQmxyeGhBak12aEhKamNxZ1RDVEJHUkt1QkZqZ1J0NFRRYzVINThHc29nZzlJUUFVNC1ON3FldVpHVFpLWkxObUZGd3dCYWY5S2lwNHg3clV0R2xPWF91QTh6WS1rLU9zSXQtWWROZU5STEpvcndjdXJKQ0hjY2ZWUEtoY2hndVF0Q3ROZE03UFdPeUJJVkRHMV9TUXdVM25jOWNZRVJRUE00WDBJWk05SmRLZlNZeWFLV0Q3amlZdUdEeUhUY054TUNiVVhTbXJSMWpIbFNiaF84TEhZcUpacEtibkdoUHZSblZRVG1WdU9qaDBFTmMwVUQ5VXdTN3dHeDJ3?oc=5",
-        "date": "2025-09-06",
-        "title": "Contaminated Drain Water Leaking into Pipelines, Hepatitis and Typhoid Outbreak Raises Alarm in Agartala Smart City - TRIPURAINFO",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPQmxyeGhBak12aEhKamNxZ1RDVEJHUkt1QkZqZ1J0NFRRYzVINThHc29nZzlJUUFVNC1ON3FldVpHVFpLWkxObUZGd3dCYWY5S2lwNHg3clV0R2xPWF91QTh6WS1rLU9zSXQtWWROZU5STEpvcndjdXJKQ0hjY2ZWUEtoY2hndVF0Q3ROZE03UFdPeUJJVkRHMV9TUXdVM25jOWNZRVJRUE00WDBJWk05SmRLZlNZeWFLV0Q3amlZdUdEeUhUY054TUNiVVhTbXJSMWpIbFNiaF84TEhZcUpacEtibkdoUHZSblZRVG1WdU9qaDBFTmMwVUQ5VXdTN3dHeDJ3?oc=5\" target=\"_blank\">Contaminated Drain Water Leaking into Pipelines, Hepatitis and Typhoid Outbreak Raises Alarm in Agartala Smart City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRIPURAINFO</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbTBZNVpDb2hoV1EwSTE4RGp5MkZ3VmJjQ0pUN0NUSDFNcUl3aTNDNXc1N0g3U0hhVU01eXlYVkdNMEEwMjZRMEwyRXY4a1JuRG9jbFFDbWFxNDRtakxKWThMbGdxZGgtUUp5NGx1RlVEYkd1czZ4Si0xY1A0Y1VjMWlDVlFDdmJ1al9HLXptYTYzVFQ3RGdHaGRGUjEyWXVzSzUxcEFZRGR6SW9CYzVJSkk0cGlKOFNScmdJdy1mVlR4TTc5eVFZS0hR0gHPAUFVX3lxTE9IR1VnaVVsUXlSc011cWZMYkQ1SEc4eEN1bU0tR2RaZFpNYW1JSTFfem9nb1pGek5CelhKbHNrdVQxNG9JYWM3dkJwTGhqa3JVUEFRYjVsbG9TY204bUFVZkIxTmlVU1pDWWFaSlhKRDRZeW40VWxTS2RkcGlwQ2hBYUl4Z2NCUG50aEM3VWFsWGpWR2VCdUxMNGVHMnpLVExPXzRuSm1nbFdsMXZNTTZlWHc2bVNQaGtfZFQ3N0t0UzFqOVQ4ZTFZSTdNMnlUMA?oc=5",
-        "date": "2025-09-06",
-        "title": "IFC Makes First-Ever Bhutan Infrastructure Investment with $20M Power Project - Devdiscourse",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPbTBZNVpDb2hoV1EwSTE4RGp5MkZ3VmJjQ0pUN0NUSDFNcUl3aTNDNXc1N0g3U0hhVU01eXlYVkdNMEEwMjZRMEwyRXY4a1JuRG9jbFFDbWFxNDRtakxKWThMbGdxZGgtUUp5NGx1RlVEYkd1czZ4Si0xY1A0Y1VjMWlDVlFDdmJ1al9HLXptYTYzVFQ3RGdHaGRGUjEyWXVzSzUxcEFZRGR6SW9CYzVJSkk0cGlKOFNScmdJdy1mVlR4TTc5eVFZS0hR0gHPAUFVX3lxTE9IR1VnaVVsUXlSc011cWZMYkQ1SEc4eEN1bU0tR2RaZFpNYW1JSTFfem9nb1pGek5CelhKbHNrdVQxNG9JYWM3dkJwTGhqa3JVUEFRYjVsbG9TY204bUFVZkIxTmlVU1pDWWFaSlhKRDRZeW40VWxTS2RkcGlwQ2hBYUl4Z2NCUG50aEM3VWFsWGpWR2VCdUxMNGVHMnpLVExPXzRuSm1nbFdsMXZNTTZlWHc2bVNQaGtfZFQ3N0t0UzFqOVQ4ZTFZSTdNMnlUMA?oc=5\" target=\"_blank\">IFC Makes First-Ever Bhutan Infrastructure Investment with $20M Power Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZXpFVnRpU2pUNlY1MUtBaEhSZHhfX08ybVQ3UGk5UEExclJoM1IyaGh5emoxcEJTTXpGU011Q0x0Vk51RTdzQmlWUU5KOEl3b0QtWGdSaFhvVVY3MHlJNkVTeTR0LVdmaF8tSWFqV00xRjdudF9Vc19RVXlDT05SZmNGbUFDcVRrbDNsOWdVUUJRVWZCdUtGMkg1RVJhaVlOWTUxZV8yTGdmMDBLNkQzTWJNSlZ5LUc0QkZUd2RtV0lSMVd1b0FzOGJEWFA?oc=5",
-        "date": "2025-09-06",
-        "title": "Bishkek residents raise public transport and infrastructure issues at a meeting with district head - AKI Press",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPZXpFVnRpU2pUNlY1MUtBaEhSZHhfX08ybVQ3UGk5UEExclJoM1IyaGh5emoxcEJTTXpGU011Q0x0Vk51RTdzQmlWUU5KOEl3b0QtWGdSaFhvVVY3MHlJNkVTeTR0LVdmaF8tSWFqV00xRjdudF9Vc19RVXlDT05SZmNGbUFDcVRrbDNsOWdVUUJRVWZCdUtGMkg1RVJhaVlOWTUxZV8yTGdmMDBLNkQzTWJNSlZ5LUc0QkZUd2RtV0lSMVd1b0FzOGJEWFA?oc=5\" target=\"_blank\">Bishkek residents raise public transport and infrastructure issues at a meeting with district head</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AKI Press</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY0MyeXViY2ZNUEJzeGNLYm8wbTZndVVybjFDZldzYW9BS1V0czBLTmZyYlczUGhRYXoxYXhwaU0wUE1sYmxwQ1JseXB0R1hETkR5aXpta3ducnNyNDVoMWNwRk8wWVh6WTRaVEVaTDBBWnQ0b29IR1V4QnZOQ0ZvSWJVeE1PNnNGV1NrQ3lzaUM5TnRrVERfa24yYmM5OFo2ZjJwQnlB?oc=5",
-        "date": "2025-09-06",
-        "title": "Broadcom\u2019s Strategic Position in the AI Infrastructure Race as a Challenger to Nvidia - AInvest",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOY0MyeXViY2ZNUEJzeGNLYm8wbTZndVVybjFDZldzYW9BS1V0czBLTmZyYlczUGhRYXoxYXhwaU0wUE1sYmxwQ1JseXB0R1hETkR5aXpta3ducnNyNDVoMWNwRk8wWVh6WTRaVEVaTDBBWnQ0b29IR1V4QnZOQ0ZvSWJVeE1PNnNGV1NrQ3lzaUM5TnRrVERfa24yYmM5OFo2ZjJwQnlB?oc=5\" target=\"_blank\">Broadcom\u2019s Strategic Position in the AI Infrastructure Race as a Challenger to Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AInvest</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRXQ1UU1aWHRPM2ZhNHNTVXNDMGRDOUVFN3dOQnNlbjhUZ1FiSloybHBUYmxQcjhaLWlsdDc4ZkFPbmtFeXdLWEx2R0labHdXTWFCelppbEhFRWdlVTBZX3o2OENZakMxdEZXU1ZNUUlWUG94d0lHMEFsU0hkWDlkdFlvMERYNWwzcE5zZGw3blJXSExlaVBXN0xLTGxmQng0YU4zM2VwVGE0S0pxN1JVd3ZReVRuVEZlQURKRmlMdXNpQVhLSzNlTFRqZ1pLbVFsYzd0cG4xVFcwVHAyS3FzcXBIZ2R2LXVwRFBOcVV3bw?oc=5",
-        "date": "2025-09-06",
-        "title": "Haryana CM, Union Urban Development Minister Lay Foundation Stone For Gurugram Metro Phase 1; Property Market Poised For Growth. - TRIPURA STAR NEWS",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRXQ1UU1aWHRPM2ZhNHNTVXNDMGRDOUVFN3dOQnNlbjhUZ1FiSloybHBUYmxQcjhaLWlsdDc4ZkFPbmtFeXdLWEx2R0labHdXTWFCelppbEhFRWdlVTBZX3o2OENZakMxdEZXU1ZNUUlWUG94d0lHMEFsU0hkWDlkdFlvMERYNWwzcE5zZGw3blJXSExlaVBXN0xLTGxmQng0YU4zM2VwVGE0S0pxN1JVd3ZReVRuVEZlQURKRmlMdXNpQVhLSzNlTFRqZ1pLbVFsYzd0cG4xVFcwVHAyS3FzcXBIZ2R2LXVwRFBOcVV3bw?oc=5\" target=\"_blank\">Haryana CM, Union Urban Development Minister Lay Foundation Stone For Gurugram Metro Phase 1; Property Market Poised For Growth.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRIPURA STAR NEWS</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Haryana CM and Union Urban Development Minister lay foundation stone for Gurugram Metro Phase 1, expected to boost property market growth."
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2JKd1FSMXo0SnRpTnQ3SEEzdFRYTnh2cjJjZ2hxaVIxZlF2c3BzTU41clp3MWhPUzk5OVJzSWVIaGt4ZUZPMHVnczdUM3VEekFIeWszdDNZSmtrQ29YLWhORzJOQXNlQWxyV3g4eGYxWGZNM3NrNUl3Y0VWUTRmQ1dPakQtSWNjVkNPTXphX3dRZ05NaUotdU1YYmx1UktWejZJLVgyeTZna2FG0gGzAUFVX3lxTFBaRlF0QjdTTVFORmJ3VnBYNVBpNVpMaHVPcGVHQXZsd3RrSV9xMUR0OE5fdkpzd2kwZHFZX1lwVlY3eWpSN1Rjb1I4Z0J3Q0RDemo3a0NEMmxTU3JpUjZLNEIxLTBCNnUxZlVqOV9GTnZycUNLdEc3dlpMcDNXb2dKc0owLUdTakE2ajRiUmpBSnBYVmVvUmYzcXA5djBiai1KZTdtRTk5VndXemtvTnpPeTdj?oc=5",
-        "date": "2025-09-06",
-        "title": "Our priority is to bridge urban-rural developmental gap: Ladakh LG - The Indian Express",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2JKd1FSMXo0SnRpTnQ3SEEzdFRYTnh2cjJjZ2hxaVIxZlF2c3BzTU41clp3MWhPUzk5OVJzSWVIaGt4ZUZPMHVnczdUM3VEekFIeWszdDNZSmtrQ29YLWhORzJOQXNlQWxyV3g4eGYxWGZNM3NrNUl3Y0VWUTRmQ1dPakQtSWNjVkNPTXphX3dRZ05NaUotdU1YYmx1UktWejZJLVgyeTZna2FG0gGzAUFVX3lxTFBaRlF0QjdTTVFORmJ3VnBYNVBpNVpMaHVPcGVHQXZsd3RrSV9xMUR0OE5fdkpzd2kwZHFZX1lwVlY3eWpSN1Rjb1I4Z0J3Q0RDemo3a0NEMmxTU3JpUjZLNEIxLTBCNnUxZlVqOV9GTnZycUNLdEc3dlpMcDNXb2dKc0owLUdTakE2ajRiUmpBSnBYVmVvUmYzcXA5djBiai1KZTdtRTk5VndXemtvTnpPeTdj?oc=5\" target=\"_blank\">Our priority is to bridge urban-rural developmental gap: Ladakh LG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRXQ1UU1aWHRPM2ZhNHNTVXNDMGRDOUVFN3dOQnNlbjhUZ1FiSloybHBUYmxQcjhaLWlsdDc4ZkFPbmtFeXdLWEx2R0labHdXTWFCelppbEhFRWdlVTBZX3o2OENZakMxdEZXU1ZNUUlWUG94d0lHMEFsU0hkWDlkdFlvMERYNWwzcE5zZGw3blJXSExlaVBXN0xLTGxmQng0YU4zM2VwVGE0S0pxN1JVd3ZReVRuVEZlQURKRmlMdXNpQVhLSzNlTFRqZ1pLbVFsYzd0cG4xVFcwVHAyS3FzcXBIZ2R2LXVwRFBOcVV3bw?oc=5",
-        "date": "2025-09-06",
-        "title": "Haryana CM, Union Urban Development Minister Lay Foundation Stone For Gurugram Metro Phase 1; Property Market Poised For Growth. - TRIPURA STAR NEWS",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRXQ1UU1aWHRPM2ZhNHNTVXNDMGRDOUVFN3dOQnNlbjhUZ1FiSloybHBUYmxQcjhaLWlsdDc4ZkFPbmtFeXdLWEx2R0labHdXTWFCelppbEhFRWdlVTBZX3o2OENZakMxdEZXU1ZNUUlWUG94d0lHMEFsU0hkWDlkdFlvMERYNWwzcE5zZGw3blJXSExlaVBXN0xLTGxmQng0YU4zM2VwVGE0S0pxN1JVd3ZReVRuVEZlQURKRmlMdXNpQVhLSzNlTFRqZ1pLbVFsYzd0cG4xVFcwVHAyS3FzcXBIZ2R2LXVwRFBOcVV3bw?oc=5\" target=\"_blank\">Haryana CM, Union Urban Development Minister Lay Foundation Stone For Gurugram Metro Phase 1; Property Market Poised For Growth.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRIPURA STAR NEWS</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Haryana CM and Union Urban Development Minister lay foundation stone for Gurugram Metro Phase 1, boosting property market growth.",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVTd1ZkNMUG9ZdVZOdk4wdWI4LVU0M3NKN3VDSjRDQ1RCT1ZwcmZWMFdoemUwRlN6ZTBNYXpEdGtNMDR4aUdOYVotNVJmcEJhVzZGR2htcHdVMUN3Qk1UT25EYkhHbEJCdmNpa2o1aDNVc0x0blh0MXhGTHV3RGNEajVPUVdWVVRvY2Y4UHBQbDRUOENrbC1NdXJ3bE16OW1nNUNSX2E5SVl0ZnR0UENLcnlfVmNVT1NvRTR6T2Jzb0pNSVZiZlc1d9IBzwFBVV95cUxNN2d1WnN3ZDc0S3dPNkxEWkZfRDg5TDZoeDZBQkZsU0hkeG9CbGNaV21feTJ6UTlTaGhUUWdBNHlaU2FhN3VlVGlITVFwZEtKSklnTkJtNUdOMl9PYUFhdWlrVEFHZjNYdGpEQzI0NDE2WU0zbTFHT0d4NjEzOXBRRXJxdkQ2bWZXenBCTUs2cFVKZVJ6dXZOb0tnWEV5TFQtYmtka1BVWmFxTm5STWUzQk1La2JqeFJSX1Bjb3JlZ001bkVoNWVtRUxFUjN5OFE?oc=5",
-        "date": "2025-09-06",
-        "title": "Tracking Infrastructure Funds - BusinessLine",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVTd1ZkNMUG9ZdVZOdk4wdWI4LVU0M3NKN3VDSjRDQ1RCT1ZwcmZWMFdoemUwRlN6ZTBNYXpEdGtNMDR4aUdOYVotNVJmcEJhVzZGR2htcHdVMUN3Qk1UT25EYkhHbEJCdmNpa2o1aDNVc0x0blh0MXhGTHV3RGNEajVPUVdWVVRvY2Y4UHBQbDRUOENrbC1NdXJ3bE16OW1nNUNSX2E5SVl0ZnR0UENLcnlfVmNVT1NvRTR6T2Jzb0pNSVZiZlc1d9IBzwFBVV95cUxNN2d1WnN3ZDc0S3dPNkxEWkZfRDg5TDZoeDZBQkZsU0hkeG9CbGNaV21feTJ6UTlTaGhUUWdBNHlaU2FhN3VlVGlITVFwZEtKSklnTkJtNUdOMl9PYUFhdWlrVEFHZjNYdGpEQzI0NDE2WU0zbTFHT0d4NjEzOXBRRXJxdkQ2bWZXenBCTUs2cFVKZVJ6dXZOb0tnWEV5TFQtYmtka1BVWmFxTm5STWUzQk1La2JqeFJSX1Bjb3JlZ001bkVoNWVtRUxFUjN5OFE?oc=5\" target=\"_blank\">Tracking Infrastructure Funds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BusinessLine</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbFZkUkpxRnM3WU4wWjh3NUx4NFhzOHZ2NGNKTjBTS0g4SEN3VC1nZEtONTRUX1p3WGNTUU9PMloxTEdaaGFaWUI5dE1hSmVTZlF1Vy00R0tpeElrUWpRM1djeldHbTFBbmVUdFRHbncxNlJZMERVc3BFWlktVnRZeU9UaEkyWUVmMndoVEs4UEd2eFNZQy1hMVpVb1pfQ2c?oc=5",
-        "date": "2025-09-06",
-        "title": "Iran, Japan discuss ways to cooperate on road, housing, urban development research - Tehran Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNbFZkUkpxRnM3WU4wWjh3NUx4NFhzOHZ2NGNKTjBTS0g4SEN3VC1nZEtONTRUX1p3WGNTUU9PMloxTEdaaGFaWUI5dE1hSmVTZlF1Vy00R0tpeElrUWpRM1djeldHbTFBbmVUdFRHbncxNlJZMERVc3BFWlktVnRZeU9UaEkyWUVmMndoVEs4UEd2eFNZQy1hMVpVb1pfQ2c?oc=5\" target=\"_blank\">Iran, Japan discuss ways to cooperate on road, housing, urban development research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tehran Times</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmZPaF81WEdqVGd3ZnVweTBKRzlUNnJqTnQwRUI4ZXFJSjYzMkRLUVozei11VVIzVU1xOHdSUVhwNmx2RGhDamx5clpTWVVjMkdONnlVNWtmVmZYZ1RXTVo2YzJENjFfdTRMempfZ3BkN1dwek1NTlBJaTAzMGdlcGxIaXJaVUtT?oc=5",
-        "date": "2025-09-06",
-        "title": "Top 10 Greenest Cities in India 2025 \u2013 Is Yours on the List? - Trade Brains",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmZPaF81WEdqVGd3ZnVweTBKRzlUNnJqTnQwRUI4ZXFJSjYzMkRLUVozei11VVIzVU1xOHdSUVhwNmx2RGhDamx5clpTWVVjMkdONnlVNWtmVmZYZ1RXTVo2YzJENjFfdTRMempfZ3BkN1dwek1NTlBJaTAzMGdlcGxIaXJaVUtT?oc=5\" target=\"_blank\">Top 10 Greenest Cities in India 2025 \u2013 Is Yours on the List?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trade Brains</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNkdXYnhzelE5OWthaTVCTEs0YVQzY0xQdEVXVGFzNEJ3M2FTeTdETW5qUUZob0ppX1RqWk00WDM1QWo1Sl9GT1NvVmdVMi16RW96TE91NnZaSTdBMEwwdVF3UDVzSE50WnBGaDFoWlc1WUFMVmlIdlVUeGdVZjZWRDFBUERZS0dvVmdsMDhONlB5LTZnSGxoZWtKN3I5QWhiamhDdG01WQ?oc=5",
-        "date": "2025-09-06",
-        "title": "Smart City project turns into a nightmare for Agartala residents - Tripura Chronicle",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNNkdXYnhzelE5OWthaTVCTEs0YVQzY0xQdEVXVGFzNEJ3M2FTeTdETW5qUUZob0ppX1RqWk00WDM1QWo1Sl9GT1NvVmdVMi16RW96TE91NnZaSTdBMEwwdVF3UDVzSE50WnBGaDFoWlc1WUFMVmlIdlVUeGdVZjZWRDFBUERZS0dvVmdsMDhONlB5LTZnSGxoZWtKN3I5QWhiamhDdG01WQ?oc=5\" target=\"_blank\">Smart City project turns into a nightmare for Agartala residents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tripura Chronicle</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2025-09-06",
-        "status": "posted",
-        "tweet": "\ud83c\udf0d Global infrastructure spending is projected to reach $9 trillion by 2025. \ud83c\uddfa\ud83c\uddf8 U.S. infrastructure spending, however, remains flat at $450 billion. It's 5% of the global total, although the U.S. economy accounts for 24% of global GDP.",
-        "type": "statistical",
-        "category": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWVpuV3J6N2dhczFlb2NwWVlTLU1MVF93MTFaVXVpdW5DR1M4OTBBWVFpc2hyWVBIazVxc0lPbTl5QUJpU2I0MUlTN2FjdWk0MTRObVBoZk80VGNKaXAtREFHM1p1d1R6eGRMSXJXV2lfMUVKY2pGa2V1RXUyMUtFd0VURHBBeDNQaHE4YWp3ZkNTTkNfLVBDUTNZNEdWWlJnWndMU2pFVTBsNGNCVVVDVE9tREFRTWg5UDFkeGlJUVhlVGlmZ1BXQXNWbnVub3JDcGdXSTg4NkpMdkxa0gHiAUFVX3lxTE03TmFCMjd2Nll0VU43d1dIVWotajM4SHpPWmtySThqRWd4SVZheE92akI3RF9uRnZubXBGVTAtN3RNTzZuVEJkeTJsRnNwY1I2UmxqTkFGQTZULUJmdGlWVEl2NzIzcmh3LXFqWC04aHpYZGRGeWJTSjVQRHFOLWFZNUpVVU55Nm9oVE92NjZJbE5xZ1NkMG54dU9UUm14N2pibHhuaF9CUDNPZHB1UWZfZzN5c3JKMFVkOVJqcVgzNGlycm9zZGxVSVF1LUVObEdhaU5zS2RuRm9SajYwMXBhSlE?oc=5",
-        "date": "2025-09-06",
-        "title": "IDF Expands Gaza Operations, Strikes Key Hamas Infrastructure In High-Rise Building | Netanyahu | 4K - News18",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWVpuV3J6N2dhczFlb2NwWVlTLU1MVF93MTFaVXVpdW5DR1M4OTBBWVFpc2hyWVBIazVxc0lPbTl5QUJpU2I0MUlTN2FjdWk0MTRObVBoZk80VGNKaXAtREFHM1p1d1R6eGRMSXJXV2lfMUVKY2pGa2V1RXUyMUtFd0VURHBBeDNQaHE4YWp3ZkNTTkNfLVBDUTNZNEdWWlJnWndMU2pFVTBsNGNCVVVDVE9tREFRTWg5UDFkeGlJUVhlVGlmZ1BXQXNWbnVub3JDcGdXSTg4NkpMdkxa0gHiAUFVX3lxTE03TmFCMjd2Nll0VU43d1dIVWotajM4SHpPWmtySThqRWd4SVZheE92akI3RF9uRnZubXBGVTAtN3RNTzZuVEJkeTJsRnNwY1I2UmxqTkFGQTZULUJmdGlWVEl2NzIzcmh3LXFqWC04aHpYZGRGeWJTSjVQRHFOLWFZNUpVVU55Nm9oVE92NjZJbE5xZ1NkMG54dU9UUm14N2pibHhuaF9CUDNPZHB1UWZfZzN5c3JKMFVkOVJqcVgzNGlycm9zZGxVSVF1LUVObEdhaU5zS2RuRm9SajYwMXBhSlE?oc=5\" target=\"_blank\">IDF Expands Gaza Operations, Strikes Key Hamas Infrastructure In High-Rise Building | Netanyahu | 4K</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News18</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2025-09-07",
         "status": "posted",
         "tweet": "Bitcoin's annual electricity consumption in 2025 is projected to surpass 200 TWh, exceeding the total power usage of \ud83c\udde6\ud83c\uddf7 Argentina.",
@@ -3047,6 +2884,13 @@
         "date": "2025-09-15",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. ($AAPL) reports impressive stats: \n\nQ1 2022 - 95.6M iPhones sold. \n35.2% increase YoY. \n\nGlobal market share: \n15.8%, up 1.1% from 2021.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-09-16",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US-based SolarX Tech achieved a new milestone.\n\n25% increase in energy efficiency ratings in Q4 2021 compared to Q3 2021.\n\nAnnual energy production: 1.6 TWh.\n\n$SXT",
         "type": "infrastructure"
     }
 ]
