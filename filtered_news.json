@@ -3356,5 +3356,12 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin, Ethereum, and Solana face varying levels of regulatory impact on infrastructure costs.\n\n1. \ud83c\udde8\ud83c\uddf3 China: Bitcoin mining ban increased infrastructure costs elsewhere.\n2. \ud83c\uddfa\ud83c\uddf8 USA: Ethereum's energy use prompts regulatory scrutiny, potential cost rise.\n3. \ud83c\uddea\ud83c\uddfa EU: Solana'",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-09-17",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Silicon Valley's tech giant Google $GOOGL moved 200 petabytes of data per day in 2021. This is a 25% increase from the year before.\n  \nRemarkable growth in data volumes, demonstrating technological prowess.",
+        "type": "infrastructure"
     }
 ]
