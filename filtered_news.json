@@ -3751,5 +3751,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-09-18",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \nAnnual report revealed unprecedented growth. \n\n2019 iPhone sales: 217.72 million units. \n\n2020 iPhone sales: 275.85 million units. \n\nAn increase of 26.7%. \n$AAPL",
+        "type": "infrastructure"
     }
 ]
