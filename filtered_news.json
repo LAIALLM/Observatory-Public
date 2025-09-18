@@ -3671,5 +3671,35 @@
         "tweet": "Summary: Countries leading in the infrastructure industry by 2025 GDP contribution\n\n\ud83c\udde8\ud83c\uddf3 China\n\ud83c\uddfa\ud83c\uddf8 United States\n\ud83c\uddee\ud83c\uddf3 India\n\ud83c\uddef\ud83c\uddf5 Japan\n\ud83c\udde9\ud83c\uddea Germany\n\nPublic and private infrastructure investment are catalyzing economic growth, providing new opportunities for companies.",
         "type": "statistical",
         "category": "infrastructure companies"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdFBTWENXUmgzc1Q1SDkzenNXRUlpbE1TSEVQNEk5TmVqeEdFMk80TFFRTlEtNTFaUnNQY3ZzNXhlY0Nob1Y2cEY0NkdVdjhRRm10eEJfRE1VM0ZFaERvWGt6R1NlVGdVeTVBWTh2SFlWd1FqZURCZEJxWDhvYUxsZ3UxR3NKTG9RaVltS3BFY1ROWnJnLW1Ccjhnb2d6OWpXSzZUWTdOMnNOckNoU3k0cw?oc=5",
+        "date": "2025-09-18",
+        "title": "Government to begin reconstruction of damaged infrastructure soon - kathmandupost.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOdFBTWENXUmgzc1Q1SDkzenNXRUlpbE1TSEVQNEk5TmVqeEdFMk80TFFRTlEtNTFaUnNQY3ZzNXhlY0Nob1Y2cEY0NkdVdjhRRm10eEJfRE1VM0ZFaERvWGt6R1NlVGdVeTVBWTh2SFlWd1FqZURCZEJxWDhvYUxsZ3UxR3NKTG9RaVltS3BFY1ROWnJnLW1Ccjhnb2d6OWpXSzZUWTdOMnNOckNoU3k0cw?oc=5\" target=\"_blank\">Government to begin reconstruction of damaged infrastructure soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kathmandupost.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNamtGRlVRSVNNRWVodWhmZ2VTeFJ4dHBXRkRwSDFrZGpKT2JwQU04dDNGREVudnY2ck4wd0lVT2Q1RmF3cmFzRWMtSHhYeW1lSUY0cVZLZ0VNM1hQeTJpVHlYZTU5bFgyRHIzNS0xdHV4NVpxQ1pGcVpXT2JLZ25aXzNCQXcwZHhOS2hVRFRGdzQ5YWJ3bnBHdURTYkpWSktZWEhDS0UtMmJYNU16SGFWNUlobWd3cG8?oc=5",
+        "date": "2025-09-18",
+        "title": "Upscale AI gets $100M for a new kind of AI networking infrastructure built on open standards - SiliconANGLE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNamtGRlVRSVNNRWVodWhmZ2VTeFJ4dHBXRkRwSDFrZGpKT2JwQU04dDNGREVudnY2ck4wd0lVT2Q1RmF3cmFzRWMtSHhYeW1lSUY0cVZLZ0VNM1hQeTJpVHlYZTU5bFgyRHIzNS0xdHV4NVpxQ1pGcVpXT2JLZ25aXzNCQXcwZHhOS2hVRFRGdzQ5YWJ3bnBHdURTYkpWSktZWEhDS0UtMmJYNU16SGFWNUlobWd3cG8?oc=5\" target=\"_blank\">Upscale AI gets $100M for a new kind of AI networking infrastructure built on open standards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://infrastructuremagazine.com.au/rail-sector-signs-up-to-fast-track-gender-equity/",
+        "date": "2025-09-18",
+        "title": "Rail sector signs up to fast-track gender equity",
+        "summary": "<figure><img alt=\"\" src=\"https://infrastructuremagazine.com.au/wp-content/uploads/2025/09/female-rail-worker-gender-engineerAdobeStock_857673962.jpeg\" style=\"float: right; margin: 0 0 10px 10px;\" /><figcaption>Image: SpaceOak/stock.adobe.com</figcaption></figure>Australia and New Zealand\u2019s rail sectors have taken a collective step to tackle long-standing gender imbalances. Forty organisations have signed a new Rail Gender Equity Charter at its launch in [&#8230;]",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
