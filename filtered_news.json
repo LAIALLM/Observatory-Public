@@ -4081,5 +4081,20 @@
         "status": "posted",
         "tweet": "\ud83c\uddf8\ud83c\uddfb NEWS: IDB approves $170M loan to enhance urban growth and commerce in El Salvador, focusing on sustainable development.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-09-19",
+        "status": "posted",
+        "tweet": "\ud83c\udf0e Global urban development firms are on a spree! Projected to pump over $5 trillion into new projects by 2030, an increase of 60% since 2025. Steady economic recovery and demand in emergent markets are driving strong growth. Expect enhanced urban landscapes in the coming decade!",
+        "type": "statistical",
+        "category": "urban development firms"
+    },
+    {
+        "link": null,
+        "date": "2025-09-19",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. moved 217 million iPhones globally in 2018. Fiscal Year sales reported 265.6 billion USD in total revenue. $AAPL",
+        "type": "infrastructure"
     }
 ]
