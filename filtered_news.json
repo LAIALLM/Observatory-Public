@@ -3933,5 +3933,55 @@
         "status": "posted",
         "tweet": "\ud83c\uddf8\ud83c\udde6 NEWS: Construction boom driven by $1.7 trillion project pipeline as part of Vision 2030.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa3Q5Rk5ZNkRkWmlra2Z3WURoNWdJaWo4QjBSd3pOMmt5bXhzSGRpVm1RMDFrdHlJdFpjeWdtX3lOUkR1VHVZY25RbERzQ3E0TjNCREo1Q2w4QUc2azJGYTRaMHR5Z3ZUNXBLWFFfSFd6X2toVkl5TlBTUGtLY3ZZVndTeXh4Q2ZXd000NWRJWVpYSGxnMU9KNjdB?oc=5",
+        "date": "2025-09-19",
+        "title": "Industry-leading construction company makes game-changing update to its equipment: 'Real impact' - yahoo.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOa3Q5Rk5ZNkRkWmlra2Z3WURoNWdJaWo4QjBSd3pOMmt5bXhzSGRpVm1RMDFrdHlJdFpjeWdtX3lOUkR1VHVZY25RbERzQ3E0TjNCREo1Q2w4QUc2azJGYTRaMHR5Z3ZUNXBLWFFfSFd6X2toVkl5TlBTUGtLY3ZZVndTeXh4Q2ZXd000NWRJWVpYSGxnMU9KNjdB?oc=5\" target=\"_blank\">Industry-leading construction company makes game-changing update to its equipment: 'Real impact'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yahoo.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMmVPdGZ0TjFqelRuY0RVRkQtRzk1cFdoTFlOeF9OWk9fVHczRGF5YlZkMS12UmRnMk9MalgxbnA3UVlQUUtQWEJKQTJfS29icGx6Tkk1ai12aHlVT3pVZEtWYUxVZ1hTcnJkbEJTdHV1OGE3ZzAta0hNa0xSZWl3VWs4LWkzYWNTYWFtdTZxT3RmVEtqOWlkbm9ZdkdCMlRtcDhlczRTY3hQYmIzdkozYzVmeVlTQ1RMblZoUC1iX3MxSFc0TGpIRndoM2U1RXpvSWpYUzczQ181RWFfc29tTDBMYWU?oc=5",
+        "date": "2025-09-19",
+        "title": "University of New Brunswick - UNB OCRC secures $2.5 million to scale off-site construction research - Education News Canada",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMmVPdGZ0TjFqelRuY0RVRkQtRzk1cFdoTFlOeF9OWk9fVHczRGF5YlZkMS12UmRnMk9MalgxbnA3UVlQUUtQWEJKQTJfS29icGx6Tkk1ai12aHlVT3pVZEtWYUxVZ1hTcnJkbEJTdHV1OGE3ZzAta0hNa0xSZWl3VWs4LWkzYWNTYWFtdTZxT3RmVEtqOWlkbm9ZdkdCMlRtcDhlczRTY3hQYmIzdkozYzVmeVlTQ1RMblZoUC1iX3MxSFc0TGpIRndoM2U1RXpvSWpYUzczQ181RWFfc29tTDBMYWU?oc=5\" target=\"_blank\">University of New Brunswick - UNB OCRC secures $2.5 million to scale off-site construction research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Education News Canada</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjF4SzJ2V25FOGF6RTlMSE5UVnU3bW1xRkVldVNzOUNQdUp0MTVrSDVDYWFRSFZGYnRjMjVSNWZDOUhvTEUtT3laNTBkV2hCV2hHWmVpVzBybVZsbkVpb29VTjFmZ3JrRnpIbVg5T0VMTTJmcjJxZWxZY2tXYk9FU21Ccw?oc=5",
+        "date": "2025-09-19",
+        "title": "Keysight: AI is Outpacing Infrastructure Readiness - EE Times India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxObjF4SzJ2V25FOGF6RTlMSE5UVnU3bW1xRkVldVNzOUNQdUp0MTVrSDVDYWFRSFZGYnRjMjVSNWZDOUhvTEUtT3laNTBkV2hCV2hHWmVpVzBybVZsbkVpb29VTjFmZ3JrRnpIbVg5T0VMTTJmcjJxZWxZY2tXYk9FU21Ccw?oc=5\" target=\"_blank\">Keysight: AI is Outpacing Infrastructure Readiness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EE Times India</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGFwbG9Uck9zd285a0M4cVBCeGhFX0oxMk9BMVFTb3BVNEMzN1BIb1pUem5jWVh1eTFtbl9tTmxMMHRudWI2Q1F2Rzd3QzVZMDdlQnlBekIyRzlVN1lrRnNlU0lMQXhIYnZzMWJLeG0xQVpFa0pCby1ianpZeG9WX0lDZm1abEhtdElpWm1leDZMZ0VnR3B2WXhlY1dLdUl4dTZuSy1nV0c1dEtIUnhTcThqUWVZQdIBwwFBVV95cUxOUWd6aWpOX0N3YXNKWWpMcVdmOXZXMnpHV3c3ajRoTUo2d29RRkJVWElZSVdUX0NOR1lkZmhtMzF4anpKV0RDUWZadkw1cDVnVzNaX2RleEhTZ0FGWXFja2VQZVN5R1VnSTRzQnlXamNJNDZpLWhzbXNZOVFnYzVIMWN4cy1pVlR2dC11ZGI4SklsWGNzc0xkNDVwX2xBXzk3aUc5elFYQzRHZkZ3dXFYcWYtcXZNYVV1SEtQelpyeHVEYTA?oc=5",
+        "date": "2025-09-19",
+        "title": "Relocating, not moving out of Bengaluru, says BlackBuck - The New Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGFwbG9Uck9zd285a0M4cVBCeGhFX0oxMk9BMVFTb3BVNEMzN1BIb1pUem5jWVh1eTFtbl9tTmxMMHRudWI2Q1F2Rzd3QzVZMDdlQnlBekIyRzlVN1lrRnNlU0lMQXhIYnZzMWJLeG0xQVpFa0pCby1ianpZeG9WX0lDZm1abEhtdElpWm1leDZMZ0VnR3B2WXhlY1dLdUl4dTZuSy1nV0c1dEtIUnhTcThqUWVZQdIBwwFBVV95cUxOUWd6aWpOX0N3YXNKWWpMcVdmOXZXMnpHV3c3ajRoTUo2d29RRkJVWElZSVdUX0NOR1lkZmhtMzF4anpKV0RDUWZadkw1cDVnVzNaX2RleEhTZ0FGWXFja2VQZVN5R1VnSTRzQnlXamNJNDZpLWhzbXNZOVFnYzVIMWN4cy1pVlR2dC11ZGI4SklsWGNzc0xkNDVwX2xBXzk3aUc5elFYQzRHZkZ3dXFYcWYtcXZNYVV1SEtQelpyeHVEYTA?oc=5\" target=\"_blank\">Relocating, not moving out of Bengaluru, says BlackBuck</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRm1KRS1MMlpibUtFb0FGbFBQeHZjVjl0bDNQVnpZS0dmdTJ0ZEdtY3pBb3pqNHBzMjFEYXRtQl9tckhCX2xVMUt5TXRJYkxmQUVhQnh5anhZZmoyZ2dZUnVjUTVyeTBXbEFBQkowbXRXWk1xVTUtNzRIa2xOZGZMTWxTbVFPcEtPQ19WWWp1dGZmNks1cHZaZ2JwQ2lncFRmeXRZZnlsbmoxb0JVSTFZejJHQjREb1c0N1N1N3B6aEVfU2Q5Z0RlTkllUjg?oc=5",
+        "date": "2025-09-19",
+        "title": "Rajeev Verma: Driving Chandigarh\u2019s Smart City Vision - Indian Masterminds",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNRm1KRS1MMlpibUtFb0FGbFBQeHZjVjl0bDNQVnpZS0dmdTJ0ZEdtY3pBb3pqNHBzMjFEYXRtQl9tckhCX2xVMUt5TXRJYkxmQUVhQnh5anhZZmoyZ2dZUnVjUTVyeTBXbEFBQkowbXRXWk1xVTUtNzRIa2xOZGZMTWxTbVFPcEtPQ19WWWp1dGZmNks1cHZaZ2JwQ2lncFRmeXRZZnlsbmoxb0JVSTFZejJHQjREb1c0N1N1N3B6aEVfU2Q5Z0RlTkllUjg?oc=5\" target=\"_blank\">Rajeev Verma: Driving Chandigarh\u2019s Smart City Vision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Masterminds</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
