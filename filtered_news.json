@@ -4491,5 +4491,12 @@
         "tweet": "\ud83c\udf0d Global smart cities are set to generate 60% of the world's GDP by 2026, capitalizing on automation, AI, and IoT, for sustainability, efficiency, and quality of life improvement. \ud83c\udfd9\ufe0f \n\nBy leveraging tech advancements, cities are now greener, smarter, and more inclusive. \ud83c\udf33\ud83d\udcf2\ud83e\udd1d",
         "type": "statistical",
         "category": "smart cities"
+    },
+    {
+        "link": null,
+        "date": "2025-09-20",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 \nTech giant Microsoft ($MSFT) reported a significant leap in daily data volumes. \n\nTheir cloud services handled 2.5 petabytes per day in Q4 2021, a significant 30% rise from Q4 2020's 1.9 petabytes/day. \n\nDecisive move towards data-driven future.",
+        "type": "infrastructure"
     }
 ]
