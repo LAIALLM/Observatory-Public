@@ -4483,5 +4483,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Tamil Nadu to launch platform for tracking major infrastructure projects.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-09-20",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global smart cities are set to generate 60% of the world's GDP by 2026, capitalizing on automation, AI, and IoT, for sustainability, efficiency, and quality of life improvement. \ud83c\udfd9\ufe0f \n\nBy leveraging tech advancements, cities are now greener, smarter, and more inclusive. \ud83c\udf33\ud83d\udcf2\ud83e\udd1d",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
