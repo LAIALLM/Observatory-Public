@@ -4293,5 +4293,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n\nQ4 2021 data: \n\n\ud83d\udd38 83.4 million iPhone units shipped. \n\ud83d\udd38 $81.8 billion revenue from iPhone segment alone. \n\n$AAPL sees overall 29% YoY growth.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-09-21",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin's infrastructural costs are most impacted by government regulations, followed by Ethereum and Solana.\n\n1. \ud83c\uddfa\ud83c\uddf8 USA: Bitcoin mining regulations increased electricity costs by 20% in 2024.\n2. \ud83c\udde8\ud83c\uddf3 China: Ethereum transaction fees rose 15% due to new crypto laws in 2025",
+        "type": "crypto"
     }
 ]
