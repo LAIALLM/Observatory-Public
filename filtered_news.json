@@ -4407,5 +4407,188 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeTd2Q0czNE5ZTW9aN3RJT3VqUF9FbFJ6c2R2VDQxRFdyT2RFWjB2YmN6OFFFTlJCdnJleGQzdjhNX2hSd2NWSEF6V19mblBiLXIyckFjbk9WZWp6VjYwSDJ0SzktbHZaWjhfUElMNGNtYkVVbXRzQVplQWU3M2F1VWw1YlN2UkRaNGpjWEpkNWJoRURjTGZVSVVqQ3MxS1JERzdYQW8zc3BlcHh5aGUtTG9rNW1NS0dzelhKQ2dJeUxhLTNiMDJNQ0daUDZrcW1LRW1SN1htTnVodFZR?oc=5",
+        "date": "2025-09-22",
+        "title": "Small-Cap Construction Firm Faces Prolonged Decline Amid Financial Struggles and High Debt Levels - Markets Mojo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeTd2Q0czNE5ZTW9aN3RJT3VqUF9FbFJ6c2R2VDQxRFdyT2RFWjB2YmN6OFFFTlJCdnJleGQzdjhNX2hSd2NWSEF6V19mblBiLXIyckFjbk9WZWp6VjYwSDJ0SzktbHZaWjhfUElMNGNtYkVVbXRzQVplQWU3M2F1VWw1YlN2UkRaNGpjWEpkNWJoRURjTGZVSVVqQ3MxS1JERzdYQW8zc3BlcHh5aGUtTG9rNW1NS0dzelhKQ2dJeUxhLTNiMDJNQ0daUDZrcW1LRW1SN1htTnVodFZR?oc=5\" target=\"_blank\">Small-Cap Construction Firm Faces Prolonged Decline Amid Financial Struggles and High Debt Levels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Markets Mojo</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdDhsQ0dtTVNjNXg3X0pmd1hUUjg1WGdTM1NJcFdSeXllV0VnVE9XZHBFRmVoeFY4VXZKelFCYngzVXpiczlZeXBJaWlUeXpNd2l4T2VMRWt5WVY0anZtUW1CVldielhMS1h5U0xkNUFvOWlqSnoxUW9WWUdDOTlLQ2wwZm9yWmhVbmdYVVd1aWZrUDNLcUFTb19tODZQbE42LWx5Z0UtSFZOV2JBLXNZbVEtOUV5SmZkYm96bUlVRQ?oc=5",
+        "date": "2025-09-22",
+        "title": "UAE construction output to hit $130.8bn by 2029: Knight Frank report - Arabian Business",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdDhsQ0dtTVNjNXg3X0pmd1hUUjg1WGdTM1NJcFdSeXllV0VnVE9XZHBFRmVoeFY4VXZKelFCYngzVXpiczlZeXBJaWlUeXpNd2l4T2VMRWt5WVY0anZtUW1CVldielhMS1h5U0xkNUFvOWlqSnoxUW9WWUdDOTlLQ2wwZm9yWmhVbmdYVVd1aWZrUDNLcUFTb19tODZQbE42LWx5Z0UtSFZOV2JBLXNZbVEtOUV5SmZkYm96bUlVRQ?oc=5\" target=\"_blank\">UAE construction output to hit $130.8bn by 2029: Knight Frank report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arabian Business</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQjRIR05IS29yaW9CejJyemRyNnBveGhPbzNTenhOUFdCZTNQVWdwUDlKZ2MxQmdteExnNkNsdjBYMXMydkU1U2hqaU4wNDU3WElCeEozcVVOVnc3YmNqb0pKWnJhRkh6cktCUXQ2alNsQUlwYTY3SlhEaHo5NHdRa1g1dXBQZS1vaDVhYlQ5X1pVNFZibGhaNjJKRGFkN0daU1pJaklRUjEtQQ?oc=5",
+        "date": "2025-09-22",
+        "title": "UAE construction sector set for $130.8 billion expansion by 2029: Report - Economy Middle East",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQjRIR05IS29yaW9CejJyemRyNnBveGhPbzNTenhOUFdCZTNQVWdwUDlKZ2MxQmdteExnNkNsdjBYMXMydkU1U2hqaU4wNDU3WElCeEozcVVOVnc3YmNqb0pKWnJhRkh6cktCUXQ2alNsQUlwYTY3SlhEaHo5NHdRa1g1dXBQZS1vaDVhYlQ5X1pVNFZibGhaNjJKRGFkN0daU1pJaklRUjEtQQ?oc=5\" target=\"_blank\">UAE construction sector set for $130.8 billion expansion by 2029: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economy Middle East</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1kzdUtRZHg4UmRxcF95a3ZSdTBMTEJoeGhYNnAzRHEwQll2S0trbVUyN2hRSlpMVEMxR3FuM1UzdDJ0eEw5VXd3eFBQN0JxQjZrTUhVWDB6WW5FXzRPclhqODdPbGhHQllVLURhRXVId2lsRXltVFFHWmVDMGxGNDZjLS1RQ1FJcEVMdmhEOHIzc1M1UXFWbVVrTkZZTlE?oc=5",
+        "date": "2025-09-22",
+        "title": "Element5 to expand St. Thomas operations with $107M investment - Ontario Construction News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1kzdUtRZHg4UmRxcF95a3ZSdTBMTEJoeGhYNnAzRHEwQll2S0trbVUyN2hRSlpMVEMxR3FuM1UzdDJ0eEw5VXd3eFBQN0JxQjZrTUhVWDB6WW5FXzRPclhqODdPbGhHQllVLURhRXVId2lsRXltVFFHWmVDMGxGNDZjLS1RQ1FJcEVMdmhEOHIzc1M1UXFWbVVrTkZZTlE?oc=5\" target=\"_blank\">Element5 to expand St. Thomas operations with $107M investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ontario Construction News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeFFkWmJZSzdPZ1dBOGgwSDhUOVlKUFkxdXJQRmp6bHRvamt4dk5ySkwtUUhmYjl5OXQ2dzZtUjJZN1BtZWQxNVJlS3UzMVAxcUhKcG9SenE1ZEZldlVmcWFtdUIySnczM2JBY2p2VVZwNVBZYzJ2TXJPYi1Mam92OGo4bkVnSmp0aHVmRUdkQXFvUHNCY2szV0U2NWltclpoal85d29wQ3dzQTV2VVpqZzg4RU5wWDRRcVZ5NlVhQThkbzN3MVdIU1RseFRuQUFHTVI5ZmV2bzhDUQ?oc=5",
+        "date": "2025-09-22",
+        "title": "Modi launches mega Rs 5,000 crore infrastructure projects in Arunachal Pradesh - The Economic Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeFFkWmJZSzdPZ1dBOGgwSDhUOVlKUFkxdXJQRmp6bHRvamt4dk5ySkwtUUhmYjl5OXQ2dzZtUjJZN1BtZWQxNVJlS3UzMVAxcUhKcG9SenE1ZEZldlVmcWFtdUIySnczM2JBY2p2VVZwNVBZYzJ2TXJPYi1Mam92OGo4bkVnSmp0aHVmRUdkQXFvUHNCY2szV0U2NWltclpoal85d29wQ3dzQTV2VVpqZzg4RU5wWDRRcVZ5NlVhQThkbzN3MVdIU1RseFRuQUFHTVI5ZmV2bzhDUQ?oc=5\" target=\"_blank\">Modi launches mega Rs 5,000 crore infrastructure projects in Arunachal Pradesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Modi launches mega Rs 5,000 crore infrastructure projects in Arunachal Pradesh"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMTVTdUhwMWR5Nkk1MG42cnNLQWMwdUx0TlByaHZzRXI2Wk1jT2xGamZyalFNZkdTVE52N1JndDdBZU5fNkxjWE1aTG8weVJKOW10cHc4QWRMNmVmV2QtZVcta2NWd1gxRHpRMTR2TnJTcVF1NzVvSk9ESGw3ZExIQzk2MVQ0MFNoZ2xvQnhvN29iUEd6aXdZYU9NZlN1c2pPV2RnQlI3bU1ubHlydWZMcTdoU3RDZFdzSEJ0a3NJQkdQZExXZjdRNGJQSUVDb0t2b3Y4MGp4dGRqSVUzSk5MR0RQNTYwbWY1dTRzYXpMVDdULV9wcGgwYVg5RWlLeUx4a1pPQ2xERWdFUdIBjwJBVV95cUxQdU1xU0xWdFR1aHZod0drWHlBQWJka2NWMmZ1Z1JTUExDSEZEaUVOQTZyY3ZpempHR3NUdWpsOE1FTmhTY1ZuMXdDMEN5SFlNWmNVbDduYlhEdGw3WkF0R2pUenkxQjcyUnpkRDczVmZjbElxbUtIa0psUE9nSXpLeXNlczcyc2JzV0pzSlN0bk5ZQkhuaU5tV1NoQmY1YnZDbGNRVVdQVzdfOEE3b3ZQMzRMRGR3SEpKaUtId2hMQmVrU3o1Y09tMFJxT25LLUF2QlRPLUlqWlQ5NUZoY0dWYjNkOHdSSFNwSl92YmlTRGdzUFVJQUNRU2NqVEVubEhRaHZDSGsxRGJVZmNqLTRJ?oc=5",
+        "date": "2025-09-22",
+        "title": "BJP to lead state-wide protest on September 24 amid Bengaluru's bad roads, crumbling infrastructure: Report | Bengaluru - Hindustan Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOMTVTdUhwMWR5Nkk1MG42cnNLQWMwdUx0TlByaHZzRXI2Wk1jT2xGamZyalFNZkdTVE52N1JndDdBZU5fNkxjWE1aTG8weVJKOW10cHc4QWRMNmVmV2QtZVcta2NWd1gxRHpRMTR2TnJTcVF1NzVvSk9ESGw3ZExIQzk2MVQ0MFNoZ2xvQnhvN29iUEd6aXdZYU9NZlN1c2pPV2RnQlI3bU1ubHlydWZMcTdoU3RDZFdzSEJ0a3NJQkdQZExXZjdRNGJQSUVDb0t2b3Y4MGp4dGRqSVUzSk5MR0RQNTYwbWY1dTRzYXpMVDdULV9wcGgwYVg5RWlLeUx4a1pPQ2xERWdFUdIBjwJBVV95cUxQdU1xU0xWdFR1aHZod0drWHlBQWJka2NWMmZ1Z1JTUExDSEZEaUVOQTZyY3ZpempHR3NUdWpsOE1FTmhTY1ZuMXdDMEN5SFlNWmNVbDduYlhEdGw3WkF0R2pUenkxQjcyUnpkRDczVmZjbElxbUtIa0psUE9nSXpLeXNlczcyc2JzV0pzSlN0bk5ZQkhuaU5tV1NoQmY1YnZDbGNRVVdQVzdfOEE3b3ZQMzRMRGR3SEpKaUtId2hMQmVrU3o1Y09tMFJxT25LLUF2QlRPLUlqWlQ5NUZoY0dWYjNkOHdSSFNwSl92YmlTRGdzUFVJQUNRU2NqVEVubEhRaHZDSGsxRGJVZmNqLTRJ?oc=5\" target=\"_blank\">BJP to lead state-wide protest on September 24 amid Bengaluru's bad roads, crumbling infrastructure: Report | Bengaluru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMUFuQklKWXlHaGtZTXZybWxBUW5QMGJXcWlIdHdkVmgzeTFhUjd1eFIxN2pIX081ak9uSkhVcVpiVVF5blZQdW1NenNZdDIyTEo2bmp4aXlTYVluLVdLZnlNSVBiZ2wtQ09ENUxlNHZnOVU2emEzb0R1MVc1Sk82Z3dCT1FBZTNvbzNkSmRwMDlQYllCR1Y0LVd5YUIwSVowODJUTnc5R0s1Uk5jaHQwYUc0a3pOVzdnUmlpQ3d6ZmttQXpsbkZpT1dUcDRNLTBPUjY4Uw?oc=5",
+        "date": "2025-09-22",
+        "title": "Spain\u2019s \u20ac926m infrastructure investment \u2018important for Europe\u2019 - Research Professional News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMUFuQklKWXlHaGtZTXZybWxBUW5QMGJXcWlIdHdkVmgzeTFhUjd1eFIxN2pIX081ak9uSkhVcVpiVVF5blZQdW1NenNZdDIyTEo2bmp4aXlTYVluLVdLZnlNSVBiZ2wtQ09ENUxlNHZnOVU2emEzb0R1MVc1Sk82Z3dCT1FBZTNvbzNkSmRwMDlQYllCR1Y0LVd5YUIwSVowODJUTnc5R0s1Uk5jaHQwYUc0a3pOVzdnUmlpQ3d6ZmttQXpsbkZpT1dUcDRNLTBPUjY4Uw?oc=5\" target=\"_blank\">Spain\u2019s \u20ac926m infrastructure investment \u2018important for Europe\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Research Professional News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddea\ud83c\uddf8 NEWS: Spains \u20ac926m infrastructure investment is important for Europe."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY3dwa2xPdDlRTlVEQUEyRVY2V3htYlhBSTQ5UkhwR0JiOE1BMV9JbmtkRlR3SUVKTWlJYnZjclRuRks4b0xYOTFCd3NHdV9xLWxudE4xeHNuMlZ4bjltRU05akVOalVSYkxWbTJPX3RiYUFtU1FVdWJTaDN3a3V1VElISW5IWGc?oc=5",
+        "date": "2025-09-22",
+        "title": "Bayobab taps elite talent for digital infrastructure race - Extensia Ltd",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNY3dwa2xPdDlRTlVEQUEyRVY2V3htYlhBSTQ5UkhwR0JiOE1BMV9JbmtkRlR3SUVKTWlJYnZjclRuRks4b0xYOTFCd3NHdV9xLWxudE4xeHNuMlZ4bjltRU05akVOalVSYkxWbTJPX3RiYUFtU1FVdWJTaDN3a3V1VElISW5IWGc?oc=5\" target=\"_blank\">Bayobab taps elite talent for digital infrastructure race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Extensia Ltd</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWS1DTVc2WWYyd09YaGhEM08tM0xyVDAtSlR5X2YwdDJIZ096eVMzY19iaTY0ZmJBVFJwUzEteFVkUUlIbDR1aElkcG1KUmVNbmp4dXBfNzNwdUZLcDBMWlJraDExSjBjazhzTlhiUTMzaWFwajRaX1ZCR0NqT28zVkpEZC1wcHBkZ0ZId3NqaU9Iek9kUGhlQ25OSFRGbGxoUWg3RmJ6aGx5bXQtTUdHclRIbUctSG44bDBvOFlsNkQ1TExlclVHbVk3N1hOa0dGV2E1ZGRVQVY1NW8?oc=5",
+        "date": "2025-09-22",
+        "title": "India Accelerates Natural Gas Adoption for Energy Goals - Construction World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWS1DTVc2WWYyd09YaGhEM08tM0xyVDAtSlR5X2YwdDJIZ096eVMzY19iaTY0ZmJBVFJwUzEteFVkUUlIbDR1aElkcG1KUmVNbmp4dXBfNzNwdUZLcDBMWlJraDExSjBjazhzTlhiUTMzaWFwajRaX1ZCR0NqT28zVkpEZC1wcHBkZ0ZId3NqaU9Iek9kUGhlQ25OSFRGbGxoUWg3RmJ6aGx5bXQtTUdHclRIbUctSG44bDBvOFlsNkQ1TExlclVHbVk3N1hOa0dGV2E1ZGRVQVY1NW8?oc=5\" target=\"_blank\">India Accelerates Natural Gas Adoption for Energy Goals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction World</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYQXFpVW5WVHUwX01CQTBRdnI1UjdBOTk0QnZLdkZ2VzZrNjg0bmZabHgtS2FGd0Foel9NMDd6NG5IZDRHUm1ONFUtQmQ4aUJnOXlIU2hadlBUNDBJb1RFVG4yYWxyM3dhTk9CVDB2d0Etd2dBNXNYamJR?oc=5",
+        "date": "2025-09-22",
+        "title": "NBCC and HUDCO Partner on Major Urban Projects - NewsIP",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBYQXFpVW5WVHUwX01CQTBRdnI1UjdBOTk0QnZLdkZ2VzZrNjg0bmZabHgtS2FGd0Foel9NMDd6NG5IZDRHUm1ONFUtQmQ4aUJnOXlIU2hadlBUNDBJb1RFVG4yYWxyM3dhTk9CVDB2d0Etd2dBNXNYamJR?oc=5\" target=\"_blank\">NBCC and HUDCO Partner on Major Urban Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsIP</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0VrMEdpdHZSS3liMF9uSXY1THRwM0pxd0ZkYy1BaTB2U0VndlQ1YVJBU2dXdF9CaEliQVBJQWd0UHNWMmpISzVrd1VJUWFXamdUODBQMEZoUDlIZ3Y2aFIwQ0FOYjJkV09ORjVBbFpwS1g5c2ZVemlEZEtwR2xYOU9Ka3V5c3lwQmJEdkw0N05COGNsNF9HRFBIQWQ5N0VOQTBQVUJRdm0xdUpEellPeDEyT3BTR21VRmM3UHBId2YzUVg1aWVsTtIByAFBVV95cUxQb0VrMEdpdHZSS3liMF9uSXY1THRwM0pxd0ZkYy1BaTB2U0VndlQ1YVJBU2dXdF9CaEliQVBJQWd0UHNWMmpISzVrd1VJUWFXamdUODBQMEZoUDlIZ3Y2aFIwQ0FOYjJkV09ORjVBbFpwS1g5c2ZVemlEZEtwR2xYOU9Ka3V5c3lwQmJEdkw0N05COGNsNF9HRFBIQWQ5N0VOQTBQVUJRdm0xdUpEellPeDEyT3BTR21VRmM3UHBId2YzUVg1aWVsTg?oc=5",
+        "date": "2025-09-22",
+        "title": "In Era of Bulldozer Raj and Forced Evictions, Reality of Urban Slums Paints a Bleak Picture - The Wire India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0VrMEdpdHZSS3liMF9uSXY1THRwM0pxd0ZkYy1BaTB2U0VndlQ1YVJBU2dXdF9CaEliQVBJQWd0UHNWMmpISzVrd1VJUWFXamdUODBQMEZoUDlIZ3Y2aFIwQ0FOYjJkV09ORjVBbFpwS1g5c2ZVemlEZEtwR2xYOU9Ka3V5c3lwQmJEdkw0N05COGNsNF9HRFBIQWQ5N0VOQTBQVUJRdm0xdUpEellPeDEyT3BTR21VRmM3UHBId2YzUVg1aWVsTtIByAFBVV95cUxQb0VrMEdpdHZSS3liMF9uSXY1THRwM0pxd0ZkYy1BaTB2U0VndlQ1YVJBU2dXdF9CaEliQVBJQWd0UHNWMmpISzVrd1VJUWFXamdUODBQMEZoUDlIZ3Y2aFIwQ0FOYjJkV09ORjVBbFpwS1g5c2ZVemlEZEtwR2xYOU9Ka3V5c3lwQmJEdkw0N05COGNsNF9HRFBIQWQ5N0VOQTBQVUJRdm0xdUpEellPeDEyT3BTR21VRmM3UHBId2YzUVg1aWVsTg?oc=5\" target=\"_blank\">In Era of Bulldozer Raj and Forced Evictions, Reality of Urban Slums Paints a Bleak Picture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wire India</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzZlTFktUzVibmFvUkhIRkdqcW5RTXpyS1QyQmdFZlJ5QVE2ZzNlbFhDcDN6Q1BMMDQ4SEVXc25BQmNTczM4b09tTTVPMEFKTmwzNWZHY0NpY0pmVTltcUZyMlEzTXNxaUlWZDRfWF8xWXc1UGxtUEhBZzIwMm1FNldGMzd0TG9DM0M0OXpEU0w?oc=5",
+        "date": "2025-09-22",
+        "title": "NBCC to Drive Landmark Urban Projects in Pact with HUDCO - thenewsmanofindia.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzZlTFktUzVibmFvUkhIRkdqcW5RTXpyS1QyQmdFZlJ5QVE2ZzNlbFhDcDN6Q1BMMDQ4SEVXc25BQmNTczM4b09tTTVPMEFKTmwzNWZHY0NpY0pmVTltcUZyMlEzTXNxaUlWZDRfWF8xWXc1UGxtUEhBZzIwMm1FNldGMzd0TG9DM0M0OXpEU0w?oc=5\" target=\"_blank\">NBCC to Drive Landmark Urban Projects in Pact with HUDCO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thenewsmanofindia.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: NBCC to drive landmark urban projects in pact with HUDCO, focusing on sustainable development."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVNEQUdUVG52RGtuSlEtV1pzNDBfQjI3eVdkd2F1eDdiNTZiR1g3WlBnZENkY3VCc1RYM2gxYVd2YjExcFU4QVZ1c1dZNS1ZRm4tYUNEb010VVpYM0ZOV18tWDN6UzRmN2xKNUZHSmU4VC1yaFpHRW0zU3U0ZUJwRlN3a0tmSGcyd2VaTDdpbDJJenlZNTVuWi00RFZhd3pScEhjNmVvVVJlZnJKYUdiU3Jpc1g3Z9IBugFBVV95cUxNblExbnIyN2xVMzI1aXpWZkt4Q0xRemh4ZGZlSkl1WUFuX0ZjZDcwV0F1alR2dTRJcTZSVXMwM2ZCcHA5T2VyQmF3NENlTW4zWXhLeVgxOFVpajRiZGt5WnJkZmpRSW8yOWpkazBKcEQyb2RlTVk0YkFzcHkxMW1WeUpfWTJONHNWNG5VZzVZNVZCcHVZaGpHak9iZmQ1bWwzZEdMYXNrWW00ZUlkVjEwTzU4bE5aUTVhalE?oc=5",
+        "date": "2025-09-22",
+        "title": "GTB: Next-Generation Communities Take Shape Across High-Growth Corridors - Tribune India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxONVNEQUdUVG52RGtuSlEtV1pzNDBfQjI3eVdkd2F1eDdiNTZiR1g3WlBnZENkY3VCc1RYM2gxYVd2YjExcFU4QVZ1c1dZNS1ZRm4tYUNEb010VVpYM0ZOV18tWDN6UzRmN2xKNUZHSmU4VC1yaFpHRW0zU3U0ZUJwRlN3a0tmSGcyd2VaTDdpbDJJenlZNTVuWi00RFZhd3pScEhjNmVvVVJlZnJKYUdiU3Jpc1g3Z9IBugFBVV95cUxNblExbnIyN2xVMzI1aXpWZkt4Q0xRemh4ZGZlSkl1WUFuX0ZjZDcwV0F1alR2dTRJcTZSVXMwM2ZCcHA5T2VyQmF3NENlTW4zWXhLeVgxOFVpajRiZGt5WnJkZmpRSW8yOWpkazBKcEQyb2RlTVk0YkFzcHkxMW1WeUpfWTJONHNWNG5VZzVZNVZCcHVZaGpHak9iZmQ1bWwzZEdMYXNrWW00ZUlkVjEwTzU4bE5aUTVhalE?oc=5\" target=\"_blank\">GTB: Next-Generation Communities Take Shape Across High-Growth Corridors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tribune India</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmZ5djh5NVZSUDRZZlJHLW9ZRWZkcExmNEZFTjRPYXBNZTYyRGI1clJ3MjF6am1DRF96a1pYMHdQeG44YWNweXRZM3gxREdwb0NoYmlfYVRuWW1vUWNrZ2diVUhZdU9UeWlnNUZxWGhKdkdmb2FoQWdOSy1nQTdiSkNXZVUtUFdC?oc=5",
+        "date": "2025-09-22",
+        "title": "GCC\u2019s xIoT networks pose biggest risk, says Phosphorus VP - Gulf Business",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmZ5djh5NVZSUDRZZlJHLW9ZRWZkcExmNEZFTjRPYXBNZTYyRGI1clJ3MjF6am1DRF96a1pYMHdQeG44YWNweXRZM3gxREdwb0NoYmlfYVRuWW1vUWNrZ2diVUhZdU9UeWlnNUZxWGhKdkdmb2FoQWdOSy1nQTdiSkNXZVUtUFdC?oc=5\" target=\"_blank\">GCC\u2019s xIoT networks pose biggest risk, says Phosphorus VP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf Business</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMTVFVTh1Q3lFYjR2VXdYY1JtQ25kaU9LZ1E2QjkwSHJNZVZWa1VBRTRSd1V1NEprVFFJenZ5QUNBcjRaUkdWSjEyaDVzSks3RUYtTzA0ZmtaYy1qRVJldV8yWXZPZ1N0MFdoWGdKcTREQ285S3VQd25RbG1aNV84S1BBRWJ3c191eGxtZW1HdW5YcXFRVTI1VmxZams5WHptOGx4clZLVTg0SXhGYnNzQlZ4RUtqU19JZmYzMGM2ZlJkMjRROWRIb094WUVYOXctenBmd3VldzRrRVpiMDNEd2FNWmRfTEdERXJYRHAzRQ?oc=5",
+        "date": "2025-09-22",
+        "title": "iSense Global Secures Strategic Investment from DNAKE to Accelerate Smart City Expansion and Nasdaq Vision - Manila Standard",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMTVFVTh1Q3lFYjR2VXdYY1JtQ25kaU9LZ1E2QjkwSHJNZVZWa1VBRTRSd1V1NEprVFFJenZ5QUNBcjRaUkdWSjEyaDVzSks3RUYtTzA0ZmtaYy1qRVJldV8yWXZPZ1N0MFdoWGdKcTREQ285S3VQd25RbG1aNV84S1BBRWJ3c191eGxtZW1HdW5YcXFRVTI1VmxZams5WHptOGx4clZLVTg0SXhGYnNzQlZ4RUtqU19JZmYzMGM2ZlJkMjRROWRIb094WUVYOXctenBmd3VldzRrRVpiMDNEd2FNWmRfTEdERXJYRHAzRQ?oc=5\" target=\"_blank\">iSense Global Secures Strategic Investment from DNAKE to Accelerate Smart City Expansion and Nasdaq Vision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Manila Standard</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeFFkWmJZSzdPZ1dBOGgwSDhUOVlKUFkxdXJQRmp6bHRvamt4dk5ySkwtUUhmYjl5OXQ2dzZtUjJZN1BtZWQxNVJlS3UzMVAxcUhKcG9SenE1ZEZldlVmcWFtdUIySnczM2JBY2p2VVZwNVBZYzJ2TXJPYi1Mam92OGo4bkVnSmp0aHVmRUdkQXFvUHNCY2szV0U2NWltclpoal85d29wQ3dzQTV2VVpqZzg4RU5wWDRRcVZ5NlVhQThkbzN3MVdIU1RseFRuQUFHTVI5ZmV2bzhDUQ?oc=5",
+        "date": "2025-09-22",
+        "title": "Modi launches mega Rs 5,000 crore infrastructure projects in Arunachal Pradesh - The Economic Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeFFkWmJZSzdPZ1dBOGgwSDhUOVlKUFkxdXJQRmp6bHRvamt4dk5ySkwtUUhmYjl5OXQ2dzZtUjJZN1BtZWQxNVJlS3UzMVAxcUhKcG9SenE1ZEZldlVmcWFtdUIySnczM2JBY2p2VVZwNVBZYzJ2TXJPYi1Mam92OGo4bkVnSmp0aHVmRUdkQXFvUHNCY2szV0U2NWltclpoal85d29wQ3dzQTV2VVpqZzg4RU5wWDRRcVZ5NlVhQThkbzN3MVdIU1RseFRuQUFHTVI5ZmV2bzhDUQ?oc=5\" target=\"_blank\">Modi launches mega Rs 5,000 crore infrastructure projects in Arunachal Pradesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Modi launches mega Rs 5,000 crore infrastructure projects in Arunachal Pradesh",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMUFuQklKWXlHaGtZTXZybWxBUW5QMGJXcWlIdHdkVmgzeTFhUjd1eFIxN2pIX081ak9uSkhVcVpiVVF5blZQdW1NenNZdDIyTEo2bmp4aXlTYVluLVdLZnlNSVBiZ2wtQ09ENUxlNHZnOVU2emEzb0R1MVc1Sk82Z3dCT1FBZTNvbzNkSmRwMDlQYllCR1Y0LVd5YUIwSVowODJUTnc5R0s1Uk5jaHQwYUc0a3pOVzdnUmlpQ3d6ZmttQXpsbkZpT1dUcDRNLTBPUjY4Uw?oc=5",
+        "date": "2025-09-22",
+        "title": "Spain\u2019s \u20ac926m infrastructure investment \u2018important for Europe\u2019 - Research Professional News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMUFuQklKWXlHaGtZTXZybWxBUW5QMGJXcWlIdHdkVmgzeTFhUjd1eFIxN2pIX081ak9uSkhVcVpiVVF5blZQdW1NenNZdDIyTEo2bmp4aXlTYVluLVdLZnlNSVBiZ2wtQ09ENUxlNHZnOVU2emEzb0R1MVc1Sk82Z3dCT1FBZTNvbzNkSmRwMDlQYllCR1Y0LVd5YUIwSVowODJUTnc5R0s1Uk5jaHQwYUc0a3pOVzdnUmlpQ3d6ZmttQXpsbkZpT1dUcDRNLTBPUjY4Uw?oc=5\" target=\"_blank\">Spain\u2019s \u20ac926m infrastructure investment \u2018important for Europe\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Research Professional News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddea\ud83c\uddf8 NEWS: Spains \u20ac926m infrastructure investment is important for Europe.",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzZlTFktUzVibmFvUkhIRkdqcW5RTXpyS1QyQmdFZlJ5QVE2ZzNlbFhDcDN6Q1BMMDQ4SEVXc25BQmNTczM4b09tTTVPMEFKTmwzNWZHY0NpY0pmVTltcUZyMlEzTXNxaUlWZDRfWF8xWXc1UGxtUEhBZzIwMm1FNldGMzd0TG9DM0M0OXpEU0w?oc=5",
+        "date": "2025-09-22",
+        "title": "NBCC to Drive Landmark Urban Projects in Pact with HUDCO - thenewsmanofindia.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzZlTFktUzVibmFvUkhIRkdqcW5RTXpyS1QyQmdFZlJ5QVE2ZzNlbFhDcDN6Q1BMMDQ4SEVXc25BQmNTczM4b09tTTVPMEFKTmwzNWZHY0NpY0pmVTltcUZyMlEzTXNxaUlWZDRfWF8xWXc1UGxtUEhBZzIwMm1FNldGMzd0TG9DM0M0OXpEU0w?oc=5\" target=\"_blank\">NBCC to Drive Landmark Urban Projects in Pact with HUDCO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thenewsmanofindia.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: NBCC to drive landmark urban projects in partnership with HUDCO.",
+        "type": "news"
     }
 ]
