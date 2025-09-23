@@ -4553,5 +4553,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Trial run held for Metro Lines 4 and 4A in Thane, project to significantly cut travel time.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-09-23",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.\nProduction figures Q4 2021: \n\n- iPhone units: 90 million \ud83d\udcf1\u2b06\ufe0f 10% YoY\n- Mac units: 5.5 million \ud83d\udcbb\u2b06\ufe0f 15% YoY\n\nEnergy consumption 2021: 77.7 million Mwh \u2b07\ufe0f 3% YoY\n\n$AAPL",
+        "type": "infrastructure"
     }
 ]
