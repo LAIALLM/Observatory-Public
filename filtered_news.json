@@ -1,123 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-09-14",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.  \nLast quarter report:  \n- 365 million active devices.  \n- iCloud user base at 850 million.  \n- Energy efficiency up by 12% across all devices.  \n\ud83d\udcca$AAPL",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2025-09-14",
-        "status": "posted",
-        "tweet": "In 2025, Bitcoin mining is highly concentrated in \n\ud83c\udde8\ud83c\uddf3 China (65%) and \n\ud83c\uddfa\ud83c\uddf8 USA (20%).\n\nIn contrast, Ethereum mining is more distributed:\n\ud83c\uddfa\ud83c\uddf8 USA (30%),\n\ud83c\uddf7\ud83c\uddfa Russia (20%),\n\ud83c\udde8\ud83c\uddf3 China (15%).",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ2NyZzA2a1RMTnJCNi1mN1NQTXJOQW92R2lQa1VnV201WGNVWnFVMS1LQjFyanl4U0ZuWFBZMkk4T0JSZUpWdzJqTFctY2hlOW5vbDFZbFhwUEstUUwtTE9oZU5oV0o1VmxSNGdlRkU4Wjh1UGl5Q3RiVzV5YW9OSS0yM0YwTERiY2cxbXZZR29lNnhTZjdZaVAxTmVzdU1MamJWM29uY0ljdzd3UWZBN051Q0dKMnpFcDJqT2VDb2ZPS3pTc2F2YlBIRjRYaFVHaEHSAeIBQVVfeXFMTVRNTE9wVUt0bDVwS0dBeDNITFIwQUJfcjFrRzZyZUdBOHhzS1JCc0VLcnkweEdDMzdBX0JDX0hLMFZ1QUlLTFBEUnc4cko5anNmMFJwMEVSXzFqWDJTd1liOW5PMVBsZ2RMaEVueHI5MVJIUzBZWTJ4SEh6Y1Z0X1d4SnRMM0V1WEI2NHpiOHV1Y1B4VHFEci1mOUZFNy1mbWZqejRCTjQxVk92N2hQYmUzbHZXMmJyTEtjcXhHSE9xNXRSVVFvVnIzaVRXZlRnQmZ5Q3U5WjlzLUZuRXRaNG0zZw?oc=5",
-        "date": "2025-09-14",
-        "title": "Mumbai To Replace 112 Year Old Elphinstone Bridge With City\u2019s First Double-Decker Road Over Bridge - Swarajya",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ2NyZzA2a1RMTnJCNi1mN1NQTXJOQW92R2lQa1VnV201WGNVWnFVMS1LQjFyanl4U0ZuWFBZMkk4T0JSZUpWdzJqTFctY2hlOW5vbDFZbFhwUEstUUwtTE9oZU5oV0o1VmxSNGdlRkU4Wjh1UGl5Q3RiVzV5YW9OSS0yM0YwTERiY2cxbXZZR29lNnhTZjdZaVAxTmVzdU1MamJWM29uY0ljdzd3UWZBN051Q0dKMnpFcDJqT2VDb2ZPS3pTc2F2YlBIRjRYaFVHaEHSAeIBQVVfeXFMTVRNTE9wVUt0bDVwS0dBeDNITFIwQUJfcjFrRzZyZUdBOHhzS1JCc0VLcnkweEdDMzdBX0JDX0hLMFZ1QUlLTFBEUnc4cko5anNmMFJwMEVSXzFqWDJTd1liOW5PMVBsZ2RMaEVueHI5MVJIUzBZWTJ4SEh6Y1Z0X1d4SnRMM0V1WEI2NHpiOHV1Y1B4VHFEci1mOUZFNy1mbWZqejRCTjQxVk92N2hQYmUzbHZXMmJyTEtjcXhHSE9xNXRSVVFvVnIzaVRXZlRnQmZ5Q3U5WjlzLUZuRXRaNG0zZw?oc=5\" target=\"_blank\">Mumbai To Replace 112 Year Old Elphinstone Bridge With City\u2019s First Double-Decker Road Over Bridge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Swarajya</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Mumbai to replace 112-year-old Elphinstone Bridge with citys first double-decker road over bridge, enhancing traffic flow."
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSThwTDhVVFVNc3l3c3liaTlBMU5LUTFJMjc0dkpzaG1BbXJhdXB2cWZrS29mUnJoMDJUU1hZbGFQb1BWZlVMQjJlWFdZdFdjQUhTNFlnMDNEQjRHWlFHdWJXT09HenRMVjNlSElKUlFCYXMzMGhObDBHVjJHMk9Qck8tRzVzX3FEa0g2b0RYbnVpT3BBT0Z5SGdhNk9nTmJ2R1diMEZWdnBLTHlFb1JqYzlVNk0xSGtyaF83WWY4WXBBQ2pHUi00OXNNcGlDaF82bjhURTM2N0PSAd4BQVVfeXFMT3MtT0p2ZE93eFo3RV9XdTFuRWhjaDlvOHotOUJ1QThkUWVhcjN0ajFNb0JvV2k5eG9WcEtWUlBXYU1XNGlyNzRvYU9sYl9ZSVBmeU9XcjBRbVdnaU9GTkZwSG82YTB3dzFwcFBFRlJFb0xZanRhYmFkTzVud1FCb0pVRkhOWEp5WjUybjNKOFZOXzkyaUF0TjhzNHNjYi12N1kzaFJqVmZuOGtVWGVUeHJ5blhNeWFXUjdHZG9veGZOaVNOVXg0eXM4dW0xMnI3Ym9Zam9EWTVjRG15UzJn?oc=5",
-        "date": "2025-09-14",
-        "title": "Surat Gets Gujarat\u2019s 1st Town Planning Scheme Linked To Mumbai-Ahmedabad Bullet Train Project - News18",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSThwTDhVVFVNc3l3c3liaTlBMU5LUTFJMjc0dkpzaG1BbXJhdXB2cWZrS29mUnJoMDJUU1hZbGFQb1BWZlVMQjJlWFdZdFdjQUhTNFlnMDNEQjRHWlFHdWJXT09HenRMVjNlSElKUlFCYXMzMGhObDBHVjJHMk9Qck8tRzVzX3FEa0g2b0RYbnVpT3BBT0Z5SGdhNk9nTmJ2R1diMEZWdnBLTHlFb1JqYzlVNk0xSGtyaF83WWY4WXBBQ2pHUi00OXNNcGlDaF82bjhURTM2N0PSAd4BQVVfeXFMT3MtT0p2ZE93eFo3RV9XdTFuRWhjaDlvOHotOUJ1QThkUWVhcjN0ajFNb0JvV2k5eG9WcEtWUlBXYU1XNGlyNzRvYU9sYl9ZSVBmeU9XcjBRbVdnaU9GTkZwSG82YTB3dzFwcFBFRlJFb0xZanRhYmFkTzVud1FCb0pVRkhOWEp5WjUybjNKOFZOXzkyaUF0TjhzNHNjYi12N1kzaFJqVmZuOGtVWGVUeHJ5blhNeWFXUjdHZG9veGZOaVNOVXg0eXM4dW0xMnI3Ym9Zam9EWTVjRG15UzJn?oc=5\" target=\"_blank\">Surat Gets Gujarat\u2019s 1st Town Planning Scheme Linked To Mumbai-Ahmedabad Bullet Train Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News18</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Surat gets Gujarats first town planning scheme linked to Mumbai-Ahmedabad bullet train project."
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ2NyZzA2a1RMTnJCNi1mN1NQTXJOQW92R2lQa1VnV201WGNVWnFVMS1LQjFyanl4U0ZuWFBZMkk4T0JSZUpWdzJqTFctY2hlOW5vbDFZbFhwUEstUUwtTE9oZU5oV0o1VmxSNGdlRkU4Wjh1UGl5Q3RiVzV5YW9OSS0yM0YwTERiY2cxbXZZR29lNnhTZjdZaVAxTmVzdU1MamJWM29uY0ljdzd3UWZBN051Q0dKMnpFcDJqT2VDb2ZPS3pTc2F2YlBIRjRYaFVHaEHSAeIBQVVfeXFMTVRNTE9wVUt0bDVwS0dBeDNITFIwQUJfcjFrRzZyZUdBOHhzS1JCc0VLcnkweEdDMzdBX0JDX0hLMFZ1QUlLTFBEUnc4cko5anNmMFJwMEVSXzFqWDJTd1liOW5PMVBsZ2RMaEVueHI5MVJIUzBZWTJ4SEh6Y1Z0X1d4SnRMM0V1WEI2NHpiOHV1Y1B4VHFEci1mOUZFNy1mbWZqejRCTjQxVk92N2hQYmUzbHZXMmJyTEtjcXhHSE9xNXRSVVFvVnIzaVRXZlRnQmZ5Q3U5WjlzLUZuRXRaNG0zZw?oc=5",
-        "date": "2025-09-14",
-        "title": "Mumbai To Replace 112 Year Old Elphinstone Bridge With City\u2019s First Double-Decker Road Over Bridge - Swarajya",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ2NyZzA2a1RMTnJCNi1mN1NQTXJOQW92R2lQa1VnV201WGNVWnFVMS1LQjFyanl4U0ZuWFBZMkk4T0JSZUpWdzJqTFctY2hlOW5vbDFZbFhwUEstUUwtTE9oZU5oV0o1VmxSNGdlRkU4Wjh1UGl5Q3RiVzV5YW9OSS0yM0YwTERiY2cxbXZZR29lNnhTZjdZaVAxTmVzdU1MamJWM29uY0ljdzd3UWZBN051Q0dKMnpFcDJqT2VDb2ZPS3pTc2F2YlBIRjRYaFVHaEHSAeIBQVVfeXFMTVRNTE9wVUt0bDVwS0dBeDNITFIwQUJfcjFrRzZyZUdBOHhzS1JCc0VLcnkweEdDMzdBX0JDX0hLMFZ1QUlLTFBEUnc4cko5anNmMFJwMEVSXzFqWDJTd1liOW5PMVBsZ2RMaEVueHI5MVJIUzBZWTJ4SEh6Y1Z0X1d4SnRMM0V1WEI2NHpiOHV1Y1B4VHFEci1mOUZFNy1mbWZqejRCTjQxVk92N2hQYmUzbHZXMmJyTEtjcXhHSE9xNXRSVVFvVnIzaVRXZlRnQmZ5Q3U5WjlzLUZuRXRaNG0zZw?oc=5\" target=\"_blank\">Mumbai To Replace 112 Year Old Elphinstone Bridge With City\u2019s First Double-Decker Road Over Bridge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Swarajya</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Mumbai to replace 112-year-old Elphinstone Bridge with citys first double-decker road over bridge.",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSThwTDhVVFVNc3l3c3liaTlBMU5LUTFJMjc0dkpzaG1BbXJhdXB2cWZrS29mUnJoMDJUU1hZbGFQb1BWZlVMQjJlWFdZdFdjQUhTNFlnMDNEQjRHWlFHdWJXT09HenRMVjNlSElKUlFCYXMzMGhObDBHVjJHMk9Qck8tRzVzX3FEa0g2b0RYbnVpT3BBT0Z5SGdhNk9nTmJ2R1diMEZWdnBLTHlFb1JqYzlVNk0xSGtyaF83WWY4WXBBQ2pHUi00OXNNcGlDaF82bjhURTM2N0PSAd4BQVVfeXFMT3MtT0p2ZE93eFo3RV9XdTFuRWhjaDlvOHotOUJ1QThkUWVhcjN0ajFNb0JvV2k5eG9WcEtWUlBXYU1XNGlyNzRvYU9sYl9ZSVBmeU9XcjBRbVdnaU9GTkZwSG82YTB3dzFwcFBFRlJFb0xZanRhYmFkTzVud1FCb0pVRkhOWEp5WjUybjNKOFZOXzkyaUF0TjhzNHNjYi12N1kzaFJqVmZuOGtVWGVUeHJ5blhNeWFXUjdHZG9veGZOaVNOVXg0eXM4dW0xMnI3Ym9Zam9EWTVjRG15UzJn?oc=5",
-        "date": "2025-09-14",
-        "title": "Surat Gets Gujarat\u2019s 1st Town Planning Scheme Linked To Mumbai-Ahmedabad Bullet Train Project - News18",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSThwTDhVVFVNc3l3c3liaTlBMU5LUTFJMjc0dkpzaG1BbXJhdXB2cWZrS29mUnJoMDJUU1hZbGFQb1BWZlVMQjJlWFdZdFdjQUhTNFlnMDNEQjRHWlFHdWJXT09HenRMVjNlSElKUlFCYXMzMGhObDBHVjJHMk9Qck8tRzVzX3FEa0g2b0RYbnVpT3BBT0Z5SGdhNk9nTmJ2R1diMEZWdnBLTHlFb1JqYzlVNk0xSGtyaF83WWY4WXBBQ2pHUi00OXNNcGlDaF82bjhURTM2N0PSAd4BQVVfeXFMT3MtT0p2ZE93eFo3RV9XdTFuRWhjaDlvOHotOUJ1QThkUWVhcjN0ajFNb0JvV2k5eG9WcEtWUlBXYU1XNGlyNzRvYU9sYl9ZSVBmeU9XcjBRbVdnaU9GTkZwSG82YTB3dzFwcFBFRlJFb0xZanRhYmFkTzVud1FCb0pVRkhOWEp5WjUybjNKOFZOXzkyaUF0TjhzNHNjYi12N1kzaFJqVmZuOGtVWGVUeHJ5blhNeWFXUjdHZG9veGZOaVNOVXg0eXM4dW0xMnI3Ym9Zam9EWTVjRG15UzJn?oc=5\" target=\"_blank\">Surat Gets Gujarat\u2019s 1st Town Planning Scheme Linked To Mumbai-Ahmedabad Bullet Train Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News18</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Surat gets Gujarats first town planning scheme linked to Mumbai-Ahmedabad bullet train project.",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcFhKRmIzV2I5WUZhS2diWXVtMTNZUGRQT1A1dlQtTXFpYXZuc0YySnQ1cVBxbDRZX0daX1pxWU9DQlpjX3pHWm15TS1nYmM1c0oxR2hVMnRmMTRxS09yS3pzWkhwM3Rfd0NnaW93bXpweUVScjIyNjFCaklCRldMaG9qQmVzRVRGc3luSko2SjdMQmwwbXc4M1JONlFTbVA5MmZoX1U3ZmF1aTZDU1dlTWVFWXREZVlMd3VGM0hISng5WW5LNmlpUHRjZEZjd9IB1AFBVV95cUxNcWdsY05Ubkc3RzN2MjR6dmZPdTlHdU1ubXlIYzJrS2VDaElwZjRWM2pIQktnampHN3d2MmZHclNWY1RnUEtLUUFxdUhIOWtnOEdDSURIZzZmQXkxNkptV3JfMDhJeGdZVmFSYW54X2lJd0dENGh3NExhZ1pQNkFzSVlkUjNCdTNGdDZCRHhoMS0wa3o3bHFVbHNjREt2bEJ5ZFVPaTBmVTl6NDNiRkJhcHNLWXA1MUJkX0Jtazh0SmxTLTRCYlBkZDVBbV9yb01ZLWgyZg?oc=5",
-        "date": "2025-09-14",
-        "title": "Prime Minister Narendra Modi visit to Assam - Day 2: foundation stonres for health and infrastructure projects - The Hindu",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOcFhKRmIzV2I5WUZhS2diWXVtMTNZUGRQT1A1dlQtTXFpYXZuc0YySnQ1cVBxbDRZX0daX1pxWU9DQlpjX3pHWm15TS1nYmM1c0oxR2hVMnRmMTRxS09yS3pzWkhwM3Rfd0NnaW93bXpweUVScjIyNjFCaklCRldMaG9qQmVzRVRGc3luSko2SjdMQmwwbXc4M1JONlFTbVA5MmZoX1U3ZmF1aTZDU1dlTWVFWXREZVlMd3VGM0hISng5WW5LNmlpUHRjZEZjd9IB1AFBVV95cUxNcWdsY05Ubkc3RzN2MjR6dmZPdTlHdU1ubXlIYzJrS2VDaElwZjRWM2pIQktnampHN3d2MmZHclNWY1RnUEtLUUFxdUhIOWtnOEdDSURIZzZmQXkxNkptV3JfMDhJeGdZVmFSYW54X2lJd0dENGh3NExhZ1pQNkFzSVlkUjNCdTNGdDZCRHhoMS0wa3o3bHFVbHNjREt2bEJ5ZFVPaTBmVTl6NDNiRkJhcHNLWXA1MUJkX0Jtazh0SmxTLTRCYlBkZDVBbV9yb01ZLWgyZg?oc=5\" target=\"_blank\">Prime Minister Narendra Modi visit to Assam - Day 2: foundation stonres for health and infrastructure projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX04wRFBpRHlyN3RSTUd6eEE2cUl5R2RQekpfckNXbGZpWGY0REpfTnJRVzlHZXNhdVNGSnl3ck91Q1lYaHowcF9IakNDQjUxRVphN1Nfa0MxaUptZzFzYjVNekliVXozdlByUVM5MHJPT0UwczQxWnJaZXVxSUoxMEFnbXFRcGl1RTFhMl81aTJvZFpHNnptSEVvUnlLQVQwMlJJMlVQVWlJcnNZeHZnSG9fMTloQ0wybVN3R0QtdnBTdmh4TTBwSUFsRGRBYnhldlFrdlFXcGlzMXlRcnhjQmNB0gHnAUFVX3lxTFA3bl9hdGFiS3IzU1M0UnVWNEk1YnF2SXp2NmkxcTE1bGVmVWN5TUVtRFA4OTFNc3JWanB0eWVnUmZoZm1DX2lMZ2JTdmQwenNDMWp5MmpLbThFekl6SHl4SDl2OXM4VW5PZ2lUYzRzZHBIX0FKLVFVQndUV3FSdTZGeGxsMllnamZ5X0J6SnMxd2NJVkphbnlScGNJYW5kX0UyWWJjVVhEbHJ4bGJhZHpUekZrcDJ3dDZQSjl5bUJSS3hocDhkdG5lUm9mOTZHU1NaWmFSVlRlajNzdW1EQjZoekZEYTYwYw?oc=5",
-        "date": "2025-09-14",
-        "title": "PM Modi lays foundation for health and infrastructure projects worth \u20b96,300 crore in Assam - Mint",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX04wRFBpRHlyN3RSTUd6eEE2cUl5R2RQekpfckNXbGZpWGY0REpfTnJRVzlHZXNhdVNGSnl3ck91Q1lYaHowcF9IakNDQjUxRVphN1Nfa0MxaUptZzFzYjVNekliVXozdlByUVM5MHJPT0UwczQxWnJaZXVxSUoxMEFnbXFRcGl1RTFhMl81aTJvZFpHNnptSEVvUnlLQVQwMlJJMlVQVWlJcnNZeHZnSG9fMTloQ0wybVN3R0QtdnBTdmh4TTBwSUFsRGRBYnhldlFrdlFXcGlzMXlRcnhjQmNB0gHnAUFVX3lxTFA3bl9hdGFiS3IzU1M0UnVWNEk1YnF2SXp2NmkxcTE1bGVmVWN5TUVtRFA4OTFNc3JWanB0eWVnUmZoZm1DX2lMZ2JTdmQwenNDMWp5MmpLbThFekl6SHl4SDl2OXM4VW5PZ2lUYzRzZHBIX0FKLVFVQndUV3FSdTZGeGxsMllnamZ5X0J6SnMxd2NJVkphbnlScGNJYW5kX0UyWWJjVVhEbHJ4bGJhZHpUekZrcDJ3dDZQSjl5bUJSS3hocDhkdG5lUm9mOTZHU1NaWmFSVlRlajNzdW1EQjZoekZEYTYwYw?oc=5\" target=\"_blank\">PM Modi lays foundation for health and infrastructure projects worth \u20b96,300 crore in Assam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQczJ5UlVSODFCbFNZMEMzZFRwYnJjb2VxLVUtbU0yUUZUSVc1OXdFaWRibEhkZzltdTFLZll0bUpKWW9aT0ZJMm1UT0JMeEZVOUFHcy1fLWRPcXJneWs2QXBYbFV5NlVjRGZLR09xSnZjTWJYbS03enhaXzh2STNaR1lMWTJBVWlxLVluRUl4OVZQWTZ1WVNrOTh3Y2FXcWp1eTI0UGRvNkdJMVZJZFJVcmdhTnJUOW85SUpnVGtaMFFEeXoxZUdfaG1nLXMyRFnSAdQBQVVfeXFMTlpLSURTT2NfSlNSV1RReGpHMHpFclBnN194dmlhLUw3S1ZCSlZIZ2hmY0E1Sko3blVWb3BfMnNsMlZESF9zaTBIa3VsTTl2azN4SXhGUDdmNkdLUV9ZXzR5NkdxRld3X3Vma1BCRUU2SFN2VUhYb0VJa1pKQWVQZ0d5UUFrb01DdHM5b2M4QlY3aXFuYk9JN242NEoyN2E0MU9iOVZTNC1kMXhVdGlZRk5Gc1FkWXBaVUZ5SkRYMU0tc1YwbkpnblNWZk4tclRGM2JxU3g?oc=5",
-        "date": "2025-09-14",
-        "title": "Not Just An Asset: Why India Must See Crypto As Digital Infrastructure - News18",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQczJ5UlVSODFCbFNZMEMzZFRwYnJjb2VxLVUtbU0yUUZUSVc1OXdFaWRibEhkZzltdTFLZll0bUpKWW9aT0ZJMm1UT0JMeEZVOUFHcy1fLWRPcXJneWs2QXBYbFV5NlVjRGZLR09xSnZjTWJYbS03enhaXzh2STNaR1lMWTJBVWlxLVluRUl4OVZQWTZ1WVNrOTh3Y2FXcWp1eTI0UGRvNkdJMVZJZFJVcmdhTnJUOW85SUpnVGtaMFFEeXoxZUdfaG1nLXMyRFnSAdQBQVVfeXFMTlpLSURTT2NfSlNSV1RReGpHMHpFclBnN194dmlhLUw3S1ZCSlZIZ2hmY0E1Sko3blVWb3BfMnNsMlZESF9zaTBIa3VsTTl2azN4SXhGUDdmNkdLUV9ZXzR5NkdxRld3X3Vma1BCRUU2SFN2VUhYb0VJa1pKQWVQZ0d5UUFrb01DdHM5b2M4QlY3aXFuYk9JN242NEoyN2E0MU9iOVZTNC1kMXhVdGlZRk5Gc1FkWXBaVUZ5SkRYMU0tc1YwbkpnblNWZk4tclRGM2JxU3g?oc=5\" target=\"_blank\">Not Just An Asset: Why India Must See Crypto As Digital Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News18</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVRjMVlCUkhfa19tN3hMWndTRWJDNmwyVjhrMGNwNXF4clFXeUlNTjFWSHVoazE5TmFkaWJ6RXpaOWU2R25PUlFxTDdJbGFOdDRQZmVGSDhPUFU2N01iNWdBMXpsdmxMUmhPT0pwQ2VaeE9sUUx0Vml2ZUlZS0c0bGMzSk1KTkRWcm1SODdUZ3lza3YxUW1ReUpnbG9wZzBIZlR0UzBkSmFsOFozaVkzd3ZKT3Rnanc?oc=5",
-        "date": "2025-09-14",
-        "title": "Malaysia and China to develop smart city pilot projects in Ipoh and Seberang Perai - Newswav",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVRjMVlCUkhfa19tN3hMWndTRWJDNmwyVjhrMGNwNXF4clFXeUlNTjFWSHVoazE5TmFkaWJ6RXpaOWU2R25PUlFxTDdJbGFOdDRQZmVGSDhPUFU2N01iNWdBMXpsdmxMUmhPT0pwQ2VaeE9sUUx0Vml2ZUlZS0c0bGMzSk1KTkRWcm1SODdUZ3lza3YxUW1ReUpnbG9wZzBIZlR0UzBkSmFsOFozaVkzd3ZKT3Rnanc?oc=5\" target=\"_blank\">Malaysia and China to develop smart city pilot projects in Ipoh and Seberang Perai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newswav</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmRwdVRYOUs1UWtNZjRhTnVxN1ROQ0lLTmpwZmRIbW5IR1BiN2ZSQWZ3NHNwV0VxSzV1WnZiQkp4NThoQWRFZ2VFWW5jV1BtSENLTjFtNXpUREdvbzNQdWdpa2N2OGc3QUFrcXdVUGQ1ZzRtYkhqTG5UUFA4alNoX1pSUmFDQTk2M015THpRRmFBNVpKLUE?oc=5",
-        "date": "2025-09-14",
-        "title": "China set to open world\u2019s tallest bridge, expanding infrastructure push - The Washington Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmRwdVRYOUs1UWtNZjRhTnVxN1ROQ0lLTmpwZmRIbW5IR1BiN2ZSQWZ3NHNwV0VxSzV1WnZiQkp4NThoQWRFZ2VFWW5jV1BtSENLTjFtNXpUREdvbzNQdWdpa2N2OGc3QUFrcXdVUGQ1ZzRtYkhqTG5UUFA4alNoX1pSUmFDQTk2M015THpRRmFBNVpKLUE?oc=5\" target=\"_blank\">China set to open world\u2019s tallest bridge, expanding infrastructure push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: China set to open worlds tallest bridge, expanding infrastructure push."
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmRwdVRYOUs1UWtNZjRhTnVxN1ROQ0lLTmpwZmRIbW5IR1BiN2ZSQWZ3NHNwV0VxSzV1WnZiQkp4NThoQWRFZ2VFWW5jV1BtSENLTjFtNXpUREdvbzNQdWdpa2N2OGc3QUFrcXdVUGQ1ZzRtYkhqTG5UUFA4alNoX1pSUmFDQTk2M015THpRRmFBNVpKLUE?oc=5",
-        "date": "2025-09-14",
-        "title": "China set to open world\u2019s tallest bridge, expanding infrastructure push - The Washington Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmRwdVRYOUs1UWtNZjRhTnVxN1ROQ0lLTmpwZmRIbW5IR1BiN2ZSQWZ3NHNwV0VxSzV1WnZiQkp4NThoQWRFZ2VFWW5jV1BtSENLTjFtNXpUREdvbzNQdWdpa2N2OGc3QUFrcXdVUGQ1ZzRtYkhqTG5UUFA4alNoX1pSUmFDQTk2M015THpRRmFBNVpKLUE?oc=5\" target=\"_blank\">China set to open world\u2019s tallest bridge, expanding infrastructure push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: China set to open worlds tallest bridge, expanding infrastructure push",
-        "type": "news"
-    },
-    {
-        "link": null,
         "date": "2025-09-15",
         "status": "posted",
         "tweet": "Summary: Bitcoin has the highest network scalability costs, followed by Ethereum and Solana.\n\n1. Bitcoin: $1.5B annual cost for 7 TPS\n2. Ethereum: $500M annual cost for 30 TPS\n3. Solana: $100M annual cost for 2,000 TPS",
@@ -4568,5 +4451,12 @@
         "tweet": "\ud83c\udf0d Global urban development firms expected to invest over $350 billion in sustainable urban infrastructure by 2026. \n\ud83c\udde8\ud83c\uddf3China alone accounts for 40% of this projected expenditure, highlighting the growing focus on green cities.",
         "type": "statistical",
         "category": "urban development firms"
+    },
+    {
+        "link": null,
+        "date": "2025-09-24",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin has the highest network scalability costs, followed by Ethereum and Solana.\n\n1. Bitcoin: $7.9B/year\n2. Ethereum: $1.5B/year\n3. Solana: $0.2B/year",
+        "type": "crypto"
     }
 ]
