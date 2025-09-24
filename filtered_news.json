@@ -4468,5 +4468,15 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSzg0MFo4RjM1TUZNRFJMdmRCb1pxTUZIQWhyUzd3LVhFLVBnRHM3clhFazROOTQzZG5kYjNxMnduQ0ZZck51QzlZSlNoU0VCV3I0X1NfbVRDLU9EZ0t4VTVsaWlhT2RtbVlaUkF0b3U4QWFnbnJQT0ZOQW9sRzFYY0FJdW1wd0c3bTZBb2ZuSEZFSkpRYlhjMA?oc=5",
+        "date": "2025-09-24",
+        "title": "Alibaba plans to boost investment in AI infrastructure, models - Tech in Asia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSzg0MFo4RjM1TUZNRFJMdmRCb1pxTUZIQWhyUzd3LVhFLVBnRHM3clhFazROOTQzZG5kYjNxMnduQ0ZZck51QzlZSlNoU0VCV3I0X1NfbVRDLU9EZ0t4VTVsaWlhT2RtbVlaUkF0b3U4QWFnbnJQT0ZOQW9sRzFYY0FJdW1wd0c3bTZBb2ZuSEZFSkpRYlhjMA?oc=5\" target=\"_blank\">Alibaba plans to boost investment in AI infrastructure, models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech in Asia</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
