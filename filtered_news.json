@@ -4458,5 +4458,15 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin has the highest network scalability costs, followed by Ethereum and Solana.\n\n1. Bitcoin: $7.9B/year\n2. Ethereum: $1.5B/year\n3. Solana: $0.2B/year",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjVrUXN4OHpHVk5GZkd2ZXYta1pMbjU0TURPOXVqOHlZdUhJbmhObjI2Rlo2azA5QnJ5SDBVQ3VrUm5ZSzRhUnFMN2x0cmNMQ3RFRVRqX0s5Z1V4bVhiZ1lZQkxsTnlEMEJpUU9LUzJqbm5iUzM1R2xNOGFXbC0teElUek04cms0QzZCbldTMU0?oc=5",
+        "date": "2025-09-24",
+        "title": "How AI, Data, and Climate Reshaping What We Build Next - Construction & Property News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjVrUXN4OHpHVk5GZkd2ZXYta1pMbjU0TURPOXVqOHlZdUhJbmhObjI2Rlo2azA5QnJ5SDBVQ3VrUm5ZSzRhUnFMN2x0cmNMQ3RFRVRqX0s5Z1V4bVhiZ1lZQkxsTnlEMEJpUU9LUzJqbm5iUzM1R2xNOGFXbC0teElUek04cms0QzZCbldTMU0?oc=5\" target=\"_blank\">How AI, Data, and Climate Reshaping What We Build Next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction & Property News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
