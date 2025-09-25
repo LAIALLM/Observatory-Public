@@ -4457,5 +4457,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-09-25",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global infrastructure gap projected to hit $15 trillion by 2040. In contrast, \ud83c\uddfa\ud83c\uddf8 U.S. allocated $2 trillion in 2025 towards infrastructure renewal - biggest investment in a century. \n\nReaching global adequacy remains a pressing challenge.",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
