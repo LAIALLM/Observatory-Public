@@ -4209,5 +4209,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \nQ4 2021 Earnings: \nRevenue: $83.4 billion\nNet income: $20.6 billion\nDiluted EPS: $1.24\nCash and equivalents: $34 billion\n$AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-09-25",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin, Ethereum, and Solana face varying regulatory impacts on infrastructure costs in 2025.\n\n1. \ud83c\udde8\ud83c\uddf3 China: Bitcoin mining ban increases global infrastructure costs.\n2. \ud83c\uddfa\ud83c\uddf8 USA: Ethereum regulatory uncertainty raises compliance expenses.\n3. \ud83c\uddea\ud83c\uddfa EU: Solana benefits from cl",
+        "type": "crypto"
     }
 ]
