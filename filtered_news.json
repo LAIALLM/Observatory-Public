@@ -4220,5 +4220,12 @@
         "status": "posted",
         "tweet": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f NEWS: World-first carbon capture facility to be built in North Wales, aiming to remove 100,000 tonnes of CO2 annually.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-09-26",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Google\u2019s data centers consume 5.7 terawatt-hours per year - about as much as Las Vegas. Efficient cooling systems cut energy needs by 50%. [$GOOG]",
+        "type": "infrastructure"
     }
 ]
