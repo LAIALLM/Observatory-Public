@@ -4227,5 +4227,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Google\u2019s data centers consume 5.7 terawatt-hours per year - about as much as Las Vegas. Efficient cooling systems cut energy needs by 50%. [$GOOG]",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-09-26",
+        "status": "posted",
+        "tweet": "Summary: Solana has the lowest cost per transaction among Bitcoin, Ethereum, and Solana in 2025.\n\n1. Solana: $0.00025 per transaction, 65,000 TPS\n2. Ethereum: $0.35 per transaction, 100,000 TPS\n3. Bitcoin: $1.50 per transaction, 7 TPS",
+        "type": "crypto"
     }
 ]
