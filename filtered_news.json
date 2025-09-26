@@ -4274,5 +4274,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-09-26",
+        "status": "posted",
+        "tweet": "\ud83c\udf0dGlobal data shows that by 2025, 58% of urban dwellers will live in smart cities, a significant rise from 43% in 2023. \n\n\ud83d\ude80Carrying an estimated $1.7 trillion value in 2025, smart city industry is projected to grow 18.9% annually from 2023. \n\nThe future truly is smart and urban!",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
