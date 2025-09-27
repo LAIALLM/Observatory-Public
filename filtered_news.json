@@ -3985,5 +3985,13 @@
         "status": "posted",
         "tweet": "In 2025, Bitcoin mining remains highly concentrated in \ufffd\ufe0f China (65%) and \ud83c\uddfa\ud83c\uddf8 USA (20%). \n\nIn contrast, Ethereum's geographic distribution is more diverse: \ud83c\uddfa\ud83c\uddf8 USA (30%), \ud83c\udde9\ud83c\uddea Germany (20%), and \ud83c\uddf7\ud83c\uddfa Russia (15%).",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-09-27",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 USA: According to projections, by 2030, fully electric vehicles are expected to account for 50% of all new car sales, significantly reducing greenhouse gas emissions in the transportation sector. \n\nEncouraging shift toward sustainable alternatives evident.",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
