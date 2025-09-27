@@ -3978,5 +3978,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: 15.8-acre Worli Dairy land to be redeveloped as a financial hub.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-09-27",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin mining remains highly concentrated in \ufffd\ufe0f China (65%) and \ud83c\uddfa\ud83c\uddf8 USA (20%). \n\nIn contrast, Ethereum's geographic distribution is more diverse: \ud83c\uddfa\ud83c\uddf8 USA (30%), \ud83c\udde9\ud83c\uddea Germany (20%), and \ud83c\uddf7\ud83c\uddfa Russia (15%).",
+        "type": "crypto"
     }
 ]
