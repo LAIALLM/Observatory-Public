@@ -4184,5 +4184,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-09-27",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n\nAs of June 2021, 1.65 billion devices by Apple are actively in use globally.\nTotal energy consumption in 2020: 34.1 million MWh.\nRenewable energy share: 100%.\n\nEfficiency rating remains at 87%.\n\n$AAPL",
+        "type": "infrastructure"
     }
 ]
