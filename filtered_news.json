@@ -3870,5 +3870,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. $AAPL\nData Center Energy Consumption 2019 \u2013 507,000 MWh \nRenewable Energy Implementation \u2013 100%\nYOY Reduction in GHG Emissions \u2013 64.9%\n\nGoing strong with efficient energy use and emissions reduction. \ud83d\udcaa\ud83c\udf4f",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-09-28",
+        "status": "posted",
+        "tweet": "In 2025, Ethereum's staking costs are significantly lower than Bitcoin's mining costs. \n\nEthereum staking: $1.2 billion annually.\nBitcoin mining: $15 billion annually.\n\nThis stark difference highlights Ethereum's energy efficiency.",
+        "type": "crypto"
     }
 ]
