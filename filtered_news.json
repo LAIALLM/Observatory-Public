@@ -3855,5 +3855,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-09-28",
+        "status": "posted",
+        "tweet": "Summary: Leading countries in infrastructure investment in 2025\n\n\ud83c\udde8\ud83c\uddf3 China\n\ud83c\uddfa\ud83c\uddf8 USA\n\ud83c\uddee\ud83c\uddf3 India\n\ud83c\uddef\ud83c\uddf5 Japan\n\ud83c\udde6\ud83c\uddea UAE\n\nInvestments in infrastructure projects totaling $1.7T, $1.3T, $1.1T, $800B, and $700B respectively.",
+        "type": "statistical",
+        "category": "infrastructure companies"
     }
 ]
