@@ -4109,5 +4109,25 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWRvZ3Y2MktkN2cwQVNiWEFtek9fay0wQ1JwTXBKZm1WTUtfVW1pWDdVVG1IUnBmZkpzUm1qVHM3eWZNNWw0Q3B2b1pPSGFtbmk4YzRzeGhJRDBkUjB0N25ZSExXVkxBb0lDOTAxZWpLQmlvWV9fZEVmUnJydDdoWU5LWHoyRFUtekVPbUJLQUJ4ZHg2R2ZZdEo1VTFza2VNV2JEUEVhemdKTzRuRGo1Y0VLT0N1Yms2VXlVRA?oc=5",
+        "date": "2025-09-28",
+        "title": "Raja for Spl consideration for Arunachal projects to overcome funding criteria - Arunachal Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWRvZ3Y2MktkN2cwQVNiWEFtek9fay0wQ1JwTXBKZm1WTUtfVW1pWDdVVG1IUnBmZkpzUm1qVHM3eWZNNWw0Q3B2b1pPSGFtbmk4YzRzeGhJRDBkUjB0N25ZSExXVkxBb0lDOTAxZWpLQmlvWV9fZEVmUnJydDdoWU5LWHoyRFUtekVPbUJLQUJ4ZHg2R2ZZdEo1VTFza2VNV2JEUEVhemdKTzRuRGo1Y0VLT0N1Yms2VXlVRA?oc=5\" target=\"_blank\">Raja for Spl consideration for Arunachal projects to overcome funding criteria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arunachal Observer</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaTVTOFpFSDlFc184WHhWajBTOGhmM1d2REROS3ZVYkM4akJpRlV4dF9OTDJLSnlUVmU2b25sQnZ1UHo1MGdmRC1ldHNsSXBBVnVUTDVtYVB5aHIxcTJFcDl1S1BUeUpLMGVkR0R5ODI2Y1JyVnNlNzN4WUU2V3VwMm84Q1VhV1prMG9mRllqR2VaQWZFQlI2a2x1YTBzT0RVaWlYLXVn?oc=5",
+        "date": "2025-09-28",
+        "title": "Guv seeks Centre\u2019s help to manage unchecked urbanization - The Arunachal Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQaTVTOFpFSDlFc184WHhWajBTOGhmM1d2REROS3ZVYkM4akJpRlV4dF9OTDJLSnlUVmU2b25sQnZ1UHo1MGdmRC1ldHNsSXBBVnVUTDVtYVB5aHIxcTJFcDl1S1BUeUpLMGVkR0R5ODI2Y1JyVnNlNzN4WUU2V3VwMm84Q1VhV1prMG9mRllqR2VaQWZFQlI2a2x1YTBzT0RVaWlYLXVn?oc=5\" target=\"_blank\">Guv seeks Centre\u2019s help to manage unchecked urbanization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arunachal Times</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
