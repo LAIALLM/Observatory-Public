@@ -3230,5 +3230,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 USA infra companies projected to see 60% workforce growth by 2030. \ud83c\udde8\ud83c\uddf3 Chinese equivalents anticipating 80% boost. \n\n\ud83c\udf0d Global infra spending set to reach $10 trillion annually by 2030. Investment in green tech up by 150% since 2023.",
         "type": "statistical",
         "category": "infrastructure companies"
+    },
+    {
+        "link": null,
+        "date": "2025-09-29",
+        "status": "posted",
+        "tweet": "In 2025, Ethereum's annual staking costs are $1.2 billion, significantly lower than Bitcoin's $18.6 billion mining costs. \n\nEthereum's staking is 93% less energy-intensive than Bitcoin's mining, highlighting a stark contrast in infrastructural efficiency.",
+        "type": "crypto"
     }
 ]
