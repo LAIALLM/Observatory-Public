@@ -3298,5 +3298,12 @@
         "status": "posted",
         "tweet": "In 2025, Bitcoin's network scalability costs reached $1.2 billion annually, while Ethereum's costs were significantly lower at $300 million.\n\nThe difference stems from Bitcoin's proof-of-work vs. Ethereum's proof-of-stake consensus mechanisms.\n\nBitcoin processes 7 transactions pe",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-09-30",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Facebook Inc.\n- Daily data volumes: 4 petabytes\n- Production figures: 350 million photos per day\n- Energy consumption: 795,000 MWh annually\n- Efficiency rating: 1.07 PUE\n$FB",
+        "type": "infrastructure"
     }
 ]
