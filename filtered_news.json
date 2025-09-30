@@ -3305,5 +3305,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Facebook Inc.\n- Daily data volumes: 4 petabytes\n- Production figures: 350 million photos per day\n- Energy consumption: 795,000 MWh annually\n- Efficiency rating: 1.07 PUE\n$FB",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-09-30",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China is projected to have a wind power capacity of 450 GW by 2025, surpassing its 2020 goal by 50 GW. \ud83c\udf2c\ufe0f Meanwhile, \ud83c\uddfa\ud83c\uddf8 the US is projected to exceed 150 GW wind capacity by 2025. The wind energy race is heating up! \ud83c\udf43",
+        "type": "statistical",
+        "category": "energy"
     }
 ]
