@@ -3697,5 +3697,126 @@
         "status": "posted",
         "tweet": "\ud83c\udde9\ud83c\uddea NEWS: 129 million euros allocated for urban development in Saxony.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaTlhR29UM3JpOHlfUlRabTdjUkNIcnlIbUZlY2ZjNmhLQm43OVZxZGJtQ2RvOTNHUFNhVE1OR1dnVEN1blk4MFVzbHdtT0xwZVJwM2R1WEh2eFFMOUtmZk93WllsTmswcG5lLXpMSERocEtoZ2JBRWRKdF9IS0ozYklPaUtHdWpFNHZzUG1aMzlSd3RTN3Qw?oc=5",
+        "date": "2025-10-01",
+        "title": "Demand for circularity in construction on the rise, new research finds - HUB-4.COM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPaTlhR29UM3JpOHlfUlRabTdjUkNIcnlIbUZlY2ZjNmhLQm43OVZxZGJtQ2RvOTNHUFNhVE1OR1dnVEN1blk4MFVzbHdtT0xwZVJwM2R1WEh2eFFMOUtmZk93WllsTmswcG5lLXpMSERocEtoZ2JBRWRKdF9IS0ozYklPaUtHdWpFNHZzUG1aMzlSd3RTN3Qw?oc=5\" target=\"_blank\">Demand for circularity in construction on the rise, new research finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HUB-4.COM</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWFdKa1lYUUZkRE5WeS1VNkVkaUJnNENrNlBOS3JvMGJObzFjcEM0YWlvNmFzT2x4UldkU3ZDYUVveG4tXzVJd3BILUREY2F2Z2pDNzd0NXRhZWUxTjhwR00xODRjVTh5RVlZOXdqLTNHSVJhVmp1d1p0ekpEWHZUZGRtUHUteHJka20xNUhMRUFrV2YtWkwwT0t4ejI3N0lXR0QxeDNBRHB0SEJpb040ZEhOWXYtQTA?oc=5",
+        "date": "2025-10-01",
+        "title": "IBM and AMD partner with Zyphra to develop AI infrastructure - Investing.com India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNWFdKa1lYUUZkRE5WeS1VNkVkaUJnNENrNlBOS3JvMGJObzFjcEM0YWlvNmFzT2x4UldkU3ZDYUVveG4tXzVJd3BILUREY2F2Z2pDNzd0NXRhZWUxTjhwR00xODRjVTh5RVlZOXdqLTNHSVJhVmp1d1p0ekpEWHZUZGRtUHUteHJka20xNUhMRUFrV2YtWkwwT0t4ejI3N0lXR0QxeDNBRHB0SEJpb040ZEhOWXYtQTA?oc=5\" target=\"_blank\">IBM and AMD partner with Zyphra to develop AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com India</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWmF0N09nWGpGTzR2bXMzc2hBM3ljOS1raUdIZGdNV3Vjd1B5MDhZS0NpYzVwbzR6Z1VBSWhfaWlPTTZ0MlpZZ2NBVjJyT3pUQmg5cUxQcmpUUl9LTjNFWFA0TmtxZlFzYS1heG51RlJ1TnBsb2huYk9heEVVVU16THFtMDNVVENMU1RCcGk1a1FxaDkzb2QwR3FCQWdmMldCNFhtWTJ1a0xYT215T1BKeUR4RkxVYWhsVVpOLU1jU0RRTFpiTHlRbjZVVC1NNWZvOFRqb0x6bXNFLVhQNm9SdUVmX2g?oc=5",
+        "date": "2025-10-01",
+        "title": "Energy ministers and decision-makers take part in high-level IEA roundtable on strengthening energy infrastructure resilience - News - IEA \u2013 International Energy Agency",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWmF0N09nWGpGTzR2bXMzc2hBM3ljOS1raUdIZGdNV3Vjd1B5MDhZS0NpYzVwbzR6Z1VBSWhfaWlPTTZ0MlpZZ2NBVjJyT3pUQmg5cUxQcmpUUl9LTjNFWFA0TmtxZlFzYS1heG51RlJ1TnBsb2huYk9heEVVVU16THFtMDNVVENMU1RCcGk1a1FxaDkzb2QwR3FCQWdmMldCNFhtWTJ1a0xYT215T1BKeUR4RkxVYWhsVVpOLU1jU0RRTFpiTHlRbjZVVC1NNWZvOFRqb0x6bXNFLVhQNm9SdUVmX2g?oc=5\" target=\"_blank\">Energy ministers and decision-makers take part in high-level IEA roundtable on strengthening energy infrastructure resilience - News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IEA \u2013 International Energy Agency</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOGZUcWw0SzJvNS05SnQzRUZxdV91Nkw0bWdKUVk4akhxWXltNWc4UzUwRHNFbk5jVTdhZmg4eC1HLWsxNEZlYjM3bXBLaFZfa2JNeTBNRjkxdWhsVm9fUUVyZHVhMWV6Yy1xUEFpVkh4eW5HeklRQWFwaUdPQmVqR0VLVFZLZWN0MjJMUXdmU0RtMENVQloxd19ZY0padW9EYWY1M0d4dWpjMFlpYWxBUHdmaDZ4N2wyUzM3OXRPZ9IBxAFBVV95cUxOY3JvcGl4amlMTmo5TzlwT2RMWk00WVRBejAxSkxQQ3NtUjd1NW9ua1ZyQ2w5UGJWay1DdGEzTENLMldMTlo1clQyVUNTTkdtNERYNDZFLXNWb2hmajM3a0M1WDBtb0daZjU0TzAzREZMb19PcGFhSE1hMC1TM0NpYm1zZkltQi0tNGJ5ei1XdmpxU2RvZmQ1TExTa0N0U1d2T01JM3B3TkMzWE45MmpDMnVqZWp1NlJVTzBNaUFUVHBKUS1V?oc=5",
+        "date": "2025-10-01",
+        "title": "Global Investors Flock to Middle East Infrastructure Opportunities - Crude Oil Prices Today | OilPrice.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPOGZUcWw0SzJvNS05SnQzRUZxdV91Nkw0bWdKUVk4akhxWXltNWc4UzUwRHNFbk5jVTdhZmg4eC1HLWsxNEZlYjM3bXBLaFZfa2JNeTBNRjkxdWhsVm9fUUVyZHVhMWV6Yy1xUEFpVkh4eW5HeklRQWFwaUdPQmVqR0VLVFZLZWN0MjJMUXdmU0RtMENVQloxd19ZY0padW9EYWY1M0d4dWpjMFlpYWxBUHdmaDZ4N2wyUzM3OXRPZ9IBxAFBVV95cUxOY3JvcGl4amlMTmo5TzlwT2RMWk00WVRBejAxSkxQQ3NtUjd1NW9ua1ZyQ2w5UGJWay1DdGEzTENLMldMTlo1clQyVUNTTkdtNERYNDZFLXNWb2hmajM3a0M1WDBtb0daZjU0TzAzREZMb19PcGFhSE1hMC1TM0NpYm1zZkltQi0tNGJ5ei1XdmpxU2RvZmQ1TExTa0N0U1d2T01JM3B3TkMzWE45MmpDMnVqZWp1NlJVTzBNaUFUVHBKUS1V?oc=5\" target=\"_blank\">Global Investors Flock to Middle East Infrastructure Opportunities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crude Oil Prices Today | OilPrice.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeWVNNHEwcjF4Nk95RFVManNBZjBLNlRPWlVXR3ljU0dQMWNacGFnMFF1ZWN0UXRaOXVHNC1FSGFrTDQ0NUpDeTZvY3lKZTRoNl83MVBGclYwZ04temh3SUpwX3BBZmZtampyLXZROTFCUWxnaU90ZVpFbzRZVlhtdXhnZ18wSWl1QUdQejd3U1dfNTFSVkl1ZEQ5dzQ?oc=5",
+        "date": "2025-10-01",
+        "title": "5g Technology 5g Infrastructure Market Segmentation Analysis - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQeWVNNHEwcjF4Nk95RFVManNBZjBLNlRPWlVXR3ljU0dQMWNacGFnMFF1ZWN0UXRaOXVHNC1FSGFrTDQ0NUpDeTZvY3lKZTRoNl83MVBGclYwZ04temh3SUpwX3BBZmZtampyLXZROTFCUWxnaU90ZVpFbzRZVlhtdXhnZ18wSWl1QUdQejd3U1dfNTFSVkl1ZEQ5dzQ?oc=5\" target=\"_blank\">5g Technology 5g Infrastructure Market Segmentation Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaFlCQlNWcmxTTlh5Y1lQdmhObENBZTIxU0VNZUludHAtWjViVHhPYlFTaXlFWm1rLWNoSXNzcWNOYUhLa0pHWUUyUzJjRXR6N2NxNE93UXNGbVc4U2FXR0V3MHUwRTk5S0E1WmYtOElnaWhuTDlaZGZRVVBweXhFbkNya01uNWFLTDR3Rk9nWFI3S21EOENyRTRWeDAzUlJkZF9BRG50MjZyVVhPNUZSSTBCQnVHa0dPSy1McU8yVFZZbl9rT1pJLUl2cTZ5U1d1TEHSAdcBQVVfeXFMUEVYU0RYNGlZNU90QmdtZ2dXWXpBN3hPbWlhQ0xMeEFseEFXS0U5SHNiZ0hBUWRKeDAzbmwyeGpMWHo1cmNFVEVKX3JWUVJMcVBwV0pTcmNRM2U0NzZCWXlISDRubWNIZl9fbF9yYlJxUVAxVV91R3ExWmc4VmZmRUhCZ0JOT2dxXzZrLUgwZWMzaWlOQ3ZDaEVRVGJSaHhSOEh5Q19mT2JtU0wtQm92UEt5RkRXaU53VFNvbnpMM2h3aFYxU1RZVWIzc0ppazVYbGptSXpHQzA?oc=5",
+        "date": "2025-10-01",
+        "title": "Project Swastik: A 65-Year Legacy of Infrastructure Excellence in Sikkim - Devdiscourse",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaFlCQlNWcmxTTlh5Y1lQdmhObENBZTIxU0VNZUludHAtWjViVHhPYlFTaXlFWm1rLWNoSXNzcWNOYUhLa0pHWUUyUzJjRXR6N2NxNE93UXNGbVc4U2FXR0V3MHUwRTk5S0E1WmYtOElnaWhuTDlaZGZRVVBweXhFbkNya01uNWFLTDR3Rk9nWFI3S21EOENyRTRWeDAzUlJkZF9BRG50MjZyVVhPNUZSSTBCQnVHa0dPSy1McU8yVFZZbl9rT1pJLUl2cTZ5U1d1TEHSAdcBQVVfeXFMUEVYU0RYNGlZNU90QmdtZ2dXWXpBN3hPbWlhQ0xMeEFseEFXS0U5SHNiZ0hBUWRKeDAzbmwyeGpMWHo1cmNFVEVKX3JWUVJMcVBwV0pTcmNRM2U0NzZCWXlISDRubWNIZl9fbF9yYlJxUVAxVV91R3ExWmc4VmZmRUhCZ0JOT2dxXzZrLUgwZWMzaWlOQ3ZDaEVRVGJSaHhSOEh5Q19mT2JtU0wtQm92UEt5RkRXaU53VFNvbnpMM2h3aFYxU1RZVWIzc0ppazVYbGptSXpHQzA?oc=5\" target=\"_blank\">Project Swastik: A 65-Year Legacy of Infrastructure Excellence in Sikkim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObW1jX0pxYUFfNjJNLU0yMnU2NmtHa1pVQnNhT0lUaWJTb1ExTmZNVnktUHhXQjhJMmpJb011VHNQRC1TX2NDQWdMcFhhYW82VTNrN2tJX2ZkaDltYk91VlVPd01OUWhGSXpmTTE0eHJUc2FTdThfWkJUR1hsLTF6UzVkanJDWFZoclJlekZGT2dXR01OTmJfa2RMcDFNRV9IRS1Gd1BRZV9qbFJrMkh1bG0xRUNRR1FGeHpTSkJId9IBxAFBVV95cUxOd0tiRUFHVkVKRDN1andFdmNQanZGNExzTWxlYXREZW8yQS1wckVGRGp5TmRTVzJieTVyS0FaOTlRTGo1WkY0MzVmbUhPTjEtU21JVXlyTFhudXBjNXBYbDI2WXJzZWZDd21ZZlZvdHJQSjNDY1BaRm9Rb00wYVlZdTZLTWdXckZhUXZmVktmbHJlZ0lkcEkteGxTdEJTNmp2Njk3bmdDNlRyeHFabnNrbWpPSW1KalBjb05sMkhjYkRWUjlC?oc=5",
+        "date": "2025-10-01",
+        "title": "Cybersecurity Awareness Month 2025: Prioritizing Identity to Safeguard Critical Infrastructure - SecurityWeek",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObW1jX0pxYUFfNjJNLU0yMnU2NmtHa1pVQnNhT0lUaWJTb1ExTmZNVnktUHhXQjhJMmpJb011VHNQRC1TX2NDQWdMcFhhYW82VTNrN2tJX2ZkaDltYk91VlVPd01OUWhGSXpmTTE0eHJUc2FTdThfWkJUR1hsLTF6UzVkanJDWFZoclJlekZGT2dXR01OTmJfa2RMcDFNRV9IRS1Gd1BRZV9qbFJrMkh1bG0xRUNRR1FGeHpTSkJId9IBxAFBVV95cUxOd0tiRUFHVkVKRDN1andFdmNQanZGNExzTWxlYXREZW8yQS1wckVGRGp5TmRTVzJieTVyS0FaOTlRTGo1WkY0MzVmbUhPTjEtU21JVXlyTFhudXBjNXBYbDI2WXJzZWZDd21ZZlZvdHJQSjNDY1BaRm9Rb00wYVlZdTZLTWdXckZhUXZmVktmbHJlZ0lkcEkteGxTdEJTNmp2Njk3bmdDNlRyeHFabnNrbWpPSW1KalBjb05sMkhjYkRWUjlC?oc=5\" target=\"_blank\">Cybersecurity Awareness Month 2025: Prioritizing Identity to Safeguard Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SecurityWeek</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSkN5Tmw3UmZONkVRNHNsd2RUSnVxcHBEbkZ4Tlg2bHZ3Q3hLTzhld3VXaW5OQmxHZVI2ckFEeEhGaHV6Z0JERDVCa0RWby0wejMzMnBGRW9GQjU1QVhBdEprSlRMckZaTnFHTmEzWjJEQURGWVhucV9STUMwUlZIUGNuYXY1NVpRYjRZRlhDTlZDUTQyajliTmtLRktFU1FBY0ZOa3hvVFZ1NTFvOXJzYktyQmxsVmdTeVFsbnl4QXFFelZycFd6NzJsUHlQOF960gHWAUFVX3lxTE9hWmFKNmE0aDNyR21Lc3BleThaaUsxaWdfMFJib185cUROMndndE5hRmFSb05TMm0xRWJwaGtVOUVwMERucFZVM3V1dWJ5bXZXLVgzeUtINGpmdzZvUGxVcVJzWWg4OTIyOGMyWk12ZjFBWkFCTWgyZzFNU1ZyQndEMGgxc29sS3JIckw2NkV2UDZBbVRZTmVlRGVaWnRHTkpJY2lxOHdfVml6SkRSN1Z5SGZObWM0OTlDWW5kb3h5c2ttR3FQajRZVjdoZVlKbDQwZWc4X1E?oc=5",
+        "date": "2025-10-01",
+        "title": "Revamp of Assam's Highway: A Step Towards Wildlife Safety and Infrastructure Growth - Devdiscourse",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSkN5Tmw3UmZONkVRNHNsd2RUSnVxcHBEbkZ4Tlg2bHZ3Q3hLTzhld3VXaW5OQmxHZVI2ckFEeEhGaHV6Z0JERDVCa0RWby0wejMzMnBGRW9GQjU1QVhBdEprSlRMckZaTnFHTmEzWjJEQURGWVhucV9STUMwUlZIUGNuYXY1NVpRYjRZRlhDTlZDUTQyajliTmtLRktFU1FBY0ZOa3hvVFZ1NTFvOXJzYktyQmxsVmdTeVFsbnl4QXFFelZycFd6NzJsUHlQOF960gHWAUFVX3lxTE9hWmFKNmE0aDNyR21Lc3BleThaaUsxaWdfMFJib185cUROMndndE5hRmFSb05TMm0xRWJwaGtVOUVwMERucFZVM3V1dWJ5bXZXLVgzeUtINGpmdzZvUGxVcVJzWWg4OTIyOGMyWk12ZjFBWkFCTWgyZzFNU1ZyQndEMGgxc29sS3JIckw2NkV2UDZBbVRZTmVlRGVaWnRHTkpJY2lxOHdfVml6SkRSN1Z5SGZObWM0OTlDWW5kb3h5c2ttR3FQajRZVjdoZVlKbDQwZWc4X1E?oc=5\" target=\"_blank\">Revamp of Assam's Highway: A Step Towards Wildlife Safety and Infrastructure Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Assams highway revamp aims to enhance wildlife safety and promote infrastructure growth."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOcWFzMnlvTUVlSGVsSGNwWEs2YUt6d29JNjQ3WWJGOEUwNno4dmg0VWdUYmhRSThSVkprRUxTNFhnVkhnREswSksxbWtnclBkWGFDaGxCRmNHRXNJczJCdm56bzBmTW9BZnNWTEZsZmF1OU1VY2xZMDNUNGVOMmg3ZHZ3cG9GcFlGVVVoOEc4WFNfQ0xsNlN6MURlQmdnS2R5MXFrUzNvUGZwZDIzN3ZUSWI1V191NmpTWW5pU1VXaDlISlRNaUdONFluWkRSMk5tRU1LRW1TaDdPcjlnWExMTmYzcmhmT1FnOHRmd0NwOVZxMWY4WnNuSG5rY2h1akQ2V2JzTW1GOXN3azJnVmR5MXhVNDN5bjZoX1dDR2lPc2F0ZC1Pd3JqNWdwTjhLbmg3cm1xMHA5QkZNemZrRERUV3F5Z2h5ZWJUY0lkTUc3SERTckl0MDZWMEhSSnZyZw?oc=5",
+        "date": "2025-10-01",
+        "title": "Smart City Platforms Global Market Forecast Report - GlobeNewswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gJBVV95cUxOcWFzMnlvTUVlSGVsSGNwWEs2YUt6d29JNjQ3WWJGOEUwNno4dmg0VWdUYmhRSThSVkprRUxTNFhnVkhnREswSksxbWtnclBkWGFDaGxCRmNHRXNJczJCdm56bzBmTW9BZnNWTEZsZmF1OU1VY2xZMDNUNGVOMmg3ZHZ3cG9GcFlGVVVoOEc4WFNfQ0xsNlN6MURlQmdnS2R5MXFrUzNvUGZwZDIzN3ZUSWI1V191NmpTWW5pU1VXaDlISlRNaUdONFluWkRSMk5tRU1LRW1TaDdPcjlnWExMTmYzcmhmT1FnOHRmd0NwOVZxMWY4WnNuSG5rY2h1akQ2V2JzTW1GOXN3azJnVmR5MXhVNDN5bjZoX1dDR2lPc2F0ZC1Pd3JqNWdwTjhLbmg3cm1xMHA5QkZNemZrRERUV3F5Z2h5ZWJUY0lkTUc3SERTckl0MDZWMEhSSnZyZw?oc=5\" target=\"_blank\">Smart City Platforms Global Market Forecast Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDNHZFcybmwzbzl3a0p0ZHhBX0xLQVVyMUwzamVPOG1vWHZfQjhrM1BmQklRaFd5NE4xSWUydWRJT1QyV1FTWXMyT1BFa29oRjM3eEtSMTdocHJQaW5EZGJTb0NGYmhIajBCREJQR1ZQSmM4dy1pcVZBVG5NWV9vZDlIVnBrVklfRU10Y1d0MFhYWFJjOEF0RnNLLTY?oc=5",
+        "date": "2025-10-01",
+        "title": "Intelligent Transportation System Global Market Forecast Report 2025-2030: Rapid Development of Smart Cities and Increasing Demand for Mobility Services to Fuel Expansion - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDNHZFcybmwzbzl3a0p0ZHhBX0xLQVVyMUwzamVPOG1vWHZfQjhrM1BmQklRaFd5NE4xSWUydWRJT1QyV1FTWXMyT1BFa29oRjM3eEtSMTdocHJQaW5EZGJTb0NGYmhIajBCREJQR1ZQSmM4dy1pcVZBVG5NWV9vZDlIVnBrVklfRU10Y1d0MFhYWFJjOEF0RnNLLTY?oc=5\" target=\"_blank\">Intelligent Transportation System Global Market Forecast Report 2025-2030: Rapid Development of Smart Cities and Increasing Demand for Mobility Services to Fuel Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoU2ZQRW91MllGbXRGSXkwTjlGWjl1TkZIcXF1ODcwc3ZQVldiOVBtdEVIeXRtNkJUdmhXVVNtbW93bDBiRVIybGVEaVFOck1RWUlFOEhRZG1hUVUwUlp1RzFGeEJPTG8?oc=5",
+        "date": "2025-10-01",
+        "title": "Azerbaijan speeds up green transport, smart city transition, COP29 President says - Trend News Agency",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoU2ZQRW91MllGbXRGSXkwTjlGWjl1TkZIcXF1ODcwc3ZQVldiOVBtdEVIeXRtNkJUdmhXVVNtbW93bDBiRVIybGVEaVFOck1RWUlFOEhRZG1hUVUwUlp1RzFGeEJPTG8?oc=5\" target=\"_blank\">Azerbaijan speeds up green transport, smart city transition, COP29 President says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trend News Agency</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSkN5Tmw3UmZONkVRNHNsd2RUSnVxcHBEbkZ4Tlg2bHZ3Q3hLTzhld3VXaW5OQmxHZVI2ckFEeEhGaHV6Z0JERDVCa0RWby0wejMzMnBGRW9GQjU1QVhBdEprSlRMckZaTnFHTmEzWjJEQURGWVhucV9STUMwUlZIUGNuYXY1NVpRYjRZRlhDTlZDUTQyajliTmtLRktFU1FBY0ZOa3hvVFZ1NTFvOXJzYktyQmxsVmdTeVFsbnl4QXFFelZycFd6NzJsUHlQOF960gHWAUFVX3lxTE9hWmFKNmE0aDNyR21Lc3BleThaaUsxaWdfMFJib185cUROMndndE5hRmFSb05TMm0xRWJwaGtVOUVwMERucFZVM3V1dWJ5bXZXLVgzeUtINGpmdzZvUGxVcVJzWWg4OTIyOGMyWk12ZjFBWkFCTWgyZzFNU1ZyQndEMGgxc29sS3JIckw2NkV2UDZBbVRZTmVlRGVaWnRHTkpJY2lxOHdfVml6SkRSN1Z5SGZObWM0OTlDWW5kb3h5c2ttR3FQajRZVjdoZVlKbDQwZWc4X1E?oc=5",
+        "date": "2025-10-01",
+        "title": "Revamp of Assam's Highway: A Step Towards Wildlife Safety and Infrastructure Growth - Devdiscourse",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSkN5Tmw3UmZONkVRNHNsd2RUSnVxcHBEbkZ4Tlg2bHZ3Q3hLTzhld3VXaW5OQmxHZVI2ckFEeEhGaHV6Z0JERDVCa0RWby0wejMzMnBGRW9GQjU1QVhBdEprSlRMckZaTnFHTmEzWjJEQURGWVhucV9STUMwUlZIUGNuYXY1NVpRYjRZRlhDTlZDUTQyajliTmtLRktFU1FBY0ZOa3hvVFZ1NTFvOXJzYktyQmxsVmdTeVFsbnl4QXFFelZycFd6NzJsUHlQOF960gHWAUFVX3lxTE9hWmFKNmE0aDNyR21Lc3BleThaaUsxaWdfMFJib185cUROMndndE5hRmFSb05TMm0xRWJwaGtVOUVwMERucFZVM3V1dWJ5bXZXLVgzeUtINGpmdzZvUGxVcVJzWWg4OTIyOGMyWk12ZjFBWkFCTWgyZzFNU1ZyQndEMGgxc29sS3JIckw2NkV2UDZBbVRZTmVlRGVaWnRHTkpJY2lxOHdfVml6SkRSN1Z5SGZObWM0OTlDWW5kb3h5c2ttR3FQajRZVjdoZVlKbDQwZWc4X1E?oc=5\" target=\"_blank\">Revamp of Assam's Highway: A Step Towards Wildlife Safety and Infrastructure Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Assams highway revamp aims to enhance wildlife safety and promote infrastructure growth.",
+        "type": "news"
     }
 ]
