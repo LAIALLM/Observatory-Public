@@ -3611,5 +3611,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-10-01",
+        "status": "posted",
+        "tweet": "Summary: Top 5 countries with the largest population in 2025\n\n1. \ud83c\udde8\ud83c\uddf3China\n2. \ud83c\uddee\ud83c\uddf3India\n3. \ud83c\uddfa\ud83c\uddf8United States \n4. \ud83c\uddee\ud83c\udde9Indonesia \n5. \ud83c\uddf5\ud83c\uddf0Pakistan\n\nBy 2025, India is projected to surpass China as the most populated country. Population growth remains a critical global issue.",
+        "type": "statistical",
+        "category": "population"
     }
 ]
