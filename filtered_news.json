@@ -3584,5 +3584,32 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-10-01",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual carbon footprint is estimated at 72 million metric tons of CO2, equivalent to \ud83c\uddf8\ud83c\uddea Sweden's total emissions.\n\nEthereum's footprint is significantly lower at 12 million metric tons, comparable to \ud83c\uddf1\ud83c\uddfa Luxembourg's emissions.",
+        "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVURtWm1Va3psQTNGSF9YSVF5bWFFTmFoMDFqSVZFT0M2bURHZExyMUt0bEEwTk54alh5Z2xpaC1ZR2RrRk1EWnU0SFM1c1ZzNGZBOG56WVRQUDdlOGR6Z3BCbVl0Z2lYMG5IUmJNM0x2U2ZJUU1YeVU2VFY5b0V2bkl3U0xLTV9BTmJ6dEtMN2luS19jTG1FdUtR?oc=5",
+        "date": "2025-10-01",
+        "title": "Women in construction earn 33% less than men - Fix Radio",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQVURtWm1Va3psQTNGSF9YSVF5bWFFTmFoMDFqSVZFT0M2bURHZExyMUt0bEEwTk54alh5Z2xpaC1ZR2RrRk1EWnU0SFM1c1ZzNGZBOG56WVRQUDdlOGR6Z3BCbVl0Z2lYMG5IUmJNM0x2U2ZJUU1YeVU2VFY5b0V2bkl3U0xLTV9BTmJ6dEtMN2luS19jTG1FdUtR?oc=5\" target=\"_blank\">Women in construction earn 33% less than men</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fix Radio</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUTREMlAxYzkzRFVrZDRvWlhsQ0pnT0ZTeS11QVAxTjBPQXlGcVRBMjAyQ0l2MXlxb3VoSzNTdmRBOUxEWHNJdTRGcmJrVklXSHdfMHZPR1pWeDBSdEk3SDJKODRxMVZWaHhXT2pUYlhWYW1DWDc4QVctQk9WRk40UnpDeUtBdw?oc=5",
+        "date": "2025-10-01",
+        "title": "Administration and public services driving employment - Delano.lu",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUTREMlAxYzkzRFVrZDRvWlhsQ0pnT0ZTeS11QVAxTjBPQXlGcVRBMjAyQ0l2MXlxb3VoSzNTdmRBOUxEWHNJdTRGcmJrVklXSHdfMHZPR1pWeDBSdEk3SDJKODRxMVZWaHhXT2pUYlhWYW1DWDc4QVctQk9WRk40UnpDeUtBdw?oc=5\" target=\"_blank\">Administration and public services driving employment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Delano.lu</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
