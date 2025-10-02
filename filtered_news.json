@@ -3548,5 +3548,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple $AAPL\n\nQ1 2022, iPhone units sold:\n- 79.3 million \n\nQ2 2022, iPhone units sold:\n- 47 million \n\n\ud83d\udd3bDecrease of 32.3 million units (-41%) between quarters.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-10-02",
+        "status": "posted",
+        "tweet": "In 2025, 45% of Bitcoin nodes are concentrated in \ud83c\uddfa\ud83c\uddf8 USA and \ud83c\udde9\ud83c\uddea Germany, highlighting significant centralization risks in the network's infrastructure.",
+        "type": "crypto"
     }
 ]
