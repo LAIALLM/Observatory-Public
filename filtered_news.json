@@ -3513,5 +3513,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUVLZkZVcEFHUlpqREs4RWRSc3ZjcW9jSEh5NUJxZkRIOFVrcEdjTzlscDRRVEhxWXBOQ05EcTU1LU84OHV0NkVsUUdQX3gwV1lkWFRNUFpyMUxZZlp5a3RuT1N0OXQ1X0lUc1l4WnBobGlINTVWU0tLem5DOGFXdURDUXI5b21G?oc=5",
+        "date": "2025-10-02",
+        "title": "Construction CEOs Summoned for National Assembly Safety Audit - \uc870\uc120\uc77c\ubcf4",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUVLZkZVcEFHUlpqREs4RWRSc3ZjcW9jSEh5NUJxZkRIOFVrcEdjTzlscDRRVEhxWXBOQ05EcTU1LU84OHV0NkVsUUdQX3gwV1lkWFRNUFpyMUxZZlp5a3RuT1N0OXQ1X0lUc1l4WnBobGlINTVWU0tLem5DOGFXdURDUXI5b21G?oc=5\" target=\"_blank\">Construction CEOs Summoned for National Assembly Safety Audit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\uc870\uc120\uc77c\ubcf4</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWWlIbHprcFkzUVpJSURZU0dYNU5DT1daRklXZVY5a2dUbGRad1ExbkhIeDA5UC16blNTRW5oa1Y0Y29CalR5N1hjckRVN2dIQjBGNl9DcjA1UXZOcDc2SXFPWi15aWNxNXdpX2IxUy1oR2RHMnB0Y0l2dk1KSUJFZ1pOd003dm83YkpzcHNRU0lLek11M0lBdnV1Tkpud2RIbDNjMFhqSzY?oc=5",
+        "date": "2025-10-02",
+        "title": "GIS technology revolutionizes urban management in Ho Chi Minh City - SGGP English Edition",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWWlIbHprcFkzUVpJSURZU0dYNU5DT1daRklXZVY5a2dUbGRad1ExbkhIeDA5UC16blNTRW5oa1Y0Y29CalR5N1hjckRVN2dIQjBGNl9DcjA1UXZOcDc2SXFPWi15aWNxNXdpX2IxUy1oR2RHMnB0Y0l2dk1KSUJFZ1pOd003dm83YkpzcHNRU0lLek11M0lBdnV1Tkpud2RIbDNjMFhqSzY?oc=5\" target=\"_blank\">GIS technology revolutionizes urban management in Ho Chi Minh City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SGGP English Edition</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
