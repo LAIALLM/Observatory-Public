@@ -3541,5 +3541,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 USA is set to invest over $2 trillion in infrastructural projects by 2030, aiming to reconstruct over 10,000 bridges, revolutionize the public transit system, and replace 100% of lead pipes and service lines across the country. Truly a game changer for American infrastructure!",
         "type": "statistical",
         "category": "infrastructural projects"
+    },
+    {
+        "link": null,
+        "date": "2025-10-02",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple $AAPL\n\nQ1 2022, iPhone units sold:\n- 79.3 million \n\nQ2 2022, iPhone units sold:\n- 47 million \n\n\ud83d\udd3bDecrease of 32.3 million units (-41%) between quarters.",
+        "type": "infrastructure"
     }
 ]
