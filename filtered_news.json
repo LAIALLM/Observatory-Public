@@ -3777,5 +3777,35 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkFVZXE4M3lZTFN6YlNMVmduZWpQS1R1UjFXVW5SZUM1YU5LM1hCQ1NJaHU1c3dxbmhJMkF5ZG44T3FncjJ5RUVIYzlNMVVfMmp1TTczc004bndDdm5EUV9hbzY3azRHSW5hY0NEdWM4Z1hoemhmV1hhRHdTaHBVcE8tYzY2NGNRVjJKVWdjdHVrOWNBeUlRRk1vSnkwdjJ4LTBOelNvbE5RSlBqem9fZTlGWDcyLWFnbm1JM1E4eHRLNFlrS1JIbTE5bUttVmJMODU4?oc=5",
+        "date": "2025-10-02",
+        "title": "FTAI Infrastructure Inc. Schedules Third Quarter 2025 Financial Results Announcement and Conference Call - Quiver Quantitative",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkFVZXE4M3lZTFN6YlNMVmduZWpQS1R1UjFXVW5SZUM1YU5LM1hCQ1NJaHU1c3dxbmhJMkF5ZG44T3FncjJ5RUVIYzlNMVVfMmp1TTczc004bndDdm5EUV9hbzY3azRHSW5hY0NEdWM4Z1hoemhmV1hhRHdTaHBVcE8tYzY2NGNRVjJKVWdjdHVrOWNBeUlRRk1vSnkwdjJ4LTBOelNvbE5RSlBqem9fZTlGWDcyLWFnbm1JM1E4eHRLNFlrS1JIbTE5bUttVmJMODU4?oc=5\" target=\"_blank\">FTAI Infrastructure Inc. Schedules Third Quarter 2025 Financial Results Announcement and Conference Call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWi1SVzJGRVd4SzVISjE5NHdwR19TOFhnMldiblBxWGhGZWlEOEo1NHdZeHJoV3pEc1IxZmpwMkZKVTZYVDRQc0FRdDIwYU9DbG9mWTEyZkgwTllvMFp3Y2VYRXNBSWtTRWhSNHJvS0VTN20yaHRham1oMWxOajNYUmN1Qk8zcldxR0JBQ1psTQ?oc=5",
+        "date": "2025-10-02",
+        "title": "BNY Mellon Municipal Bond Infrastructure Fund, Inc. (NYSE: DMB) Announces Distribution - Yahoo Finance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNWi1SVzJGRVd4SzVISjE5NHdwR19TOFhnMldiblBxWGhGZWlEOEo1NHdZeHJoV3pEc1IxZmpwMkZKVTZYVDRQc0FRdDIwYU9DbG9mWTEyZkgwTllvMFp3Y2VYRXNBSWtTRWhSNHJvS0VTN20yaHRham1oMWxOajNYUmN1Qk8zcldxR0JBQ1psTQ?oc=5\" target=\"_blank\">BNY Mellon Municipal Bond Infrastructure Fund, Inc. (NYSE: DMB) Announces Distribution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/61461-partial-apartment-building-collapse-in-nyc-possibly-triggered-by-boiler",
+        "date": "2025-10-02",
+        "title": "Partial Collapse of NYC  Apartment Building Possibly Triggered by Boiler",
+        "summary": "<p><span style=\"font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; display: inline !important; float: none;\">A corner of a New York City Housing Authority apartment building collapsed Wednesday morning, following a likely explosion in the 1960s-era building's boiler system.</span></p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
