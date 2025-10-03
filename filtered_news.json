@@ -4110,5 +4110,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfb\ud83c\uddf3 NEWS: Sun Group launches three urban area projects worth $1.44 billion in Quang Tri.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-10-03",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US infrastructure companies set to surge as projections indicate a staggering $2 trillion investment between 2025 and 2035. It's anticipated to create 2.3 million jobs annually, positioning the industry as a key driver of economic growth.",
+        "type": "statistical",
+        "category": "infrastructure companies"
     }
 ]
