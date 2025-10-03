@@ -3592,5 +3592,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-10-03",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin consumes more electricity annually than Ethereum and Solana combined.\n\n1. Bitcoin: 127 TWh/year, surpassing \ud83c\uddfa\ud83c\uddfaUkraine's consumption\n2. Ethereum: 24 TWh/year, similar to \ud83c\udde8\ud83c\uddedSwitzerland\n3. Solana: 0.14 TWh/year, less than \ud83c\uddf1\ud83c\uddeeLiechtenstein",
+        "type": "crypto"
     }
 ]
