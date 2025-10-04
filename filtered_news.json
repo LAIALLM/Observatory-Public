@@ -3905,5 +3905,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-10-04",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 USA: By 2025, an estimated $2 trillion infrastructure investment gap will persist, highlighting urgent need for infra renewal and expansion. The cost of inaction is immense: $3,300 per household, per year in lost income. Act now or pay the price in diminished quality of life.",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
