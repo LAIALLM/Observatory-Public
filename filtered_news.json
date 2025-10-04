@@ -3808,5 +3808,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-10-04",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n\n\ud83d\udcca March 2021: \n\n- 1.65 billion active devices \n- 32.5% increase since 2020\n\n$AAPL",
+        "type": "infrastructure"
     }
 ]
