@@ -3426,5 +3426,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-10-05",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global construction projects are expected to hit an all-time high of $15 trillion by the end of 2025, with most growth coming from Asia and the Pacific regions. The US alone will account for a massive $1.4 trillion, a 4.5% jump from 2024. \ud83c\udfd7\ufe0f\ud83d\udcb0",
+        "type": "statistical",
+        "category": "construction projects"
     }
 ]
