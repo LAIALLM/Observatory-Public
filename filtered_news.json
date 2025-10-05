@@ -3615,5 +3615,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-10-05",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US-based tech giant Apple Inc. $AAPL\n\n- 100% of its data centers are powered by renewable energy. \n\n- Achieved a 70% decrease in average product energy use in the past decade.",
+        "type": "infrastructure"
     }
 ]
