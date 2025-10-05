@@ -3505,5 +3505,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Chhattisgarh unveils its first national highway tunnel, a landmark in Indias infrastructure drive, built in just 12 months.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamFma0xyNkNJcFo1Z1Byd2JwMU9aWjZhblRvcXFXUlViZ2I0cVJXNTY5c0cwcDNVeGlGQWhFa182Y1Z3aGtlY1JzeU9lUDExUjFYUGtPRkJIYmNzdjFPeXBnZTRBbEtROTZwWDNDc2NKOEo3ZWFpa0VXSTkxM1pidFdqRURTaG9ack1IZ2ljSlg0c3ktRlRJS3Z0bTFaMjF1M1RfallmWWM?oc=5",
+        "date": "2025-10-05",
+        "title": "MEP Infrastructure Developers Limited (539126) Stock Rallies - Sector-Based Investing & The Best Picks Hiding in Plain Sight - earlytimes.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamFma0xyNkNJcFo1Z1Byd2JwMU9aWjZhblRvcXFXUlViZ2I0cVJXNTY5c0cwcDNVeGlGQWhFa182Y1Z3aGtlY1JzeU9lUDExUjFYUGtPRkJIYmNzdjFPeXBnZTRBbEtROTZwWDNDc2NKOEo3ZWFpa0VXSTkxM1pidFdqRURTaG9ack1IZ2ljSlg0c3ktRlRJS3Z0bTFaMjF1M1RfallmWWM?oc=5\" target=\"_blank\">MEP Infrastructure Developers Limited (539126) Stock Rallies - Sector-Based Investing & The Best Picks Hiding in Plain Sight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">earlytimes.in</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOU9Mc1k1LU5zWWI5aTRUZE1NazB6RnVmV2haYkhldFpKZ3NLY2dwaENZbEotTUFfQ3hNc2hXbmN4RWExbzBvQTc4QWlYX3d6cTFhN1lKMlMzcjlfNFlBVXM5RlR5SGQzSllBZkRpREpuenUyeFFJblA5cXJra004d1h1bm5MZjJvVW9FYklWZXJxb2s2dm40dDlxTDZsRkpBbmFtaWlTOEQ?oc=5",
+        "date": "2025-10-05",
+        "title": "Urban future: Rethinking development in Oman - Muscat Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOU9Mc1k1LU5zWWI5aTRUZE1NazB6RnVmV2haYkhldFpKZ3NLY2dwaENZbEotTUFfQ3hNc2hXbmN4RWExbzBvQTc4QWlYX3d6cTFhN1lKMlMzcjlfNFlBVXM5RlR5SGQzSllBZkRpREpuenUyeFFJblA5cXJra004d1h1bm5MZjJvVW9FYklWZXJxb2s2dm40dDlxTDZsRkpBbmFtaWlTOEQ?oc=5\" target=\"_blank\">Urban future: Rethinking development in Oman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Muscat Daily</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
