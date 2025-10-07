@@ -4179,5 +4179,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Skanska JV completes $450M Baltimore tunnel nearly 2 years early using progressive design-build method and 24/7 scheduling.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-10-07",
+        "status": "posted",
+        "tweet": "Summary: Countries with the largest investment in infrastructure companies (2025 projections)\n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddfa\ud83c\uddf8 USA\n3. \ud83c\uddee\ud83c\uddf3 India\n4. \ud83c\uddef\ud83c\uddf5 Japan\n5. \ud83c\udde9\ud83c\uddea Germany\n\nProjections show China topping the list with the USA and India following close behind. Japan and Germany complete the top 5.",
+        "type": "statistical",
+        "category": "infrastructure companies"
     }
 ]
