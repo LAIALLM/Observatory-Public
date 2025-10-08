@@ -3907,5 +3907,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8Apple Inc. ( $AAPL ) reported an impressive energy efficiency rating - 75.7% of their total facilities worldwide are now powered by renewable energy. \n\nIn 2020, the company reduced its comprehensive carbon footprint by 22.6%. \n\nKeep up the good work, Apple!",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-10-08",
+        "status": "posted",
+        "tweet": "Summary: Bitcoin mining is most concentrated in China, followed by the USA and Kazakhstan.\n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddfa\ud83c\uddf8 USA\n3. \ud83c\uddf0\ud83c\uddff Kazakhstan",
+        "type": "crypto"
     }
 ]
