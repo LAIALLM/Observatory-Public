@@ -4005,5 +4005,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Government forms SPV to develop Amaravati projects",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-10-08",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global urban population will reach 6.9 billion by 2050, up from 4.4 billion in 2025. \n\nAccelerated urban planning is key to accommodate this growth, manage resources, and ensure sustainable living for all.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
