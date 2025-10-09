@@ -4007,5 +4007,13 @@
         "status": "posted",
         "tweet": "Summary: Bitcoin's infrastructure costs have risen most sharply, followed by Ethereum and Solana.\n\n1. Bitcoin: Costs increased 200% from 2020 to 2025.\n2. Ethereum: Costs up 150% over the same period.\n3. Solana: Costs rose 100% from 2020 to 2025.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-10-09",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global construction output is projected to grow by 85% to reach $15.5 trillion by 2030, with \ud83c\uddfa\ud83c\uddf8 USA, \ud83c\udde8\ud83c\uddf3 China, and \ud83c\uddee\ud83c\uddf3 India leading the race. Yet, an estimated 35% of construction projects worldwide face significant delays, increasing total costs by up to 20%.",
+        "type": "statistical",
+        "category": "construction projects"
     }
 ]
