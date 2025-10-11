@@ -4507,5 +4507,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-10-11",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \nQ1 2021 Performance:\n\n- iPhone sales: $65.60 Billion (+17.21% YoY)\n- iPad and Mac Revenue: $14.68 Billion (+41.16% YoY) \n- Services Revenue: $15.76 Billion (+23.81% YoY)\n\n$AAPL",
+        "type": "infrastructure"
     }
 ]
