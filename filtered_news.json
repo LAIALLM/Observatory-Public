@@ -4622,5 +4622,25 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbW96MHlXR1RnamZLdnp1cWQ5TGZzLWpxVUlhMEpCdjNlQXJ6eEZTNWU0eFhtb0ExUnI3aDJ4RE5xRk9ITWpLMDlYNS1oN3JBVnhiZFpuZXpzT2p3M3doWVN4RWd6QlZPU1I1UzhYUkR1X3FjSEZhYnA0VkhSVEI5MFliTDhIZ0JUUEVYdEEyZUVoajQzVWlENzdxanBJTEFrT2hkWUlhd1VjNlRPckhxaWFuMDRPYVMzS2Mtbl9TYmFkcHBOb2toeFVlOHZqY2JPMUdtWlByM0Q?oc=5",
+        "date": "2025-10-11",
+        "title": "MoS Kirti Vardhan Singh Highlights India\u2019s Integrated Approach to Sustainable Urban Development at IUCN Congress - News On AIR",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbW96MHlXR1RnamZLdnp1cWQ5TGZzLWpxVUlhMEpCdjNlQXJ6eEZTNWU0eFhtb0ExUnI3aDJ4RE5xRk9ITWpLMDlYNS1oN3JBVnhiZFpuZXpzT2p3M3doWVN4RWd6QlZPU1I1UzhYUkR1X3FjSEZhYnA0VkhSVEI5MFliTDhIZ0JUUEVYdEEyZUVoajQzVWlENzdxanBJTEFrT2hkWUlhd1VjNlRPckhxaWFuMDRPYVMzS2Mtbl9TYmFkcHBOb2toeFVlOHZqY2JPMUdtWlByM0Q?oc=5\" target=\"_blank\">MoS Kirti Vardhan Singh Highlights India\u2019s Integrated Approach to Sustainable Urban Development at IUCN Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLc1ZSYTh2OWJKRFA5clRZb0ZjM3ppYkZCSk9JYU1uaFdrVHlYbUxQNnprZkpyUTJxaDA0MEZ0QU9MdWpRWHNJUFl6ZkhiSENiQk5NQkN5ZHVFZmNyQVlIOTlNOWh1bUVPQ1N2dkFJUTTSAXZBVV95cUxOX2sxMUJaNV9ZQVQ0RE92OEpvbFlIbGV5cmplSXVVZE4ySG5HVm5nOENTeUtWUllOaS1oVXhWWTRaMkZBYjZhNkRzaVplRm9GT3pWUENxLVctRUZQX0tsYXlPZ2NjdnEwRkkyQmZDdGlzei03enFR?oc=5",
+        "date": "2025-10-11",
+        "title": "Collaborative Urban Planning Initiatives - Trend Hunter",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBLc1ZSYTh2OWJKRFA5clRZb0ZjM3ppYkZCSk9JYU1uaFdrVHlYbUxQNnprZkpyUTJxaDA0MEZ0QU9MdWpRWHNJUFl6ZkhiSENiQk5NQkN5ZHVFZmNyQVlIOTlNOWh1bUVPQ1N2dkFJUTTSAXZBVV95cUxOX2sxMUJaNV9ZQVQ0RE92OEpvbFlIbGV5cmplSXVVZE4ySG5HVm5nOENTeUtWUllOaS1oVXhWWTRaMkZBYjZhNkRzaVplRm9GT3pWUENxLVctRUZQX0tsYXlPZ2NjdnEwRkkyQmZDdGlzei03enFR?oc=5\" target=\"_blank\">Collaborative Urban Planning Initiatives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trend Hunter</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
