@@ -4430,5 +4430,56 @@
         "tweet": "\ud83c\udf10\ud83d\udcbc By 2025, China's \ud83c\udde8\ud83c\uddf3 infrastructure sector is expected to grow by 6.8%, doubling the projected growth of the U.S. \ud83c\uddfa\ud83c\uddf8 at 3.4%. \n\nDespite this, American companies lead in profitability, generating a 12% net margin, compared to China's 8%.",
         "type": "statistical",
         "category": "infrastructure companies"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY24tQkJyVm9VQ3VJYTVObFB2Si1WUzZpZ1ZRdFdHM2pPNzM3Xy1jRk03RVJ2OUJvRlRKbVVPc3lkYTZYeDdMSkdNaG9HWkpEOGxGUXc1aTVQb0FGd2JoYTlfN1FLdTZfYjZRaVFHaVdDczJ5SXMyTl90Qk16WGVzLWR4U0VwWk5GakphMnd4UTZoOE9mMFFJRE1QbkJnWGdmSVRHT1AwWQ?oc=5",
+        "date": "2025-10-12",
+        "title": "UK ministers take control of \u00a310bn Lower Thames Crossing - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQY24tQkJyVm9VQ3VJYTVObFB2Si1WUzZpZ1ZRdFdHM2pPNzM3Xy1jRk03RVJ2OUJvRlRKbVVPc3lkYTZYeDdMSkdNaG9HWkpEOGxGUXc1aTVQb0FGd2JoYTlfN1FLdTZfYjZRaVFHaVdDczJ5SXMyTl90Qk16WGVzLWR4U0VwWk5GakphMnd4UTZoOE9mMFFJRE1QbkJnWGdmSVRHT1AwWQ?oc=5\" target=\"_blank\">UK ministers take control of \u00a310bn Lower Thames Crossing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: UK ministers take control of \u00a310bn Lower Thames Crossing project."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTDhoa3RRN0ZuOVl4b2J4SzRCUE5JNC0wYk5rVFJEbWVFTHdRS1E5WHJqWXhqbVNmWVd4WEtfMkZjSDFUTExleEN4S1R0azNmUlB4X3pycm4zRndPUXpGVUY3SDIwYWdWWUN0MzB0ZlNPbmh0cjl5R2RIcW1VM0VoR0JaRFc1VFdkRU1DeF9fWEI0ZGNsai10OWFaUUdDcFd6dTFn?oc=5",
+        "date": "2025-10-12",
+        "title": "AMD Gains from New AI Infrastructure Collaboration with OpenAI - GuruFocus",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTDhoa3RRN0ZuOVl4b2J4SzRCUE5JNC0wYk5rVFJEbWVFTHdRS1E5WHJqWXhqbVNmWVd4WEtfMkZjSDFUTExleEN4S1R0azNmUlB4X3pycm4zRndPUXpGVUY3SDIwYWdWWUN0MzB0ZlNPbmh0cjl5R2RIcW1VM0VoR0JaRFc1VFdkRU1DeF9fWEI0ZGNsai10OWFaUUdDcFd6dTFn?oc=5\" target=\"_blank\">AMD Gains from New AI Infrastructure Collaboration with OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWHhqNWV6RDItUjFRclpvS3g0eHBoMTFiUU1XT1JjMzFDMWNsYm5FWWNJQzJqLUxfeUNUVnFaZGU5YVljTi1rMWpvZUVnVlFScWZkdDRVRkhNWFNMZDBITzU3ZVhxSDFiZ0oyT2VEcGg3NjZaUjAyV0VxMFJVSjNjNWcxSDFqZHlt?oc=5",
+        "date": "2025-10-12",
+        "title": "In Minnesota, BlackRock Is Acquiring Vital Infrastructure - Jacobin",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWHhqNWV6RDItUjFRclpvS3g0eHBoMTFiUU1XT1JjMzFDMWNsYm5FWWNJQzJqLUxfeUNUVnFaZGU5YVljTi1rMWpvZUVnVlFScWZkdDRVRkhNWFNMZDBITzU3ZVhxSDFiZ0oyT2VEcGg3NjZaUjAyV0VxMFJVSjNjNWcxSDFqZHlt?oc=5\" target=\"_blank\">In Minnesota, BlackRock Is Acquiring Vital Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jacobin</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmRCZlMxZ0pCSzgwSG5lSlpKQjh6anRlVFhtdUlsMWF2bld6VE5CN0FndW4xelJ0UW1Wb1kwUTYzbHZNcm1KOVJ2RkdRbVppbS1zN1F5Ykdjal9nb2JKcXV4M3pmb1BpWnFjb2dualFBbTZDX2tfR0UxT3lXeFZUMjhEVFRocDBpLUV5UFBsVDlqRmxnVnl0Y0FNVVNZNWxKQXNHSGp5MXpBdTNWM0E?oc=5",
+        "date": "2025-10-12",
+        "title": "ClearBridge Global Infrastructure Income Strategy Q3 2025 Commentary - Seeking Alpha",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmRCZlMxZ0pCSzgwSG5lSlpKQjh6anRlVFhtdUlsMWF2bld6VE5CN0FndW4xelJ0UW1Wb1kwUTYzbHZNcm1KOVJ2RkdRbVppbS1zN1F5Ykdjal9nb2JKcXV4M3pmb1BpWnFjb2dualFBbTZDX2tfR0UxT3lXeFZUMjhEVFRocDBpLUV5UFBsVDlqRmxnVnl0Y0FNVVNZNWxKQXNHSGp5MXpBdTNWM0E?oc=5\" target=\"_blank\">ClearBridge Global Infrastructure Income Strategy Q3 2025 Commentary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY24tQkJyVm9VQ3VJYTVObFB2Si1WUzZpZ1ZRdFdHM2pPNzM3Xy1jRk03RVJ2OUJvRlRKbVVPc3lkYTZYeDdMSkdNaG9HWkpEOGxGUXc1aTVQb0FGd2JoYTlfN1FLdTZfYjZRaVFHaVdDczJ5SXMyTl90Qk16WGVzLWR4U0VwWk5GakphMnd4UTZoOE9mMFFJRE1QbkJnWGdmSVRHT1AwWQ?oc=5",
+        "date": "2025-10-12",
+        "title": "UK ministers take control of \u00a310bn Lower Thames Crossing - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQY24tQkJyVm9VQ3VJYTVObFB2Si1WUzZpZ1ZRdFdHM2pPNzM3Xy1jRk03RVJ2OUJvRlRKbVVPc3lkYTZYeDdMSkdNaG9HWkpEOGxGUXc1aTVQb0FGd2JoYTlfN1FLdTZfYjZRaVFHaVdDczJ5SXMyTl90Qk16WGVzLWR4U0VwWk5GakphMnd4UTZoOE9mMFFJRE1QbkJnWGdmSVRHT1AwWQ?oc=5\" target=\"_blank\">UK ministers take control of \u00a310bn Lower Thames Crossing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: UK ministers take control of \u00a310bn Lower Thames Crossing project.",
+        "type": "news"
     }
 ]
