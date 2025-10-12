@@ -4531,5 +4531,25 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NQkpYUTg1SzhpSndKVmhvanJpRHJnSnVweFlOa3VfUTFJWnF6d29EdGlEeGprRHRIcXRfRnZ1aWdqX3hDNklRaGNXR0p0dC11b0x1ZklLZllIOU5vMDJDbU9IYmx2a2hVVjVfZFhmMA?oc=5",
+        "date": "2025-10-12",
+        "title": "New safety campaign to tackle falls on construction sites - RTE.ie",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1NQkpYUTg1SzhpSndKVmhvanJpRHJnSnVweFlOa3VfUTFJWnF6d29EdGlEeGprRHRIcXRfRnZ1aWdqX3hDNklRaGNXR0p0dC11b0x1ZklLZllIOU5vMDJDbU9IYmx2a2hVVjVfZFhmMA?oc=5\" target=\"_blank\">New safety campaign to tackle falls on construction sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTE.ie</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWW04X1dMd2xVX1hOTVVETXI2bVhaQ29UNlY5Y0ZZdUFIbWVqakhFZG9uaXh4RlJFblF2X2x5eHc2VFZSc3lLTXlld2tEcXRLejdDMmQwYlBXRmQ3MlBIVHFROEUwQjFJb2VudlVzN19TM21SYldnM3Rzd0FFME9rSm5vNktPbXVfOEhVQmZUdDhMQVE4SW9tMG9GMVR0b3owMEHSAacBQVVfeXFMUG5aQ1FCUHlZTUxEc04wcUxLR0FmazFxTEgzS3NFVE90VE1HRkdWYTQweHM3aWNsbnVuc00ySzdYTzFuVWdZU3h0ZTFsbTQxZDVmay11LW80YXdxdU9RbFdRSjl4azRuTHE2WVpGdmJrNk0wUVR2UXFWSkVKQXpHV3ZwNFhGSk8xZFhGeURSazlHOTRlZ2FmeGtpTXhEUm5wYmM2S24xRGM?oc=5",
+        "date": "2025-10-12",
+        "title": "Brookfield: Over $4 Billion First Close For Fourth Global Infrastructure Debt Fund - Pulse 2.0",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQWW04X1dMd2xVX1hOTVVETXI2bVhaQ29UNlY5Y0ZZdUFIbWVqakhFZG9uaXh4RlJFblF2X2x5eHc2VFZSc3lLTXlld2tEcXRLejdDMmQwYlBXRmQ3MlBIVHFROEUwQjFJb2VudlVzN19TM21SYldnM3Rzd0FFME9rSm5vNktPbXVfOEhVQmZUdDhMQVE4SW9tMG9GMVR0b3owMEHSAacBQVVfeXFMUG5aQ1FCUHlZTUxEc04wcUxLR0FmazFxTEgzS3NFVE90VE1HRkdWYTQweHM3aWNsbnVuc00ySzdYTzFuVWdZU3h0ZTFsbTQxZDVmay11LW80YXdxdU9RbFdRSjl4azRuTHE2WVpGdmJrNk0wUVR2UXFWSkVKQXpHV3ZwNFhGSk8xZFhGeURSazlHOTRlZ2FmeGtpTXhEUm5wYmM2S24xRGM?oc=5\" target=\"_blank\">Brookfield: Over $4 Billion First Close For Fourth Global Infrastructure Debt Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
