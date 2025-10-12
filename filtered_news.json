@@ -4405,5 +4405,12 @@
         "status": "posted",
         "tweet": "Bitcoin mining concentration:\n\ud83c\udde8\ud83c\uddf3 China: 65%\n\ud83c\uddfa\ud83c\uddf8 USA: 7%\n\nEthereum mining concentration:\n\ud83c\uddfa\ud83c\uddf8 USA: 35%\n\ud83c\uddf7\ud83c\uddfa Russia: 15%\n\nData as of 2025.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-10-12",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n\n- 1 billion active iPhone users worldwide.\n- $295 billion in annual revenue.\n \n$AAPL",
+        "type": "infrastructure"
     }
 ]
