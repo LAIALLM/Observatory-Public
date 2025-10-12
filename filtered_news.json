@@ -4422,5 +4422,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-10-12",
+        "status": "posted",
+        "tweet": "\ud83c\udf10\ud83d\udcbc By 2025, China's \ud83c\udde8\ud83c\uddf3 infrastructure sector is expected to grow by 6.8%, doubling the projected growth of the U.S. \ud83c\uddfa\ud83c\uddf8 at 3.4%. \n\nDespite this, American companies lead in profitability, generating a 12% net margin, compared to China's 8%.",
+        "type": "statistical",
+        "category": "infrastructure companies"
     }
 ]
