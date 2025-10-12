@@ -4481,5 +4481,45 @@
         "status": "posted",
         "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: UK ministers take control of \u00a310bn Lower Thames Crossing project.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGJBU3VWNnMzNTJlUE1MazUwWWw3U3VwZmZqbEpSOXlHUmE2S3c0VVhJeW94Rk5nQW13aWdpWUE4RmNrZG51ZXprS0cwTWlfM29GZGs1bGg2VHpBS0JZcVJkTzVBRlpJaGVjY2ZzNlduMjRCaGFSSEFzNVdvaWkxd2tQeEo2YkRSNmhsVjRGMzFPV04yRV8wMGQwTnc1WUJSRnliWVhqZHczN1A4M3RuV1BjdEVfY0NIeWc?oc=5",
+        "date": "2025-10-12",
+        "title": "U.S. Intelligence Helps Ukraine Strike Russian Energy Infrastructure \u2013 FT - The Moscow Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGJBU3VWNnMzNTJlUE1MazUwWWw3U3VwZmZqbEpSOXlHUmE2S3c0VVhJeW94Rk5nQW13aWdpWUE4RmNrZG51ZXprS0cwTWlfM29GZGs1bGg2VHpBS0JZcVJkTzVBRlpJaGVjY2ZzNlduMjRCaGFSSEFzNVdvaWkxd2tQeEo2YkRSNmhsVjRGMzFPV04yRV8wMGQwTnc1WUJSRnliWVhqZHczN1A4M3RuV1BjdEVfY0NIeWc?oc=5\" target=\"_blank\">U.S. Intelligence Helps Ukraine Strike Russian Energy Infrastructure \u2013 FT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Moscow Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRW1RbkFkMTN6YUF5VkEzbms3eUhjSndJdWJPbXNiekVqdC15X0ZTazhqanRLVVBiX0VVM21yYkJqeWo3NTVyelpibTBvRFM0ZzFIUHhNYVFDel9DNjVFTWo5OTdWd2dCMGx2NUlsUG5qMUR2enRzZk9WZjVaT1FQQk5kZjViTXpsMTZ0UHJ1Nm5Hb00?oc=5",
+        "date": "2025-10-12",
+        "title": "NRC Strengthens Security Amid Rising Infrastructure Vandalism - Railway Supply",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNRW1RbkFkMTN6YUF5VkEzbms3eUhjSndJdWJPbXNiekVqdC15X0ZTazhqanRLVVBiX0VVM21yYkJqeWo3NTVyelpibTBvRFM0ZzFIUHhNYVFDel9DNjVFTWo5OTdWd2dCMGx2NUlsUG5qMUR2enRzZk9WZjVaT1FQQk5kZjViTXpsMTZ0UHJ1Nm5Hb00?oc=5\" target=\"_blank\">NRC Strengthens Security Amid Rising Infrastructure Vandalism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Railway Supply</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNnplUHRnTVJRRWFvRTduQzZ1dVliWTZlazRYNk5IcmtzRVRiR1RaWmhxcGFiMnExME54VFBZV0hjYWVXeEZoTy1ndHFlT2ptNzdMaVhPS1R0bFJYczNyZkpLY1VTSUludWV4VXVjQUNoa2I3QkpoNmxHNFM1Ukl5czlnblozSTh4c1JCQXFvVHN6c3poQWRhVml2U2NLaENkaDRCekJYSXJiN2pPdXRtZm43WWhja2pZc2FxUzhaak9GZ0FR?oc=5",
+        "date": "2025-10-12",
+        "title": "Zelenskyy and Trump discuss bolstering defence on phone call - Euronews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNNnplUHRnTVJRRWFvRTduQzZ1dVliWTZlazRYNk5IcmtzRVRiR1RaWmhxcGFiMnExME54VFBZV0hjYWVXeEZoTy1ndHFlT2ptNzdMaVhPS1R0bFJYczNyZkpLY1VTSUludWV4VXVjQUNoa2I3QkpoNmxHNFM1Ukl5czlnblozSTh4c1JCQXFvVHN6c3poQWRhVml2U2NLaENkaDRCekJYSXJiN2pPdXRtZm43WWhja2pZc2FxUzhaak9GZ0FR?oc=5\" target=\"_blank\">Zelenskyy and Trump discuss bolstering defence on phone call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2pJbDJiX3E5OXg1QUZvcE9pU3ZxcWtPY1NYQ1p2U3B2WVdSY3RsWTBDZjlyNVQ0dWpPdWYzMjcxTWtJTi1ObXBiQzJjbUFub19mX3d5UnhFUGwzMU5aQ1ZfZmRQNkwxbEkwRktqVWNMUHFWd1lCR2NCcUVXMmI0cDNyRHRDUFJFQnZvYmlVX0I5RzhVVzVpM3cwR0NLV3RiVi1pd0ptSWNacExyUnVCMktpUnJvRzhMTGkzMDFBRkpmcG52aU00N0hxTUNEb0VVdHZiSNIB2wFBVV95cUxQT1FzRTBCejQ2Y2R0TGVPTnY1NUw5TktFaXkyS2VWenRXRV9ldnY0YVA1Mi1icS1qaUtXZ1A5RUthUURWS0RtX3JmX0xmUGVRLUJoVHFsLXFPUkJrRmU4N0Z2V21ia203M2Z1b1VrWmNEUEdmMVR3Y2pGQUd2UnBCUVlfTUFvMHViR3gzS3VscDFORUtRdm53Wk5PM3hkak9BQ1NaMngzWG1PV0JNWm5vbURLak5TVTM1TFpuYXBCLWZ5VElTQlhtemhCdk1MeFpvMjdiOGVQVWdocXc?oc=5",
+        "date": "2025-10-12",
+        "title": "TUDA Chairman proposes steps for planned development in Tirupati - The Hindu",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2pJbDJiX3E5OXg1QUZvcE9pU3ZxcWtPY1NYQ1p2U3B2WVdSY3RsWTBDZjlyNVQ0dWpPdWYzMjcxTWtJTi1ObXBiQzJjbUFub19mX3d5UnhFUGwzMU5aQ1ZfZmRQNkwxbEkwRktqVWNMUHFWd1lCR2NCcUVXMmI0cDNyRHRDUFJFQnZvYmlVX0I5RzhVVzVpM3cwR0NLV3RiVi1pd0ptSWNacExyUnVCMktpUnJvRzhMTGkzMDFBRkpmcG52aU00N0hxTUNEb0VVdHZiSNIB2wFBVV95cUxQT1FzRTBCejQ2Y2R0TGVPTnY1NUw5TktFaXkyS2VWenRXRV9ldnY0YVA1Mi1icS1qaUtXZ1A5RUthUURWS0RtX3JmX0xmUGVRLUJoVHFsLXFPUkJrRmU4N0Z2V21ia203M2Z1b1VrWmNEUEdmMVR3Y2pGQUd2UnBCUVlfTUFvMHViR3gzS3VscDFORUtRdm53Wk5PM3hkak9BQ1NaMngzWG1PV0JNWm5vbURLak5TVTM1TFpuYXBCLWZ5VElTQlhtemhCdk1MeFpvMjdiOGVQVWdocXc?oc=5\" target=\"_blank\">TUDA Chairman proposes steps for planned development in Tirupati</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
