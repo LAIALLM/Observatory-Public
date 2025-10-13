@@ -4166,5 +4166,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-10-13",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's annual hardware costs reach $10 billion, driven by ASIC miners.\n\nEthereum's hardware expenses total $2 billion yearly, primarily from GPUs and specialized mining rigs.\n\n\ud83c\udde8\ud83c\uddf3 China and \ud83c\uddfa\ud83c\uddf8 USA host the majority of this infrastructure.",
+        "type": "crypto"
     }
 ]
