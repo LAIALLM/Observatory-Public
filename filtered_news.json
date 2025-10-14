@@ -4839,5 +4839,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Delhi mandates the use of recycled C&D waste in construction to promote sustainability.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-10-14",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 U.S. projected to spend $1.4 trillion on infrastructure improvements by 2030. \nA 30% increase from 2025, aiming to revamp public transport, highways, bridges, and water systems.",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
