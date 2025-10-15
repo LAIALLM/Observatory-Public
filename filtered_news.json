@@ -4941,5 +4941,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddea\ud83c\uddfa NEWS: Start Campus chosen for EUs first and largest NVIDIA Blackwell Ultra AI infrastructure deployment, supported by Microsoft.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-10-15",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India on pace to overtake \ud83c\udde8\ud83c\uddf3 China as the most populous nation by 2027, with an estimated 1.44 billion people. \n\nBy 2050, world's largest cities projected to be \ud83c\uddee\ud83c\uddf3 Delhi (36 million) and \ud83c\uddf3\ud83c\uddec Lagos (32 million).",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
