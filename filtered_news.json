@@ -4631,5 +4631,12 @@
         "status": "posted",
         "tweet": "\ud83d\udd35\ud83c\udf0d Google's data centers across the world consumed 10.6 terawatt-hours of electricity in 2020. \n\nThat's nearly equal to the total residential energy consumption of Denmark! \ud83c\udde9\ud83c\uddf0\n\nAlphabet Inc. $GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-10-15",
+        "status": "posted",
+        "tweet": "In 2025, Ethereum's staking costs are significantly lower than Bitcoin's mining costs. \n\nEthereum staking: $0.03 per transaction.\nBitcoin mining: $57 per transaction.\n\nThis stark contrast highlights the efficiency of staking over mining.",
+        "type": "crypto"
     }
 ]
