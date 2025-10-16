@@ -4399,5 +4399,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US construction companies are projected to generate $1.804 trillion in revenue in 2025, up 6% from 2024. \n\nMeanwhile, \ud83c\udde8\ud83c\uddf3 China's construction industry exceeds with revenues projected at $3.364 trillion, growing 8.5% from 2024.",
         "type": "statistical",
         "category": "construction companies"
+    },
+    {
+        "link": null,
+        "date": "2025-10-16",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's infrastructure costs in \ud83c\uddfa\ud83c\uddf8 USA are estimated at $1.5B annually, influenced by stringent government regulations. \n\nIn contrast, Ethereum's costs in \ud83c\udde8\ud83c\udde6 Canada are $800M, benefiting from lighter regulatory frameworks.",
+        "type": "crypto"
     }
 ]
