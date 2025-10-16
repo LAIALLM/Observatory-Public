@@ -4391,5 +4391,13 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-10-16",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US construction companies are projected to generate $1.804 trillion in revenue in 2025, up 6% from 2024. \n\nMeanwhile, \ud83c\udde8\ud83c\uddf3 China's construction industry exceeds with revenues projected at $3.364 trillion, growing 8.5% from 2024.",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
