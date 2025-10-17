@@ -4020,5 +4020,12 @@
         "status": "posted",
         "tweet": "In 2025, Bitcoin processes 7 transactions per second at an annual infrastructure cost of $18 billion.\n\nEthereum handles 25 transactions per second, costing $5 billion yearly.\n\nSolana achieves 65,000 transactions per second for $100 million annually.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-10-17",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8\ud83d\udccdApple Inc. reports impressive Q2 figures. \nNet income: $23.6B \nRevenue: $89.6B \nProducts sold: 52.2M iPhones, 9.1M iPads, 4.08M Macs. \nEnergy used: 77.5% from renewable sources. \nEPS: $2.73. \nCompany value: $904B. \n\u23e9 Growth: +16% YOY.\n$AAPL",
+        "type": "infrastructure"
     }
 ]
