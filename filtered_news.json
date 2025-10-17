@@ -4128,5 +4128,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Welspun wins Rs 31.45 billion contract for Mumbai water project.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-10-17",
+        "status": "posted",
+        "tweet": "\ud83c\udf0dGlobal: Renewable energy is projected to power 60% of electricity by 2025, a massive leap from the 26% in 2019. \n\ud83c\udde8\ud83c\uddf3China: Set to lead the pack, as 80% of their total energy capacity is forecasted to come from renewables in 2025, a stark rise from 38% in 2019.",
+        "type": "statistical",
+        "category": "energy"
     }
 ]
