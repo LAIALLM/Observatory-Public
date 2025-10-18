@@ -4490,5 +4490,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\udde6 NEWS: Russian strikes cripple Ukraines power infrastructure, causing widespread outages.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-10-18",
+        "status": "posted",
+        "tweet": "\ud83c\udf0d Global infrastructure spending is projected to reach $4.8 trillion by 2030, a 60% increase from 2025. \ud83d\udee4\ufe0f \n\n\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf3 By 2030, the US and China are expected to account for 57% of this increase, with a combined investment of $2.73 trillion.",
+        "type": "statistical",
+        "category": "infrastructure companies"
     }
 ]
