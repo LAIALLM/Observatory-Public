@@ -4220,5 +4220,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-10-18",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc.:\nIn Q4 2021, $AAPL reported production figures of 14 million iPhone 13 units, surpassing Q3 by 3 million.\nEnergy consumption for data centers fell by 10%.",
+        "type": "infrastructure"
     }
 ]
