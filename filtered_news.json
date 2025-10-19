@@ -3920,5 +3920,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-10-19",
+        "status": "posted",
+        "tweet": "Alphabet $GOOGL data centers\nGlobal fleet PUE 1.10 (2023)",
+        "type": "infrastructure"
     }
 ]
