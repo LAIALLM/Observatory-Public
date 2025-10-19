@@ -3927,5 +3927,23 @@
         "status": "posted",
         "tweet": "Alphabet $GOOGL data centers\nGlobal fleet PUE 1.10 (2023)",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOGRyMFpPVTE5VXoyaUJpdEJNcUgybXQxUVV0TVhrU3N1bGxUdmhDaTNGSjI5NWtrT1dxUnZWTVJoMFU1LWNsS2lqd0p6Y2NaN09RVTJvN1dvbVlXOFVKV3RhX2x2WFJ5a1c4YmV2cFNSdnEzdHVyXzJ0eUlVSUU1c0tqSlNsdGFidnc?oc=5",
+        "date": "2025-10-19",
+        "title": "It\u2019s hard to be a maple: How climate change is remaking D.C.\u2019s treescape - The Washington Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPOGRyMFpPVTE5VXoyaUJpdEJNcUgybXQxUVV0TVhrU3N1bGxUdmhDaTNGSjI5NWtrT1dxUnZWTVJoMFU1LWNsS2lqd0p6Y2NaN09RVTJvN1dvbVlXOFVKV3RhX2x2WFJ5a1c4YmV2cFNSdnEzdHVyXzJ0eUlVSUU1c0tqSlNsdGFidnc?oc=5\" target=\"_blank\">It\u2019s hard to be a maple: How climate change is remaking D.C.\u2019s treescape</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-10-19",
+        "status": "posted",
+        "tweet": "Summary: 2025: Countries with the largest operational high-speed rail networks (km)\n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddea\ud83c\uddf8 Spain\n3. \ud83c\uddef\ud83c\uddf5 Japan\n4. \ud83c\uddeb\ud83c\uddf7 France\n5. \ud83c\udde9\ud83c\uddea Germany",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
