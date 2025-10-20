@@ -3597,5 +3597,12 @@
         "status": "posted",
         "tweet": "NEWS: Inside infrastructures biggest fundraising year",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-10-20",
+        "status": "posted",
+        "tweet": "Google data centers: fleet-wide PUE 1.10 (2023). $GOOGL",
+        "type": "infrastructure"
     }
 ]
