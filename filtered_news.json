@@ -3802,5 +3802,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: FERC lifts ban on gas infrastructure construction during project appeals, with rule effective Nov. 10 rolling back Biden-era protections for landowner rights and against irreversible harm.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-10-21",
+        "status": "posted",
+        "tweet": "Summary: 2025 projection: The top 5 global construction contractors by revenue are all headquartered in Beijing.\n\n1. \ud83c\udde8\ud83c\uddf3 Beijing/China\n2. \ud83c\udde8\ud83c\uddf3 Beijing/China\n3. \ud83c\udde8\ud83c\uddf3 Beijing/China\n4. \ud83c\udde8\ud83c\uddf3 Beijing/China\n5. \ud83c\udde8\ud83c\uddf3 Beijing/China",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
