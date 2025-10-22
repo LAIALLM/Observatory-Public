@@ -3858,5 +3858,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Pune Municipal Corporation publishes draft development plan for nine villages",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-10-22",
+        "status": "posted",
+        "tweet": "Summary: In 2025, Solana validators demand the highest hardware costs, outpacing Bitcoin miners and Ethereum nodes.\n\n1. Solana: $15,000 avg. per validator server (128GB RAM, high-core CPU).\n2. Bitcoin: $8,500 avg. ASIC miner (e.g., Antminer S21 equivalent).\n3. Ethereum: $1,200 av",
+        "type": "crypto"
     }
 ]
