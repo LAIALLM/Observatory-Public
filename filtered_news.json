@@ -3873,5 +3873,12 @@
         "tweet": "2025: 57% of the world\u2019s population\u2014about 4.6 billion people\u2014live in urban areas.",
         "type": "statistical",
         "category": "urban development"
+    },
+    {
+        "link": null,
+        "date": "2025-10-22",
+        "status": "posted",
+        "tweet": "Alphabet $GOOGL\nGlobal data center PUE: 1.10 (TTM 2023)",
+        "type": "infrastructure"
     }
 ]
