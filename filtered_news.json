@@ -1,158 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2025-10-12",
-        "status": "posted",
-        "tweet": "Bitcoin mining concentration:\n\ud83c\udde8\ud83c\uddf3 China: 65%\n\ud83c\uddfa\ud83c\uddf8 USA: 7%\n\nEthereum mining concentration:\n\ud83c\uddfa\ud83c\uddf8 USA: 35%\n\ud83c\uddf7\ud83c\uddfa Russia: 15%\n\nData as of 2025.",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2025-10-12",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Apple Inc. \n\n- 1 billion active iPhone users worldwide.\n- $295 billion in annual revenue.\n \n$AAPL",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ196QlNMODhIbXN4Z2kxNlpZc1FoSDIyeVIzRWZIb25POVQydG1QdUZaaDVERVZUWEthdWduYnZzQ0NXRjE5N0g2a2RaT1ItTElnZmtZTGRubFNXQWdxNE1oMzV2RDllcF9NRFBPclA2dUF3N3JVbDBxYklidWN0b1dtaC1Gb3RpMXFSMkI0SDFfVmxHZ0ZqM1FaVGlIOGo3TzlZck96WjZNVmEyNFJIWkpLS2TSAboBQVVfeXFMTm4xVXNTQWZQTXRYVzZPSGJHSmt0UnZKQ09aTkl6akIzWGFwMjhWbnZBdEU0bjE1eDBXRk1VRjNfLXZMUzJGUnZ5VU5aUUJVZXIweEFnZVNfNzdGOW9JREVLXzZOVzA4RWJhckI0Um9OWXdzeVZGRVRxNkNIUEphS2RpR09uRWl4cXBMLXRWaFVreWppNWEwLWtGa0JKS190SVJqNVN2SGIwUlhvYzRSVEZkYmVmZHVjT3hn?oc=5",
-        "date": "2025-10-12",
-        "title": "Russia struck Ukrainian energy infrastructure, downed 72 drones - Al Arabiya English",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ196QlNMODhIbXN4Z2kxNlpZc1FoSDIyeVIzRWZIb25POVQydG1QdUZaaDVERVZUWEthdWduYnZzQ0NXRjE5N0g2a2RaT1ItTElnZmtZTGRubFNXQWdxNE1oMzV2RDllcF9NRFBPclA2dUF3N3JVbDBxYklidWN0b1dtaC1Gb3RpMXFSMkI0SDFfVmxHZ0ZqM1FaVGlIOGo3TzlZck96WjZNVmEyNFJIWkpLS2TSAboBQVVfeXFMTm4xVXNTQWZQTXRYVzZPSGJHSmt0UnZKQ09aTkl6akIzWGFwMjhWbnZBdEU0bjE1eDBXRk1VRjNfLXZMUzJGUnZ5VU5aUUJVZXIweEFnZVNfNzdGOW9JREVLXzZOVzA4RWJhckI0Um9OWXdzeVZGRVRxNkNIUEphS2RpR09uRWl4cXBMLXRWaFVreWppNWEwLWtGa0JKS190SVJqNVN2SGIwUlhvYzRSVEZkYmVmZHVjT3hn?oc=5\" target=\"_blank\">Russia struck Ukrainian energy infrastructure, downed 72 drones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Arabiya English</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2025-10-12",
-        "status": "posted",
-        "tweet": "\ud83c\udf10\ud83d\udcbc By 2025, China's \ud83c\udde8\ud83c\uddf3 infrastructure sector is expected to grow by 6.8%, doubling the projected growth of the U.S. \ud83c\uddfa\ud83c\uddf8 at 3.4%. \n\nDespite this, American companies lead in profitability, generating a 12% net margin, compared to China's 8%.",
-        "type": "statistical",
-        "category": "infrastructure companies"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY24tQkJyVm9VQ3VJYTVObFB2Si1WUzZpZ1ZRdFdHM2pPNzM3Xy1jRk03RVJ2OUJvRlRKbVVPc3lkYTZYeDdMSkdNaG9HWkpEOGxGUXc1aTVQb0FGd2JoYTlfN1FLdTZfYjZRaVFHaVdDczJ5SXMyTl90Qk16WGVzLWR4U0VwWk5GakphMnd4UTZoOE9mMFFJRE1QbkJnWGdmSVRHT1AwWQ?oc=5",
-        "date": "2025-10-12",
-        "title": "UK ministers take control of \u00a310bn Lower Thames Crossing - The Guardian",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQY24tQkJyVm9VQ3VJYTVObFB2Si1WUzZpZ1ZRdFdHM2pPNzM3Xy1jRk03RVJ2OUJvRlRKbVVPc3lkYTZYeDdMSkdNaG9HWkpEOGxGUXc1aTVQb0FGd2JoYTlfN1FLdTZfYjZRaVFHaVdDczJ5SXMyTl90Qk16WGVzLWR4U0VwWk5GakphMnd4UTZoOE9mMFFJRE1QbkJnWGdmSVRHT1AwWQ?oc=5\" target=\"_blank\">UK ministers take control of \u00a310bn Lower Thames Crossing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: UK ministers take control of \u00a310bn Lower Thames Crossing project."
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTDhoa3RRN0ZuOVl4b2J4SzRCUE5JNC0wYk5rVFJEbWVFTHdRS1E5WHJqWXhqbVNmWVd4WEtfMkZjSDFUTExleEN4S1R0azNmUlB4X3pycm4zRndPUXpGVUY3SDIwYWdWWUN0MzB0ZlNPbmh0cjl5R2RIcW1VM0VoR0JaRFc1VFdkRU1DeF9fWEI0ZGNsai10OWFaUUdDcFd6dTFn?oc=5",
-        "date": "2025-10-12",
-        "title": "AMD Gains from New AI Infrastructure Collaboration with OpenAI - GuruFocus",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTDhoa3RRN0ZuOVl4b2J4SzRCUE5JNC0wYk5rVFJEbWVFTHdRS1E5WHJqWXhqbVNmWVd4WEtfMkZjSDFUTExleEN4S1R0azNmUlB4X3pycm4zRndPUXpGVUY3SDIwYWdWWUN0MzB0ZlNPbmh0cjl5R2RIcW1VM0VoR0JaRFc1VFdkRU1DeF9fWEI0ZGNsai10OWFaUUdDcFd6dTFn?oc=5\" target=\"_blank\">AMD Gains from New AI Infrastructure Collaboration with OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWHhqNWV6RDItUjFRclpvS3g0eHBoMTFiUU1XT1JjMzFDMWNsYm5FWWNJQzJqLUxfeUNUVnFaZGU5YVljTi1rMWpvZUVnVlFScWZkdDRVRkhNWFNMZDBITzU3ZVhxSDFiZ0oyT2VEcGg3NjZaUjAyV0VxMFJVSjNjNWcxSDFqZHlt?oc=5",
-        "date": "2025-10-12",
-        "title": "In Minnesota, BlackRock Is Acquiring Vital Infrastructure - Jacobin",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWHhqNWV6RDItUjFRclpvS3g0eHBoMTFiUU1XT1JjMzFDMWNsYm5FWWNJQzJqLUxfeUNUVnFaZGU5YVljTi1rMWpvZUVnVlFScWZkdDRVRkhNWFNMZDBITzU3ZVhxSDFiZ0oyT2VEcGg3NjZaUjAyV0VxMFJVSjNjNWcxSDFqZHlt?oc=5\" target=\"_blank\">In Minnesota, BlackRock Is Acquiring Vital Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jacobin</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmRCZlMxZ0pCSzgwSG5lSlpKQjh6anRlVFhtdUlsMWF2bld6VE5CN0FndW4xelJ0UW1Wb1kwUTYzbHZNcm1KOVJ2RkdRbVppbS1zN1F5Ykdjal9nb2JKcXV4M3pmb1BpWnFjb2dualFBbTZDX2tfR0UxT3lXeFZUMjhEVFRocDBpLUV5UFBsVDlqRmxnVnl0Y0FNVVNZNWxKQXNHSGp5MXpBdTNWM0E?oc=5",
-        "date": "2025-10-12",
-        "title": "ClearBridge Global Infrastructure Income Strategy Q3 2025 Commentary - Seeking Alpha",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmRCZlMxZ0pCSzgwSG5lSlpKQjh6anRlVFhtdUlsMWF2bld6VE5CN0FndW4xelJ0UW1Wb1kwUTYzbHZNcm1KOVJ2RkdRbVppbS1zN1F5Ykdjal9nb2JKcXV4M3pmb1BpWnFjb2dualFBbTZDX2tfR0UxT3lXeFZUMjhEVFRocDBpLUV5UFBsVDlqRmxnVnl0Y0FNVVNZNWxKQXNHSGp5MXpBdTNWM0E?oc=5\" target=\"_blank\">ClearBridge Global Infrastructure Income Strategy Q3 2025 Commentary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY24tQkJyVm9VQ3VJYTVObFB2Si1WUzZpZ1ZRdFdHM2pPNzM3Xy1jRk03RVJ2OUJvRlRKbVVPc3lkYTZYeDdMSkdNaG9HWkpEOGxGUXc1aTVQb0FGd2JoYTlfN1FLdTZfYjZRaVFHaVdDczJ5SXMyTl90Qk16WGVzLWR4U0VwWk5GakphMnd4UTZoOE9mMFFJRE1QbkJnWGdmSVRHT1AwWQ?oc=5",
-        "date": "2025-10-12",
-        "title": "UK ministers take control of \u00a310bn Lower Thames Crossing - The Guardian",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQY24tQkJyVm9VQ3VJYTVObFB2Si1WUzZpZ1ZRdFdHM2pPNzM3Xy1jRk03RVJ2OUJvRlRKbVVPc3lkYTZYeDdMSkdNaG9HWkpEOGxGUXc1aTVQb0FGd2JoYTlfN1FLdTZfYjZRaVFHaVdDczJ5SXMyTl90Qk16WGVzLWR4U0VwWk5GakphMnd4UTZoOE9mMFFJRE1QbkJnWGdmSVRHT1AwWQ?oc=5\" target=\"_blank\">UK ministers take control of \u00a310bn Lower Thames Crossing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: UK ministers take control of \u00a310bn Lower Thames Crossing project.",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGJBU3VWNnMzNTJlUE1MazUwWWw3U3VwZmZqbEpSOXlHUmE2S3c0VVhJeW94Rk5nQW13aWdpWUE4RmNrZG51ZXprS0cwTWlfM29GZGs1bGg2VHpBS0JZcVJkTzVBRlpJaGVjY2ZzNlduMjRCaGFSSEFzNVdvaWkxd2tQeEo2YkRSNmhsVjRGMzFPV04yRV8wMGQwTnc1WUJSRnliWVhqZHczN1A4M3RuV1BjdEVfY0NIeWc?oc=5",
-        "date": "2025-10-12",
-        "title": "U.S. Intelligence Helps Ukraine Strike Russian Energy Infrastructure \u2013 FT - The Moscow Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGJBU3VWNnMzNTJlUE1MazUwWWw3U3VwZmZqbEpSOXlHUmE2S3c0VVhJeW94Rk5nQW13aWdpWUE4RmNrZG51ZXprS0cwTWlfM29GZGs1bGg2VHpBS0JZcVJkTzVBRlpJaGVjY2ZzNlduMjRCaGFSSEFzNVdvaWkxd2tQeEo2YkRSNmhsVjRGMzFPV04yRV8wMGQwTnc1WUJSRnliWVhqZHczN1A4M3RuV1BjdEVfY0NIeWc?oc=5\" target=\"_blank\">U.S. Intelligence Helps Ukraine Strike Russian Energy Infrastructure \u2013 FT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Moscow Times</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRW1RbkFkMTN6YUF5VkEzbms3eUhjSndJdWJPbXNiekVqdC15X0ZTazhqanRLVVBiX0VVM21yYkJqeWo3NTVyelpibTBvRFM0ZzFIUHhNYVFDel9DNjVFTWo5OTdWd2dCMGx2NUlsUG5qMUR2enRzZk9WZjVaT1FQQk5kZjViTXpsMTZ0UHJ1Nm5Hb00?oc=5",
-        "date": "2025-10-12",
-        "title": "NRC Strengthens Security Amid Rising Infrastructure Vandalism - Railway Supply",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNRW1RbkFkMTN6YUF5VkEzbms3eUhjSndJdWJPbXNiekVqdC15X0ZTazhqanRLVVBiX0VVM21yYkJqeWo3NTVyelpibTBvRFM0ZzFIUHhNYVFDel9DNjVFTWo5OTdWd2dCMGx2NUlsUG5qMUR2enRzZk9WZjVaT1FQQk5kZjViTXpsMTZ0UHJ1Nm5Hb00?oc=5\" target=\"_blank\">NRC Strengthens Security Amid Rising Infrastructure Vandalism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Railway Supply</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNnplUHRnTVJRRWFvRTduQzZ1dVliWTZlazRYNk5IcmtzRVRiR1RaWmhxcGFiMnExME54VFBZV0hjYWVXeEZoTy1ndHFlT2ptNzdMaVhPS1R0bFJYczNyZkpLY1VTSUludWV4VXVjQUNoa2I3QkpoNmxHNFM1Ukl5czlnblozSTh4c1JCQXFvVHN6c3poQWRhVml2U2NLaENkaDRCekJYSXJiN2pPdXRtZm43WWhja2pZc2FxUzhaak9GZ0FR?oc=5",
-        "date": "2025-10-12",
-        "title": "Zelenskyy and Trump discuss bolstering defence on phone call - Euronews.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNNnplUHRnTVJRRWFvRTduQzZ1dVliWTZlazRYNk5IcmtzRVRiR1RaWmhxcGFiMnExME54VFBZV0hjYWVXeEZoTy1ndHFlT2ptNzdMaVhPS1R0bFJYczNyZkpLY1VTSUludWV4VXVjQUNoa2I3QkpoNmxHNFM1Ukl5czlnblozSTh4c1JCQXFvVHN6c3poQWRhVml2U2NLaENkaDRCekJYSXJiN2pPdXRtZm43WWhja2pZc2FxUzhaak9GZ0FR?oc=5\" target=\"_blank\">Zelenskyy and Trump discuss bolstering defence on phone call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2pJbDJiX3E5OXg1QUZvcE9pU3ZxcWtPY1NYQ1p2U3B2WVdSY3RsWTBDZjlyNVQ0dWpPdWYzMjcxTWtJTi1ObXBiQzJjbUFub19mX3d5UnhFUGwzMU5aQ1ZfZmRQNkwxbEkwRktqVWNMUHFWd1lCR2NCcUVXMmI0cDNyRHRDUFJFQnZvYmlVX0I5RzhVVzVpM3cwR0NLV3RiVi1pd0ptSWNacExyUnVCMktpUnJvRzhMTGkzMDFBRkpmcG52aU00N0hxTUNEb0VVdHZiSNIB2wFBVV95cUxQT1FzRTBCejQ2Y2R0TGVPTnY1NUw5TktFaXkyS2VWenRXRV9ldnY0YVA1Mi1icS1qaUtXZ1A5RUthUURWS0RtX3JmX0xmUGVRLUJoVHFsLXFPUkJrRmU4N0Z2V21ia203M2Z1b1VrWmNEUEdmMVR3Y2pGQUd2UnBCUVlfTUFvMHViR3gzS3VscDFORUtRdm53Wk5PM3hkak9BQ1NaMngzWG1PV0JNWm5vbURLak5TVTM1TFpuYXBCLWZ5VElTQlhtemhCdk1MeFpvMjdiOGVQVWdocXc?oc=5",
-        "date": "2025-10-12",
-        "title": "TUDA Chairman proposes steps for planned development in Tirupati - The Hindu",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2pJbDJiX3E5OXg1QUZvcE9pU3ZxcWtPY1NYQ1p2U3B2WVdSY3RsWTBDZjlyNVQ0dWpPdWYzMjcxTWtJTi1ObXBiQzJjbUFub19mX3d5UnhFUGwzMU5aQ1ZfZmRQNkwxbEkwRktqVWNMUHFWd1lCR2NCcUVXMmI0cDNyRHRDUFJFQnZvYmlVX0I5RzhVVzVpM3cwR0NLV3RiVi1pd0ptSWNacExyUnVCMktpUnJvRzhMTGkzMDFBRkpmcG52aU00N0hxTUNEb0VVdHZiSNIB2wFBVV95cUxQT1FzRTBCejQ2Y2R0TGVPTnY1NUw5TktFaXkyS2VWenRXRV9ldnY0YVA1Mi1icS1qaUtXZ1A5RUthUURWS0RtX3JmX0xmUGVRLUJoVHFsLXFPUkJrRmU4N0Z2V21ia203M2Z1b1VrWmNEUEdmMVR3Y2pGQUd2UnBCUVlfTUFvMHViR3gzS3VscDFORUtRdm53Wk5PM3hkak9BQ1NaMngzWG1PV0JNWm5vbURLak5TVTM1TFpuYXBCLWZ5VElTQlhtemhCdk1MeFpvMjdiOGVQVWdocXc?oc=5\" target=\"_blank\">TUDA Chairman proposes steps for planned development in Tirupati</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZDQ5em1RN2lWRFEwVHlFTjNMNlJtYjVTWnNiSVBHdVZpTENtai1EZFNMYTYtLWo1MWU3cXR6V3ZSTUsxMXV3em5vR3JsSXR3NzlXR094SEtuOHVGRVdCczJfdzZnb2puQ1VYQ3lLRVF0QXVIV0duLVNEN0E5VUQ5QkdYc19kTHRrTmg2QWt6dEk4X1FZcnl0em1uX0h0eXlMUWtGeVZyaHZqZmp5VFZUSjNBS0E?oc=5",
-        "date": "2025-10-12",
-        "title": "Australia's housing crisis? This central Vic carpenter might have the answer - Bendigo Advertiser",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZDQ5em1RN2lWRFEwVHlFTjNMNlJtYjVTWnNiSVBHdVZpTENtai1EZFNMYTYtLWo1MWU3cXR6V3ZSTUsxMXV3em5vR3JsSXR3NzlXR094SEtuOHVGRVdCczJfdzZnb2puQ1VYQ3lLRVF0QXVIV0duLVNEN0E5VUQ5QkdYc19kTHRrTmg2QWt6dEk4X1FZcnl0em1uX0h0eXlMUWtGeVZyaHZqZmp5VFZUSjNBS0E?oc=5\" target=\"_blank\">Australia's housing crisis? This central Vic carpenter might have the answer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bendigo Advertiser</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NQkpYUTg1SzhpSndKVmhvanJpRHJnSnVweFlOa3VfUTFJWnF6d29EdGlEeGprRHRIcXRfRnZ1aWdqX3hDNklRaGNXR0p0dC11b0x1ZklLZllIOU5vMDJDbU9IYmx2a2hVVjVfZFhmMA?oc=5",
-        "date": "2025-10-12",
-        "title": "New safety campaign to tackle falls on construction sites - RTE.ie",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1NQkpYUTg1SzhpSndKVmhvanJpRHJnSnVweFlOa3VfUTFJWnF6d29EdGlEeGprRHRIcXRfRnZ1aWdqX3hDNklRaGNXR0p0dC11b0x1ZklLZllIOU5vMDJDbU9IYmx2a2hVVjVfZFhmMA?oc=5\" target=\"_blank\">New safety campaign to tackle falls on construction sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTE.ie</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWW04X1dMd2xVX1hOTVVETXI2bVhaQ29UNlY5Y0ZZdUFIbWVqakhFZG9uaXh4RlJFblF2X2x5eHc2VFZSc3lLTXlld2tEcXRLejdDMmQwYlBXRmQ3MlBIVHFROEUwQjFJb2VudlVzN19TM21SYldnM3Rzd0FFME9rSm5vNktPbXVfOEhVQmZUdDhMQVE4SW9tMG9GMVR0b3owMEHSAacBQVVfeXFMUG5aQ1FCUHlZTUxEc04wcUxLR0FmazFxTEgzS3NFVE90VE1HRkdWYTQweHM3aWNsbnVuc00ySzdYTzFuVWdZU3h0ZTFsbTQxZDVmay11LW80YXdxdU9RbFdRSjl4azRuTHE2WVpGdmJrNk0wUVR2UXFWSkVKQXpHV3ZwNFhGSk8xZFhGeURSazlHOTRlZ2FmeGtpTXhEUm5wYmM2S24xRGM?oc=5",
-        "date": "2025-10-12",
-        "title": "Brookfield: Over $4 Billion First Close For Fourth Global Infrastructure Debt Fund - Pulse 2.0",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQWW04X1dMd2xVX1hOTVVETXI2bVhaQ29UNlY5Y0ZZdUFIbWVqakhFZG9uaXh4RlJFblF2X2x5eHc2VFZSc3lLTXlld2tEcXRLejdDMmQwYlBXRmQ3MlBIVHFROEUwQjFJb2VudlVzN19TM21SYldnM3Rzd0FFME9rSm5vNktPbXVfOEhVQmZUdDhMQVE4SW9tMG9GMVR0b3owMEHSAacBQVVfeXFMUG5aQ1FCUHlZTUxEc04wcUxLR0FmazFxTEgzS3NFVE90VE1HRkdWYTQweHM3aWNsbnVuc00ySzdYTzFuVWdZU3h0ZTFsbTQxZDVmay11LW80YXdxdU9RbFdRSjl4azRuTHE2WVpGdmJrNk0wUVR2UXFWSkVKQXpHV3ZwNFhGSk8xZFhGeURSazlHOTRlZ2FmeGtpTXhEUm5wYmM2S24xRGM?oc=5\" target=\"_blank\">Brookfield: Over $4 Billion First Close For Fourth Global Infrastructure Debt Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NTk5qVDFBTlN5UFllX0lXSDZwbTVmMzR1V1BpWmUySS13S1hKek1wczhpMGZmX3Z1WHBLS0ZaanBiVG5SMWZCMzlISHB4RFFPOTdwSjNaY2hPdmxkRENGbVN4ZmpOTWVGbXVhQXNDN09GUDVMV0h0cTZ1WjVVQnM?oc=5",
         "date": "2025-10-13",
         "title": "The Top Construction Industry Trends for 2025 - Shopify",
@@ -3878,5 +3725,25 @@
         "status": "posted",
         "tweet": "Google $GOOGL\n2023 data center fleetwide PUE: 1.10",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYdFIyYWpYRmJ3RTgyaF9wdGJsTk9sYlNVdlpLREVaQnBrcWh2WnE1cU9qcGtQQ1hDaVdrU2c4cXVGQi0xdWdxNEM1YW14OUwx?oc=5",
+        "date": "2025-10-22",
+        "title": "The 2025 Smart City & Sports Summit, an international forum to share urban development strategie.. - \ub9e4\uc77c\uacbd\uc81c",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYdFIyYWpYRmJ3RTgyaF9wdGJsTk9sYlNVdlpLREVaQnBrcWh2WnE1cU9qcGtQQ1hDaVdrU2c4cXVGQi0xdWdxNEM1YW14OUwx?oc=5\" target=\"_blank\">The 2025 Smart City & Sports Summit, an international forum to share urban development strategie..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\ub9e4\uc77c\uacbd\uc81c</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LaUJkV3dRXzM1RmJoUFIxeWxwajZ0MHpMWjYyaHU0MVl4TThwSmdQZ3BINWpNcV94Sm9fWmhwekhOWEFJX09ldkgtUWxmR253MHNSbTBHa0N3WnZQWmM4MDNLV1pjbGNWNjQ1OGJyc3ZmZEk?oc=5",
+        "date": "2025-10-22",
+        "title": "Mapping Tomorrow\u2019s Cities - The Worldfolio",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9LaUJkV3dRXzM1RmJoUFIxeWxwajZ0MHpMWjYyaHU0MVl4TThwSmdQZ3BINWpNcV94Sm9fWmhwekhOWEFJX09ldkgtUWxmR253MHNSbTBHa0N3WnZQWmM4MDNLV1pjbGNWNjQ1OGJyc3ZmZEk?oc=5\" target=\"_blank\">Mapping Tomorrow\u2019s Cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Worldfolio</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
