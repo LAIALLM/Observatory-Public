@@ -3865,5 +3865,13 @@
         "status": "posted",
         "tweet": "Summary: In 2025, Solana validators demand the highest hardware costs, outpacing Bitcoin miners and Ethereum nodes.\n\n1. Solana: $15,000 avg. per validator server (128GB RAM, high-core CPU).\n2. Bitcoin: $8,500 avg. ASIC miner (e.g., Antminer S21 equivalent).\n3. Ethereum: $1,200 av",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-10-22",
+        "status": "posted",
+        "tweet": "2025: 57% of the world\u2019s population\u2014about 4.6 billion people\u2014live in urban areas.",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
