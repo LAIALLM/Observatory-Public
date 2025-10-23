@@ -3252,5 +3252,12 @@
         "status": "posted",
         "tweet": "Alphabet $GOOGL\nGlobal data center PUE: 1.10 (TTM 2023)",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-10-23",
+        "status": "posted",
+        "tweet": "Bitcoin's 7 TPS requires 150+ TWh annually in 2025, costing $12 billion in electricity\u2014equivalent to powering \ud83c\uddfa\ud83c\uddf8US households for a year.",
+        "type": "crypto"
     }
 ]
