@@ -3417,5 +3417,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-10-23",
+        "status": "posted",
+        "tweet": "Amazon S3 durability target: 99.999999999% (11 nines). $AMZN",
+        "type": "infrastructure"
     }
 ]
