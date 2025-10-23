@@ -3259,5 +3259,13 @@
         "status": "posted",
         "tweet": "Bitcoin's 7 TPS requires 150+ TWh annually in 2025, costing $12 billion in electricity\u2014equivalent to powering \ud83c\uddfa\ud83c\uddf8US households for a year.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-10-23",
+        "status": "posted",
+        "tweet": "2025 solar PV\nGlobal module manufacturing capacity \u22481.5 TW\nvs\nProjected new installations \u2248500\u2013600 GW",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
