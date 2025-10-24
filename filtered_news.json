@@ -3377,5 +3377,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: Nature set to take centre stage in Earls Court, Londons next great neighbourhood.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-10-24",
+        "status": "posted",
+        "tweet": "Apple $AAPL\nData centers: 100% renewable energy worldwide.",
+        "type": "infrastructure"
     }
 ]
