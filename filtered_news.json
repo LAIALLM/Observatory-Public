@@ -3140,5 +3140,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Div Com Kashmir inspects operational readiness of 60 MLD STP in Noorbagh",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-10-24",
+        "status": "posted",
+        "tweet": "Summary: In 2025, Bitcoin's carbon footprint vastly exceeds Ethereum and Solana's due to proof-of-work energy demands.\n\n1. Bitcoin: 92 MtCO2 annually (equivalent to \ud83c\uddf3\ud83c\uddf1 Netherlands' yearly emissions)  \n2. Ethereum: 0.3 MtCO2 annually (post-proof-of-stake efficiency)  \n3. Solana: 0",
+        "type": "crypto"
     }
 ]
