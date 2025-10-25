@@ -3219,5 +3219,20 @@
         "status": "posted",
         "tweet": "Google data centers: 2023 average PUE 1.10. $GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-10-25",
+        "status": "posted",
+        "tweet": "Summary: 2025: Australian cities with the most tower cranes (latest RLB counts)\n\n1. \ud83c\udde6\ud83c\uddfa Sydney/Australia\n2. \ud83c\udde6\ud83c\uddfa Melbourne/Australia\n3. \ud83c\udde6\ud83c\uddfa Brisbane/Australia\n4. \ud83c\udde6\ud83c\uddfa Perth/Australia\n5. \ud83c\udde6\ud83c\uddfa Gold Coast/Australia",
+        "type": "statistical",
+        "category": "construction projects"
+    },
+    {
+        "link": null,
+        "date": "2025-10-25",
+        "status": "posted",
+        "tweet": "Bitcoin mining's data center footprint in 2025: 160 TWh annual electricity use, equivalent to \ud83c\uddf3\ud83c\uddf1 Netherlands' total consumption.\n\nThis surge drives 15% of global data center energy demand, with cloud providers like AWS ($AMZN) handling 40% of operations.",
+        "type": "crypto"
     }
 ]
