@@ -3021,5 +3021,12 @@
         "tweet": "2025 urban rail per million residents\n\ud83c\udde8\ud83c\uddf3 Shanghai: 831 km metro; population 24.9m; 33 km/million\n\ud83c\uddfa\ud83c\uddf8 Los Angeles: 170 km rail; population 9.9m; 17 km/million",
         "type": "statistical",
         "category": "urban planning"
+    },
+    {
+        "link": null,
+        "date": "2025-10-26",
+        "status": "posted",
+        "tweet": "Alphabet $GOOGL\nData center PUE (global, 2023): 1.10",
+        "type": "infrastructure"
     }
 ]
