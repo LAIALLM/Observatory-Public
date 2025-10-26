@@ -2822,5 +2822,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\udde9 NEWS: Democratic Republic of Congo and Vingroup $VIC sign MOU on urban development and green transportation",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-10-26",
+        "status": "posted",
+        "tweet": "Bitcoin's PoW network incurs $4.5B in annual ASIC hardware costs for mining rigs in 2025.\n\nEthereum's PoS validators require only $450M in server hardware network-wide.\n\nThat's a 10x efficiency gap in hardware spend.",
+        "type": "crypto"
     }
 ]
