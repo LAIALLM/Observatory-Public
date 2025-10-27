@@ -2661,5 +2661,12 @@
         "status": "posted",
         "tweet": "Summary: In 2025, Bitcoin's proof-of-work drives the highest annual maintenance and security costs at $7.2B, dwarfing Ethereum and Solana's proof-of-stake efficiencies.\n\n1. Bitcoin: $7.2B in electricity for mining security and network maintenance.\n\n2. Ethereum: $45M for validator",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-10-27",
+        "status": "posted",
+        "tweet": "Google data centers\n2023 average PUE: 1.10\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
