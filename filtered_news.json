@@ -1,441 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-10-17",
-        "status": "posted",
-        "tweet": "In 2025, Bitcoin processes 7 transactions per second at an annual infrastructure cost of $18 billion.\n\nEthereum handles 25 transactions per second, costing $5 billion yearly.\n\nSolana achieves 65,000 transactions per second for $100 million annually.",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2025-10-17",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8\ud83d\udccdApple Inc. reports impressive Q2 figures. \nNet income: $23.6B \nRevenue: $89.6B \nProducts sold: 52.2M iPhones, 9.1M iPads, 4.08M Macs. \nEnergy used: 77.5% from renewable sources. \nEPS: $2.73. \nCompany value: $904B. \n\u23e9 Growth: +16% YOY.\n$AAPL",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYzFVTmNMSmtYTC1jVmh0MjZsUWxwLWctOGtYRGo5cWFZTjVhRHNfS3A2ZlVRcEo5UWxSX3dSLXJaXzRTMjd4eFpZQVROdzdoLWhoSGQ2R3NXVmpEYUtfQVBoSjdreGRyR2ZWRWt2bjg0cGpLdmxQZGJBNU40SFNIbjRkRzJGS1ZEeWhsaUZ5eTItbGlPVFltdkxYR3FWTWdCd0dVUU5sMUxET0JLSkluanJNVmMtRmR5RW5EUUhMdHVYUDFfYUxVNUMzX1RYVDBF?oc=5",
-        "date": "2025-10-17",
-        "title": "Britain's SIG reports muted sales as construction industry stalls - TradingView",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYzFVTmNMSmtYTC1jVmh0MjZsUWxwLWctOGtYRGo5cWFZTjVhRHNfS3A2ZlVRcEo5UWxSX3dSLXJaXzRTMjd4eFpZQVROdzdoLWhoSGQ2R3NXVmpEYUtfQVBoSjdreGRyR2ZWRWt2bjg0cGpLdmxQZGJBNU40SFNIbjRkRzJGS1ZEeWhsaUZ5eTItbGlPVFltdkxYR3FWTWdCd0dVUU5sMUxET0JLSkluanJNVmMtRmR5RW5EUUhMdHVYUDFfYUxVNUMzX1RYVDBF?oc=5\" target=\"_blank\">Britain's SIG reports muted sales as construction industry stalls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVHhid2N6WG5FeFYzZkRaTWo4clp0azctbm04STZ6VUhKUEs5ZlVqalZGU1h0XzVVY0lTVDZ5cUFzOUN0TFc0V0N2Nk5OWU02a1RLQlU0eHE1SE1hY3JGVjFhSjIxUWxiaHhCUzhIZ0F4U2g2Z2VPSXY3OTZTTnRJQnFmNXpkUnMzU0hxUTFTdmNDdFBuQ3R5YXl6UlBqTmJrU2ROWWhFb0c4eGpM?oc=5",
-        "date": "2025-10-17",
-        "title": "PCL Construction donates $1.5 million to CAMH for World Mental Health Day - Ontario Construction News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVHhid2N6WG5FeFYzZkRaTWo4clp0azctbm04STZ6VUhKUEs5ZlVqalZGU1h0XzVVY0lTVDZ5cUFzOUN0TFc0V0N2Nk5OWU02a1RLQlU0eHE1SE1hY3JGVjFhSjIxUWxiaHhCUzhIZ0F4U2g2Z2VPSXY3OTZTTnRJQnFmNXpkUnMzU0hxUTFTdmNDdFBuQ3R5YXl6UlBqTmJrU2ROWWhFb0c4eGpM?oc=5\" target=\"_blank\">PCL Construction donates $1.5 million to CAMH for World Mental Health Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ontario Construction News</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeURSZVprVzdKUlR0OWNsSkx0WmJxaGFOREp6aWNPODBVQjhabkFsdjZ1eFdQUTR2TGJtdUo0ZDZLQTU4dVFJRW1JRlplaDhfUkdfMlFjUmE0NXo4a25CUUFGQzlfSVY2RVNxSDhkcTA0TjJLejFIN0FKV1BjUEF6NVUzNXN2eXV6dXpuNk05WGs5UGRwQ250TmxxeS1HY0tWX19ZbkpjTFhfNXJqS3NEOU0wQzdFdS1kQjFpNnRkbXlpYURRaWVMMHNn0gHPAUFVX3lxTE03alN3UHBfRWszUm92LUlTUS1XWlBnRU5lQnVvYTRzM1A2WjFCRFcyV0RMeTdzMWRab3RXSS1IOVhHdlBWdVEwbXBQWm45NXJ5NGEyTmJ6NVR1UWw1X2M2U2swMG9DdFhZZlRUbjYwM3R0U1JfbjBRaFFMNW9wZ2NsMVZnYmhZdHVFc0dacVk3dUotTWlGUm9hamZ2Rk1EdHByaUJ1Zkd0d1BrekhkYTNjU3ZhN29YZmZWdjVVLXFMdEhHQ2RpSjBXazBWZGtrVQ?oc=5",
-        "date": "2025-10-17",
-        "title": "Accumulate JSW Infrastructure; target of Rs 338: Prabhudas Lilladher - Moneycontrol",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOeURSZVprVzdKUlR0OWNsSkx0WmJxaGFOREp6aWNPODBVQjhabkFsdjZ1eFdQUTR2TGJtdUo0ZDZLQTU4dVFJRW1JRlplaDhfUkdfMlFjUmE0NXo4a25CUUFGQzlfSVY2RVNxSDhkcTA0TjJLejFIN0FKV1BjUEF6NVUzNXN2eXV6dXpuNk05WGs5UGRwQ250TmxxeS1HY0tWX19ZbkpjTFhfNXJqS3NEOU0wQzdFdS1kQjFpNnRkbXlpYURRaWVMMHNn0gHPAUFVX3lxTE03alN3UHBfRWszUm92LUlTUS1XWlBnRU5lQnVvYTRzM1A2WjFCRFcyV0RMeTdzMWRab3RXSS1IOVhHdlBWdVEwbXBQWm45NXJ5NGEyTmJ6NVR1UWw1X2M2U2swMG9DdFhZZlRUbjYwM3R0U1JfbjBRaFFMNW9wZ2NsMVZnYmhZdHVFc0dacVk3dUotTWlGUm9hamZ2Rk1EdHByaUJ1Zkd0d1BrekhkYTNjU3ZhN29YZmZWdjVVLXFMdEhHQ2RpSjBXazBWZGtrVQ?oc=5\" target=\"_blank\">Accumulate JSW Infrastructure; target of Rs 338: Prabhudas Lilladher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMzdpWFBtMTBQNWppREVyaGNiQ19FNUl6VVEteXZ1M2k0UG42ZVAwcnczRlBOeUwtV2dlQkxvd1J3YS13VEJXUFN3Smxlc3MtTWNnOFNxR0xpVmYwOWQ3LXdaVjV6MjgxcEhvN0F0bUItaGRybVZPNk9RUzZBVmdSSTBIcG5IWTExcnRqenlWc3RsTllndFBkbmtMc1Z1OU9xWHhBaTNiWlAzME5ZOXVqQUlaa2FIUndpOXpKdXZINmZBdVJJYVlVRVROUVVyWGs3NVR1b1BOVQ?oc=5",
-        "date": "2025-10-17",
-        "title": "Yuranus Infrastructure Ltd Faces Selling Pressure, Declines 1.74% Amid Ongoing Losses - Markets Mojo",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMzdpWFBtMTBQNWppREVyaGNiQ19FNUl6VVEteXZ1M2k0UG42ZVAwcnczRlBOeUwtV2dlQkxvd1J3YS13VEJXUFN3Smxlc3MtTWNnOFNxR0xpVmYwOWQ3LXdaVjV6MjgxcEhvN0F0bUItaGRybVZPNk9RUzZBVmdSSTBIcG5IWTExcnRqenlWc3RsTllndFBkbmtMc1Z1OU9xWHhBaTNiWlAzME5ZOXVqQUlaa2FIUndpOXpKdXZINmZBdVJJYVlVRVROUVVyWGs3NVR1b1BOVQ?oc=5\" target=\"_blank\">Yuranus Infrastructure Ltd Faces Selling Pressure, Declines 1.74% Amid Ongoing Losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Markets Mojo</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYVJsUTZ5dUQxbTBWRjNNQkprbVBaZ2JUUlhDRE14NDBHUXRmYVA0WTFZSU1kc1hqZG5ORGF1eG5pQXNtM0FEQUFmTE9mTmVSSVRIcUpMcm9wWVN5MWQ5MzFnQ3piNGkxeHpUbnVlcVp2NzlIZFdBVUd6UkNqbEhWMUY5Sm43bTVCb1FDVkVaRndFbVBTTFJCODNiMWg0WU5BTDJoMGNCb0ZLUUg0UXRjbklWZGk0dUVhMDB2V0RIU3lOSmU2OWRHZkI1alpOeW1zZXlxdA?oc=5",
-        "date": "2025-10-17",
-        "title": "Tata Realty & Infrastructure Ltd.\u2019s Commercial Portfolio Achieves 5-Star GRESB rating for 2025 - Press Trust of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYVJsUTZ5dUQxbTBWRjNNQkprbVBaZ2JUUlhDRE14NDBHUXRmYVA0WTFZSU1kc1hqZG5ORGF1eG5pQXNtM0FEQUFmTE9mTmVSSVRIcUpMcm9wWVN5MWQ5MzFnQ3piNGkxeHpUbnVlcVp2NzlIZFdBVUd6UkNqbEhWMUY5Sm43bTVCb1FDVkVaRndFbVBTTFJCODNiMWg0WU5BTDJoMGNCb0ZLUUg0UXRjbklWZGk0dUVhMDB2V0RIU3lOSmU2OWRHZkI1alpOeW1zZXlxdA?oc=5\" target=\"_blank\">Tata Realty & Infrastructure Ltd.\u2019s Commercial Portfolio Achieves 5-Star GRESB rating for 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Press Trust of India</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFVwNnd2TVljMDJYZGhGZVAtQk1KbHQtNVZ4T2RNMVFXNjd2blZPZjRzMzhmeXh4UWt4Ukc2Q1oxRk1DSTZ6YUpqbGtENXAwZC1fRGtwZ2Z0SElFRWZoalZna2lGNFYwdl9zQjJNNGNxT3duQ1JuRE5rNGhRZjRLMFVkM0hXWUpNZE5VM2xVOXNzUU96LWhFNjRMZW1QS3ljR0xOaXhMcUpCcUE?oc=5",
-        "date": "2025-10-17",
-        "title": "Senegalese Infrastructure Projects to Strengthen Hydrocarbon Value Addition - Energy Capital & Power",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFVwNnd2TVljMDJYZGhGZVAtQk1KbHQtNVZ4T2RNMVFXNjd2blZPZjRzMzhmeXh4UWt4Ukc2Q1oxRk1DSTZ6YUpqbGtENXAwZC1fRGtwZ2Z0SElFRWZoalZna2lGNFYwdl9zQjJNNGNxT3duQ1JuRE5rNGhRZjRLMFVkM0hXWUpNZE5VM2xVOXNzUU96LWhFNjRMZW1QS3ljR0xOaXhMcUpCcUE?oc=5\" target=\"_blank\">Senegalese Infrastructure Projects to Strengthen Hydrocarbon Value Addition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy Capital & Power</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdV9SdHdfREV1ZjlwcXZlc2QtSFRHbFlaMWIwdjE1ZEFCUkxXYkpkLUZVTjZIN2VXYkRHRXJqanlEdVh4bUJNaGROSnZPWGo0amE1M0RINUhYVTdGV2RhSURFSEh2bU14d01BdDNOSms1eHBBMy10bVY5ZS1wcnNEb3BYc2VMbTJpb3NoT0hHUC1KWXk0bTByMlltWWRLS0JnTzBUUFpZMGhMUHJIUVJpLWpzOFM5LWV5?oc=5",
-        "date": "2025-10-17",
-        "title": "Bentley Systems Launches Advanced AI Capabilities To Transform Infrastructure Engineering - Construction Business News Middle East",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdV9SdHdfREV1ZjlwcXZlc2QtSFRHbFlaMWIwdjE1ZEFCUkxXYkpkLUZVTjZIN2VXYkRHRXJqanlEdVh4bUJNaGROSnZPWGo0amE1M0RINUhYVTdGV2RhSURFSEh2bU14d01BdDNOSms1eHBBMy10bVY5ZS1wcnNEb3BYc2VMbTJpb3NoT0hHUC1KWXk0bTByMlltWWRLS0JnTzBUUFpZMGhMUHJIUVJpLWpzOFM5LWV5?oc=5\" target=\"_blank\">Bentley Systems Launches Advanced AI Capabilities To Transform Infrastructure Engineering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Business News Middle East</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdERxMzBoYlFLekZVUW1QQ0JsUTgxb2E0WUpBYWFtUGJGcVJEMEJ2SHkwbGdqei01TmlWOGw5ckJUM1pMTEtrbmdvYUNDbDFkRHdIQ19DeTh4NkE1cWJ3WlUwMjYyUnp3TDJOX0NnLS1XZWJBMnVua2RRWldIeEZ1aVNvc3B3bFlrWnBNZ3JJbE9YeC0tUlQxeGdqY2duUkVlaXZ3cGlsdk0yczV5dDFOYjl6WENqdUk5Y1kxQUhPbw?oc=5",
-        "date": "2025-10-17",
-        "title": "Navy Hosts Seminar On Cybersecurity In Maritime Sector - Construction World India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdERxMzBoYlFLekZVUW1QQ0JsUTgxb2E0WUpBYWFtUGJGcVJEMEJ2SHkwbGdqei01TmlWOGw5ckJUM1pMTEtrbmdvYUNDbDFkRHdIQ19DeTh4NkE1cWJ3WlUwMjYyUnp3TDJOX0NnLS1XZWJBMnVua2RRWldIeEZ1aVNvc3B3bFlrWnBNZ3JJbE9YeC0tUlQxeGdqY2duUkVlaXZ3cGlsdk0yczV5dDFOYjl6WENqdUk5Y1kxQUhPbw?oc=5\" target=\"_blank\">Navy Hosts Seminar On Cybersecurity In Maritime Sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction World India</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZDFpR1c4MU9Lai1FUjRHUy1KbWhnc1JGTTBCZDhtQkJzMU9QVWFTbnZZcjhiUWRNbGVzVDgtY0E2ZE1ybGVYQnFEX0RyX1lRSU1ILUJmVEdfZ2YtWm51cThQNGdkQ3pqV2tIZEl2ejItdlVxZ2l6NWFEdXBlZG5ZaEUwU2RvZGZBcnBsLWZZSVJld0EyQXpjbEt1ZTdGczEzM0o5QjhhRDhXczg0VnBHNWk1Z0FCbmF3Zy1DVXVGdzV4cEVKNnhKZFVuRS15MDhhUWRwblU1VVV5QQ?oc=5",
-        "date": "2025-10-17",
-        "title": "Welspun Wins Rs 31.45 Billion Mumbai Water Project - Construction World India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZDFpR1c4MU9Lai1FUjRHUy1KbWhnc1JGTTBCZDhtQkJzMU9QVWFTbnZZcjhiUWRNbGVzVDgtY0E2ZE1ybGVYQnFEX0RyX1lRSU1ILUJmVEdfZ2YtWm51cThQNGdkQ3pqV2tIZEl2ejItdlVxZ2l6NWFEdXBlZG5ZaEUwU2RvZGZBcnBsLWZZSVJld0EyQXpjbEt1ZTdGczEzM0o5QjhhRDhXczg0VnBHNWk1Z0FCbmF3Zy1DVXVGdzV4cEVKNnhKZFVuRS15MDhhUWRwblU1VVV5QQ?oc=5\" target=\"_blank\">Welspun Wins Rs 31.45 Billion Mumbai Water Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction World India</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Welspun wins Rs 31.45 billion contract for Mumbai water project"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZDFpR1c4MU9Lai1FUjRHUy1KbWhnc1JGTTBCZDhtQkJzMU9QVWFTbnZZcjhiUWRNbGVzVDgtY0E2ZE1ybGVYQnFEX0RyX1lRSU1ILUJmVEdfZ2YtWm51cThQNGdkQ3pqV2tIZEl2ejItdlVxZ2l6NWFEdXBlZG5ZaEUwU2RvZGZBcnBsLWZZSVJld0EyQXpjbEt1ZTdGczEzM0o5QjhhRDhXczg0VnBHNWk1Z0FCbmF3Zy1DVXVGdzV4cEVKNnhKZFVuRS15MDhhUWRwblU1VVV5QQ?oc=5",
-        "date": "2025-10-17",
-        "title": "Welspun Wins Rs 31.45 Billion Mumbai Water Project - Construction World India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZDFpR1c4MU9Lai1FUjRHUy1KbWhnc1JGTTBCZDhtQkJzMU9QVWFTbnZZcjhiUWRNbGVzVDgtY0E2ZE1ybGVYQnFEX0RyX1lRSU1ILUJmVEdfZ2YtWm51cThQNGdkQ3pqV2tIZEl2ejItdlVxZ2l6NWFEdXBlZG5ZaEUwU2RvZGZBcnBsLWZZSVJld0EyQXpjbEt1ZTdGczEzM0o5QjhhRDhXczg0VnBHNWk1Z0FCbmF3Zy1DVXVGdzV4cEVKNnhKZFVuRS15MDhhUWRwblU1VVV5QQ?oc=5\" target=\"_blank\">Welspun Wins Rs 31.45 Billion Mumbai Water Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction World India</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Welspun wins Rs 31.45 billion contract for Mumbai water project.",
-        "type": "news"
-    },
-    {
-        "link": null,
-        "date": "2025-10-17",
-        "status": "posted",
-        "tweet": "\ud83c\udf0dGlobal: Renewable energy is projected to power 60% of electricity by 2025, a massive leap from the 26% in 2019. \n\ud83c\udde8\ud83c\uddf3China: Set to lead the pack, as 80% of their total energy capacity is forecasted to come from renewables in 2025, a stark rise from 38% in 2019.",
-        "type": "statistical",
-        "category": "energy"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ19pY1I4Yzl5bDBYZHdwcGZEOV9EWXROT3A5WTJNWURGeFpsVkFLd1NCSGw3YnRocWdWMXI5bTNrQkY5YUpQalowT0hDdWJ6cHFxOVdmekoxb1l6Z3RrYkRmRmc0WmpvWDZ6clZkU2MxZW5Ybi1GNjBQZnZBZFBwS0JQNUFNNFI0ZlhwMS1JU1lWd0lTWG1nbA?oc=5",
-        "date": "2025-10-17",
-        "title": "Will Danaos Corporation stock benefit from infrastructure spending - 2025 Market WrapUp & Weekly Setup with ROI Potential - Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ19pY1I4Yzl5bDBYZHdwcGZEOV9EWXROT3A5WTJNWURGeFpsVkFLd1NCSGw3YnRocWdWMXI5bTNrQkY5YUpQalowT0hDdWJ6cHFxOVdmekoxb1l6Z3RrYkRmRmc0WmpvWDZ6clZkU2MxZW5Ybi1GNjBQZnZBZFBwS0JQNUFNNFI0ZlhwMS1JU1lWd0lTWG1nbA?oc=5\" target=\"_blank\">Will Danaos Corporation stock benefit from infrastructure spending - 2025 Market WrapUp & Weekly Setup with ROI Potential</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMV92N1ppV3ZpNWlWeE5QWmdBV0xHUnNGLXctMkNoYS12T2Z2QV9wVGticXBxNmhnU1dpVkE2RFpoNU03dkVibl9aUExCOTBKN2ZsMW53emNYa1Y1M0dqdWJQN1h6T1VsX3h3YmF0c0ROWjdSVkZvcnhWdXMwTzc1cWtqVmc5Z0J0U0VveEdqQy1yQ2lnWkgzYw?oc=5",
-        "date": "2025-10-17",
-        "title": "Will Transcat Inc. stock benefit from infrastructure spending - 2025 Year in Review & Free Weekly Watchlist of Top Performers - Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNMV92N1ppV3ZpNWlWeE5QWmdBV0xHUnNGLXctMkNoYS12T2Z2QV9wVGticXBxNmhnU1dpVkE2RFpoNU03dkVibl9aUExCOTBKN2ZsMW53emNYa1Y1M0dqdWJQN1h6T1VsX3h3YmF0c0ROWjdSVkZvcnhWdXMwTzc1cWtqVmc5Z0J0U0VveEdqQy1yQ2lnWkgzYw?oc=5\" target=\"_blank\">Will Transcat Inc. stock benefit from infrastructure spending - 2025 Year in Review & Free Weekly Watchlist of Top Performers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ0Z0azlMOHJvRndCdTgyMTEwWVJDLVdUbTdKaU5UbW1XVlpkdnM2X0Y5RmNOODlFVWFFbmxVRGIyQmlGVVQ2aDFoY0YxWVNSRGpJYUotZzFHMkxXMzRpa215RV9oRHVJRWlRRVh1RmRXVWZ4dkh3WG9ja0h4V2pOOVo4SFRINDlzX0t0bkpvaXdCalNmQlZKWFpodk1DbzVuVF95UjlFX01BaEQyV1laS3VFaDZlWWNRZDlkVG83NA?oc=5",
-        "date": "2025-10-17",
-        "title": "100th Meeting of Network Planning Group under PM GatiShakti evaluates key Infrastructure projects - orissadiary.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ0Z0azlMOHJvRndCdTgyMTEwWVJDLVdUbTdKaU5UbW1XVlpkdnM2X0Y5RmNOODlFVWFFbmxVRGIyQmlGVVQ2aDFoY0YxWVNSRGpJYUotZzFHMkxXMzRpa215RV9oRHVJRWlRRVh1RmRXVWZ4dkh3WG9ja0h4V2pOOVo4SFRINDlzX0t0bkpvaXdCalNmQlZKWFpodk1DbzVuVF95UjlFX01BaEQyV1laS3VFaDZlWWNRZDlkVG83NA?oc=5\" target=\"_blank\">100th Meeting of Network Planning Group under PM GatiShakti evaluates key Infrastructure projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">orissadiary.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQmd6LXBxNDJVaEx5Z0dVLXZ1S3QxaWRlby12dGFqT29Cc0NCUFJlS0ppNDVTdWMxSzFsZ0Z4QzhTX3JUSk5TYWFydGJVSWxNYTNpaU5RSXlFQ0NkcjItUHJvMXN3aUY1M0c2ZFNmdVVIekY0Tlk4b2ZmaXZxc05aTUtQNmVfQWh5ZlNRV3RiWDRpWWFXVmxYeF9OSlZRODluRFpFX0pRb2MxYlhPTFhQcmpKRmUzVUJqU05hWWRuNWtvSlk?oc=5",
-        "date": "2025-10-17",
-        "title": "Nscale Signs Major GPU Infrastructure Deal with Microsoft to Deploy 200,000 NVIDIA Chips - AI Insider",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQmd6LXBxNDJVaEx5Z0dVLXZ1S3QxaWRlby12dGFqT29Cc0NCUFJlS0ppNDVTdWMxSzFsZ0Z4QzhTX3JUSk5TYWFydGJVSWxNYTNpaU5RSXlFQ0NkcjItUHJvMXN3aUY1M0c2ZFNmdVVIekY0Tlk4b2ZmaXZxc05aTUtQNmVfQWh5ZlNRV3RiWDRpWWFXVmxYeF9OSlZRODluRFpFX0pRb2MxYlhPTFhQcmpKRmUzVUJqU05hWWRuNWtvSlk?oc=5\" target=\"_blank\">Nscale Signs Major GPU Infrastructure Deal with Microsoft to Deploy 200,000 NVIDIA Chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Insider</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObEljVkFXOVVhTXdzYlRlMy1weURBQW85d1NVUWthSldMeU9BNjVjWmVTd0Z6RHlIOUg3bXJjWVpZZHQtTUZkckx5Y19iNGdtU2IycDV6ejhzVVdyblpIckRSNzZIUV9fbjdFcTFINkZDbDRqLU9MY3RZQWN1aEQ2WGtzaTVfclFJZVFma3BFdFU5TEN6RC15ekpNb0NiUldBS1lneHVTV29qZDFVU1BvS0pGR1g1WUVUWDdJNEhTVlR1OFlVeERkTDdaeG9uOGNVYVZfaWRqYkY3Y05ReFpvRkJoZkpzREd0MF9kUTAwNWl6eGg1aUlJeVJ5eGhwZnM?oc=5",
-        "date": "2025-10-17",
-        "title": "Massive Bio Calls on Congress to Classify ClinicalTrials.gov as Essential Infrastructure Amid Government Shutdown - Business Wire",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxObEljVkFXOVVhTXdzYlRlMy1weURBQW85d1NVUWthSldMeU9BNjVjWmVTd0Z6RHlIOUg3bXJjWVpZZHQtTUZkckx5Y19iNGdtU2IycDV6ejhzVVdyblpIckRSNzZIUV9fbjdFcTFINkZDbDRqLU9MY3RZQWN1aEQ2WGtzaTVfclFJZVFma3BFdFU5TEN6RC15ekpNb0NiUldBS1lneHVTV29qZDFVU1BvS0pGR1g1WUVUWDdJNEhTVlR1OFlVeERkTDdaeG9uOGNVYVZfaWRqYkY3Y05ReFpvRkJoZkpzREd0MF9kUTAwNWl6eGg1aUlJeVJ5eGhwZnM?oc=5\" target=\"_blank\">Massive Bio Calls on Congress to Classify ClinicalTrials.gov as Essential Infrastructure Amid Government Shutdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGUwYlViRTVnN1ZONkhrVTVxUk1mbkU3aDk3QlhuOWdoMlV1UjVxa1dzTWxCRkV3ZWwxYU9hZ2pZVnRob2VNSmpyaVozWHVzZTNSZEUyS012VVJPb3NCQ01jSkR4eXZZMFdjbzJIS3lzd2I2d1dpb0kyVGp5TmNBODNXOEV4YVF6Q2RKVTdSOHRlYlhSNmo4LXNQSDkwOXRIdVFYclR6Yw?oc=5",
-        "date": "2025-10-17",
-        "title": "Will SpringWorks Therapeutics Inc. stock benefit from infrastructure spending - Earnings Risk Summary & Risk Adjusted Buy/Sell Alerts - Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGUwYlViRTVnN1ZONkhrVTVxUk1mbkU3aDk3QlhuOWdoMlV1UjVxa1dzTWxCRkV3ZWwxYU9hZ2pZVnRob2VNSmpyaVozWHVzZTNSZEUyS012VVJPb3NCQ01jSkR4eXZZMFdjbzJIS3lzd2I2d1dpb0kyVGp5TmNBODNXOEV4YVF6Q2RKVTdSOHRlYlhSNmo4LXNQSDkwOXRIdVFYclR6Yw?oc=5\" target=\"_blank\">Will SpringWorks Therapeutics Inc. stock benefit from infrastructure spending - Earnings Risk Summary & Risk Adjusted Buy/Sell Alerts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV1ZpZUU2SmluR3MxejdUVklJcGZMX3FCZ1NMLUZETFZWeG02QWFvcExCTXE4QVhRd29mZ3oxa1NudGJXeGo5bklTekNvSW8yMG5aemppMWU5VDVUb2NITzdXWnA5UGY0cTZ0WVBfMU1NcndIQTNkeDJXVG9GejJMVXhVN3VJM2YzZGdhb08tdi1mV1k?oc=5",
-        "date": "2025-10-17",
-        "title": "Will Flex Ltd. stock benefit from infrastructure spending - July 2025 Sentiment & Reliable Breakout Stock Forecasts - Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOV1ZpZUU2SmluR3MxejdUVklJcGZMX3FCZ1NMLUZETFZWeG02QWFvcExCTXE4QVhRd29mZ3oxa1NudGJXeGo5bklTekNvSW8yMG5aemppMWU5VDVUb2NITzdXWnA5UGY0cTZ0WVBfMU1NcndIQTNkeDJXVG9GejJMVXhVN3VJM2YzZGdhb08tdi1mV1k?oc=5\" target=\"_blank\">Will Flex Ltd. stock benefit from infrastructure spending - July 2025 Sentiment & Reliable Breakout Stock Forecasts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVlxaFktUVpDUmN3NkxSNmxkbnktSFdUUDRXVDFhcENKOXh4blJlazdGUF80dE1OMlJ0WkFucXNjV3NGUUdSdU9zTFVDVlJUQ0tVVENjcEM1d0RkOHFyQm4zNER6N21ZUEZ4X0t0N2otVTFGWV81cXg5QWpxVUtqeS1CX1hZdw?oc=5",
-        "date": "2025-10-17",
-        "title": "Wall Street Recap: Will VCYT stock benefit from infrastructure spending - 2025 Institutional Moves & AI Driven Stock Movement Reports - Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVlxaFktUVpDUmN3NkxSNmxkbnktSFdUUDRXVDFhcENKOXh4blJlazdGUF80dE1OMlJ0WkFucXNjV3NGUUdSdU9zTFVDVlJUQ0tVVENjcEM1d0RkOHFyQm4zNER6N21ZUEZ4X0t0N2otVTFGWV81cXg5QWpxVUtqeS1CX1hZdw?oc=5\" target=\"_blank\">Wall Street Recap: Will VCYT stock benefit from infrastructure spending - 2025 Institutional Moves & AI Driven Stock Movement Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS3EtekxUSUZCeUZxMnlLSU96Qk56Q2U4cjBsal90UFlWblhZMktlNG54NUxCeUF6cWxURXVyR2NxVFRQajAtYV9heF8tUzZVUm1zdE5OUzVOQVdHbzhWd2p2ZTFZR29vdjRWX09RME00dFNkYUZfTGY2b3NWYThjYUtmajV5TEwzLVRDQnhraEJzU09OV0hVYw?oc=5",
-        "date": "2025-10-17",
-        "title": "Will Loar Holdings Inc. stock benefit from infrastructure spending - Trade Risk Summary & Verified Momentum Stock Watchlist - Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOS3EtekxUSUZCeUZxMnlLSU96Qk56Q2U4cjBsal90UFlWblhZMktlNG54NUxCeUF6cWxURXVyR2NxVFRQajAtYV9heF8tUzZVUm1zdE5OUzVOQVdHbzhWd2p2ZTFZR29vdjRWX09RME00dFNkYUZfTGY2b3NWYThjYUtmajV5TEwzLVRDQnhraEJzU09OV0hVYw?oc=5\" target=\"_blank\">Will Loar Holdings Inc. stock benefit from infrastructure spending - Trade Risk Summary & Verified Momentum Stock Watchlist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUZIdXpHRlBUWlI1WHc1NTdzXzBoeXN2YzdnZlZFVmdzb0s2aFMyRzF1eS1vY2MyUGlvd21KMmJmNTA0RGJCcktucW8wd3BiU0prNElsRlQzSUx2Y0JfaHNIWnN3VkxNbXhFVjQwU2NGRG04cHByWXNyU0ZOZWJHYXpVc3JkdHBxOGVHY1dSYkptWkVCeGFTdEh4VVAzODd4N0FlTUFvblUwbEFscnVwTjlLa1c?oc=5",
-        "date": "2025-10-17",
-        "title": "Will Mercurity Fintech Holding Inc. stock benefit from infrastructure spending - Short Setup & Verified Trade Idea Suggestions - Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUZIdXpHRlBUWlI1WHc1NTdzXzBoeXN2YzdnZlZFVmdzb0s2aFMyRzF1eS1vY2MyUGlvd21KMmJmNTA0RGJCcktucW8wd3BiU0prNElsRlQzSUx2Y0JfaHNIWnN3VkxNbXhFVjQwU2NGRG04cHByWXNyU0ZOZWJHYXpVc3JkdHBxOGVHY1dSYkptWkVCeGFTdEh4VVAzODd4N0FlTUFvblUwbEFscnVwTjlLa1c?oc=5\" target=\"_blank\">Will Mercurity Fintech Holding Inc. stock benefit from infrastructure spending - Short Setup & Verified Trade Idea Suggestions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.enr.com/articles/61637-st-louis-lambert-airport-selects-cmar-for-proposed-3b-terminal-overhaul",
-        "date": "2025-10-17",
-        "title": "St. Louis Lambert Airport Selects CMAR for Proposed $3B Terminal Overhaul",
-        "summary": "<p>Joint venture tapped as construction manager at risk for a proposed $3 billion terminal modernization project in St. Louis.</p>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORzJrdmh3ZGhBLTF1OXh4V0d5NlVRRUNmZXBpODdQcEIyWUVYQmN5TEkwYk1mRHR5WFNMUUMzb3VpeV9Lb0p6ZzZfMmxsNHZfUlJYaldLRGY3WDdPbnNvTG0tc2lNQ2o0em5ZcVprZjl0LUdIMVU0bVdXbHZlbWt4eW9n?oc=5",
-        "date": "2025-10-17",
-        "title": "How geopolitical risks impact CPSJ stock - Jobs Report & Consistent Profit Trade Alerts - Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxORzJrdmh3ZGhBLTF1OXh4V0d5NlVRRUNmZXBpODdQcEIyWUVYQmN5TEkwYk1mRHR5WFNMUUMzb3VpeV9Lb0p6ZzZfMmxsNHZfUlJYaldLRGY3WDdPbnNvTG0tc2lNQ2o0em5ZcVprZjl0LUdIMVU0bVdXbHZlbWt4eW9n?oc=5\" target=\"_blank\">How geopolitical risks impact CPSJ stock - Jobs Report & Consistent Profit Trade Alerts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQN1dvU1dYR0FuZF8xMk5yaXNtaXFyOEtMb0RnUjVEbmFqS2pLenR6UDBCU2NxejU1cTM2bmVVdVgzckV4cmU3Q0FxZ3NpLWJnbmVid1pyYW9QNW42MlBOT0p1cnNJZFhFV3RST2xXSnlRVVRGRkp2RF91T2VTTFI2WWU4akNRa3dqRS1FR2d5cENWYkN5MjExa2pzSy0xcC1EU1VDZWlGanhpenpweXhKbjU5V3d5LXp5OFZicm4xUXNXX2pUUENheGR6UmJhYnIyS0c4RHBKZ2ZBaUl0d0RHUW0yWmRiMG1oRmtPNDRtcEFjZUNsX001UFFsZ2ZueWlGeTBKOGVJbmpqTVFXR3Vra0lPU2lpZnJFNGI1LTNESHNJM0o0UHc?oc=5",
-        "date": "2025-10-17",
-        "title": "Construction Job Openings Fall to Lowest Level in Nearly a Decade - For Construction Pros",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxQN1dvU1dYR0FuZF8xMk5yaXNtaXFyOEtMb0RnUjVEbmFqS2pLenR6UDBCU2NxejU1cTM2bmVVdVgzckV4cmU3Q0FxZ3NpLWJnbmVid1pyYW9QNW42MlBOT0p1cnNJZFhFV3RST2xXSnlRVVRGRkp2RF91T2VTTFI2WWU4akNRa3dqRS1FR2d5cENWYkN5MjExa2pzSy0xcC1EU1VDZWlGanhpenpweXhKbjU5V3d5LXp5OFZicm4xUXNXX2pUUENheGR6UmJhYnIyS0c4RHBKZ2ZBaUl0d0RHUW0yWmRiMG1oRmtPNDRtcEFjZUNsX001UFFsZ2ZueWlGeTBKOGVJbmpqTVFXR3Vra0lPU2lpZnJFNGI1LTNESHNJM0o0UHc?oc=5\" target=\"_blank\">Construction Job Openings Fall to Lowest Level in Nearly a Decade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">For Construction Pros</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTE5aaTZOU25UNng4b0dpQmZMbThlcjF5YTlfUFg4eHlUUkhZcno1YUZyX3FoXzJsZFlUTlBCN1NkOW9DQURsN05tOVAwT19rNWxZWEM2WlQ1c2tNRS1CV3hjNWRjRTVsUDZJZE1CYjlHYlotRldGZFB6eG8zc1dGcS1NbGZDdFB1TXpoQmRpcU5xNHZCMUlSMFVROFJmU1pyX00xOVVVMUNGa252UDRSSFVxelZuRW5mTjdxS25NQk8tdnJzRjBmSW5n?oc=5",
-        "date": "2025-10-17",
-        "title": "From war zones to work sites: Matt Moran's mission to rebuild WA\u2019s construction industry - Australian Property Investor Magazine",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQTE5aaTZOU25UNng4b0dpQmZMbThlcjF5YTlfUFg4eHlUUkhZcno1YUZyX3FoXzJsZFlUTlBCN1NkOW9DQURsN05tOVAwT19rNWxZWEM2WlQ1c2tNRS1CV3hjNWRjRTVsUDZJZE1CYjlHYlotRldGZFB6eG8zc1dGcS1NbGZDdFB1TXpoQmRpcU5xNHZCMUlSMFVROFJmU1pyX00xOVVVMUNGa252UDRSSFVxelZuRW5mTjdxS25NQk8tdnJzRjBmSW5n?oc=5\" target=\"_blank\">From war zones to work sites: Matt Moran's mission to rebuild WA\u2019s construction industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Property Investor Magazine</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjBPNEprWWxWQ1MzR1FER0ZHYi1ZRmpidFRmUEVIaG53Z3dIZHM1TG9zLVFUVTE1SHhCOVZhX1ZOVWUwcVlwUlJoSC1wUmUxdFIwSGpjcS04bHlreG5URFZacDY4bTgwcHlBR1dwQVktYVQ2SXhuSVVhOWx5NUN6SWY5RXZpdU96WFFBcU1BTk9zcXlGRHpiYWxsMUJ2UlQ1RTRlVXdSVQ?oc=5",
-        "date": "2025-10-17",
-        "title": "What Macro Trends Could Affect Infrastructure Leasing Financial Services Limiteds Outlook - Sector ETF Performance & Get Mentorship from Elite Traders - earlytimes.in",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjBPNEprWWxWQ1MzR1FER0ZHYi1ZRmpidFRmUEVIaG53Z3dIZHM1TG9zLVFUVTE1SHhCOVZhX1ZOVWUwcVlwUlJoSC1wUmUxdFIwSGpjcS04bHlreG5URFZacDY4bTgwcHlBR1dwQVktYVQ2SXhuSVVhOWx5NUN6SWY5RXZpdU96WFFBcU1BTk9zcXlGRHpiYWxsMUJ2UlQ1RTRlVXdSVQ?oc=5\" target=\"_blank\">What Macro Trends Could Affect Infrastructure Leasing Financial Services Limiteds Outlook - Sector ETF Performance & Get Mentorship from Elite Traders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">earlytimes.in</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcDNwV3BsM2RVdm1WbVlFYWlON0o0d0VwemplU0xmTkNHYWQ0U2FQWktydC1qMDdPZlVCY3BtMGMyX0JUb2pJWTl5bUNsbm5qN1lRSGJpbUU1REJaVTZHMk01UmFRQUdzVXEwdkprUzROSF9YbC0xdVdMdmtMUGtoSzRROVFqUmRLN2RVbk44anozWUlXNm9wWnJXajRTcWcwaEg0Mkt1SkQ4cmNBbFI0X2hMUWVFcmdwUHZveGhVZnF6U1pqdE5VeHlUT0U0Zw?oc=5",
-        "date": "2025-10-17",
-        "title": "Is Rajeswari Infrastructure Limited Positioned to Benefit From Geographic Expansion - Momentum Stock Picks & Rapid Portfolio Investment - earlytimes.in",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOcDNwV3BsM2RVdm1WbVlFYWlON0o0d0VwemplU0xmTkNHYWQ0U2FQWktydC1qMDdPZlVCY3BtMGMyX0JUb2pJWTl5bUNsbm5qN1lRSGJpbUU1REJaVTZHMk01UmFRQUdzVXEwdkprUzROSF9YbC0xdVdMdmtMUGtoSzRROVFqUmRLN2RVbk44anozWUlXNm9wWnJXajRTcWcwaEg0Mkt1SkQ4cmNBbFI0X2hMUWVFcmdwUHZveGhVZnF6U1pqdE5VeHlUT0U0Zw?oc=5\" target=\"_blank\">Is Rajeswari Infrastructure Limited Positioned to Benefit From Geographic Expansion - Momentum Stock Picks & Rapid Portfolio Investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">earlytimes.in</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMDhfXzNwX1F5OVA3MGdWNXdIRnZFVUp4SkRCTkFSTlRRR1VpcmdKRDdvbmhaMjNjam5ORFlEd2t4VzBOSk5COUQ4TWsxWEtEajZwUU1VUU4waUwwbi1lYkxKM3FZcm9LcHlITnVfeWJ2NXAwcW9kSlp0ejZfTnZhc1UzSVdmTWZ6dHpWZDJwUUVqRXhxMmFsb3ZQUUdaUVRrbm45SjZZLURueWRPeFpDejhVZ2FLUnZpRk1F?oc=5",
-        "date": "2025-10-17",
-        "title": "Arunachal projects on BRO radar | ADG (E) reviews Project Arunank infrastructures - Arunachal Observer",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMDhfXzNwX1F5OVA3MGdWNXdIRnZFVUp4SkRCTkFSTlRRR1VpcmdKRDdvbmhaMjNjam5ORFlEd2t4VzBOSk5COUQ4TWsxWEtEajZwUU1VUU4waUwwbi1lYkxKM3FZcm9LcHlITnVfeWJ2NXAwcW9kSlp0ejZfTnZhc1UzSVdmTWZ6dHpWZDJwUUVqRXhxMmFsb3ZQUUdaUVRrbm45SjZZLURueWRPeFpDejhVZ2FLUnZpRk1F?oc=5\" target=\"_blank\">Arunachal projects on BRO radar | ADG (E) reviews Project Arunank infrastructures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arunachal Observer</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY2hETmRCRWljczZyMUNoeEdoWVRBazdKa0x1a01RS25CZzVDYmJ6ZkZTUGhXZ3QtQ0FxcFoxQlpFNGw2Sl9TVE5tUklFUE1yTG41QmNjaVJyYWx2SjI5em5vTGhvT3RzQm5NOERvN05tSzg3T2RPYWMxRXJQSWt1bVFHMlJXdXdOOXhuRDJ1R1BTdzVHQm9LTlcwd3dRVHJidlF0Sw?oc=5",
-        "date": "2025-10-17",
-        "title": "Is NYLI CBRE Global Infrastructure Megatrends stock a safe buy pre earnings - 2025 Fundamental Recap & Low Drawdown Momentum Ideas - Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOY2hETmRCRWljczZyMUNoeEdoWVRBazdKa0x1a01RS25CZzVDYmJ6ZkZTUGhXZ3QtQ0FxcFoxQlpFNGw2Sl9TVE5tUklFUE1yTG41QmNjaVJyYWx2SjI5em5vTGhvT3RzQm5NOERvN05tSzg3T2RPYWMxRXJQSWt1bVFHMlJXdXdOOXhuRDJ1R1BTdzVHQm9LTlcwd3dRVHJidlF0Sw?oc=5\" target=\"_blank\">Is NYLI CBRE Global Infrastructure Megatrends stock a safe buy pre earnings - 2025 Fundamental Recap & Low Drawdown Momentum Ideas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzQxb1RmNWZXd3hGaVhLNlNNT3lWWFFvb3pRMHN2Y0djYlhwOW5hdFhEOHhMUEFpMmpnSzRXMXdZT0xLa0lQdkVBNTBjR1BKUFB0eVROeHJMS2twaVNobTI0eF92c2RpYmxKOHBuMXBfNURoOHhJUjZnZi1Oa1BOekdRcXA5Umo3VG5oVjJWZFlZMXp4MEJJMXhEVTlQdFQtTHAyOUNOUUx3VHhvWlpzTnhBVEFYQW5Bellmb1pFSjZDSUhLRFE?oc=5",
-        "date": "2025-10-17",
-        "title": "Should You Hold or Sell Prime Urban Development India Limited Stock Expert Perspectives - Ex-Dividend Date Alerts & Low Risk Capital Growth - earlytimes.in",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzQxb1RmNWZXd3hGaVhLNlNNT3lWWFFvb3pRMHN2Y0djYlhwOW5hdFhEOHhMUEFpMmpnSzRXMXdZT0xLa0lQdkVBNTBjR1BKUFB0eVROeHJMS2twaVNobTI0eF92c2RpYmxKOHBuMXBfNURoOHhJUjZnZi1Oa1BOekdRcXA5Umo3VG5oVjJWZFlZMXp4MEJJMXhEVTlQdFQtTHAyOUNOUUx3VHhvWlpzTnhBVEFYQW5Bellmb1pFSjZDSUhLRFE?oc=5\" target=\"_blank\">Should You Hold or Sell Prime Urban Development India Limited Stock Expert Perspectives - Ex-Dividend Date Alerts & Low Risk Capital Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">earlytimes.in</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObjVvQ1phS0o5R1I5Rmx4V0tnQkVvZm5BQ2hST1A5M3QwQ2k2anVLUjIyM0tsSEgwWW9VREVIcmY4eXVla3RoenFmbFlheFl2b3p0NEFRLUJNQnM5amZGMWJOUklCNjVqXzEzRXZrNFBXam8zdkhIclo5VkxPRjFMRmdUd3IwZkJuZFcyX3N5TWx0M19COXgzZmxTY0NhdkZENm9vRlVlUEVNSzJOVzJv?oc=5",
-        "date": "2025-10-17",
-        "title": "Why we need to think beyond batteries - Volvo Construction Equipment",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxObjVvQ1phS0o5R1I5Rmx4V0tnQkVvZm5BQ2hST1A5M3QwQ2k2anVLUjIyM0tsSEgwWW9VREVIcmY4eXVla3RoenFmbFlheFl2b3p0NEFRLUJNQnM5amZGMWJOUklCNjVqXzEzRXZrNFBXam8zdkhIclo5VkxPRjFMRmdUd3IwZkJuZFcyX3N5TWx0M19COXgzZmxTY0NhdkZENm9vRlVlUEVNSzJOVzJv?oc=5\" target=\"_blank\">Why we need to think beyond batteries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Volvo Construction Equipment</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM3Jhbmc2RWo2bXUyODhZX3JlcXlfQkNQbTFfZEMzdHltOWlFRlk5TEV3SnBlU2NmeFV5UmdaalRKcXp1bGhZa1lrZDlDU0UxVVJaTFUxZTFDODlsU0tZUWhFclp2SnFHZVZsWWxGYjJ6OFdpdDBMMjVVVFVlUzREWi1YMnNGcnR0WVIyaS1FN1JSWDVyQU5SS1VJa0p0Vl9Ia1VlNlIxRmVNQUwxTWc?oc=5",
-        "date": "2025-10-17",
-        "title": "Published on: 2025-10-18 04:23:32 - Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNM3Jhbmc2RWo2bXUyODhZX3JlcXlfQkNQbTFfZEMzdHltOWlFRlk5TEV3SnBlU2NmeFV5UmdaalRKcXp1bGhZa1lrZDlDU0UxVVJaTFUxZTFDODlsU0tZUWhFclp2SnFHZVZsWWxGYjJ6OFdpdDBMMjVVVFVlUzREWi1YMnNGcnR0WVIyaS1FN1JSWDVyQU5SS1VJa0p0Vl9Ia1VlNlIxRmVNQUwxTWc?oc=5\" target=\"_blank\">Published on: 2025-10-18 04:23:32</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSVV2blo4b1VPTHVjX3pyTlNnSl9fWTU2M1NrZmtlMUhLYzNhN2ZBRzF0TWpLLWxaU01nMTRTaXVXVGhURm1jZGlKVjlJNDRseDFvSG1tUFljd0J4TVdOcGdjNVMwR2Q3YnlncTgwbHgtQzZDa1dQcWhzUDhvWHA1UVJZbFVJdy11bFc4cWFkUW1TR01YY09Db3ZBVTBpLXJEdkZfQnRTX2ctdVBzTk1GZVdWYUpEV1RWai1EOXJRRUJMUUx4?oc=5",
-        "date": "2025-10-17",
-        "title": "What Earnings Surprise Probability Means for Hindusthan Urban Infrastructure Limited Investors - Retail Trading Trends & Rapid Capital Trading - earlytimes.in",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSVV2blo4b1VPTHVjX3pyTlNnSl9fWTU2M1NrZmtlMUhLYzNhN2ZBRzF0TWpLLWxaU01nMTRTaXVXVGhURm1jZGlKVjlJNDRseDFvSG1tUFljd0J4TVdOcGdjNVMwR2Q3YnlncTgwbHgtQzZDa1dQcWhzUDhvWHA1UVJZbFVJdy11bFc4cWFkUW1TR01YY09Db3ZBVTBpLXJEdkZfQnRTX2ctdVBzTk1GZVdWYUpEV1RWai1EOXJRRUJMUUx4?oc=5\" target=\"_blank\">What Earnings Surprise Probability Means for Hindusthan Urban Infrastructure Limited Investors - Retail Trading Trends & Rapid Capital Trading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">earlytimes.in</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeVZTYUQ2UzdlTGVaUWlMV01iNzVoQUFEVHhmZ18xeXh5UzJyMnpHdXpqV2FTTkFWVkgybFc1Z0ttOUluc0NYQmM0SUxWR0dIM2JteWR1WC1oTDhKWnVaT3ZvY1hnV21qWXloaUFrazdDU3VKMlIwemVWWG9QZjFPMkNxc1lVUkxuS1RoWGNaVkFBUQ?oc=5",
-        "date": "2025-10-17",
-        "title": "Baku hosts D-8 High-level Climate and Urban Dialogue - Az\u0259rtac",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNeVZTYUQ2UzdlTGVaUWlMV01iNzVoQUFEVHhmZ18xeXh5UzJyMnpHdXpqV2FTTkFWVkgybFc1Z0ttOUluc0NYQmM0SUxWR0dIM2JteWR1WC1oTDhKWnVaT3ZvY1hnV21qWXloaUFrazdDU3VKMlIwemVWWG9QZjFPMkNxc1lVUkxuS1RoWGNaVkFBUQ?oc=5\" target=\"_blank\">Baku hosts D-8 High-level Climate and Urban Dialogue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Az\u0259rtac</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUJNUG9yVjZCaC0xcWNZTS1EYTRLcl9MM1hxT3RhRUtBdW00N3FSNjJIMWpmd0lsSjdEa0c4WmhhaGJuSHcxY2xUdW1EQTdXbGdwSTZWYnA3c0tpZjdrS2NvWjJGWWdqc0pOT1Q0NmswRm9QTWVSU052aFl5VmVnNk5nNWZ1RUVjeDU0SjBSb3k0d0szbGl6dnRnMG12LWdobWsxcWppQzI5SDZ6RDVpSFpTNA?oc=5",
-        "date": "2025-10-17",
-        "title": "Proposal to develop flood zone 'opposite of good planning', expert warns - Australian Broadcasting Corporation",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUJNUG9yVjZCaC0xcWNZTS1EYTRLcl9MM1hxT3RhRUtBdW00N3FSNjJIMWpmd0lsSjdEa0c4WmhhaGJuSHcxY2xUdW1EQTdXbGdwSTZWYnA3c0tpZjdrS2NvWjJGWWdqc0pOT1Q0NmswRm9QTWVSU052aFl5VmVnNk5nNWZ1RUVjeDU0SjBSb3k0d0szbGl6dnRnMG12LWdobWsxcWppQzI5SDZ6RDVpSFpTNA?oc=5\" target=\"_blank\">Proposal to develop flood zone 'opposite of good planning', expert warns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.enr.com/articles/61644-washington-dot-says-8b-needed-to-halt-infrastructure-decline",
-        "date": "2025-10-17",
-        "title": "Washington DOT Says $8B Needed to Halt Infrastructure Decline",
-        "summary": "<p>WSDOT warns its infrastructure is nearing \u201ccritical failure,\u201d citing a multibillion-dollar shortfall that could reshape state transportation priorities.</p>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Washington DOT says $8B needed to halt infrastructure decline, warns of nearing critical failure."
-    },
-    {
-        "link": "https://www.enr.com/articles/61644-washington-dot-says-8b-needed-to-halt-infrastructure-decline",
-        "date": "2025-10-17",
-        "title": "Washington DOT Says $8B Needed to Halt Infrastructure Decline",
-        "summary": "<p>WSDOT warns its infrastructure is nearing \u201ccritical failure,\u201d citing a multibillion-dollar shortfall that could reshape state transportation priorities.</p>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Washington DOT says $8B needed to halt infrastructure decline, warns of nearing critical failure.",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXdXTlZXTXVCYkhmYWRwa3BmUmptVmdKVGJESEN4TjRydkI4YzhjdmpQbXpXS2pDQlFtMUNNY3g1aEpxZzcyUTA3VG8ybWgwMktKR1Z2UlZQb0VmS2dmT0pPM2hWUlVaSFZxUmU1d3ZRNW9hNlBhQ1JsbWgyQURYU2Fnd3I?oc=5",
-        "date": "2025-10-17",
-        "title": "Will RW stock benefit from infrastructure bill - 2025 Fundamental Recap & Reliable Breakout Stock Forecasts - Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXdXTlZXTXVCYkhmYWRwa3BmUmptVmdKVGJESEN4TjRydkI4YzhjdmpQbXpXS2pDQlFtMUNNY3g1aEpxZzcyUTA3VG8ybWgwMktKR1Z2UlZQb0VmS2dmT0pPM2hWUlVaSFZxUmU1d3ZRNW9hNlBhQ1JsbWgyQURYU2Fnd3I?oc=5\" target=\"_blank\">Will RW stock benefit from infrastructure bill - 2025 Fundamental Recap & Reliable Breakout Stock Forecasts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trung t\u00e2m D\u1ef1 b\u00e1o KTTV qu\u1ed1c gia</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4MGNMQkJ3Qk5sa21lcGJRNlJ1RVM4TGZ1eFE2NlpfWXZ5MHJRendiam8yNWVQRUt2NnNNN2V1RGN2VElhSWZUM0JXUGU2emhjSHhIYXlleW5kNjRZS2pLOGFEQ2dTcl84TTQxNFJxeXIxaDN6eVFmVjFkQUhhUQ?oc=5",
-        "date": "2025-10-17",
-        "title": "Cities get new lease on life - China Daily",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB4MGNMQkJ3Qk5sa21lcGJRNlJ1RVM4TGZ1eFE2NlpfWXZ5MHJRendiam8yNWVQRUt2NnNNN2V1RGN2VElhSWZUM0JXUGU2emhjSHhIYXlleW5kNjRZS2pLOGFEQ2dTcl84TTQxNFJxeXIxaDN6eVFmVjFkQUhhUQ?oc=5\" target=\"_blank\">Cities get new lease on life</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">China Daily</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0QxWkhrY1BiU3ZzNk9GYm9YVkRua01yQ0RjVnVFbFdNSUtwMEo2bXQxYnYwdU41b09mSm96bERnWDFkMUlQZkFJcGpDS2VRMkpyN1pCb2FiU0NaU29pQW1fQVRHaEtFYWt2UnRsYnpXMDdEZ0lfbENrdnRXSzdiaE42RTlCTlZ1TTJjTlk4Mmw1UUwxbDVNQ21aeklQMDRHSUVhU3FsQ181dVpGLWEtdXE2U3Q2a1B5VHFr?oc=5",
-        "date": "2025-10-17",
-        "title": "Bhubaneswar Smart City Limited to repair non-working digital kiosks - Prop News Time",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0QxWkhrY1BiU3ZzNk9GYm9YVkRua01yQ0RjVnVFbFdNSUtwMEo2bXQxYnYwdU41b09mSm96bERnWDFkMUlQZkFJcGpDS2VRMkpyN1pCb2FiU0NaU29pQW1fQVRHaEtFYWt2UnRsYnpXMDdEZ0lfbENrdnRXSzdiaE42RTlCTlZ1TTJjTlk4Mmw1UUwxbDVNQ21aeklQMDRHSUVhU3FsQ181dVpGLWEtdXE2U3Q2a1B5VHFr?oc=5\" target=\"_blank\">Bhubaneswar Smart City Limited to repair non-working digital kiosks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prop News Time</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.enr.com/articles/61643-worlds-longest-cable-stayed-bridge-opens-in-china",
-        "date": "2025-10-17",
-        "title": "World's Longest Cable-stayed Bridge Opens in China",
-        "summary": "<p>New record bridge over the Yangtze River includes an unusual, asymmetrical deck design that called for some engineering ingenuity.</p>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: Worlds longest cable-stayed bridge opens over the Yangtze River, featuring an innovative asymmetrical deck design."
-    },
-    {
-        "link": "https://www.enr.com/articles/61643-worlds-longest-cable-stayed-bridge-opens-in-china",
-        "date": "2025-10-17",
-        "title": "World's Longest Cable-stayed Bridge Opens in China",
-        "summary": "<p>New record bridge over the Yangtze River includes an unusual, asymmetrical deck design that called for some engineering ingenuity.</p>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: Worlds longest cable-stayed bridge opens over the Yangtze River, featuring an innovative asymmetrical deck design.",
-        "type": "news"
-    },
-    {
-        "link": null,
         "date": "2025-10-18",
         "status": "posted",
         "tweet": "By 2025, stricter government regulations in \ud83c\uddfa\ud83c\uddf8 USA and \ud83c\uddea\ud83c\uddfa EU may increase Bitcoin's infrastructural costs by 30%, impacting energy consumption and data center requirements.",
@@ -3028,5 +2593,66 @@
         "status": "posted",
         "tweet": "Alphabet $GOOGL\nData center PUE (global, 2023): 1.10",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWROUXFqR0ctYUtRbnlvYXFGdlRPV202WC1EOXlad1BBN2VUU0J1bWpUeDJ2VV9HeE9iSmF2RVp4SXNyT0hBdW1QcEZJOFRFT2xxYW55S0FHRHJQb0Qwd25Ua016ejRvdGhSRFZXaXQtaUpsUmRqbFFKRUt3WkJpR2x1Y3YtWVl2R2Z2cUtLR3VlVTIwRGxua21GbFE4ZTJCRVFJYUk0WnNva3d0ZUV2T3RuUXdqY2xQNnMtQ1JDZ0lLY2s?oc=5",
+        "date": "2025-10-27",
+        "title": "NCC Bags Massive \u20b96,800 Crore Contract, Boosting Business Prospects - scanx.trade",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWROUXFqR0ctYUtRbnlvYXFGdlRPV202WC1EOXlad1BBN2VUU0J1bWpUeDJ2VV9HeE9iSmF2RVp4SXNyT0hBdW1QcEZJOFRFT2xxYW55S0FHRHJQb0Qwd25Ua016ejRvdGhSRFZXaXQtaUpsUmRqbFFKRUt3WkJpR2x1Y3YtWVl2R2Z2cUtLR3VlVTIwRGxua21GbFE4ZTJCRVFJYUk0WnNva3d0ZUV2T3RuUXdqY2xQNnMtQ1JDZ0lLY2s?oc=5\" target=\"_blank\">NCC Bags Massive \u20b96,800 Crore Contract, Boosting Business Prospects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">scanx.trade</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: NCC secures massive \u20b96,800 crore contract, boosting business prospects $NCC"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOel9MMlRIM19ma190ek9mek9LVUpZNnNqbUtQTHpWQnVxQWxxQXZTWEIwaG84RVB3ck9HUl9Kek9OR25rUENYREVPc2FBTHdqUU9aVDNhVUtKX1lxRldJclg3THFQdktGc3JaNl9xYXAyRmNMMXhNeVVzM1RWRGxWUg?oc=5",
+        "date": "2025-10-27",
+        "title": "Vos Construction to Build New Spirit of Tasmania Terminal - Mirage News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOel9MMlRIM19ma190ek9mek9LVUpZNnNqbUtQTHpWQnVxQWxxQXZTWEIwaG84RVB3ck9HUl9Kek9OR25rUENYREVPc2FBTHdqUU9aVDNhVUtKX1lxRldJclg3THFQdktGc3JaNl9xYXAyRmNMMXhNeVVzM1RWRGxWUg?oc=5\" target=\"_blank\">Vos Construction to Build New Spirit of Tasmania Terminal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mirage News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbG96emdiMldkNU1kRlVKX294TTZhWmJ0dnI2b0EzeVhIc3BuMTZpOEhZUGpPT1lHOFFHYzBxSTJnSk5uRlFvU3hCQUpRQnBhSDVjTUlKcjVKZHREY0phNnphci1VNThHUS1SdERrX2V0UVZWSUdhOHMyUG9HZFl6NkNnR1dmOWlxeUZWdktFdmdXUEczdDVnSVR3RjY5cEdabWJMYjVXemUtNTNEdWxqX2JGS0Q3Yjg?oc=5",
+        "date": "2025-10-27",
+        "title": "Will New Product Launches Boost VAS Infrastructure Limiteds Revenue in 2025 - Support and Resistance Levels & Free High Impact Stock Picks - earlytimes.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNbG96emdiMldkNU1kRlVKX294TTZhWmJ0dnI2b0EzeVhIc3BuMTZpOEhZUGpPT1lHOFFHYzBxSTJnSk5uRlFvU3hCQUpRQnBhSDVjTUlKcjVKZHREY0phNnphci1VNThHUS1SdERrX2V0UVZWSUdhOHMyUG9HZFl6NkNnR1dmOWlxeUZWdktFdmdXUEczdDVnSVR3RjY5cEdabWJMYjVXemUtNTNEdWxqX2JGS0Q3Yjg?oc=5\" target=\"_blank\">Will New Product Launches Boost VAS Infrastructure Limiteds Revenue in 2025 - Support and Resistance Levels & Free High Impact Stock Picks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">earlytimes.in</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORlBqcE9QQlFIWllMLVBrN282RVI0S2pkbDlkZWN1ZGpMWm9xbXhjT0MyZV8yTGFuN2twR0ZTLTBrbW9GUzJvXzZiRWx0OUlEX3ZtT3E0YVkwNlhZa3NRTjdTMGpiUm5CNnlZM3B6NkY1NkZrTE8tYWwxNE1uY3RBaFh2LXBpMlRza1Y4X014SEwxU0hmdVdVQ0E2UW5RVUo1aGUtNXQ0NE5kOERjdTEyS3cxZ25ZTkRGR3dMUVZ3?oc=5",
+        "date": "2025-10-27",
+        "title": "Infrastructure, tech upgrades mark first year of education reform - The Jakarta Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxORlBqcE9QQlFIWllMLVBrN282RVI0S2pkbDlkZWN1ZGpMWm9xbXhjT0MyZV8yTGFuN2twR0ZTLTBrbW9GUzJvXzZiRWx0OUlEX3ZtT3E0YVkwNlhZa3NRTjdTMGpiUm5CNnlZM3B6NkY1NkZrTE8tYWwxNE1uY3RBaFh2LXBpMlRza1Y4X014SEwxU0hmdVdVQ0E2UW5RVUo1aGUtNXQ0NE5kOERjdTEyS3cxZ25ZTkRGR3dMUVZ3?oc=5\" target=\"_blank\">Infrastructure, tech upgrades mark first year of education reform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jakarta Post</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEZGMUVvNGllSVpVSkVxVzYyTkF3d1JCVXd6ZTNvdno4TXNjTEFQeFZxZVQtRVFXOTJTUGx1MTBIY3dmSkcxZFZvY1pGTGxZQ0otUUZFeS1DSmdPbzAxbTlQel8zM3R3ZGxISlZtQ3l5N19WZ1lCd1hzZkdXTTQtZGJ1SXNldERaeEhZZ3pYdEIxVWZRZF8wNdIBVkFVX3lxTE5SMFlzTzdvekhtVmgzaHZyVkw2WmsxSkFlZ3pIZnczVGpHLVZwUEhWamZERnVNV3RYUnJhR3RnMHg2RUxuZEl4V1RRS3VkTkN3Rlg2dm5B?oc=5",
+        "date": "2025-10-27",
+        "title": "Jewels clinches \u2018Lahore Smart City Polo\u2019 with 8-5 score - Business Recorder",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEZGMUVvNGllSVpVSkVxVzYyTkF3d1JCVXd6ZTNvdno4TXNjTEFQeFZxZVQtRVFXOTJTUGx1MTBIY3dmSkcxZFZvY1pGTGxZQ0otUUZFeS1DSmdPbzAxbTlQel8zM3R3ZGxISlZtQ3l5N19WZ1lCd1hzZkdXTTQtZGJ1SXNldERaeEhZZ3pYdEIxVWZRZF8wNdIBVkFVX3lxTE5SMFlzTzdvekhtVmgzaHZyVkw2WmsxSkFlZ3pIZnczVGpHLVZwUEhWamZERnVNV3RYUnJhR3RnMHg2RUxuZEl4V1RRS3VkTkN3Rlg2dm5B?oc=5\" target=\"_blank\">Jewels clinches \u2018Lahore Smart City Polo\u2019 with 8-5 score</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Recorder</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWROUXFqR0ctYUtRbnlvYXFGdlRPV202WC1EOXlad1BBN2VUU0J1bWpUeDJ2VV9HeE9iSmF2RVp4SXNyT0hBdW1QcEZJOFRFT2xxYW55S0FHRHJQb0Qwd25Ua016ejRvdGhSRFZXaXQtaUpsUmRqbFFKRUt3WkJpR2x1Y3YtWVl2R2Z2cUtLR3VlVTIwRGxua21GbFE4ZTJCRVFJYUk0WnNva3d0ZUV2T3RuUXdqY2xQNnMtQ1JDZ0lLY2s?oc=5",
+        "date": "2025-10-27",
+        "title": "NCC Bags Massive \u20b96,800 Crore Contract, Boosting Business Prospects - scanx.trade",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWROUXFqR0ctYUtRbnlvYXFGdlRPV202WC1EOXlad1BBN2VUU0J1bWpUeDJ2VV9HeE9iSmF2RVp4SXNyT0hBdW1QcEZJOFRFT2xxYW55S0FHRHJQb0Qwd25Ua016ejRvdGhSRFZXaXQtaUpsUmRqbFFKRUt3WkJpR2x1Y3YtWVl2R2Z2cUtLR3VlVTIwRGxua21GbFE4ZTJCRVFJYUk0WnNva3d0ZUV2T3RuUXdqY2xQNnMtQ1JDZ0lLY2s?oc=5\" target=\"_blank\">NCC Bags Massive \u20b96,800 Crore Contract, Boosting Business Prospects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">scanx.trade</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: NCC bags massive \u20b96,800 crore contract, boosting business prospects $NCC",
+        "type": "news"
     }
 ]
