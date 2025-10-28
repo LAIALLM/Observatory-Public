@@ -2591,5 +2591,13 @@
         "status": "posted",
         "tweet": "Bitcoin mining: $7B annual energy costs in 2025 (150 TWh at $0.047/kWh avg).\n\nEthereum staking: <$100k in electricity for 1M+ validators (0.1 GWh total).\n\nPoS cuts infra costs by 99.999%.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-10-28",
+        "status": "posted",
+        "tweet": "2025:\n\ud83c\udde8\ud83c\uddf3 China: 45,000+ km high-speed rail (\u2265250 km/h) in operation\n\ud83c\uddfa\ud83c\uddf8 United States: 0 km",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
