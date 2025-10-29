@@ -2802,5 +2802,12 @@
         "status": "posted",
         "tweet": "Bitcoin PoW hardware: $25B in ASICs deployed worldwide for mining.\n\nEthereum PoS hardware: $800M in servers for 1M+ validators.\n\nNetwork hardware cost ratio: 31x higher for BTC.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-10-29",
+        "status": "posted",
+        "tweet": "Cloudflare $NET\nGlobal network capacity: 300 Tbps (2024)",
+        "type": "infrastructure"
     }
 ]
