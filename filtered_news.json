@@ -2787,5 +2787,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf5\ud83c\udded NEWS: CLI $CLI and NTT UD Asia break ground on The Wave Towers, Cebu\u2019s first Japanese-inspired residential landmark",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-10-29",
+        "status": "posted",
+        "tweet": "Summary: 2025 top engineering projects by budget\n\n1. \ud83c\uddf8\ud83c\udde6 Tabuk, Saudi Arabia \u2014 NEOM $500B\n2. \ud83c\uddfa\ud83c\uddf8 Fresno, USA \u2014 CA HSR $100B\n3. \ud83c\uddef\ud83c\uddf5 Tokyo, Japan \u2014 Chuo Shinkansen \u00a59T\n4. \ud83c\uddea\ud83c\uddec New Admin Capital, Egypt \u2014 NAC $58B\n5. \ud83c\uddeb\ud83c\uddf7 Paris, France \u2014 Grand Paris Express \u20ac36B",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
