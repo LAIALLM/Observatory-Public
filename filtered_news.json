@@ -2745,5 +2745,12 @@
         "status": "posted",
         "tweet": "Alphabet $GOOGL data centers: fleet PUE 1.10 (2023)",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-10-30",
+        "status": "posted",
+        "tweet": "Solana's 2,500 validators rely on cloud providers like AWS and Google Cloud.\n\nProjected 2025 data center costs: $32 million annually.",
+        "type": "crypto"
     }
 ]
