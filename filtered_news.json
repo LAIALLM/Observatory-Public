@@ -2738,5 +2738,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf3 NEWS: China building SAM sites that enable missiles to fire from hardened bunkers, expanding its air-defense network",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-10-30",
+        "status": "posted",
+        "tweet": "Alphabet $GOOGL data centers: fleet PUE 1.10 (2023)",
+        "type": "infrastructure"
     }
 ]
