@@ -3005,5 +3005,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: CESC arm secures SECI bid for 300 MW solar storage project $CESC",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-10-31",
+        "status": "posted",
+        "tweet": "Urban population share\n2025: \ud83c\udde8\ud83c\uddf3 China 67% vs \ud83c\uddee\ud83c\uddf3 India 37%\n\n2030 (projected): \ud83c\udde8\ud83c\uddf3 China 69% vs \ud83c\uddee\ud83c\uddf3 India 40%",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
