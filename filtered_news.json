@@ -2766,5 +2766,86 @@
         "status": "posted",
         "tweet": "(\ud83c\uddfa\ud83c\uddf8) NEWS: Meta Platforms launches massive $30B bond sale to fund AI infrastructure $META",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM3hyM1pESzlfZDMxWHhhYWVOY3d1SW5WN05aaGlKemVyb1BIQVlqeThKM1lPZGc3Mmd6cmdCYVNBU0VLRVVVLV9VMERNZnl4OExtVTN1Y0JERGFrWTFyeFZKMHEtb2VJQlhzTWowbXppbm5rVTdpOU10YUJRRmRiUHFMLTZORU4zLVFWb0V4NWo2V2pLRlFoaDVlRENfQmt3YjFER3o1STBlaG5Fc1NMaTVaejZRRS1aQnZuMGlFSlJ5d05yYVd1aUdEUkPSAdoBQVVfeXFMTTVGLWpDdkVKREZMWUNySllTUFpmeWdGdzBFSUp0ZjI1dG5VbzhFUXBidDRFM1VRSXZvVENwUEdZTUFacTgtTnNfdXJ6R3A2al9FZUxyVDloM3Rac19Wd2p4X2hSMnhZdDdQWTVTc1lRNVk4ckNnZkZfYjRuRjB3c1JTTVlKRWRyUThFdzFyS3pueFNTNVhBcW9WaFUzamN0UHBpZ2pFNlJEQnkwRkIwMHdycDJIR0E0aXNpX1dNR25hNGZldHVpZnpwczVMZC1JNURpcDBiWTA0SFE?oc=5",
+        "date": "2025-10-31",
+        "title": "Cabinet approves Rs 2,296 crore grant\nto boost Bengaluru infrastructure - The New Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOM3hyM1pESzlfZDMxWHhhYWVOY3d1SW5WN05aaGlKemVyb1BIQVlqeThKM1lPZGc3Mmd6cmdCYVNBU0VLRVVVLV9VMERNZnl4OExtVTN1Y0JERGFrWTFyeFZKMHEtb2VJQlhzTWowbXppbm5rVTdpOU10YUJRRmRiUHFMLTZORU4zLVFWb0V4NWo2V2pLRlFoaDVlRENfQmt3YjFER3o1STBlaG5Fc1NMaTVaejZRRS1aQnZuMGlFSlJ5d05yYVd1aUdEUkPSAdoBQVVfeXFMTTVGLWpDdkVKREZMWUNySllTUFpmeWdGdzBFSUp0ZjI1dG5VbzhFUXBidDRFM1VRSXZvVENwUEdZTUFacTgtTnNfdXJ6R3A2al9FZUxyVDloM3Rac19Wd2p4X2hSMnhZdDdQWTVTc1lRNVk4ckNnZkZfYjRuRjB3c1JTTVlKRWRyUThFdzFyS3pueFNTNVhBcW9WaFUzamN0UHBpZ2pFNlJEQnkwRkIwMHdycDJIR0E0aXNpX1dNR25hNGZldHVpZnpwczVMZC1JNURpcDBiWTA0SFE?oc=5\" target=\"_blank\">Cabinet approves Rs 2,296 crore grant\nto boost Bengaluru infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Cabinet approves Rs 2,296 crore grant to boost Bengalurus infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQjhoWHFxdTNYcWJoQXh3TzFsa3Q2eFlrdHRWN1ByX19NbVFEaVQ4TEhBTnpJVlBPeVFJWkFjUHVLUFd4WDZ6VWItXzE1T1FFM0R2bkdwc1ptLVd1MkE1eEhFZmVaTGdZalhTVTA4cFhHNHUxMmhfS3I1WjVsTjg3ODRzSEZ5T0w0NlRndkFNOF8?oc=5",
+        "date": "2025-10-31",
+        "title": "DP World pledges $5 bn infrastructure investment in India - India Shipping News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQjhoWHFxdTNYcWJoQXh3TzFsa3Q2eFlrdHRWN1ByX19NbVFEaVQ4TEhBTnpJVlBPeVFJWkFjUHVLUFd4WDZ6VWItXzE1T1FFM0R2bkdwc1ptLVd1MkE1eEhFZmVaTGdZalhTVTA4cFhHNHUxMmhfS3I1WjVsTjg3ODRzSEZ5T0w0NlRndkFNOF8?oc=5\" target=\"_blank\">DP World pledges $5 bn infrastructure investment in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Shipping News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUS1Dd2tBdGtscWdUR0xRbkJJUVdpMEJWWkJ2MW1LVHJybXhpQlB5dUZsZlkwbDdwcnJiQnkxWG1kVXFwX3JNZG03TEJIQVEyNUh1OG9SRlI1RXlxdWRaMDVodXR3NjRfbHloVTM0dEZUdzRUZDJIWXpRLWF3WHQteDVlNVJNOXo4REZhVzFQbEpTdl9WdDg5d3JOSkZieXJYQ2EzUzl1SW9TVjdaZmhNNnZZbjNyT1dOY0pKUDRDbEJvR1Nsd0hqMmRDRi12QUhnZmRTbUl0dTBSN3RBdnFXR1JB?oc=5",
+        "date": "2025-10-31",
+        "title": "Nusa Penida Strengthens Its Tourism Infrastructure with New Elevator Offering Panoramic Beach Views - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUS1Dd2tBdGtscWdUR0xRbkJJUVdpMEJWWkJ2MW1LVHJybXhpQlB5dUZsZlkwbDdwcnJiQnkxWG1kVXFwX3JNZG03TEJIQVEyNUh1OG9SRlI1RXlxdWRaMDVodXR3NjRfbHloVTM0dEZUdzRUZDJIWXpRLWF3WHQteDVlNVJNOXo4REZhVzFQbEpTdl9WdDg5d3JOSkZieXJYQ2EzUzl1SW9TVjdaZmhNNnZZbjNyT1dOY0pKUDRDbEJvR1Nsd0hqMmRDRi12QUhnZmRTbUl0dTBSN3RBdnFXR1JB?oc=5\" target=\"_blank\">Nusa Penida Strengthens Its Tourism Infrastructure with New Elevator Offering Panoramic Beach Views</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM3hyM1pESzlfZDMxWHhhYWVOY3d1SW5WN05aaGlKemVyb1BIQVlqeThKM1lPZGc3Mmd6cmdCYVNBU0VLRVVVLV9VMERNZnl4OExtVTN1Y0JERGFrWTFyeFZKMHEtb2VJQlhzTWowbXppbm5rVTdpOU10YUJRRmRiUHFMLTZORU4zLVFWb0V4NWo2V2pLRlFoaDVlRENfQmt3YjFER3o1STBlaG5Fc1NMaTVaejZRRS1aQnZuMGlFSlJ5d05yYVd1aUdEUkPSAdoBQVVfeXFMTTVGLWpDdkVKREZMWUNySllTUFpmeWdGdzBFSUp0ZjI1dG5VbzhFUXBidDRFM1VRSXZvVENwUEdZTUFacTgtTnNfdXJ6R3A2al9FZUxyVDloM3Rac19Wd2p4X2hSMnhZdDdQWTVTc1lRNVk4ckNnZkZfYjRuRjB3c1JTTVlKRWRyUThFdzFyS3pueFNTNVhBcW9WaFUzamN0UHBpZ2pFNlJEQnkwRkIwMHdycDJIR0E0aXNpX1dNR25hNGZldHVpZnpwczVMZC1JNURpcDBiWTA0SFE?oc=5",
+        "date": "2025-10-31",
+        "title": "Cabinet approves Rs 2,296 crore grant\nto boost Bengaluru infrastructure - The New Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOM3hyM1pESzlfZDMxWHhhYWVOY3d1SW5WN05aaGlKemVyb1BIQVlqeThKM1lPZGc3Mmd6cmdCYVNBU0VLRVVVLV9VMERNZnl4OExtVTN1Y0JERGFrWTFyeFZKMHEtb2VJQlhzTWowbXppbm5rVTdpOU10YUJRRmRiUHFMLTZORU4zLVFWb0V4NWo2V2pLRlFoaDVlRENfQmt3YjFER3o1STBlaG5Fc1NMaTVaejZRRS1aQnZuMGlFSlJ5d05yYVd1aUdEUkPSAdoBQVVfeXFMTTVGLWpDdkVKREZMWUNySllTUFpmeWdGdzBFSUp0ZjI1dG5VbzhFUXBidDRFM1VRSXZvVENwUEdZTUFacTgtTnNfdXJ6R3A2al9FZUxyVDloM3Rac19Wd2p4X2hSMnhZdDdQWTVTc1lRNVk4ckNnZkZfYjRuRjB3c1JTTVlKRWRyUThFdzFyS3pueFNTNVhBcW9WaFUzamN0UHBpZ2pFNlJEQnkwRkIwMHdycDJIR0E0aXNpX1dNR25hNGZldHVpZnpwczVMZC1JNURpcDBiWTA0SFE?oc=5\" target=\"_blank\">Cabinet approves Rs 2,296 crore grant\nto boost Bengaluru infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Cabinet approves Rs 2,296 crore grant to boost Bengalurus infrastructure",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUi1YQnF2Wk1wVFQ0RUJ5Ym9fX2laMjJjblY2US03alVnUzQ4eFdQeEJjandNaVRWQ0FaZHlLSlNjZWRlcUsxX04tai16SW9EZXNJU3QzTUEwOFBNWjUyRUtWdEZwNkRDdDNpTm9kOFhFN3VtM0k4MGZDdkdUNU1ORnZnVnV0czkx?oc=5",
+        "date": "2025-10-31",
+        "title": "Government Crackdown Detects 262 Illegal Subcontracting Cases in Construction - \uc870\uc120\uc77c\ubcf4",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUi1YQnF2Wk1wVFQ0RUJ5Ym9fX2laMjJjblY2US03alVnUzQ4eFdQeEJjandNaVRWQ0FaZHlLSlNjZWRlcUsxX04tai16SW9EZXNJU3QzTUEwOFBNWjUyRUtWdEZwNkRDdDNpTm9kOFhFN3VtM0k4MGZDdkdUNU1ORnZnVnV0czkx?oc=5\" target=\"_blank\">Government Crackdown Detects 262 Illegal Subcontracting Cases in Construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\uc870\uc120\uc77c\ubcf4</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc0pBYkNKeHZYQWxPQWdmMGU4bjVqS3JpX3l0ai1vRW9rNDFkS0c4cmEzUjdxZnZBQWZsN1FLUDR3eDNNUUFrUW01UnZrc2xYOWh0blU1c3YxRHg5RUN2SUp0YVhqRHp2T2RMOC00MHVzTE1lc0hqVDlfM25OU0lDcG53by1LcVFHeENFdTBSb2tjMVFjR29HVG9uRQ?oc=5",
+        "date": "2025-10-31",
+        "title": "US space infrastructure firm Catalyx Space secures $5.4m funding - Tech in Asia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNc0pBYkNKeHZYQWxPQWdmMGU4bjVqS3JpX3l0ai1vRW9rNDFkS0c4cmEzUjdxZnZBQWZsN1FLUDR3eDNNUUFrUW01UnZrc2xYOWh0blU1c3YxRHg5RUN2SUp0YVhqRHp2T2RMOC00MHVzTE1lc0hqVDlfM25OU0lDcG53by1LcVFHeENFdTBSb2tjMVFjR29HVG9uRQ?oc=5\" target=\"_blank\">US space infrastructure firm Catalyx Space secures $5.4m funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech in Asia</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtOUNwbzJNT09ycTA1MWgzallWZ3pMcFRyNkNLVXpYRWwzQWQ4TWxQSjlvSFpGTVFFUjVBZTcxbTcybE8zTEMxMFNyS3R0TGJ1U1RoVHpBUTNHdlRaZW1oS1BLSk9oSUhLaTlaZVJtVdIBb0FVX3lxTFAtOUNwbzJNT09ycTA1MWgzallWZ3pMcFRyNkNLVXpYRWwzQWQ4TWxQSjlvSFpGTVFFUjVBZTcxbTcybE8zTEMxMFNyS3R0TGJ1U1RoVHpBUTNHdlRaZW1oS1BLSk9oSUhLaTlaZVJtVQ?oc=5",
+        "date": "2025-10-31",
+        "title": "Building people-centred smart city - orissapost.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFAtOUNwbzJNT09ycTA1MWgzallWZ3pMcFRyNkNLVXpYRWwzQWQ4TWxQSjlvSFpGTVFFUjVBZTcxbTcybE8zTEMxMFNyS3R0TGJ1U1RoVHpBUTNHdlRaZW1oS1BLSk9oSUhLaTlaZVJtVdIBb0FVX3lxTFAtOUNwbzJNT09ycTA1MWgzallWZ3pMcFRyNkNLVXpYRWwzQWQ4TWxQSjlvSFpGTVFFUjVBZTcxbTcybE8zTEMxMFNyS3R0TGJ1U1RoVHpBUTNHdlRaZW1oS1BLSk9oSUhLaTlaZVJtVQ?oc=5\" target=\"_blank\">Building people-centred smart city</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">orissapost.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVl2R0o5X01EbHd4ZTlJVFFGN3I3a0NIZS1nb1dZcUVuMV9aMDJTbE5kSXUzdWFmcFpYYkJyM3pndGhxVVJ4OEt1VDMtTFJZOE1XLWcxQjBJVXRmOGpvaU1FX19oRUNMa0FJQ1B0LWdhWXlXb09BRnhZNUZVNG52U2ZmVi1SeENyeDVJMnNFMFUtZmxKN0kydmhySklhRW44cW5KTUZEYjRfOEJiRUdOajBHM0pFUdIBuwFBVV95cUxQTDFaQVJiZy1rUEhCRTBsdjVfV0hoei1FcVcxTUtQVFVnNXpEbWdxZ0FJa3o0enJSTE95TzJ4Z3o2ZjdEaHhjV2JVMVpmMENEMEJOemR4WlpaNXZRcnJaTzZ5MUN2NW9NZnVwYUZJZ2xGMVRQQ0R0V1U3cG1WcmE4d2F3a2d3UDJ0T2xyZ2cwdnlSZUp2djFWMWplVmRoTWtfS09zUG80NGxXNnVMSVBHelN6bkpiR1N2ZVhR?oc=5",
+        "date": "2025-10-31",
+        "title": "Tirupati civic body moves to rein in speeding on Garuda Varadhi - The Hans India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVl2R0o5X01EbHd4ZTlJVFFGN3I3a0NIZS1nb1dZcUVuMV9aMDJTbE5kSXUzdWFmcFpYYkJyM3pndGhxVVJ4OEt1VDMtTFJZOE1XLWcxQjBJVXRmOGpvaU1FX19oRUNMa0FJQ1B0LWdhWXlXb09BRnhZNUZVNG52U2ZmVi1SeENyeDVJMnNFMFUtZmxKN0kydmhySklhRW44cW5KTUZEYjRfOEJiRUdOajBHM0pFUdIBuwFBVV95cUxQTDFaQVJiZy1rUEhCRTBsdjVfV0hoei1FcVcxTUtQVFVnNXpEbWdxZ0FJa3o0enJSTE95TzJ4Z3o2ZjdEaHhjV2JVMVpmMENEMEJOemR4WlpaNXZRcnJaTzZ5MUN2NW9NZnVwYUZJZ2xGMVRQQ0R0V1U3cG1WcmE4d2F3a2d3UDJ0T2xyZ2cwdnlSZUp2djFWMWplVmRoTWtfS09zUG80NGxXNnVMSVBHelN6bkpiR1N2ZVhR?oc=5\" target=\"_blank\">Tirupati civic body moves to rein in speeding on Garuda Varadhi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hans India</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
