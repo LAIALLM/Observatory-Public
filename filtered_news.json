@@ -2847,5 +2847,12 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-10-31",
+        "status": "posted",
+        "tweet": "TSLA's Supercharger network delivered 1.5 TWh of energy to electric vehicles in 2023.",
+        "type": "infrastructure"
     }
 ]
