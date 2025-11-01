@@ -3052,5 +3052,46 @@
         "tweet": "2025 GDP growth (forecast):\n\ud83c\uddee\ud83c\uddf3 India 6.5% vs \ud83c\udde8\ud83c\uddf3 China 4.2%",
         "type": "statistical",
         "category": "countries"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU2ozQ0FzNkw5RW1MVHBWcUZXNjhWaExnQzRKVHdZMk95a21Ibzc4TkE1Wnhvak9ITVU1ZTFWcmJaVDNCZlZid2x6U25Jd2xmdGNUSnNaRmdIN2g4Zmh4QmNuVUQ1VmdJX1duVUlra1JwUEJZQm1wQXhnWjhXRzAwZEtMU2tzQVpFWDdvS2tDb0VEMDVCcENINmRfaUpNRmVKVkxMUU5XYUllcGJLWl9xN1VLYWVJZXBRSGtrLXFTdW5xWlpI0gHKAUFVX3lxTE1wdXpuQVY1RjB2NWlGc0tIV0FMWGdLaERHWDQzdHBCYXFIOGZpdDZDeHQxOUVUTG1QZTdmRzdMYzBnSG10aXloRXNQQjdEYkdZRjBibGtoTGJ2akJCeXlneC11SHdCLVI4Wk1kc3NrVHl1QjdNNVpDaDFrVWxUVk83QTJvQmVLaUhYLVNqTnVGbmZOanIwMk9Mb3QySXJTV0Z6Ui1FSnlVYmxRWjlBbDRKQ1JpV2I4bzhhbFdWQk93eUtRbVlUeVgtSVE?oc=5",
+        "date": "2025-11-01",
+        "title": "PM Modi's \u20b914,000 Crore Infrastructure Push In Raipur on Chhattisgarh's 25th Statehood Day - India Today - India Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQU2ozQ0FzNkw5RW1MVHBWcUZXNjhWaExnQzRKVHdZMk95a21Ibzc4TkE1Wnhvak9ITVU1ZTFWcmJaVDNCZlZid2x6U25Jd2xmdGNUSnNaRmdIN2g4Zmh4QmNuVUQ1VmdJX1duVUlra1JwUEJZQm1wQXhnWjhXRzAwZEtMU2tzQVpFWDdvS2tDb0VEMDVCcENINmRfaUpNRmVKVkxMUU5XYUllcGJLWl9xN1VLYWVJZXBRSGtrLXFTdW5xWlpI0gHKAUFVX3lxTE1wdXpuQVY1RjB2NWlGc0tIV0FMWGdLaERHWDQzdHBCYXFIOGZpdDZDeHQxOUVUTG1QZTdmRzdMYzBnSG10aXloRXNQQjdEYkdZRjBibGtoTGJ2akJCeXlneC11SHdCLVI4Wk1kc3NrVHl1QjdNNVpDaDFrVWxUVk83QTJvQmVLaUhYLVNqTnVGbmZOanIwMk9Mb3QySXJTV0Z6Ui1FSnlVYmxRWjlBbDRKQ1JpV2I4bzhhbFdWQk93eUtRbVlUeVgtSVE?oc=5\" target=\"_blank\">PM Modi's \u20b914,000 Crore Infrastructure Push In Raipur on Chhattisgarh's 25th Statehood Day - India Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: PM Modi unveils \u20b914,000 crore infrastructure push in Raipur to mark Chhattisgarhs 25th Statehood Day."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkdxcTVDQ1pGdlNWaGtNMGdLcjFSMlQyX1Q4Q25SQUxUYTFFU3ZGc2dkMElPV3VWZVZQUmlHTko0d0lqcjFyZEMxUC1DUk5ZRVJ3TWlnRFFLV1NwWGdnSXJyR3RSNnFzaERLSE9EQjQ1WFdCVmlzYUw2Y0lMX1BLeFFxdUpzNExvZHVSUXc0dzBpTE4yMzBCZktBcE9fUzA4WkpHakFkTFR6TWMyR2NBSUdlbGluSW5j?oc=5",
+        "date": "2025-11-01",
+        "title": "Welspun New Energy, Kandla Port Ink MoU to Develop Green Methanol Infrastructure - Energetica India Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkdxcTVDQ1pGdlNWaGtNMGdLcjFSMlQyX1Q4Q25SQUxUYTFFU3ZGc2dkMElPV3VWZVZQUmlHTko0d0lqcjFyZEMxUC1DUk5ZRVJ3TWlnRFFLV1NwWGdnSXJyR3RSNnFzaERLSE9EQjQ1WFdCVmlzYUw2Y0lMX1BLeFFxdUpzNExvZHVSUXc0dzBpTE4yMzBCZktBcE9fUzA4WkpHakFkTFR6TWMyR2NBSUdlbGluSW5j?oc=5\" target=\"_blank\">Welspun New Energy, Kandla Port Ink MoU to Develop Green Methanol Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energetica India Magazine</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY1Q1YkdiRFZhZnFDTTRNclptUzJtdzlJSGZtMEZUYVZ4cDZldlpTZ1JtOGlrc1RJeEZCcWIxdGxFbWJMU19DUVBqamNteC16MTlLZ3VkMDBNdkxabEh4cjlONnZKVE1WVVBmeWs5bWY1T1VhNW80LXRGREZDTUNzSGsxSmNhNHBOd1VuM2VtbVlPSHhKenA2OXpneEJWR0l0V1EzV3hmSEJadTBXclJBY2o3UWViX1JaVlBhdE9QRnlXWldBMkZXbk9sT2dkdXFlb1RoUEtUWEhubkU?oc=5",
+        "date": "2025-11-01",
+        "title": "India Urges WTO Push For Secure Global Digital Public Infrastructure To Support MSMEs & E-Commerce - KNN India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY1Q1YkdiRFZhZnFDTTRNclptUzJtdzlJSGZtMEZUYVZ4cDZldlpTZ1JtOGlrc1RJeEZCcWIxdGxFbWJMU19DUVBqamNteC16MTlLZ3VkMDBNdkxabEh4cjlONnZKVE1WVVBmeWs5bWY1T1VhNW80LXRGREZDTUNzSGsxSmNhNHBOd1VuM2VtbVlPSHhKenA2OXpneEJWR0l0V1EzV3hmSEJadTBXclJBY2o3UWViX1JaVlBhdE9QRnlXWldBMkZXbk9sT2dkdXFlb1RoUEtUWEhubkU?oc=5\" target=\"_blank\">India Urges WTO Push For Secure Global Digital Public Infrastructure To Support MSMEs & E-Commerce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KNN India</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU2ozQ0FzNkw5RW1MVHBWcUZXNjhWaExnQzRKVHdZMk95a21Ibzc4TkE1Wnhvak9ITVU1ZTFWcmJaVDNCZlZid2x6U25Jd2xmdGNUSnNaRmdIN2g4Zmh4QmNuVUQ1VmdJX1duVUlra1JwUEJZQm1wQXhnWjhXRzAwZEtMU2tzQVpFWDdvS2tDb0VEMDVCcENINmRfaUpNRmVKVkxMUU5XYUllcGJLWl9xN1VLYWVJZXBRSGtrLXFTdW5xWlpI0gHKAUFVX3lxTE1wdXpuQVY1RjB2NWlGc0tIV0FMWGdLaERHWDQzdHBCYXFIOGZpdDZDeHQxOUVUTG1QZTdmRzdMYzBnSG10aXloRXNQQjdEYkdZRjBibGtoTGJ2akJCeXlneC11SHdCLVI4Wk1kc3NrVHl1QjdNNVpDaDFrVWxUVk83QTJvQmVLaUhYLVNqTnVGbmZOanIwMk9Mb3QySXJTV0Z6Ui1FSnlVYmxRWjlBbDRKQ1JpV2I4bzhhbFdWQk93eUtRbVlUeVgtSVE?oc=5",
+        "date": "2025-11-01",
+        "title": "PM Modi's \u20b914,000 Crore Infrastructure Push In Raipur on Chhattisgarh's 25th Statehood Day - India Today - India Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQU2ozQ0FzNkw5RW1MVHBWcUZXNjhWaExnQzRKVHdZMk95a21Ibzc4TkE1Wnhvak9ITVU1ZTFWcmJaVDNCZlZid2x6U25Jd2xmdGNUSnNaRmdIN2g4Zmh4QmNuVUQ1VmdJX1duVUlra1JwUEJZQm1wQXhnWjhXRzAwZEtMU2tzQVpFWDdvS2tDb0VEMDVCcENINmRfaUpNRmVKVkxMUU5XYUllcGJLWl9xN1VLYWVJZXBRSGtrLXFTdW5xWlpI0gHKAUFVX3lxTE1wdXpuQVY1RjB2NWlGc0tIV0FMWGdLaERHWDQzdHBCYXFIOGZpdDZDeHQxOUVUTG1QZTdmRzdMYzBnSG10aXloRXNQQjdEYkdZRjBibGtoTGJ2akJCeXlneC11SHdCLVI4Wk1kc3NrVHl1QjdNNVpDaDFrVWxUVk83QTJvQmVLaUhYLVNqTnVGbmZOanIwMk9Mb3QySXJTV0Z6Ui1FSnlVYmxRWjlBbDRKQ1JpV2I4bzhhbFdWQk93eUtRbVlUeVgtSVE?oc=5\" target=\"_blank\">PM Modi's \u20b914,000 Crore Infrastructure Push In Raipur on Chhattisgarh's 25th Statehood Day - India Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: PM Modi announces \u20b914,000 crore infrastructure push in Raipur to celebrate Chhattisgarhs 25th Statehood Day",
+        "type": "news"
     }
 ]
