@@ -2885,5 +2885,12 @@
         "status": "posted",
         "tweet": "Google Cloud's global data centers in 2025 handle 50 zettabytes of storage capacity, supporting AI workloads for enterprise clients.\n\n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-11-01",
+        "status": "posted",
+        "tweet": "Bitcoin's mining infrastructure in 2025: 38% hashrate in \ud83c\uddfa\ud83c\uddf8US, 22% in \ud83c\udde8\ud83c\udde6Canada, 15% in \ud83c\uddf7\ud83c\uddfaRussia.  \n\nGlobal electricity costs hit $12B annually, underscoring validator decentralization's energy burden.",
+        "type": "crypto"
     }
 ]
