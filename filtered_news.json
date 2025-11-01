@@ -2878,5 +2878,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-11-01",
+        "status": "posted",
+        "tweet": "Google Cloud's global data centers in 2025 handle 50 zettabytes of storage capacity, supporting AI workloads for enterprise clients.\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
