@@ -2925,5 +2925,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Andhra Pradesh to showcase smart city initiatives at Barcelona expo",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-02",
+        "status": "posted",
+        "tweet": "2025 forecast: construction cost inflation facing urban development firms\n\ud83c\uddfa\ud83c\uddf8 United States: +3.6% YoY\n\ud83c\uddec\ud83c\udde7 United Kingdom: +2.7% YoY",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
