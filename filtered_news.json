@@ -2638,5 +2638,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: PM Modi announces \u20b914,000 crore infrastructure push in Raipur to celebrate Chhattisgarhs 25th Statehood Day",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-02",
+        "status": "posted",
+        "tweet": "Summary: In 2025, hardware costs for running a standard mining or validator setup rank Bitcoin highest due to ASIC demands, followed by Solana's high-spec servers and Ethereum's modest PoS nodes.\n\n1. Bitcoin: $15,000 ASIC miner rig for competitive hashing power.\n2. Solana: $8,500",
+        "type": "crypto"
     }
 ]
