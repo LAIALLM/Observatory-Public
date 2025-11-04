@@ -2868,5 +2868,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf2\ud83c\uddfe NEWS: Dungun named Malaysias 2025 Smart City",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-04",
+        "status": "posted",
+        "tweet": "Amazon's AWS infrastructure in \ud83c\uddfa\ud83c\uddf8 supports 100 million active devices daily, processing 200 petabytes of data.\n\n$AMZN",
+        "type": "infrastructure"
     }
 ]
