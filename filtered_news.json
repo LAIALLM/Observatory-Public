@@ -1,171 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-10-25",
-        "status": "posted",
-        "tweet": "Google data centers: 2023 average PUE 1.10. $GOOGL",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2025-10-25",
-        "status": "posted",
-        "tweet": "Summary: 2025: Australian cities with the most tower cranes (latest RLB counts)\n\n1. \ud83c\udde6\ud83c\uddfa Sydney/Australia\n2. \ud83c\udde6\ud83c\uddfa Melbourne/Australia\n3. \ud83c\udde6\ud83c\uddfa Brisbane/Australia\n4. \ud83c\udde6\ud83c\uddfa Perth/Australia\n5. \ud83c\udde6\ud83c\uddfa Gold Coast/Australia",
-        "type": "statistical",
-        "category": "construction projects"
-    },
-    {
-        "link": null,
-        "date": "2025-10-25",
-        "status": "posted",
-        "tweet": "Bitcoin mining's data center footprint in 2025: 160 TWh annual electricity use, equivalent to \ud83c\uddf3\ud83c\uddf1 Netherlands' total consumption.\n\nThis surge drives 15% of global data center energy demand, with cloud providers like AWS ($AMZN) handling 40% of operations.",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPYnVSN29TS1RBZHpEVjJ0QWw0QjE1YS1mM00zdVFZZEF2SVByUWQxMUp1Ul9NWlVxX2JsMFFuVF8xUTg1eTktTzNURjlGNFVLSDh1NmxmOW9QczFNb3kwRUVBOU1ldUFoUW5QZDlJWmhSMkFnV1oyYjBIb0dlWnhyaklYa1Z2NHVDU04xdkwxRmExOHNWV3RqM0FnbTFraE5NSVJHOEcwQTZKVVZVUWNEQjFLdmMzMWNlYWpKWTVxV3Y3RW5XU0MwUU5raEhZV2lXMWxyZU00ZHdFWmlZT3k0M1Y4bm56RUNwanNyeGkzU2ZxZUxlQVJsZlJsdjVZYl9kX2NEZlBxeU9lN3l3M2k4bzh5UFRJZ1RVNjFZWTUxYlktcEVTN1FXUVBJUXFjZjBIS3ZLMjN0eFFvY2FH0gHCAkFVX3lxTE1XUDlNRndJX1RtcHl6YndTWWF2aWFwbWJpOWk0eVRjR21HQnhpb1hsdGs2SmlxM2cySXUwbzF5THYwWDVoVXVxMm5qS2hfY1VCWGVueElfR0NVVUZoSlhSX0c5TTNaRkc2NGRDM0NPMWlTOGlWLTNXSlloNUo5bmtGdkRnX050OTRxVGRKejh5RG5tdjhqU2RUbS11Yl91YW1zNFZYVXZzQ0QtSGN1eHYxVkw2emFROENONlFXVjZ4cW9vSDlpYnFSVmlvTC1pMkRkMDRzbFFpdFdtcGdCdWJQUXFVQnZyYVQyeU40NFJ2dWUyLUZORVpub0FXVUs0WmF2cW12bVRLYnkyVzRvSGJRYWpzMThZbjYxZVNxNnl0WEtuX1l6V0J2cXlEU1R2eXR6N3haQ0FrWThlNzdvY1lfNFE?oc=5",
-        "date": "2025-10-25",
-        "title": "HUDCO inks pact with Jawaharlal Nehru Port Authority to collaborate for port infrastructure projects worth - The Economic Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxPYnVSN29TS1RBZHpEVjJ0QWw0QjE1YS1mM00zdVFZZEF2SVByUWQxMUp1Ul9NWlVxX2JsMFFuVF8xUTg1eTktTzNURjlGNFVLSDh1NmxmOW9QczFNb3kwRUVBOU1ldUFoUW5QZDlJWmhSMkFnV1oyYjBIb0dlWnhyaklYa1Z2NHVDU04xdkwxRmExOHNWV3RqM0FnbTFraE5NSVJHOEcwQTZKVVZVUWNEQjFLdmMzMWNlYWpKWTVxV3Y3RW5XU0MwUU5raEhZV2lXMWxyZU00ZHdFWmlZT3k0M1Y4bm56RUNwanNyeGkzU2ZxZUxlQVJsZlJsdjVZYl9kX2NEZlBxeU9lN3l3M2k4bzh5UFRJZ1RVNjFZWTUxYlktcEVTN1FXUVBJUXFjZjBIS3ZLMjN0eFFvY2FH0gHCAkFVX3lxTE1XUDlNRndJX1RtcHl6YndTWWF2aWFwbWJpOWk0eVRjR21HQnhpb1hsdGs2SmlxM2cySXUwbzF5THYwWDVoVXVxMm5qS2hfY1VCWGVueElfR0NVVUZoSlhSX0c5TTNaRkc2NGRDM0NPMWlTOGlWLTNXSlloNUo5bmtGdkRnX050OTRxVGRKejh5RG5tdjhqU2RUbS11Yl91YW1zNFZYVXZzQ0QtSGN1eHYxVkw2emFROENONlFXVjZ4cW9vSDlpYnFSVmlvTC1pMkRkMDRzbFFpdFdtcGdCdWJQUXFVQnZyYVQyeU40NFJ2dWUyLUZORVpub0FXVUs0WmF2cW12bVRLYnkyVzRvSGJRYWpzMThZbjYxZVNxNnl0WEtuX1l6V0J2cXlEU1R2eXR6N3haQ0FrWThlNzdvY1lfNFE?oc=5\" target=\"_blank\">HUDCO inks pact with Jawaharlal Nehru Port Authority to collaborate for port infrastructure projects worth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: HUDCO $HUDCO inks pact with Jawaharlal Nehru Port Authority to collaborate on port infrastructure projects"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU3hGcW9DVXp3VmVzbFloSHE5czFLb1pxV2wtQVpORlVJUm5weC1WRGF6NEdxbFdNT3NNRWVZS3JMaDJaWUt4SUNvNkFacWJJZTczTzdoNEp4MHQwS0tpYkJQd3FjTWI2SUw0X09wc2dfMVMzOGVtQWtXQng2dWRwS0FQVzNiOTB3QUpFNC05emdtLWVFOE1LSTNIX1cybGFpT1V1OEtUSks?oc=5",
-        "date": "2025-10-25",
-        "title": "HUDCO ties up with JNPA for port infrastructure projects worth \u20b95,000 crore - newsarenaindia.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU3hGcW9DVXp3VmVzbFloSHE5czFLb1pxV2wtQVpORlVJUm5weC1WRGF6NEdxbFdNT3NNRWVZS3JMaDJaWUt4SUNvNkFacWJJZTczTzdoNEp4MHQwS0tpYkJQd3FjTWI2SUw0X09wc2dfMVMzOGVtQWtXQng2dWRwS0FQVzNiOTB3QUpFNC05emdtLWVFOE1LSTNIX1cybGFpT1V1OEtUSks?oc=5\" target=\"_blank\">HUDCO ties up with JNPA for port infrastructure projects worth \u20b95,000 crore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsarenaindia.com</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: HUDCO ties up with JNPA for port infrastructure projects worth \u20b95,000 crore $HUDCO"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZ2lQd0tmYmhlelNvVG4wLTJhOTlBU2JqSmduTWprYnJRQzZ1c1pWalcxWGkxclZUSmIya1hFdEJOVmV3WWZjRm5WRS03dUdmZk9mVDJOajF2OUlHcGw3V0RmcFhuUkJIaUZYdi1hLWdYOXNad0RtQnF1eGtyLWJ6b19VUEw0bU0xWjFtY3p6SlRfWEpwbWNlTzIyakdwbTJoQ1hCVmVfcmJPOFhpcGRBV3FwUDVBSTBqcG5oeF95NWZBd2VBWE1GeEx1a25JaXhHZlh1Wkdfbmh2Z1JGUUFCc0pRNFZCQk9WbUd1Nk5RNFZQaUFxLXQ4MDYxbEEzelpWS0R3RUlBb1BzYm50LWVWZV96VHptdw?oc=5",
-        "date": "2025-10-25",
-        "title": "Thailand Proposes Infrastructure Upgrades: High-Speed Rail, Expanded Airports, and Enhanced Connectivity to Boost Tourism and Economic Growth - Travel And Tour World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxNZ2lQd0tmYmhlelNvVG4wLTJhOTlBU2JqSmduTWprYnJRQzZ1c1pWalcxWGkxclZUSmIya1hFdEJOVmV3WWZjRm5WRS03dUdmZk9mVDJOajF2OUlHcGw3V0RmcFhuUkJIaUZYdi1hLWdYOXNad0RtQnF1eGtyLWJ6b19VUEw0bU0xWjFtY3p6SlRfWEpwbWNlTzIyakdwbTJoQ1hCVmVfcmJPOFhpcGRBV3FwUDVBSTBqcG5oeF95NWZBd2VBWE1GeEx1a25JaXhHZlh1Wkdfbmh2Z1JGUUFCc0pRNFZCQk9WbUd1Nk5RNFZQaUFxLXQ4MDYxbEEzelpWS0R3RUlBb1BzYm50LWVWZV96VHptdw?oc=5\" target=\"_blank\">Thailand Proposes Infrastructure Upgrades: High-Speed Rail, Expanded Airports, and Enhanced Connectivity to Boost Tourism and Economic Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OZDk1N002VThrSXh4N01fcVB3Smc2RThkYXNORTF6cE9QQ180X1R1Wl84dF9kYWJRVlRYcnVKYXBnczc0S0NxdEFDMGNmdUFSa1RjeEFjUGg?oc=5",
-        "date": "2025-10-25",
-        "title": "KMC launches \u2018Silver Volunteer Programme\u2019 for citizens above 45 - Khabarhub",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OZDk1N002VThrSXh4N01fcVB3Smc2RThkYXNORTF6cE9QQ180X1R1Wl84dF9kYWJRVlRYcnVKYXBnczc0S0NxdEFDMGNmdUFSa1RjeEFjUGg?oc=5\" target=\"_blank\">KMC launches \u2018Silver Volunteer Programme\u2019 for citizens above 45</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Khabarhub</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU3hGcW9DVXp3VmVzbFloSHE5czFLb1pxV2wtQVpORlVJUm5weC1WRGF6NEdxbFdNT3NNRWVZS3JMaDJaWUt4SUNvNkFacWJJZTczTzdoNEp4MHQwS0tpYkJQd3FjTWI2SUw0X09wc2dfMVMzOGVtQWtXQng2dWRwS0FQVzNiOTB3QUpFNC05emdtLWVFOE1LSTNIX1cybGFpT1V1OEtUSks?oc=5",
-        "date": "2025-10-25",
-        "title": "HUDCO ties up with JNPA for port infrastructure projects worth \u20b95,000 crore - newsarenaindia.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU3hGcW9DVXp3VmVzbFloSHE5czFLb1pxV2wtQVpORlVJUm5weC1WRGF6NEdxbFdNT3NNRWVZS3JMaDJaWUt4SUNvNkFacWJJZTczTzdoNEp4MHQwS0tpYkJQd3FjTWI2SUw0X09wc2dfMVMzOGVtQWtXQng2dWRwS0FQVzNiOTB3QUpFNC05emdtLWVFOE1LSTNIX1cybGFpT1V1OEtUSks?oc=5\" target=\"_blank\">HUDCO ties up with JNPA for port infrastructure projects worth \u20b95,000 crore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsarenaindia.com</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: HUDCO partners with JNPA on port infrastructure projects worth \u20b95,000 crore $HUDCO",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPYnVSN29TS1RBZHpEVjJ0QWw0QjE1YS1mM00zdVFZZEF2SVByUWQxMUp1Ul9NWlVxX2JsMFFuVF8xUTg1eTktTzNURjlGNFVLSDh1NmxmOW9QczFNb3kwRUVBOU1ldUFoUW5QZDlJWmhSMkFnV1oyYjBIb0dlWnhyaklYa1Z2NHVDU04xdkwxRmExOHNWV3RqM0FnbTFraE5NSVJHOEcwQTZKVVZVUWNEQjFLdmMzMWNlYWpKWTVxV3Y3RW5XU0MwUU5raEhZV2lXMWxyZU00ZHdFWmlZT3k0M1Y4bm56RUNwanNyeGkzU2ZxZUxlQVJsZlJsdjVZYl9kX2NEZlBxeU9lN3l3M2k4bzh5UFRJZ1RVNjFZWTUxYlktcEVTN1FXUVBJUXFjZjBIS3ZLMjN0eFFvY2FH0gHCAkFVX3lxTE1XUDlNRndJX1RtcHl6YndTWWF2aWFwbWJpOWk0eVRjR21HQnhpb1hsdGs2SmlxM2cySXUwbzF5THYwWDVoVXVxMm5qS2hfY1VCWGVueElfR0NVVUZoSlhSX0c5TTNaRkc2NGRDM0NPMWlTOGlWLTNXSlloNUo5bmtGdkRnX050OTRxVGRKejh5RG5tdjhqU2RUbS11Yl91YW1zNFZYVXZzQ0QtSGN1eHYxVkw2emFROENONlFXVjZ4cW9vSDlpYnFSVmlvTC1pMkRkMDRzbFFpdFdtcGdCdWJQUXFVQnZyYVQyeU40NFJ2dWUyLUZORVpub0FXVUs0WmF2cW12bVRLYnkyVzRvSGJRYWpzMThZbjYxZVNxNnl0WEtuX1l6V0J2cXlEU1R2eXR6N3haQ0FrWThlNzdvY1lfNFE?oc=5",
-        "date": "2025-10-25",
-        "title": "HUDCO inks pact with Jawaharlal Nehru Port Authority to collaborate for port infrastructure projects worth - The Economic Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxPYnVSN29TS1RBZHpEVjJ0QWw0QjE1YS1mM00zdVFZZEF2SVByUWQxMUp1Ul9NWlVxX2JsMFFuVF8xUTg1eTktTzNURjlGNFVLSDh1NmxmOW9QczFNb3kwRUVBOU1ldUFoUW5QZDlJWmhSMkFnV1oyYjBIb0dlWnhyaklYa1Z2NHVDU04xdkwxRmExOHNWV3RqM0FnbTFraE5NSVJHOEcwQTZKVVZVUWNEQjFLdmMzMWNlYWpKWTVxV3Y3RW5XU0MwUU5raEhZV2lXMWxyZU00ZHdFWmlZT3k0M1Y4bm56RUNwanNyeGkzU2ZxZUxlQVJsZlJsdjVZYl9kX2NEZlBxeU9lN3l3M2k4bzh5UFRJZ1RVNjFZWTUxYlktcEVTN1FXUVBJUXFjZjBIS3ZLMjN0eFFvY2FH0gHCAkFVX3lxTE1XUDlNRndJX1RtcHl6YndTWWF2aWFwbWJpOWk0eVRjR21HQnhpb1hsdGs2SmlxM2cySXUwbzF5THYwWDVoVXVxMm5qS2hfY1VCWGVueElfR0NVVUZoSlhSX0c5TTNaRkc2NGRDM0NPMWlTOGlWLTNXSlloNUo5bmtGdkRnX050OTRxVGRKejh5RG5tdjhqU2RUbS11Yl91YW1zNFZYVXZzQ0QtSGN1eHYxVkw2emFROENONlFXVjZ4cW9vSDlpYnFSVmlvTC1pMkRkMDRzbFFpdFdtcGdCdWJQUXFVQnZyYVQyeU40NFJ2dWUyLUZORVpub0FXVUs0WmF2cW12bVRLYnkyVzRvSGJRYWpzMThZbjYxZVNxNnl0WEtuX1l6V0J2cXlEU1R2eXR6N3haQ0FrWThlNzdvY1lfNFE?oc=5\" target=\"_blank\">HUDCO inks pact with Jawaharlal Nehru Port Authority to collaborate for port infrastructure projects worth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: HUDCO inks pact with Jawaharlal Nehru Port Authority to collaborate on port infrastructure projects $HUDCO",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNazZ5eDRaMzU2bEZOYW9tSG85VDBlRWxiSDBBLUluRmhXNk1Tc2lqWjFFY3h0d0JXWFJ4RXdWVkt2RkNxQnM3RFZGNnkyT3pibXM2N2JRWDRrUFNES3d0RExST21WMFVEV3V1RlVoOTY3REZ2N2NJWFBLMkxCQ3VBZklIMFk2UFZzdXUtanBGV3pTcTFpUE5NSFlFVVJBRy1wNXRKSE9iSWRmX1Q3QV9wTEV4V09JbjZJalVfZXhfRDnSAcYBQVVfeXFMUGZGWXFZbV96Wm1HNXZHNkNRWjRoZkl3V0prXzJDRUdIMl9jM1ZCZEdvN2VhcjdETmZMWkw1U0RvSHpXRUxVQkxvSV9CS19mTGlsX0tmYm1EWEpjZklpRHFsdElBUHd5dnlxZ3AyOU11OW1Za2I2RUxJYXFOWi1haTh6Vld3NWZTdUhNZGYxZVdmYXBnMWhfLWZVdUlLM0hsSGFsSjY5aEY1MG9uZGo0LWlnNGpRUkkzdllNWWlsTXVhQUszZ2ln?oc=5",
-        "date": "2025-10-25",
-        "title": "Epack Prefab Technologies: Building Success with Rs 130 Crore Contract - Devdiscourse",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNazZ5eDRaMzU2bEZOYW9tSG85VDBlRWxiSDBBLUluRmhXNk1Tc2lqWjFFY3h0d0JXWFJ4RXdWVkt2RkNxQnM3RFZGNnkyT3pibXM2N2JRWDRrUFNES3d0RExST21WMFVEV3V1RlVoOTY3REZ2N2NJWFBLMkxCQ3VBZklIMFk2UFZzdXUtanBGV3pTcTFpUE5NSFlFVVJBRy1wNXRKSE9iSWRmX1Q3QV9wTEV4V09JbjZJalVfZXhfRDnSAcYBQVVfeXFMUGZGWXFZbV96Wm1HNXZHNkNRWjRoZkl3V0prXzJDRUdIMl9jM1ZCZEdvN2VhcjdETmZMWkw1U0RvSHpXRUxVQkxvSV9CS19mTGlsX0tmYm1EWEpjZklpRHFsdElBUHd5dnlxZ3AyOU11OW1Za2I2RUxJYXFOWi1haTh6Vld3NWZTdUhNZGYxZVdmYXBnMWhfLWZVdUlLM0hsSGFsSjY5aEY1MG9uZGo0LWlnNGpRUkkzdllNWWlsTXVhQUszZ2ln?oc=5\" target=\"_blank\">Epack Prefab Technologies: Building Success with Rs 130 Crore Contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3Jva21Pa2VBRXMzUG0yQklSUVluTFdkd3MyYWtRMm02alJ5WGxwc0UwTlJiTUZrYnZ5NnViNnh6OHZnWThLbDFCV1hqSkEzdjdpSXM4WXNzZWtEWV9rWTg4UjZ5ekpYeWRHbmhrTTRlRGUtOXY2SFU3NHhERVdvMEl4czEwVzAzN056MGExNTFaU0ZBV1F3MU5DZ2lmUGMydlE?oc=5",
-        "date": "2025-10-25",
-        "title": "10 Commercial Metal Roofing Market Report: Growth, Innovations, and Forecast - newstrail.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3Jva21Pa2VBRXMzUG0yQklSUVluTFdkd3MyYWtRMm02alJ5WGxwc0UwTlJiTUZrYnZ5NnViNnh6OHZnWThLbDFCV1hqSkEzdjdpSXM4WXNzZWtEWV9rWTg4UjZ5ekpYeWRHbmhrTTRlRGUtOXY2SFU3NHhERVdvMEl4czEwVzAzN056MGExNTFaU0ZBV1F3MU5DZ2lmUGMydlE?oc=5\" target=\"_blank\">10 Commercial Metal Roofing Market Report: Growth, Innovations, and Forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newstrail.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHNOTDF3eTVHMzEzRkRDTDN6ejVySEp3RFFWR1VTSTFKbDlmcGhiTkFQTGROSmFlV2FKUVk2VGFOQkdIS1JOODhaRVM1aDhvRjlaVDMtV0ZPaVNyTjN6ZU91R3NRREFzRVpObGc4VGU0aUtyeVgxS3ByZDFRQXR3ZUFzRFRyTjNKR1BGQkZPTmFOWG9MMGhEQXIxd2ZsT0psVVd4bmFMT2FoaU1UWEQ1NWx0QlpCYzJPdVE?oc=5",
-        "date": "2025-10-25",
-        "title": "Sumangali Jewellers supports infrastructure upgrade for police personnel and families - The Retail Jeweller India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHNOTDF3eTVHMzEzRkRDTDN6ejVySEp3RFFWR1VTSTFKbDlmcGhiTkFQTGROSmFlV2FKUVk2VGFOQkdIS1JOODhaRVM1aDhvRjlaVDMtV0ZPaVNyTjN6ZU91R3NRREFzRVpObGc4VGU0aUtyeVgxS3ByZDFRQXR3ZUFzRFRyTjNKR1BGQkZPTmFOWG9MMGhEQXIxd2ZsT0psVVd4bmFMT2FoaU1UWEQ1NWx0QlpCYzJPdVE?oc=5\" target=\"_blank\">Sumangali Jewellers supports infrastructure upgrade for police personnel and families</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Retail Jeweller India</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXlEWmEyeFVoUEdPRXNhdDByQV9vMkJrV2k0Z0xqN3hFTWVQM3o0bVF1UllpeFpjRU1Pc0dlNXRESDRJaFlPZ1RQc1hNUGdzQ2YxRmU0LXBqeFI2aElJbTJqQWk0djdsVTlIQWZ5MjEtbmtNaGJkVHFZTVU5c2pqNHRkeGNVdEtKQ1pzdzl3NWF3T3FDSWhVWGZ6Wnd5UHN5LURDc04xSG9VSzdyakRIQ3pMWnQ?oc=5",
-        "date": "2025-10-25",
-        "title": "{Funding Alert} Michezo Sports Raises $2.5 Mn to Boost India\u2019s Sporting Infrastructure - Indian Retailer",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXlEWmEyeFVoUEdPRXNhdDByQV9vMkJrV2k0Z0xqN3hFTWVQM3o0bVF1UllpeFpjRU1Pc0dlNXRESDRJaFlPZ1RQc1hNUGdzQ2YxRmU0LXBqeFI2aElJbTJqQWk0djdsVTlIQWZ5MjEtbmtNaGJkVHFZTVU5c2pqNHRkeGNVdEtKQ1pzdzl3NWF3T3FDSWhVWGZ6Wnd5UHN5LURDc04xSG9VSzdyakRIQ3pMWnQ?oc=5\" target=\"_blank\">{Funding Alert} Michezo Sports Raises $2.5 Mn to Boost India\u2019s Sporting Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Retailer</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUFFT25WUURTVmFsMm8xSGlZcjNZRTNCZHBzaFRUMmJjQjVkRVNJY3QwdDVJckNQeU54bXF2ZGZ3XzBDTVgtajBDSDlwWUdoWWg1ZEJQQTZ3emh1UlVYT2NJZ1VsQlhwb2x4b0pIeC01ODFac3B0RUJFUEJSZnl6cDkzRDJuVll3d1dRb3BMbV9oMENGWVlv?oc=5",
-        "date": "2025-10-25",
-        "title": "Cyber-Ready AI: Building Trust Infrastructure That Scales With You - CDOTrends",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUFFT25WUURTVmFsMm8xSGlZcjNZRTNCZHBzaFRUMmJjQjVkRVNJY3QwdDVJckNQeU54bXF2ZGZ3XzBDTVgtajBDSDlwWUdoWWg1ZEJQQTZ3emh1UlVYT2NJZ1VsQlhwb2x4b0pIeC01ODFac3B0RUJFUEJSZnl6cDkzRDJuVll3d1dRb3BMbV9oMENGWVlv?oc=5\" target=\"_blank\">Cyber-Ready AI: Building Trust Infrastructure That Scales With You</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CDOTrends</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcjQtZGdKYUVabkhROVpvR3l4NlpuNEY0bWN6TzdxSmh2RXRQOXhTSmhXcjg4RktPb0w5dkV0NFdheTJHTk1MYW8tUzBwRmZYV184Q2h1QTFnbEF0T3JldnNrc1BaNk9UZHpHNW1XRFFYMmRFMlQtRmVlc2l0azNROXJ0UE5NYTY1eWgwS0hMaXVWWDh3d2ZPLWdzQ2tyMVV5Z1FYcV95WlYtQlZjSk9BX1ZNUkxhUWZGOEpkQU5UUHE5MEN3SWFYaTNFZXc5blNnVWFPN0owUzdOUXpaS1JTM0VSZFM3TmpoQjJaY2pKNHg5djl5b2p1b2ptdGZURVNJMUhV?oc=5",
-        "date": "2025-10-25",
-        "title": "Democratic Republic of Congo and Vingroup sign MOU on urban development and green transportation - FinancialContent",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOcjQtZGdKYUVabkhROVpvR3l4NlpuNEY0bWN6TzdxSmh2RXRQOXhTSmhXcjg4RktPb0w5dkV0NFdheTJHTk1MYW8tUzBwRmZYV184Q2h1QTFnbEF0T3JldnNrc1BaNk9UZHpHNW1XRFFYMmRFMlQtRmVlc2l0azNROXJ0UE5NYTY1eWgwS0hMaXVWWDh3d2ZPLWdzQ2tyMVV5Z1FYcV95WlYtQlZjSk9BX1ZNUkxhUWZGOEpkQU5UUHE5MEN3SWFYaTNFZXc5blNnVWFPN0owUzdOUXpaS1JTM0VSZFM3TmpoQjJaY2pKNHg5djl5b2p1b2ptdGZURVNJMUhV?oc=5\" target=\"_blank\">Democratic Republic of Congo and Vingroup sign MOU on urban development and green transportation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinancialContent</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\udde8\ud83c\udde9 NEWS: DRC and Vingroup sign MOU for urban development and green transportation $VIC"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGtxSWc0VWtwRHR2eFZ6QjRRa1JVRDE0S21HbXNIdU1oN3htZ2g3TnJQZWVhYk9HYmYtZzNZb1JDT1lPbnp5bzBycHRHOFR2U2NEWmVubXNidVlwOXZmNy16RE95Ui1UVkhCN3JmTkFTbG00Z19yZDloZzRCcjFEVkRsc3JyNTBucmpIelRMbGI4SHlxNXZ1TmhsSVVfZGJpU2duQVVoR0lsZw?oc=5",
-        "date": "2025-10-25",
-        "title": "The Urban Development Crisis and the Collapse of the Planning System in Afghanistan - Hasht-e Subh Daily",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGtxSWc0VWtwRHR2eFZ6QjRRa1JVRDE0S21HbXNIdU1oN3htZ2g3TnJQZWVhYk9HYmYtZzNZb1JDT1lPbnp5bzBycHRHOFR2U2NEWmVubXNidVlwOXZmNy16RE95Ui1UVkhCN3JmTkFTbG00Z19yZDloZzRCcjFEVkRsc3JyNTBucmpIelRMbGI4SHlxNXZ1TmhsSVVfZGJpU2duQVVoR0lsZw?oc=5\" target=\"_blank\">The Urban Development Crisis and the Collapse of the Planning System in Afghanistan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hasht-e Subh Daily</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcjQtZGdKYUVabkhROVpvR3l4NlpuNEY0bWN6TzdxSmh2RXRQOXhTSmhXcjg4RktPb0w5dkV0NFdheTJHTk1MYW8tUzBwRmZYV184Q2h1QTFnbEF0T3JldnNrc1BaNk9UZHpHNW1XRFFYMmRFMlQtRmVlc2l0azNROXJ0UE5NYTY1eWgwS0hMaXVWWDh3d2ZPLWdzQ2tyMVV5Z1FYcV95WlYtQlZjSk9BX1ZNUkxhUWZGOEpkQU5UUHE5MEN3SWFYaTNFZXc5blNnVWFPN0owUzdOUXpaS1JTM0VSZFM3TmpoQjJaY2pKNHg5djl5b2p1b2ptdGZURVNJMUhV?oc=5",
-        "date": "2025-10-25",
-        "title": "Democratic Republic of Congo and Vingroup sign MOU on urban development and green transportation - FinancialContent",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOcjQtZGdKYUVabkhROVpvR3l4NlpuNEY0bWN6TzdxSmh2RXRQOXhTSmhXcjg4RktPb0w5dkV0NFdheTJHTk1MYW8tUzBwRmZYV184Q2h1QTFnbEF0T3JldnNrc1BaNk9UZHpHNW1XRFFYMmRFMlQtRmVlc2l0azNROXJ0UE5NYTY1eWgwS0hMaXVWWDh3d2ZPLWdzQ2tyMVV5Z1FYcV95WlYtQlZjSk9BX1ZNUkxhUWZGOEpkQU5UUHE5MEN3SWFYaTNFZXc5blNnVWFPN0owUzdOUXpaS1JTM0VSZFM3TmpoQjJaY2pKNHg5djl5b2p1b2ptdGZURVNJMUhV?oc=5\" target=\"_blank\">Democratic Republic of Congo and Vingroup sign MOU on urban development and green transportation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinancialContent</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\udde9 NEWS: Democratic Republic of Congo and Vingroup $VIC sign MOU on urban development and green transportation",
-        "type": "news"
-    },
-    {
-        "link": null,
         "date": "2025-10-26",
         "status": "posted",
         "tweet": "Bitcoin's PoW network incurs $4.5B in annual ASIC hardware costs for mining rigs in 2025.\n\nEthereum's PoS validators require only $450M in server hardware network-wide.\n\nThat's a 10x efficiency gap in hardware spend.",
@@ -2873,5 +2708,12 @@
         "status": "posted",
         "tweet": "NEWS: AAMFI and AUDA-NEPAD launch $1.5B infrastructure financing facility to boost African development projects.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-04",
+        "status": "posted",
+        "tweet": "Bitcoin's network security via mining is projected to cost $11 billion annually in 2025, driven by 170 TWh electricity use and rising hardware expenses.",
+        "type": "crypto"
     }
 ]
