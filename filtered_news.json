@@ -2875,5 +2875,13 @@
         "status": "posted",
         "tweet": "Amazon's AWS infrastructure in \ud83c\uddfa\ud83c\uddf8 supports 100 million active devices daily, processing 200 petabytes of data.\n\n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-11-04",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India 2025: ~1.43B\n\ud83c\udde8\ud83c\uddf3 China 2025: ~1.41B\n\n\ud83c\uddee\ud83c\uddf3 India 2030 projection: ~1.50B\n\ud83c\udde8\ud83c\uddf3 China 2030 projection: ~1.39B",
+        "type": "statistical",
+        "category": "population"
     }
 ]
