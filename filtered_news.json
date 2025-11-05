@@ -2718,5 +2718,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: LG Ladakh discusses critical infrastructure projects like roads and tunnels with Union Minister Nitin Gadkari",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-05",
+        "status": "posted",
+        "tweet": "2025 share of electricity generation from wind + solar\n\ud83c\uddea\ud83c\uddfa European Union: ~31% vs \ud83c\uddfa\ud83c\uddf8 United States: ~18%",
+        "type": "statistical",
+        "category": "energy"
     }
 ]
