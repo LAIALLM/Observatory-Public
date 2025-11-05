@@ -2885,5 +2885,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Supreme Court praises Indias rapid road infrastructure progress, declaring highways smoother than ever.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-05",
+        "status": "posted",
+        "tweet": "NVIDIA data center revenue hit $30B in Q1 2025, driven by 4M+ H100 GPUs shipped for AI infrastructure.\n\n$NVDA",
+        "type": "infrastructure"
     }
 ]
