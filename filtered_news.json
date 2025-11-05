@@ -2807,5 +2807,12 @@
         "status": "posted",
         "tweet": "NEWS: Linklaters advises Apollo Infrastructure $APO on its 50-50 joint venture with \u00d8rsted $ORSTED for the world\u2019s largest offshore wind farm project.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-05",
+        "status": "posted",
+        "tweet": "In 2025, Bitcoin's energy infrastructure costs $10 billion annually for 7 TPS.\n\nSolana delivers 2,000 TPS for under $1 million total energy cost\u2014285x higher throughput at 10,000x lower expense.",
+        "type": "crypto"
     }
 ]
