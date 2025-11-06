@@ -2729,5 +2729,185 @@
         "status": "posted",
         "tweet": "Microsoft Azure processed 150 EB of data across its global infrastructure in 2025.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0toYzZRZjhMT1lfWUNtbVRkUmVJcS15M2t0RG8zQlN2RGFKUV9YcDAzTEVMb3dxTDU2RUk3bkZ4ZjVkRUpGRnJwcS1RVnR3Q1BCei03Q1V6SmlrQ0FUMFNNOS1CY05YaXFNRW9mdTdrc0VWSXZOT2YwejZXWVl5OWFnY19GUQ?oc=5",
+        "date": "2025-11-06",
+        "title": "Savezo Venuh: A builder of homes and hopes in Nagaland - MorungExpress",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0toYzZRZjhMT1lfWUNtbVRkUmVJcS15M2t0RG8zQlN2RGFKUV9YcDAzTEVMb3dxTDU2RUk3bkZ4ZjVkRUpGRnJwcS1RVnR3Q1BCei03Q1V6SmlrQ0FUMFNNOS1CY05YaXFNRW9mdTdrc0VWSXZOT2YwejZXWVl5OWFnY19GUQ?oc=5\" target=\"_blank\">Savezo Venuh: A builder of homes and hopes in Nagaland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MorungExpress</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcEF0MF8tLW9PekEwVXo2SGl2eFlxVF90LVVqMnRTTzIyUUhLVU5LaERiZlJod1dQQm05dVo0Z0JNY2ljWEpTN2RtQ1Q4enJ2eklfbFB5MmVlVF9QVElfb3luYjJqLXZ3eFFlWUlPY28zbFhHRnRsLW9EYm9UYXdaWG84NHhObG44M2tqMnd4QUREb3oya0t5T3NBQnk3d0ZGUHp1dDVyTEpuckJSRng1aTlCd3pIc1RZMVQwNEpQdFFfdEZ3Vmc?oc=5",
+        "date": "2025-11-06",
+        "title": "Building better together: How the right NEC option drives industry progress - New Civil Engineer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOcEF0MF8tLW9PekEwVXo2SGl2eFlxVF90LVVqMnRTTzIyUUhLVU5LaERiZlJod1dQQm05dVo0Z0JNY2ljWEpTN2RtQ1Q4enJ2eklfbFB5MmVlVF9QVElfb3luYjJqLXZ3eFFlWUlPY28zbFhHRnRsLW9EYm9UYXdaWG84NHhObG44M2tqMnd4QUREb3oya0t5T3NBQnk3d0ZGUHp1dDVyTEpuckJSRng1aTlCd3pIc1RZMVQwNEpQdFFfdEZ3Vmc?oc=5\" target=\"_blank\">Building better together: How the right NEC option drives industry progress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Civil Engineer</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc3VZNnNIYWMwNTdicmtzbnhFTFIwbnZxMXo0bzdoQl85RUo1dFRlSUJVQm9lUVpvdFIzb3o0bkdzNkhqVUZXVnFGdU5BX1BrZS0yWkVUMGRXbXpUeEx2SVBPUVp1SERSSTVuTWlmckJ3bGdoam9tOU1QN0tIMmZiaEcxbnNhTTlnZHlfVG91bE5pM0pDR21DT2ZmTQ?oc=5",
+        "date": "2025-11-06",
+        "title": "People to Know in Commercial Real Estate & Construction: Sam Miller - The Business Journals",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNc3VZNnNIYWMwNTdicmtzbnhFTFIwbnZxMXo0bzdoQl85RUo1dFRlSUJVQm9lUVpvdFIzb3o0bkdzNkhqVUZXVnFGdU5BX1BrZS0yWkVUMGRXbXpUeEx2SVBPUVp1SERSSTVuTWlmckJ3bGdoam9tOU1QN0tIMmZiaEcxbnNhTTlnZHlfVG91bE5pM0pDR21DT2ZmTQ?oc=5\" target=\"_blank\">People to Know in Commercial Real Estate & Construction: Sam Miller</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb2wxV2FqZnJvYTlOTDhwY0ppb0dFMVNBSjhBNGliemRPV1Q1dkpmVjFIODk5LUdwY0w4M0QwN1VlaXQ4MW1zOHVHbGdjbnVjUUg1TmRxSU16OTYyYzJ3MnJlUFM4QkV2bDhLUG92NUhzc2hnY1FVZy05d3YzRUQ2S0syTHo3OHZvY1RON0J2VUNWRmpUXzNGamdvVEtwaUkyNUNmVHFB?oc=5",
+        "date": "2025-11-06",
+        "title": "ULMA Construction eyes UK expansion with Des Moore leading setup - Scaffmag",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNb2wxV2FqZnJvYTlOTDhwY0ppb0dFMVNBSjhBNGliemRPV1Q1dkpmVjFIODk5LUdwY0w4M0QwN1VlaXQ4MW1zOHVHbGdjbnVjUUg1TmRxSU16OTYyYzJ3MnJlUFM4QkV2bDhLUG92NUhzc2hnY1FVZy05d3YzRUQ2S0syTHo3OHZvY1RON0J2VUNWRmpUXzNGamdvVEtwaUkyNUNmVHFB?oc=5\" target=\"_blank\">ULMA Construction eyes UK expansion with Des Moore leading setup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scaffmag</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQXFmcDNlZHp5MW96encyTEN3SkZ3MmVKdm1LTDdOSTBpMmgwSnNHQlBfbkdXWGtxRTc0Qm9jWVVxMUlIdFE5dDNVUXhLMzZ0NGVqcFhScmRnWWMxNG95WDRiU0tVbDhyYU1yWWpWTUwzU19FemlfalZ0Z1VrVHhPUFlVR0dxSlRGUGxCNmhoOTFCS0hYR2hNVGt2bExQUmM?oc=5",
+        "date": "2025-11-06",
+        "title": "People to Know in Commercial Real Estate & Construction: Matt Getchell - The Business Journals",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQXFmcDNlZHp5MW96encyTEN3SkZ3MmVKdm1LTDdOSTBpMmgwSnNHQlBfbkdXWGtxRTc0Qm9jWVVxMUlIdFE5dDNVUXhLMzZ0NGVqcFhScmRnWWMxNG95WDRiU0tVbDhyYU1yWWpWTUwzU19FemlfalZ0Z1VrVHhPUFlVR0dxSlRGUGxCNmhoOTFCS0hYR2hNVGt2bExQUmM?oc=5\" target=\"_blank\">People to Know in Commercial Real Estate & Construction: Matt Getchell</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPUlNNbGZaX1Z6QWVjUzRiNEc1QUZhMkpPTWZTM2pvUXdRMkJGcDlpN01mdVBmSFpYWG9LNkhiSkEtZVV4RUM2UGpoMGJGekp3dU5vRkhRVkc3N0xKLTllUmxOWVZEdmw0V0tUUnhpS1RFY3FQZnM3OUc3b1hDZjhPenNYVGhkV3VoV3p2ZV94dllic1dydnRZb0hXNWphSzFMZkFhclFDTkxhUWtLU01qM2ZsNlNhZzAxZzFMenR3WU9fajZ2ejNfV3Z0ZXI0c1diN2xQLTNHUGJOb0p1UTZCUHdJSjBDX29DckduTGxLLUJjU2hXQ3MyNFJFcHZMWFZNRm9iVXJ6TGRJWVFhYXY2emZWZVVBU0V2Nk5nVHlaRC0?oc=5",
+        "date": "2025-11-06",
+        "title": "Housing shortages may worsen with no measures to spur construction in Canada budget 2025, development industry says - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxPUlNNbGZaX1Z6QWVjUzRiNEc1QUZhMkpPTWZTM2pvUXdRMkJGcDlpN01mdVBmSFpYWG9LNkhiSkEtZVV4RUM2UGpoMGJGekp3dU5vRkhRVkc3N0xKLTllUmxOWVZEdmw0V0tUUnhpS1RFY3FQZnM3OUc3b1hDZjhPenNYVGhkV3VoV3p2ZV94dllic1dydnRZb0hXNWphSzFMZkFhclFDTkxhUWtLU01qM2ZsNlNhZzAxZzFMenR3WU9fajZ2ejNfV3Z0ZXI0c1diN2xQLTNHUGJOb0p1UTZCUHdJSjBDX29DckduTGxLLUJjU2hXQ3MyNFJFcHZMWFZNRm9iVXJ6TGRJWVFhYXY2emZWZVVBU0V2Nk5nVHlaRC0?oc=5\" target=\"_blank\">Housing shortages may worsen with no measures to spur construction in Canada budget 2025, development industry says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVmVWZmhDWGJLX2E3cERpdktXVnUtMFNrMXo4WUkzT1JTb1FLd0dLak1RWkI4WGVPZGIxMGx2SU9BWWw3Q2tlLU12YkRfT0otanA0clpBaDNpRWR5d3RiVmFIWTZMdWNxcmE5dnNpTGpVbl91T19iQWFIcHNvejM5M1JoMDBVbERUTjhwaXEyTGkxNlBWYlBoeXVpQ3ZzUUpIZEpVd2hiaVFiUGFqQkQzMG1wZmJNNnpaYmxjS1BrTUhBTFA5MTVrUVh1TVFteDBaYVhpZWdXaE5XaV9KUjN6ZXlmdzhOUQ?oc=5",
+        "date": "2025-11-06",
+        "title": "Globalstar to expand ground infrastructure across Brazil - Developing Telecoms",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVmVWZmhDWGJLX2E3cERpdktXVnUtMFNrMXo4WUkzT1JTb1FLd0dLak1RWkI4WGVPZGIxMGx2SU9BWWw3Q2tlLU12YkRfT0otanA0clpBaDNpRWR5d3RiVmFIWTZMdWNxcmE5dnNpTGpVbl91T19iQWFIcHNvejM5M1JoMDBVbERUTjhwaXEyTGkxNlBWYlBoeXVpQ3ZzUUpIZEpVd2hiaVFiUGFqQkQzMG1wZmJNNnpaYmxjS1BrTUhBTFA5MTVrUVh1TVFteDBaYVhpZWdXaE5XaV9KUjN6ZXlmdzhOUQ?oc=5\" target=\"_blank\">Globalstar to expand ground infrastructure across Brazil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Developing Telecoms</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdjVqLVhVSFFiRjVDVkg4R3RtT2ktcWEydWZocHVSYVNjcTRONjd3QzE0UWY3cElWWkxqZEZGRjlWalhKTWNPR3lmRnpUNVNvU0RxM25zZmNXY0ZfMV95NlcxdTdEdVo5dmU3STBWM3luSkc0NlRRcFhZb0NGdEUwMEY1NWp1NnN6eHJSTFBlT3didzU5Z2Qwa2h5S2tGQUp3S2lwN1BzSmpoVmJqQ3Fmc0VjS3hhSkxhMEpKVllfVkxQTFkxaGZMRjd3?oc=5",
+        "date": "2025-11-06",
+        "title": "Earnings call transcript: Badger Infrastructure Q3 2025 results show growth - Investing.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOdjVqLVhVSFFiRjVDVkg4R3RtT2ktcWEydWZocHVSYVNjcTRONjd3QzE0UWY3cElWWkxqZEZGRjlWalhKTWNPR3lmRnpUNVNvU0RxM25zZmNXY0ZfMV95NlcxdTdEdVo5dmU3STBWM3luSkc0NlRRcFhZb0NGdEUwMEY1NWp1NnN6eHJSTFBlT3didzU5Z2Qwa2h5S2tGQUp3S2lwN1BzSmpoVmJqQ3Fmc0VjS3hhSkxhMEpKVllfVkxQTFkxaGZMRjd3?oc=5\" target=\"_blank\">Earnings call transcript: Badger Infrastructure Q3 2025 results show growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZXZTc1BKR3JBZjNkNk8zbjRLYjA3dWxKQUFJLTJocGt2TDNFdXFWSkdWb0ExYzdWb0Z4a08za2lHZzZIS0MtaGVfZy0yVFdmdmdpU2Q1OGVILW5Qb1A1ZWNfOXFhQjJEZFdfcmdCZWE3MUZSRWZoNTZJWWRnanFZeUx3?oc=5",
+        "date": "2025-11-06",
+        "title": "Why the future of the datacenter is the infrastructure operating system - theregister.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZXZTc1BKR3JBZjNkNk8zbjRLYjA3dWxKQUFJLTJocGt2TDNFdXFWSkdWb0ExYzdWb0Z4a08za2lHZzZIS0MtaGVfZy0yVFdmdmdpU2Q1OGVILW5Qb1A1ZWNfOXFhQjJEZFdfcmdCZWE3MUZSRWZoNTZJWWRnanFZeUx3?oc=5\" target=\"_blank\">Why the future of the datacenter is the infrastructure operating system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theregister.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeE1mRFM1Zzl1WHYtTnRqRnEyVlNqWklVNm5hcTJzMEZLZWVUTThIb3cwLVBNTFdqOENnVFV2bFI2SDRfYi1sbGdibklIb3JfNmg2ZVhNZUVuY0JOajZpREt4S2p5Q0tkUWFqNzhoVGZHZDdDWDl4RV9uLVlaaVNJaHdJcW0wWTht?oc=5",
+        "date": "2025-11-06",
+        "title": "#PTVNewsTonight | DOST says solutions to flooding should not rely solely on infrastructure - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeE1mRFM1Zzl1WHYtTnRqRnEyVlNqWklVNm5hcTJzMEZLZWVUTThIb3cwLVBNTFdqOENnVFV2bFI2SDRfYi1sbGdibklIb3JfNmg2ZVhNZUVuY0JOajZpREt4S2p5Q0tkUWFqNzhoVGZHZDdDWDl4RV9uLVlaaVNJaHdJcW0wWTht?oc=5\" target=\"_blank\">#PTVNewsTonight | DOST says solutions to flooding should not rely solely on infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcllCclFuSlljWGFfS0xZUmRUREpnMUUzVG9FVFMyaXhDRUpQXzVWU1dvYXBaZFJNdzVuaFRnNXJYaWxYSVNoVDlwdFMyZGJxOVpDTktOaG91N3YyVkl5anhOd256eWtlR2xKc0NTQzhLUlM2TjRXN3Z6UUtubGhjSWVoN3kwTDdrODFmT2pXc2RJbnlNMlE?oc=5",
+        "date": "2025-11-06",
+        "title": "Ares \u2018brings a scalpel\u2019 to infrastructure secondaries - Infrastructure Investor",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPcllCclFuSlljWGFfS0xZUmRUREpnMUUzVG9FVFMyaXhDRUpQXzVWU1dvYXBaZFJNdzVuaFRnNXJYaWxYSVNoVDlwdFMyZGJxOVpDTktOaG91N3YyVkl5anhOd256eWtlR2xKc0NTQzhLUlM2TjRXN3Z6UUtubGhjSWVoN3kwTDdrODFmT2pXc2RJbnlNMlE?oc=5\" target=\"_blank\">Ares \u2018brings a scalpel\u2019 to infrastructure secondaries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infrastructure Investor</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOOWlhdDcyS3VtUVZnM21DVlZVM3NsVE1zcmNKU0hpWXFnZEhPTXQwSUFUSHUwakstVk9fTHo2aEtiZDQya1ZiUnl1WGNnaldoeG5OaFRnMGVBamJVREFtUjVINTBVUUp4c3hwV2VTaks1c3RpX3MzNmdGWUxBa0xaa0JBSzJUX3ZHczRGOUp3MmprTXRqUXV4NzNUTHlUbTFrOWViU2gtMzJXMENVSWxFRXUxWUUxQTNXU0s5VEpWaE9UbWUwVGFBanMtdUhOZEw2TGpZSHFoektQM3hiVE53RUpXQkFORUVrZXBjZkplWHBsMmJEbUR4SWc5MUlZRC1pNmZ1YW13VlRTdk4zT2tUQkFuZlFGbVMtQlVZZUNSTEo4Rk0?oc=5",
+        "date": "2025-11-06",
+        "title": "Europe Wires and Cables Market Forecast and Trends - GlobeNewswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxOOWlhdDcyS3VtUVZnM21DVlZVM3NsVE1zcmNKU0hpWXFnZEhPTXQwSUFUSHUwakstVk9fTHo2aEtiZDQya1ZiUnl1WGNnaldoeG5OaFRnMGVBamJVREFtUjVINTBVUUp4c3hwV2VTaks1c3RpX3MzNmdGWUxBa0xaa0JBSzJUX3ZHczRGOUp3MmprTXRqUXV4NzNUTHlUbTFrOWViU2gtMzJXMENVSWxFRXUxWUUxQTNXU0s5VEpWaE9UbWUwVGFBanMtdUhOZEw2TGpZSHFoektQM3hiVE53RUpXQkFORUVrZXBjZkplWHBsMmJEbUR4SWc5MUlZRC1pNmZ1YW13VlRTdk4zT2tUQkFuZlFGbVMtQlVZZUNSTEo4Rk0?oc=5\" target=\"_blank\">Europe Wires and Cables Market Forecast and Trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVW1pUVVDbUtTSW1YcVlIQ20xZTVmdHAtal94OGpGQ0hVUENYMDBiM1M5bXQ1SmR0cC1Kb2ZiMDFYSVY3VFY3QlBybU80Zm9KMHNwLXU3ZUVoM055d3hTQWhwTWl0ZzJLMGNKN19tRkZ2LWVMREFhYUt4eUl5X2lWdk5QMTJ1TFp2Tml3akwzY285dWdaTFhsYXptOVRWVXNyTUpwcTR4aEd0M1BjRjc5UXQwTVVMaVQt?oc=5",
+        "date": "2025-11-06",
+        "title": "Union Minister Manohar Lal to inaugurate 18th Urban Mobility India Conference on November 7 - DD News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVW1pUVVDbUtTSW1YcVlIQ20xZTVmdHAtal94OGpGQ0hVUENYMDBiM1M5bXQ1SmR0cC1Kb2ZiMDFYSVY3VFY3QlBybU80Zm9KMHNwLXU3ZUVoM055d3hTQWhwTWl0ZzJLMGNKN19tRkZ2LWVMREFhYUt4eUl5X2lWdk5QMTJ1TFp2Tml3akwzY285dWdaTFhsYXptOVRWVXNyTUpwcTR4aEd0M1BjRjc5UXQwTVVMaVQt?oc=5\" target=\"_blank\">Union Minister Manohar Lal to inaugurate 18th Urban Mobility India Conference on November 7</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DD News</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbjJCLW42RERTUEdfcGQtSk1qNXJHczF3UTJwTnpJaDR4NGhfZzNLUDVqRjlseWhYcjdTY3I5OGpSbFY0TklndE1LYUwxaXl4empEV1lJMllpX09rVi10NkRCLWZ3QnBBMGRMLUhULWhUNlRsUlkwRjFvOExoanFnS2FabmlDbk5aZFQzb0FUSWNlMXBY?oc=5",
+        "date": "2025-11-06",
+        "title": "Delhi: Mizoram officers pick up smart city tips at NDMC - IANS LIVE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNbjJCLW42RERTUEdfcGQtSk1qNXJHczF3UTJwTnpJaDR4NGhfZzNLUDVqRjlseWhYcjdTY3I5OGpSbFY0TklndE1LYUwxaXl4empEV1lJMllpX09rVi10NkRCLWZ3QnBBMGRMLUhULWhUNlRsUlkwRjFvOExoanFnS2FabmlDbk5aZFQzb0FUSWNlMXBY?oc=5\" target=\"_blank\">Delhi: Mizoram officers pick up smart city tips at NDMC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IANS LIVE</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUFotblBXWTdhaHpjelpLUHVxRWkyNnJtd3ZEdWY1QmNSVUFQSEhRdTloeW5NZFNqeFhsV3BXUEd5emRyMmUxWFRUcHlVWFJVSW40VkpTSlBEZ0lIVk1WcFNpZG9IMFJSTVZEU29fZ0lBU1I1OTVHRl9LWDZGOG41bjQtNDgzMWlRNkpoTTAyR1RLTnU0NmRPcmZwLUc?oc=5",
+        "date": "2025-11-06",
+        "title": "City of Temple Recognized for Urban Planning Excellence - Prowly",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUFotblBXWTdhaHpjelpLUHVxRWkyNnJtd3ZEdWY1QmNSVUFQSEhRdTloeW5NZFNqeFhsV3BXUEd5emRyMmUxWFRUcHlVWFJVSW40VkpTSlBEZ0lIVk1WcFNpZG9IMFJSTVZEU29fZ0lBU1I1OTVHRl9LWDZGOG41bjQtNDgzMWlRNkpoTTAyR1RLTnU0NmRPcmZwLUc?oc=5\" target=\"_blank\">City of Temple Recognized for Urban Planning Excellence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prowly</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2lUTDRNWjNwWkpOb2hmQlAwMmY4NHVYSlFvSl9VZDJBZGtZUEp6WVVKc083NGRhRm1JUHFoYWc1YnhyZkxyd0hrNkx0YlVTT08zNnNRbzZKUjhvemhVallJX2UwOElkVkgwcVN6Zk5GYjgyZEp3R29lV1VsRU16SGtNbklUUXZRV2RFeE5TMGVxRUIzdVNaaGlyaVd4OUw4V1ZUTA?oc=5",
+        "date": "2025-11-06",
+        "title": "Budapest Wins Global Smart Green City Award for Climate Strategy - Hungarian Conservative",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPc2lUTDRNWjNwWkpOb2hmQlAwMmY4NHVYSlFvSl9VZDJBZGtZUEp6WVVKc083NGRhRm1JUHFoYWc1YnhyZkxyd0hrNkx0YlVTT08zNnNRbzZKUjhvemhVallJX2UwOElkVkgwcVN6Zk5GYjgyZEp3R29lV1VsRU16SGtNbklUUXZRV2RFeE5TMGVxRUIzdVNaaGlyaVd4OUw4V1ZUTA?oc=5\" target=\"_blank\">Budapest Wins Global Smart Green City Award for Climate Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hungarian Conservative</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPOG9Pdm1FM1kyQ0NWbFlwa1ZkVlgwSngyNFNjTmluSW9KXzN5dm5JQ3pvQVpSWkFfSkc3a3ZfdDhRNTZOZUc3c2ZlN1dwOXNrNVZ1dlo4T2Mxa2R1ZGQ4M2xJSUlLT3V1RWVOZndMNUlSTjByc1Rad19tN3c2dThOenlBYUZWbEtxWHZzSmZSY0FyY1lDZ2N0MXBncEhCOU1fZTJNTVI1VnVOMlBjblFZc2FORUl5dVZJcUdNVHpCN3hhTmQ3dHBKLVdmRHFTaHIwVEtXZkxzWVhLVEZwQS11aTZEVzlwdDlYYXZHcTdzMnQ5UVBTVGxReE5NRVptcjl0UE9IRURMR2wtblppS3plbzM3cGlob3lFeF8yMFlocFFQM0p5eWJEb1lneFpmYU5WVFZrTXkyZkM1b3lQSi1ra2FIQXMxOUx2RU5xNmxrcVFVNnlJblhrcGRfVXRhNW01Z09mQjZPTQ?oc=5",
+        "date": "2025-11-06",
+        "title": "Saudi Arabia Lighting Growth Analysis Report 2025-2034: - GlobeNewswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxPOG9Pdm1FM1kyQ0NWbFlwa1ZkVlgwSngyNFNjTmluSW9KXzN5dm5JQ3pvQVpSWkFfSkc3a3ZfdDhRNTZOZUc3c2ZlN1dwOXNrNVZ1dlo4T2Mxa2R1ZGQ4M2xJSUlLT3V1RWVOZndMNUlSTjByc1Rad19tN3c2dThOenlBYUZWbEtxWHZzSmZSY0FyY1lDZ2N0MXBncEhCOU1fZTJNTVI1VnVOMlBjblFZc2FORUl5dVZJcUdNVHpCN3hhTmQ3dHBKLVdmRHFTaHIwVEtXZkxzWVhLVEZwQS11aTZEVzlwdDlYYXZHcTdzMnQ5UVBTVGxReE5NRVptcjl0UE9IRURMR2wtblppS3plbzM3cGlob3lFeF8yMFlocFFQM0p5eWJEb1lneFpmYU5WVFZrTXkyZkM1b3lQSi1ra2FIQXMxOUx2RU5xNmxrcVFVNnlJblhrcGRfVXRhNW01Z09mQjZPTQ?oc=5\" target=\"_blank\">Saudi Arabia Lighting Growth Analysis Report 2025-2034:</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.smartcitiesdive.com/news/housing-ballot-measures-election-results/804840/",
+        "date": "2025-11-06",
+        "title": "How 8 housing-related proposals fared in November\u2019s elections",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/BqICEqpP5g-xHTg-biXRAdcSld-NHAo1pax5b6WJyj8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ0OTk2MzA3LmpwZw==.webp\" /></div></figure><p>Ballot measures in Colorado, Montana, New York and Washington saw mixed results on Nov. 4.</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
