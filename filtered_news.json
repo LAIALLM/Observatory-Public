@@ -2564,5 +2564,12 @@
         "tweet": "\ud83c\udde8\ud83c\uddf3 China: 2025 target \u2014 50,000 km of 250+ km/h high-speed rail.\n\n\ud83c\uddfa\ud83c\uddf8 United States: 2025 \u2014 0 km of 250+ km/h high-speed rail in service.",
         "type": "statistical",
         "category": "infrastructural projects"
+    },
+    {
+        "link": null,
+        "date": "2025-11-06",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8: 40% of Bitcoin hash rate, annual energy spend $2B at $0.04/kWh in Texas hubs.\n\n\ud83c\uddfa\ud83c\uddf8: 35% of Solana validators, but PoS cuts total network energy costs 99.95% vs Bitcoin's PoW.\n\nGeographic overlap boosts efficiency, yet Bitcoin's concentration risks $500M in outage losses yearly",
+        "type": "crypto"
     }
 ]
