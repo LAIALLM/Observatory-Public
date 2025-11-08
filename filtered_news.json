@@ -2594,5 +2594,12 @@
         "status": "posted",
         "tweet": "Alphabet's \ud83c\uddfa\ud83c\uddf8 Iowa data center processed 12 exabytes daily in 2025, up 20% from 2024.\n\n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-11-08",
+        "status": "posted",
+        "tweet": "Bitcoin: 7 TPS  \n150 TWh annual energy cost  \n\nSolana: 2,000 TPS  \n0.01 TWh annual energy cost  \n\nSolana delivers 285x throughput at 15,000x lower energy use.",
+        "type": "crypto"
     }
 ]
