@@ -2642,5 +2642,35 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Infrastructure projects worth Rs 2 lakh crore underway in Uttarakhand, says PM Modi.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWVU4SWZPN1pfSy1rWHJrdEZmaG94TkVFVXdDX0Z3UXpiM1VYTXg3dlhidUM2U1dnX1ZUTXA2UFlnYjhfc3N0aHo2YWtVb1RjUnpvaDNOT3VIMW1xZDdxWGt1X3huLWdLdlhZX3RqWHBYT0UwcURjYW9scXpKSEp6M05wWWtCNnlBNmxXMVhqRGNNUQ?oc=5",
+        "date": "2025-11-09",
+        "title": "Croatia\u2019s construction sector continues to grow, now 7% of GDP - Croatia Week",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPWVU4SWZPN1pfSy1rWHJrdEZmaG94TkVFVXdDX0Z3UXpiM1VYTXg3dlhidUM2U1dnX1ZUTXA2UFlnYjhfc3N0aHo2YWtVb1RjUnpvaDNOT3VIMW1xZDdxWGt1X3huLWdLdlhZX3RqWHBYT0UwcURjYW9scXpKSEp6M05wWWtCNnlBNmxXMVhqRGNNUQ?oc=5\" target=\"_blank\">Croatia\u2019s construction sector continues to grow, now 7% of GDP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Croatia Week</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ25nSF9LQW44N0VmNjRUZy13ZFpmYjZyMVVEQzJqaG5mQzgtNG5NbDFFX2ZUQ0JMQ3FkUkVtX29oanprUkZOdlFUdGtzVUQ1N3JxNUVTc1ZBUDY1WTBPOTZuRzFlRS1oTkdxUG5xdi1ZSVJTcFVnV09HQTdmMnUxUmc2Wlh5dmJNQTN1ME9Dbl9RMy1xR1JnUWQ0MA?oc=5",
+        "date": "2025-11-09",
+        "title": "Published on: 2025-11-09 17:09:44 - earlytimes.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ25nSF9LQW44N0VmNjRUZy13ZFpmYjZyMVVEQzJqaG5mQzgtNG5NbDFFX2ZUQ0JMQ3FkUkVtX29oanprUkZOdlFUdGtzVUQ1N3JxNUVTc1ZBUDY1WTBPOTZuRzFlRS1oTkdxUG5xdi1ZSVJTcFVnV09HQTdmMnUxUmc2Wlh5dmJNQTN1ME9Dbl9RMy1xR1JnUWQ0MA?oc=5\" target=\"_blank\">Published on: 2025-11-09 17:09:44</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">earlytimes.in</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1hVMFVsNGViTEYtUlA0LWxZQ3lsTE03MlktblFfbFhIZ01sbTRIcXpRVTY4Wm9WYUMtbVpSaGZadzZJaWFLWXVnR0RtYld3SnVIYkN2dkdUYi1Fb0JBU0ZpVE01WlhuOHZ1WmJnYktUNFF4eFpJTEFYUXlQU2hIdDh0Xzg4UQ?oc=5",
+        "date": "2025-11-09",
+        "title": "Europe\u2019s Green Deal in the age of smart technology - Times of Malta",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1hVMFVsNGViTEYtUlA0LWxZQ3lsTE03MlktblFfbFhIZ01sbTRIcXpRVTY4Wm9WYUMtbVpSaGZadzZJaWFLWXVnR0RtYld3SnVIYkN2dkdUYi1Fb0JBU0ZpVE01WlhuOHZ1WmJnYktUNFF4eFpJTEFYUXlQU2hIdDh0Xzg4UQ?oc=5\" target=\"_blank\">Europe\u2019s Green Deal in the age of smart technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of Malta</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
