@@ -2495,5 +2495,12 @@
         "status": "posted",
         "tweet": "65% of Bitcoin's hashrate concentrates in \ud83c\uddfa\ud83c\uddf8 (38%), \ud83c\uddf0\ud83c\uddff (18%), and \ud83c\uddf7\ud83c\uddfa (9%), driving $6B+ annual energy costs from volatile regional grids.\n\nEthereum's validators spread across 55% in \ud83c\uddfa\ud83c\uddf8 (29%), \ud83c\udde9\ud83c\uddea (17%), and \ud83c\uddeb\ud83c\uddf7 (9%), limiting infra costs to ~$500M yearly via decentralization.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-11-09",
+        "status": "posted",
+        "tweet": "Google's \ud83c\uddfa\ud83c\uddf8 data centers hit 15 GW peak power capacity in 2025, up 20% from 2024.\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
