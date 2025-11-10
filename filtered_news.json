@@ -2466,5 +2466,35 @@
         "status": "posted",
         "tweet": "Bitcoin PoW network: 150 TWh annual energy for scalability/security, ~$7.5B cost (2025 est.).\n\nEthereum PoS: 0.1 TWh, ~$5M.\n\n1,500x efficiency gain post-Merge enables better scaling at lower infra cost.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbF9vWENubFZpaXJqXzB2dC1fck5Gb04xQ2FPS3lOZmVndlFPdVlmRDVyWGJmc1VZR0Y5OEVUXzB0RkxUNUNyTlNQb3JhVFA4djMwQnFSaG5RWkFydWNvMEY1Nkg3ZUMzODM3ZFdURGplS0pZM1pJZXJ2UG9EMzhTZ2NaUlkxMWE5QmFUR2NibFdaTEdYcF9hNEg4UXlEVkhQdkRrNg?oc=5",
+        "date": "2025-11-10",
+        "title": "Big Tech giants poised to spend $400B on AI, cloud infrastructure - Communications Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQbF9vWENubFZpaXJqXzB2dC1fck5Gb04xQ2FPS3lOZmVndlFPdVlmRDVyWGJmc1VZR0Y5OEVUXzB0RkxUNUNyTlNQb3JhVFA4djMwQnFSaG5RWkFydWNvMEY1Nkg3ZUMzODM3ZFdURGplS0pZM1pJZXJ2UG9EMzhTZ2NaUlkxMWE5QmFUR2NibFdaTEdYcF9hNEg4UXlEVkhQdkRrNg?oc=5\" target=\"_blank\">Big Tech giants poised to spend $400B on AI, cloud infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications Today</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3k2TExoNTBRNElBb3lqQVZLUTBFLWJzWjBULUdIX1hDRE9DS3dCRHZPUTJEMDlzclFNTXZBeGs1Tmo5bzNDVmlBZHFzNENLYjhEeUEyV0JTQ0h5Qjkwdkl6aGVkaGNUZWJqS2xpSUcwbHBFZjJ0ZFdILVJnUFVVUXc4VGJyeTR2V3E2dGoxbHFab01kdVQ2c3hRLVowX2d6dmN6Z2NHSjlQSkNWWkVmaHlrcw?oc=5",
+        "date": "2025-11-10",
+        "title": "Odisha wins National Recognition for Sustainable Urban Mobility with CRUT initiatives - Prameyanews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3k2TExoNTBRNElBb3lqQVZLUTBFLWJzWjBULUdIX1hDRE9DS3dCRHZPUTJEMDlzclFNTXZBeGs1Tmo5bzNDVmlBZHFzNENLYjhEeUEyV0JTQ0h5Qjkwdkl6aGVkaGNUZWJqS2xpSUcwbHBFZjJ0ZFdILVJnUFVVUXc4VGJyeTR2V3E2dGoxbHFab01kdVQ2c3hRLVowX2d6dmN6Z2NHSjlQSkNWWkVmaHlrcw?oc=5\" target=\"_blank\">Odisha wins National Recognition for Sustainable Urban Mobility with CRUT initiatives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prameyanews.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdXRkRjU4TUFBbFBYWXJYYXZSTjhwaHFRS0ZhQmpnQnRyTVFZYzh1S2w1VG1DdFd6TFFac085MXBueVN6dVJjcVNoZjlpcFJ0S3QwVkxtdTUwT29ncE1MU19BVGdiQXNmdDVqRmZVaTIzVDVVM3BmLUZ4Njk1MlBSelE3WlFVMXhneHN1U2UzZDJKRXZTdjZweEY2dHBnZjhNRjduUjduWnpyRmNNRW5kNjIwNjB4QdIBtgFBVV95cUxNdXRkRjU4TUFBbFBYWXJYYXZSTjhwaHFRS0ZhQmpnQnRyTVFZYzh1S2w1VG1DdFd6TFFac085MXBueVN6dVJjcVNoZjlpcFJ0S3QwVkxtdTUwT29ncE1MU19BVGdiQXNmdDVqRmZVaTIzVDVVM3BmLUZ4Njk1MlBSelE3WlFVMXhneHN1U2UzZDJKRXZTdjZweEY2dHBnZjhNRjduUjduWnpyRmNNRW5kNjIwNjB4QQ?oc=5",
+        "date": "2025-11-10",
+        "title": "Urban Mobility India Conference 2025: CRUT\u2019s Ama Bus, Ama E-Ride bag special mention award - orissapost.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNdXRkRjU4TUFBbFBYWXJYYXZSTjhwaHFRS0ZhQmpnQnRyTVFZYzh1S2w1VG1DdFd6TFFac085MXBueVN6dVJjcVNoZjlpcFJ0S3QwVkxtdTUwT29ncE1MU19BVGdiQXNmdDVqRmZVaTIzVDVVM3BmLUZ4Njk1MlBSelE3WlFVMXhneHN1U2UzZDJKRXZTdjZweEY2dHBnZjhNRjduUjduWnpyRmNNRW5kNjIwNjB4QdIBtgFBVV95cUxNdXRkRjU4TUFBbFBYWXJYYXZSTjhwaHFRS0ZhQmpnQnRyTVFZYzh1S2w1VG1DdFd6TFFac085MXBueVN6dVJjcVNoZjlpcFJ0S3QwVkxtdTUwT29ncE1MU19BVGdiQXNmdDVqRmZVaTIzVDVVM3BmLUZ4Njk1MlBSelE3WlFVMXhneHN1U2UzZDJKRXZTdjZweEY2dHBnZjhNRjduUjduWnpyRmNNRW5kNjIwNjB4QQ?oc=5\" target=\"_blank\">Urban Mobility India Conference 2025: CRUT\u2019s Ama Bus, Ama E-Ride bag special mention award</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">orissapost.com</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
