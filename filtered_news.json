@@ -2767,5 +2767,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: India charts future of urban transport at UMI 2025, with mobility as backbone of development",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-10",
+        "status": "posted",
+        "tweet": "NVIDIA's \ud83c\uddfa\ud83c\uddf8 Texas AI data center cluster delivered 2.5 exaFLOPS of compute power daily in Q2 2025.\n\n$NVDA",
+        "type": "infrastructure"
     }
 ]
