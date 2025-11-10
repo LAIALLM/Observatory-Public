@@ -2459,5 +2459,12 @@
         "status": "posted",
         "tweet": "(\ud83c\uddf8\ud83c\udde6) NEWS: Saudi Arabia ramps up mass tourism with luxury resorts and upgraded Hajj infrastructure to welcome millions more visitors.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-10",
+        "status": "posted",
+        "tweet": "Bitcoin PoW network: 150 TWh annual energy for scalability/security, ~$7.5B cost (2025 est.).\n\nEthereum PoS: 0.1 TWh, ~$5M.\n\n1,500x efficiency gain post-Merge enables better scaling at lower infra cost.",
+        "type": "crypto"
     }
 ]
