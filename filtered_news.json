@@ -2576,5 +2576,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-11-10",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China: 70,000 km of high-speed rail by 2035 (government plan).",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
