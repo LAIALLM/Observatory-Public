@@ -2613,5 +2613,13 @@
         "status": "posted",
         "tweet": "Google's data centers processed 12 zettabytes of data in 2025, up 20% from 2024.\n\n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-11-11",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 U.S. manufacturing construction spending\n2025 (projected): $220B\u2013$240B vs 2023: ~$197B",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
