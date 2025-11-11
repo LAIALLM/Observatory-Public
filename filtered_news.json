@@ -2599,5 +2599,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-11-11",
+        "status": "posted",
+        "tweet": "Bitcoin's 2025 security costs via proof-of-work mining: $16B annually.\n\nThis covers 160 TWh electricity at $0.10/kWh and $4B hardware depreciation for global infrastructure maintenance.",
+        "type": "crypto"
     }
 ]
