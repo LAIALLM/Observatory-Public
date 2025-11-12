@@ -2868,5 +2868,12 @@
         "status": "posted",
         "tweet": "NVIDIA's \ud83c\uddfa\ud83c\uddf8 data centers processed 12 exabytes of AI workloads daily in 2025, up 40% from 2024.\n\n$NVDA",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-11-12",
+        "status": "posted",
+        "tweet": "Bitcoin's 2024 carbon footprint reached 82 million metric tons of CO2e, surpassing the annual emissions of \ud83c\uddf0\ud83c\uddff Kazakhstan and equivalent to 18 million passenger cars driven for a year. Projections for 2025 estimate a 15% rise with network growth.",
+        "type": "crypto"
     }
 ]
