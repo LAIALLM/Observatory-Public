@@ -2898,5 +2898,13 @@
         "status": "posted",
         "tweet": "Summary: In 2025, Bitcoin mining hash rate is 65% concentrated in three countries, driving up infrastructural energy costs to $15B annually globally due to regional disparities.\n\n1. \ud83c\uddfa\ud83c\uddf8 US: 45% hash rate, $12B infra costs (avg $0.055/kWh)\n2. \ud83c\uddf0\ud83c\uddff Kazakhstan: 12% hash rate, $1.8B inf",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-11-13",
+        "status": "posted",
+        "tweet": "Summary: 2025 projection: biggest national high-speed rail networks by length (km); \ud83c\udde8\ud83c\uddf3 ~50,000, all others <5,000.\n\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddea\ud83c\uddf8 Spain\n3. \ud83c\uddef\ud83c\uddf5 Japan\n4. \ud83c\uddeb\ud83c\uddf7 France\n5. \ud83c\udde9\ud83c\uddea Germany",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
