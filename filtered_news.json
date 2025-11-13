@@ -2891,5 +2891,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfb\ud83c\uddf3 NEWS: KBC, AIC, and VietinBank to develop AI data centre in Ho Chi Minh City",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-13",
+        "status": "posted",
+        "tweet": "Summary: In 2025, Bitcoin mining hash rate is 65% concentrated in three countries, driving up infrastructural energy costs to $15B annually globally due to regional disparities.\n\n1. \ud83c\uddfa\ud83c\uddf8 US: 45% hash rate, $12B infra costs (avg $0.055/kWh)\n2. \ud83c\uddf0\ud83c\uddff Kazakhstan: 12% hash rate, $1.8B inf",
+        "type": "crypto"
     }
 ]
