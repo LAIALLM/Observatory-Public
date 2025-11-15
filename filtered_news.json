@@ -2990,5 +2990,19 @@
         "tweet": "2025: \ud83c\uddee\ud83c\udde9 Indonesia ~282M vs \ud83c\uddf5\ud83c\uddf0 Pakistan ~244M.\n\n2050: \ud83c\uddee\ud83c\udde9 Indonesia ~317M vs \ud83c\uddf5\ud83c\uddf0 Pakistan ~366M.",
         "type": "statistical",
         "category": "population"
+    },
+    {
+        "link": null,
+        "date": "2025-11-15",
+        "status": "posted",
+        "tweet": "Microsoft Azure's global infrastructure hit 10 zettabytes of storage capacity in 2025, up 25% YoY.\n\n$MSFT",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-11-15",
+        "status": "posted",
+        "tweet": "Summary: In 2025, Solana offers the lowest infrastructural cost per transaction throughput at $20K/TPS, dwarfing Ethereum and Bitcoin.\n\n1. Solana: $20,000 per TPS (1,000 TPS, $20M annual infra cost)\n2. Ethereum: $3.3M per TPS (15 TPS, $50M annual infra cost)\n3. Bitcoin: $1.25B pe",
+        "type": "crypto"
     }
 ]
