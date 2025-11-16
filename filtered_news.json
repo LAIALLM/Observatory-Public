@@ -2610,5 +2610,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Navi Mumbai to get two new coastal roads to boost airport connectivity",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-16",
+        "status": "posted",
+        "tweet": "For urban development firms in the \ud83c\uddea\ud83c\uddfa European Union: 2025 CSRD phasing in to cover \u224850,000 companies vs 2023 NFRD \u224811,700.",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
