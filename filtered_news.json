@@ -2572,5 +2572,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Vision 2050 plan sets out to transform Jharkhand into a developed state by 2050.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-16",
+        "status": "posted",
+        "tweet": "Ethereum validator setup: $1,200 hardware, 32 ETH stake.  \nOver 850,000 active validators globally (2025).  \n\nSolana: $12,000 hardware, ~500 SOL effective stake.  \nJust 2,800 validators, 65% in \ud83c\uddfa\ud83c\uddf8US or \ud83c\uddf8\ud83c\uddecSingapore.  \n\nHigher costs centralize Solana validation.",
+        "type": "crypto"
     }
 ]
