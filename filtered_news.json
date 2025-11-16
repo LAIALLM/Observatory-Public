@@ -2658,5 +2658,12 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-11-16",
+        "status": "posted",
+        "tweet": "Microsoft's Azure infrastructure processed 1.5 zettabytes of data daily in Q2 2025, up 40% YoY.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
