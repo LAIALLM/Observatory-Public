@@ -2572,5 +2572,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddec\ud83c\udded NEWS: Ghana advances smart city development with photonic enhanced fiber networks.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-17",
+        "status": "posted",
+        "tweet": "Microsoft Azure's global data centers in 2025 handled 2.5 zettabytes of storage capacity, a 30% increase from 2024.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
