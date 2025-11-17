@@ -2812,5 +2812,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: IRB Infrastructure Developers $IRB shares climb 7% after bagging TOT project from NHAI in Uttar Pradesh",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-17",
+        "status": "posted",
+        "tweet": "Ethereum's annual energy costs fell 99.95% post-2022 Merge,  \nfrom ~$5B (112 TWh at $0.05/kWh)  \nto under $500K (0.01 TWh).  \n\nThis shift highlights PoS efficiency gains over PoW.",
+        "type": "crypto"
     }
 ]
