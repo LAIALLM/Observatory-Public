@@ -2819,5 +2819,13 @@
         "status": "posted",
         "tweet": "Ethereum's annual energy costs fell 99.95% post-2022 Merge,  \nfrom ~$5B (112 TWh at $0.05/kWh)  \nto under $500K (0.01 TWh).  \n\nThis shift highlights PoS efficiency gains over PoW.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-11-17",
+        "status": "posted",
+        "tweet": "Summary: Top 5 smart cities for 2025 per the 2024 IMD Smart City Index\n\n1. \ud83c\udde8\ud83c\udded Zurich/Switzerland\n2. \ud83c\uddf3\ud83c\uddf4 Oslo/Norway\n3. \ud83c\udde6\ud83c\uddfa Canberra/Australia\n4. \ud83c\udde8\ud83c\udded Geneva/Switzerland\n5. \ud83c\uddf8\ud83c\uddec Singapore/Singapore",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
