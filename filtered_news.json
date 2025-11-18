@@ -2828,5 +2828,12 @@
         "tweet": "2025: Global installed solar PV capacity exceeds 2 TW.",
         "type": "statistical",
         "category": "engineering projects"
+    },
+    {
+        "link": null,
+        "date": "2025-11-18",
+        "status": "posted",
+        "tweet": "In 2025, Amazon Web Services (AWS) data centers processed 2.5 zettabytes of data annually.\n\n$AMZN",
+        "type": "infrastructure"
     }
 ]
