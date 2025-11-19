@@ -2722,5 +2722,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Shinde orders resurfacing of Mumbai\u2019s flyovers by February",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-19",
+        "status": "posted",
+        "tweet": "Amazon Web Services processes 100 zettabytes of data annually in 2025 across its global infrastructure.\n\n$AMZN",
+        "type": "infrastructure"
     }
 ]
