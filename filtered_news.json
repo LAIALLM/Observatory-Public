@@ -1,272 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-11-09",
-        "status": "posted",
-        "tweet": "65% of Bitcoin's hashrate concentrates in \ud83c\uddfa\ud83c\uddf8 (38%), \ud83c\uddf0\ud83c\uddff (18%), and \ud83c\uddf7\ud83c\uddfa (9%), driving $6B+ annual energy costs from volatile regional grids.\n\nEthereum's validators spread across 55% in \ud83c\uddfa\ud83c\uddf8 (29%), \ud83c\udde9\ud83c\uddea (17%), and \ud83c\uddeb\ud83c\uddf7 (9%), limiting infra costs to ~$500M yearly via decentralization.",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2025-11-09",
-        "status": "posted",
-        "tweet": "Google's \ud83c\uddfa\ud83c\uddf8 data centers hit 15 GW peak power capacity in 2025, up 20% from 2024.\n\n$GOOGL",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1ozdjJqb2VIaktWenF6RmNsT2VqYTJqM1RtME5mUEYtRTdlcncwaWc2b3BsZFh3emY1RkdxbmF3bE9YdEVadjJGNENzaEJZNUkyUEUxcWtfZHFGUE1vcTZDaHhMSmJTNmMxbE9tRGVWUHQ1X29NSllhYzZEVGlwcVUydFBvQlNhdVluaTdfT0FQQk9DTjBhekh3eGhpcHhjaml0S2N2QXdqZlJFMHc1bjl4QnYwV1AxMDAzVHFzdWktbUJMdUZJSnVqM1lya0VBcHhsbk9rNV9JbU5fb2lLN2hvQXbSAfIBQVVfeXFMT0UtR20zUzROUWgxc0t5ZGlxWHBYYnhBWXpNVW9OS1dPQXNXOGQ5N1Jua1lSaVlrbzJMUGY3aDV6S25mY0ZBWFdMTGhxbWt6T0hscVNHbGs1MUhrQ0lqcGFIU1lNYTZqQUZ4RWFFZkRjMTJ0Ql9KNWl1TjlsMnUxSnZiNDlEOFc3SHVjR0xRc1RCcTljN1k1QVJRZUExZTA4LV96cG1fQmpMNU5ocVpic3lUakJ0RXBjcmdMU2pZVFREQ215N2dKMW1xMXlIeHRRcFIzMmRnSXNZbkhjUXdXc2hnMkJJeEdnOXFURk50TENWVUE?oc=5",
-        "date": "2025-11-09",
-        "title": "High-level panel gives nod for rural infrastructure works worth Rs 1,441 crore across Kerala - The New Indian Express",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1ozdjJqb2VIaktWenF6RmNsT2VqYTJqM1RtME5mUEYtRTdlcncwaWc2b3BsZFh3emY1RkdxbmF3bE9YdEVadjJGNENzaEJZNUkyUEUxcWtfZHFGUE1vcTZDaHhMSmJTNmMxbE9tRGVWUHQ1X29NSllhYzZEVGlwcVUydFBvQlNhdVluaTdfT0FQQk9DTjBhekh3eGhpcHhjaml0S2N2QXdqZlJFMHc1bjl4QnYwV1AxMDAzVHFzdWktbUJMdUZJSnVqM1lya0VBcHhsbk9rNV9JbU5fb2lLN2hvQXbSAfIBQVVfeXFMT0UtR20zUzROUWgxc0t5ZGlxWHBYYnhBWXpNVW9OS1dPQXNXOGQ5N1Jua1lSaVlrbzJMUGY3aDV6S25mY0ZBWFdMTGhxbWt6T0hscVNHbGs1MUhrQ0lqcGFIU1lNYTZqQUZ4RWFFZkRjMTJ0Ql9KNWl1TjlsMnUxSnZiNDlEOFc3SHVjR0xRc1RCcTljN1k1QVJRZUExZTA4LV96cG1fQmpMNU5ocVpic3lUakJ0RXBjcmdMU2pZVFREQ215N2dKMW1xMXlIeHRRcFIzMmRnSXNZbkhjUXdXc2hnMkJJeEdnOXFURk50TENWVUE?oc=5\" target=\"_blank\">High-level panel gives nod for rural infrastructure works worth Rs 1,441 crore across Kerala</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: High-level panel approves rural infrastructure projects worth Rs 1,441 crore across Kerala"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdUpCa21PZ3c3MnVULTQ1LUE1U2FqMGNyTTBKVlMyX0Q2Ql9jMVJtNDhHYllLanpVSEx4MlBLVGRzeTZxM2FreUtQYm8yU18teEZRTnRpN081SnhWcVpjZFpTU3VOREliQzBUYXFsNGhGQmZzbWRrUUVYdzA3ZHNfaEJLemJBdTRXTHkwQk02bHo1M0tIMGFtWFJ4eE03ZG41REcxZGtieVB0QUhXNDZlWTFrNzc3bkxfVWxyaTF4QU5hTFJRZG8taDVnWkpMenRxb2k1b9IB4gFBVV95cUxQSmQtQnBETjJhOW9tbFF4VHNSWGlUWmh6VVVPaWlacVdkMFM0Tmxrdlp3WG42dC1KSzNuSE1ZdGxJdDhiMXFOZkFzNXpobEdpNnFmTmtfUFo4a0FHU29LRkVjcUlvUHB6UmItZF93clcyVUgzeFo5MkFkRUdjbERwTklQTUxLQzl5dUN5WkdNYkZwaHZmN1J3ZFVBYTRzV2I3UDNpQXdFbm5XRnp6bmxNSUtHdFkyczRzTlVtdjRDYzF1NDUyTlNfRk9EMXhRemQtUXZHTUpMeXZwMkRqMHlhQjhR?oc=5",
-        "date": "2025-11-09",
-        "title": "Fix city infrastructure or quit: Karnataka LoP Ashoka to Deputy CM Shivakumar - The New Indian Express",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdUpCa21PZ3c3MnVULTQ1LUE1U2FqMGNyTTBKVlMyX0Q2Ql9jMVJtNDhHYllLanpVSEx4MlBLVGRzeTZxM2FreUtQYm8yU18teEZRTnRpN081SnhWcVpjZFpTU3VOREliQzBUYXFsNGhGQmZzbWRrUUVYdzA3ZHNfaEJLemJBdTRXTHkwQk02bHo1M0tIMGFtWFJ4eE03ZG41REcxZGtieVB0QUhXNDZlWTFrNzc3bkxfVWxyaTF4QU5hTFJRZG8taDVnWkpMenRxb2k1b9IB4gFBVV95cUxQSmQtQnBETjJhOW9tbFF4VHNSWGlUWmh6VVVPaWlacVdkMFM0Tmxrdlp3WG42dC1KSzNuSE1ZdGxJdDhiMXFOZkFzNXpobEdpNnFmTmtfUFo4a0FHU29LRkVjcUlvUHB6UmItZF93clcyVUgzeFo5MkFkRUdjbERwTklQTUxLQzl5dUN5WkdNYkZwaHZmN1J3ZFVBYTRzV2I3UDNpQXdFbm5XRnp6bmxNSUtHdFkyczRzTlVtdjRDYzF1NDUyTlNfRk9EMXhRemQtUXZHTUpMeXZwMkRqMHlhQjhR?oc=5\" target=\"_blank\">Fix city infrastructure or quit: Karnataka LoP Ashoka to Deputy CM Shivakumar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1ozdjJqb2VIaktWenF6RmNsT2VqYTJqM1RtME5mUEYtRTdlcncwaWc2b3BsZFh3emY1RkdxbmF3bE9YdEVadjJGNENzaEJZNUkyUEUxcWtfZHFGUE1vcTZDaHhMSmJTNmMxbE9tRGVWUHQ1X29NSllhYzZEVGlwcVUydFBvQlNhdVluaTdfT0FQQk9DTjBhekh3eGhpcHhjaml0S2N2QXdqZlJFMHc1bjl4QnYwV1AxMDAzVHFzdWktbUJMdUZJSnVqM1lya0VBcHhsbk9rNV9JbU5fb2lLN2hvQXbSAfIBQVVfeXFMT0UtR20zUzROUWgxc0t5ZGlxWHBYYnhBWXpNVW9OS1dPQXNXOGQ5N1Jua1lSaVlrbzJMUGY3aDV6S25mY0ZBWFdMTGhxbWt6T0hscVNHbGs1MUhrQ0lqcGFIU1lNYTZqQUZ4RWFFZkRjMTJ0Ql9KNWl1TjlsMnUxSnZiNDlEOFc3SHVjR0xRc1RCcTljN1k1QVJRZUExZTA4LV96cG1fQmpMNU5ocVpic3lUakJ0RXBjcmdMU2pZVFREQ215N2dKMW1xMXlIeHRRcFIzMmRnSXNZbkhjUXdXc2hnMkJJeEdnOXFURk50TENWVUE?oc=5",
-        "date": "2025-11-09",
-        "title": "High-level panel gives nod for rural infrastructure works worth Rs 1,441 crore across Kerala - The New Indian Express",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1ozdjJqb2VIaktWenF6RmNsT2VqYTJqM1RtME5mUEYtRTdlcncwaWc2b3BsZFh3emY1RkdxbmF3bE9YdEVadjJGNENzaEJZNUkyUEUxcWtfZHFGUE1vcTZDaHhMSmJTNmMxbE9tRGVWUHQ1X29NSllhYzZEVGlwcVUydFBvQlNhdVluaTdfT0FQQk9DTjBhekh3eGhpcHhjaml0S2N2QXdqZlJFMHc1bjl4QnYwV1AxMDAzVHFzdWktbUJMdUZJSnVqM1lya0VBcHhsbk9rNV9JbU5fb2lLN2hvQXbSAfIBQVVfeXFMT0UtR20zUzROUWgxc0t5ZGlxWHBYYnhBWXpNVW9OS1dPQXNXOGQ5N1Jua1lSaVlrbzJMUGY3aDV6S25mY0ZBWFdMTGhxbWt6T0hscVNHbGs1MUhrQ0lqcGFIU1lNYTZqQUZ4RWFFZkRjMTJ0Ql9KNWl1TjlsMnUxSnZiNDlEOFc3SHVjR0xRc1RCcTljN1k1QVJRZUExZTA4LV96cG1fQmpMNU5ocVpic3lUakJ0RXBjcmdMU2pZVFREQ215N2dKMW1xMXlIeHRRcFIzMmRnSXNZbkhjUXdXc2hnMkJJeEdnOXFURk50TENWVUE?oc=5\" target=\"_blank\">High-level panel gives nod for rural infrastructure works worth Rs 1,441 crore across Kerala</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: High-level panel approves rural infrastructure projects worth Rs 1,441 crore across Kerala",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNERlYktzc2RqMnQtdFQ1d2p0cURfRk1lSTlHZU1maThOTXo5MmVQZE15TFVCUVFsZEpLQ2VzNVdsMURuVHBQbDF6U09rWEp3RzJ3XzhTLU04Qmo0VFp4eG5HZmZZbVYtcGl4aEk5SmtjdUlKaHU5NFFWclFBTkR2YlljNXZwYWdBRVFZZkRVb9IBlAFBVV95cUxQNXdBOG0waGRqc2tLMHNaVjhWTjRKN0laT1JuRkIzb2xKRkpyWUNKNFh5aUp5N1ZGYlJ1cjVZWGJSZ3lvZFo0eUxmeEFGWFR6RWVoTFFzeU0xSU1DNTJ2dWZDZHZXelRubkU5dkJ1MEJUZEpXMzhXQk5vT0E3Q1dYTlQ0U2JWVU9xbi0xdmxPUE5RSHNI?oc=5",
-        "date": "2025-11-09",
-        "title": "Russian Drone Strike Damages Odessa Region Infrastructure - \u0411\u0443\u043a\u0432\u0438",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNNERlYktzc2RqMnQtdFQ1d2p0cURfRk1lSTlHZU1maThOTXo5MmVQZE15TFVCUVFsZEpLQ2VzNVdsMURuVHBQbDF6U09rWEp3RzJ3XzhTLU04Qmo0VFp4eG5HZmZZbVYtcGl4aEk5SmtjdUlKaHU5NFFWclFBTkR2YlljNXZwYWdBRVFZZkRVb9IBlAFBVV95cUxQNXdBOG0waGRqc2tLMHNaVjhWTjRKN0laT1JuRkIzb2xKRkpyWUNKNFh5aUp5N1ZGYlJ1cjVZWGJSZ3lvZFo0eUxmeEFGWFR6RWVoTFFzeU0xSU1DNTJ2dWZDZHZXelRubkU5dkJ1MEJUZEpXMzhXQk5vT0E3Q1dYTlQ0U2JWVU9xbi0xdmxPUE5RSHNI?oc=5\" target=\"_blank\">Russian Drone Strike Damages Odessa Region Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0411\u0443\u043a\u0432\u0438</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNQWw2SWVGNDRFa0txaXlxMEFQbjVNWFBuNkQ5NmU3MFZRYmdra1U0WlJwYW9kRk94OEllMGFZelNvSTZEUmcxSFhJNU84VFB3OVBLQ1EyMmRIV05veGFqMnZxV2R0TC1QMUpqcldwdDZtMUJQUzRLZ2hwb3RHYks5SzJ3dXdqUmw1QVN2Q1hlYnJkbXAzbHNCN2NBM3NUZjllbndGbWVZbmVQR2YzSkFINUdPNWdOQ3ZHMmFOWDd4S2VadVlqTXVCdnVxTVpaak5CWWd6RUVpZi1UYm9BeWZhVkVpWGJNWURwMWhrV05scVZmS0N3a2owOHh2M1NURUtmWUVpVzkyWm9fNkhsSkFCaVFmdTZCU3l3bkp5OVY0X0tBU3MyNExkaHNNZWsxcDg4MVk5SERB?oc=5",
-        "date": "2025-11-09",
-        "title": "Mumbai\u2019s Groundbreaking Gorai Mangrove Park Nears Completion With World-Class Eco-Tourism Features And A Promising New Theme Park Development In The Coastal Region - Travel And Tour World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgJBVV95cUxNQWw2SWVGNDRFa0txaXlxMEFQbjVNWFBuNkQ5NmU3MFZRYmdra1U0WlJwYW9kRk94OEllMGFZelNvSTZEUmcxSFhJNU84VFB3OVBLQ1EyMmRIV05veGFqMnZxV2R0TC1QMUpqcldwdDZtMUJQUzRLZ2hwb3RHYks5SzJ3dXdqUmw1QVN2Q1hlYnJkbXAzbHNCN2NBM3NUZjllbndGbWVZbmVQR2YzSkFINUdPNWdOQ3ZHMmFOWDd4S2VadVlqTXVCdnVxTVpaak5CWWd6RUVpZi1UYm9BeWZhVkVpWGJNWURwMWhrV05scVZmS0N3a2owOHh2M1NURUtmWUVpVzkyWm9fNkhsSkFCaVFmdTZCU3l3bkp5OVY0X0tBU3MyNExkaHNNZWsxcDg4MVk5SERB?oc=5\" target=\"_blank\">Mumbai\u2019s Groundbreaking Gorai Mangrove Park Nears Completion With World-Class Eco-Tourism Features And A Promising New Theme Park Development In The Coastal Region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlaHNuMmNqdE9aWHZtOGR4QXhWRUpNZU9pV2VQTlMyVU1VRUNOcmdCRHU3Mlc5bGIyWWJYTjZ3SHF6VWZFM01CdE1ZMnViZy1aTHNrSWpXOFY3SGJsdFg0VHZBV3VPbVpJbHNEbF9ndC0xbE81LUlKeWc3a0E?oc=5",
-        "date": "2025-11-09",
-        "title": "Cityscape Global 2025 to reimagine the future of living through human-centric design - Construction Week Online",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBlaHNuMmNqdE9aWHZtOGR4QXhWRUpNZU9pV2VQTlMyVU1VRUNOcmdCRHU3Mlc5bGIyWWJYTjZ3SHF6VWZFM01CdE1ZMnViZy1aTHNrSWpXOFY3SGJsdFg0VHZBV3VPbVpJbHNEbF9ndC0xbE81LUlKeWc3a0E?oc=5\" target=\"_blank\">Cityscape Global 2025 to reimagine the future of living through human-centric design</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Week Online</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2025-11-09",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York: Second Avenue Subway Phase 2 budget \u2248$3.2B/km (2025).\n\ud83c\uddee\ud83c\uddf3 Delhi: Metro Phase 4 (65 km) budget \u2248$3.7B \u2192 \u2248$57M/km (2025).\n\n1 km of subway in New York costs ~56\u00d7 Delhi.",
-        "type": "statistical",
-        "category": "urban planning"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOc0ZPbzBiRm9UMXo2bmxFT0l5YzAxR0VqenQ0dHRsMUVES1h4LU01cmdtSTRpVl9XbDJfVTBEQjFSX3NTZnU1S0hXal90Rk9ndXNjcF9wMm91UThTWXhxNGhjV1NaTE9BM3ZOMlpyNHlSQjJ3clY3MVdkc1ppbHRmUy1jSVhiUk9KeFBVaThuaExRQU55c1BEcGFiQmkycDRyVVpoZ3VkUUpqckl2bmFmc1VicWI3S21UbFJnNHc1blJ0VE1MNGRiNGUzZVlOVVVfMkdTSmVnYzA4VktGSVR0YlNFMVpTNWxLRk15eW1nbTNDakZHTFplQlNLZll3QTTSAYQCQVVfeXFMTjlrTHM4YmJxWndXQldEM00wOWlaamItRndEeE0yNFM3dzBJWUMtTjFWeUhCM2Vhb2t2LU9DUFd0MzVSMjAyajBqV1ZZVklQblFvOFdZdXJuaTlxRXVicHJFUFRTbHlYR2ZFQk91ZlYzMGJlVVlua3hYbVpoeXFQXzlqRklmM1pPTDF1VkpPcjRrb3hPTzRpVHF1X3hiUGhETXFXNlhLazM3MDZJSFJfczFmbktjVEdIN3R4MVd0S3BkSHItOHBjdmNuaEc4Z20ySzJJeGkxZzdOMkxhb3dIRkotZnY4TkF6SXZZM0hoU1pQWEF3TjJZWHdmWG9WVWJQTkdWeTE?oc=5",
-        "date": "2025-11-09",
-        "title": "Bengaluru man takes dig at Delhi\u2019s pollution, says, \u2018Potholes, yes\u2014but I am happy I can breathe here\u2019 | Bengaluru - Hindustan Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOc0ZPbzBiRm9UMXo2bmxFT0l5YzAxR0VqenQ0dHRsMUVES1h4LU01cmdtSTRpVl9XbDJfVTBEQjFSX3NTZnU1S0hXal90Rk9ndXNjcF9wMm91UThTWXhxNGhjV1NaTE9BM3ZOMlpyNHlSQjJ3clY3MVdkc1ppbHRmUy1jSVhiUk9KeFBVaThuaExRQU55c1BEcGFiQmkycDRyVVpoZ3VkUUpqckl2bmFmc1VicWI3S21UbFJnNHc1blJ0VE1MNGRiNGUzZVlOVVVfMkdTSmVnYzA4VktGSVR0YlNFMVpTNWxLRk15eW1nbTNDakZHTFplQlNLZll3QTTSAYQCQVVfeXFMTjlrTHM4YmJxWndXQldEM00wOWlaamItRndEeE0yNFM3dzBJWUMtTjFWeUhCM2Vhb2t2LU9DUFd0MzVSMjAyajBqV1ZZVklQblFvOFdZdXJuaTlxRXVicHJFUFRTbHlYR2ZFQk91ZlYzMGJlVVlua3hYbVpoeXFQXzlqRklmM1pPTDF1VkpPcjRrb3hPTzRpVHF1X3hiUGhETXFXNlhLazM3MDZJSFJfczFmbktjVEdIN3R4MVd0S3BkSHItOHBjdmNuaEc4Z20ySzJJeGkxZzdOMkxhb3dIRkotZnY4TkF6SXZZM0hoU1pQWEF3TjJZWHdmWG9WVWJQTkdWeTE?oc=5\" target=\"_blank\">Bengaluru man takes dig at Delhi\u2019s pollution, says, \u2018Potholes, yes\u2014but I am happy I can breathe here\u2019 | Bengaluru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdHBwSFJHdDlxNDZHY2JZakEtMC15TzBuRWlIRkZzeFB4dDlXOG95T0NGY3lqQ1pSTWIwS2xfNFhFeUVtaVJkWlNpMTZtTVVHb2J0Wko0Z3Q2Sk9QQzRXZzlSd0J0Z0NWYWRaTEFsYlpaUWd5YVVRTWZGdVBuZkZyMFUwVXpZT2lMazdOQTViaE5WUzhFLXNjX2Q1VEdnM09xWEdlTUMycnNFMlRHN1hOU1NGR3NLTEMzaXRmSUxwRGFyWTd3TWpiZw?oc=5",
-        "date": "2025-11-09",
-        "title": "Pune: Chandrakant Patil Pledges Resolution for Hinjawadi IT Park Woes and Wakad Infrastructure Issues - PUNE PULSE",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdHBwSFJHdDlxNDZHY2JZakEtMC15TzBuRWlIRkZzeFB4dDlXOG95T0NGY3lqQ1pSTWIwS2xfNFhFeUVtaVJkWlNpMTZtTVVHb2J0Wko0Z3Q2Sk9QQzRXZzlSd0J0Z0NWYWRaTEFsYlpaUWd5YVVRTWZGdVBuZkZyMFUwVXpZT2lMazdOQTViaE5WUzhFLXNjX2Q1VEdnM09xWEdlTUMycnNFMlRHN1hOU1NGR3NLTEMzaXRmSUxwRGFyWTd3TWpiZw?oc=5\" target=\"_blank\">Pune: Chandrakant Patil Pledges Resolution for Hinjawadi IT Park Woes and Wakad Infrastructure Issues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PUNE PULSE</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlrWEI1ckxnYUhJQmpqeFcyWjFnSjBERjdpallkVkxtMWRPZHA1OHE0ZC1RdVUtdHF1VDFXR3NTTUY2Q0VsQ0lyVTdLeEdCLTNyUm9LSEUxdVlQclc5NjIzSVRpV2JDclhkVUlSZVN5d01rdTM1aGRPTmVxQUZEUVV0TG9FazJJRE5mSnZhTVF1a0ZoUGVWNzlXMWoxX0FPd09iSmpfeWl4UHhQbjAzVGJzZWpxaHRNbXc?oc=5",
-        "date": "2025-11-09",
-        "title": "Hewlett Packard Enterprise: Valuing Their Transition Towards AI Infrastructure (NYSE:HPE) - Seeking Alpha",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlrWEI1ckxnYUhJQmpqeFcyWjFnSjBERjdpallkVkxtMWRPZHA1OHE0ZC1RdVUtdHF1VDFXR3NTTUY2Q0VsQ0lyVTdLeEdCLTNyUm9LSEUxdVlQclc5NjIzSVRpV2JDclhkVUlSZVN5d01rdTM1aGRPTmVxQUZEUVV0TG9FazJJRE5mSnZhTVF1a0ZoUGVWNzlXMWoxX0FPd09iSmpfeWl4UHhQbjAzVGJzZWpxaHRNbXc?oc=5\" target=\"_blank\">Hewlett Packard Enterprise: Valuing Their Transition Towards AI Infrastructure (NYSE:HPE)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTUF5dUhFNTNJazBsLUxGQ3daRG9GQ3NSLUhiWVBoRXc1ZG55SUd4SWtrOUpFOWtXN2xFNlFyOW82RXNHelJmN3FfQlN6dzI5WnhQWUxiTjBZWktTOGw4WGppTGNGNjBrRDZfVHFhemZhX041elFpbnBCOTIwWFJveE1pYzF0bmVIYURUbXhPNXN4Zjk5WkFvM1dNbU1Zd0V3UDA1cGYyY0Q3OWN2WUliWG5zd3NIMmhUQXYtMmNlVVM1WkZhTnpnQVZuUDNUcFhaY0J4Zm5VUdIB3AFBVV95cUxPZ0Z1Y09ESzFuRUNvMnNJQmxhT3dQNjF1YW9vNnRfbXFhWFFXRTVVbWJObC1EZDVSWWJiOFpreXNMWFlvNnhxcFJmcXFtRmc4UlZyMlRnYThCQm1vMU1MY1hPUU9OVDJnUFBWUUlqRkRmcmtHZVhJcEJEby1HaERCYkVhb0dCQmViRDlObHBYaEpLdDhZbmV1eFNmcHhTV0lvUWpXUWg4aEtfY3p5eWNNRkw1dDN0cUtnWHVpb0R0TXVrYS1qWEFHMGpEeVVtLTQwc0lqOXl6cnFzYy13?oc=5",
-        "date": "2025-11-09",
-        "title": "Work on infrastructure projects worth Rs 2 lakh crore underway in Uttarakhand: PM Modi. - Devdiscourse",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTUF5dUhFNTNJazBsLUxGQ3daRG9GQ3NSLUhiWVBoRXc1ZG55SUd4SWtrOUpFOWtXN2xFNlFyOW82RXNHelJmN3FfQlN6dzI5WnhQWUxiTjBZWktTOGw4WGppTGNGNjBrRDZfVHFhemZhX041elFpbnBCOTIwWFJveE1pYzF0bmVIYURUbXhPNXN4Zjk5WkFvM1dNbU1Zd0V3UDA1cGYyY0Q3OWN2WUliWG5zd3NIMmhUQXYtMmNlVVM1WkZhTnpnQVZuUDNUcFhaY0J4Zm5VUdIB3AFBVV95cUxPZ0Z1Y09ESzFuRUNvMnNJQmxhT3dQNjF1YW9vNnRfbXFhWFFXRTVVbWJObC1EZDVSWWJiOFpreXNMWFlvNnhxcFJmcXFtRmc4UlZyMlRnYThCQm1vMU1MY1hPUU9OVDJnUFBWUUlqRkRmcmtHZVhJcEJEby1HaERCYkVhb0dCQmViRDlObHBYaEpLdDhZbmV1eFNmcHhTV0lvUWpXUWg4aEtfY3p5eWNNRkw1dDN0cUtnWHVpb0R0TXVrYS1qWEFHMGpEeVVtLTQwc0lqOXl6cnFzYy13?oc=5\" target=\"_blank\">Work on infrastructure projects worth Rs 2 lakh crore underway in Uttarakhand: PM Modi.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": "(\ud83c\uddee\ud83c\uddf3) NEWS: PM Modi says work on infrastructure projects worth Rs 2 lakh crore is underway in Uttarakhand"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT01uRUFfLS1mRlFwcXNVaFU3V1NiRDQtYVpvd0ZLanpnNmJzdjFXb0NKNmE5Qkp3Ny1tQjliakJ0U3lsaWJVWXNKSkMtY29rN3QwVlNWYnFkZngxTWNBWTBvdF9NNjdwTnlvd3VJUVZoWDliUi13Y3FTNm1XLTA2cUVJT3ZobzhqMTNPSlJlMEc4SDRhSm5fLTN6MlFxZ0l0d0NTdG9lOUlBMHhBcWRqemh4VHNmRy1fSnJzVTYxaWN1TWlzMHE1NDFfN2lVV1ZiVUZ4a0JKUEc5QUtobnBn0gHkAUFVX3lxTE9MQUFvelJCZ0luSGVlZ1psaHJhb2tURGpFZExMUjZhXzVjS2taSXNVZVAydFoxNFFZcjc0TEdlWkcyb2gzclVxZURSbEZOeE5sVTZ0OXlhaTd4eUtsYTdRN1ZYVmxDMi1PXy12REF0U0NKNUl6eHg4X2FwNzFFNThacEVIdUhqZkxyV1pCRjJIdG9OcjFYUGhpSlF5WDE3d2hBejBoeHFLekQtbmQ3cVRWckpZc1AzVzEtUTU2bG9rSWdqdXRnT1lqRWVaR0xza2kzSVpzS3d6NDBYbWlHbnVXWDBpQQ?oc=5",
-        "date": "2025-11-09",
-        "title": "PM Modi unveils major development projects worth over \u20b98,100 crore in Uttarakhand | India News - Hindustan Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT01uRUFfLS1mRlFwcXNVaFU3V1NiRDQtYVpvd0ZLanpnNmJzdjFXb0NKNmE5Qkp3Ny1tQjliakJ0U3lsaWJVWXNKSkMtY29rN3QwVlNWYnFkZngxTWNBWTBvdF9NNjdwTnlvd3VJUVZoWDliUi13Y3FTNm1XLTA2cUVJT3ZobzhqMTNPSlJlMEc4SDRhSm5fLTN6MlFxZ0l0d0NTdG9lOUlBMHhBcWRqemh4VHNmRy1fSnJzVTYxaWN1TWlzMHE1NDFfN2lVV1ZiVUZ4a0JKUEc5QUtobnBn0gHkAUFVX3lxTE9MQUFvelJCZ0luSGVlZ1psaHJhb2tURGpFZExMUjZhXzVjS2taSXNVZVAydFoxNFFZcjc0TEdlWkcyb2gzclVxZURSbEZOeE5sVTZ0OXlhaTd4eUtsYTdRN1ZYVmxDMi1PXy12REF0U0NKNUl6eHg4X2FwNzFFNThacEVIdUhqZkxyV1pCRjJIdG9OcjFYUGhpSlF5WDE3d2hBejBoeHFLekQtbmQ3cVRWckpZc1AzVzEtUTU2bG9rSWdqdXRnT1lqRWVaR0xza2kzSVpzS3d6NDBYbWlHbnVXWDBpQQ?oc=5\" target=\"_blank\">PM Modi unveils major development projects worth over \u20b98,100 crore in Uttarakhand | India News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORm1GTEVpeGxEcVFYTlFuWnV5MFRDcmcwN3NfSHlfSVNTdVQ3cjFSSEI4ZTZ1YUpESzcwRDlEbVRaQ1NuR1pQZHo2NW1ocEFfbU5wRTJiam54M3hjemR5OF9NZ0I0aXl4MFE0azhfb2h1R0hib3FqVzBYaDBsUWRKcjQzc1IzU25o?oc=5",
-        "date": "2025-11-09",
-        "title": "People Power Party Slams Prosecution Over 740 Billion Won Daejang-dong Appeal Drop - \uc870\uc120\uc77c\ubcf4",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxORm1GTEVpeGxEcVFYTlFuWnV5MFRDcmcwN3NfSHlfSVNTdVQ3cjFSSEI4ZTZ1YUpESzcwRDlEbVRaQ1NuR1pQZHo2NW1ocEFfbU5wRTJiam54M3hjemR5OF9NZ0I0aXl4MFE0azhfb2h1R0hib3FqVzBYaDBsUWRKcjQzc1IzU25o?oc=5\" target=\"_blank\">People Power Party Slams Prosecution Over 740 Billion Won Daejang-dong Appeal Drop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\uc870\uc120\uc77c\ubcf4</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTUF5dUhFNTNJazBsLUxGQ3daRG9GQ3NSLUhiWVBoRXc1ZG55SUd4SWtrOUpFOWtXN2xFNlFyOW82RXNHelJmN3FfQlN6dzI5WnhQWUxiTjBZWktTOGw4WGppTGNGNjBrRDZfVHFhemZhX041elFpbnBCOTIwWFJveE1pYzF0bmVIYURUbXhPNXN4Zjk5WkFvM1dNbU1Zd0V3UDA1cGYyY0Q3OWN2WUliWG5zd3NIMmhUQXYtMmNlVVM1WkZhTnpnQVZuUDNUcFhaY0J4Zm5VUdIB3AFBVV95cUxPZ0Z1Y09ESzFuRUNvMnNJQmxhT3dQNjF1YW9vNnRfbXFhWFFXRTVVbWJObC1EZDVSWWJiOFpreXNMWFlvNnhxcFJmcXFtRmc4UlZyMlRnYThCQm1vMU1MY1hPUU9OVDJnUFBWUUlqRkRmcmtHZVhJcEJEby1HaERCYkVhb0dCQmViRDlObHBYaEpLdDhZbmV1eFNmcHhTV0lvUWpXUWg4aEtfY3p5eWNNRkw1dDN0cUtnWHVpb0R0TXVrYS1qWEFHMGpEeVVtLTQwc0lqOXl6cnFzYy13?oc=5",
-        "date": "2025-11-09",
-        "title": "Work on infrastructure projects worth Rs 2 lakh crore underway in Uttarakhand: PM Modi. - Devdiscourse",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTUF5dUhFNTNJazBsLUxGQ3daRG9GQ3NSLUhiWVBoRXc1ZG55SUd4SWtrOUpFOWtXN2xFNlFyOW82RXNHelJmN3FfQlN6dzI5WnhQWUxiTjBZWktTOGw4WGppTGNGNjBrRDZfVHFhemZhX041elFpbnBCOTIwWFJveE1pYzF0bmVIYURUbXhPNXN4Zjk5WkFvM1dNbU1Zd0V3UDA1cGYyY0Q3OWN2WUliWG5zd3NIMmhUQXYtMmNlVVM1WkZhTnpnQVZuUDNUcFhaY0J4Zm5VUdIB3AFBVV95cUxPZ0Z1Y09ESzFuRUNvMnNJQmxhT3dQNjF1YW9vNnRfbXFhWFFXRTVVbWJObC1EZDVSWWJiOFpreXNMWFlvNnhxcFJmcXFtRmc4UlZyMlRnYThCQm1vMU1MY1hPUU9OVDJnUFBWUUlqRkRmcmtHZVhJcEJEby1HaERCYkVhb0dCQmViRDlObHBYaEpLdDhZbmV1eFNmcHhTV0lvUWpXUWg4aEtfY3p5eWNNRkw1dDN0cUtnWHVpb0R0TXVrYS1qWEFHMGpEeVVtLTQwc0lqOXl6cnFzYy13?oc=5\" target=\"_blank\">Work on infrastructure projects worth Rs 2 lakh crore underway in Uttarakhand: PM Modi.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Infrastructure projects worth Rs 2 lakh crore underway in Uttarakhand, says PM Modi.",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWVU4SWZPN1pfSy1rWHJrdEZmaG94TkVFVXdDX0Z3UXpiM1VYTXg3dlhidUM2U1dnX1ZUTXA2UFlnYjhfc3N0aHo2YWtVb1RjUnpvaDNOT3VIMW1xZDdxWGt1X3huLWdLdlhZX3RqWHBYT0UwcURjYW9scXpKSEp6M05wWWtCNnlBNmxXMVhqRGNNUQ?oc=5",
-        "date": "2025-11-09",
-        "title": "Croatia\u2019s construction sector continues to grow, now 7% of GDP - Croatia Week",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPWVU4SWZPN1pfSy1rWHJrdEZmaG94TkVFVXdDX0Z3UXpiM1VYTXg3dlhidUM2U1dnX1ZUTXA2UFlnYjhfc3N0aHo2YWtVb1RjUnpvaDNOT3VIMW1xZDdxWGt1X3huLWdLdlhZX3RqWHBYT0UwcURjYW9scXpKSEp6M05wWWtCNnlBNmxXMVhqRGNNUQ?oc=5\" target=\"_blank\">Croatia\u2019s construction sector continues to grow, now 7% of GDP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Croatia Week</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ25nSF9LQW44N0VmNjRUZy13ZFpmYjZyMVVEQzJqaG5mQzgtNG5NbDFFX2ZUQ0JMQ3FkUkVtX29oanprUkZOdlFUdGtzVUQ1N3JxNUVTc1ZBUDY1WTBPOTZuRzFlRS1oTkdxUG5xdi1ZSVJTcFVnV09HQTdmMnUxUmc2Wlh5dmJNQTN1ME9Dbl9RMy1xR1JnUWQ0MA?oc=5",
-        "date": "2025-11-09",
-        "title": "Published on: 2025-11-09 17:09:44 - earlytimes.in",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ25nSF9LQW44N0VmNjRUZy13ZFpmYjZyMVVEQzJqaG5mQzgtNG5NbDFFX2ZUQ0JMQ3FkUkVtX29oanprUkZOdlFUdGtzVUQ1N3JxNUVTc1ZBUDY1WTBPOTZuRzFlRS1oTkdxUG5xdi1ZSVJTcFVnV09HQTdmMnUxUmc2Wlh5dmJNQTN1ME9Dbl9RMy1xR1JnUWQ0MA?oc=5\" target=\"_blank\">Published on: 2025-11-09 17:09:44</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">earlytimes.in</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1hVMFVsNGViTEYtUlA0LWxZQ3lsTE03MlktblFfbFhIZ01sbTRIcXpRVTY4Wm9WYUMtbVpSaGZadzZJaWFLWXVnR0RtYld3SnVIYkN2dkdUYi1Fb0JBU0ZpVE01WlhuOHZ1WmJnYktUNFF4eFpJTEFYUXlQU2hIdDh0Xzg4UQ?oc=5",
-        "date": "2025-11-09",
-        "title": "Europe\u2019s Green Deal in the age of smart technology - Times of Malta",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1hVMFVsNGViTEYtUlA0LWxZQ3lsTE03MlktblFfbFhIZ01sbTRIcXpRVTY4Wm9WYUMtbVpSaGZadzZJaWFLWXVnR0RtYld3SnVIYkN2dkdUYi1Fb0JBU0ZpVE01WlhuOHZ1WmJnYktUNFF4eFpJTEFYUXlQU2hIdDh0Xzg4UQ?oc=5\" target=\"_blank\">Europe\u2019s Green Deal in the age of smart technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of Malta</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTnFZSjVKWUlQVko5Q2hKcnFBbWJCWDduOTRBRGFjakJUcmdHLXhHSmZUcVMwemRXSEZONGloRXpDdk9iWkNPRTlYaG13cGdKMjlZVFNuNXVzMkI0b213V3NLdlV1ZWN0LXJaQ1Q3SGNyQXRLXzA0V3ZvUHZBcVdHU1htZHBXZFZyZmVYNlVYWHVtckpYRE1ZakpreFdpUS11MmZnQXFUa0xQaGpscVIwRVQzNVJ0bFlEcE9jMUFYQ0o?oc=5",
-        "date": "2025-11-09",
-        "title": "Promising Business Ideas to Invest In: Exploring Construction and Solar Energy Opportunities - Programming Insider",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTnFZSjVKWUlQVko5Q2hKcnFBbWJCWDduOTRBRGFjakJUcmdHLXhHSmZUcVMwemRXSEZONGloRXpDdk9iWkNPRTlYaG13cGdKMjlZVFNuNXVzMkI0b213V3NLdlV1ZWN0LXJaQ1Q3SGNyQXRLXzA0V3ZvUHZBcVdHU1htZHBXZFZyZmVYNlVYWHVtckpYRE1ZakpreFdpUS11MmZnQXFUa0xQaGpscVIwRVQzNVJ0bFlEcE9jMUFYQ0o?oc=5\" target=\"_blank\">Promising Business Ideas to Invest In: Exploring Construction and Solar Energy Opportunities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Programming Insider</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN19IVkJQNUdSbVRkZE5rMnBjVjBBNXd4alFVZzhfbmlzXzYwUHBJRHhKQ0l0aThVZkxoakRWWWtmcjEwOGlXWlJ3ZldOWkNHMHMydl90X0tDVF95bjQ2aF9yTk50QXVzRGR5ZEctVEM0RS05TlB4YTBtQWhDOFQxZUl2MGgxNmJwZTNPNjZuY0xUc1hUOHhXQ2FiZw?oc=5",
-        "date": "2025-11-09",
-        "title": "Chennai Economy News Today: Infrastructure Investments Surge by 400% - Meyka",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPN19IVkJQNUdSbVRkZE5rMnBjVjBBNXd4alFVZzhfbmlzXzYwUHBJRHhKQ0l0aThVZkxoakRWWWtmcjEwOGlXWlJ3ZldOWkNHMHMydl90X0tDVF95bjQ2aF9yTk50QXVzRGR5ZEctVEM0RS05TlB4YTBtQWhDOFQxZUl2MGgxNmJwZTNPNjZuY0xUc1hUOHhXQ2FiZw?oc=5\" target=\"_blank\">Chennai Economy News Today: Infrastructure Investments Surge by 400%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Infrastructure investments in Chennai surge by 400%"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZUtITTN6UVRrem5IN3NodVc0R0ZlSklhSC1aUWRMcGY3NWo0ZzV4QnpmY0FfdlNpYVJ5SUJ5QWw5ZHZZakRlRkF5U0lwYlJkUVBoZ1o5b2ZrTDBIVUNDMW83bTczQUFPRlRtRHRhNGpURURfOW4wdmhjYTNTd29XSlZNc0ZWWWkwNEhSNjJRdGhXWEdLRy1WMThWQQ?oc=5",
-        "date": "2025-11-09",
-        "title": "Over $20m invested in airport infrastructure development - Tehran Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQZUtITTN6UVRrem5IN3NodVc0R0ZlSklhSC1aUWRMcGY3NWo0ZzV4QnpmY0FfdlNpYVJ5SUJ5QWw5ZHZZakRlRkF5U0lwYlJkUVBoZ1o5b2ZrTDBIVUNDMW83bTczQUFPRlRtRHRhNGpURURfOW4wdmhjYTNTd29XSlZNc0ZWWWkwNEhSNjJRdGhXWEdLRy1WMThWQQ?oc=5\" target=\"_blank\">Over $20m invested in airport infrastructure development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tehran Times</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOFVVeDZ5R2U4NHJZeW1zallOTXpSMTI4NGxENjdjb2RjQWNkUkhTYy1NeU14Z1I3UFJGeVlnd2F5TGJJY1FqM05XXzhCV3JXTmNxR3dwaGFkUnFGSm0wbFppVkFNVjlkc3gxNkxhbzlXMXVEbkVBWnVGdmhvYUozeFM3SDlSQ3NyejRLNk5oY0I2Z2JkUUw3M2k4Q19NcXJiQ1hlWm4zUUNyWVRFX3luXzJxb3dKS1lRXzZkZHczdV85LXE1TV9kcVNpRU5ZaEdPaHNUU2hyd3VrS2fSAeABQVVfeXFMT3JHTGdhQm1uYmQ4TWkzQkhnSXJ2TGVySlZnbC1lb0VDQm1Qc1RMNi1jbG1ObXRhcUdBOGhIWnZQalFzV0pGZ3g4cGRBVDkzUVFyU0JIR0NCX0FrREVadnBDMzlaM1ByM2V4d2ZLeGY3Xy1EdjZvd0IzVjVEdlR5aVdtdHFlZHhCem50alRlcTljMFRMWk9STk53UmFDVFlKRU9oRGJVZFdnRnNfZldyV0laeWJPbVRpRjhVaFpNSEVtQ1ZPYjdFaUJfRE9RZm5Ub1BoMGhWTGpwQzd4dWFySzI?oc=5",
-        "date": "2025-11-09",
-        "title": "A Look at Solaris Energy Infrastructure's Valuation After Strong Q3 Growth and Dividend Confirmation - simplywall.st",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOFVVeDZ5R2U4NHJZeW1zallOTXpSMTI4NGxENjdjb2RjQWNkUkhTYy1NeU14Z1I3UFJGeVlnd2F5TGJJY1FqM05XXzhCV3JXTmNxR3dwaGFkUnFGSm0wbFppVkFNVjlkc3gxNkxhbzlXMXVEbkVBWnVGdmhvYUozeFM3SDlSQ3NyejRLNk5oY0I2Z2JkUUw3M2k4Q19NcXJiQ1hlWm4zUUNyWVRFX3luXzJxb3dKS1lRXzZkZHczdV85LXE1TV9kcVNpRU5ZaEdPaHNUU2hyd3VrS2fSAeABQVVfeXFMT3JHTGdhQm1uYmQ4TWkzQkhnSXJ2TGVySlZnbC1lb0VDQm1Qc1RMNi1jbG1ObXRhcUdBOGhIWnZQalFzV0pGZ3g4cGRBVDkzUVFyU0JIR0NCX0FrREVadnBDMzlaM1ByM2V4d2ZLeGY3Xy1EdjZvd0IzVjVEdlR5aVdtdHFlZHhCem50alRlcTljMFRMWk9STk53UmFDVFlKRU9oRGJVZFdnRnNfZldyV0laeWJPbVRpRjhVaFpNSEVtQ1ZPYjdFaUJfRE9RZm5Ub1BoMGhWTGpwQzd4dWFySzI?oc=5\" target=\"_blank\">A Look at Solaris Energy Infrastructure's Valuation After Strong Q3 Growth and Dividend Confirmation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdW5sV2VzNWtEZWw5bHpGMnAweFg1SzY2eG1qWWxFdnVLRHpMaWZ5TlIxU040cTluaW4yWk9Pb3I2NS11Y0JWSUR4cTVDUk9SMDVINkFQanlFUnpnWThPNjZmTUhlNW14bHRKRjlFM0V0RnpyTEpHTXRNOHlrbU8yRVFfeUM0dVZQcWVwN2JOenZuVnZpZ2JnLWlaUW04RjdQMmFuel9rak9yTlp1cFZESXF5WVpHR1U4dWZ2NUtJYXMxTExaWFUxakdGSGtIM1QxSG8zMzZnY3hBY2twRFRGaUpfd0ZjS09BbVZST2NobTgxalN5V3YyaXlTUQ?oc=5",
-        "date": "2025-11-09",
-        "title": "Saudi Arabia Embraces Mass Tourism with New Resorts and Enhanced Pilgrimage Infrastructure, Here\u2019s What You Need to Know - Travel And Tour World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdW5sV2VzNWtEZWw5bHpGMnAweFg1SzY2eG1qWWxFdnVLRHpMaWZ5TlIxU040cTluaW4yWk9Pb3I2NS11Y0JWSUR4cTVDUk9SMDVINkFQanlFUnpnWThPNjZmTUhlNW14bHRKRjlFM0V0RnpyTEpHTXRNOHlrbU8yRVFfeUM0dVZQcWVwN2JOenZuVnZpZ2JnLWlaUW04RjdQMmFuel9rak9yTlp1cFZESXF5WVpHR1U4dWZ2NUtJYXMxTExaWFUxakdGSGtIM1QxSG8zMzZnY3hBY2twRFRGaUpfd0ZjS09BbVZST2NobTgxalN5V3YyaXlTUQ?oc=5\" target=\"_blank\">Saudi Arabia Embraces Mass Tourism with New Resorts and Enhanced Pilgrimage Infrastructure, Here\u2019s What You Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddf8\ud83c\udde6 NEWS: Saudi Arabia boosts mass tourism with new resorts and enhanced pilgrimage infrastructure to welcome more visitors."
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BS1JYbVZaOVJvTmUtb29ycTNsN3pSQUJ4NkVBX3lSemtSMmNBZTVBT1pKU0EwVGZEcDluUU9yZHRVR2ZURkhVQnI2d202MFlIaVl3YTVJbzF3LTMtTUNyV2g1clhsOTRU?oc=5",
-        "date": "2025-11-09",
-        "title": "National Urban Conclave concludes today with actionable insights for India\u2019s roadmap to building inclusive, resilient, and well-governed cities - PIB",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BS1JYbVZaOVJvTmUtb29ycTNsN3pSQUJ4NkVBX3lSemtSMmNBZTVBT1pKU0EwVGZEcDluUU9yZHRVR2ZURkhVQnI2d202MFlIaVl3YTVJbzF3LTMtTUNyV2g1clhsOTRU?oc=5\" target=\"_blank\">National Urban Conclave concludes today with actionable insights for India\u2019s roadmap to building inclusive, resilient, and well-governed cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PIB</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN19IVkJQNUdSbVRkZE5rMnBjVjBBNXd4alFVZzhfbmlzXzYwUHBJRHhKQ0l0aThVZkxoakRWWWtmcjEwOGlXWlJ3ZldOWkNHMHMydl90X0tDVF95bjQ2aF9yTk50QXVzRGR5ZEctVEM0RS05TlB4YTBtQWhDOFQxZUl2MGgxNmJwZTNPNjZuY0xUc1hUOHhXQ2FiZw?oc=5",
-        "date": "2025-11-09",
-        "title": "Chennai Economy News Today: Infrastructure Investments Surge by 400% - Meyka",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPN19IVkJQNUdSbVRkZE5rMnBjVjBBNXd4alFVZzhfbmlzXzYwUHBJRHhKQ0l0aThVZkxoakRWWWtmcjEwOGlXWlJ3ZldOWkNHMHMydl90X0tDVF95bjQ2aF9yTk50QXVzRGR5ZEctVEM0RS05TlB4YTBtQWhDOFQxZUl2MGgxNmJwZTNPNjZuY0xUc1hUOHhXQ2FiZw?oc=5\" target=\"_blank\">Chennai Economy News Today: Infrastructure Investments Surge by 400%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Infrastructure investments in Chennai surge by 400%",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdW5sV2VzNWtEZWw5bHpGMnAweFg1SzY2eG1qWWxFdnVLRHpMaWZ5TlIxU040cTluaW4yWk9Pb3I2NS11Y0JWSUR4cTVDUk9SMDVINkFQanlFUnpnWThPNjZmTUhlNW14bHRKRjlFM0V0RnpyTEpHTXRNOHlrbU8yRVFfeUM0dVZQcWVwN2JOenZuVnZpZ2JnLWlaUW04RjdQMmFuel9rak9yTlp1cFZESXF5WVpHR1U4dWZ2NUtJYXMxTExaWFUxakdGSGtIM1QxSG8zMzZnY3hBY2twRFRGaUpfd0ZjS09BbVZST2NobTgxalN5V3YyaXlTUQ?oc=5",
-        "date": "2025-11-09",
-        "title": "Saudi Arabia Embraces Mass Tourism with New Resorts and Enhanced Pilgrimage Infrastructure, Here\u2019s What You Need to Know - Travel And Tour World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdW5sV2VzNWtEZWw5bHpGMnAweFg1SzY2eG1qWWxFdnVLRHpMaWZ5TlIxU040cTluaW4yWk9Pb3I2NS11Y0JWSUR4cTVDUk9SMDVINkFQanlFUnpnWThPNjZmTUhlNW14bHRKRjlFM0V0RnpyTEpHTXRNOHlrbU8yRVFfeUM0dVZQcWVwN2JOenZuVnZpZ2JnLWlaUW04RjdQMmFuel9rak9yTlp1cFZESXF5WVpHR1U4dWZ2NUtJYXMxTExaWFUxakdGSGtIM1QxSG8zMzZnY3hBY2twRFRGaUpfd0ZjS09BbVZST2NobTgxalN5V3YyaXlTUQ?oc=5\" target=\"_blank\">Saudi Arabia Embraces Mass Tourism with New Resorts and Enhanced Pilgrimage Infrastructure, Here\u2019s What You Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "(\ud83c\uddf8\ud83c\udde6) NEWS: Saudi Arabia ramps up mass tourism with luxury resorts and upgraded Hajj infrastructure to welcome millions more visitors.",
-        "type": "news"
-    },
-    {
-        "link": null,
         "date": "2025-11-10",
         "status": "posted",
         "tweet": "Bitcoin PoW network: 150 TWh annual energy for scalability/security, ~$7.5B cost (2025 est.).\n\nEthereum PoS: 0.1 TWh, ~$5M.\n\n1,500x efficiency gain post-Merge enables better scaling at lower infra cost.",
@@ -2835,5 +2569,65 @@
         "status": "posted",
         "tweet": "In 2025, Amazon Web Services (AWS) data centers processed 2.5 zettabytes of data annually.\n\n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMkZPRldncEtsa3RGV3VsazZERzY5Y3J2Z1I1cks0Ym9wR2J3ZG5hU3VVZ1lDeFd5Nlc3TTQ1cmdPVVJaZU80V0VtTmxWeU9WbFVWNk1qcFEyekNVQUtrVmZUR1I4ZnFHRmJuS3M2b3M5QzAyMGwtRWIzMWNETjVlSFN0ZWJleWdrN0U5Z1BYN0RiMHNGcWlNVUdMaEczeFl6OExzMFpKa1NHeFoyMnZ0WkkxbW1HejN2Y1dFT0U1cUp3VHhZblB0ZU5BQmJydmQ4dzJuQjkwbjlZc05xb2fSAeMBQVVfeXFMUDlWZjBWYlkzSlJ0aWJIZVp6TGUxT2twMk5aNTF1bktxcGNUQm5YdTFLV0wtU0h3RlJWZV9OZkdWTXlWWHA1ZHAwQmhzbDFxNUprLU0xeEdwWHo1dVhkLUZPd2luczdzNl9Db0VZNlZRY21sOWRpTlkzUHNhYTBtdm5ZLUdGelRXRzVsMzl4OC04Z2pLRks4UXpvcWdsWWtyajEyb244S0FXT0N5MVJjeDZMbVRCbVpvV0daVXE5aW1xVE8zTkZPT0M2X3FnTlp6Zk5ZdXhtUFBBb2tKNlFFVjY0V3M?oc=5",
+        "date": "2025-11-19",
+        "title": "Everus Construction Group (NYSE:ECG): Assessing Valuation After Recent Share Price Volatility - simplywall.st",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMkZPRldncEtsa3RGV3VsazZERzY5Y3J2Z1I1cks0Ym9wR2J3ZG5hU3VVZ1lDeFd5Nlc3TTQ1cmdPVVJaZU80V0VtTmxWeU9WbFVWNk1qcFEyekNVQUtrVmZUR1I4ZnFHRmJuS3M2b3M5QzAyMGwtRWIzMWNETjVlSFN0ZWJleWdrN0U5Z1BYN0RiMHNGcWlNVUdMaEczeFl6OExzMFpKa1NHeFoyMnZ0WkkxbW1HejN2Y1dFT0U1cUp3VHhZblB0ZU5BQmJydmQ4dzJuQjkwbjlZc05xb2fSAeMBQVVfeXFMUDlWZjBWYlkzSlJ0aWJIZVp6TGUxT2twMk5aNTF1bktxcGNUQm5YdTFLV0wtU0h3RlJWZV9OZkdWTXlWWHA1ZHAwQmhzbDFxNUprLU0xeEdwWHo1dVhkLUZPd2luczdzNl9Db0VZNlZRY21sOWRpTlkzUHNhYTBtdm5ZLUdGelRXRzVsMzl4OC04Z2pLRks4UXpvcWdsWWtyajEyb244S0FXT0N5MVJjeDZMbVRCbVpvV0daVXE5aW1xVE8zTkZPT0M2X3FnTlp6Zk5ZdXhtUFBBb2tKNlFFVjY0V3M?oc=5\" target=\"_blank\">Everus Construction Group (NYSE:ECG): Assessing Valuation After Recent Share Price Volatility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbjZGMlFseHJEWVFHZXBTTnlkLWlYSFpidWpZNTd3a2NKRTktanluYV9Ga0p6R1VQSTV0R2xSNEVmeU1NbXYxUjJsdzEyS012RzN2eE03azVEVWZscWhsc09kYk9xaVhGLU5YNFBkNEtoZ3VVeUdpUm5vXzI4SDJOaE9QSmg1MDU2dlJnc2JMbTJITl8zLWhKZWUzUFhycHRXWGRMejJR?oc=5",
+        "date": "2025-11-19",
+        "title": "Wisconsin construction, labor leaders say data centers will grow long-term jobs - WPR",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPbjZGMlFseHJEWVFHZXBTTnlkLWlYSFpidWpZNTd3a2NKRTktanluYV9Ga0p6R1VQSTV0R2xSNEVmeU1NbXYxUjJsdzEyS012RzN2eE03azVEVWZscWhsc09kYk9xaVhGLU5YNFBkNEtoZ3VVeUdpUm5vXzI4SDJOaE9QSmg1MDU2dlJnc2JMbTJITl8zLWhKZWUzUFhycHRXWGRMejJR?oc=5\" target=\"_blank\">Wisconsin construction, labor leaders say data centers will grow long-term jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPR</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOd25Nd1E1bmNFRk55Nll4SFc1VDdtUENpZ1ZNTTFYbFc0ZGJKQkdLaXc5SENZeEJ4M2JKUXpRR2hVbTZOcTltR05uRUFtQ2F6U2Zlc2tsQU1udjlPSGM4MzBJNkpiNnZxb0E4ZjZjZ3dfWVNUUDE4R1VKZjJSUXdRSGp0Rk5ORGlIOHdpQTU0OW9Jem9pWnlRa0N6elBPei1xVFVGN1EyamctMlM1WjZSbEVOSmRoYmstbkVKSldkdTN1RmVCVjRyWUctdHp4TjJGUGJ3ZW1iNjgxQkZlMm1PbVNzanIzdWxYRVZkQmNxRHl0QXNzeHlaWUdFRDlCNXlsc2h5WFdnUzlvSDZwdlk2VllNOHBGTWcyODd1OHBzQS00T21yMFlMZlluUGhleTlOUTRudjl0Nlp5anJy?oc=5",
+        "date": "2025-11-19",
+        "title": "Schneider Electric Transforms U.S. Asset Performance Management Services to Deliver Integrated, Proactive Experience to Simplify Critical Infrastructure Management - PR Newswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxOd25Nd1E1bmNFRk55Nll4SFc1VDdtUENpZ1ZNTTFYbFc0ZGJKQkdLaXc5SENZeEJ4M2JKUXpRR2hVbTZOcTltR05uRUFtQ2F6U2Zlc2tsQU1udjlPSGM4MzBJNkpiNnZxb0E4ZjZjZ3dfWVNUUDE4R1VKZjJSUXdRSGp0Rk5ORGlIOHdpQTU0OW9Jem9pWnlRa0N6elBPei1xVFVGN1EyamctMlM1WjZSbEVOSmRoYmstbkVKSldkdTN1RmVCVjRyWUctdHp4TjJGUGJ3ZW1iNjgxQkZlMm1PbVNzanIzdWxYRVZkQmNxRHl0QXNzeHlaWUdFRDlCNXlsc2h5WFdnUzlvSDZwdlk2VllNOHBGTWcyODd1OHBzQS00T21yMFlMZlluUGhleTlOUTRudjl0Nlp5anJy?oc=5\" target=\"_blank\">Schneider Electric Transforms U.S. Asset Performance Management Services to Deliver Integrated, Proactive Experience to Simplify Critical Infrastructure Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbFFrWU4tTjhhZ2FMbmZ3OW9nUXBBeWtFYU41djVJTkdXQThWUVZCWDUwbFAyaGNoeWRGbHQ0UmhEekxMWVBfazNodEwyclpMMU91aklqNG8zS3ptT0J6cHAzRmpHWHFJZmN4MVR5V1FvYWVGSkkyem9ud2w1aE1XdDBjbUxBR1VSM0VBVnJVSFFCaEhFUy1SUkcwelVIemsyajZkSkVCUmpHNVJMRXFDV05n?oc=5",
+        "date": "2025-11-19",
+        "title": "Plymouth mobility hub earns shared transport gold standard - Smart Cities World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbFFrWU4tTjhhZ2FMbmZ3OW9nUXBBeWtFYU41djVJTkdXQThWUVZCWDUwbFAyaGNoeWRGbHQ0UmhEekxMWVBfazNodEwyclpMMU91aklqNG8zS3ptT0J6cHAzRmpHWHFJZmN4MVR5V1FvYWVGSkkyem9ud2w1aE1XdDBjbUxBR1VSM0VBVnJVSFFCaEhFUy1SUkcwelVIemsyajZkSkVCUmpHNVJMRXFDV05n?oc=5\" target=\"_blank\">Plymouth mobility hub earns shared transport gold standard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVF83Y0dKOVdRZlBVXzNJVFJXR2VjaVhxS1VrQnhITTVqZXl3aXkxYmFWaW1tbmRxNzlWaEUxdUVKUWowTExBQ2RfRTc5QmRmMUtwZFZBN00wbVNsNFFBNDV3b0U4dGFCaVc5UmFXc0VVWEI2R0NiZ1JVWDE0WDVZQkhwcW9QeFZiRzlLYlNJRmNmdXc3ZzZ4eG1aOWwxQ2NfU0FkbjVsSnZDdHVySWRRRUUwS0ZXOVE?oc=5",
+        "date": "2025-11-19",
+        "title": "Cop30: ICLEI partners to scale up municipal climate investments - Smart Cities World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNVF83Y0dKOVdRZlBVXzNJVFJXR2VjaVhxS1VrQnhITTVqZXl3aXkxYmFWaW1tbmRxNzlWaEUxdUVKUWowTExBQ2RfRTc5QmRmMUtwZFZBN00wbVNsNFFBNDV3b0U4dGFCaVc5UmFXc0VVWEI2R0NiZ1JVWDE0WDVZQkhwcW9QeFZiRzlLYlNJRmNmdXc3ZzZ4eG1aOWwxQ2NfU0FkbjVsSnZDdHVySWRRRUUwS0ZXOVE?oc=5\" target=\"_blank\">Cop30: ICLEI partners to scale up municipal climate investments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQXZpSE5HYzhaZ1U2bFZMbnBqaktfSHdIdHc2ZFNMSEowSXVWWkJ5NndrblRmbEpaSzdKaEdiRHJIOGw0QlZCLTNPTjZVLUF3Ti05MVBxOW1GOXdpeGN3OWdQS0tHUENLUVFhSEFYaGZ6TjQ2SW5jRF9mU0lrX2RWbkdhcnNadnkwdDd0SURKQmtoWXpzM1cySHl4WG9LMjY1Rnc?oc=5",
+        "date": "2025-11-19",
+        "title": "Global IoT Sensor Market 2025\u20132035 \u2014 CAGR 11.4% Forecasted Growth - industrytoday.co.uk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQQXZpSE5HYzhaZ1U2bFZMbnBqaktfSHdIdHc2ZFNMSEowSXVWWkJ5NndrblRmbEpaSzdKaEdiRHJIOGw0QlZCLTNPTjZVLUF3Ti05MVBxOW1GOXdpeGN3OWdQS0tHUENLUVFhSEFYaGZ6TjQ2SW5jRF9mU0lrX2RWbkdhcnNadnkwdDd0SURKQmtoWXpzM1cySHl4WG9LMjY1Rnc?oc=5\" target=\"_blank\">Global IoT Sensor Market 2025\u20132035 \u2014 CAGR 11.4% Forecasted Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">industrytoday.co.uk</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
