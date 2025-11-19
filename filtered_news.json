@@ -2729,5 +2729,12 @@
         "status": "posted",
         "tweet": "Amazon Web Services processes 100 zettabytes of data annually in 2025 across its global infrastructure.\n\n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-11-19",
+        "status": "posted",
+        "tweet": "Bitcoin's annual carbon footprint: 114 million metric tons CO2.\n\nEthereum's: 2,600 metric tons CO2.\n\nBTC's emissions are 43,846 times higher than ETH's.",
+        "type": "crypto"
     }
 ]
