@@ -2429,5 +2429,12 @@
         "tweet": "Summary: 2023 leaders by solar share of national electricity generation.\n\n1. \ud83c\udde8\ud83c\uddf1 Chile \u2014 19.3%\n2. \ud83c\uddf3\ud83c\uddf1 Netherlands \u2014 17.7%\n3. \ud83c\udde6\ud83c\uddfa Australia \u2014 17.4%\n4. \ud83c\uddec\ud83c\uddf7 Greece \u2014 17.0%\n5. \ud83c\uddea\ud83c\uddf8 Spain \u2014 16.4%",
         "type": "statistical",
         "category": "energy"
+    },
+    {
+        "link": null,
+        "date": "2025-11-20",
+        "status": "posted",
+        "tweet": "Alphabet's data centers processed 12 exabytes daily in Q1 2025, powering AI workloads across 25 regions.\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
