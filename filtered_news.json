@@ -2117,5 +2117,12 @@
         "status": "posted",
         "tweet": "Summary: In 2025, government regulations impose the highest infrastructure costs on Bitcoin due to energy compliance, followed by Ethereum and Solana.\n\n1. Bitcoin: $2.8B annual cost from \ud83c\uddfa\ud83c\uddf8 EPA emissions rules on mining hardware relocation and upgrades.  \n2. Ethereum: $950M from ",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-11-21",
+        "status": "posted",
+        "tweet": "Microsoft Azure's \ud83c\uddfa\ud83c\uddf8 US data centers processed 15 exabytes daily in 2025.\n\nEfficiency: 95% renewable energy usage. $MSFT",
+        "type": "infrastructure"
     }
 ]
