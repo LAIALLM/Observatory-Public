@@ -2226,5 +2226,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Odisha govt officials confirm 556 houses demolished in Salia Sahi for the Left Parallel Road project",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-21",
+        "status": "posted",
+        "tweet": "2025: Globally, for every $1 invested in fossil fuels, $2 goes to clean energy.",
+        "type": "statistical",
+        "category": "energy"
     }
 ]
