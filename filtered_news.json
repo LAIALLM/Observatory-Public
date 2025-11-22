@@ -1976,5 +1976,12 @@
         "status": "posted",
         "tweet": "Summary: Ranked by lowest energy cost per transaction in 2025, Solana outperforms Ethereum and Bitcoin in infrastructural efficiency.\n\n1. Solana: 0.00051 kWh/tx at 2,400 TPS\n2. Ethereum: 0.03 kWh/tx at 15 TPS\n3. Bitcoin: 707 kWh/tx at 7 TPS",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-11-22",
+        "status": "posted",
+        "tweet": "Meta Platforms' data centers processed 8.5 exabytes daily in Q2 2025.\n\nEfficiency: 25% reduction in energy use per query vs 2024.\n\n$META",
+        "type": "infrastructure"
     }
 ]
