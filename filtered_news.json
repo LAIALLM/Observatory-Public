@@ -1983,5 +1983,13 @@
         "status": "posted",
         "tweet": "Meta Platforms' data centers processed 8.5 exabytes daily in Q2 2025.\n\nEfficiency: 25% reduction in energy use per query vs 2024.\n\n$META",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-11-22",
+        "status": "posted",
+        "tweet": "Summary: 2024 leaders in EV share of new car sales (all \u226540%)\n\n1. \ud83c\uddf3\ud83c\uddf4 Norway\n2. \ud83c\uddee\ud83c\uddf8 Iceland\n3. \ud83c\uddf8\ud83c\uddea Sweden\n4. \ud83c\udde9\ud83c\uddf0 Denmark\n5. \ud83c\uddf3\ud83c\uddf1 Netherlands",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
