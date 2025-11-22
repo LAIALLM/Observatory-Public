@@ -1969,5 +1969,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: TCS $TCS and TPG $TPG unite to build HyperVault AI data center, fueling Indias AI infrastructure boom",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-22",
+        "status": "posted",
+        "tweet": "Summary: Ranked by lowest energy cost per transaction in 2025, Solana outperforms Ethereum and Bitcoin in infrastructural efficiency.\n\n1. Solana: 0.00051 kWh/tx at 2,400 TPS\n2. Ethereum: 0.03 kWh/tx at 15 TPS\n3. Bitcoin: 707 kWh/tx at 7 TPS",
+        "type": "crypto"
     }
 ]
