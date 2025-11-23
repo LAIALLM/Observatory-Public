@@ -1713,5 +1713,12 @@
         "tweet": "Summary: 2023 World Bank Logistics Performance Index (includes infrastructure): top countries (0\u20135 scale)\n\n1. \ud83c\uddf8\ud83c\uddec Singapore \u2014 4.3\n2. \ud83c\uddeb\ud83c\uddee Finland \u2014 4.2\n3. \ud83c\udde9\ud83c\uddf0 Denmark \u2014 4.2\n4. \ud83c\udde9\ud83c\uddea Germany \u2014 4.1\n5. \ud83c\uddf3\ud83c\uddf1 Netherlands \u2014 4.1",
         "type": "statistical",
         "category": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-11-23",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 U.S. regulations added $1.2B to Bitcoin's 2024 mining infrastructure costs via energy compliance mandates.\n\nEthereum's PoS transition cut infra costs 99.95% to $50M, dodging equivalent regulatory burdens.\n\nBitcoin: 120 TWh/year energy.\n\nEthereum: 0.01 TWh/year.",
+        "type": "crypto"
     }
 ]
