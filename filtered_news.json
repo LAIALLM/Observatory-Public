@@ -1869,5 +1869,25 @@
         "status": "posted",
         "tweet": "\ud83c\udde7\ud83c\udded NEWS: Bahrain receives 12 bids for Madinat Salman Island infrastructure works",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXEyYkYtdDBVaGpoenJVTU16SGl3LW1LMVBZMXhYWWJEcmFlaUNxQ0l3VlV4TnptcGxqRjM4UkZ1MW9QWGhaWDRfRVBUazJ1eGNrdlNEeWVSeC15OGRhaGhfN01OeE5YcENOaU9PdzhRRHN4RTVJYlpLSXB4UmlSNTVTWVNjdnkzVXB6VXNWbHhjLVJrQzNvYjBVVDBpdzM1Z1FEM1FoTEhTYkgxYUowbA?oc=5",
+        "date": "2025-11-23",
+        "title": "TalayLink subsea cable to connect Australia and Thailand - Google Cloud",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXEyYkYtdDBVaGpoenJVTU16SGl3LW1LMVBZMXhYWWJEcmFlaUNxQ0l3VlV4TnptcGxqRjM4UkZ1MW9QWGhaWDRfRVBUazJ1eGNrdlNEeWVSeC15OGRhaGhfN01OeE5YcENOaU9PdzhRRHN4RTVJYlpLSXB4UmlSNTVTWVNjdnkzVXB6VXNWbHhjLVJrQzNvYjBVVDBpdzM1Z1FEM1FoTEhTYkgxYUowbA?oc=5\" target=\"_blank\">TalayLink subsea cable to connect Australia and Thailand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Google Cloud</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWGYxSHp6UW9zRUpGbmRzVUE0cEJ6Yk1yWFl2VDNIODZJRjFCT0dubHFHRzZPeWlybzJ1ckZqaHJwNm9NZ0hjaE1GOFliWENkTFNmMnJXQUNrSG5FNE1TRm1nMzIyd3NGMlNtVnpJNWxEX2Jhd1pJZEN4SDRlSTBoczEzRzQydlRvWEZTczNjNHoyTVQyVTBoUVJnMUg5S1ZNM0J6ZXpvNGxpZ05CSTZza2RTbjJnNk9zUldPbkZIcmZsV0ZzaEhZZ3h2YzF3U1p6M0J2QXNqWDZTTXVTQTV6SUdiYVJPTUx3bmJ1aXVCM3BERmNmRVhSOEpXYzBiQQ?oc=5",
+        "date": "2025-11-23",
+        "title": "Urban Planning and Development Authority CEO participates in Cityscape Global 2025 in Riyadh - \u0648\u0643\u0627\u0644\u0629 \u0623\u0646\u0628\u0627\u0621 \u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWGYxSHp6UW9zRUpGbmRzVUE0cEJ6Yk1yWFl2VDNIODZJRjFCT0dubHFHRzZPeWlybzJ1ckZqaHJwNm9NZ0hjaE1GOFliWENkTFNmMnJXQUNrSG5FNE1TRm1nMzIyd3NGMlNtVnpJNWxEX2Jhd1pJZEN4SDRlSTBoczEzRzQydlRvWEZTczNjNHoyTVQyVTBoUVJnMUg5S1ZNM0J6ZXpvNGxpZ05CSTZza2RTbjJnNk9zUldPbkZIcmZsV0ZzaEhZZ3h2YzF3U1p6M0J2QXNqWDZTTXVTQTV6SUdiYVJPTUx3bmJ1aXVCM3BERmNmRVhSOEpXYzBiQQ?oc=5\" target=\"_blank\">Urban Planning and Development Authority CEO participates in Cityscape Global 2025 in Riyadh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0648\u0643\u0627\u0644\u0629 \u0623\u0646\u0628\u0627\u0621 \u0627\u0644\u0628\u062d\u0631\u064a\u0646</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
