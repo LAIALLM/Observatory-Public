@@ -1720,5 +1720,36 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 U.S. regulations added $1.2B to Bitcoin's 2024 mining infrastructure costs via energy compliance mandates.\n\nEthereum's PoS transition cut infra costs 99.95% to $50M, dodging equivalent regulatory burdens.\n\nBitcoin: 120 TWh/year energy.\n\nEthereum: 0.01 TWh/year.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1E5TmwwUENwV0dmVmV2ZE1HVEYyc2l6dUU4cFZfdGgxdmRtb2pqNmhvMm5KSVJiczY2eWIxaEZSbzZvdld1MFU5NFYtcmdCbVFWZ1hDZ2l1Q3R0RDdCSE92UzNCNHVqaTRnTXVlWmRfUWU1R1M0Tjk5dXRtelU5U0xUNnlSVGxrMFVQbHhjRGEtSzI2MkRVQVE0U1kzZDF2ZUdLR2xBdU1iN19zYm1Uc21WVzFpQdIBWkFVX3lxTFB5LU5ObEFFN2hXby1VRXNlMFppU1ZWTFJHWG41SVlHZ2Z5MGhMTWZTdC0xQlhZR3lfNTlPLWN5Z3JXWElTYVVCUF82ZERFQXVvWkd3enlqWWNqQQ?oc=5",
+        "date": "2025-11-23",
+        "title": "Singapore warns of state-linked cyber assault on critical infrastructure - MLex",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1E5TmwwUENwV0dmVmV2ZE1HVEYyc2l6dUU4cFZfdGgxdmRtb2pqNmhvMm5KSVJiczY2eWIxaEZSbzZvdld1MFU5NFYtcmdCbVFWZ1hDZ2l1Q3R0RDdCSE92UzNCNHVqaTRnTXVlWmRfUWU1R1M0Tjk5dXRtelU5U0xUNnlSVGxrMFVQbHhjRGEtSzI2MkRVQVE0U1kzZDF2ZUdLR2xBdU1iN19zYm1Uc21WVzFpQdIBWkFVX3lxTFB5LU5ObEFFN2hXby1VRXNlMFppU1ZWTFJHWG41SVlHZ2Z5MGhMTWZTdC0xQlhZR3lfNTlPLWN5Z3JXWElTYVVCUF82ZERFQXVvWkd3enlqWWNqQQ?oc=5\" target=\"_blank\">Singapore warns of state-linked cyber assault on critical infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLex</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHTzI0eEdHUkJpUGdoaWlzZ21mVV9nOVFQb2NqRV9yU1lxSlk4SVZVMkV2TnZRTDY1czAyYXZIVXJNTDl2RXBFdHhYZDZQSWFFRjFsTGQ4RQ?oc=5",
+        "date": "2025-11-23",
+        "title": "LG, Dubai forge partnership for smart city - The Korea Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHTzI0eEdHUkJpUGdoaWlzZ21mVV9nOVFQb2NqRV9yU1lxSlk4SVZVMkV2TnZRTDY1czAyYXZIVXJNTDl2RXBFdHhYZDZQSWFFRjFsTGQ4RQ?oc=5\" target=\"_blank\">LG, Dubai forge partnership for smart city</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Herald</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde6\ud83c\uddea NEWS: LG forges partnership with Dubai to develop smart city technologies"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHTzI0eEdHUkJpUGdoaWlzZ21mVV9nOVFQb2NqRV9yU1lxSlk4SVZVMkV2TnZRTDY1czAyYXZIVXJNTDl2RXBFdHhYZDZQSWFFRjFsTGQ4RQ?oc=5",
+        "date": "2025-11-23",
+        "title": "LG, Dubai forge partnership for smart city - The Korea Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHTzI0eEdHUkJpUGdoaWlzZ21mVV9nOVFQb2NqRV9yU1lxSlk4SVZVMkV2TnZRTDY1czAyYXZIVXJNTDl2RXBFdHhYZDZQSWFFRjFsTGQ4RQ?oc=5\" target=\"_blank\">LG, Dubai forge partnership for smart city</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Herald</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "(\ud83c\uddf0\ud83c\uddf7) NEWS: LG forges partnership with Dubai to advance smart city initiatives",
+        "type": "news"
     }
 ]
