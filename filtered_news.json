@@ -1751,5 +1751,35 @@
         "status": "posted",
         "tweet": "(\ud83c\uddf0\ud83c\uddf7) NEWS: LG forges partnership with Dubai to advance smart city initiatives",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNEhtUy1iekRnQmFHMG9WU1Z0LVAxRGdFbmlQR0hQYzMySHZoX0xMQzhUQXRxT0V1MGgwY0p5SUhnVXJGMndxaTY1Y2pHY21UTnFyclpPekQtY19RamZRSFpNcWEtNHppWlZLT3o2TjNvWW9WRUNyWWtvNFJxMFFaeDU4Mzd2aVBHazhFeTBKLV9tc0gzZW14YWJTd2dOdV9WZldYdTU4aTdQaU1udzBJMThSRjYtWjNxZG9jM20xN0ZaMzlMSkxySjNnRE9YZjg0ME9YNXNsVWtCVzRPcTVtdHZlOFJPMmplVnJaRkR0WDR3em50eDRV?oc=5",
+        "date": "2025-11-23",
+        "title": "Centre aims to modernise Fisheries Infrastructure by pushing Traceability in Fisheries and Aquaculture 2025 - jharkhandstatenews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNEhtUy1iekRnQmFHMG9WU1Z0LVAxRGdFbmlQR0hQYzMySHZoX0xMQzhUQXRxT0V1MGgwY0p5SUhnVXJGMndxaTY1Y2pHY21UTnFyclpPekQtY19RamZRSFpNcWEtNHppWlZLT3o2TjNvWW9WRUNyWWtvNFJxMFFaeDU4Mzd2aVBHazhFeTBKLV9tc0gzZW14YWJTd2dOdV9WZldYdTU4aTdQaU1udzBJMThSRjYtWjNxZG9jM20xN0ZaMzlMSkxySjNnRE9YZjg0ME9YNXNsVWtCVzRPcTVtdHZlOFJPMmplVnJaRkR0WDR3em50eDRV?oc=5\" target=\"_blank\">Centre aims to modernise Fisheries Infrastructure by pushing Traceability in Fisheries and Aquaculture 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jharkhandstatenews.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTE4QTV2cDZ5cjQtdVJ4dDlsMHRCYUpvUEtnazFLZ1lSTGJneHYzbVA4N1ZBa3lZSjBSOHFUaEI0V0NFNnRSZ1RJVXhaV3BCTXNQSUVtbk56bnZxUEFoRHk2REJVUkw3Q0hiZV9wQTZUOUlXRjF6dWhjbGRoaWxXRm1jVkdIQlNkVDNWX294OWxrQ3A3YmpYc1EtVWtvcy1BdzdJckVLVzJwRUZDTU9yV0RtTWFHYWpJVHhISllZZFZIbUk4a1cxX190WEs?oc=5",
+        "date": "2025-11-23",
+        "title": "Proposal of removing construction permits in urban areas raises controvery - vietnamnews.vn",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTE4QTV2cDZ5cjQtdVJ4dDlsMHRCYUpvUEtnazFLZ1lSTGJneHYzbVA4N1ZBa3lZSjBSOHFUaEI0V0NFNnRSZ1RJVXhaV3BCTXNQSUVtbk56bnZxUEFoRHk2REJVUkw3Q0hiZV9wQTZUOUlXRjF6dWhjbGRoaWxXRm1jVkdIQlNkVDNWX294OWxrQ3A3YmpYc1EtVWtvcy1BdzdJckVLVzJwRUZDTU9yV0RtTWFHYWpJVHhISllZZFZIbUk4a1cxX190WEs?oc=5\" target=\"_blank\">Proposal of removing construction permits in urban areas raises controvery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vietnamnews.vn</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nejhnRjJ5bHE0U2wza3lyeXJTQ0ZqN2U1UFRiY0ZSMEVHZzVzMHNzTjlHX3FUZVZOT0JvbHgtRHV4V2wzUHk5RlNmcUFjS1pTYVE?oc=5",
+        "date": "2025-11-23",
+        "title": "LG Electronics is supplying advanced air conditioning (HVAC) solutions and artificial intelligence - \ub9e4\uc77c\uacbd\uc81c",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nejhnRjJ5bHE0U2wza3lyeXJTQ0ZqN2U1UFRiY0ZSMEVHZzVzMHNzTjlHX3FUZVZOT0JvbHgtRHV4V2wzUHk5RlNmcUFjS1pTYVE?oc=5\" target=\"_blank\">LG Electronics is supplying advanced air conditioning (HVAC) solutions and artificial intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\ub9e4\uc77c\uacbd\uc81c</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
