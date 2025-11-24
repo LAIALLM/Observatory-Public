@@ -1832,5 +1832,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Andhra Pradesh unveils Rs 2.8 lakh crore blueprint to transform urban development across the state",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-24",
+        "status": "posted",
+        "tweet": "Bitcoin's 25,000 nodes (2025): 38% \ud83c\uddfa\ud83c\uddf8US, 18% \ud83c\udde9\ud83c\uddeaGermany, 12% \ud83c\uddeb\ud83c\uddf7France.\n\nEthereum's 11,000 nodes: 28% \ud83c\uddfa\ud83c\uddf8US, 22% \ud83c\uddf3\ud83c\uddf1Netherlands, 15% \ud83c\udde9\ud83c\uddeaGermany.\n\nBTC's broader spread cuts avg node energy costs by 15% vs ETH's Europe-heavy setup.",
+        "type": "crypto"
     }
 ]
