@@ -1951,5 +1951,12 @@
         "status": "posted",
         "tweet": "Ethereum: 1M+ validators across 100+ countries, infra costs ~$100/month per node (modest hardware/cloud).\n\nSolana: 2K validators, 70% in \ud83c\uddfa\ud83c\uddf8US/\ud83c\udde8\ud83c\udde6Canada/\ud83c\uddea\ud83c\uddfaEU, ~$800/month per node (high-performance rigs).\n\nDecentralization drives Ethereum's lower per-validator overhead.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-11-25",
+        "status": "posted",
+        "tweet": "NVIDIA's AI infrastructure in \ud83c\uddfa\ud83c\uddf8 United States consumes 750 MW daily for GPU clusters in 2025.\n\n$NVDA",
+        "type": "infrastructure"
     }
 ]
