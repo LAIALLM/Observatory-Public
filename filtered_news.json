@@ -1944,5 +1944,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Indias Ministry of Power launches IES Taskforce to advance digital energy infrastructure nationwide.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-25",
+        "status": "posted",
+        "tweet": "Ethereum: 1M+ validators across 100+ countries, infra costs ~$100/month per node (modest hardware/cloud).\n\nSolana: 2K validators, 70% in \ud83c\uddfa\ud83c\uddf8US/\ud83c\udde8\ud83c\udde6Canada/\ud83c\uddea\ud83c\uddfaEU, ~$800/month per node (high-performance rigs).\n\nDecentralization drives Ethereum's lower per-validator overhead.",
+        "type": "crypto"
     }
 ]
