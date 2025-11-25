@@ -1,212 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-11-15",
-        "status": "posted",
-        "tweet": "2025: \ud83c\uddee\ud83c\udde9 Indonesia ~282M vs \ud83c\uddf5\ud83c\uddf0 Pakistan ~244M.\n\n2050: \ud83c\uddee\ud83c\udde9 Indonesia ~317M vs \ud83c\uddf5\ud83c\uddf0 Pakistan ~366M.",
-        "type": "statistical",
-        "category": "population"
-    },
-    {
-        "link": null,
-        "date": "2025-11-15",
-        "status": "posted",
-        "tweet": "Microsoft Azure's global infrastructure hit 10 zettabytes of storage capacity in 2025, up 25% YoY.\n\n$MSFT",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2025-11-15",
-        "status": "posted",
-        "tweet": "Summary: In 2025, Solana offers the lowest infrastructural cost per transaction throughput at $20K/TPS, dwarfing Ethereum and Bitcoin.\n\n1. Solana: $20,000 per TPS (1,000 TPS, $20M annual infra cost)\n2. Ethereum: $3.3M per TPS (15 TPS, $50M annual infra cost)\n3. Bitcoin: $1.25B pe",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeTF3WjFTdUNTNUJfdHVnMnlMQzFPalB0YmxkcVJFMkctMldqUGJENzVJaV9jQklmYmtxVDRBdHVoN0VqYmgwaUhWcUhIZURNcnp4Qlk1allzRHRzTUVONnhpNnc0TjgxX3dnTlduNnNDeDNoaGlVOVRkc0dpeURUcE91U1NyVmxvbkgwc1NkS0JObVFBRjY0Sk9hZF9pRWd5ZDlWMzRfR05oYWg3RmktWGg4aVpHOFdlZEYzQXBEeWZ4YXN3UGVDcm9yaHVKMnhNeU9BUnVnbFdsMk90Z2x3?oc=5",
-        "date": "2025-11-15",
-        "title": "High-Performance Adhesive Market Projected to Reach USD 3.185 Billion by 2035 with a 4.4% CAGR During 2025\u20132035 - industrytoday.co.uk",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeTF3WjFTdUNTNUJfdHVnMnlMQzFPalB0YmxkcVJFMkctMldqUGJENzVJaV9jQklmYmtxVDRBdHVoN0VqYmgwaUhWcUhIZURNcnp4Qlk1allzRHRzTUVONnhpNnc0TjgxX3dnTlduNnNDeDNoaGlVOVRkc0dpeURUcE91U1NyVmxvbkgwc1NkS0JObVFBRjY0Sk9hZF9pRWd5ZDlWMzRfR05oYWg3RmktWGg4aVpHOFdlZEYzQXBEeWZ4YXN3UGVDcm9yaHVKMnhNeU9BUnVnbFdsMk90Z2x3?oc=5\" target=\"_blank\">High-Performance Adhesive Market Projected to Reach USD 3.185 Billion by 2035 with a 4.4% CAGR During 2025\u20132035</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">industrytoday.co.uk</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWVV3clBxRk92UldMRWRHRTZNRVFLTjZ0NU94T2xWZXQyeWpJSmZUUTFKLXNQc1YwdURhYkpFbndKaG82Zk1GT1puNDQyNW5hRDRDT2FFVUN4TnBwZk1YZlcta0QtU3dwSXBvQVJoSWhoNF9ETzdjUEQ2T3B3Mlp3cjNISWpBSU5kb21zdWhRYmRrWmY3SGlGbUlPZ051Y2NpNGRBeTJycVNIaHNsdlo0ZXpSS0JXTEJvQTNqWFgtRXQyLUlDUGt5WnNUMlo1ZVY0bVJValZMVWI0QlBVSGVvc21ldG5ucWVFNk1WNVF3UTdRRVpL0gH6AUFVX3lxTE5LMXozWWdvZjJtUHp3Y0w3OFdBS2YydHJhd3Q4RERUS1dfdmNYU1owalRfbnJWaEFiYkp4V3IwQ0VyRmNxWGt3b1BnMUhqSmdTWkZFZnBCbERQUzROZDltaEg0WVhuWVpuSnljZHlyNHptenFVaHU3U0stY0hsZzhSdTRCQ0VxUHRSV1NjVjNXX2lIb3llN1J6aVNibXE1ajNYYzhGVFRmSEZ4eXliMXAzTTI0LVhJMHNqZmpxX3hnbmdkYXo5bnFOa0RDdkd4MHJLb3F3a1hyZ3dFREJORElVOWJER1FtYlluVU9aTjhEdzdRbktyQ2QtblE?oc=5",
-        "date": "2025-11-15",
-        "title": "IRB Infrastructure Trust bags TOT project from NHAI in UP for upfront Rs 9,270 cr - The Economic Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWVV3clBxRk92UldMRWRHRTZNRVFLTjZ0NU94T2xWZXQyeWpJSmZUUTFKLXNQc1YwdURhYkpFbndKaG82Zk1GT1puNDQyNW5hRDRDT2FFVUN4TnBwZk1YZlcta0QtU3dwSXBvQVJoSWhoNF9ETzdjUEQ2T3B3Mlp3cjNISWpBSU5kb21zdWhRYmRrWmY3SGlGbUlPZ051Y2NpNGRBeTJycVNIaHNsdlo0ZXpSS0JXTEJvQTNqWFgtRXQyLUlDUGt5WnNUMlo1ZVY0bVJValZMVWI0QlBVSGVvc21ldG5ucWVFNk1WNVF3UTdRRVpL0gH6AUFVX3lxTE5LMXozWWdvZjJtUHp3Y0w3OFdBS2YydHJhd3Q4RERUS1dfdmNYU1owalRfbnJWaEFiYkp4V3IwQ0VyRmNxWGt3b1BnMUhqSmdTWkZFZnBCbERQUzROZDltaEg0WVhuWVpuSnljZHlyNHptenFVaHU3U0stY0hsZzhSdTRCQ0VxUHRSV1NjVjNXX2lIb3llN1J6aVNibXE1ajNYYzhGVFRmSEZ4eXliMXAzTTI0LVhJMHNqZmpxX3hnbmdkYXo5bnFOa0RDdkd4MHJLb3F3a1hyZ3dFREJORElVOWJER1FtYlluVU9aTjhEdzdRbktyQ2QtblE?oc=5\" target=\"_blank\">IRB Infrastructure Trust bags TOT project from NHAI in UP for upfront Rs 9,270 cr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: IRB Infrastructure Trust secures TOT project from NHAI in Uttar Pradesh for upfront Rs 9,270 crore $IRB"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTWtQZDJzc0c1RnpzY2tNNE9pSXZIeGM0bV9rM1NibFRiak5lTnZDeWpqRlY0cHFSWU5Edlh0TE94dU4yNXhhbTg4UGVpRjVWT094Q0dOcDhKaDZ4bnlZY09qMWFqY2tlMTFPeF9udHhPbjFsTW1QOUxqWXE0dTZPZk1TdEdBUS1RWXNfNURwT01ESkRpcENBSzZCX3hrNVBKanlFS1ZJdjJnNm9feTRfZlZpbUhZOWVTdHlEek9Ba2JHTEtYM0pOVEJYenBEc0o3SU9udGEtNWlWZndTZTljekxCN1dzRVlkbjduUtIB_AFBVV95cUxPVWdQRlRlY21YNHd3U2ZBWHZqZC15YjBJT2RpcllrdUdkNXF2SW05NEp2TGt2dUdJbmdPSDhfYnNzQkZuV21iN1U5aHROY2JERV90WVdIbzZSYWo2M1VTdUs3OWo1a0MyLUtmZXJFZlRULUhlVlFyTXFKbmdDSkJwRDVDQVFlUWNTc1NyUzRzSFdiRDFyb2RDQV8wdjN6WVpxNzc0b0I2MWU2V1lTU0M4XzliUjJ3Y0tVODZUZFFNU3RMd2NmbjFqTEZpLTJObjVWeEJYODJWSkpIb0J1R21kWWQ4WE0ycTZtSVhjblhOLXl5SmF0RVRvWElnbng?oc=5",
-        "date": "2025-11-15",
-        "title": "Delhi-Mumbai Expressway Project: Eight-Lane Rs 20,000 Crore Vadodara-Mumbai Section Likely To Be Completed By Next Year - Swarajyamag",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTWtQZDJzc0c1RnpzY2tNNE9pSXZIeGM0bV9rM1NibFRiak5lTnZDeWpqRlY0cHFSWU5Edlh0TE94dU4yNXhhbTg4UGVpRjVWT094Q0dOcDhKaDZ4bnlZY09qMWFqY2tlMTFPeF9udHhPbjFsTW1QOUxqWXE0dTZPZk1TdEdBUS1RWXNfNURwT01ESkRpcENBSzZCX3hrNVBKanlFS1ZJdjJnNm9feTRfZlZpbUhZOWVTdHlEek9Ba2JHTEtYM0pOVEJYenBEc0o3SU9udGEtNWlWZndTZTljekxCN1dzRVlkbjduUtIB_AFBVV95cUxPVWdQRlRlY21YNHd3U2ZBWHZqZC15YjBJT2RpcllrdUdkNXF2SW05NEp2TGt2dUdJbmdPSDhfYnNzQkZuV21iN1U5aHROY2JERV90WVdIbzZSYWo2M1VTdUs3OWo1a0MyLUtmZXJFZlRULUhlVlFyTXFKbmdDSkJwRDVDQVFlUWNTc1NyUzRzSFdiRDFyb2RDQV8wdjN6WVpxNzc0b0I2MWU2V1lTU0M4XzliUjJ3Y0tVODZUZFFNU3RMd2NmbjFqTEZpLTJObjVWeEJYODJWSkpIb0J1R21kWWQ4WE0ycTZtSVhjblhOLXl5SmF0RVRvWElnbng?oc=5\" target=\"_blank\">Delhi-Mumbai Expressway Project: Eight-Lane Rs 20,000 Crore Vadodara-Mumbai Section Likely To Be Completed By Next Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Swarajyamag</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Eight-lane Vadodara-Mumbai section of Delhi-Mumbai Expressway, worth Rs 20,000 crore, likely to be completed by next year"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMWVQYTU1TV9kNzd3NVBtVGtfUmk2MlVLUU9GS0ZkU09udDJzcGdwd3JVT3p5aElqRUdfZHE3OHVydEI3OG5pVUZ5ZTBfd1FEU1Jvd3ZCejNHdXRNWHB4Qnh5VWJJcnBPeTlVNkk4QWlHcDNMaUlybF9oaHo4QXgzdjZxYmFkRGpYRjNYdno0TldjNUltSWhyMUtrdmpOVm1LemN5OTM0YTh5M2hZR2ZwbThyY1d2dlVvUGJETlU4TWZQWWpyX1lYc1pnVmpWRGlUWW0yY1F5MTVXdGdTUElWREJiMDBBZ0HSAe4BQVVfeXFMTTIzblRxaWtUbHVZcDRjVkd5TE5SODJTaFk3UW9MYV9rUkdscVpZXzFvSHNjZ2VyYS0tS3J0aUVDQVFXUGNSM0pJaEx5U0pxaTZZaHlwZUJzdkhqeTNrdWFyMEJGSHRtdXo1QzgyLXdnZVFHc2xSWnFsS0phOXZ4Q1RUVkx5a2VYaGFBMEZhSEloa0xIQ3JwSUVUUXctR24yY1k4akw1dUNnTjYxOWNxaXprYkdmeUE4Q0xJNnR5QjJKRjRTdjBfYTRQdVlzdVJpd3hmTU1vcmYyU2gwVUFfcFBNRmoyZkVQcXZUSXh2QQ?oc=5",
-        "date": "2025-11-15",
-        "title": "IRB Infrastructure Trust bags TOT project from NHAI in UP for upfront \u20b99,270 cr - BusinessLine",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMWVQYTU1TV9kNzd3NVBtVGtfUmk2MlVLUU9GS0ZkU09udDJzcGdwd3JVT3p5aElqRUdfZHE3OHVydEI3OG5pVUZ5ZTBfd1FEU1Jvd3ZCejNHdXRNWHB4Qnh5VWJJcnBPeTlVNkk4QWlHcDNMaUlybF9oaHo4QXgzdjZxYmFkRGpYRjNYdno0TldjNUltSWhyMUtrdmpOVm1LemN5OTM0YTh5M2hZR2ZwbThyY1d2dlVvUGJETlU4TWZQWWpyX1lYc1pnVmpWRGlUWW0yY1F5MTVXdGdTUElWREJiMDBBZ0HSAe4BQVVfeXFMTTIzblRxaWtUbHVZcDRjVkd5TE5SODJTaFk3UW9MYV9rUkdscVpZXzFvSHNjZ2VyYS0tS3J0aUVDQVFXUGNSM0pJaEx5U0pxaTZZaHlwZUJzdkhqeTNrdWFyMEJGSHRtdXo1QzgyLXdnZVFHc2xSWnFsS0phOXZ4Q1RUVkx5a2VYaGFBMEZhSEloa0xIQ3JwSUVUUXctR24yY1k4akw1dUNnTjYxOWNxaXprYkdmeUE4Q0xJNnR5QjJKRjRTdjBfYTRQdVlzdVJpd3hmTU1vcmYyU2gwVUFfcFBNRmoyZkVQcXZUSXh2QQ?oc=5\" target=\"_blank\">IRB Infrastructure Trust bags TOT project from NHAI in UP for upfront \u20b99,270 cr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BusinessLine</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2dndkJBaHh0VjRGMXdOMnFqaUttUWNhR2x3R2R0ZDcxYWl1Tkl3NUxvRThCbDAyOGtFelJtdDZYaTRPZDFPTzFBejVOS1JfempFOUNIa0hKUkxCQVlvdDBnMmU4NG5qeWMxVU9ndDI3bG8yZG9kS3BFbm5zMjY4T0NhWkRJQjVXcmxSMHJyaE16aW1faEhwRWVnYnI4eW1KQzZobHB4TTFwTks3NklzeFJQeTZ4aHd5Y0F5bTdORjRXSjJZa0Vr?oc=5",
-        "date": "2025-11-15",
-        "title": "IRB Infrastructure Trust bags TOT project from NHAI in UP for upfront Rs 9,270 cr - Press Trust of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2dndkJBaHh0VjRGMXdOMnFqaUttUWNhR2x3R2R0ZDcxYWl1Tkl3NUxvRThCbDAyOGtFelJtdDZYaTRPZDFPTzFBejVOS1JfempFOUNIa0hKUkxCQVlvdDBnMmU4NG5qeWMxVU9ndDI3bG8yZG9kS3BFbm5zMjY4T0NhWkRJQjVXcmxSMHJyaE16aW1faEhwRWVnYnI4eW1KQzZobHB4TTFwTks3NklzeFJQeTZ4aHd5Y0F5bTdORjRXSjJZa0Vr?oc=5\" target=\"_blank\">IRB Infrastructure Trust bags TOT project from NHAI in UP for upfront Rs 9,270 cr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Press Trust of India</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeUhLaWNIRUpPZ3Z5RHp4WEp5VkVxT1IxTE5DdUJVekQySF9LLU5pR1o4OWgwSXpMR3VOX3pERmJzSDBOVWtweHpJU2RHNjAzY2tBY280ekllWGpzdkNaY3BJTE5FbmgtR2Z3UjcwX2E1VzVFXzI4bHNqYjFGb05RaXBLTDNXVTVxWjRYelBGTlV4OGNNR1Z5anlzZW52X0JiZTFPcmdXcXV6Tjd3RlZiN0cwVnFRclMzUDBpRzZ5Y2ZNUdIBxwFBVV95cUxPR1dxVmM2SWxuZmdsZG9kQ1JpNTVQc2pMdVBOMVNHTklGVU9ydU54MnVRaUMxZXlMREdBdWZzMFVVOTNrRTdYZzN0bGQwY1ByTkpETjBDdXREbElDbkZmeFBZRVJ3LVo4NS0yM2dnNG4xalNJaDJuakdqS093RDRqbnJJb3M3WXNYVGFoc1BxRHVlVDNoemVSam5pV2hQeVg5SU1YeURTa1M4N3pIUkZYLVl4RUwwREk3a09Ram52Zi02YzY4Mk1J?oc=5",
-        "date": "2025-11-15",
-        "title": "IRB Infrastructure Trust Wins Major NHAI Toll Project in Uttar Pradesh - Devdiscourse",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeUhLaWNIRUpPZ3Z5RHp4WEp5VkVxT1IxTE5DdUJVekQySF9LLU5pR1o4OWgwSXpMR3VOX3pERmJzSDBOVWtweHpJU2RHNjAzY2tBY280ekllWGpzdkNaY3BJTE5FbmgtR2Z3UjcwX2E1VzVFXzI4bHNqYjFGb05RaXBLTDNXVTVxWjRYelBGTlV4OGNNR1Z5anlzZW52X0JiZTFPcmdXcXV6Tjd3RlZiN0cwVnFRclMzUDBpRzZ5Y2ZNUdIBxwFBVV95cUxPR1dxVmM2SWxuZmdsZG9kQ1JpNTVQc2pMdVBOMVNHTklGVU9ydU54MnVRaUMxZXlMREdBdWZzMFVVOTNrRTdYZzN0bGQwY1ByTkpETjBDdXREbElDbkZmeFBZRVJ3LVo4NS0yM2dnNG4xalNJaDJuakdqS093RDRqbnJJb3M3WXNYVGFoc1BxRHVlVDNoemVSam5pV2hQeVg5SU1YeURTa1M4N3pIUkZYLVl4RUwwREk3a09Ram52Zi02YzY4Mk1J?oc=5\" target=\"_blank\">IRB Infrastructure Trust Wins Major NHAI Toll Project in Uttar Pradesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWVV3clBxRk92UldMRWRHRTZNRVFLTjZ0NU94T2xWZXQyeWpJSmZUUTFKLXNQc1YwdURhYkpFbndKaG82Zk1GT1puNDQyNW5hRDRDT2FFVUN4TnBwZk1YZlcta0QtU3dwSXBvQVJoSWhoNF9ETzdjUEQ2T3B3Mlp3cjNISWpBSU5kb21zdWhRYmRrWmY3SGlGbUlPZ051Y2NpNGRBeTJycVNIaHNsdlo0ZXpSS0JXTEJvQTNqWFgtRXQyLUlDUGt5WnNUMlo1ZVY0bVJValZMVWI0QlBVSGVvc21ldG5ucWVFNk1WNVF3UTdRRVpL0gH6AUFVX3lxTE5LMXozWWdvZjJtUHp3Y0w3OFdBS2YydHJhd3Q4RERUS1dfdmNYU1owalRfbnJWaEFiYkp4V3IwQ0VyRmNxWGt3b1BnMUhqSmdTWkZFZnBCbERQUzROZDltaEg0WVhuWVpuSnljZHlyNHptenFVaHU3U0stY0hsZzhSdTRCQ0VxUHRSV1NjVjNXX2lIb3llN1J6aVNibXE1ajNYYzhGVFRmSEZ4eXliMXAzTTI0LVhJMHNqZmpxX3hnbmdkYXo5bnFOa0RDdkd4MHJLb3F3a1hyZ3dFREJORElVOWJER1FtYlluVU9aTjhEdzdRbktyQ2QtblE?oc=5",
-        "date": "2025-11-15",
-        "title": "IRB Infrastructure Trust bags TOT project from NHAI in UP for upfront Rs 9,270 cr - The Economic Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWVV3clBxRk92UldMRWRHRTZNRVFLTjZ0NU94T2xWZXQyeWpJSmZUUTFKLXNQc1YwdURhYkpFbndKaG82Zk1GT1puNDQyNW5hRDRDT2FFVUN4TnBwZk1YZlcta0QtU3dwSXBvQVJoSWhoNF9ETzdjUEQ2T3B3Mlp3cjNISWpBSU5kb21zdWhRYmRrWmY3SGlGbUlPZ051Y2NpNGRBeTJycVNIaHNsdlo0ZXpSS0JXTEJvQTNqWFgtRXQyLUlDUGt5WnNUMlo1ZVY0bVJValZMVWI0QlBVSGVvc21ldG5ucWVFNk1WNVF3UTdRRVpL0gH6AUFVX3lxTE5LMXozWWdvZjJtUHp3Y0w3OFdBS2YydHJhd3Q4RERUS1dfdmNYU1owalRfbnJWaEFiYkp4V3IwQ0VyRmNxWGt3b1BnMUhqSmdTWkZFZnBCbERQUzROZDltaEg0WVhuWVpuSnljZHlyNHptenFVaHU3U0stY0hsZzhSdTRCQ0VxUHRSV1NjVjNXX2lIb3llN1J6aVNibXE1ajNYYzhGVFRmSEZ4eXliMXAzTTI0LVhJMHNqZmpxX3hnbmdkYXo5bnFOa0RDdkd4MHJLb3F3a1hyZ3dFREJORElVOWJER1FtYlluVU9aTjhEdzdRbktyQ2QtblE?oc=5\" target=\"_blank\">IRB Infrastructure Trust bags TOT project from NHAI in UP for upfront Rs 9,270 cr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: IRB Infrastructure Trust wins TOT project from NHAI in UP for Rs 9,270 cr upfront $IRB",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTWtQZDJzc0c1RnpzY2tNNE9pSXZIeGM0bV9rM1NibFRiak5lTnZDeWpqRlY0cHFSWU5Edlh0TE94dU4yNXhhbTg4UGVpRjVWT094Q0dOcDhKaDZ4bnlZY09qMWFqY2tlMTFPeF9udHhPbjFsTW1QOUxqWXE0dTZPZk1TdEdBUS1RWXNfNURwT01ESkRpcENBSzZCX3hrNVBKanlFS1ZJdjJnNm9feTRfZlZpbUhZOWVTdHlEek9Ba2JHTEtYM0pOVEJYenBEc0o3SU9udGEtNWlWZndTZTljekxCN1dzRVlkbjduUtIB_AFBVV95cUxPVWdQRlRlY21YNHd3U2ZBWHZqZC15YjBJT2RpcllrdUdkNXF2SW05NEp2TGt2dUdJbmdPSDhfYnNzQkZuV21iN1U5aHROY2JERV90WVdIbzZSYWo2M1VTdUs3OWo1a0MyLUtmZXJFZlRULUhlVlFyTXFKbmdDSkJwRDVDQVFlUWNTc1NyUzRzSFdiRDFyb2RDQV8wdjN6WVpxNzc0b0I2MWU2V1lTU0M4XzliUjJ3Y0tVODZUZFFNU3RMd2NmbjFqTEZpLTJObjVWeEJYODJWSkpIb0J1R21kWWQ4WE0ycTZtSVhjblhOLXl5SmF0RVRvWElnbng?oc=5",
-        "date": "2025-11-15",
-        "title": "Delhi-Mumbai Expressway Project: Eight-Lane Rs 20,000 Crore Vadodara-Mumbai Section Likely To Be Completed By Next Year - Swarajyamag",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTWtQZDJzc0c1RnpzY2tNNE9pSXZIeGM0bV9rM1NibFRiak5lTnZDeWpqRlY0cHFSWU5Edlh0TE94dU4yNXhhbTg4UGVpRjVWT094Q0dOcDhKaDZ4bnlZY09qMWFqY2tlMTFPeF9udHhPbjFsTW1QOUxqWXE0dTZPZk1TdEdBUS1RWXNfNURwT01ESkRpcENBSzZCX3hrNVBKanlFS1ZJdjJnNm9feTRfZlZpbUhZOWVTdHlEek9Ba2JHTEtYM0pOVEJYenBEc0o3SU9udGEtNWlWZndTZTljekxCN1dzRVlkbjduUtIB_AFBVV95cUxPVWdQRlRlY21YNHd3U2ZBWHZqZC15YjBJT2RpcllrdUdkNXF2SW05NEp2TGt2dUdJbmdPSDhfYnNzQkZuV21iN1U5aHROY2JERV90WVdIbzZSYWo2M1VTdUs3OWo1a0MyLUtmZXJFZlRULUhlVlFyTXFKbmdDSkJwRDVDQVFlUWNTc1NyUzRzSFdiRDFyb2RDQV8wdjN6WVpxNzc0b0I2MWU2V1lTU0M4XzliUjJ3Y0tVODZUZFFNU3RMd2NmbjFqTEZpLTJObjVWeEJYODJWSkpIb0J1R21kWWQ4WE0ycTZtSVhjblhOLXl5SmF0RVRvWElnbng?oc=5\" target=\"_blank\">Delhi-Mumbai Expressway Project: Eight-Lane Rs 20,000 Crore Vadodara-Mumbai Section Likely To Be Completed By Next Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Swarajyamag</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Eight-lane Rs 20,000 crore Vadodara-Mumbai section of Delhi-Mumbai Expressway likely to be completed by next year",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaHBkREVLaFlTMkJnTDJ2cU1aSjcxbEs5OE5wODVISi1PdWhfTXpJS0pOMlRYd1UyRVQ4M09PRDlKM09VdHZHLWN2M2ZQY2lIZi1sdHVIVG1ENFJ2ZnU3S29IVVdQcWxwTnpZSS1aSUgwX1hleGI4NnBIWEEwV3ozcGlFY1p0V2xCZHc?oc=5",
-        "date": "2025-11-15",
-        "title": "We\u2019re not intermediaries. We\u2019re infrastructure. - Alliance magazine",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNaHBkREVLaFlTMkJnTDJ2cU1aSjcxbEs5OE5wODVISi1PdWhfTXpJS0pOMlRYd1UyRVQ4M09PRDlKM09VdHZHLWN2M2ZQY2lIZi1sdHVIVG1ENFJ2ZnU3S29IVVdQcWxwTnpZSS1aSUgwX1hleGI4NnBIWEEwV3ozcGlFY1p0V2xCZHc?oc=5\" target=\"_blank\">We\u2019re not intermediaries. We\u2019re infrastructure.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alliance magazine</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGg0SlRsZ25wcVdjT0JaZG94VW1hbVRYYWJfcFRkQi1NOGhtTWFmMnFTM2RaQlIwdU9ZN0d4ak5wRTd6Ty04S0dycnNpUjc1TjU5LVFvdF9EWEZwU3J1d1VlNFBHazM5UTBXM2ZETzkteDkwNm1rMk1lMzg0VTEydzBIWENDR1ZjbmRNcHc5WHphQnV6SzJYMFlWODJPLXhLWXp6TjAwVXI0RHdXYmlpaGVZRUNnU1lVTF94c1dPWWphekUzZXI4QTROMUVLWXpMQ0szdGwtRQ?oc=5",
-        "date": "2025-11-15",
-        "title": "Former \u201cAkkord Construction Industry\u201d owner Ilgar Hajiyev summoned to Azerbaijan's Prosecutor General\u2019s Office - Apa.az",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGg0SlRsZ25wcVdjT0JaZG94VW1hbVRYYWJfcFRkQi1NOGhtTWFmMnFTM2RaQlIwdU9ZN0d4ak5wRTd6Ty04S0dycnNpUjc1TjU5LVFvdF9EWEZwU3J1d1VlNFBHazM5UTBXM2ZETzkteDkwNm1rMk1lMzg0VTEydzBIWENDR1ZjbmRNcHc5WHphQnV6SzJYMFlWODJPLXhLWXp6TjAwVXI0RHdXYmlpaGVZRUNnU1lVTF94c1dPWWphekUzZXI4QTROMUVLWXpMQ0szdGwtRQ?oc=5\" target=\"_blank\">Former \u201cAkkord Construction Industry\u201d owner Ilgar Hajiyev summoned to Azerbaijan's Prosecutor General\u2019s Office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apa.az</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanhWVWtJa1VHQk1jLU1JSVlJcVJ0S0lCd1BvT0dET3JCS0g0d1hSeFNMcEU2QVl1TXNVd05OdWxlMGRPSUhvT0VWSmVkaWJVRmNzV0VXZ2NsVGpFekdHdEJvd3FabEVKRWY2TGl6NWlaSjEyZW5GLWc4eWF1MUZpQkF5YTFzQTdNRmp3VTFrc2N5Q29VOEhwc3BuNjM1SWo3OWtEaG8yNlJTY1E?oc=5",
-        "date": "2025-11-15",
-        "title": "What Does Technical Analysis Say About Maruti Infrastructure Limited Stock - Market Sentiment Report & Rapid Portfolio Expansion - earlytimes.in",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanhWVWtJa1VHQk1jLU1JSVlJcVJ0S0lCd1BvT0dET3JCS0g0d1hSeFNMcEU2QVl1TXNVd05OdWxlMGRPSUhvT0VWSmVkaWJVRmNzV0VXZ2NsVGpFekdHdEJvd3FabEVKRWY2TGl6NWlaSjEyZW5GLWc4eWF1MUZpQkF5YTFzQTdNRmp3VTFrc2N5Q29VOEhwc3BuNjM1SWo3OWtEaG8yNlJTY1E?oc=5\" target=\"_blank\">What Does Technical Analysis Say About Maruti Infrastructure Limited Stock - Market Sentiment Report & Rapid Portfolio Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">earlytimes.in</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3dEb3I4eERabWEwLW05RUtoVlhtc2o2MnZ0VHhoVXRMcGd2QTVEbDhQU1NSZGpuMkFlcWtPYTZnajNLelRkaHZPdUlVeVNxbFJrVHM4SHVqeVN1N1hNbG4wMXFOYTYySVNiV2t5QVV1bl9VSnIzMXQzUGhNUWt1SVlKS21PMWJMaHlGTmplRUdQdWtrN3dF0gGcAUFVX3lxTE5GTmJVUWZESnNZb29tZUdFQkMwUXdfWGdyNVByemlzSFhuWXc3azA4U0dCOFBmOGJ0OHB3YVl0dllXTndfOGRHdmtjLUZjelFCdkRJdVNaVzNwLXBBUFdfR19LeFJIdUg0aGZjb2lacm9SS3FIdnpWbXZTN0tVWjFDc18tX3FOQVg0MHozUmlXQWZkZ21JeEZKeENKYw?oc=5",
-        "date": "2025-11-15",
-        "title": "MoE provides 75 computers to schools in UP's Bhagpat to strengthen digital infrastructure - theweek.in",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3dEb3I4eERabWEwLW05RUtoVlhtc2o2MnZ0VHhoVXRMcGd2QTVEbDhQU1NSZGpuMkFlcWtPYTZnajNLelRkaHZPdUlVeVNxbFJrVHM4SHVqeVN1N1hNbG4wMXFOYTYySVNiV2t5QVV1bl9VSnIzMXQzUGhNUWt1SVlKS21PMWJMaHlGTmplRUdQdWtrN3dF0gGcAUFVX3lxTE5GTmJVUWZESnNZb29tZUdFQkMwUXdfWGdyNVByemlzSFhuWXc3azA4U0dCOFBmOGJ0OHB3YVl0dllXTndfOGRHdmtjLUZjelFCdkRJdVNaVzNwLXBBUFdfR19LeFJIdUg0aGZjb2lacm9SS3FIdnpWbXZTN0tVWjFDc18tX3FOQVg0MHozUmlXQWZkZ21JeEZKeENKYw?oc=5\" target=\"_blank\">MoE provides 75 computers to schools in UP's Bhagpat to strengthen digital infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theweek.in</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFl0TFQwclZmeDVXTXJiWThFV2I5cloyLWFPN3RjVXpxdDlDTFhXZ0ZIVmU1empROU5IeThaS2lWUXNIck80Q2h5TllMUXdhTDV3RGRTb2J2VExzUW92aUVzSGNYN2t1TVlaTUtDVzE0S19fZWtnOVh2cnpqekFJQ0pBYndNRGhOR1VONndybHA?oc=5",
-        "date": "2025-11-15",
-        "title": "Dhami inaugurates Jauljibi Mela & unveils infrastructure projects - Garhwal Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFl0TFQwclZmeDVXTXJiWThFV2I5cloyLWFPN3RjVXpxdDlDTFhXZ0ZIVmU1empROU5IeThaS2lWUXNIck80Q2h5TllMUXdhTDV3RGRTb2J2VExzUW92aUVzSGNYN2t1TVlaTUtDVzE0S19fZWtnOVh2cnpqekFJQ0pBYndNRGhOR1VONndybHA?oc=5\" target=\"_blank\">Dhami inaugurates Jauljibi Mela & unveils infrastructure projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Garhwal Post</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMFg3UWhRUXVsNjdiY1pKR3NHZGdlVXdydHRGU0toSm90eXM3b2NXWFRsNXJuTEdkTjZMakIycVJlbnRRYW9hQktqLXlaeGZWb2t1dG1kNkNYRG4wZ2dHcG8ydy1iVDBYU3MxYlZNNkJCVU1BTnhsTUVRX3hfVUZkOE5BY2VvRUVEQW5LczVrQldHYU1Sa3lBRTk2NW8tTmVvWTZDZ0RRVWVGNzJSRmhvd0hYemdyb2c0NlhXQg?oc=5",
-        "date": "2025-11-15",
-        "title": "Can CIAN Agro Industries Infrastructure Limited Maintain Its Growth Rate as a Small Cap - Quarterly Earnings Review & Free High Yield Market Plays - earlytimes.in",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMFg3UWhRUXVsNjdiY1pKR3NHZGdlVXdydHRGU0toSm90eXM3b2NXWFRsNXJuTEdkTjZMakIycVJlbnRRYW9hQktqLXlaeGZWb2t1dG1kNkNYRG4wZ2dHcG8ydy1iVDBYU3MxYlZNNkJCVU1BTnhsTUVRX3hfVUZkOE5BY2VvRUVEQW5LczVrQldHYU1Sa3lBRTk2NW8tTmVvWTZDZ0RRVWVGNzJSRmhvd0hYemdyb2c0NlhXQg?oc=5\" target=\"_blank\">Can CIAN Agro Industries Infrastructure Limited Maintain Its Growth Rate as a Small Cap - Quarterly Earnings Review & Free High Yield Market Plays</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">earlytimes.in</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV2dkUS1pRDVKZ215ZEtTRnA2UjZWMzloNVpiVWlmZXRWNHFMZnB4Uk4xSTZlM3dNZld3Um16TGpNeENqdjdpaTBmSVBrQ01PYjh6Z2xYamxCV3lwbElCMVlKSjhzMFZFUFFFOTZ3UWJRa0Vqa3lXWlhRTXNmR3o1UDJUZnEzaE4zSXJIbTZVbEd3YU1ZMmhRQW1xMi1KNjBBTm5jMkRsbUl1cTdEeXZTc1VGdm0tMFB3cldiMGJQR0JTYmEzazVOODVPMUhMbktM?oc=5",
-        "date": "2025-11-15",
-        "title": "Chhattisgarh CM Vishnu deo Sai Launches \u20b9329 Crore Development Projects in Bilaspur on Janjatiya Gaurav Divas - Indian Masterminds",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV2dkUS1pRDVKZ215ZEtTRnA2UjZWMzloNVpiVWlmZXRWNHFMZnB4Uk4xSTZlM3dNZld3Um16TGpNeENqdjdpaTBmSVBrQ01PYjh6Z2xYamxCV3lwbElCMVlKSjhzMFZFUFFFOTZ3UWJRa0Vqa3lXWlhRTXNmR3o1UDJUZnEzaE4zSXJIbTZVbEd3YU1ZMmhRQW1xMi1KNjBBTm5jMkRsbUl1cTdEeXZTc1VGdm0tMFB3cldiMGJQR0JTYmEzazVOODVPMUhMbktM?oc=5\" target=\"_blank\">Chhattisgarh CM Vishnu deo Sai Launches \u20b9329 Crore Development Projects in Bilaspur on Janjatiya Gaurav Divas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Masterminds</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Chhattisgarh CM Vishnu Deo Sai launches \u20b9329 crore development projects in Bilaspur to mark Janjatiya Gaurav Divas"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDFBYTFTcnVXbjZxWkFGeXlXVUtLa2JVNEd0SjE2djhNWFBZUFRoMTVkaEJlRk4xOXlGUDVFY0NzVE1rbEFULV9JRjdfa2tvM01MZlBWcGE2X3lxbXNvUEJET1NPdm93V0JzTkh0Tndzei1wWkFkSjJLMW4yVnllYnFPTm4tcFYxR3UxUEM3alFDT1VTQWx5dEl3djNtTFowR0dINjd3X3JDQkctSFFSMEtMRUwxS1c2eFNyRUUtb9IBxAFBVV95cUxPbmNYRm1EZGZLWFcxMkhFWWp4N1dsSE95T2REdjE1dlFuU1NkT1c4SGlMUDNyRjhfdlBWUDhGNVl0TmZMcTFkUlN1MktFUFJ6eUNlZlpkay0zSGdTSWJZeUhDTTNEZmZ5bGVUa0ZjdE5zX3lSVHY5SFFHSk1JNlpSTW5pVnlQeXFxOFY5NWxXdlh1T29TS1UtaTREaGRQc3lCNGJjTFNtV0M3ajBnVGh4TW94Y0d1dzZKRWZ4S2h4TDJEUHVI?oc=5",
-        "date": "2025-11-15",
-        "title": "Vision 2050: Transforming Jharkhand into a Developed State - Devdiscourse",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDFBYTFTcnVXbjZxWkFGeXlXVUtLa2JVNEd0SjE2djhNWFBZUFRoMTVkaEJlRk4xOXlGUDVFY0NzVE1rbEFULV9JRjdfa2tvM01MZlBWcGE2X3lxbXNvUEJET1NPdm93V0JzTkh0Tndzei1wWkFkSjJLMW4yVnllYnFPTm4tcFYxR3UxUEM3alFDT1VTQWx5dEl3djNtTFowR0dINjd3X3JDQkctSFFSMEtMRUwxS1c2eFNyRUUtb9IBxAFBVV95cUxPbmNYRm1EZGZLWFcxMkhFWWp4N1dsSE95T2REdjE1dlFuU1NkT1c4SGlMUDNyRjhfdlBWUDhGNVl0TmZMcTFkUlN1MktFUFJ6eUNlZlpkay0zSGdTSWJZeUhDTTNEZmZ5bGVUa0ZjdE5zX3lSVHY5SFFHSk1JNlpSTW5pVnlQeXFxOFY5NWxXdlh1T29TS1UtaTREaGRQc3lCNGJjTFNtV0M3ajBnVGh4TW94Y0d1dzZKRWZ4S2h4TDJEUHVI?oc=5\" target=\"_blank\">Vision 2050: Transforming Jharkhand into a Developed State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Vision 2050 outlines bold plans to transform Jharkhand into a fully developed state by mid-century."
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV2dkUS1pRDVKZ215ZEtTRnA2UjZWMzloNVpiVWlmZXRWNHFMZnB4Uk4xSTZlM3dNZld3Um16TGpNeENqdjdpaTBmSVBrQ01PYjh6Z2xYamxCV3lwbElCMVlKSjhzMFZFUFFFOTZ3UWJRa0Vqa3lXWlhRTXNmR3o1UDJUZnEzaE4zSXJIbTZVbEd3YU1ZMmhRQW1xMi1KNjBBTm5jMkRsbUl1cTdEeXZTc1VGdm0tMFB3cldiMGJQR0JTYmEzazVOODVPMUhMbktM?oc=5",
-        "date": "2025-11-15",
-        "title": "Chhattisgarh CM Vishnu deo Sai Launches \u20b9329 Crore Development Projects in Bilaspur on Janjatiya Gaurav Divas - Indian Masterminds",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV2dkUS1pRDVKZ215ZEtTRnA2UjZWMzloNVpiVWlmZXRWNHFMZnB4Uk4xSTZlM3dNZld3Um16TGpNeENqdjdpaTBmSVBrQ01PYjh6Z2xYamxCV3lwbElCMVlKSjhzMFZFUFFFOTZ3UWJRa0Vqa3lXWlhRTXNmR3o1UDJUZnEzaE4zSXJIbTZVbEd3YU1ZMmhRQW1xMi1KNjBBTm5jMkRsbUl1cTdEeXZTc1VGdm0tMFB3cldiMGJQR0JTYmEzazVOODVPMUhMbktM?oc=5\" target=\"_blank\">Chhattisgarh CM Vishnu deo Sai Launches \u20b9329 Crore Development Projects in Bilaspur on Janjatiya Gaurav Divas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Masterminds</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Chhattisgarh CM Vishnu Deo Sai launches \u20b9329 crore development projects in Bilaspur on Janjatiya Gaurav Divas",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDFBYTFTcnVXbjZxWkFGeXlXVUtLa2JVNEd0SjE2djhNWFBZUFRoMTVkaEJlRk4xOXlGUDVFY0NzVE1rbEFULV9JRjdfa2tvM01MZlBWcGE2X3lxbXNvUEJET1NPdm93V0JzTkh0Tndzei1wWkFkSjJLMW4yVnllYnFPTm4tcFYxR3UxUEM3alFDT1VTQWx5dEl3djNtTFowR0dINjd3X3JDQkctSFFSMEtMRUwxS1c2eFNyRUUtb9IBxAFBVV95cUxPbmNYRm1EZGZLWFcxMkhFWWp4N1dsSE95T2REdjE1dlFuU1NkT1c4SGlMUDNyRjhfdlBWUDhGNVl0TmZMcTFkUlN1MktFUFJ6eUNlZlpkay0zSGdTSWJZeUhDTTNEZmZ5bGVUa0ZjdE5zX3lSVHY5SFFHSk1JNlpSTW5pVnlQeXFxOFY5NWxXdlh1T29TS1UtaTREaGRQc3lCNGJjTFNtV0M3ajBnVGh4TW94Y0d1dzZKRWZ4S2h4TDJEUHVI?oc=5",
-        "date": "2025-11-15",
-        "title": "Vision 2050: Transforming Jharkhand into a Developed State - Devdiscourse",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDFBYTFTcnVXbjZxWkFGeXlXVUtLa2JVNEd0SjE2djhNWFBZUFRoMTVkaEJlRk4xOXlGUDVFY0NzVE1rbEFULV9JRjdfa2tvM01MZlBWcGE2X3lxbXNvUEJET1NPdm93V0JzTkh0Tndzei1wWkFkSjJLMW4yVnllYnFPTm4tcFYxR3UxUEM3alFDT1VTQWx5dEl3djNtTFowR0dINjd3X3JDQkctSFFSMEtMRUwxS1c2eFNyRUUtb9IBxAFBVV95cUxPbmNYRm1EZGZLWFcxMkhFWWp4N1dsSE95T2REdjE1dlFuU1NkT1c4SGlMUDNyRjhfdlBWUDhGNVl0TmZMcTFkUlN1MktFUFJ6eUNlZlpkay0zSGdTSWJZeUhDTTNEZmZ5bGVUa0ZjdE5zX3lSVHY5SFFHSk1JNlpSTW5pVnlQeXFxOFY5NWxXdlh1T29TS1UtaTREaGRQc3lCNGJjTFNtV0M3ajBnVGh4TW94Y0d1dzZKRWZ4S2h4TDJEUHVI?oc=5\" target=\"_blank\">Vision 2050: Transforming Jharkhand into a Developed State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Vision 2050 plan sets out to transform Jharkhand into a developed state by 2050.",
-        "type": "news"
-    },
-    {
-        "link": null,
         "date": "2025-11-16",
         "status": "posted",
         "tweet": "Ethereum validator setup: $1,200 hardware, 32 ETH stake.  \nOver 850,000 active validators globally (2025).  \n\nSolana: $12,000 hardware, ~500 SOL effective stake.  \nJust 2,800 validators, 65% in \ud83c\uddfa\ud83c\uddf8US or \ud83c\uddf8\ud83c\uddecSingapore.  \n\nHigher costs centralize Solana validation.",
@@ -2019,5 +1813,26 @@
         "tweet": "\ud83c\uddf8\ud83c\udde6 Saudi Arabia: $1.5 trillion+ in construction projects planned or underway in 2025\u2014the largest pipeline globally.",
         "type": "statistical",
         "category": "construction companies"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1RvODY5TnBlbFhlX28xdFlya0tvUVhaMjNoR2dRUndUcUdyLTlzdHU1aEw2VndDa0V3bnYxU1k5WU9Icmt1eUg0VEdwS2ZUSGVsbDNpSERtSXNkUS1LSzNmTHFOQzBZWGZDMC04TWJIeUZCUUN1RmZhU0NjLXZjSHhzUXpLcFQwNE5RREgzTVVZSmxhdE4wNGtEZk5NWl9IMzFkRHFYNVJmQlFzRER3Z09vYw?oc=5",
+        "date": "2025-11-25",
+        "title": "IAAC launches consultation on two Quebec port infrastructure projects - Canadian Mining Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1RvODY5TnBlbFhlX28xdFlya0tvUVhaMjNoR2dRUndUcUdyLTlzdHU1aEw2VndDa0V3bnYxU1k5WU9Icmt1eUg0VEdwS2ZUSGVsbDNpSERtSXNkUS1LSzNmTHFOQzBZWGZDMC04TWJIeUZCUUN1RmZhU0NjLXZjSHhzUXpLcFQwNE5RREgzTVVZSmxhdE4wNGtEZk5NWl9IMzFkRHFYNVJmQlFzRER3Z09vYw?oc=5\" target=\"_blank\">IAAC launches consultation on two Quebec port infrastructure projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Canadian Mining Journal</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde8\ud83c\udde6 NEWS: IAAC launches public consultation on two major Quebec port infrastructure projects."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1RvODY5TnBlbFhlX28xdFlya0tvUVhaMjNoR2dRUndUcUdyLTlzdHU1aEw2VndDa0V3bnYxU1k5WU9Icmt1eUg0VEdwS2ZUSGVsbDNpSERtSXNkUS1LSzNmTHFOQzBZWGZDMC04TWJIeUZCUUN1RmZhU0NjLXZjSHhzUXpLcFQwNE5RREgzTVVZSmxhdE4wNGtEZk5NWl9IMzFkRHFYNVJmQlFzRER3Z09vYw?oc=5",
+        "date": "2025-11-25",
+        "title": "IAAC launches consultation on two Quebec port infrastructure projects - Canadian Mining Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1RvODY5TnBlbFhlX28xdFlya0tvUVhaMjNoR2dRUndUcUdyLTlzdHU1aEw2VndDa0V3bnYxU1k5WU9Icmt1eUg0VEdwS2ZUSGVsbDNpSERtSXNkUS1LSzNmTHFOQzBZWGZDMC04TWJIeUZCUUN1RmZhU0NjLXZjSHhzUXpLcFQwNE5RREgzTVVZSmxhdE4wNGtEZk5NWl9IMzFkRHFYNVJmQlFzRER3Z09vYw?oc=5\" target=\"_blank\">IAAC launches consultation on two Quebec port infrastructure projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Canadian Mining Journal</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\udde6 NEWS: IAAC launches consultation on two Quebec port infrastructure projects",
+        "type": "news"
     }
 ]
