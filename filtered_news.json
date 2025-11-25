@@ -1834,5 +1834,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\udde6 NEWS: IAAC launches consultation on two Quebec port infrastructure projects",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-25",
+        "status": "posted",
+        "tweet": "2025: 58% of the global population is urban\n2050 projection: 68%",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
