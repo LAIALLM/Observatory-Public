@@ -1833,5 +1833,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-11-26",
+        "status": "posted",
+        "tweet": "Bitcoin mining hardware: $4,000 per ASIC (110 TH/s) in 2025.\n\nSolana validator setup: $8,500 (12-core CPU, 256GB RAM, NVMe SSD).\n\nBTC entry cheaper, but Solana demands 2x hardware power for high TPS.",
+        "type": "crypto"
     }
 ]
