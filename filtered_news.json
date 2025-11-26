@@ -1913,5 +1913,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Gujarat government clears six new maritime policies to boost port governance and coastal infrastructure.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-26",
+        "status": "posted",
+        "tweet": "Meta's \ud83c\uddfa\ud83c\uddf8 Iowa data center cluster reached 2.5 GW capacity in 2025, supporting 15M AI training hours daily at 1.15 PUE. $META",
+        "type": "infrastructure"
     }
 ]
