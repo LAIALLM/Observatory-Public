@@ -1840,5 +1840,15 @@
         "status": "posted",
         "tweet": "Bitcoin mining hardware: $4,000 per ASIC (110 TH/s) in 2025.\n\nSolana validator setup: $8,500 (12-core CPU, 256GB RAM, NVMe SSD).\n\nBTC entry cheaper, but Solana demands 2x hardware power for high TPS.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHdZUHQ1Q1g0enExTlkxaDFvbnNqamstQXdybVlnRXI5U21yOHV4QXFyS3pMZXFBMkE0U3Z1dHJmU0I0dHhQcWl4UVc4WEljUjZFOUx3SDJaWWlwczAxODlxSjJSNC0tbmY2VFFEc0Z0aXZ4MkEtLUwzY29YQWFvR3l5bkVxTjZ6SWFGMmdSNGUya041U0xCeG5pYw?oc=5",
+        "date": "2025-11-26",
+        "title": "Hawaii\u2019s construction industry sees decline in public projects - The Business Journals",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHdZUHQ1Q1g0enExTlkxaDFvbnNqamstQXdybVlnRXI5U21yOHV4QXFyS3pMZXFBMkE0U3Z1dHJmU0I0dHhQcWl4UVc4WEljUjZFOUx3SDJaWWlwczAxODlxSjJSNC0tbmY2VFFEc0Z0aXZ4MkEtLUwzY29YQWFvR3l5bkVxTjZ6SWFGMmdSNGUya041U0xCeG5pYw?oc=5\" target=\"_blank\">Hawaii\u2019s construction industry sees decline in public projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
