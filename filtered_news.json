@@ -1700,5 +1700,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-11-27",
+        "status": "posted",
+        "tweet": "2025 projection: Electric cars will exceed 50% of new car sales in \ud83c\udde8\ud83c\uddf3 China.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
