@@ -1790,5 +1790,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: Bradfield City\u2019s first building unveils biosolar roof blending green space and solar power, backed by award-winning UTS research",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-27",
+        "status": "posted",
+        "tweet": "Alphabet's data centers in \ud83c\uddfa\ud83c\uddf8 Oregon processed 8.5 exabytes daily in Q1 2025, achieving 99.999% uptime.\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
