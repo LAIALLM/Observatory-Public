@@ -1680,5 +1680,25 @@
         "status": "posted",
         "tweet": "Bitcoin's 2025 network scalability infrastructure demands $9 billion annually in electricity costs to sustain just 7 transactions per second.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZjZ4WnRSVnBPOWVoX1h1S0xyRmgwdnNsZW5ZVHU5VjNWMTBWWjZYcUc5NXNleFhzczQ3REo3YlFwbjM5MFYzLTBjX2IxYlkzU0VZblFGTGhOdFlyakNhc3ROQkpZSkdqNjFzWlMyd2F6X3o5cjMzZ2pRdG9mbzltdnhfNjAwNzZMejYyMw?oc=5",
+        "date": "2025-11-27",
+        "title": "Analog Devices Stock: An AI Infrastructure Enabler (NASDAQ:ADI) - Seeking Alpha",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZjZ4WnRSVnBPOWVoX1h1S0xyRmgwdnNsZW5ZVHU5VjNWMTBWWjZYcUc5NXNleFhzczQ3REo3YlFwbjM5MFYzLTBjX2IxYlkzU0VZblFGTGhOdFlyakNhc3ROQkpZSkdqNjFzWlMyd2F6X3o5cjMzZ2pRdG9mbzltdnhfNjAwNzZMejYyMw?oc=5\" target=\"_blank\">Analog Devices Stock: An AI Infrastructure Enabler (NASDAQ:ADI)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWxjaE4tQUNsaUtpaHJuNnJHV1g1R1NVbVJXWE1mX21BcHRpT1hMaTRfOU5iSHYtVWFZcUlCWkRUdlZMbVNFMWhfZG1KN3FzMzY4aUtqTFJHV1ZYOTlIckd2X2dhcjJjWnJ4bWNHMmtKVnlCTVloWGFJWXRlY0cxVENqYmhyX29sdjdybTZEamhPUFFRdURLaw?oc=5",
+        "date": "2025-11-27",
+        "title": "U.S. Secretary of Housing and Urban Development Scott Turner Archives - Tennessee Lookout",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObWxjaE4tQUNsaUtpaHJuNnJHV1g1R1NVbVJXWE1mX21BcHRpT1hMaTRfOU5iSHYtVWFZcUlCWkRUdlZMbVNFMWhfZG1KN3FzMzY4aUtqTFJHV1ZYOTlIckd2X2dhcjJjWnJ4bWNHMmtKVnlCTVloWGFJWXRlY0cxVENqYmhyX29sdjdybTZEamhPUFFRdURLaw?oc=5\" target=\"_blank\">U.S. Secretary of Housing and Urban Development Scott Turner Archives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tennessee Lookout</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
