@@ -1920,5 +1920,13 @@
         "status": "posted",
         "tweet": "Meta's \ud83c\uddfa\ud83c\uddf8 Iowa data center cluster reached 2.5 GW capacity in 2025, supporting 15M AI training hours daily at 1.15 PUE. $META",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-11-26",
+        "status": "posted",
+        "tweet": "Summary: 2025 global ranking of tallest completed buildings by architectural height (m)\n\n1. \ud83c\udde6\ud83c\uddea Dubai/United Arab Emirates \u2014 828 m\n2. \ud83c\uddf2\ud83c\uddfe Kuala Lumpur/Malaysia \u2014 679 m\n3. \ud83c\udde8\ud83c\uddf3 Shanghai/China \u2014 632 m\n4. \ud83c\uddf8\ud83c\udde6 Mecca/Saudi Arabia \u2014 601 m\n5. \ud83c\udde8\ud83c\uddf3 Shenzhen/China \u2014 599 m",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
