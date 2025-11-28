@@ -361,5 +361,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Samko Group and Sram & Mram Group sign JV to develop Nikola Tesla AI-ready smart cities, BESS manufacturing, and major townships in Tamil Nadu and the UK.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-28",
+        "status": "posted",
+        "tweet": "Summary: 2025 HQ hubs for infrastructure giants; Beijing hosts 6 of the top-10 global contractors by revenue.\n\n1. \ud83c\udde8\ud83c\uddf3 Beijing/China\n2. \ud83c\uddeb\ud83c\uddf7 Paris/France\n3. \ud83c\udde8\ud83c\udde6 Toronto/Canada\n4. \ud83c\uddf8\ud83c\udde6 Riyadh/Saudi Arabia\n5. \ud83c\udde6\ud83c\uddfa Sydney/Australia",
+        "type": "statistical",
+        "category": "infrastructure companies"
     }
 ]
