@@ -111,5 +111,12 @@
         "status": "posted",
         "tweet": "Bitcoin's 2025 carbon footprint is projected at 95 million metric tons of CO2e annually\u2014equivalent to all emissions from the Netherlands \ud83c\uddf3\ud83c\uddf1.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-11-28",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Google's data centers in Iowa processed 12 exabytes daily in 2025.\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
