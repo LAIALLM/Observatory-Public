@@ -403,5 +403,13 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-11-29",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Total construction starts are projected to rise 7% in 2025 (Dodge Construction Network, 2025 Outlook).",
+        "type": "statistical",
+        "category": "construction projects"
     }
 ]
