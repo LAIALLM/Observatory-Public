@@ -383,5 +383,25 @@
         "status": "posted",
         "tweet": "Bitcoin mining in 2025: 150 TWh electricity, $7.5B cost at $0.05/kWh\u2014matching \ud83c\uddf3\ud83c\uddf1 Netherlands' annual use.\n\nEthereum staking: <0.1 TWh, slashing costs by 99.9%.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSG90eHBVcE1IM1djeHZYeTROanVMWUNrLUs1SHlvRzMyZUZla2RYRHhCQXNlcHd6RHFEdThWQ0dPem1JM2NXQWoyOWRaNUVRY2YtSUJHRWF2bkpKQzQwMnU1TjdxSkRrbjRsRjNQcG1pMlJfSVl4OXdRMjRQV19lemIwRQ?oc=5",
+        "date": "2025-11-29",
+        "title": "Pink Hard Hat Girls program introduces local students to construction careers - Jackson County Sentinel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPSG90eHBVcE1IM1djeHZYeTROanVMWUNrLUs1SHlvRzMyZUZla2RYRHhCQXNlcHd6RHFEdThWQ0dPem1JM2NXQWoyOWRaNUVRY2YtSUJHRWF2bkpKQzQwMnU1TjdxSkRrbjRsRjNQcG1pMlJfSVl4OXdRMjRQV19lemIwRQ?oc=5\" target=\"_blank\">Pink Hard Hat Girls program introduces local students to construction careers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jackson County Sentinel</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZTVYM1hnZFpJSXViaWxYYUlfU2xXODZRcFVVTzNNUjU3dlRTLVRUNXQzNFFIWG1NUlBiWW44SGdNMndMcko3cll2SzdualNRWkhEUjBhbjZKQjEyMEZfYkdTRFdQeVpBbk5PaWViSXhKZVBuTEZoeVRibkd1d1pHaUdJbGY?oc=5",
+        "date": "2025-11-29",
+        "title": "India mulls infrastructure status for hotels - Asian Hospitality",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOZTVYM1hnZFpJSXViaWxYYUlfU2xXODZRcFVVTzNNUjU3dlRTLVRUNXQzNFFIWG1NUlBiWW44SGdNMndMcko3cll2SzdualNRWkhEUjBhbjZKQjEyMEZfYkdTRFdQeVpBbk5PaWViSXhKZVBuTEZoeVRibkd1d1pHaUdJbGY?oc=5\" target=\"_blank\">India mulls infrastructure status for hotels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Asian Hospitality</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
