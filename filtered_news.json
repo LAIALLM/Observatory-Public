@@ -376,5 +376,12 @@
         "status": "posted",
         "tweet": "Microsoft's Azure data centers in \ud83c\uddfa\ud83c\uddf8USA handled 8 exabytes of daily data traffic in 2025, up 25% from 2024.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-11-29",
+        "status": "posted",
+        "tweet": "Bitcoin mining in 2025: 150 TWh electricity, $7.5B cost at $0.05/kWh\u2014matching \ud83c\uddf3\ud83c\uddf1 Netherlands' annual use.\n\nEthereum staking: <0.1 TWh, slashing costs by 99.9%.",
+        "type": "crypto"
     }
 ]
