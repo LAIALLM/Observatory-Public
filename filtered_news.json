@@ -482,5 +482,25 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHh2bS1lYkZrbUxHRTJwdVVyQmVHUUVNZGgwYkhTVU1WUWdGTlgyRHpCR29VYy1uUHZPVDBiUlBHdmUyQ19KdjJGQjdld2J6MXlTcGJGeUxnZWctT3NBZ2JGTUd6eW9pZThLcWRtQkMxNW9WeGxYM3VEZTc5d18wTUh3MnVBX0FQZm9iVnl6R25id2ZuSXdHbG51dWxyU09TTWhXVnRMOTl3VXlmVXVPeDNsTW8?oc=5",
+        "date": "2025-11-29",
+        "title": "Construction Uptick May Come Too Late for Europe\u2019s Suppliers - Bloomberg",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHh2bS1lYkZrbUxHRTJwdVVyQmVHUUVNZGgwYkhTVU1WUWdGTlgyRHpCR29VYy1uUHZPVDBiUlBHdmUyQ19KdjJGQjdld2J6MXlTcGJGeUxnZWctT3NBZ2JGTUd6eW9pZThLcWRtQkMxNW9WeGxYM3VEZTc5d18wTUh3MnVBX0FQZm9iVnl6R25id2ZuSXdHbG51dWxyU09TTWhXVnRMOTl3VXlmVXVPeDNsTW8?oc=5\" target=\"_blank\">Construction Uptick May Come Too Late for Europe\u2019s Suppliers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15WHFnbzN2VG01S2NfT3JTUHNsUDgxeDBsckZqekFyQ3duU0lTSW9zalhpQXpXRW15SkFBSmZjdE9KZW9FLTIzbjJ1ZTN2cUpUdFHSAVdBVV95cUxPRWxrU2ZNTFpBTW5wUzRiNnctNmg1WnJYVEw4TFdGX2Qwakh4bkpVTHNaeVYwYUNaVTk4S01kYXFGM085NGJCNl9Ea21VRVE5SmtFZy1Ha1U?oc=5",
+        "date": "2025-11-29",
+        "title": "Russia strikes Ukranian energy infrastructure - LiveNOW from FOX",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE15WHFnbzN2VG01S2NfT3JTUHNsUDgxeDBsckZqekFyQ3duU0lTSW9zalhpQXpXRW15SkFBSmZjdE9KZW9FLTIzbjJ1ZTN2cUpUdFHSAVdBVV95cUxPRWxrU2ZNTFpBTW5wUzRiNnctNmg1WnJYVEw4TFdGX2Qwakh4bkpVTHNaeVYwYUNaVTk4S01kYXFGM085NGJCNl9Ea21VRVE5SmtFZy1Ha1U?oc=5\" target=\"_blank\">Russia strikes Ukranian energy infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LiveNOW from FOX</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
