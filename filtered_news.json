@@ -510,5 +510,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 United States: ~126M advanced electric meters (AMI) in service (2023, EIA).\n\ud83c\uddec\ud83c\udde7 Great Britain: ~36M smart and advanced meters operating (2024, DESNZ).",
         "type": "statistical",
         "category": "smart cities"
+    },
+    {
+        "link": null,
+        "date": "2025-11-30",
+        "status": "posted",
+        "tweet": "Bitcoin's 2025 node distribution concentrates costs in high-node countries, with US electricity expenses leading due to scale.\n\n1. \ud83c\uddfa\ud83c\uddf8 USA: 5,100 nodes ($714K annual)\n2. \ud83c\udde9\ud83c\uddea Germany: 2,550 nodes ($671K annual)\n3. \ud83c\uddeb\ud83c\uddf7 France: 1,020 nodes ($197K annual)",
+        "type": "crypto"
     }
 ]
