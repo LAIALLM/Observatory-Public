@@ -568,5 +568,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Fluors $FLR Texas highway project win hints at shifting infrastructure leadership edge",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-30",
+        "status": "posted",
+        "tweet": "NVIDIA's global AI infrastructure in 2025:\n\n10 million+ H100 GPUs deployed across data centers.\n\nPower efficiency: 700W per GPU, scaling to 7GW total draw.\n\n$NVDA",
+        "type": "infrastructure"
     }
 ]
