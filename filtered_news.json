@@ -1046,5 +1046,12 @@
         "tweet": "Longest transport tunnels under construction in 2025 (km)\n\n1. \ud83c\udde6\ud83c\uddf9\ud83c\uddee\ud83c\uddf9 Brenner Base Tunnel \u2014 64\n2. \ud83c\uddeb\ud83c\uddf7\ud83c\uddee\ud83c\uddf9 Lyon\u2013Turin Base Tunnel \u2014 57.5\n3. \ud83c\udde8\ud83c\uddf3 Gaoligongshan (Dali\u2013Ruili) \u2014 34.5\n4. \ud83c\udde6\ud83c\uddf9 Semmering Base Tunnel \u2014 27.3\n5. \ud83c\uddf3\ud83c\uddf4 Rogfast (E39) \u2014 26.7",
         "type": "statistical",
         "category": "infrastructural projects"
+    },
+    {
+        "link": null,
+        "date": "2025-12-01",
+        "status": "posted",
+        "tweet": "NVIDIA's \ud83c\uddfa\ud83c\uddf8 California data center reaches 1.5 exaflops compute power in 2025.\n\n$NVDA",
+        "type": "infrastructure"
     }
 ]
