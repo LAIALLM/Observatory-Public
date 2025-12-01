@@ -890,5 +890,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\udde6 NEWS: University of Torontos AI compute infrastructure receives $42.5 million federal investment to boost advanced computing capabilities.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-01",
+        "status": "posted",
+        "tweet": "Ranked energy efficiency: kWh per transaction (2025 est.)\n\n1. Ethereum: 0.00003 kWh/tx at 15 TPS  \n2. Solana: 0.00012 kWh/tx at 2,500 TPS  \n3. Bitcoin: 460 kWh/tx at 7 TPS",
+        "type": "crypto"
     }
 ]
