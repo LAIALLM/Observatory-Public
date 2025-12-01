@@ -778,5 +778,46 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf3\ud83c\udde6\ud83c\uddea NEWS: Chinese investment fueling UAEs infrastructure growth",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUUpRY1J2a25zLV9nQ2dpaWoxVEc3YmF3VjBKaktVV21DVlp0M2cxVFRHeURKbVZQVEpsZXRCeUt0MHNsRWhoSF9NMy1RVkw5UmtkUW1oR2xqclpJRFk1eFllZzZNVEtwWGJWbjJNYUVvR3dCNTItQVlWY3h3SXFoVnpPNXY3VC1RZ1lRV2xMUVE?oc=5",
+        "date": "2025-12-01",
+        "title": "What the Airbus scare tells us about modern infrastructure - Finshots",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQUUpRY1J2a25zLV9nQ2dpaWoxVEc3YmF3VjBKaktVV21DVlp0M2cxVFRHeURKbVZQVEpsZXRCeUt0MHNsRWhoSF9NMy1RVkw5UmtkUW1oR2xqclpJRFk1eFllZzZNVEtwWGJWbjJNYUVvR3dCNTItQVlWY3h3SXFoVnpPNXY3VC1RZ1lRV2xMUVE?oc=5\" target=\"_blank\">What the Airbus scare tells us about modern infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finshots</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOU10QmdvX3dyQmtpNW9yMEswX2NneTZyOHdXcFlwaTF2VFF6ek5VcEMxc1FCWUd2WWxNTlk3SnZlY2hBek94cDJ6ODg0YnRvcWpWb0RhRTBzU2tJbGpfT185aWNERkRHeGpOUGQwOFd5RTVPbllsWW0wVmc5UmNxVDU0R0NVNjMwLUx4WVI0U3o?oc=5",
+        "date": "2025-12-01",
+        "title": "Two Million Cambodians to Benefit from $763M Water Upgrade - Kiripost",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQOU10QmdvX3dyQmtpNW9yMEswX2NneTZyOHdXcFlwaTF2VFF6ek5VcEMxc1FCWUd2WWxNTlk3SnZlY2hBek94cDJ6ODg0YnRvcWpWb0RhRTBzU2tJbGpfT185aWNERkRHeGpOUGQwOFd5RTVPbllsWW0wVmc5UmNxVDU0R0NVNjMwLUx4WVI0U3o?oc=5\" target=\"_blank\">Two Million Cambodians to Benefit from $763M Water Upgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kiripost</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": "\ud83c\uddf0\ud83c\udded NEWS: Two million Cambodians set to benefit from $763M water supply upgrade project."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3VtZFVNc21hVUllTHNIRkhlb2Z6dXZveElCc1VLQUwwX2hralExdGQ1b29sTkx5d09FY1gtM21wb1NFS3YxNzZsbzQ2Q1FXMm5CVVNRdEliTlFWVzFLZ25lWXNycWhBZVl0OVF4MWNRTlRuZzRZQnZjbnl1YVc5bWlmdkh4cUVQNEhnbXQ3ZkU?oc=5",
+        "date": "2025-12-01",
+        "title": "Stakeholders seek land reform to boost affordable housing - The Guardian Nigeria News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3VtZFVNc21hVUllTHNIRkhlb2Z6dXZveElCc1VLQUwwX2hralExdGQ1b29sTkx5d09FY1gtM21wb1NFS3YxNzZsbzQ2Q1FXMm5CVVNRdEliTlFWVzFLZ25lWXNycWhBZVl0OVF4MWNRTlRuZzRZQnZjbnl1YVc5bWlmdkh4cUVQNEhnbXQ3ZkU?oc=5\" target=\"_blank\">Stakeholders seek land reform to boost affordable housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian Nigeria News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOU10QmdvX3dyQmtpNW9yMEswX2NneTZyOHdXcFlwaTF2VFF6ek5VcEMxc1FCWUd2WWxNTlk3SnZlY2hBek94cDJ6ODg0YnRvcWpWb0RhRTBzU2tJbGpfT185aWNERkRHeGpOUGQwOFd5RTVPbllsWW0wVmc5UmNxVDU0R0NVNjMwLUx4WVI0U3o?oc=5",
+        "date": "2025-12-01",
+        "title": "Two Million Cambodians to Benefit from $763M Water Upgrade - Kiripost",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQOU10QmdvX3dyQmtpNW9yMEswX2NneTZyOHdXcFlwaTF2VFF6ek5VcEMxc1FCWUd2WWxNTlk3SnZlY2hBek94cDJ6ODg0YnRvcWpWb0RhRTBzU2tJbGpfT185aWNERkRHeGpOUGQwOFd5RTVPbllsWW0wVmc5UmNxVDU0R0NVNjMwLUx4WVI0U3o?oc=5\" target=\"_blank\">Two Million Cambodians to Benefit from $763M Water Upgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kiripost</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddf0\ud83c\udded NEWS: Two million Cambodians to benefit from $763M water upgrade project.",
+        "type": "news"
     }
 ]
