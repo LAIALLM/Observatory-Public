@@ -1196,5 +1196,77 @@
         "status": "posted",
         "tweet": "(\ud83c\uddea\ud83c\uddec) NEWS: Contract awards advance Egypts high-speed rail project, set to lay 2,000 km of track upon completion.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOTdwTS16ZjRDUXZKZ3hnYjdPUG1vVDBIVnNXdFJGUGlTVmNZZDRvaG03RVF0RG1mYXd3TVdYZVEwMjdmaXI4MGl4TWlVczVMdlZGbmxoVDZxR19UQUs4TXJkWUpYYU9yam1RQjNUazJvOVB5bE1MMTJHbVRMZ1R6NnEzVmFUVmpSZi1tcFBweXNmMU11QzNiMkJKZFJtdkV1RDZN0gG3AUFVX3lxTE5fMGtkX1ZDVGVrMDZwTTJCUEZBSXlZOWNWOWZIWkVvOUx2N29YZnB5S1Y1YlJ4REtnNnpXalVIUENOdDYxRENESkw2VWE2aWdQU0Nsb0dWZXN5Y3l6Q3pSdzNZSTZQa2xrTkdjNHVpdlBJdkNhb0w1Q0N5eUJFeV92SnY3SjZCZHdKRjdLcjF4eExxYzFPeGdoSzNEbVUydEZneVNFRWFIYk9TUTVrWEV6TGQ1cktSUQ?oc=5",
+        "date": "2025-12-02",
+        "title": "South Carolina lawmakers work to modernize state infrastructure funding - WRDW",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQOTdwTS16ZjRDUXZKZ3hnYjdPUG1vVDBIVnNXdFJGUGlTVmNZZDRvaG03RVF0RG1mYXd3TVdYZVEwMjdmaXI4MGl4TWlVczVMdlZGbmxoVDZxR19UQUs4TXJkWUpYYU9yam1RQjNUazJvOVB5bE1MMTJHbVRMZ1R6NnEzVmFUVmpSZi1tcFBweXNmMU11QzNiMkJKZFJtdkV1RDZN0gG3AUFVX3lxTE5fMGtkX1ZDVGVrMDZwTTJCUEZBSXlZOWNWOWZIWkVvOUx2N29YZnB5S1Y1YlJ4REtnNnpXalVIUENOdDYxRENESkw2VWE2aWdQU0Nsb0dWZXN5Y3l6Q3pSdzNZSTZQa2xrTkdjNHVpdlBJdkNhb0w1Q0N5eUJFeV92SnY3SjZCZHdKRjdLcjF4eExxYzFPeGdoSzNEbVUydEZneVNFRWFIYk9TUTVrWEV6TGQ1cktSUQ?oc=5\" target=\"_blank\">South Carolina lawmakers work to modernize state infrastructure funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0xmSUZsbkZiMlk5YTBoMExyVFp1RVJOajJpaUlDUktsMGk1cEpjZE41ZEpGQ3B1NFZCQ2xxNkluc1IzUUpiRnBBcWhZQXdkbGVLcEVDLXRsZGFXLVdGa09wYkIwTXNERzN5b1E4cjQxX3BKUnZLM3JPaDBmZmRuQ0E2Nzh0QVVhN2VMZjM3TGFBVUQ0TjZvVF9FcEhhdUJEdzhMMl9PbHUzWm5vaHhhZEF1Ylg3MlQzREtsdE9mNV9yWV9xYlc0SlRnZw?oc=5",
+        "date": "2025-12-02",
+        "title": "Austin officials celebrate completion of new modern water infrastructure - KVUE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0xmSUZsbkZiMlk5YTBoMExyVFp1RVJOajJpaUlDUktsMGk1cEpjZE41ZEpGQ3B1NFZCQ2xxNkluc1IzUUpiRnBBcWhZQXdkbGVLcEVDLXRsZGFXLVdGa09wYkIwTXNERzN5b1E4cjQxX3BKUnZLM3JPaDBmZmRuQ0E2Nzh0QVVhN2VMZjM3TGFBVUQ0TjZvVF9FcEhhdUJEdzhMMl9PbHUzWm5vaHhhZEF1Ylg3MlQzREtsdE9mNV9yWV9xYlc0SlRnZw?oc=5\" target=\"_blank\">Austin officials celebrate completion of new modern water infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVUE</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPamROMEZBOHpVZXFYbW52Zkx3cmF0TDdWWkRYUFR1aVdJSnk2OGJJdzRUWmR1VlU2LVltdWc1dmlWQ1dmY0NCTjJraEVOMVJVS0ZJS3I0cGg4dlQ0aW5RSGtuWDllYUNSRjVlWkV2LUFsNkZRRzdZbmpOMWduWVJ2dTZZNnhSN1NGd2psRXBNNEhlMXFZcTlYbVpB0gGfAUFVX3lxTFBqOU9FSlFlblk2UW8yZ1RXQWhMU0lhSlJBYnV2WTdKRXR1Q3NPZnl1V2hrWjNZU3JvSGlRZzlHWFo2b080Vjd1MWNOM21SS0lXWC1sZ1pWMENFdFE1Y0pPWDFBdHVTMnJZRVhVLTVydW5EaGYwWmFwckRLOERacDNtTG9CMG1KeHJCU2gtVEdhSmgzLWdacHFzV0dNNUhiZw?oc=5",
+        "date": "2025-12-02",
+        "title": "Salt Lake City completes over 100 road projects, including major infrastructure reconstruction - ABC4 Utah",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPamROMEZBOHpVZXFYbW52Zkx3cmF0TDdWWkRYUFR1aVdJSnk2OGJJdzRUWmR1VlU2LVltdWc1dmlWQ1dmY0NCTjJraEVOMVJVS0ZJS3I0cGg4dlQ0aW5RSGtuWDllYUNSRjVlWkV2LUFsNkZRRzdZbmpOMWduWVJ2dTZZNnhSN1NGd2psRXBNNEhlMXFZcTlYbVpB0gGfAUFVX3lxTFBqOU9FSlFlblk2UW8yZ1RXQWhMU0lhSlJBYnV2WTdKRXR1Q3NPZnl1V2hrWjNZU3JvSGlRZzlHWFo2b080Vjd1MWNOM21SS0lXWC1sZ1pWMENFdFE1Y0pPWDFBdHVTMnJZRVhVLTVydW5EaGYwWmFwckRLOERacDNtTG9CMG1KeHJCU2gtVEdhSmgzLWdacHFzV0dNNUhiZw?oc=5\" target=\"_blank\">Salt Lake City completes over 100 road projects, including major infrastructure reconstruction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC4 Utah</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Salt Lake City wraps up over 100 road projects, including major infrastructure rebuilds"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3I5T2NjeG4tblh2V1B3RlNiUXFrVTdBaWN4ODEwVTJndEFDWWV0VEhIeVN2cm14eno3YWpmS1lVNzZvOWNuOGFhM2hnaW9mRnNxVWJ6OHp6NXFEcVY5ZjZjbXNQMXpnQXplRFktWnplc0RvWFRCZnJjMU9mcTNLc3dIWjhPTUU1bE42UTdXMGVYdkd2d2hkTjRqbzBXTHBaSVBOeHVFRDFGUjRxcU9mcXIzeldiamFULWV2My1fMUlNUEpObmpDUUVQVGt1cVg5c0RCNjRvYw?oc=5",
+        "date": "2025-12-02",
+        "title": "Press Release: Rep. Mike Simpson Introduces Urban Canal Modernization Act for Infrastructure Improvements - Quiver Quantitative",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3I5T2NjeG4tblh2V1B3RlNiUXFrVTdBaWN4ODEwVTJndEFDWWV0VEhIeVN2cm14eno3YWpmS1lVNzZvOWNuOGFhM2hnaW9mRnNxVWJ6OHp6NXFEcVY5ZjZjbXNQMXpnQXplRFktWnplc0RvWFRCZnJjMU9mcTNLc3dIWjhPTUU1bE42UTdXMGVYdkd2d2hkTjRqbzBXTHBaSVBOeHVFRDFGUjRxcU9mcXIzeldiamFULWV2My1fMUlNUEpObmpDUUVQVGt1cVg5c0RCNjRvYw?oc=5\" target=\"_blank\">Press Release: Rep. Mike Simpson Introduces Urban Canal Modernization Act for Infrastructure Improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Rep. Mike Simpson introduces Urban Canal Modernization Act to boost infrastructure through urban canal upgrades"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTBqMTRqbzBtaUZJVTllVG5WT2tOc1EyQ1FVM0FaaHU0VHF1NkR2YmtxV3M3czBadi1WUVFhdU5PdnRsSVVlUjBCRVFaaWhqamRBdms4eHNHbDBEZ0l5b09PdWJOY3dXQnRUU2l3UWNqcXJSVlRxZDdEVkVZQXVNVDBiV1Z2RDJLU1lTMmY2YVRGOVJCalh6Z19seENhUWZibGpGQXR6RFA?oc=5",
+        "date": "2025-12-02",
+        "title": "BNY Mellon Municipal Bond Infrastructure Fund, Inc. (NYSE: DMB) Announces Distribution - The AI Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTBqMTRqbzBtaUZJVTllVG5WT2tOc1EyQ1FVM0FaaHU0VHF1NkR2YmtxV3M3czBadi1WUVFhdU5PdnRsSVVlUjBCRVFaaWhqamRBdms4eHNHbDBEZ0l5b09PdWJOY3dXQnRUU2l3UWNqcXJSVlRxZDdEVkVZQXVNVDBiV1Z2RDJLU1lTMmY2YVRGOVJCalh6Z19seENhUWZibGpGQXR6RFA?oc=5\" target=\"_blank\">BNY Mellon Municipal Bond Infrastructure Fund, Inc. (NYSE: DMB) Announces Distribution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The AI Journal</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPamROMEZBOHpVZXFYbW52Zkx3cmF0TDdWWkRYUFR1aVdJSnk2OGJJdzRUWmR1VlU2LVltdWc1dmlWQ1dmY0NCTjJraEVOMVJVS0ZJS3I0cGg4dlQ0aW5RSGtuWDllYUNSRjVlWkV2LUFsNkZRRzdZbmpOMWduWVJ2dTZZNnhSN1NGd2psRXBNNEhlMXFZcTlYbVpB0gGfAUFVX3lxTFBqOU9FSlFlblk2UW8yZ1RXQWhMU0lhSlJBYnV2WTdKRXR1Q3NPZnl1V2hrWjNZU3JvSGlRZzlHWFo2b080Vjd1MWNOM21SS0lXWC1sZ1pWMENFdFE1Y0pPWDFBdHVTMnJZRVhVLTVydW5EaGYwWmFwckRLOERacDNtTG9CMG1KeHJCU2gtVEdhSmgzLWdacHFzV0dNNUhiZw?oc=5",
+        "date": "2025-12-02",
+        "title": "Salt Lake City completes over 100 road projects, including major infrastructure reconstruction - ABC4 Utah",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPamROMEZBOHpVZXFYbW52Zkx3cmF0TDdWWkRYUFR1aVdJSnk2OGJJdzRUWmR1VlU2LVltdWc1dmlWQ1dmY0NCTjJraEVOMVJVS0ZJS3I0cGg4dlQ0aW5RSGtuWDllYUNSRjVlWkV2LUFsNkZRRzdZbmpOMWduWVJ2dTZZNnhSN1NGd2psRXBNNEhlMXFZcTlYbVpB0gGfAUFVX3lxTFBqOU9FSlFlblk2UW8yZ1RXQWhMU0lhSlJBYnV2WTdKRXR1Q3NPZnl1V2hrWjNZU3JvSGlRZzlHWFo2b080Vjd1MWNOM21SS0lXWC1sZ1pWMENFdFE1Y0pPWDFBdHVTMnJZRVhVLTVydW5EaGYwWmFwckRLOERacDNtTG9CMG1KeHJCU2gtVEdhSmgzLWdacHFzV0dNNUhiZw?oc=5\" target=\"_blank\">Salt Lake City completes over 100 road projects, including major infrastructure reconstruction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC4 Utah</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Salt Lake City wraps up over 100 road projects, including major infrastructure rebuilds.",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3I5T2NjeG4tblh2V1B3RlNiUXFrVTdBaWN4ODEwVTJndEFDWWV0VEhIeVN2cm14eno3YWpmS1lVNzZvOWNuOGFhM2hnaW9mRnNxVWJ6OHp6NXFEcVY5ZjZjbXNQMXpnQXplRFktWnplc0RvWFRCZnJjMU9mcTNLc3dIWjhPTUU1bE42UTdXMGVYdkd2d2hkTjRqbzBXTHBaSVBOeHVFRDFGUjRxcU9mcXIzeldiamFULWV2My1fMUlNUEpObmpDUUVQVGt1cVg5c0RCNjRvYw?oc=5",
+        "date": "2025-12-02",
+        "title": "Press Release: Rep. Mike Simpson Introduces Urban Canal Modernization Act for Infrastructure Improvements - Quiver Quantitative",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3I5T2NjeG4tblh2V1B3RlNiUXFrVTdBaWN4ODEwVTJndEFDWWV0VEhIeVN2cm14eno3YWpmS1lVNzZvOWNuOGFhM2hnaW9mRnNxVWJ6OHp6NXFEcVY5ZjZjbXNQMXpnQXplRFktWnplc0RvWFRCZnJjMU9mcTNLc3dIWjhPTUU1bE42UTdXMGVYdkd2d2hkTjRqbzBXTHBaSVBOeHVFRDFGUjRxcU9mcXIzeldiamFULWV2My1fMUlNUEpObmpDUUVQVGt1cVg5c0RCNjRvYw?oc=5\" target=\"_blank\">Press Release: Rep. Mike Simpson Introduces Urban Canal Modernization Act for Infrastructure Improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Rep. Mike Simpson introduces Urban Canal Modernization Act to upgrade aging canals and enhance urban infrastructure.",
+        "type": "news"
     }
 ]
