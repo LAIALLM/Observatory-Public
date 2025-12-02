@@ -1060,5 +1060,13 @@
         "status": "posted",
         "tweet": "Annual carbon footprint of major blockchains (MtCO2e, 2025 est.)\n\n1. Bitcoin: 85  \n2. Ethereum: 0.2  \n3. Solana: 0.05",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-12-02",
+        "status": "posted",
+        "tweet": "By 2050, 90% of global urban population growth will occur in Asia and Africa.",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
