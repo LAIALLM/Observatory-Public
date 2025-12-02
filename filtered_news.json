@@ -1053,5 +1053,12 @@
         "status": "posted",
         "tweet": "NVIDIA's \ud83c\uddfa\ud83c\uddf8 California data center reaches 1.5 exaflops compute power in 2025.\n\n$NVDA",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-02",
+        "status": "posted",
+        "tweet": "Annual carbon footprint of major blockchains (MtCO2e, 2025 est.)\n\n1. Bitcoin: 85  \n2. Ethereum: 0.2  \n3. Solana: 0.05",
+        "type": "crypto"
     }
 ]
