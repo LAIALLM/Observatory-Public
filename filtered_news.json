@@ -1098,5 +1098,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-02",
+        "status": "posted",
+        "tweet": "Tesla's global data centers process 500 TB of vehicle telemetry data daily for AI optimization.\n\n$TSLA",
+        "type": "infrastructure"
     }
 ]
