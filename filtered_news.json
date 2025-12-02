@@ -1105,5 +1105,96 @@
         "status": "posted",
         "tweet": "Tesla's global data centers process 500 TB of vehicle telemetry data daily for AI optimization.\n\n$TSLA",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQek9ZaEQ2di1PWnRYaEZiOFh0azVDM1BvVTQ4QXpuYmFpUlNKY2FZMS00cm1VZXRXbUViUjJHaWFNN2l6MGZtUTA1TVBmX2ZlTWtYOEo5dEcyVTd3LVl0NEdlR0xjeTVjeV90NGhvbnNTaXJmZ0tjdUtJbF9seFlnaEZxS0hkM3pMTW91UnhqOGxsQklZMzNFVTNkUkZpeDYzU2lmN2FxaG1EWTF3NERSSDJ1cktURWtPUWpGel8zdjBXWk1KZzFCLWxKUE9WaXhVX2ZDZ2NnVTFHdXFyNDdr?oc=5",
+        "date": "2025-12-02",
+        "title": "New Study Reveals Labor Shortages, Costs and Safety Gaps as Top Construction Industry Challenges - ohsonline.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQek9ZaEQ2di1PWnRYaEZiOFh0azVDM1BvVTQ4QXpuYmFpUlNKY2FZMS00cm1VZXRXbUViUjJHaWFNN2l6MGZtUTA1TVBmX2ZlTWtYOEo5dEcyVTd3LVl0NEdlR0xjeTVjeV90NGhvbnNTaXJmZ0tjdUtJbF9seFlnaEZxS0hkM3pMTW91UnhqOGxsQklZMzNFVTNkUkZpeDYzU2lmN2FxaG1EWTF3NERSSDJ1cktURWtPUWpGel8zdjBXWk1KZzFCLWxKUE9WaXhVX2ZDZ2NnVTFHdXFyNDdr?oc=5\" target=\"_blank\">New Study Reveals Labor Shortages, Costs and Safety Gaps as Top Construction Industry Challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ohsonline.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aYmx1QndLOUxJeFM0M201S2o0czV4ODVvcllzS1hrOHVQVG9vb0NMYnUwSHFPNktIYkwtYmlBVXNSZHBhWDRlX3I1ZVpfN3p4NHFXZV9ibS1Ydnk3V0ZKSlh2WWgyUXFFbm5DX1hpMW4wLXJ4?oc=5",
+        "date": "2025-12-02",
+        "title": "An Upbeat Outlook - Construction Equipment Guide",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9aYmx1QndLOUxJeFM0M201S2o0czV4ODVvcllzS1hrOHVQVG9vb0NMYnUwSHFPNktIYkwtYmlBVXNSZHBhWDRlX3I1ZVpfN3p4NHFXZV9ibS1Ydnk3V0ZKSlh2WWgyUXFFbm5DX1hpMW4wLXJ4?oc=5\" target=\"_blank\">An Upbeat Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Equipment Guide</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQVlGYUVseVJRNGt3S3laWUJqeHh2aVVmUVVJZE9Tc1hHY0RyUkp2d0JKY2lnOGZVVVpNVDVQcmRBYzN1cC1oeEVXcm5uMzE1cnp0RV9KZ1NDejY3OFJRU19nMG1UQldnU3lpYlBCTk5oY0NGUkZJeUY3b3NZaTFKaGtyczRxY3hSdGtNTjNPNUxTVXZVTXNBUWM4ZXBtVzBnYWVHamlyaTJHSEx4ZGpmMWFYOFcyOEpHZEl4OGhXQQ?oc=5",
+        "date": "2025-12-02",
+        "title": "NASA\u2019s Fly Foundational Robots Demo to Bolster In-Space Infrastructure - NASA (.gov)",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOQVlGYUVseVJRNGt3S3laWUJqeHh2aVVmUVVJZE9Tc1hHY0RyUkp2d0JKY2lnOGZVVVpNVDVQcmRBYzN1cC1oeEVXcm5uMzE1cnp0RV9KZ1NDejY3OFJRU19nMG1UQldnU3lpYlBCTk5oY0NGUkZJeUY3b3NZaTFKaGtyczRxY3hSdGtNTjNPNUxTVXZVTXNBUWM4ZXBtVzBnYWVHamlyaTJHSEx4ZGpmMWFYOFcyOEpHZEl4OGhXQQ?oc=5\" target=\"_blank\">NASA\u2019s Fly Foundational Robots Demo to Bolster In-Space Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NASA (.gov)</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMzI4OHhXWEc3VlNLQ3FFZ2ZDZ3ZZSUtuejN3NDB4TVBiZ05IUXhSWm1qa0ZQWXVZMzJVNFdhZWZRdHlhX3VmMVF1eGpRaEpaREdxZ2lDZ2FZNUZVWmdvOW5BclpVSlFFYkFtSG8yTHdrRnFEYWVhY0FmT2RsdGhKZldoQmJFZXZURTd1cGhGUVAwM1c1YmlCNE9aYw?oc=5",
+        "date": "2025-12-02",
+        "title": "Einhorn\u2019s Top AI Infrastructure Stocks: Sanmina, Dycom for 2025 Growth - WebProNews",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNMzI4OHhXWEc3VlNLQ3FFZ2ZDZ3ZZSUtuejN3NDB4TVBiZ05IUXhSWm1qa0ZQWXVZMzJVNFdhZWZRdHlhX3VmMVF1eGpRaEpaREdxZ2lDZ2FZNUZVWmdvOW5BclpVSlFFYkFtSG8yTHdrRnFEYWVhY0FmT2RsdGhKZldoQmJFZXZURTd1cGhGUVAwM1c1YmlCNE9aYw?oc=5\" target=\"_blank\">Einhorn\u2019s Top AI Infrastructure Stocks: Sanmina, Dycom for 2025 Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WebProNews</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUi1VdDlYS0QyRldSV1E4Z2ZPR3lLblVkNjdId1FsVzJqMEl2T1czT3RFTDY2OGJ6QXFjVjR5OVZ2Vm1GZUl5end4UnBWSmJ4VVE1WkptN3JDRWF0N0draU5tTDkwSThCWFJmMWlzVS1JNlJEM2xCZkN6SjNCbktheEtLSjRVczlZQnh5N1F6akM2V2R2cUo2dF95a0drSExkS2NqYWZoMElGTWItX2NqTzJLNGtWZzRQY2pZdVJMY1N1T1JsTDl4LURuNENDeHpHYVFaZWJqVzhTVlk4S0JfbTJwd21xNVprWldLZEZXUnBGekFReFFGclBGZEtsTzNOMHJlZEdSNkVDR3o3?oc=5",
+        "date": "2025-12-02",
+        "title": "CSCO: Surging hyperscaler demand for optics and AI infrastructure drives strong growth outlook - TradingView",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxOUi1VdDlYS0QyRldSV1E4Z2ZPR3lLblVkNjdId1FsVzJqMEl2T1czT3RFTDY2OGJ6QXFjVjR5OVZ2Vm1GZUl5end4UnBWSmJ4VVE1WkptN3JDRWF0N0draU5tTDkwSThCWFJmMWlzVS1JNlJEM2xCZkN6SjNCbktheEtLSjRVczlZQnh5N1F6akM2V2R2cUo2dF95a0drSExkS2NqYWZoMElGTWItX2NqTzJLNGtWZzRQY2pZdVJMY1N1T1JsTDl4LURuNENDeHpHYVFaZWJqVzhTVlk4S0JfbTJwd21xNVprWldLZEZXUnBGekFReFFGclBGZEtsTzNOMHJlZEdSNkVDR3o3?oc=5\" target=\"_blank\">CSCO: Surging hyperscaler demand for optics and AI infrastructure drives strong growth outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByc0EwUm0wWnlpZFRwcDZBcW8tamdrMlo2MkIycUxwNkUwSUh5bHhDTTB3TGpTRzlFWFYzaGk4cmFWY1JiUGlTQ2lLdkNQQ0NNeFp1eXNnZTctN1VPcnk4Q1JHWmNkcElG?oc=5",
+        "date": "2025-12-02",
+        "title": "A new future for Udaipur - Architecture Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFByc0EwUm0wWnlpZFRwcDZBcW8tamdrMlo2MkIycUxwNkUwSUh5bHhDTTB3TGpTRzlFWFYzaGk4cmFWY1JiUGlTQ2lLdkNQQ0NNeFp1eXNnZTctN1VPcnk4Q1JHWmNkcElG?oc=5\" target=\"_blank\">A new future for Udaipur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Architecture Today</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEUxdHpEQ3JrWVllMDN0dENJTFI4V1ByOWxuMFN6NVI3NjRyN2RkVGV2RXhOY0JqQ2JnVzhOd2JmMm5vempHMkhvT3E0Skk5NXFIZ05aLWNpZ0RYUW54WS16ekYzTkpYM19ZdVZBUW1uYkdmSTFhb1NXNnc4TVpvbDdvTGl3TjBIOWMtUjZvdTFKek9tRkNNMkFZbEdDcWF3dDRtMFVua0I?oc=5",
+        "date": "2025-12-02",
+        "title": "NNL: Smart City captain reflects on positive outing against Beyond Limits - Daily Post Nigeria",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEUxdHpEQ3JrWVllMDN0dENJTFI4V1ByOWxuMFN6NVI3NjRyN2RkVGV2RXhOY0JqQ2JnVzhOd2JmMm5vempHMkhvT3E0Skk5NXFIZ05aLWNpZ0RYUW54WS16ekYzTkpYM19ZdVZBUW1uYkdmSTFhb1NXNnc4TVpvbDdvTGl3TjBIOWMtUjZvdTFKek9tRkNNMkFZbEdDcWF3dDRtMFVua0I?oc=5\" target=\"_blank\">NNL: Smart City captain reflects on positive outing against Beyond Limits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Post Nigeria</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/62095-contract-awards-advance-egypt-high-speed-rail-project",
+        "date": "2025-12-02",
+        "title": "Contract Awards Advance Egypt High-speed Rail Project",
+        "summary": "<p>Work on Egypt's rail infrastructure upgrade and buildout continues, with 2,000 km of track to be laid by the project's completion.</p>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": "(\ud83c\uddea\ud83c\uddec) NEWS: Contract awards advance Egypts high-speed rail project, with 2,000 km of track to be laid by completion."
+    },
+    {
+        "link": "https://www.enr.com/articles/62095-contract-awards-advance-egypt-high-speed-rail-project",
+        "date": "2025-12-02",
+        "title": "Contract Awards Advance Egypt High-speed Rail Project",
+        "summary": "<p>Work on Egypt's rail infrastructure upgrade and buildout continues, with 2,000 km of track to be laid by the project's completion.</p>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "(\ud83c\uddea\ud83c\uddec) NEWS: Contract awards advance Egypts high-speed rail project, set to lay 2,000 km of track upon completion.",
+        "type": "news"
     }
 ]
