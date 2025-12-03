@@ -1455,5 +1455,12 @@
         "status": "posted",
         "tweet": "(\ud83c\uddef\ud83c\uddf5) NEWS: Delays on JR Chuo Shinkansen ($9022) are hitting Japans economy hard with mounting infrastructure challenges and costs.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-03",
+        "status": "posted",
+        "tweet": "Bitcoin's PoW network scalability demands ~150 TWh annually in 2025, costing $10B+ in energy.\n\nEthereum's PoS upgrade slashes this to under 0.01 TWh, at ~$1M.\n\nBTC throughput: 7 TPS. ETH: 100,000+ TPS via L2s.",
+        "type": "crypto"
     }
 ]
