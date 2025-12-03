@@ -1462,5 +1462,65 @@
         "status": "posted",
         "tweet": "Bitcoin's PoW network scalability demands ~150 TWh annually in 2025, costing $10B+ in energy.\n\nEthereum's PoS upgrade slashes this to under 0.01 TWh, at ~$1M.\n\nBTC throughput: 7 TPS. ETH: 100,000+ TPS via L2s.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZVhTUFZwUEg2Nm5yWDhYUU1NTF8zWXAtLW52dEpDcE4yNG43UDdhRnJDV2ZWTV9zdFVKdzd4dkdsZmo2WC1uWEhMV0t1YmJpOWM5dFpxdFFkT1N1cF9GVGk5RE1uT0l6SlNTUGxJRUpYN2xVR1k2aWxxMXAzS3ktMkxNWWMwOFVwRncxUFdTQ0hfS1ZqeXJwckN3QTUwUGM5Yno3ZmZJRzd6QWowRmZmdVNhbXZGTHcyMUdGRlptNVNVc1ZLUVkzblpGMTlHSEt1MHBIbU5pNkU?oc=5",
+        "date": "2025-12-03",
+        "title": "South Africa could unlock $293 billion for infrastructure with financial system overhaul - Business Insider Africa",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZVhTUFZwUEg2Nm5yWDhYUU1NTF8zWXAtLW52dEpDcE4yNG43UDdhRnJDV2ZWTV9zdFVKdzd4dkdsZmo2WC1uWEhMV0t1YmJpOWM5dFpxdFFkT1N1cF9GVGk5RE1uT0l6SlNTUGxJRUpYN2xVR1k2aWxxMXAzS3ktMkxNWWMwOFVwRncxUFdTQ0hfS1ZqeXJwckN3QTUwUGM5Yno3ZmZJRzd6QWowRmZmdVNhbXZGTHcyMUdGRlptNVNVc1ZLUVkzblpGMTlHSEt1MHBIbU5pNkU?oc=5\" target=\"_blank\">South Africa could unlock $293 billion for infrastructure with financial system overhaul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Africa</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTMtWUY3NUNCb091aG41Y2YybWVuZ3JscExfOEl5TENKcVktWnpvQjhJY1dEQlBTb0RSUlBkS183TkpFQ1FwUFlaTUl4Nksxb0kxOHVicXNZd0NtNlNuUk9tNDVvZjZwRmc1ck9YLXE4MlBRQ0NIWWNjLVgza0hqMTU3YXRXdHBkTGZkZFY2S1RjZVM4QzMtTDFjUzl1dw?oc=5",
+        "date": "2025-12-03",
+        "title": "HICL Infrastructure Executes Share Buyback - TipRanks",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbTMtWUY3NUNCb091aG41Y2YybWVuZ3JscExfOEl5TENKcVktWnpvQjhJY1dEQlBTb0RSUlBkS183TkpFQ1FwUFlaTUl4Nksxb0kxOHVicXNZd0NtNlNuUk9tNDVvZjZwRmc1ck9YLXE4MlBRQ0NIWWNjLVgza0hqMTU3YXRXdHBkTGZkZFY2S1RjZVM4QzMtTDFjUzl1dw?oc=5\" target=\"_blank\">HICL Infrastructure Executes Share Buyback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbVFIU3pOd1p3VWVZT3o3T05oeFgwTkp2WnhmNEhHOGRnTjZFbkpTamhUdkVteWV0dndOMFlRcTlhYzdvT0dXQVVhWFNCZURKU3hsNnRPSFh1eDl5SnlmelloeTdhM2hyenVYVUJqZV95Q2FjZTFHM1ZCOHYtaXBvcHM3MWxzaDVSUGxVUTNTVHNHREtuZFZJMHM1SkFUM1U?oc=5",
+        "date": "2025-12-03",
+        "title": "Public Key Infrastructure Market Is Growing at a CAGR of 18.79% During the Forecast Period 2025 - 2035 - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPbVFIU3pOd1p3VWVZT3o3T05oeFgwTkp2WnhmNEhHOGRnTjZFbkpTamhUdkVteWV0dndOMFlRcTlhYzdvT0dXQVVhWFNCZURKU3hsNnRPSFh1eDl5SnlmelloeTdhM2hyenVYVUJqZV95Q2FjZTFHM1ZCOHYtaXBvcHM3MWxzaDVSUGxVUTNTVHNHREtuZFZJMHM1SkFUM1U?oc=5\" target=\"_blank\">Public Key Infrastructure Market Is Growing at a CAGR of 18.79% During the Forecast Period 2025 - 2035</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0tOZlE1S1BvcW82YzZpazFzUU5YWlBQckhEMzdSWlNmMmlkVG5sT2E2NVIxVzlsWGw1czBxZUducTJXcFVTWXd6ZXAtemI3SmFpUjFFSmg2MHoxaGtYU1J2Tm1EanFrQUtib0czYVFyaDBtSUlNc1F2YktabG5QM0p4ZG5rRHNDeDFMd0RXN016bUt1cmc?oc=5",
+        "date": "2025-12-03",
+        "title": "Sustainability in Construction Market Trends Influenced - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0tOZlE1S1BvcW82YzZpazFzUU5YWlBQckhEMzdSWlNmMmlkVG5sT2E2NVIxVzlsWGw1czBxZUducTJXcFVTWXd6ZXAtemI3SmFpUjFFSmg2MHoxaGtYU1J2Tm1EanFrQUtib0czYVFyaDBtSUlNc1F2YktabG5QM0p4ZG5rRHNDeDFMd0RXN016bUt1cmc?oc=5\" target=\"_blank\">Sustainability in Construction Market Trends Influenced</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUkFncXdmTWdWZ1NzUHo3Q1lFUTRwLW9WcndENWlPTXluenBzcUhCYThCNjBUX1BDczMta1NpR3hvcWhRU1RWS2lhVXFGWXRodDhkQmtwLUJvR3loZmlaSDJ0ZV9ZQzRwVldMck5seWFqX3M1U1lhcTl6UjduSnJhTHdnZGxFSG5HWXYtZ0JLblZNc1IyUVF3TnU3dlo3WVlYcm1mSlNUMklDeTFCR0hEcUxuZUFPOS0wcWpVc2JXX1hFazA?oc=5",
+        "date": "2025-12-03",
+        "title": "Funding Gap Stalls Second Phase of Yaound\u00e9 Lake Development Project - Business in Cameroon",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUkFncXdmTWdWZ1NzUHo3Q1lFUTRwLW9WcndENWlPTXluenBzcUhCYThCNjBUX1BDczMta1NpR3hvcWhRU1RWS2lhVXFGWXRodDhkQmtwLUJvR3loZmlaSDJ0ZV9ZQzRwVldMck5seWFqX3M1U1lhcTl6UjduSnJhTHdnZGxFSG5HWXYtZ0JLblZNc1IyUVF3TnU3dlo3WVlYcm1mSlNUMklDeTFCR0hEcUxuZUFPOS0wcWpVc2JXX1hFazA?oc=5\" target=\"_blank\">Funding Gap Stalls Second Phase of Yaound\u00e9 Lake Development Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business in Cameroon</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSlZoZm1za2d3OTNuLUI1cE52OTF4S3dnMnotR3BZcnM2by1Lem1faGZ1LUpCb211S28tNnU1SnI4aTE0TENzU0ppWGxHbmJDT2RzcllZaG9DbUVwdGhKcjdFN1R5WU1oSGppa0RnMS1GNXpwWXJmYll6VjdZQUVPZmxPLWtLTmtaV2hHb1hINEY5WEFlWjNHREkydVM?oc=5",
+        "date": "2025-12-03",
+        "title": "Oman: Earthen architecture for greener construction - ZAWYA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNSlZoZm1za2d3OTNuLUI1cE52OTF4S3dnMnotR3BZcnM2by1Lem1faGZ1LUpCb211S28tNnU1SnI4aTE0TENzU0ppWGxHbmJDT2RzcllZaG9DbUVwdGhKcjdFN1R5WU1oSGppa0RnMS1GNXpwWXJmYll6VjdZQUVPZmxPLWtLTmtaV2hHb1hINEY5WEFlWjNHREkydVM?oc=5\" target=\"_blank\">Oman: Earthen architecture for greener construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZAWYA</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
