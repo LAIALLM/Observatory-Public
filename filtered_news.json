@@ -1268,5 +1268,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Rep. Mike Simpson introduces Urban Canal Modernization Act to upgrade aging canals and enhance urban infrastructure.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-03",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China: 50,000 km high-speed rail targeted by 2025 vs\n\ud83c\uddef\ud83c\uddf5 Japan: ~3,000 km in service by 2025",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
