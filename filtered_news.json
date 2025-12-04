@@ -1793,5 +1793,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-04",
+        "status": "posted",
+        "tweet": "Bitcoin mining data centers worldwide are projected to consume 160 TWh of electricity in 2025.\n\nThis exceeds \ud83c\uddf3\ud83c\uddf1 Netherlands' total annual electricity usage by 40 TWh.",
+        "type": "crypto"
     }
 ]
