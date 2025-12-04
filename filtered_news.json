@@ -2011,5 +2011,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Blue Owl Capital launches $1.7B digital infrastructure fund $OWL",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-04",
+        "status": "posted",
+        "tweet": "Google Cloud infrastructure: 12 exabytes of data processed daily across global data centers in 2025.\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
