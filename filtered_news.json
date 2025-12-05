@@ -2025,5 +2025,13 @@
         "status": "posted",
         "tweet": "NVIDIA's global data centers consumed 15 TWh of energy in 2025, supporting AI training workloads across 500,000 GPUs.\n\n$NVDA",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-05",
+        "status": "posted",
+        "tweet": "World's top 5 most populous urban areas in 2025\n\n1. \ud83c\uddef\ud83c\uddf5 Tokyo: 37M\n2. \ud83c\uddee\ud83c\uddf3 Delhi: 33M\n3. \ud83c\udde8\ud83c\uddf3 Shanghai: 29M\n4. \ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo: 22M\n5. \ud83c\uddf2\ud83c\uddfd Mexico City: 22M",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
