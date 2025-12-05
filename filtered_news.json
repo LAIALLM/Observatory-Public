@@ -2018,5 +2018,12 @@
         "status": "posted",
         "tweet": "Google Cloud infrastructure: 12 exabytes of data processed daily across global data centers in 2025.\n\n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-05",
+        "status": "posted",
+        "tweet": "NVIDIA's global data centers consumed 15 TWh of energy in 2025, supporting AI training workloads across 500,000 GPUs.\n\n$NVDA",
+        "type": "infrastructure"
     }
 ]
