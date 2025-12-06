@@ -2573,5 +2573,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: US Energy Dept. withdraws federal zero-emissions building definition, leaving states, cities and owners without a consistent benchmark for energy and carbon standards.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-06",
+        "status": "posted",
+        "tweet": "Bitcoin 2025 projection: $10 billion annual energy costs for 140 million transactions\u2014$71 per transaction in infrastructural expenses alone, at 7 TPS throughput.",
+        "type": "crypto"
     }
 ]
