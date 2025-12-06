@@ -2597,5 +2597,13 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-06",
+        "status": "posted",
+        "tweet": "By 2030, climate impacts could damage $1 trillion in \ud83c\uddfa\ud83c\uddf8 infrastructure annually, with sea levels rising 0.3 meters by 2050 exacerbating coastal erosion on 30% of roads and bridges.",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
