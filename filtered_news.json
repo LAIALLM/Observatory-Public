@@ -2642,5 +2642,25 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN3VsVEYyZkx6VDdHSjlIOXJhU2F5LWpoZ1lBWDFpeHM5ck11TjU3R0hrTDZXb0d1V0kyLUMweWNESjRGUW1jSnVqMUxKY0VjbVVKc3cxNUtlbEVsb0h5SnRMWFpwYzJkMWEzUUJPMmpOcmZfeV9zVXRGNENtZjVsdGtxNkNXVHZmdlFFdk1uUjN5T0V6dVJQdkVjU051X2lrdkQwV2ZQQkRJMHZJWnQ1V2l3ck00QTFmaG45RGFYazhzaHNiWjhUMEhSVTRXbThOeWFCMnV1V0dhRDVqZzFhd29n0gHnAUFVX3lxTFB5am5ZaDhURS1VZ1kteVYyb1A1MjFxZnMxV2wtbmtWekhOTldOMGZINVNucGdfdllSTS1PYzJOV0tocVJGbnZGcjBvX0VZRkNKNGVsOHNMOElLWE9DdjZ5dG81U0M5ZTFHdmVXcXozSkpvaERRX0k5Zm14elJ0R1JQVnRKbURkOEtoRFUxWjVBVmNJRWlIdndrY2d5LWtlRnJybzdoMXJZNEJ2b0dvZ0VPUThScV85ME94NElfWlFTUHkyYWVyNGF3cGVWVVc1Si1NTnl1Y0xpODNlWUZmT3otUVNJNlVXUQ?oc=5",
+        "date": "2025-12-07",
+        "title": "Water leak at Louvre Museum damages hundreds of works \u2014 raises fresh alarm over infrastructure - livemint.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN3VsVEYyZkx6VDdHSjlIOXJhU2F5LWpoZ1lBWDFpeHM5ck11TjU3R0hrTDZXb0d1V0kyLUMweWNESjRGUW1jSnVqMUxKY0VjbVVKc3cxNUtlbEVsb0h5SnRMWFpwYzJkMWEzUUJPMmpOcmZfeV9zVXRGNENtZjVsdGtxNkNXVHZmdlFFdk1uUjN5T0V6dVJQdkVjU051X2lrdkQwV2ZQQkRJMHZJWnQ1V2l3ck00QTFmaG45RGFYazhzaHNiWjhUMEhSVTRXbThOeWFCMnV1V0dhRDVqZzFhd29n0gHnAUFVX3lxTFB5am5ZaDhURS1VZ1kteVYyb1A1MjFxZnMxV2wtbmtWekhOTldOMGZINVNucGdfdllSTS1PYzJOV0tocVJGbnZGcjBvX0VZRkNKNGVsOHNMOElLWE9DdjZ5dG81U0M5ZTFHdmVXcXozSkpvaERRX0k5Zm14elJ0R1JQVnRKbURkOEtoRFUxWjVBVmNJRWlIdndrY2d5LWtlRnJybzdoMXJZNEJ2b0dvZ0VPUThScV85ME94NElfWlFTUHkyYWVyNGF3cGVWVVc1Si1NTnl1Y0xpODNlWUZmT3otUVNJNlVXUQ?oc=5\" target=\"_blank\">Water leak at Louvre Museum damages hundreds of works \u2014 raises fresh alarm over infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">livemint.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbG1yampBLVhCRVlNT1B3a2cwbzJmQjRVZW11M0xhaTZoU3FsSlhfajlkdHpRRHZ6OWluTFZLWVlXVG5hMVh3VElaSzh4U0dRTnZwdGtQNGFuaHRrUFc5UXpIZFdubWh3d1FZTHFqU1RMRFlKY3kwR25OWkdZRnZBMXViV3FsMlRXVXJweXIzQXk?oc=5",
+        "date": "2025-12-07",
+        "title": "MRTA eyes Japan model for Praram 9 - bangkokpost.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPbG1yampBLVhCRVlNT1B3a2cwbzJmQjRVZW11M0xhaTZoU3FsSlhfajlkdHpRRHZ6OWluTFZLWVlXVG5hMVh3VElaSzh4U0dRTnZwdGtQNGFuaHRrUFc5UXpIZFdubWh3d1FZTHFqU1RMRFlKY3kwR25OWkdZRnZBMXViV3FsMlRXVXJweXIzQXk?oc=5\" target=\"_blank\">MRTA eyes Japan model for Praram 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bangkokpost.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
