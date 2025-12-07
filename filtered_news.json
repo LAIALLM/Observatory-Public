@@ -2612,5 +2612,35 @@
         "status": "posted",
         "tweet": "Alphabet's data centers processed 18 exabytes daily in Q2 2025, up 25% YoY. $GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnlneDB4ZEk1Uk5RY0Z1bTJUcVczSjJjbVJxTHI4QmI5VE42bGFxLU5Oc0RGX2FOV1hhbDVNMTZLelQzb0FxbWltdHNaYXY1ZDBLQTA2R2RQQVRna0F0YVhaY0puRllfQk43cXR3dWY4RDNDYzZVWTUtcDNHNEJxOXlCakRGSEJuRUlQdUc0T2FncXVrUURVVkxVR25QZjVFdVdXczQyUQ?oc=5",
+        "date": "2025-12-07",
+        "title": "Video 2 dead after Russian attacks on infrastructure in Ukraine - ABC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnlneDB4ZEk1Uk5RY0Z1bTJUcVczSjJjbVJxTHI4QmI5VE42bGFxLU5Oc0RGX2FOV1hhbDVNMTZLelQzb0FxbWltdHNaYXY1ZDBLQTA2R2RQQVRna0F0YVhaY0puRllfQk43cXR3dWY4RDNDYzZVWTUtcDNHNEJxOXlCakRGSEJuRUlQdUc0T2FncXVrUURVVkxVR25QZjVFdVdXczQyUQ?oc=5\" target=\"_blank\">Video 2 dead after Russian attacks on infrastructure in Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVndIcXZxckFGZXJxSUxFSW1pd2VRZkhtdHFNbG84VWg4N3RSN1FBVk1qcWRnMV9xQUhSX3BraGFjTm8zT0ZXV01TcXRoMDhSQUxReE1ocEc5YWlza3kyMVQ3SDJucl8wQTM0QkJ5QWQyVmw3REJ3b2QtWlFQemFxQWk2MzI3eHV2RlRmbm5lbUFjYkVrd29pXzk4NA?oc=5",
+        "date": "2025-12-07",
+        "title": "River erosion wipes out infrastructure in Pirojpur - New Age BD",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVndIcXZxckFGZXJxSUxFSW1pd2VRZkhtdHFNbG84VWg4N3RSN1FBVk1qcWRnMV9xQUhSX3BraGFjTm8zT0ZXV01TcXRoMDhSQUxReE1ocEc5YWlza3kyMVQ3SDJucl8wQTM0QkJ5QWQyVmw3REJ3b2QtWlFQemFxQWk2MzI3eHV2RlRmbm5lbUFjYkVrd29pXzk4NA?oc=5\" target=\"_blank\">River erosion wipes out infrastructure in Pirojpur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Age BD</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1EWmVhc1JpSXB1YUJVVk9DajVHbVJUR2xERTBGeUVzSXZzTWhPMlpqc0YzUFl6ZV9aaUYtMGJ6dmtONHJhcVJJ?oc=5",
+        "date": "2025-12-07",
+        "title": "Leo Quinn: Transforming Balfour Beatty and Leading the Future of Infrastructure - buzblog.co.uk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE1EWmVhc1JpSXB1YUJVVk9DajVHbVJUR2xERTBGeUVzSXZzTWhPMlpqc0YzUFl6ZV9aaUYtMGJ6dmtONHJhcVJJ?oc=5\" target=\"_blank\">Leo Quinn: Transforming Balfour Beatty and Leading the Future of Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">buzblog.co.uk</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
