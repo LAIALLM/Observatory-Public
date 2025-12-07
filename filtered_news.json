@@ -2567,5 +2567,12 @@
         "tweet": "Tokyo \ud83c\uddef\ud83c\uddf5 metro area will reach 37.4 million residents in 2025, holding its rank as the world's largest urban population.",
         "type": "statistical",
         "category": "cities"
+    },
+    {
+        "link": null,
+        "date": "2025-12-07",
+        "status": "posted",
+        "tweet": "Bitcoin mining hash rate by geography (2025): 92% in top 5 nations, risking energy grid strain and costs.\n\n1. \ud83c\uddfa\ud83c\uddf8 US: 38%\n2. \ud83c\uddf7\ud83c\uddfa Russia: 15%\n3. \ud83c\uddf0\ud83c\uddff Kazakhstan: 13%\n4. \ud83c\udde8\ud83c\udde6 Canada: 12%\n5. \ud83c\uddee\ud83c\uddea Ireland: 14%",
+        "type": "crypto"
     }
 ]
