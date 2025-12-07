@@ -2559,5 +2559,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-07",
+        "status": "posted",
+        "tweet": "Tokyo \ud83c\uddef\ud83c\uddf5 metro area will reach 37.4 million residents in 2025, holding its rank as the world's largest urban population.",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
