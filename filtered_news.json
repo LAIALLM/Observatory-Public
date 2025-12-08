@@ -2524,5 +2524,13 @@
         "status": "posted",
         "tweet": "(\ud83c\uddfa\ud83c\udde6) NEWS: EBRD lends \u20ac16M to Cherkasy for modern trolleybuses and infrastructure upgrades, pushing through wartime challenges.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-08",
+        "status": "posted",
+        "tweet": "By 2025, urban development firms globally are projected to invest $1.1 trillion in climate-resilient infrastructure, up 25% from 2024 levels.",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
