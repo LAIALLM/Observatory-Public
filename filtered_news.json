@@ -2435,5 +2435,12 @@
         "status": "posted",
         "tweet": "(\ud83c\uddf9\ud83c\udded) NEWS: Thailand raises airport fees to fund major tourism infrastructure improvements.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-08",
+        "status": "posted",
+        "tweet": "Estimated min annual cost to run a validator/miner for decentralization (2025, USD incl. hardware/elec/bandwidth).\n\n1. Bitcoin (ASIC miner): $45,000\n2. Solana (high-spec server): $8,500\n3. Ethereum (standard node): $1,200",
+        "type": "crypto"
     }
 ]
