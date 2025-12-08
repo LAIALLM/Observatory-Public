@@ -2367,5 +2367,73 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-08",
+        "status": "posted",
+        "tweet": "Microsoft's Azure data centers in \ud83c\uddfa\ud83c\uddf8 Virginia consumed 2.5 TWh of energy in 2024, powering AI workloads with 98% renewable sources. $MSFT",
+        "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeThkMl9vVXJFMEVUME9CRFFWWFlwd3ptbms1N0hEZVMxcjE0enZJZ0RQWEVxWWtVU1piM3J6VmtJbWFIdEp6dlNZSF9yNWFrYUpBVzhQOW9TMDgyVWl2SjFWUHpUaG1rSUpxUEFnWTEzak9FT29fbFM0YUNJTmpDNlU4ZGdVY1hta24xZkFKWkZtd1hhRTVGampQX3BRa0x0dUlidDJMOG00Sng2WDZHdzJWd1FQd0xlQXRzRWZJRlkzcFQyUDVkV0hn?oc=5",
+        "date": "2025-12-08",
+        "title": "Content versus infrastructure is key battle for Saudi film industry, say investors - Screen Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNeThkMl9vVXJFMEVUME9CRFFWWFlwd3ptbms1N0hEZVMxcjE0enZJZ0RQWEVxWWtVU1piM3J6VmtJbWFIdEp6dlNZSF9yNWFrYUpBVzhQOW9TMDgyVWl2SjFWUHpUaG1rSUpxUEFnWTEzak9FT29fbFM0YUNJTmpDNlU4ZGdVY1hta24xZkFKWkZtd1hhRTVGampQX3BRa0x0dUlidDJMOG00Sng2WDZHdzJWd1FQd0xlQXRzRWZJRlkzcFQyUDVkV0hn?oc=5\" target=\"_blank\">Content versus infrastructure is key battle for Saudi film industry, say investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Screen Daily</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUgxcW1DMkFWNFZ4MlFjeTFMY2tjd3dZUXNPVHZrY2lvdWVWSFREVWxmRDVSdDg5Z3hUUmppOVBsRmJ4NXNFX0NWMTBTcmtQVUlJdjVXOE96amtLVFBWbEdjSko4bHhYTVFiTS1vZ1dEVk1VR3ZjWl9Dc0QwZWo1Yw?oc=5",
+        "date": "2025-12-08",
+        "title": "How Rebellions\u2019 NPU Validation Marks Korea\u2019s Broader Bet on AI Infrastructure and Industry Collaboration - KoreaTechDesk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUgxcW1DMkFWNFZ4MlFjeTFMY2tjd3dZUXNPVHZrY2lvdWVWSFREVWxmRDVSdDg5Z3hUUmppOVBsRmJ4NXNFX0NWMTBTcmtQVUlJdjVXOE96amtLVFBWbEdjSko4bHhYTVFiTS1vZ1dEVk1VR3ZjWl9Dc0QwZWo1Yw?oc=5\" target=\"_blank\">How Rebellions\u2019 NPU Validation Marks Korea\u2019s Broader Bet on AI Infrastructure and Industry Collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KoreaTechDesk</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVByYWNGN0FkcHNGQ0h0ZGZnY1A5SjhjQ01lUDRCMFpqQWhEa25razFnQ1E5MF9PVVpvdnJQYjZPMzZpdEVnYnNuTWE3VmhyQVBhMFUtSU90S2RjNGUzZ1NvVE1iZmpOWnNoU1J1VVg3d3NZajR2YkswRDA1c3RvTzNFOEFtclFWZ0VFTmpYbV9FX3dkUS1KaVRrVFBMZzFHdDhubkx1Yy00eEVhS3VJb0RVeGUxaDllRjYwVU9DU1RXWEp3YzBhcmlSR3NXbzdVUENV?oc=5",
+        "date": "2025-12-08",
+        "title": "Now, Increased Airport Fees in Thailand to Fund Major Tourism Infrastructure Improvements - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVByYWNGN0FkcHNGQ0h0ZGZnY1A5SjhjQ01lUDRCMFpqQWhEa25razFnQ1E5MF9PVVpvdnJQYjZPMzZpdEVnYnNuTWE3VmhyQVBhMFUtSU90S2RjNGUzZ1NvVE1iZmpOWnNoU1J1VVg3d3NZajR2YkswRDA1c3RvTzNFOEFtclFWZ0VFTmpYbV9FX3dkUS1KaVRrVFBMZzFHdDhubkx1Yy00eEVhS3VJb0RVeGUxaDllRjYwVU9DU1RXWEp3YzBhcmlSR3NXbzdVUENV?oc=5\" target=\"_blank\">Now, Increased Airport Fees in Thailand to Fund Major Tourism Infrastructure Improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddf9\ud83c\udded NEWS: Thailand hikes airport fees to fund major tourism infrastructure upgrades."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUnBGSkwxX2paU1E0SjJ5MldCTGZTOHJpYXM3RGx4ZnpWUHFyNFFpdFZ0dUFJR0ltVWJZR29vMHBweTB1VUJDdkRpMUdEX3d0SDdQRjlWSE9jc1lha090emNOLUktYjFsRzlEUUZHUzNQMy1VdG9TNzJLNDgyNGJnanNPcjNiV0ZW?oc=5",
+        "date": "2025-12-08",
+        "title": "NITP urges Abia govt to implement town planning law - The Guardian Nigeria News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUnBGSkwxX2paU1E0SjJ5MldCTGZTOHJpYXM3RGx4ZnpWUHFyNFFpdFZ0dUFJR0ltVWJZR29vMHBweTB1VUJDdkRpMUdEX3d0SDdQRjlWSE9jc1lha090emNOLUktYjFsRzlEUUZHUzNQMy1VdG9TNzJLNDgyNGJnanNPcjNiV0ZW?oc=5\" target=\"_blank\">NITP urges Abia govt to implement town planning law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian Nigeria News</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVXV0VGtnV2k4SDkxX2NEWi1xTmRIclRmeU5uOW84ZjAtMnRPQkhuUF9SZFR2OUcyNmRjWnEzOHN2VjVic01DX0xQWlUyWHhOLVRLZmxuSlQ1WkNieV9GYllPOC1JbHRBejZFdUpNM3YtRFhaZzJXWFNqdDlmWHdLR2tDQTh0Qm4xZ2FiNFlicmFDbnJ2UTVXekRmY3RMRk54THpkUWozNi0tbmhWeDN0ODVld2N2UkU1cHppTm9mMkpKWFpmVl9Ya1lqRQ?oc=5",
+        "date": "2025-12-08",
+        "title": "South Korean researchers join Birmingham City University to support smart city development - EdTech Innovation Hub",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQVXV0VGtnV2k4SDkxX2NEWi1xTmRIclRmeU5uOW84ZjAtMnRPQkhuUF9SZFR2OUcyNmRjWnEzOHN2VjVic01DX0xQWlUyWHhOLVRLZmxuSlQ1WkNieV9GYllPOC1JbHRBejZFdUpNM3YtRFhaZzJXWFNqdDlmWHdLR2tDQTh0Qm4xZ2FiNFlicmFDbnJ2UTVXekRmY3RMRk54THpkUWozNi0tbmhWeDN0ODVld2N2UkU1cHppTm9mMkpKWFpmVl9Ya1lqRQ?oc=5\" target=\"_blank\">South Korean researchers join Birmingham City University to support smart city development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EdTech Innovation Hub</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVByYWNGN0FkcHNGQ0h0ZGZnY1A5SjhjQ01lUDRCMFpqQWhEa25razFnQ1E5MF9PVVpvdnJQYjZPMzZpdEVnYnNuTWE3VmhyQVBhMFUtSU90S2RjNGUzZ1NvVE1iZmpOWnNoU1J1VVg3d3NZajR2YkswRDA1c3RvTzNFOEFtclFWZ0VFTmpYbV9FX3dkUS1KaVRrVFBMZzFHdDhubkx1Yy00eEVhS3VJb0RVeGUxaDllRjYwVU9DU1RXWEp3YzBhcmlSR3NXbzdVUENV?oc=5",
+        "date": "2025-12-08",
+        "title": "Now, Increased Airport Fees in Thailand to Fund Major Tourism Infrastructure Improvements - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVByYWNGN0FkcHNGQ0h0ZGZnY1A5SjhjQ01lUDRCMFpqQWhEa25razFnQ1E5MF9PVVpvdnJQYjZPMzZpdEVnYnNuTWE3VmhyQVBhMFUtSU90S2RjNGUzZ1NvVE1iZmpOWnNoU1J1VVg3d3NZajR2YkswRDA1c3RvTzNFOEFtclFWZ0VFTmpYbV9FX3dkUS1KaVRrVFBMZzFHdDhubkx1Yy00eEVhS3VJb0RVeGUxaDllRjYwVU9DU1RXWEp3YzBhcmlSR3NXbzdVUENV?oc=5\" target=\"_blank\">Now, Increased Airport Fees in Thailand to Fund Major Tourism Infrastructure Improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "(\ud83c\uddf9\ud83c\udded) NEWS: Thailand raises airport fees to fund major tourism infrastructure improvements.",
+        "type": "news"
     }
 ]
