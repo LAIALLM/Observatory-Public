@@ -2537,5 +2537,12 @@
         "status": "posted",
         "tweet": "Ethereum validator hardware cost (2025): $1,200\n\nSolana validator hardware cost: $7,500\n\n6.25x higher for Solana.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-12-09",
+        "status": "posted",
+        "tweet": "AWS data centers in \ud83c\uddfa\ud83c\uddf8 Virginia processed 8 exabytes of data daily in 2025.\n\n$AMZN",
+        "type": "infrastructure"
     }
 ]
