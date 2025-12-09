@@ -1,139 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-11-29",
-        "status": "posted",
-        "tweet": "Microsoft's Azure data centers in \ud83c\uddfa\ud83c\uddf8USA handled 8 exabytes of daily data traffic in 2025, up 25% from 2024.\n\n$MSFT",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2025-11-29",
-        "status": "posted",
-        "tweet": "Bitcoin mining in 2025: 150 TWh electricity, $7.5B cost at $0.05/kWh\u2014matching \ud83c\uddf3\ud83c\uddf1 Netherlands' annual use.\n\nEthereum staking: <0.1 TWh, slashing costs by 99.9%.",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSG90eHBVcE1IM1djeHZYeTROanVMWUNrLUs1SHlvRzMyZUZla2RYRHhCQXNlcHd6RHFEdThWQ0dPem1JM2NXQWoyOWRaNUVRY2YtSUJHRWF2bkpKQzQwMnU1TjdxSkRrbjRsRjNQcG1pMlJfSVl4OXdRMjRQV19lemIwRQ?oc=5",
-        "date": "2025-11-29",
-        "title": "Pink Hard Hat Girls program introduces local students to construction careers - Jackson County Sentinel",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPSG90eHBVcE1IM1djeHZYeTROanVMWUNrLUs1SHlvRzMyZUZla2RYRHhCQXNlcHd6RHFEdThWQ0dPem1JM2NXQWoyOWRaNUVRY2YtSUJHRWF2bkpKQzQwMnU1TjdxSkRrbjRsRjNQcG1pMlJfSVl4OXdRMjRQV19lemIwRQ?oc=5\" target=\"_blank\">Pink Hard Hat Girls program introduces local students to construction careers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jackson County Sentinel</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZTVYM1hnZFpJSXViaWxYYUlfU2xXODZRcFVVTzNNUjU3dlRTLVRUNXQzNFFIWG1NUlBiWW44SGdNMndMcko3cll2SzdualNRWkhEUjBhbjZKQjEyMEZfYkdTRFdQeVpBbk5PaWViSXhKZVBuTEZoeVRibkd1d1pHaUdJbGY?oc=5",
-        "date": "2025-11-29",
-        "title": "India mulls infrastructure status for hotels - Asian Hospitality",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOZTVYM1hnZFpJSXViaWxYYUlfU2xXODZRcFVVTzNNUjU3dlRTLVRUNXQzNFFIWG1NUlBiWW44SGdNMndMcko3cll2SzdualNRWkhEUjBhbjZKQjEyMEZfYkdTRFdQeVpBbk5PaWViSXhKZVBuTEZoeVRibkd1d1pHaUdJbGY?oc=5\" target=\"_blank\">India mulls infrastructure status for hotels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Asian Hospitality</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2025-11-29",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Total construction starts are projected to rise 7% in 2025 (Dodge Construction Network, 2025 Outlook).",
-        "type": "statistical",
-        "category": "construction projects"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNUJfektuWGdSdG5oSlVnc1lTbTVuVlctaHg1RWs2QjhnN1RNOTZKODFwWE1lWnh0OVFISzBhb0hxOVJBNVk1ZlBaYzlnbkVxdkpkR0NyREpHUHJRa2lGTXFxTDJQYWk3TDd1UXowVHJpYXdfbUZtXzN0aXpEY0R4Z19iLVlvRmhmeEF1VXVOT0RDZUFId3NoTlhRemtfWVJhNnQ4NjFzWEVuaUtwYVFueS0zc1pmWllVX3c?oc=5",
-        "date": "2025-11-29",
-        "title": "Africa must reverse colonial infrastructure models to unite: Former Egypt PM - Dailynewsegypt",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNUJfektuWGdSdG5oSlVnc1lTbTVuVlctaHg1RWs2QjhnN1RNOTZKODFwWE1lWnh0OVFISzBhb0hxOVJBNVk1ZlBaYzlnbkVxdkpkR0NyREpHUHJRa2lGTXFxTDJQYWk3TDd1UXowVHJpYXdfbUZtXzN0aXpEY0R4Z19iLVlvRmhmeEF1VXVOT0RDZUFId3NoTlhRemtfWVJhNnQ4NjFzWEVuaUtwYVFueS0zc1pmWllVX3c?oc=5\" target=\"_blank\">Africa must reverse colonial infrastructure models to unite: Former Egypt PM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dailynewsegypt</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSFFscjh0R2V0eXlzcVQzLWQySEM3WVVSRjRnblpmeVZ2b3doWEx5UVNYRC1ieFRpOE9hclI1V2FvNHhtMGxEUlVjalF1anhyTkVDSGVhazlFeHBORFRvbU1lSU1oUzN3UVJxY3RCdlVMSFlJMndHNUtLZW5jRUd4MFhzSXdNQU56MnpyQXZZTXI0OUJad2pHeUU1TlFfbGh5Tm90SjJRQmdfR28tX0dZaGVPeWhFT0s1Y3dTVFRqcFhuN1JpYURsM1hQMThVc1dWSTlSdXdHandUOXN0LVNnRXhqN0hWZ1ViamhUSEJFS2xiRVNrSFhj?oc=5",
-        "date": "2025-11-29",
-        "title": "QNBN and Carnegie Mellon Qatar agree to collaborate on digital security and infrastructure innovation - ZAWYA",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSFFscjh0R2V0eXlzcVQzLWQySEM3WVVSRjRnblpmeVZ2b3doWEx5UVNYRC1ieFRpOE9hclI1V2FvNHhtMGxEUlVjalF1anhyTkVDSGVhazlFeHBORFRvbU1lSU1oUzN3UVJxY3RCdlVMSFlJMndHNUtLZW5jRUd4MFhzSXdNQU56MnpyQXZZTXI0OUJad2pHeUU1TlFfbGh5Tm90SjJRQmdfR28tX0dZaGVPeWhFT0s1Y3dTVFRqcFhuN1JpYURsM1hQMThVc1dWSTlSdXdHandUOXN0LVNnRXhqN0hWZ1ViamhUSEJFS2xiRVNrSFhj?oc=5\" target=\"_blank\">QNBN and Carnegie Mellon Qatar agree to collaborate on digital security and infrastructure innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZAWYA</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnYWRlT2JyR1dncVc4cldyY1FuQms5QjlMYXJvbWZSZFdUaWVlcnFjRkxTZlJKdHBXRjc0MGYxZnhSNlVfLTcxaExZSDhhY1dqcDlLTUlHZUI0dHB0bXQ3YXp0UGptZ0hQWG1faG5YNzRMMXQwVHFyUTB2UVo?oc=5",
-        "date": "2025-11-29",
-        "title": "Economic Figures See Amra City Project as Strategic Opportunity for Sustainable Growth - \u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0627\u0631\u062f\u0646\u064a\u0629",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBnYWRlT2JyR1dncVc4cldyY1FuQms5QjlMYXJvbWZSZFdUaWVlcnFjRkxTZlJKdHBXRjc0MGYxZnhSNlVfLTcxaExZSDhhY1dqcDlLTUlHZUI0dHB0bXQ3YXp0UGptZ0hQWG1faG5YNzRMMXQwVHFyUTB2UVo?oc=5\" target=\"_blank\">Economic Figures See Amra City Project as Strategic Opportunity for Sustainable Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0627\u0631\u062f\u0646\u064a\u0629</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddef\ud83c\uddf4 NEWS: Economic leaders view Amra City project as prime chance for sustainable growth"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnYWRlT2JyR1dncVc4cldyY1FuQms5QjlMYXJvbWZSZFdUaWVlcnFjRkxTZlJKdHBXRjc0MGYxZnhSNlVfLTcxaExZSDhhY1dqcDlLTUlHZUI0dHB0bXQ3YXp0UGptZ0hQWG1faG5YNzRMMXQwVHFyUTB2UVo?oc=5",
-        "date": "2025-11-29",
-        "title": "Economic Figures See Amra City Project as Strategic Opportunity for Sustainable Growth - \u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0627\u0631\u062f\u0646\u064a\u0629",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBnYWRlT2JyR1dncVc4cldyY1FuQms5QjlMYXJvbWZSZFdUaWVlcnFjRkxTZlJKdHBXRjc0MGYxZnhSNlVfLTcxaExZSDhhY1dqcDlLTUlHZUI0dHB0bXQ3YXp0UGptZ0hQWG1faG5YNzRMMXQwVHFyUTB2UVo?oc=5\" target=\"_blank\">Economic Figures See Amra City Project as Strategic Opportunity for Sustainable Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0627\u0644\u0627\u0631\u062f\u0646\u064a\u0629</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddef\ud83c\uddf4 NEWS: Economic figures view Amra City Project as a strategic opportunity for sustainable growth",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ1FhTUVKQnN0MlM3aV8wdnEwdW9ndHJmcmVad1UwdDI1N2dVWVZmY0NDYXpybkczWkZuNG9QTEkxcUhHRWdsU1ZmQjU2cjNYVmxqSmQ5UVByeEJWQUd3LVhBZTBsUE5vRXZfTUpLSWpYQ0FzM0E2d2hlU1huRVJxSjM3UEtTNUozeGhIVTZrSHJTal9CRDVMZzMzREhaUkZBeVdFSFExWE45d0ZZWEY4Y3d5M0dGR0ZiVlJ2Rg?oc=5",
-        "date": "2025-11-29",
-        "title": "Bullhead City Announces Infrastructure Upgrades and Maintenance Projects for Week of December 1 - thebee.news",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ1FhTUVKQnN0MlM3aV8wdnEwdW9ndHJmcmVad1UwdDI1N2dVWVZmY0NDYXpybkczWkZuNG9QTEkxcUhHRWdsU1ZmQjU2cjNYVmxqSmQ5UVByeEJWQUd3LVhBZTBsUE5vRXZfTUpLSWpYQ0FzM0E2d2hlU1huRVJxSjM3UEtTNUozeGhIVTZrSHJTal9CRDVMZzMzREhaUkZBeVdFSFExWE45d0ZZWEY4Y3d5M0dGR0ZiVlJ2Rg?oc=5\" target=\"_blank\">Bullhead City Announces Infrastructure Upgrades and Maintenance Projects for Week of December 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thebee.news</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNb2RxT2syUl9KUk9hU0dTd3NSaEQwaUZ3dDF6SmUtWFVLbXo4d19TdldhbHZidVVQak5SdW1adnM2RUJRM1BTRXVTaDRLTDJwam9MSkhkZ3A2WWJzQUphdHpiYTMzLTVpVHo4ZHg4MEg1YWd2emg5S05EVUUzNkNJLWQ1OExBZGhwQzZFalE0U2pTak96bDVyMUI3MDFZV2RyWEdRMGRRcEdDcmQxNlNRU3Jtc0lJZGlYSWlCbWM0RHlycjlMUFlUazFablpwMHZtM0J5MVdEQS1JaHhDNUxVOVNLM2hJWTVXTXJkWnQweS1CSXA2cGhj?oc=5",
-        "date": "2025-11-29",
-        "title": "Researchers Assess Scale of Russian Sabotage Operations Against Europe\u2019s Critical Infrastructure - Homeland Security Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNb2RxT2syUl9KUk9hU0dTd3NSaEQwaUZ3dDF6SmUtWFVLbXo4d19TdldhbHZidVVQak5SdW1adnM2RUJRM1BTRXVTaDRLTDJwam9MSkhkZ3A2WWJzQUphdHpiYTMzLTVpVHo4ZHg4MEg1YWd2emg5S05EVUUzNkNJLWQ1OExBZGhwQzZFalE0U2pTak96bDVyMUI3MDFZV2RyWEdRMGRRcEdDcmQxNlNRU3Jtc0lJZGlYSWlCbWM0RHlycjlMUFlUazFablpwMHZtM0J5MVdEQS1JaHhDNUxVOVNLM2hJWTVXTXJkWnQweS1CSXA2cGhj?oc=5\" target=\"_blank\">Researchers Assess Scale of Russian Sabotage Operations Against Europe\u2019s Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Homeland Security Today</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZV90R1lDLXprZ254MWpHUmhCV1ROdVhHWTJtQnRHVTNPZ3hmaXBEcng2YnM0OUJGN016YklfYWVaalZfVFY2X0hqTWFjN1hSWlRZVUZGdFZPX3JJRFFyeXUtUmJ0UnZEMTJJLWU1WGlkY3V4cEtiam5TUnlhaGwwVWFNMWFHMTB5b2hwUEEwQ3NicGZoVWlFelY5SWx0Zl93N1V4Z2lmRDRVUkVwZWtteUhXT0J1QXpT0gG-AUFVX3lxTE0yV00tSFJJMzF1dnEteGpmYk13UmFJd1g1ZDdxLV9jTkZFWHh6SnZXWm5vWWhGaGtRUGhIN2FFaHRpQVdhbldNMHd0dm9oWVcyWWw4WWVIbVZHei1FMy16bWx1dlFsdHlDQktMakh5R2xOektnYlNEeXhDZ2hKWFNsbGFWQXYwT2FoaWpEZFR3aldteVRSSzg1Z3FZUTd6TEc5TnBDY3psUmxtdkZadkZDcGRLTmlqc1NpOWJFRnc?oc=5",
-        "date": "2025-11-29",
-        "title": "Belden (BDC): Evaluating Valuation After Latest Innovations in Smart Infrastructure and Automation - simplywall.st",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZV90R1lDLXprZ254MWpHUmhCV1ROdVhHWTJtQnRHVTNPZ3hmaXBEcng2YnM0OUJGN016YklfYWVaalZfVFY2X0hqTWFjN1hSWlRZVUZGdFZPX3JJRFFyeXUtUmJ0UnZEMTJJLWU1WGlkY3V4cEtiam5TUnlhaGwwVWFNMWFHMTB5b2hwUEEwQ3NicGZoVWlFelY5SWx0Zl93N1V4Z2lmRDRVUkVwZWtteUhXT0J1QXpT0gG-AUFVX3lxTE0yV00tSFJJMzF1dnEteGpmYk13UmFJd1g1ZDdxLV9jTkZFWHh6SnZXWm5vWWhGaGtRUGhIN2FFaHRpQVdhbldNMHd0dm9oWVcyWWw4WWVIbVZHei1FMy16bWx1dlFsdHlDQktMakh5R2xOektnYlNEeXhDZ2hKWFNsbGFWQXYwT2FoaWpEZFR3aldteVRSSzg1Z3FZUTd6TEc5TnBDY3psUmxtdkZadkZDcGRLTmlqc1NpOWJFRnc?oc=5\" target=\"_blank\">Belden (BDC): Evaluating Valuation After Latest Innovations in Smart Infrastructure and Automation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHh2bS1lYkZrbUxHRTJwdVVyQmVHUUVNZGgwYkhTVU1WUWdGTlgyRHpCR29VYy1uUHZPVDBiUlBHdmUyQ19KdjJGQjdld2J6MXlTcGJGeUxnZWctT3NBZ2JGTUd6eW9pZThLcWRtQkMxNW9WeGxYM3VEZTc5d18wTUh3MnVBX0FQZm9iVnl6R25id2ZuSXdHbG51dWxyU09TTWhXVnRMOTl3VXlmVXVPeDNsTW8?oc=5",
-        "date": "2025-11-29",
-        "title": "Construction Uptick May Come Too Late for Europe\u2019s Suppliers - Bloomberg",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHh2bS1lYkZrbUxHRTJwdVVyQmVHUUVNZGgwYkhTVU1WUWdGTlgyRHpCR29VYy1uUHZPVDBiUlBHdmUyQ19KdjJGQjdld2J6MXlTcGJGeUxnZWctT3NBZ2JGTUd6eW9pZThLcWRtQkMxNW9WeGxYM3VEZTc5d18wTUh3MnVBX0FQZm9iVnl6R25id2ZuSXdHbG51dWxyU09TTWhXVnRMOTl3VXlmVXVPeDNsTW8?oc=5\" target=\"_blank\">Construction Uptick May Come Too Late for Europe\u2019s Suppliers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15WHFnbzN2VG01S2NfT3JTUHNsUDgxeDBsckZqekFyQ3duU0lTSW9zalhpQXpXRW15SkFBSmZjdE9KZW9FLTIzbjJ1ZTN2cUpUdFHSAVdBVV95cUxPRWxrU2ZNTFpBTW5wUzRiNnctNmg1WnJYVEw4TFdGX2Qwakh4bkpVTHNaeVYwYUNaVTk4S01kYXFGM085NGJCNl9Ea21VRVE5SmtFZy1Ha1U?oc=5",
-        "date": "2025-11-29",
-        "title": "Russia strikes Ukranian energy infrastructure - LiveNOW from FOX",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE15WHFnbzN2VG01S2NfT3JTUHNsUDgxeDBsckZqekFyQ3duU0lTSW9zalhpQXpXRW15SkFBSmZjdE9KZW9FLTIzbjJ1ZTN2cUpUdFHSAVdBVV95cUxPRWxrU2ZNTFpBTW5wUzRiNnctNmg1WnJYVEw4TFdGX2Qwakh4bkpVTHNaeVYwYUNaVTk4S01kYXFGM085NGJCNl9Ea21VRVE5SmtFZy1Ha1U?oc=5\" target=\"_blank\">Russia strikes Ukranian energy infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LiveNOW from FOX</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2025-11-30",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 United States: ~126M advanced electric meters (AMI) in service (2023, EIA).\n\ud83c\uddec\ud83c\udde7 Great Britain: ~36M smart and advanced meters operating (2024, DESNZ).",
@@ -2532,5 +2399,128 @@
         "tweet": "By 2025, urban development firms globally are projected to invest $1.1 trillion in climate-resilient infrastructure, up 25% from 2024 levels.",
         "type": "statistical",
         "category": "urban development firms"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTkdVdFA1dk1OaU9PcG9DREt1alBzc2RaNWlfd1ZaeUtkYUNmaGtIVEVjSVRHRFF5MEd6Z1JwSDF4TWVRUmtEWlY5aWdLQzM5cEJ0ZnQ0X3NRM2dNNmx3ZGVueEZPOHdUamNfM1pCWGNLa1ZPSkZNaEhmODhqVjNyTjkzSmdRUHZ4MWpCUDAyZXZTc1lwZlJYbQ?oc=5",
+        "date": "2025-12-09",
+        "title": "Applications open for Beck School of Construction - The Business Press",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTkdVdFA1dk1OaU9PcG9DREt1alBzc2RaNWlfd1ZaeUtkYUNmaGtIVEVjSVRHRFF5MEd6Z1JwSDF4TWVRUmtEWlY5aWdLQzM5cEJ0ZnQ0X3NRM2dNNmx3ZGVueEZPOHdUamNfM1pCWGNLa1ZPSkZNaEhmODhqVjNyTjkzSmdRUHZ4MWpCUDAyZXZTc1lwZlJYbQ?oc=5\" target=\"_blank\">Applications open for Beck School of Construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Press</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb2VUUjNyb2hWYlB6NWZla00xeU01bWtXTG8zdnlGZzdzamlUdTNGcmM1R0RFemlVdTRvTGpDUlc3Rkl5cG0tSGRyYkYzSlRobnZRbW9tOVdQbXk4VklXM0dMc1pqRExBeHhCRWxVekk1M1FiWDVBSHJQOTNMdGd2cmloNXJ6WFhXVEg3S1p5NjJSWlVQbk9nQVhhdms1dWJZM3VVb3RMQlhYLTZuanB1WkFyMEkwc3RNYVpVdmZKTlYyd25yRFNOUlR1aktpclk?oc=5",
+        "date": "2025-12-09",
+        "title": "Governor Newsom announces $1.1B in zero-emission transit, safer roadways, and resilient infrastructure - California State Portal | CA.gov",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNb2VUUjNyb2hWYlB6NWZla00xeU01bWtXTG8zdnlGZzdzamlUdTNGcmM1R0RFemlVdTRvTGpDUlc3Rkl5cG0tSGRyYkYzSlRobnZRbW9tOVdQbXk4VklXM0dMc1pqRExBeHhCRWxVekk1M1FiWDVBSHJQOTNMdGd2cmloNXJ6WFhXVEg3S1p5NjJSWlVQbk9nQVhhdms1dWJZM3VVb3RMQlhYLTZuanB1WkFyMEkwc3RNYVpVdmZKTlYyd25yRFNOUlR1aktpclk?oc=5\" target=\"_blank\">Governor Newsom announces $1.1B in zero-emission transit, safer roadways, and resilient infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California State Portal | CA.gov</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Gov. Newsom announces $1.1B for zero-emission transit, safer roadways and resilient infrastructure in California"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGZ5Rjk0VS1BRnZyYV94SUoxeUoySV9hQVlPbG0yQzd1Vnp6d2JhVVdzOHdTSVBHWG14ZENyd19LXzU2Skk0c3pmNWJ2WXRNYS1rSnlfbFI3TDBBOUROUUNhSXY2OEJhcU9KajRMQnFUQTZqZ056MnMtX0ROQmtrcnE5TFlhQkJVelBwQVB5aWFmNlYyNXhaZllJUQ?oc=5",
+        "date": "2025-12-09",
+        "title": "Ukraine Risks Alienating Allies With Oil Infrastructure Attacks - Carnegie Endowment for International Peace",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGZ5Rjk0VS1BRnZyYV94SUoxeUoySV9hQVlPbG0yQzd1Vnp6d2JhVVdzOHdTSVBHWG14ZENyd19LXzU2Skk0c3pmNWJ2WXRNYS1rSnlfbFI3TDBBOUROUUNhSXY2OEJhcU9KajRMQnFUQTZqZ056MnMtX0ROQmtrcnE5TFlhQkJVelBwQVB5aWFmNlYyNXhaZllJUQ?oc=5\" target=\"_blank\">Ukraine Risks Alienating Allies With Oil Infrastructure Attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carnegie Endowment for International Peace</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONURMUWhSZjUzTnloZF83bXZrc2kxOVBrLVEtbmRMQ25zY3h3QnpURm9ra1BuUGlGRVY2Z3pfN0VZVVJub3JCeFg1ejVoUGQybzF2bFhaWWlSM1pTNERxZHQ4VzAwSzVza1dRZkNDdndNZTFWcF9YZjZyNGVrZDViZktTREEzbndxUUFRejNhalhFM3V1elY3eGtB?oc=5",
+        "date": "2025-12-09",
+        "title": "Haines planning for roadway improvements with federal infrastructure funding - KHNS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONURMUWhSZjUzTnloZF83bXZrc2kxOVBrLVEtbmRMQ25zY3h3QnpURm9ra1BuUGlGRVY2Z3pfN0VZVVJub3JCeFg1ejVoUGQybzF2bFhaWWlSM1pTNERxZHQ4VzAwSzVza1dRZkNDdndNZTFWcF9YZjZyNGVrZDViZktTREEzbndxUUFRejNhalhFM3V1elY3eGtB?oc=5\" target=\"_blank\">Haines planning for roadway improvements with federal infrastructure funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KHNS</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORGFSZ0xFR3NHbjd0bUNYZ2pCU05Zc3BYMEFkZm5oRWgyaHVYNGFHN1RlOG03R05mcDRJNXhQRDhTUVRzS2dxcDdmVWNPb25kVjI5ZlVlc3dleVNpRlZxQWwzUHQxUGc0a0lqVFlQOFhfYlg3Nk5Nb25UUHQtbnlUX2hWWTg1NWs4TlBod25ncFAzODEySERZR1g5dWNNSWdoTjJCcnNSdlY1U01yb2ZaSHBrdEZoOVRnZE95YzNkaFFVVWctRnloSNIBzgFBVV95cUxQV0ZQcGNuUDlZb29ENE1SYjZHUzl4LTVzMTRUOE52RUVXTERlWE81X2N2R2pCZ2dyUzlLczQzYzJHRklEOHg0TTBvOGh4WkJpS0F6c1BIWl9PbE9xdlplNlhmMlB4Z0NUMVNva0NkNEE5RWRZZFdFYzBqNFh1M0JZU3BQNzZCSEdHREQyeS1ZMjhfcGd5aFotbjNLY2xfRDBkNHIxOTM4YzVIc0hNTHQxWUp3NUFFUDFUYXN2M3RKeGd3ZVJnZVlzM1d3Mk5idw?oc=5",
+        "date": "2025-12-09",
+        "title": "Over $20 million in funding for infrastructure in Vermont, New Hampshire - MyChamplainValley.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxORGFSZ0xFR3NHbjd0bUNYZ2pCU05Zc3BYMEFkZm5oRWgyaHVYNGFHN1RlOG03R05mcDRJNXhQRDhTUVRzS2dxcDdmVWNPb25kVjI5ZlVlc3dleVNpRlZxQWwzUHQxUGc0a0lqVFlQOFhfYlg3Nk5Nb25UUHQtbnlUX2hWWTg1NWs4TlBod25ncFAzODEySERZR1g5dWNNSWdoTjJCcnNSdlY1U01yb2ZaSHBrdEZoOVRnZE95YzNkaFFVVWctRnloSNIBzgFBVV95cUxQV0ZQcGNuUDlZb29ENE1SYjZHUzl4LTVzMTRUOE52RUVXTERlWE81X2N2R2pCZ2dyUzlLczQzYzJHRklEOHg0TTBvOGh4WkJpS0F6c1BIWl9PbE9xdlplNlhmMlB4Z0NUMVNva0NkNEE5RWRZZFdFYzBqNFh1M0JZU3BQNzZCSEdHREQyeS1ZMjhfcGd5aFotbjNLY2xfRDBkNHIxOTM4YzVIc0hNTHQxWUp3NUFFUDFUYXN2M3RKeGd3ZVJnZVlzM1d3Mk5idw?oc=5\" target=\"_blank\">Over $20 million in funding for infrastructure in Vermont, New Hampshire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyChamplainValley.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Over $20 million in federal funding boosts infrastructure projects across Vermont and New Hampshire"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUNnSXV4ZFBWVEhOMFJQcXYzOU1JSnN0SjVxYUQ4ZUQ3eUlNSkhFYjdiYmFOM3pFQUpkR3UtdXNDM3VDNklpLThXNkVxaGtQeGZSclNoeWluM3dlWDhxR1NXRk0zT2JPRXl0VDdUck1XTTFKMnVXVTRMT3FsejhpTFJIYkppTFNjRWpSRl9wbFBOTl9fVllUeUxrUWl1QmlTeXRybnlaVHBFZXp2YW9J?oc=5",
+        "date": "2025-12-09",
+        "title": "2025 Kitchen Infrastructure and Training and Retention and Recruitment Grant - California Grants Portal (.gov)",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUNnSXV4ZFBWVEhOMFJQcXYzOU1JSnN0SjVxYUQ4ZUQ3eUlNSkhFYjdiYmFOM3pFQUpkR3UtdXNDM3VDNklpLThXNkVxaGtQeGZSclNoeWluM3dlWDhxR1NXRk0zT2JPRXl0VDdUck1XTTFKMnVXVTRMT3FsejhpTFJIYkppTFNjRWpSRl9wbFBOTl9fVllUeUxrUWl1QmlTeXRybnlaVHBFZXp2YW9J?oc=5\" target=\"_blank\">2025 Kitchen Infrastructure and Training and Retention and Recruitment Grant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California Grants Portal (.gov)</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVi1ELWw2a0JCc1o5TkZJbGtNZGdna2VnbGxtX1VYZHJxOEJ3ejQ4ZHhvUWRBWTMtZ3R0TlVXVTd3aGZLandCb0hnODc4RFIxMnMxOWNlTU5CblBGS0ltM0xfYTJEa1FzTElubGZJMkE0aWE3SE1TTE54c2RaWGN2S1I0dzRVVEVDT19ocmtJeVFTLXNUZHF2TTBZbHJXSW1ZSHM1LWxjaUx3VzVlSmVaZzRENVMwazlQTmw3T0o0S3lLRmM2X0dLYURDaVdpZ9IB0wFBVV95cUxOV1FIT3RoUmxNRVRQaTB4VnROYnpiYXozQ2NQVEJfdlljM19Ndm5MU3hEMzdZRzhMOHZYRDZSb3pnVmFSb3RobUxyM1dPbFRucWRmb3VHZGQ2c1NXVEpRZzl3aU9BSnlnMU9VMEd0NjBQbXVXa1lGaS1wdUhEY0RZTHFTMGowUldSeE93T1h2YUc0Ym05a0VuTHcyUWlLQlUtckFqZ3NPa2gxLWdXUkEyZWJIVFEyRjBiWEFFX3FTWTM1RWZ1TTZhbl9rTVhsa2NPdUV3?oc=5",
+        "date": "2025-12-09",
+        "title": "MYR Group (MYRG) Is Up 7.4% After Highlighting Electrification And AI Infrastructure Demand Tailwinds - simplywall.st",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPVi1ELWw2a0JCc1o5TkZJbGtNZGdna2VnbGxtX1VYZHJxOEJ3ejQ4ZHhvUWRBWTMtZ3R0TlVXVTd3aGZLandCb0hnODc4RFIxMnMxOWNlTU5CblBGS0ltM0xfYTJEa1FzTElubGZJMkE0aWE3SE1TTE54c2RaWGN2S1I0dzRVVEVDT19ocmtJeVFTLXNUZHF2TTBZbHJXSW1ZSHM1LWxjaUx3VzVlSmVaZzRENVMwazlQTmw3T0o0S3lLRmM2X0dLYURDaVdpZ9IB0wFBVV95cUxOV1FIT3RoUmxNRVRQaTB4VnROYnpiYXozQ2NQVEJfdlljM19Ndm5MU3hEMzdZRzhMOHZYRDZSb3pnVmFSb3RobUxyM1dPbFRucWRmb3VHZGQ2c1NXVEpRZzl3aU9BSnlnMU9VMEd0NjBQbXVXa1lGaS1wdUhEY0RZTHFTMGowUldSeE93T1h2YUc0Ym05a0VuTHcyUWlLQlUtckFqZ3NPa2gxLWdXUkEyZWJIVFEyRjBiWEFFX3FTWTM1RWZ1TTZhbl9rTVhsa2NPdUV3?oc=5\" target=\"_blank\">MYR Group (MYRG) Is Up 7.4% After Highlighting Electrification And AI Infrastructure Demand Tailwinds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNS1tTWM1ckZpUFN4UmFqWHBQVjFidGxPd3lJVE9Ocld2aTMxZklHcEoyc0RJX3lDM01aWTFjdWltaFdlM3J5MVNISU1LZEJvTjVaSm54MHJZSC1MOGx6M2luLWtMSlU5Y2xkSnhaTTJ6NE4tUnFEU2xXR254NzNVUkZvOXJKNDNwMlh5bXlHSDluX3dOOE1obTlSMGQyQzB5b20wdVJlZFpxM0U1YnljMTMwRjd5bG9sdkgxYnNWT2U1aVlLd056QVNEZmxVRGZ5V2tnTTlVMkZaeXgxOXc?oc=5",
+        "date": "2025-12-09",
+        "title": "Europe\u2019s \u2018FLAP\u2019 airports infrastructure investments: Frankfurt leads way in short term - part one - CAPA - Centre for Aviation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNS1tTWM1ckZpUFN4UmFqWHBQVjFidGxPd3lJVE9Ocld2aTMxZklHcEoyc0RJX3lDM01aWTFjdWltaFdlM3J5MVNISU1LZEJvTjVaSm54MHJZSC1MOGx6M2luLWtMSlU5Y2xkSnhaTTJ6NE4tUnFEU2xXR254NzNVUkZvOXJKNDNwMlh5bXlHSDluX3dOOE1obTlSMGQyQzB5b20wdVJlZFpxM0U1YnljMTMwRjd5bG9sdkgxYnNWT2U1aVlLd056QVNEZmxVRGZ5V2tnTTlVMkZaeXgxOXc?oc=5\" target=\"_blank\">Europe\u2019s \u2018FLAP\u2019 airports infrastructure investments: Frankfurt leads way in short term - part one</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CAPA - Centre for Aviation</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde9\ud83c\uddea NEWS: Frankfurt leads Europes FLAP airports in short-term infrastructure investments"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2FnajhNTkJFcEJKQ0RHZ19wc05DV1FyNmRjOWZNZGNtbU5Yd3MxVGZJNk5rQS10SEpwdHNjOHhscUVrbmdkN3U3WTJOSzJhbXFWcUtqcmRKUHl3cHNHdkp4QnE3Rk5xUlYyTWI4MHZQUDUtdGdVUUJueGMzX3VvdThuTG52VWM?oc=5",
+        "date": "2025-12-09",
+        "title": "Housing Growth Boost Through Planning Reform - Mirage News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2FnajhNTkJFcEJKQ0RHZ19wc05DV1FyNmRjOWZNZGNtbU5Yd3MxVGZJNk5rQS10SEpwdHNjOHhscUVrbmdkN3U3WTJOSzJhbXFWcUtqcmRKUHl3cHNHdkp4QnE3Rk5xUlYyTWI4MHZQUDUtdGdVUUJueGMzX3VvdThuTG52VWM?oc=5\" target=\"_blank\">Housing Growth Boost Through Planning Reform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mirage News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb2VUUjNyb2hWYlB6NWZla00xeU01bWtXTG8zdnlGZzdzamlUdTNGcmM1R0RFemlVdTRvTGpDUlc3Rkl5cG0tSGRyYkYzSlRobnZRbW9tOVdQbXk4VklXM0dMc1pqRExBeHhCRWxVekk1M1FiWDVBSHJQOTNMdGd2cmloNXJ6WFhXVEg3S1p5NjJSWlVQbk9nQVhhdms1dWJZM3VVb3RMQlhYLTZuanB1WkFyMEkwc3RNYVpVdmZKTlYyd25yRFNOUlR1aktpclk?oc=5",
+        "date": "2025-12-09",
+        "title": "Governor Newsom announces $1.1B in zero-emission transit, safer roadways, and resilient infrastructure - California State Portal | CA.gov",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNb2VUUjNyb2hWYlB6NWZla00xeU01bWtXTG8zdnlGZzdzamlUdTNGcmM1R0RFemlVdTRvTGpDUlc3Rkl5cG0tSGRyYkYzSlRobnZRbW9tOVdQbXk4VklXM0dMc1pqRExBeHhCRWxVekk1M1FiWDVBSHJQOTNMdGd2cmloNXJ6WFhXVEg3S1p5NjJSWlVQbk9nQVhhdms1dWJZM3VVb3RMQlhYLTZuanB1WkFyMEkwc3RNYVpVdmZKTlYyd25yRFNOUlR1aktpclk?oc=5\" target=\"_blank\">Governor Newsom announces $1.1B in zero-emission transit, safer roadways, and resilient infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California State Portal | CA.gov</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Gov. Newsom announces $1.1B for zero-emission transit, safer roadways and resilient infrastructure in California",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORGFSZ0xFR3NHbjd0bUNYZ2pCU05Zc3BYMEFkZm5oRWgyaHVYNGFHN1RlOG03R05mcDRJNXhQRDhTUVRzS2dxcDdmVWNPb25kVjI5ZlVlc3dleVNpRlZxQWwzUHQxUGc0a0lqVFlQOFhfYlg3Nk5Nb25UUHQtbnlUX2hWWTg1NWs4TlBod25ncFAzODEySERZR1g5dWNNSWdoTjJCcnNSdlY1U01yb2ZaSHBrdEZoOVRnZE95YzNkaFFVVWctRnloSNIBzgFBVV95cUxQV0ZQcGNuUDlZb29ENE1SYjZHUzl4LTVzMTRUOE52RUVXTERlWE81X2N2R2pCZ2dyUzlLczQzYzJHRklEOHg0TTBvOGh4WkJpS0F6c1BIWl9PbE9xdlplNlhmMlB4Z0NUMVNva0NkNEE5RWRZZFdFYzBqNFh1M0JZU3BQNzZCSEdHREQyeS1ZMjhfcGd5aFotbjNLY2xfRDBkNHIxOTM4YzVIc0hNTHQxWUp3NUFFUDFUYXN2M3RKeGd3ZVJnZVlzM1d3Mk5idw?oc=5",
+        "date": "2025-12-09",
+        "title": "Over $20 million in funding for infrastructure in Vermont, New Hampshire - MyChamplainValley.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxORGFSZ0xFR3NHbjd0bUNYZ2pCU05Zc3BYMEFkZm5oRWgyaHVYNGFHN1RlOG03R05mcDRJNXhQRDhTUVRzS2dxcDdmVWNPb25kVjI5ZlVlc3dleVNpRlZxQWwzUHQxUGc0a0lqVFlQOFhfYlg3Nk5Nb25UUHQtbnlUX2hWWTg1NWs4TlBod25ncFAzODEySERZR1g5dWNNSWdoTjJCcnNSdlY1U01yb2ZaSHBrdEZoOVRnZE95YzNkaFFVVWctRnloSNIBzgFBVV95cUxQV0ZQcGNuUDlZb29ENE1SYjZHUzl4LTVzMTRUOE52RUVXTERlWE81X2N2R2pCZ2dyUzlLczQzYzJHRklEOHg0TTBvOGh4WkJpS0F6c1BIWl9PbE9xdlplNlhmMlB4Z0NUMVNva0NkNEE5RWRZZFdFYzBqNFh1M0JZU3BQNzZCSEdHREQyeS1ZMjhfcGd5aFotbjNLY2xfRDBkNHIxOTM4YzVIc0hNTHQxWUp3NUFFUDFUYXN2M3RKeGd3ZVJnZVlzM1d3Mk5idw?oc=5\" target=\"_blank\">Over $20 million in funding for infrastructure in Vermont, New Hampshire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyChamplainValley.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Over $20 million in federal funding announced for infrastructure projects across Vermont and New Hampshire.",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNS1tTWM1ckZpUFN4UmFqWHBQVjFidGxPd3lJVE9Ocld2aTMxZklHcEoyc0RJX3lDM01aWTFjdWltaFdlM3J5MVNISU1LZEJvTjVaSm54MHJZSC1MOGx6M2luLWtMSlU5Y2xkSnhaTTJ6NE4tUnFEU2xXR254NzNVUkZvOXJKNDNwMlh5bXlHSDluX3dOOE1obTlSMGQyQzB5b20wdVJlZFpxM0U1YnljMTMwRjd5bG9sdkgxYnNWT2U1aVlLd056QVNEZmxVRGZ5V2tnTTlVMkZaeXgxOXc?oc=5",
+        "date": "2025-12-09",
+        "title": "Europe\u2019s \u2018FLAP\u2019 airports infrastructure investments: Frankfurt leads way in short term - part one - CAPA - Centre for Aviation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNS1tTWM1ckZpUFN4UmFqWHBQVjFidGxPd3lJVE9Ocld2aTMxZklHcEoyc0RJX3lDM01aWTFjdWltaFdlM3J5MVNISU1LZEJvTjVaSm54MHJZSC1MOGx6M2luLWtMSlU5Y2xkSnhaTTJ6NE4tUnFEU2xXR254NzNVUkZvOXJKNDNwMlh5bXlHSDluX3dOOE1obTlSMGQyQzB5b20wdVJlZFpxM0U1YnljMTMwRjd5bG9sdkgxYnNWT2U1aVlLd056QVNEZmxVRGZ5V2tnTTlVMkZaeXgxOXc?oc=5\" target=\"_blank\">Europe\u2019s \u2018FLAP\u2019 airports infrastructure investments: Frankfurt leads way in short term - part one</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CAPA - Centre for Aviation</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde9\ud83c\uddea NEWS: Frankfurt leads short-term infrastructure investments among Europes FLAP airports.",
+        "type": "news"
     }
 ]
