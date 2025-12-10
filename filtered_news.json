@@ -2478,5 +2478,13 @@
         "status": "posted",
         "tweet": "(\ud83c\uddff\ud83c\udde6) NEWS: South Africa raises $700m in debut infrastructure bond as reforms boost investor appetite",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-10",
+        "status": "posted",
+        "tweet": "Top 5 countries by projected solar PV capacity (GW) in 2025\n\n\ud83c\udde8\ud83c\uddf3 China: 750  \n\ud83c\uddfa\ud83c\uddf8 USA: 180  \n\ud83c\uddee\ud83c\uddf3 India: 120  \n\ud83c\uddef\ud83c\uddf5 Japan: 90  \n\ud83c\udde9\ud83c\uddea Germany: 85",
+        "type": "statistical",
+        "category": "energy"
     }
 ]
