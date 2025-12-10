@@ -2355,5 +2355,15 @@
         "status": "posted",
         "tweet": "Bitcoin's annual mining electricity costs escalated from $0.5B in 2010 to a projected $16B in 2025, driven by hashrate growth from 1 EH/s to 700 EH/s.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPallMeTloSDZpbV9FTUVXUHVqMDZlX2NldEwyd3dYTV9rWmR1aFphaHJVR2dYZVJCTXJ6QkktN0tBNUVkVy1NQVp1RGJ0S3h0VlcxdExMSFFZVDZ4S2ZkUHdrZDNxWERrTTNYQXRMd1Q5dFJJYWZYcmhjYzBvNFNaOWhxbmstMmNkeWZpRjFXdw?oc=5",
+        "date": "2025-12-10",
+        "title": "The politics of space and infrastructure in Southasian cities - Himal Southasian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPallMeTloSDZpbV9FTUVXUHVqMDZlX2NldEwyd3dYTV9rWmR1aFphaHJVR2dYZVJCTXJ6QkktN0tBNUVkVy1NQVp1RGJ0S3h0VlcxdExMSFFZVDZ4S2ZkUHdrZDNxWERrTTNYQXRMd1Q5dFJJYWZYcmhjYzBvNFNaOWhxbmstMmNkeWZpRjFXdw?oc=5\" target=\"_blank\">The politics of space and infrastructure in Southasian cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Himal Southasian</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
