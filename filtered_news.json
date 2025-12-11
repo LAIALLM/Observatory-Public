@@ -2360,5 +2360,117 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3V5RnlBc3ltNVpyMkk5S3BGamt1N0JlMjBQLWJXN3FOZ05jUWVMa21IbjJaVVVYTmdvTm9rTHFOSjZmaDZsWDduZzR6ZWNGUlp3Nm5PbFRyRWc5VmlIMG05VFByRElSelhQT2xxZ00yS3ZwbjVyNkpoOUp0Y3NUSENB?oc=5",
+        "date": "2025-12-11",
+        "title": "Oracle defends infrastructure spending spree amid mounting AI demand - CIO Dive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3V5RnlBc3ltNVpyMkk5S3BGamt1N0JlMjBQLWJXN3FOZ05jUWVMa21IbjJaVVVYTmdvTm9rTHFOSjZmaDZsWDduZzR6ZWNGUlp3Nm5PbFRyRWc5VmlIMG05VFByRElSelhQT2xxZ00yS3ZwbjVyNkpoOUp0Y3NUSENB?oc=5\" target=\"_blank\">Oracle defends infrastructure spending spree amid mounting AI demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CIO Dive</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Oracle defends massive infrastructure spending as AI demand surges $ORCL"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVzBrMEFYLU1CbmNKcjFUc2lxSldUMDg4YVY5NFltUFdYX0pUa1BySlR4V2t5Y2g4Ql9zNFUtUkI4b0w4T3pTOVZWeW1XUk10ZjBlbGNMSVJEQ09zZHZ1azBFSUpnLVJtdFQzT2dhRmE4dW42enN4U0JUQWRKRkc5NlBQa3V5ZHZCTVhhNlFrZ1N0ajBzdG5kOXcxRQ?oc=5",
+        "date": "2025-12-11",
+        "title": "Global critical infrastructure targeted by pro-Russia hacktivists - SC Media",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVzBrMEFYLU1CbmNKcjFUc2lxSldUMDg4YVY5NFltUFdYX0pUa1BySlR4V2t5Y2g4Ql9zNFUtUkI4b0w4T3pTOVZWeW1XUk10ZjBlbGNMSVJEQ09zZHZ1azBFSUpnLVJtdFQzT2dhRmE4dW42enN4U0JUQWRKRkc5NlBQa3V5ZHZCTVhhNlFrZ1N0ajBzdG5kOXcxRQ?oc=5\" target=\"_blank\">Global critical infrastructure targeted by pro-Russia hacktivists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SC Media</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT0wxd3RYOVpIUU1RNS02MkRzeFFESmpJSm5wMWRzWWVfZlVMS1Q2ZFd0c1oyX2dQaDJQZ0hYdEwtQlF0ZEh4RGZQSGxtVUNxTm9HN3NBZTh3Rm1TUlA0Y01BRlAtTWg0aTRNblZxUEZ4MzA0ZEt6ZGRRQWx2TGgwa3l2b3J0R1ZpZWsxUjBRMUFCMXQwaF9OOEN1SlFMUUNTV3N6d0JBdUJEbU1rMUs3Zk9QTWpCd0RPX0VxYTVnd3JtWjdSNDJmYkNqZ01tUk4takdoaEdHaDZWU1paMWg2S21UY0FiTlVGdEE?oc=5",
+        "date": "2025-12-11",
+        "title": "HIVE tests investor appetite for AI-Bitcoin infrastructure in Andean markets - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT0wxd3RYOVpIUU1RNS02MkRzeFFESmpJSm5wMWRzWWVfZlVMS1Q2ZFd0c1oyX2dQaDJQZ0hYdEwtQlF0ZEh4RGZQSGxtVUNxTm9HN3NBZTh3Rm1TUlA0Y01BRlAtTWg0aTRNblZxUEZ4MzA0ZEt6ZGRRQWx2TGgwa3l2b3J0R1ZpZWsxUjBRMUFCMXQwaF9OOEN1SlFMUUNTV3N6d0JBdUJEbU1rMUs3Zk9QTWpCd0RPX0VxYTVnd3JtWjdSNDJmYkNqZ01tUk4takdoaEdHaDZWU1paMWg2S21UY0FiTlVGdEE?oc=5\" target=\"_blank\">HIVE tests investor appetite for AI-Bitcoin infrastructure in Andean markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWGY3cVYzX19Nem40QU82WnpLdlVvZUNTcjhSY1pISW9ISUJrSWZtVW80SC00SDVhcTJ3dE1LS3lzbElfWkZzdXpHa3M5MzFaUU5LNUExM1YxNXFxejE5dW9FVWRkaHFBSlBCb1UydVZrUjB2X1BFeEp5V3FPRzhBWHJ2U0kzd2hjOWhPQ01kbnVKNm1oZHRvZ0hucU5zTUhOSGpqZEU1S0ZESmR5NGFjZkF1RGtKSzlja0hENDRGWV9RdXRkVU8tSGdmeHo2eW0wOTRpUk9RZWpIQjZEXzRR?oc=5",
+        "date": "2025-12-11",
+        "title": "Congress Vote: The House has passed H.R. 3898 - Promoting Efficient Review for Modern Infrastructure Today Act - Quiver Quantitative",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWGY3cVYzX19Nem40QU82WnpLdlVvZUNTcjhSY1pISW9ISUJrSWZtVW80SC00SDVhcTJ3dE1LS3lzbElfWkZzdXpHa3M5MzFaUU5LNUExM1YxNXFxejE5dW9FVWRkaHFBSlBCb1UydVZrUjB2X1BFeEp5V3FPRzhBWHJ2U0kzd2hjOWhPQ01kbnVKNm1oZHRvZ0hucU5zTUhOSGpqZEU1S0ZESmR5NGFjZkF1RGtKSzlja0hENDRGWV9RdXRkVU8tSGdmeHo2eW0wOTRpUk9RZWpIQjZEXzRR?oc=5\" target=\"_blank\">Congress Vote: The House has passed H.R. 3898 - Promoting Efficient Review for Modern Infrastructure Today Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: House passes H.R. 3898, the Promoting Efficient Review for Modern Infrastructure Today Act, streamlining infrastructure project approvals."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNnVIM0lTT1FTeXNaSXN6TVExaDdScWVCeUJkcHhKYW1CbUI0WEE5N2d1WTI1YUNGb1JjaUlHTXFDcmdLQTAxNkdTLXJwTTVORG9NbzFDNEhkcURrWkNfcHNTV3dwVWZ3X1JlbjdaSFFUVFZhRDRvSXoxcTFDNGU4YjhiLWp6NUVrSURRWXJ0cnZrcENveXJqLWFfdU8wWEN0dVlhZHlHb2FuYVo2?oc=5",
+        "date": "2025-12-11",
+        "title": "Mawson Infrastructure Expands ATM Offering by $40 Million - TipRanks",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQNnVIM0lTT1FTeXNaSXN6TVExaDdScWVCeUJkcHhKYW1CbUI0WEE5N2d1WTI1YUNGb1JjaUlHTXFDcmdLQTAxNkdTLXJwTTVORG9NbzFDNEhkcURrWkNfcHNTV3dwVWZ3X1JlbjdaSFFUVFZhRDRvSXoxcTFDNGU4YjhiLWp6NUVrSURRWXJ0cnZrcENveXJqLWFfdU8wWEN0dVlhZHlHb2FuYVo2?oc=5\" target=\"_blank\">Mawson Infrastructure Expands ATM Offering by $40 Million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdWx0aXlpaFBlV1lZVHFxMDhlblF5aGU0cnZ2RE13RHhGNFNyanJpSkg3Znd4QWNCQlZUeTZZZnp2Ql9aamJfaTYweGZxUVc5dmUwTDFoakFlcW9KYkN4ZUNrWEJFaWo2aHE0YklLZVZiWWQwVDVmeXhxeXhqdUxVQ0lVdEx1c19najdOcWlnRkxkYmVFb2VOVXpYYWl3NDN3ekJLVE5PZkJta3ZQX25pR19QSVRPdGp5dE1iOUpiTDUtQy1PTm1QMXNLcXFGVVMzTkJZa3Vn?oc=5",
+        "date": "2025-12-11",
+        "title": "China Tourism Infrastructure Boom: High-Speed Rail, Logistics, and Western Region Development - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdWx0aXlpaFBlV1lZVHFxMDhlblF5aGU0cnZ2RE13RHhGNFNyanJpSkg3Znd4QWNCQlZUeTZZZnp2Ql9aamJfaTYweGZxUVc5dmUwTDFoakFlcW9KYkN4ZUNrWEJFaWo2aHE0YklLZVZiWWQwVDVmeXhxeXhqdUxVQ0lVdEx1c19najdOcWlnRkxkYmVFb2VOVXpYYWl3NDN3ekJLVE5PZkJta3ZQX25pR19QSVRPdGp5dE1iOUpiTDUtQy1PTm1QMXNLcXFGVVMzTkJZa3Vn?oc=5\" target=\"_blank\">China Tourism Infrastructure Boom: High-Speed Rail, Logistics, and Western Region Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdnJiTGVJUEVnd0tlM0QzMTdCYjh0RzdreGFmLU83T2JZS2pITHVsSWZfUDlYU1RlZFZ2ZXFJWlpKWnFGZHppRldpeTFaeVp2Vm5uNVVUSHdNYTBWam1LVFduZ25pN3lhS2dpMDFJVWQtT2trRmotMjBwUWJpTzRRcmk2VFBwQQ?oc=5",
+        "date": "2025-12-11",
+        "title": "Sustainable Development and Land Use Update 12.10.25 - JD Supra",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNdnJiTGVJUEVnd0tlM0QzMTdCYjh0RzdreGFmLU83T2JZS2pITHVsSWZfUDlYU1RlZFZ2ZXFJWlpKWnFGZHppRldpeTFaeVp2Vm5uNVVUSHdNYTBWam1LVFduZ25pN3lhS2dpMDFJVWQtT2trRmotMjBwUWJpTzRRcmk2VFBwQQ?oc=5\" target=\"_blank\">Sustainable Development and Land Use Update 12.10.25</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JD Supra</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmRUMmpYWkVHall2MW1PZEFxcEU1Z0pGdDJaVjM5Y2VlNmhrdEktS0pPTDZweldjYk9RY3ZiYkFHM0t1Y0dZOF8xdlh5MDN1cWUzZWs3dEVWZnpsbllIWjhSU3hCS0pMcVh1VjRPR2JpWkw5M0JXS0szSjdBeWp6MnkwSjR1UUZ5OEVfNEctbENpU3NiNHVzbm80LXYta0tpc2Zr?oc=5",
+        "date": "2025-12-11",
+        "title": "Wendy\u2019s Continues Quebec Growth with Ongoing Urban Expansion - WhatNow",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmRUMmpYWkVHall2MW1PZEFxcEU1Z0pGdDJaVjM5Y2VlNmhrdEktS0pPTDZweldjYk9RY3ZiYkFHM0t1Y0dZOF8xdlh5MDN1cWUzZWs3dEVWZnpsbllIWjhSU3hCS0pMcVh1VjRPR2JpWkw5M0JXS0szSjdBeWp6MnkwSjR1UUZ5OEVfNEctbENpU3NiNHVzbm80LXYta0tpc2Zr?oc=5\" target=\"_blank\">Wendy\u2019s Continues Quebec Growth with Ongoing Urban Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WhatNow</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/62176-buildroid-enters-us-market-with-simulation-first-robotics-platform",
+        "date": "2025-12-11",
+        "title": "Robotics Start-up Buildroid AI to Bring Model-based Automated Bricklaying to US Jobsites",
+        "summary": "<p>New robotics bricklaying platform moves from overseas pilots to U.S. jobsites, aiming to take advantage of digital twins of common building trade tasks.</p>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3V5RnlBc3ltNVpyMkk5S3BGamt1N0JlMjBQLWJXN3FOZ05jUWVMa21IbjJaVVVYTmdvTm9rTHFOSjZmaDZsWDduZzR6ZWNGUlp3Nm5PbFRyRWc5VmlIMG05VFByRElSelhQT2xxZ00yS3ZwbjVyNkpoOUp0Y3NUSENB?oc=5",
+        "date": "2025-12-11",
+        "title": "Oracle defends infrastructure spending spree amid mounting AI demand - CIO Dive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3V5RnlBc3ltNVpyMkk5S3BGamt1N0JlMjBQLWJXN3FOZ05jUWVMa21IbjJaVVVYTmdvTm9rTHFOSjZmaDZsWDduZzR6ZWNGUlp3Nm5PbFRyRWc5VmlIMG05VFByRElSelhQT2xxZ00yS3ZwbjVyNkpoOUp0Y3NUSENB?oc=5\" target=\"_blank\">Oracle defends infrastructure spending spree amid mounting AI demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CIO Dive</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Oracle defends massive infrastructure spending spree as AI demand surges $ORCL",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWGY3cVYzX19Nem40QU82WnpLdlVvZUNTcjhSY1pISW9ISUJrSWZtVW80SC00SDVhcTJ3dE1LS3lzbElfWkZzdXpHa3M5MzFaUU5LNUExM1YxNXFxejE5dW9FVWRkaHFBSlBCb1UydVZrUjB2X1BFeEp5V3FPRzhBWHJ2U0kzd2hjOWhPQ01kbnVKNm1oZHRvZ0hucU5zTUhOSGpqZEU1S0ZESmR5NGFjZkF1RGtKSzlja0hENDRGWV9RdXRkVU8tSGdmeHo2eW0wOTRpUk9RZWpIQjZEXzRR?oc=5",
+        "date": "2025-12-11",
+        "title": "Congress Vote: The House has passed H.R. 3898 - Promoting Efficient Review for Modern Infrastructure Today Act - Quiver Quantitative",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWGY3cVYzX19Nem40QU82WnpLdlVvZUNTcjhSY1pISW9ISUJrSWZtVW80SC00SDVhcTJ3dE1LS3lzbElfWkZzdXpHa3M5MzFaUU5LNUExM1YxNXFxejE5dW9FVWRkaHFBSlBCb1UydVZrUjB2X1BFeEp5V3FPRzhBWHJ2U0kzd2hjOWhPQ01kbnVKNm1oZHRvZ0hucU5zTUhOSGpqZEU1S0ZESmR5NGFjZkF1RGtKSzlja0hENDRGWV9RdXRkVU8tSGdmeHo2eW0wOTRpUk9RZWpIQjZEXzRR?oc=5\" target=\"_blank\">Congress Vote: The House has passed H.R. 3898 - Promoting Efficient Review for Modern Infrastructure Today Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: US House passes H.R. 3898, streamlining reviews for modern infrastructure projects",
+        "type": "news"
     }
 ]
