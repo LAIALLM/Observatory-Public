@@ -2218,5 +2218,20 @@
         "status": "posted",
         "tweet": "Meta's AI infrastructure in 2025 scales to 1.2 exaflops of compute power across 20+ data centers.\n\nGlobal daily inference requests: 500 billion.\n\n$META",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-11",
+        "status": "posted",
+        "tweet": "Amazon Web Services' \ud83c\uddfa\ud83c\uddf8 Northern Virginia data center processed 2.5 zettabytes daily in 2025, powering 40% of global cloud workloads.\n\n$AMZN",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-11",
+        "status": "posted",
+        "tweet": "Global EV sales: 18% electric in 2025.\n\n\ud83c\udde8\ud83c\uddf3 China: 50%.",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
