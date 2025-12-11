@@ -2233,5 +2233,12 @@
         "tweet": "Global EV sales: 18% electric in 2025.\n\n\ud83c\udde8\ud83c\uddf3 China: 50%.",
         "type": "statistical",
         "category": "transportation"
+    },
+    {
+        "link": null,
+        "date": "2025-12-11",
+        "status": "posted",
+        "tweet": "Bitcoin's projected 2025 electricity consumption: 160 TWh annually.\n\nThis exceeds the total energy use of \ud83c\uddf3\ud83c\uddf1 Netherlands (114 TWh).",
+        "type": "crypto"
     }
 ]
