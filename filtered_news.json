@@ -2240,5 +2240,125 @@
         "status": "posted",
         "tweet": "Bitcoin's projected 2025 electricity consumption: 160 TWh annually.\n\nThis exceeds the total energy use of \ud83c\uddf3\ud83c\uddf1 Netherlands (114 TWh).",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmNpcXlIMG9MOVVadS1oLVU4Z2JCb0lPUG03ZUpZT09QcFkwRmlZZ2RxOEVZN2dtTmM0bmNPOFZLWUxzT3VBV0tUR0doR0dzelA3OV9ibExleTcxTW9lWGpsRzFkZUhPbDRoVGJ5YmVLNVlyYmFHYl91WnJLcXlPQ0VrVmpvT0s1X1hwcFRIU3ExUjA2RW5RV0IyN0Z6RzBFS1h5cXdibnBoS0dvakNYazBUZ0hLd0p0RXlxTQ?oc=5",
+        "date": "2025-12-11",
+        "title": "Turner Recognized by Forbes as One of America\u2019s Best Employers for Engineers - Turner Construction Company",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmNpcXlIMG9MOVVadS1oLVU4Z2JCb0lPUG03ZUpZT09QcFkwRmlZZ2RxOEVZN2dtTmM0bmNPOFZLWUxzT3VBV0tUR0doR0dzelA3OV9ibExleTcxTW9lWGpsRzFkZUhPbDRoVGJ5YmVLNVlyYmFHYl91WnJLcXlPQ0VrVmpvT0s1X1hwcFRIU3ExUjA2RW5RV0IyN0Z6RzBFS1h5cXdibnBoS0dvakNYazBUZ0hLd0p0RXlxTQ?oc=5\" target=\"_blank\">Turner Recognized by Forbes as One of America\u2019s Best Employers for Engineers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Turner Construction Company</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0llYWpGRnZVR1lfQ0VUczczUV9QOXlGcmxxcjBKNEVCcnhMbEppUHRJQ1BrbkRqWWNhSkRTMHdFMjJUOF95cGxoaFNCTElxWGpEZjdfRTJEZzFyYWtReEN2NGZXeWpMX3lCT1Q0THh1d09DMkZlU1dHWDI1N1Mxd1h0NUluX0JGWUFlYXJLSTFrY2hLSmdSZTFxZHEtQVhkSkJvaXZYNTczZw?oc=5",
+        "date": "2025-12-11",
+        "title": "UK construction faces margin squeeze as input costs keep rising - Construction Wave",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0llYWpGRnZVR1lfQ0VUczczUV9QOXlGcmxxcjBKNEVCcnhMbEppUHRJQ1BrbkRqWWNhSkRTMHdFMjJUOF95cGxoaFNCTElxWGpEZjdfRTJEZzFyYWtReEN2NGZXeWpMX3lCT1Q0THh1d09DMkZlU1dHWDI1N1Mxd1h0NUluX0JGWUFlYXJLSTFrY2hLSmdSZTFxZHEtQVhkSkJvaXZYNTczZw?oc=5\" target=\"_blank\">UK construction faces margin squeeze as input costs keep rising</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Wave</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWExPVHd5NjBYZV9fVDBKTkNCdnhkVGdiTXhreGl5ZVNCNlNfWDZzOWZNMjJwd3BIUVFyV2xHYWJlLWR4ZmRnRElaTjhtQTFNakllX1RCY1hjT0pwTDhIbi1uMFpBWi12eFVpYkRBNlRtQXJmZUZCYV9JNmptMlgxUFRxMS1zdjlUVUg2Z0VkODFUWm9mdmJGcFp4clpuTVVPX3RJTUxoNmoybno4dW9ETF9iMGdpZ1lJQkxrbXgweFk1R0hF?oc=5",
+        "date": "2025-12-11",
+        "title": "Gov. DeSantis prioritizes road projects, infrastructure improvements in budget plan - Florida Politics",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNWExPVHd5NjBYZV9fVDBKTkNCdnhkVGdiTXhreGl5ZVNCNlNfWDZzOWZNMjJwd3BIUVFyV2xHYWJlLWR4ZmRnRElaTjhtQTFNakllX1RCY1hjT0pwTDhIbi1uMFpBWi12eFVpYkRBNlRtQXJmZUZCYV9JNmptMlgxUFRxMS1zdjlUVUg2Z0VkODFUWm9mdmJGcFp4clpuTVVPX3RJTUxoNmoybno4dW9ETF9iMGdpZ1lJQkxrbXgweFk1R0hF?oc=5\" target=\"_blank\">Gov. DeSantis prioritizes road projects, infrastructure improvements in budget plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Politics</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOblBDelJ4VE9fTFp0YnlLSkxoU1NFaXFBZDA0Uk4wbXRoT2R3NTF1Mnh3VFBBQ2d1SDIxbUJPbWxSbHR6UHVuS1o3RHdGWUlJV0UxcGpubEJfTUc4emRVMThlTlpBOGh2NlFMRHl6ZC16YVdYREROZ2h1YldsMXlCSkNiTC0yYy0yd2x6eUU0Y3lONm1WTWdoUDVmUlZwa3B3V09MaHlybUl4VTFwYlJMcWVnSDdtMnFkQU40dU9ia1BCbldlZ1REYXlJYS14bVNlQVE?oc=5",
+        "date": "2025-12-11",
+        "title": "Palantir Launches Chain Reaction to Build American AI Infrastructure - Manufacturing.net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOblBDelJ4VE9fTFp0YnlLSkxoU1NFaXFBZDA0Uk4wbXRoT2R3NTF1Mnh3VFBBQ2d1SDIxbUJPbWxSbHR6UHVuS1o3RHdGWUlJV0UxcGpubEJfTUc4emRVMThlTlpBOGh2NlFMRHl6ZC16YVdYREROZ2h1YldsMXlCSkNiTC0yYy0yd2x6eUU0Y3lONm1WTWdoUDVmUlZwa3B3V09MaHlybUl4VTFwYlJMcWVnSDdtMnFkQU40dU9ia1BCbldlZ1REYXlJYS14bVNlQVE?oc=5\" target=\"_blank\">Palantir Launches Chain Reaction to Build American AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Manufacturing.net</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZS1pVmgwa0dFY0JSeVJnNG1nX1hKaXliZDlLN2M2cmJYcjlHWXZ6bld0T3FVNEtQS0NaWjFYSG02RmFjNk5SbElhbmJXUkotcXF1bzV4aTZ6bm42a2Q2dVR4dGMzbHNGQk01ZFNVY05PeFB2a1MwcHQ4ZE50OHUwMWpoSm93Q2lPNmNMbA?oc=5",
+        "date": "2025-12-11",
+        "title": "Will Mawson Infrastructure Group Continue Its Rise? - StocksToTrade",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZS1pVmgwa0dFY0JSeVJnNG1nX1hKaXliZDlLN2M2cmJYcjlHWXZ6bld0T3FVNEtQS0NaWjFYSG02RmFjNk5SbElhbmJXUkotcXF1bzV4aTZ6bm42a2Q2dVR4dGMzbHNGQk01ZFNVY05PeFB2a1MwcHQ4ZE50OHUwMWpoSm93Q2lPNmNMbA?oc=5\" target=\"_blank\">Will Mawson Infrastructure Group Continue Its Rise?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StocksToTrade</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcG1zMGFCaDliV3JhbFd2T18zSUNieXRLcl8xUUI0WGhNQmdwdTYwaUh3NWdjdFFZWDllcXhrVHNzb2xvZEJmTkY3QXpTblNsR1FoTGh3eW1LTnRzSlVkbWt1Zi02bG9ySHNXTjRpMk5WMUFLSkdKVTNFSGJKWFF2X3k1cVpIWDZfQ05TUTlpbFdjNm9yZ1VHTHM0dGo1b3o5NW0xb192WnpwY2NDbFdBSkFRRUk5d3FfaF9VUjY0TDB5TFhfT3dNZTdDMzBpbzcyQ0VCRFZVSW4zRWtsQzE2T1RhZ1d5ME1mZFZlbUg0Vnc?oc=5",
+        "date": "2025-12-11",
+        "title": "Oracle's Q2 FY2026 Miss Sparks AI Infrastructure Spending Jitters Across Tech Sector - Markets Financial Content",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcG1zMGFCaDliV3JhbFd2T18zSUNieXRLcl8xUUI0WGhNQmdwdTYwaUh3NWdjdFFZWDllcXhrVHNzb2xvZEJmTkY3QXpTblNsR1FoTGh3eW1LTnRzSlVkbWt1Zi02bG9ySHNXTjRpMk5WMUFLSkdKVTNFSGJKWFF2X3k1cVpIWDZfQ05TUTlpbFdjNm9yZ1VHTHM0dGo1b3o5NW0xb192WnpwY2NDbFdBSkFRRUk5d3FfaF9VUjY0TDB5TFhfT3dNZTdDMzBpbzcyQ0VCRFZVSW4zRWtsQzE2T1RhZ1d5ME1mZFZlbUg0Vnc?oc=5\" target=\"_blank\">Oracle's Q2 FY2026 Miss Sparks AI Infrastructure Spending Jitters Across Tech Sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Markets Financial Content</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vNzFpZGtpNVRNNHMyb2REeEdQSERyS1VTM1pQZ2s1ZHV3Zm9rTHhFZXo1bUdHandtOXFnVTFiMzc1RWFEdjU5TzJUdVJtNTNJTWJ6bUNPSGJ0eEJ1QnMxeTZ4T0JIYWRkamlpR0RXVUhGMnVaWmfSAXtBVV95cUxPaUJoNF9yaUd4M19FN1NjMkpUSFM2X1lQa1ZsQzllOG8tTGRBV3Bqb0Vfa0NoS2xtM2FxdFBZUHRrVGExUXdOQnBXNDN3X1FLWVdrRjRuOWNVaXJTUlZsWnBkcGVtY1hKU1Y5MERsaVpIaG9neWRwT2tZTms?oc=5",
+        "date": "2025-12-11",
+        "title": "Intelligent Urban Infrastructure - Trend Hunter",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9vNzFpZGtpNVRNNHMyb2REeEdQSERyS1VTM1pQZ2s1ZHV3Zm9rTHhFZXo1bUdHandtOXFnVTFiMzc1RWFEdjU5TzJUdVJtNTNJTWJ6bUNPSGJ0eEJ1QnMxeTZ4T0JIYWRkamlpR0RXVUhGMnVaWmfSAXtBVV95cUxPaUJoNF9yaUd4M19FN1NjMkpUSFM2X1lQa1ZsQzllOG8tTGRBV3Bqb0Vfa0NoS2xtM2FxdFBZUHRrVGExUXdOQnBXNDN3X1FLWVdrRjRuOWNVaXJTUlZsWnBkcGVtY1hKU1Y5MERsaVpIaG9neWRwT2tZTms?oc=5\" target=\"_blank\">Intelligent Urban Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trend Hunter</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdEZ6ZE9BOE9Ja21iUm9HdUdwbE9PT0NrR1ZLRVF5Zml0SUJFNGsxVXR3bldLZVU3aE5pWTRXWmJDMF9MQzFBc29jTm51VGpQVWc3MlloNjN2SzhUajliMzBQbU05SW1Ea2s3dVF3c2M0bDlnS3oxaXhsM2lsV2FjOW5Mck1aLVhyWDkyUDhPNEVpUUVmRFRhdEZCaHdqTk5SSHg0SlExZ1pyNFV5aHNESWUyWUl5ZXZzZU1obUZneC00c255dS1YTndJSG1lbG93bEZhRVhCaks5VzhUa0pF?oc=5",
+        "date": "2025-12-11",
+        "title": "Coinbase Selects Chainlink CCIP as the Exclusive Bridge Infrastructure To Supercharge Coinbase Wrapped Asset Growth - Finviz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdEZ6ZE9BOE9Ja21iUm9HdUdwbE9PT0NrR1ZLRVF5Zml0SUJFNGsxVXR3bldLZVU3aE5pWTRXWmJDMF9MQzFBc29jTm51VGpQVWc3MlloNjN2SzhUajliMzBQbU05SW1Ea2s3dVF3c2M0bDlnS3oxaXhsM2lsV2FjOW5Mck1aLVhyWDkyUDhPNEVpUUVmRFRhdEZCaHdqTk5SSHg0SlExZ1pyNFV5aHNESWUyWUl5ZXZzZU1obUZneC00c255dS1YTndJSG1lbG93bEZhRVhCaks5VzhUa0pF?oc=5\" target=\"_blank\">Coinbase Selects Chainlink CCIP as the Exclusive Bridge Infrastructure To Supercharge Coinbase Wrapped Asset Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finviz</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTHVRdFEyR3ZSZXl4eTkyTGdfelIwVFVDRGl0TldxWDBMLVBrZ050a0JLbEU1SV9GbW9aZFczTnpKY0pObHB4YmkwR0N6VEpZQ0p0X2hmVHREbG5hX1lhdmxzay1BTnZSSk1BbVZKNHJCdnd5UHNCd3BvdVgxdjRWd2R5RGMxaEJNLTFWQ05idVBCWlJqS2xjRS1rTkVvc21UMWdKRVNKQmRNZmFrOGZvbWl2MG9rdGtOLVQ3UTlxTU9hT1hoX2h6bl9LdHlvMjJMb0NsYXRQbThkRWZvZmVFWUw1eHpLNXh1ZndDeQ?oc=5",
+        "date": "2025-12-11",
+        "title": "Fermaca Advances Fermaca Digital City to Accelerate the Development of AI Infrastructure in Mexico - StreetInsider",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTHVRdFEyR3ZSZXl4eTkyTGdfelIwVFVDRGl0TldxWDBMLVBrZ050a0JLbEU1SV9GbW9aZFczTnpKY0pObHB4YmkwR0N6VEpZQ0p0X2hmVHREbG5hX1lhdmxzay1BTnZSSk1BbVZKNHJCdnd5UHNCd3BvdVgxdjRWd2R5RGMxaEJNLTFWQ05idVBCWlJqS2xjRS1rTkVvc21UMWdKRVNKQmRNZmFrOGZvbWl2MG9rdGtOLVQ3UTlxTU9hT1hoX2h6bl9LdHlvMjJMb0NsYXRQbThkRWZvZmVFWUw1eHpLNXh1ZndDeQ?oc=5\" target=\"_blank\">Fermaca Advances Fermaca Digital City to Accelerate the Development of AI Infrastructure in Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdGFNaE9ZLThWdEJ4TTRfMm1uOWs3anZOcVRWcTBKd3Y0TXFQNkhJM25naXo0d1ZqdVBOSVJpYVZDQ2ctcmctRjhfdXdnOFRCNnZfcTBPVG5zWndGR21FamNRenZ6UWhDTy1MczJBRE1sZDdjOVFxRzNxZThqMDByY1pPQmJ5STM3bk9nbHBodlhWTEE3azZLTEhFNXpZczFmN09WcWNCVkFlUGtxaU1KSXp1Z2lLbFRncUIw?oc=5",
+        "date": "2025-12-11",
+        "title": "Fermaca Advances Fermaca Digital City to Accelerate the Development of AI Infrastructure in Mexico - The AI Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdGFNaE9ZLThWdEJ4TTRfMm1uOWs3anZOcVRWcTBKd3Y0TXFQNkhJM25naXo0d1ZqdVBOSVJpYVZDQ2ctcmctRjhfdXdnOFRCNnZfcTBPVG5zWndGR21FamNRenZ6UWhDTy1MczJBRE1sZDdjOVFxRzNxZThqMDByY1pPQmJ5STM3bk9nbHBodlhWTEE3azZLTEhFNXpZczFmN09WcWNCVkFlUGtxaU1KSXp1Z2lLbFRncUIw?oc=5\" target=\"_blank\">Fermaca Advances Fermaca Digital City to Accelerate the Development of AI Infrastructure in Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The AI Journal</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSkwxNkFRNFpUd1lFYjdGbTJBOFJJOUpsU2RxRFdZRFRoZHVlMzloUTNjMU9aTnhFYnVwT3NGbnlhSW93T0FTdWFjQzRYSnRFZ195aFg3V3dwamJFNnBGVmhUYjhGaTdBaTlSQzk0ZWxoVWpSd1dKcjNLREhhQjZMbnNNOTZNaVI5V0xxbUFQdXlWV3RiYldqZQ?oc=5",
+        "date": "2025-12-11",
+        "title": "Tokyu Stock News: Surge in Tokyu Stock Amid Infrastructure Demand - Meyka",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSkwxNkFRNFpUd1lFYjdGbTJBOFJJOUpsU2RxRFdZRFRoZHVlMzloUTNjMU9aTnhFYnVwT3NGbnlhSW93T0FTdWFjQzRYSnRFZ195aFg3V3dwamJFNnBGVmhUYjhGaTdBaTlSQzk0ZWxoVWpSd1dKcjNLREhhQjZMbnNNOTZNaVI5V0xxbUFQdXlWV3RiYldqZQ?oc=5\" target=\"_blank\">Tokyu Stock News: Surge in Tokyu Stock Amid Infrastructure Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.constructiondive.com/news/efficient-buildings-attract-high-prices-but-agent-knowledge-is-low-nar/807663/",
+        "date": "2025-12-11",
+        "title": "Efficient buildings attract high prices, but agent knowledge is low: NAR",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/TIBSr3y02ASWPLD30T6uMIYhb67eusB6gCtG6HyvnPU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9PZmZpY2VfbGVhc2luZ19zdG9ja19pbWFnZV9BcHJpbF8yMDI0LmpwZw==.webp\" /></div></figure><p>Hard costs like utilities and operations are a top buying and leasing consideration, but not all agents see value in promoting those, according to an August survey.</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
