@@ -2457,5 +2457,12 @@
         "status": "posted",
         "tweet": "Microsoft Azure's global infrastructure processed 3.2 zettabytes of data in 2025.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-12",
+        "status": "posted",
+        "tweet": "2025 hardware costs for blockchain mining/validating setups (mid-tier professional):\n\n1. Bitcoin ASIC farm (10 rigs): $450,000\n2. Solana validator cluster: $150,000\n3. Ethereum PoS node server: $25,000",
+        "type": "crypto"
     }
 ]
