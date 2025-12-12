@@ -1,221 +1,6 @@
 [
     {
         "link": null,
-        "date": "2025-12-02",
-        "status": "posted",
-        "tweet": "Annual carbon footprint of major blockchains (MtCO2e, 2025 est.)\n\n1. Bitcoin: 85  \n2. Ethereum: 0.2  \n3. Solana: 0.05",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2025-12-02",
-        "status": "posted",
-        "tweet": "By 2050, 90% of global urban population growth will occur in Asia and Africa.",
-        "type": "statistical",
-        "category": "urban development"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DZk5la0thTUdGYWwxWjB0R29iR2VHQVNBcEZfMXBwenBRYm5NMEZIVVN2LUxfX3A0Wi1JQlRWMmtZbmtuUkZtcHNnRURFcmlLWHU5ZFY0QlRCTzdSbDNYX2dncF9sUWRSdkxR?oc=5",
-        "date": "2025-12-02",
-        "title": "Medhavi Skills University, CIDC partner to better workforce - Construction Week India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1DZk5la0thTUdGYWwxWjB0R29iR2VHQVNBcEZfMXBwenBRYm5NMEZIVVN2LUxfX3A0Wi1JQlRWMmtZbmtuUkZtcHNnRURFcmlLWHU5ZFY0QlRCTzdSbDNYX2dncF9sUWRSdkxR?oc=5\" target=\"_blank\">Medhavi Skills University, CIDC partner to better workforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Week India</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNmw5NWNTRDZ3dG9qdUswVjhPXzdpOFBJSTVVbW1xem9ZUnR4QmZsc3FfSkZ4ckJScVgzWjZVaWZ5Mlo1ZEpaME5tdGZIT25KamxfTnR6TUQ4TlY1dGpfTmItbk85UGR0MzZ5N0pvM2liZ3cwRXVmZC1sTTM5d1JITU5UVnc5Umo5cGp4Vm0zOTc4LVh3TmxxQmVwZGQ0S0FlSl9hRlpqODBhSzFsWm82MW80bFZ5dmg5SHVMZW1JTQ?oc=5",
-        "date": "2025-12-02",
-        "title": "Cooling crisis at CME: A wakeup call for modern infrastructure governance - Network World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPNmw5NWNTRDZ3dG9qdUswVjhPXzdpOFBJSTVVbW1xem9ZUnR4QmZsc3FfSkZ4ckJScVgzWjZVaWZ5Mlo1ZEpaME5tdGZIT25KamxfTnR6TUQ4TlY1dGpfTmItbk85UGR0MzZ5N0pvM2liZ3cwRXVmZC1sTTM5d1JITU5UVnc5Umo5cGp4Vm0zOTc4LVh3TmxxQmVwZGQ0S0FlSl9hRlpqODBhSzFsWm82MW80bFZ5dmg5SHVMZW1JTQ?oc=5\" target=\"_blank\">Cooling crisis at CME: A wakeup call for modern infrastructure governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Network World</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXdCZTFDaTBKeGlQbGxrenNhd1JaNFpHYzdHeWhDTHRkSXN4RW96RXh3SjktejVVcjdJbzRtcjhXRk15cUFjU0ZheFVBTWo5T3RBbVotQklrQmtkb2xmc3F6eDJvWF96ZUFZR2J0ZUhjc2ZTR2tIVUtRMFdNeWZ3ME9n?oc=5",
-        "date": "2025-12-02",
-        "title": "What Role Does Mexico\u2019s 3PL Industry Play in Shaping Modern Infrastructure? - IMARC Group",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXdCZTFDaTBKeGlQbGxrenNhd1JaNFpHYzdHeWhDTHRkSXN4RW96RXh3SjktejVVcjdJbzRtcjhXRk15cUFjU0ZheFVBTWo5T3RBbVotQklrQmtkb2xmc3F6eDJvWF96ZUFZR2J0ZUhjc2ZTR2tIVUtRMFdNeWZ3ME9n?oc=5\" target=\"_blank\">What Role Does Mexico\u2019s 3PL Industry Play in Shaping Modern Infrastructure?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IMARC Group</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2025-12-02",
-        "status": "posted",
-        "tweet": "Tesla's global data centers process 500 TB of vehicle telemetry data daily for AI optimization.\n\n$TSLA",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQek9ZaEQ2di1PWnRYaEZiOFh0azVDM1BvVTQ4QXpuYmFpUlNKY2FZMS00cm1VZXRXbUViUjJHaWFNN2l6MGZtUTA1TVBmX2ZlTWtYOEo5dEcyVTd3LVl0NEdlR0xjeTVjeV90NGhvbnNTaXJmZ0tjdUtJbF9seFlnaEZxS0hkM3pMTW91UnhqOGxsQklZMzNFVTNkUkZpeDYzU2lmN2FxaG1EWTF3NERSSDJ1cktURWtPUWpGel8zdjBXWk1KZzFCLWxKUE9WaXhVX2ZDZ2NnVTFHdXFyNDdr?oc=5",
-        "date": "2025-12-02",
-        "title": "New Study Reveals Labor Shortages, Costs and Safety Gaps as Top Construction Industry Challenges - ohsonline.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQek9ZaEQ2di1PWnRYaEZiOFh0azVDM1BvVTQ4QXpuYmFpUlNKY2FZMS00cm1VZXRXbUViUjJHaWFNN2l6MGZtUTA1TVBmX2ZlTWtYOEo5dEcyVTd3LVl0NEdlR0xjeTVjeV90NGhvbnNTaXJmZ0tjdUtJbF9seFlnaEZxS0hkM3pMTW91UnhqOGxsQklZMzNFVTNkUkZpeDYzU2lmN2FxaG1EWTF3NERSSDJ1cktURWtPUWpGel8zdjBXWk1KZzFCLWxKUE9WaXhVX2ZDZ2NnVTFHdXFyNDdr?oc=5\" target=\"_blank\">New Study Reveals Labor Shortages, Costs and Safety Gaps as Top Construction Industry Challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ohsonline.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aYmx1QndLOUxJeFM0M201S2o0czV4ODVvcllzS1hrOHVQVG9vb0NMYnUwSHFPNktIYkwtYmlBVXNSZHBhWDRlX3I1ZVpfN3p4NHFXZV9ibS1Ydnk3V0ZKSlh2WWgyUXFFbm5DX1hpMW4wLXJ4?oc=5",
-        "date": "2025-12-02",
-        "title": "An Upbeat Outlook - Construction Equipment Guide",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9aYmx1QndLOUxJeFM0M201S2o0czV4ODVvcllzS1hrOHVQVG9vb0NMYnUwSHFPNktIYkwtYmlBVXNSZHBhWDRlX3I1ZVpfN3p4NHFXZV9ibS1Ydnk3V0ZKSlh2WWgyUXFFbm5DX1hpMW4wLXJ4?oc=5\" target=\"_blank\">An Upbeat Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Equipment Guide</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQVlGYUVseVJRNGt3S3laWUJqeHh2aVVmUVVJZE9Tc1hHY0RyUkp2d0JKY2lnOGZVVVpNVDVQcmRBYzN1cC1oeEVXcm5uMzE1cnp0RV9KZ1NDejY3OFJRU19nMG1UQldnU3lpYlBCTk5oY0NGUkZJeUY3b3NZaTFKaGtyczRxY3hSdGtNTjNPNUxTVXZVTXNBUWM4ZXBtVzBnYWVHamlyaTJHSEx4ZGpmMWFYOFcyOEpHZEl4OGhXQQ?oc=5",
-        "date": "2025-12-02",
-        "title": "NASA\u2019s Fly Foundational Robots Demo to Bolster In-Space Infrastructure - NASA (.gov)",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOQVlGYUVseVJRNGt3S3laWUJqeHh2aVVmUVVJZE9Tc1hHY0RyUkp2d0JKY2lnOGZVVVpNVDVQcmRBYzN1cC1oeEVXcm5uMzE1cnp0RV9KZ1NDejY3OFJRU19nMG1UQldnU3lpYlBCTk5oY0NGUkZJeUY3b3NZaTFKaGtyczRxY3hSdGtNTjNPNUxTVXZVTXNBUWM4ZXBtVzBnYWVHamlyaTJHSEx4ZGpmMWFYOFcyOEpHZEl4OGhXQQ?oc=5\" target=\"_blank\">NASA\u2019s Fly Foundational Robots Demo to Bolster In-Space Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NASA (.gov)</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMzI4OHhXWEc3VlNLQ3FFZ2ZDZ3ZZSUtuejN3NDB4TVBiZ05IUXhSWm1qa0ZQWXVZMzJVNFdhZWZRdHlhX3VmMVF1eGpRaEpaREdxZ2lDZ2FZNUZVWmdvOW5BclpVSlFFYkFtSG8yTHdrRnFEYWVhY0FmT2RsdGhKZldoQmJFZXZURTd1cGhGUVAwM1c1YmlCNE9aYw?oc=5",
-        "date": "2025-12-02",
-        "title": "Einhorn\u2019s Top AI Infrastructure Stocks: Sanmina, Dycom for 2025 Growth - WebProNews",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNMzI4OHhXWEc3VlNLQ3FFZ2ZDZ3ZZSUtuejN3NDB4TVBiZ05IUXhSWm1qa0ZQWXVZMzJVNFdhZWZRdHlhX3VmMVF1eGpRaEpaREdxZ2lDZ2FZNUZVWmdvOW5BclpVSlFFYkFtSG8yTHdrRnFEYWVhY0FmT2RsdGhKZldoQmJFZXZURTd1cGhGUVAwM1c1YmlCNE9aYw?oc=5\" target=\"_blank\">Einhorn\u2019s Top AI Infrastructure Stocks: Sanmina, Dycom for 2025 Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WebProNews</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUi1VdDlYS0QyRldSV1E4Z2ZPR3lLblVkNjdId1FsVzJqMEl2T1czT3RFTDY2OGJ6QXFjVjR5OVZ2Vm1GZUl5end4UnBWSmJ4VVE1WkptN3JDRWF0N0draU5tTDkwSThCWFJmMWlzVS1JNlJEM2xCZkN6SjNCbktheEtLSjRVczlZQnh5N1F6akM2V2R2cUo2dF95a0drSExkS2NqYWZoMElGTWItX2NqTzJLNGtWZzRQY2pZdVJMY1N1T1JsTDl4LURuNENDeHpHYVFaZWJqVzhTVlk4S0JfbTJwd21xNVprWldLZEZXUnBGekFReFFGclBGZEtsTzNOMHJlZEdSNkVDR3o3?oc=5",
-        "date": "2025-12-02",
-        "title": "CSCO: Surging hyperscaler demand for optics and AI infrastructure drives strong growth outlook - TradingView",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxOUi1VdDlYS0QyRldSV1E4Z2ZPR3lLblVkNjdId1FsVzJqMEl2T1czT3RFTDY2OGJ6QXFjVjR5OVZ2Vm1GZUl5end4UnBWSmJ4VVE1WkptN3JDRWF0N0draU5tTDkwSThCWFJmMWlzVS1JNlJEM2xCZkN6SjNCbktheEtLSjRVczlZQnh5N1F6akM2V2R2cUo2dF95a0drSExkS2NqYWZoMElGTWItX2NqTzJLNGtWZzRQY2pZdVJMY1N1T1JsTDl4LURuNENDeHpHYVFaZWJqVzhTVlk4S0JfbTJwd21xNVprWldLZEZXUnBGekFReFFGclBGZEtsTzNOMHJlZEdSNkVDR3o3?oc=5\" target=\"_blank\">CSCO: Surging hyperscaler demand for optics and AI infrastructure drives strong growth outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByc0EwUm0wWnlpZFRwcDZBcW8tamdrMlo2MkIycUxwNkUwSUh5bHhDTTB3TGpTRzlFWFYzaGk4cmFWY1JiUGlTQ2lLdkNQQ0NNeFp1eXNnZTctN1VPcnk4Q1JHWmNkcElG?oc=5",
-        "date": "2025-12-02",
-        "title": "A new future for Udaipur - Architecture Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFByc0EwUm0wWnlpZFRwcDZBcW8tamdrMlo2MkIycUxwNkUwSUh5bHhDTTB3TGpTRzlFWFYzaGk4cmFWY1JiUGlTQ2lLdkNQQ0NNeFp1eXNnZTctN1VPcnk4Q1JHWmNkcElG?oc=5\" target=\"_blank\">A new future for Udaipur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Architecture Today</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEUxdHpEQ3JrWVllMDN0dENJTFI4V1ByOWxuMFN6NVI3NjRyN2RkVGV2RXhOY0JqQ2JnVzhOd2JmMm5vempHMkhvT3E0Skk5NXFIZ05aLWNpZ0RYUW54WS16ekYzTkpYM19ZdVZBUW1uYkdmSTFhb1NXNnc4TVpvbDdvTGl3TjBIOWMtUjZvdTFKek9tRkNNMkFZbEdDcWF3dDRtMFVua0I?oc=5",
-        "date": "2025-12-02",
-        "title": "NNL: Smart City captain reflects on positive outing against Beyond Limits - Daily Post Nigeria",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEUxdHpEQ3JrWVllMDN0dENJTFI4V1ByOWxuMFN6NVI3NjRyN2RkVGV2RXhOY0JqQ2JnVzhOd2JmMm5vempHMkhvT3E0Skk5NXFIZ05aLWNpZ0RYUW54WS16ekYzTkpYM19ZdVZBUW1uYkdmSTFhb1NXNnc4TVpvbDdvTGl3TjBIOWMtUjZvdTFKek9tRkNNMkFZbEdDcWF3dDRtMFVua0I?oc=5\" target=\"_blank\">NNL: Smart City captain reflects on positive outing against Beyond Limits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Post Nigeria</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.enr.com/articles/62095-contract-awards-advance-egypt-high-speed-rail-project",
-        "date": "2025-12-02",
-        "title": "Contract Awards Advance Egypt High-speed Rail Project",
-        "summary": "<p>Work on Egypt's rail infrastructure upgrade and buildout continues, with 2,000 km of track to be laid by the project's completion.</p>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": "(\ud83c\uddea\ud83c\uddec) NEWS: Contract awards advance Egypts high-speed rail project, with 2,000 km of track to be laid by completion."
-    },
-    {
-        "link": "https://www.enr.com/articles/62095-contract-awards-advance-egypt-high-speed-rail-project",
-        "date": "2025-12-02",
-        "title": "Contract Awards Advance Egypt High-speed Rail Project",
-        "summary": "<p>Work on Egypt's rail infrastructure upgrade and buildout continues, with 2,000 km of track to be laid by the project's completion.</p>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "posted",
-        "tweet": "(\ud83c\uddea\ud83c\uddec) NEWS: Contract awards advance Egypts high-speed rail project, set to lay 2,000 km of track upon completion.",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOTdwTS16ZjRDUXZKZ3hnYjdPUG1vVDBIVnNXdFJGUGlTVmNZZDRvaG03RVF0RG1mYXd3TVdYZVEwMjdmaXI4MGl4TWlVczVMdlZGbmxoVDZxR19UQUs4TXJkWUpYYU9yam1RQjNUazJvOVB5bE1MMTJHbVRMZ1R6NnEzVmFUVmpSZi1tcFBweXNmMU11QzNiMkJKZFJtdkV1RDZN0gG3AUFVX3lxTE5fMGtkX1ZDVGVrMDZwTTJCUEZBSXlZOWNWOWZIWkVvOUx2N29YZnB5S1Y1YlJ4REtnNnpXalVIUENOdDYxRENESkw2VWE2aWdQU0Nsb0dWZXN5Y3l6Q3pSdzNZSTZQa2xrTkdjNHVpdlBJdkNhb0w1Q0N5eUJFeV92SnY3SjZCZHdKRjdLcjF4eExxYzFPeGdoSzNEbVUydEZneVNFRWFIYk9TUTVrWEV6TGQ1cktSUQ?oc=5",
-        "date": "2025-12-02",
-        "title": "South Carolina lawmakers work to modernize state infrastructure funding - WRDW",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQOTdwTS16ZjRDUXZKZ3hnYjdPUG1vVDBIVnNXdFJGUGlTVmNZZDRvaG03RVF0RG1mYXd3TVdYZVEwMjdmaXI4MGl4TWlVczVMdlZGbmxoVDZxR19UQUs4TXJkWUpYYU9yam1RQjNUazJvOVB5bE1MMTJHbVRMZ1R6NnEzVmFUVmpSZi1tcFBweXNmMU11QzNiMkJKZFJtdkV1RDZN0gG3AUFVX3lxTE5fMGtkX1ZDVGVrMDZwTTJCUEZBSXlZOWNWOWZIWkVvOUx2N29YZnB5S1Y1YlJ4REtnNnpXalVIUENOdDYxRENESkw2VWE2aWdQU0Nsb0dWZXN5Y3l6Q3pSdzNZSTZQa2xrTkdjNHVpdlBJdkNhb0w1Q0N5eUJFeV92SnY3SjZCZHdKRjdLcjF4eExxYzFPeGdoSzNEbVUydEZneVNFRWFIYk9TUTVrWEV6TGQ1cktSUQ?oc=5\" target=\"_blank\">South Carolina lawmakers work to modernize state infrastructure funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0xmSUZsbkZiMlk5YTBoMExyVFp1RVJOajJpaUlDUktsMGk1cEpjZE41ZEpGQ3B1NFZCQ2xxNkluc1IzUUpiRnBBcWhZQXdkbGVLcEVDLXRsZGFXLVdGa09wYkIwTXNERzN5b1E4cjQxX3BKUnZLM3JPaDBmZmRuQ0E2Nzh0QVVhN2VMZjM3TGFBVUQ0TjZvVF9FcEhhdUJEdzhMMl9PbHUzWm5vaHhhZEF1Ylg3MlQzREtsdE9mNV9yWV9xYlc0SlRnZw?oc=5",
-        "date": "2025-12-02",
-        "title": "Austin officials celebrate completion of new modern water infrastructure - KVUE",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0xmSUZsbkZiMlk5YTBoMExyVFp1RVJOajJpaUlDUktsMGk1cEpjZE41ZEpGQ3B1NFZCQ2xxNkluc1IzUUpiRnBBcWhZQXdkbGVLcEVDLXRsZGFXLVdGa09wYkIwTXNERzN5b1E4cjQxX3BKUnZLM3JPaDBmZmRuQ0E2Nzh0QVVhN2VMZjM3TGFBVUQ0TjZvVF9FcEhhdUJEdzhMMl9PbHUzWm5vaHhhZEF1Ylg3MlQzREtsdE9mNV9yWV9xYlc0SlRnZw?oc=5\" target=\"_blank\">Austin officials celebrate completion of new modern water infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVUE</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPamROMEZBOHpVZXFYbW52Zkx3cmF0TDdWWkRYUFR1aVdJSnk2OGJJdzRUWmR1VlU2LVltdWc1dmlWQ1dmY0NCTjJraEVOMVJVS0ZJS3I0cGg4dlQ0aW5RSGtuWDllYUNSRjVlWkV2LUFsNkZRRzdZbmpOMWduWVJ2dTZZNnhSN1NGd2psRXBNNEhlMXFZcTlYbVpB0gGfAUFVX3lxTFBqOU9FSlFlblk2UW8yZ1RXQWhMU0lhSlJBYnV2WTdKRXR1Q3NPZnl1V2hrWjNZU3JvSGlRZzlHWFo2b080Vjd1MWNOM21SS0lXWC1sZ1pWMENFdFE1Y0pPWDFBdHVTMnJZRVhVLTVydW5EaGYwWmFwckRLOERacDNtTG9CMG1KeHJCU2gtVEdhSmgzLWdacHFzV0dNNUhiZw?oc=5",
-        "date": "2025-12-02",
-        "title": "Salt Lake City completes over 100 road projects, including major infrastructure reconstruction - ABC4 Utah",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPamROMEZBOHpVZXFYbW52Zkx3cmF0TDdWWkRYUFR1aVdJSnk2OGJJdzRUWmR1VlU2LVltdWc1dmlWQ1dmY0NCTjJraEVOMVJVS0ZJS3I0cGg4dlQ0aW5RSGtuWDllYUNSRjVlWkV2LUFsNkZRRzdZbmpOMWduWVJ2dTZZNnhSN1NGd2psRXBNNEhlMXFZcTlYbVpB0gGfAUFVX3lxTFBqOU9FSlFlblk2UW8yZ1RXQWhMU0lhSlJBYnV2WTdKRXR1Q3NPZnl1V2hrWjNZU3JvSGlRZzlHWFo2b080Vjd1MWNOM21SS0lXWC1sZ1pWMENFdFE1Y0pPWDFBdHVTMnJZRVhVLTVydW5EaGYwWmFwckRLOERacDNtTG9CMG1KeHJCU2gtVEdhSmgzLWdacHFzV0dNNUhiZw?oc=5\" target=\"_blank\">Salt Lake City completes over 100 road projects, including major infrastructure reconstruction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC4 Utah</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Salt Lake City wraps up over 100 road projects, including major infrastructure rebuilds"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3I5T2NjeG4tblh2V1B3RlNiUXFrVTdBaWN4ODEwVTJndEFDWWV0VEhIeVN2cm14eno3YWpmS1lVNzZvOWNuOGFhM2hnaW9mRnNxVWJ6OHp6NXFEcVY5ZjZjbXNQMXpnQXplRFktWnplc0RvWFRCZnJjMU9mcTNLc3dIWjhPTUU1bE42UTdXMGVYdkd2d2hkTjRqbzBXTHBaSVBOeHVFRDFGUjRxcU9mcXIzeldiamFULWV2My1fMUlNUEpObmpDUUVQVGt1cVg5c0RCNjRvYw?oc=5",
-        "date": "2025-12-02",
-        "title": "Press Release: Rep. Mike Simpson Introduces Urban Canal Modernization Act for Infrastructure Improvements - Quiver Quantitative",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3I5T2NjeG4tblh2V1B3RlNiUXFrVTdBaWN4ODEwVTJndEFDWWV0VEhIeVN2cm14eno3YWpmS1lVNzZvOWNuOGFhM2hnaW9mRnNxVWJ6OHp6NXFEcVY5ZjZjbXNQMXpnQXplRFktWnplc0RvWFRCZnJjMU9mcTNLc3dIWjhPTUU1bE42UTdXMGVYdkd2d2hkTjRqbzBXTHBaSVBOeHVFRDFGUjRxcU9mcXIzeldiamFULWV2My1fMUlNUEpObmpDUUVQVGt1cVg5c0RCNjRvYw?oc=5\" target=\"_blank\">Press Release: Rep. Mike Simpson Introduces Urban Canal Modernization Act for Infrastructure Improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Rep. Mike Simpson introduces Urban Canal Modernization Act to boost infrastructure through urban canal upgrades"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTBqMTRqbzBtaUZJVTllVG5WT2tOc1EyQ1FVM0FaaHU0VHF1NkR2YmtxV3M3czBadi1WUVFhdU5PdnRsSVVlUjBCRVFaaWhqamRBdms4eHNHbDBEZ0l5b09PdWJOY3dXQnRUU2l3UWNqcXJSVlRxZDdEVkVZQXVNVDBiV1Z2RDJLU1lTMmY2YVRGOVJCalh6Z19seENhUWZibGpGQXR6RFA?oc=5",
-        "date": "2025-12-02",
-        "title": "BNY Mellon Municipal Bond Infrastructure Fund, Inc. (NYSE: DMB) Announces Distribution - The AI Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTBqMTRqbzBtaUZJVTllVG5WT2tOc1EyQ1FVM0FaaHU0VHF1NkR2YmtxV3M3czBadi1WUVFhdU5PdnRsSVVlUjBCRVFaaWhqamRBdms4eHNHbDBEZ0l5b09PdWJOY3dXQnRUU2l3UWNqcXJSVlRxZDdEVkVZQXVNVDBiV1Z2RDJLU1lTMmY2YVRGOVJCalh6Z19seENhUWZibGpGQXR6RFA?oc=5\" target=\"_blank\">BNY Mellon Municipal Bond Infrastructure Fund, Inc. (NYSE: DMB) Announces Distribution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The AI Journal</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPamROMEZBOHpVZXFYbW52Zkx3cmF0TDdWWkRYUFR1aVdJSnk2OGJJdzRUWmR1VlU2LVltdWc1dmlWQ1dmY0NCTjJraEVOMVJVS0ZJS3I0cGg4dlQ0aW5RSGtuWDllYUNSRjVlWkV2LUFsNkZRRzdZbmpOMWduWVJ2dTZZNnhSN1NGd2psRXBNNEhlMXFZcTlYbVpB0gGfAUFVX3lxTFBqOU9FSlFlblk2UW8yZ1RXQWhMU0lhSlJBYnV2WTdKRXR1Q3NPZnl1V2hrWjNZU3JvSGlRZzlHWFo2b080Vjd1MWNOM21SS0lXWC1sZ1pWMENFdFE1Y0pPWDFBdHVTMnJZRVhVLTVydW5EaGYwWmFwckRLOERacDNtTG9CMG1KeHJCU2gtVEdhSmgzLWdacHFzV0dNNUhiZw?oc=5",
-        "date": "2025-12-02",
-        "title": "Salt Lake City completes over 100 road projects, including major infrastructure reconstruction - ABC4 Utah",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPamROMEZBOHpVZXFYbW52Zkx3cmF0TDdWWkRYUFR1aVdJSnk2OGJJdzRUWmR1VlU2LVltdWc1dmlWQ1dmY0NCTjJraEVOMVJVS0ZJS3I0cGg4dlQ0aW5RSGtuWDllYUNSRjVlWkV2LUFsNkZRRzdZbmpOMWduWVJ2dTZZNnhSN1NGd2psRXBNNEhlMXFZcTlYbVpB0gGfAUFVX3lxTFBqOU9FSlFlblk2UW8yZ1RXQWhMU0lhSlJBYnV2WTdKRXR1Q3NPZnl1V2hrWjNZU3JvSGlRZzlHWFo2b080Vjd1MWNOM21SS0lXWC1sZ1pWMENFdFE1Y0pPWDFBdHVTMnJZRVhVLTVydW5EaGYwWmFwckRLOERacDNtTG9CMG1KeHJCU2gtVEdhSmgzLWdacHFzV0dNNUhiZw?oc=5\" target=\"_blank\">Salt Lake City completes over 100 road projects, including major infrastructure reconstruction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC4 Utah</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Salt Lake City wraps up over 100 road projects, including major infrastructure rebuilds.",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3I5T2NjeG4tblh2V1B3RlNiUXFrVTdBaWN4ODEwVTJndEFDWWV0VEhIeVN2cm14eno3YWpmS1lVNzZvOWNuOGFhM2hnaW9mRnNxVWJ6OHp6NXFEcVY5ZjZjbXNQMXpnQXplRFktWnplc0RvWFRCZnJjMU9mcTNLc3dIWjhPTUU1bE42UTdXMGVYdkd2d2hkTjRqbzBXTHBaSVBOeHVFRDFGUjRxcU9mcXIzeldiamFULWV2My1fMUlNUEpObmpDUUVQVGt1cVg5c0RCNjRvYw?oc=5",
-        "date": "2025-12-02",
-        "title": "Press Release: Rep. Mike Simpson Introduces Urban Canal Modernization Act for Infrastructure Improvements - Quiver Quantitative",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3I5T2NjeG4tblh2V1B3RlNiUXFrVTdBaWN4ODEwVTJndEFDWWV0VEhIeVN2cm14eno3YWpmS1lVNzZvOWNuOGFhM2hnaW9mRnNxVWJ6OHp6NXFEcVY5ZjZjbXNQMXpnQXplRFktWnplc0RvWFRCZnJjMU9mcTNLc3dIWjhPTUU1bE42UTdXMGVYdkd2d2hkTjRqbzBXTHBaSVBOeHVFRDFGUjRxcU9mcXIzeldiamFULWV2My1fMUlNUEpObmpDUUVQVGt1cVg5c0RCNjRvYw?oc=5\" target=\"_blank\">Press Release: Rep. Mike Simpson Introduces Urban Canal Modernization Act for Infrastructure Improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Rep. Mike Simpson introduces Urban Canal Modernization Act to upgrade aging canals and enhance urban infrastructure.",
-        "type": "news"
-    },
-    {
-        "link": null,
         "date": "2025-12-03",
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf3 China: 50,000 km high-speed rail targeted by 2025 vs\n\ud83c\uddef\ud83c\uddf5 Japan: ~3,000 km in service by 2025",
@@ -2585,5 +2370,85 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Catastrophic infrastructure failure isolates Stehekin, destroying water, power and sewer systems in massive landslides",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3NEa1puUEc1R0JEby12bXAwSS0tX05TQ3pxbUZ6UExOWnBvUUxLSzg4emdKVm9VN0FDd0MtQ0hsbl9fVGpTQllTdnRBaXh3NnV6SzVscHlzQndDQTlPM1gzbHgxTkJQaHNPaGpJQ1dVcGItOWN0c2hvcDJMaU84WUdLOHljUUh0ckY2dDRfYXhzbjc4TWlnRlY5VUh4YU9EYk5DZ1hB0gG6AUFVX3lxTE9aSXRZYVlkT21EV09PcFlVN2xMcllqdXVRWmRTaWNwV3c2VU5iaFh0cDNubW5COF9SNTd6R2N1UTFWazhJVF91Z21mcDhwdHMyMnpsR2EzV203Z3o5RnFlNmZtejRzQTUtTVhPbE1BcXI4RC1OVzQ2c25BTEFfWWd1N2hMcktja3laQnJKaUNZdThiTUVjYVVDcEpTUkFpcUdvQVU4ZGFNNGhSODl4MWE0cThVUkNxSzVfdw?oc=5",
+        "date": "2025-12-12",
+        "title": "Columbus water rates to increase 4.9% starting January 1 for new infrastructure - WTVM.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3NEa1puUEc1R0JEby12bXAwSS0tX05TQ3pxbUZ6UExOWnBvUUxLSzg4emdKVm9VN0FDd0MtQ0hsbl9fVGpTQllTdnRBaXh3NnV6SzVscHlzQndDQTlPM1gzbHgxTkJQaHNPaGpJQ1dVcGItOWN0c2hvcDJMaU84WUdLOHljUUh0ckY2dDRfYXhzbjc4TWlnRlY5VUh4YU9EYk5DZ1hB0gG6AUFVX3lxTE9aSXRZYVlkT21EV09PcFlVN2xMcllqdXVRWmRTaWNwV3c2VU5iaFh0cDNubW5COF9SNTd6R2N1UTFWazhJVF91Z21mcDhwdHMyMnpsR2EzV203Z3o5RnFlNmZtejRzQTUtTVhPbE1BcXI4RC1OVzQ2c25BTEFfWWd1N2hMcktja3laQnJKaUNZdThiTUVjYVVDcEpTUkFpcUdvQVU4ZGFNNGhSODl4MWE0cThVUkNxSzVfdw?oc=5\" target=\"_blank\">Columbus water rates to increase 4.9% starting January 1 for new infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVM.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd0RESDJuVTc2X3ZIMGVSYUR6eVlqNnVXbHRfVl8wNW9UTEtHRUlJejR2TnBUWG9fbHZNb054Ym9PUnlLekltTVZ1b0VQc0hpcUVjSldTWGIxZWJ2YnVEZGRKUFBwc0VDWC1EOWFTMjVuMm9hSXFNWEI5Z1hwbHlOZkhzY09QZUI0T1BRa29ZakMyMUhNTy0weFBpeVB3VlZrU3VNUTBJM1JSWWMwMEhoVS1BaU04dGRPQ05KYk1ISkNKVmpIc0plNUR2OHNrNzV5?oc=5",
+        "date": "2025-12-12",
+        "title": "Press Release: U.S. DOT Awards $202,000 to North Dakota Airports for Infrastructure Improvements - Quiver Quantitative",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd0RESDJuVTc2X3ZIMGVSYUR6eVlqNnVXbHRfVl8wNW9UTEtHRUlJejR2TnBUWG9fbHZNb054Ym9PUnlLekltTVZ1b0VQc0hpcUVjSldTWGIxZWJ2YnVEZGRKUFBwc0VDWC1EOWFTMjVuMm9hSXFNWEI5Z1hwbHlOZkhzY09QZUI0T1BRa29ZakMyMUhNTy0weFBpeVB3VlZrU3VNUTBJM1JSWWMwMEhoVS1BaU04dGRPQ05KYk1ISkNKVmpIc0plNUR2OHNrNzV5?oc=5\" target=\"_blank\">Press Release: U.S. DOT Awards $202,000 to North Dakota Airports for Infrastructure Improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT21LM21XbW1IdHFaZzd2dmw3TW9UaEdFVjVjWFhENDd6YUJ5WFNSOUlUNkRpOFJQYXM0S2J4X3pSVUFHUlBZODVsaGRXZjEyc3pkYVlodWtweTVVMnUzaWpDSi1nYndjZjhiNmV4REItOGRfZHVSYURKR2MtY01qUUZIM2swU2w1dG0tZHRRd1RwcUpybnJaREszQklZVkdLVTUzZlFxSWhXYlFXdFNiWkQ2SDFmbkNIWXUyaVFWZkFPNUk30gHKAUFVX3lxTE14Q1RyVG1hX0drSWtVUzZJZThINm1zMjlyR3NYSHV5ZThOVjRERmlXR2o3WXdnVDctSjFqRVU3MFM1Z05SMExjZWFib2xGcC14Y01RZXNUOGhWQzJlTDNFVy1Hbk9aeHpjVm1MSERtbVdBSEVnVEViY05UX2RWaUMzbFdXM0djOWlaeGdYZXhRYlJtby12UUZ1bEwxYVJBTGU1amVuZlBXcTB4UzZtVjZHTndOM05uOVZrVzhYTjUxdjB3QVRkTHBXeGc?oc=5",
+        "date": "2025-12-12",
+        "title": "St. Armands residents, businesses push for funds to upgrade stormwater infrastructure - WFLA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOT21LM21XbW1IdHFaZzd2dmw3TW9UaEdFVjVjWFhENDd6YUJ5WFNSOUlUNkRpOFJQYXM0S2J4X3pSVUFHUlBZODVsaGRXZjEyc3pkYVlodWtweTVVMnUzaWpDSi1nYndjZjhiNmV4REItOGRfZHVSYURKR2MtY01qUUZIM2swU2w1dG0tZHRRd1RwcUpybnJaREszQklZVkdLVTUzZlFxSWhXYlFXdFNiWkQ2SDFmbkNIWXUyaVFWZkFPNUk30gHKAUFVX3lxTE14Q1RyVG1hX0drSWtVUzZJZThINm1zMjlyR3NYSHV5ZThOVjRERmlXR2o3WXdnVDctSjFqRVU3MFM1Z05SMExjZWFib2xGcC14Y01RZXNUOGhWQzJlTDNFVy1Hbk9aeHpjVm1MSERtbVdBSEVnVEViY05UX2RWaUMzbFdXM0djOWlaeGdYZXhRYlJtby12UUZ1bEwxYVJBTGU1amVuZlBXcTB4UzZtVjZHTndOM05uOVZrVzhYTjUxdjB3QVRkTHBXeGc?oc=5\" target=\"_blank\">St. Armands residents, businesses push for funds to upgrade stormwater infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFLA</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOa2EzNkd5VkxnVGdHV1dPNV9WV3ZyMmw5eUpkdThWSWtpbmNibVczTEtld0h4SWJHVFZXZmRZcm1JSENPUktPbTVMaXdleTljSEYzNVNxVkFZcUdyQ0hQaXdneVhLZmxmTUlSbTVieGRveDVKOHBOZUFPTUZfS2N0dm1ieUJ3SmhYTXZtaXpqelpVNWp3LVNnaXN2R2I1LTBRTllZLWlIdmZqd2ZHM2dTLWl0bzFNUVNUeVU1ZWJUZmNwWVdUNXhaaUtJRnVNYkRCLTU0N3RGWVBSVU5KLUx4ZW90dGEwcWd2bk1qcnRJQl9aa3ZpdWJiVFdrVzNQdw?oc=5",
+        "date": "2025-12-12",
+        "title": "Mohave Electric Cooperative Awarded Four Point Seven Three Million Dollar Grant to Upgrade Infrastructure and Enhance Grid Resilience in Arizona - thebee.news",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOa2EzNkd5VkxnVGdHV1dPNV9WV3ZyMmw5eUpkdThWSWtpbmNibVczTEtld0h4SWJHVFZXZmRZcm1JSENPUktPbTVMaXdleTljSEYzNVNxVkFZcUdyQ0hQaXdneVhLZmxmTUlSbTVieGRveDVKOHBOZUFPTUZfS2N0dm1ieUJ3SmhYTXZtaXpqelpVNWp3LVNnaXN2R2I1LTBRTllZLWlIdmZqd2ZHM2dTLWl0bzFNUVNUeVU1ZWJUZmNwWVdUNXhaaUtJRnVNYkRCLTU0N3RGWVBSVU5KLUx4ZW90dGEwcWd2bk1qcnRJQl9aa3ZpdWJiVFdrVzNQdw?oc=5\" target=\"_blank\">Mohave Electric Cooperative Awarded Four Point Seven Three Million Dollar Grant to Upgrade Infrastructure and Enhance Grid Resilience in Arizona</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thebee.news</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYWstanBRZm5oLUJEcmRkWmpIczcxZE82THRRZEpoOVRSRXBUVWtKd2NGVzhTeklEd2xrZWtSWTQ0cmNyRUdaeDJyWlVyMExzTmFocm5pbUEwUmg5MGFldzFRWUtxb0ZFUWluODVqcHlaZElLbzhRTFQwVVlyWWJuQkNTYTFZUzBmM3N4RHpiRm1FOWFXbTdjLVRpTGJZSm1KRHdlLVhwcEVlU2RnYTc0SDlZZGlxTUNSNU0wS1lzVVVWMFhMM2ZlS0lwVS0zYktjMVNOUmRJOUszNTRnYmc?oc=5",
+        "date": "2025-12-12",
+        "title": "UN briefing warns winter and strikes on power infrastructure are deepening Ukraine\u2019s humanitarian crisis - Citizen Portal AI",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYWstanBRZm5oLUJEcmRkWmpIczcxZE82THRRZEpoOVRSRXBUVWtKd2NGVzhTeklEd2xrZWtSWTQ0cmNyRUdaeDJyWlVyMExzTmFocm5pbUEwUmg5MGFldzFRWUtxb0ZFUWluODVqcHlaZElLbzhRTFQwVVlyWWJuQkNTYTFZUzBmM3N4RHpiRm1FOWFXbTdjLVRpTGJZSm1KRHdlLVhwcEVlU2RnYTc0SDlZZGlxTUNSNU0wS1lzVVVWMFhMM2ZlS0lwVS0zYktjMVNOUmRJOUszNTRnYmc?oc=5\" target=\"_blank\">UN briefing warns winter and strikes on power infrastructure are deepening Ukraine\u2019s humanitarian crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Citizen Portal AI</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94UWdhTXhuTnVObGhEMktwckthUFU4aU1BaE5meFFyUzNLWFAwcERPaVNqcE5sRXgwZUIxNUoyTkdkb1JxOXpQYXhaWmdUNWc4X2tOY2ljanU4OEVLQS00TlJQeHhhUElpUUlGX2t0dk94ZEowQXp5MVlUMVU?oc=5",
+        "date": "2025-12-12",
+        "title": "Examining trends and factors of urban shrinkage in medium-sized cities - Phys.org",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE94UWdhTXhuTnVObGhEMktwckthUFU4aU1BaE5meFFyUzNLWFAwcERPaVNqcE5sRXgwZUIxNUoyTkdkb1JxOXpQYXhaWmdUNWc4X2tOY2ljanU4OEVLQS00TlJQeHhhUElpUUlGX2t0dk94ZEowQXp5MVlUMVU?oc=5\" target=\"_blank\">Examining trends and factors of urban shrinkage in medium-sized cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Phys.org</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQek0tQXIzYXBRbm1FZEpLQjZCSU9YZUpuTFZDNEgyRlZFQ2NkM1JoeWI3Qnd6VGlKdW5GU0RXeTNsakN0TTBGUVVuTmp1aTktSmgxU2tRSG5YYmpDX3AyVl9CcnlSb3dwSlBMdHRpWm1KVm50bi1UU0N0TFU0eGtkNW5rT28?oc=5",
+        "date": "2025-12-12",
+        "title": "AWS Joint Innovation Center Kaohsiung Showcases Startups Accelerating Enterprise Modernization and Smart City Innovation - digitimes",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQek0tQXIzYXBRbm1FZEpLQjZCSU9YZUpuTFZDNEgyRlZFQ2NkM1JoeWI3Qnd6VGlKdW5GU0RXeTNsakN0TTBGUVVuTmp1aTktSmgxU2tRSG5YYmpDX3AyVl9CcnlSb3dwSlBMdHRpWm1KVm50bi1UU0N0TFU0eGtkNW5rT28?oc=5\" target=\"_blank\">AWS Joint Innovation Center Kaohsiung Showcases Startups Accelerating Enterprise Modernization and Smart City Innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digitimes</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVUtqNWMwOHAwaWZ4NUMxZ09GVzU0aXU1eFFPdjBDRDZEOWlHY2FUeHNQTUV4aWNQYUtnOUdIZEVLRGVoaXdVcm5xVXRwY0ZTQTdod2Q2QjFPYlBiNTQ2bENzazlkVTI5MGlOcEw1a3otakc0cW9heVJpdmNrUlI2Y3o1akFqeVpfblV0Nk5zQVEwbVh4MVJxdlZNYw?oc=5",
+        "date": "2025-12-12",
+        "title": "Innovation incubator announces scalable tech cohort - Smart Cities World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOVUtqNWMwOHAwaWZ4NUMxZ09GVzU0aXU1eFFPdjBDRDZEOWlHY2FUeHNQTUV4aWNQYUtnOUdIZEVLRGVoaXdVcm5xVXRwY0ZTQTdod2Q2QjFPYlBiNTQ2bENzazlkVTI5MGlOcEw1a3otakc0cW9heVJpdmNrUlI2Y3o1akFqeVpfblV0Nk5zQVEwbVh4MVJxdlZNYw?oc=5\" target=\"_blank\">Innovation incubator announces scalable tech cohort</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
