@@ -2450,5 +2450,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-12",
+        "status": "posted",
+        "tweet": "Microsoft Azure's global infrastructure processed 3.2 zettabytes of data in 2025.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
