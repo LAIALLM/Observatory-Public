@@ -2307,5 +2307,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfb\ud83c\uddf3 NEWS: Ho Chi Minh City immediately implements National Assembly\u2019s amended Resolution 98 to boost urban development.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-13",
+        "status": "posted",
+        "tweet": "Microsoft Azure's data centers in \ud83c\uddfa\ud83c\uddf8 consumed 15 TWh of energy in 2024, powering AI workloads at 98% efficiency.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
