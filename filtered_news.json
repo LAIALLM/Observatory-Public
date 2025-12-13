@@ -2258,5 +2258,23 @@
         "status": "posted",
         "tweet": "2025 blockchain infrastructure: TPS vs energy cost per tx (USD est.)\n\n1. Ethereum: 15 TPS | $0.00002/tx\n2. Solana: 1200 TPS | $0.00006/tx\n3. Bitcoin: 4 TPS | $45/tx",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-12-13",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 Delhi's 2025 population: 33 million  \n\ud83c\uddef\ud83c\uddf5 Tokyo's: 36 million  \n\nDelhi grows 15% from 2020 levels; Tokyo declines 3%.",
+        "type": "statistical",
+        "category": "cities"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTczcjBnOHhtOFg5NHdWdWlGRk1fR1phbHVCRnRTZkI2UlBhX1VqTXo0SVltUG5HZThXTzNKcW9Mc19HUUFkYmZDR0lwanQzZnoyMlVDRTRFazFJUWR0VUdURy1rZU5qZFhJWExkemRFQ1ZFbEJ5TG12TW0wTXNKMHdvc1hKd2ticTAxNkFyakhiZ0RJanlJaA?oc=5",
+        "date": "2025-12-13",
+        "title": "H&UD Minister Reviews Budget, Emphasizes Timely Expenditure - Ommcom News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTczcjBnOHhtOFg5NHdWdWlGRk1fR1phbHVCRnRTZkI2UlBhX1VqTXo0SVltUG5HZThXTzNKcW9Mc19HUUFkYmZDR0lwanQzZnoyMlVDRTRFazFJUWR0VUdURy1rZU5qZFhJWExkemRFQ1ZFbEJ5TG12TW0wTXNKMHdvc1hKd2ticTAxNkFyakhiZ0RJanlJaA?oc=5\" target=\"_blank\">H&amp;UD Minister Reviews Budget, Emphasizes Timely Expenditure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ommcom News</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
