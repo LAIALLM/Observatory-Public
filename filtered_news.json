@@ -2364,5 +2364,15 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NQnIzN1N1TEtmWmxJWkd1LXJIaHRHb2RTYWl6Um55clVqb2xZWEcwM1dLSWkxSkgtd184S0NBZXJKZWtVY0FTZEhvMmowLUNHbzVVTS1VdlRPdFRiRG9kWFVJUld2NU96OFNKNXIyTDlURUlJUDFLYkhxdjN4dw?oc=5",
+        "date": "2025-12-13",
+        "title": "AUDIO: Russia targets Ukraine's energy infrastructure - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5NQnIzN1N1TEtmWmxJWkd1LXJIaHRHb2RTYWl6Um55clVqb2xZWEcwM1dLSWkxSkgtd184S0NBZXJKZWtVY0FTZEhvMmowLUNHbzVVTS1VdlRPdFRiRG9kWFVJUld2NU96OFNKNXIyTDlURUlJUDFLYkhxdjN4dw?oc=5\" target=\"_blank\">AUDIO: Russia targets Ukraine's energy infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
