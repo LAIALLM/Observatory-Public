@@ -2198,5 +2198,12 @@
         "status": "posted",
         "tweet": "(\ud83c\uddf2\ud83c\uddfe) NEWS: PLANMalaysia ramps up public engagement to fast-track Urban Renewal Act passage.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-14",
+        "status": "posted",
+        "tweet": "Bitcoin mining hardware investment: $28B globally (2025 est.)\n\nEthereum validator hardware: $500M total\n\n56x higher costs for BTC's PoW infrastructure vs ETH's PoS",
+        "type": "crypto"
     }
 ]
