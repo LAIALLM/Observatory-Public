@@ -2056,5 +2056,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft's Azure data centers processed 15 exabytes of data daily in 2025, achieving 99.999% uptime across 60 regions.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-14",
+        "status": "posted",
+        "tweet": "Global infrastructure companies face a $15 trillion investment gap by 2040 to achieve net-zero goals, with annual spending projected at $4.5 trillion starting 2025\u2014yet only $2.9 trillion is currently committed.",
+        "type": "statistical",
+        "category": "infrastructure companies"
     }
 ]
