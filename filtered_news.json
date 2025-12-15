@@ -1677,5 +1677,13 @@
         "status": "posted",
         "tweet": "Ethereum's validator network in 2025 spans 1.2 million nodes, but infrastructure costs total $480M annually\u2014$400 per node\u2014driving 40% reliance on \ud83c\uddfa\ud83c\uddf8US and \ud83c\udde9\ud83c\uddeaGermany cloud providers, eroding true decentralization.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-12-15",
+        "status": "posted",
+        "tweet": "In 2025, global electric vehicle sales are projected to hit 17 million units, representing 20% of total car sales and displacing 2.5 million barrels of oil per day.",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
