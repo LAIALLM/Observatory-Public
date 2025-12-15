@@ -1670,5 +1670,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-15",
+        "status": "posted",
+        "tweet": "Ethereum's validator network in 2025 spans 1.2 million nodes, but infrastructure costs total $480M annually\u2014$400 per node\u2014driving 40% reliance on \ud83c\uddfa\ud83c\uddf8US and \ud83c\udde9\ud83c\uddeaGermany cloud providers, eroding true decentralization.",
+        "type": "crypto"
     }
 ]
