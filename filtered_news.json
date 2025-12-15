@@ -1856,5 +1856,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: California caps retention at 5% for private construction contracts starting 2026",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-15",
+        "status": "posted",
+        "tweet": "Microsoft Azure infrastructure processes 10 trillion transactions daily across global data centers.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
