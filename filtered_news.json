@@ -1863,5 +1863,117 @@
         "status": "posted",
         "tweet": "Microsoft Azure infrastructure processes 10 trillion transactions daily across global data centers.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WQzJjMTFmWDlWdXk1TmRkNWdXaHpmRHNrRlRlMjlEdDk4NW9yZ2JRU2lyTHdXMGR2bjB0Tmh6d2dUQ2xmU3NFdVZXdVpZQWxiS3hrQjh2UTVYUdIBYkFVX3lxTE5SenBMUzBrTGp0ZjNRMmcxYzVscHJKUk9uS0tQeU5WZTgzV1RuWnh6b0JySERIYklfT0dzdDlNUFRNc05hSEZzS29UNVdRaGFTbDBjdVZvRjBVSUwtaFUzN0dB?oc=5",
+        "date": "2025-12-15",
+        "title": "Dave Kievet - BizTimes - Milwaukee Business News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WQzJjMTFmWDlWdXk1TmRkNWdXaHpmRHNrRlRlMjlEdDk4NW9yZ2JRU2lyTHdXMGR2bjB0Tmh6d2dUQ2xmU3NFdVZXdVpZQWxiS3hrQjh2UTVYUdIBYkFVX3lxTE5SenBMUzBrTGp0ZjNRMmcxYzVscHJKUk9uS0tQeU5WZTgzV1RuWnh6b0JySERIYklfT0dzdDlNUFRNc05hSEZzS29UNVdRaGFTbDBjdVZvRjBVSUwtaFUzN0dB?oc=5\" target=\"_blank\">Dave Kievet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BizTimes - Milwaukee Business News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEppV1JMNmJfSF9pYy10YVlnWmNNMTgtV1lSdGxQTWJTclY3Rm1qeTdrb0lYVVMyRFNLWGQybWtvd1hyQ1owdWNLMzYxdUwzWFB6dVNmQlVhWEpuTWw0Zzh5VW1zcmZkUXUycWxQaTlwbFNSckl0SlNhb1BYQWdxZ1A2c1ZWMzhBUGZLaDdpWjBhdURBeUdYMVFlWFNKNVB0REdj?oc=5",
+        "date": "2025-12-15",
+        "title": "Construction Report: East Asia \u2013 Construction in East Asia - Cranes Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEppV1JMNmJfSF9pYy10YVlnWmNNMTgtV1lSdGxQTWJTclY3Rm1qeTdrb0lYVVMyRFNLWGQybWtvd1hyQ1owdWNLMzYxdUwzWFB6dVNmQlVhWEpuTWw0Zzh5VW1zcmZkUXUycWxQaTlwbFNSckl0SlNhb1BYQWdxZ1A2c1ZWMzhBUGZLaDdpWjBhdURBeUdYMVFlWFNKNVB0REdj?oc=5\" target=\"_blank\">Construction Report: East Asia \u2013 Construction in East Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cranes Today</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUERjdVdiamVrZURnU3dDWGM4TURfOU85RTRURDhwbGtmTXBtYzlSOHM0US1OQUdBOWcxeUJiZ1pyQzRmNGJiTlFfSTg2dG9GY1prVF9Bc3ZLZXNFNlY0WmdXd3NnMWZWMVJVaG1nOVpQNWNxRi00YU1kTkNYM1BvQW9EbldacVJ4bGFYZ0VXcF9aNGNJNXIxWFVRTjJtdjYwQllUOF91MnR3SjJvaUhDeEJ4bkVadw?oc=5",
+        "date": "2025-12-15",
+        "title": "Lighthouse Charity Lunch raises \u00a3270,000 for construction families - Scottish Construction Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUERjdVdiamVrZURnU3dDWGM4TURfOU85RTRURDhwbGtmTXBtYzlSOHM0US1OQUdBOWcxeUJiZ1pyQzRmNGJiTlFfSTg2dG9GY1prVF9Bc3ZLZXNFNlY0WmdXd3NnMWZWMVJVaG1nOVpQNWNxRi00YU1kTkNYM1BvQW9EbldacVJ4bGFYZ0VXcF9aNGNJNXIxWFVRTjJtdjYwQllUOF91MnR3SjJvaUhDeEJ4bkVadw?oc=5\" target=\"_blank\">Lighthouse Charity Lunch raises \u00a3270,000 for construction families</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scottish Construction Now</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUsyUWZLc29uM3lOTmFxT3NCbi1xR1h1TmhDZ3ktelBwMUtacVpocFJqZWU1Tk84a2U1SW9JYkh0djYtYW9nSHMxbmZJQjdUM3EtdFJvQVdId1c5aEFnNkswdlVwUVlIdy0tajFfQXZqeUtuTU1JdTJJNjBVY19PQ2RIanpOUWhWd3dyVGd5dDBzUllud19pR0xuVWlrM2NLd1h6WmlPNTRHWnlsUmFRNk1Mc1M1VWdSczhj?oc=5",
+        "date": "2025-12-15",
+        "title": "Proposed Columbia water rate increase for new infrastructure clears first vote - Tennessee Lookout",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUsyUWZLc29uM3lOTmFxT3NCbi1xR1h1TmhDZ3ktelBwMUtacVpocFJqZWU1Tk84a2U1SW9JYkh0djYtYW9nSHMxbmZJQjdUM3EtdFJvQVdId1c5aEFnNkswdlVwUVlIdy0tajFfQXZqeUtuTU1JdTJJNjBVY19PQ2RIanpOUWhWd3dyVGd5dDBzUllud19pR0xuVWlrM2NLd1h6WmlPNTRHWnlsUmFRNk1Mc1M1VWdSczhj?oc=5\" target=\"_blank\">Proposed Columbia water rate increase for new infrastructure clears first vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tennessee Lookout</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTk96ckgtd3pIN2ZBZkNOOUx3LXRFdW1VM2JGcnlrT1FKMkhMUUJMZGdFQ1RTZ1M5MEVNYU93UG5IUzJYRUZ1QVIwc29JcV9mVThnSW9weFdOdEE0TjFGNXdJZlV2bDcwUHBoWFZJaDA2Yk54RmRkVDBoczFPaU1JWnZHUEp1N084V0E?oc=5",
+        "date": "2025-12-15",
+        "title": "The rise of battery storage as an infrastructure asset - Tech.eu",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQTk96ckgtd3pIN2ZBZkNOOUx3LXRFdW1VM2JGcnlrT1FKMkhMUUJMZGdFQ1RTZ1M5MEVNYU93UG5IUzJYRUZ1QVIwc29JcV9mVThnSW9weFdOdEE0TjFGNXdJZlV2bDcwUHBoWFZJaDA2Yk54RmRkVDBoczFPaU1JWnZHUEp1N084V0E?oc=5\" target=\"_blank\">The rise of battery storage as an infrastructure asset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech.eu</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd2N4bVJ3NGgtWmRXSWJhUkZiUThtVzJCMDUtT3VNNFRCcENpNzIxWVlPMzl2eGtRQzdQT3gwN19YVC0wRVpYMUFNNkluODVZeUI4NlRYV0NwX3BnVXlpanVfcklwR2lwRC1NeFpNaTNUN3NBZHlzTVlOLVFaTkdRcHVJdDhPeTFCeDdidXVPSjBoaFVQMzhidjB5UGFDbV94dGoxY9IBqgFBVV95cUxOV0Nkc0NscEw2YVZDdmt0Q3hmLUd6REd4OTBUbUVRQVE3X0VPQzRrcFB1QTZDMkx1aERDanVnN0ZKcHhIYzNHYy0yaTA3Y0dRRGRlTHNKQUxiWXlUSXhjNXNtcjRxU1lVdGR0VXJkNlZEMXJBX205RlNnR2doYWFBRWtQbFZwX2Nnd2I5d2VNbEJSSVJQd09GT08yQ3ZLcVpPTjdtNFpUSE1pZw?oc=5",
+        "date": "2025-12-15",
+        "title": "Ukraine's Infrastructure Recovery and Economic Growth with German Support - \u0411\u0443\u043a\u0432\u0438",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPd2N4bVJ3NGgtWmRXSWJhUkZiUThtVzJCMDUtT3VNNFRCcENpNzIxWVlPMzl2eGtRQzdQT3gwN19YVC0wRVpYMUFNNkluODVZeUI4NlRYV0NwX3BnVXlpanVfcklwR2lwRC1NeFpNaTNUN3NBZHlzTVlOLVFaTkdRcHVJdDhPeTFCeDdidXVPSjBoaFVQMzhidjB5UGFDbV94dGoxY9IBqgFBVV95cUxOV0Nkc0NscEw2YVZDdmt0Q3hmLUd6REd4OTBUbUVRQVE3X0VPQzRrcFB1QTZDMkx1aERDanVnN0ZKcHhIYzNHYy0yaTA3Y0dRRGRlTHNKQUxiWXlUSXhjNXNtcjRxU1lVdGR0VXJkNlZEMXJBX205RlNnR2doYWFBRWtQbFZwX2Nnd2I5d2VNbEJSSVJQd09GT08yQ3ZLcVpPTjdtNFpUSE1pZw?oc=5\" target=\"_blank\">Ukraine's Infrastructure Recovery and Economic Growth with German Support</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0411\u0443\u043a\u0432\u0438</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\udde6 NEWS: Ukraine advances infrastructure recovery and economic growth with key German support"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWXZXWmh4S1NYMDhyM0E2SnhwYzZBRU9ER0dRZEtLQ0FEd2xOQTFxNm5mQW02RWl4NEcyb2k4eEFqdGc1Y0lYYjN3Tmp2VmtfNzVRU1luZ2xPbkt2R05KaHYzTFNHVndrRHg5cjlHR2VMR05KdUZuX1dvdWhmeGJUaW5OdUVrbjBtMzIyTUU3bw?oc=5",
+        "date": "2025-12-15",
+        "title": "The Top 10 Columbus Urban Development Projects of 2025 - Columbus Underground",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNWXZXWmh4S1NYMDhyM0E2SnhwYzZBRU9ER0dRZEtLQ0FEd2xOQTFxNm5mQW02RWl4NEcyb2k4eEFqdGc1Y0lYYjN3Tmp2VmtfNzVRU1luZ2xPbkt2R05KaHYzTFNHVndrRHg5cjlHR2VMR05KdUZuX1dvdWhmeGJUaW5OdUVrbjBtMzIyTUU3bw?oc=5\" target=\"_blank\">The Top 10 Columbus Urban Development Projects of 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbus Underground</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Top 10 urban development projects set to transform Columbus in 2025."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeWFZb212d1AwV1VfNlllSDB0b1R5QXRKX0tjYmdNVXpRSC1USGZVWjZOeWlBM3JGOHFIT0lBS1hjQ0RuOXdpazhQYXJ4WG5NRUZsakFuY2N2aGJ4Qy1IUTg3ZnpTUzkyNXJvNlpYUVNaUDRDV002SjluUmNwUzRkQTlmZVBKV3hkYnJ4TlZTWU82WVdrLU5n?oc=5",
+        "date": "2025-12-15",
+        "title": "Why We\u2019re Teaching Urban Planning Students To Write Poetry - Next City",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeWFZb212d1AwV1VfNlllSDB0b1R5QXRKX0tjYmdNVXpRSC1USGZVWjZOeWlBM3JGOHFIT0lBS1hjQ0RuOXdpazhQYXJ4WG5NRUZsakFuY2N2aGJ4Qy1IUTg3ZnpTUzkyNXJvNlpYUVNaUDRDV002SjluUmNwUzRkQTlmZVBKV3hkYnJ4TlZTWU82WVdrLU5n?oc=5\" target=\"_blank\">Why We\u2019re Teaching Urban Planning Students To Write Poetry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Next City</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaWJNTDJOV1dfRUhTdVZDMzVsR1FwWWR4T0d6N2UzZFVXSWttQThzYThzdkhzUDluWkxmT1JDalIxUXJMaHBpRXljSnVyWVdka2JLWEFTcWJQWHdyZDJraXBhekVpWG10Z2pReVF4WXo4ZlQxTHVFQi13aVRPbDQ3dXFqSzE5a0xQNVdCLVR5RFdRTmUxd0pzdFd6UlZMZzA?oc=5",
+        "date": "2025-12-15",
+        "title": "Smart City Consulting Market May See Big Move | Major Giants PwC, EY, Deloitte, Hitachi Consulting - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOaWJNTDJOV1dfRUhTdVZDMzVsR1FwWWR4T0d6N2UzZFVXSWttQThzYThzdkhzUDluWkxmT1JDalIxUXJMaHBpRXljSnVyWVdka2JLWEFTcWJQWHdyZDJraXBhekVpWG10Z2pReVF4WXo4ZlQxTHVFQi13aVRPbDQ3dXFqSzE5a0xQNVdCLVR5RFdRTmUxd0pzdFd6UlZMZzA?oc=5\" target=\"_blank\">Smart City Consulting Market May See Big Move | Major Giants PwC, EY, Deloitte, Hitachi Consulting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd2N4bVJ3NGgtWmRXSWJhUkZiUThtVzJCMDUtT3VNNFRCcENpNzIxWVlPMzl2eGtRQzdQT3gwN19YVC0wRVpYMUFNNkluODVZeUI4NlRYV0NwX3BnVXlpanVfcklwR2lwRC1NeFpNaTNUN3NBZHlzTVlOLVFaTkdRcHVJdDhPeTFCeDdidXVPSjBoaFVQMzhidjB5UGFDbV94dGoxY9IBqgFBVV95cUxOV0Nkc0NscEw2YVZDdmt0Q3hmLUd6REd4OTBUbUVRQVE3X0VPQzRrcFB1QTZDMkx1aERDanVnN0ZKcHhIYzNHYy0yaTA3Y0dRRGRlTHNKQUxiWXlUSXhjNXNtcjRxU1lVdGR0VXJkNlZEMXJBX205RlNnR2doYWFBRWtQbFZwX2Nnd2I5d2VNbEJSSVJQd09GT08yQ3ZLcVpPTjdtNFpUSE1pZw?oc=5",
+        "date": "2025-12-15",
+        "title": "Ukraine's Infrastructure Recovery and Economic Growth with German Support - \u0411\u0443\u043a\u0432\u0438",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPd2N4bVJ3NGgtWmRXSWJhUkZiUThtVzJCMDUtT3VNNFRCcENpNzIxWVlPMzl2eGtRQzdQT3gwN19YVC0wRVpYMUFNNkluODVZeUI4NlRYV0NwX3BnVXlpanVfcklwR2lwRC1NeFpNaTNUN3NBZHlzTVlOLVFaTkdRcHVJdDhPeTFCeDdidXVPSjBoaFVQMzhidjB5UGFDbV94dGoxY9IBqgFBVV95cUxOV0Nkc0NscEw2YVZDdmt0Q3hmLUd6REd4OTBUbUVRQVE3X0VPQzRrcFB1QTZDMkx1aERDanVnN0ZKcHhIYzNHYy0yaTA3Y0dRRGRlTHNKQUxiWXlUSXhjNXNtcjRxU1lVdGR0VXJkNlZEMXJBX205RlNnR2doYWFBRWtQbFZwX2Nnd2I5d2VNbEJSSVJQd09GT08yQ3ZLcVpPTjdtNFpUSE1pZw?oc=5\" target=\"_blank\">Ukraine's Infrastructure Recovery and Economic Growth with German Support</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0411\u0443\u043a\u0432\u0438</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\udde6 NEWS: Ukraine boosts infrastructure recovery and economic growth through German support",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWXZXWmh4S1NYMDhyM0E2SnhwYzZBRU9ER0dRZEtLQ0FEd2xOQTFxNm5mQW02RWl4NEcyb2k4eEFqdGc1Y0lYYjN3Tmp2VmtfNzVRU1luZ2xPbkt2R05KaHYzTFNHVndrRHg5cjlHR2VMR05KdUZuX1dvdWhmeGJUaW5OdUVrbjBtMzIyTUU3bw?oc=5",
+        "date": "2025-12-15",
+        "title": "The Top 10 Columbus Urban Development Projects of 2025 - Columbus Underground",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNWXZXWmh4S1NYMDhyM0E2SnhwYzZBRU9ER0dRZEtLQ0FEd2xOQTFxNm5mQW02RWl4NEcyb2k4eEFqdGc1Y0lYYjN3Tmp2VmtfNzVRU1luZ2xPbkt2R05KaHYzTFNHVndrRHg5cjlHR2VMR05KdUZuX1dvdWhmeGJUaW5OdUVrbjBtMzIyTUU3bw?oc=5\" target=\"_blank\">The Top 10 Columbus Urban Development Projects of 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Columbus Underground</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Top 10 urban development projects shaping Columbus in 2025",
+        "type": "news"
     }
 ]
