@@ -2082,5 +2082,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\udde6 NEWS: U.S. private-equity giant KKR eyes opportunities in Canadas infrastructure push $KKR",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-16",
+        "status": "posted",
+        "tweet": "Bitcoin's PoW scalability demands $8.2B in annual energy costs (2025 est.), processing 7 TPS at $50/tx.\n\nSolana's PoH achieves 65,000 TPS for $120M yearly infra, slashing costs by 98%.\n\nScalability gap widens.",
+        "type": "crypto"
     }
 ]
