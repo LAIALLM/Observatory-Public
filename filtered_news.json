@@ -1991,5 +1991,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: 16,000 new homes in pipeline for Adelaide\u2019s north",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-16",
+        "status": "posted",
+        "tweet": "World's top 5 longest metro networks in 2025:\n\n1. \ud83c\udde8\ud83c\uddf3 Beijing, China\n2. \ud83c\udde8\ud83c\uddf3 Shanghai, China\n3. \ud83c\udde8\ud83c\uddf3 Guangzhou, China\n4. \ud83c\udde8\ud83c\uddf3 Shenzhen, China\n5. \ud83c\udde8\ud83c\uddf3 Chengdu, China",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
