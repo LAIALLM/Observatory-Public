@@ -2270,5 +2270,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Central City mixed-use project approved by Planning Commission",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-18",
+        "status": "posted",
+        "tweet": "Ethereum (2025): 1.2M validators across 120+ countries, avg. infra cost $750/yr per node (modest CPU/RAM).\n\nSolana: 2,100 validators, 65% in \ud83c\uddfa\ud83c\uddf8/\ud83c\uddf8\ud83c\uddec, avg. $4,200/yr (high-bandwidth servers).\n\nLower barriers foster broader decentralization.",
+        "type": "crypto"
     }
 ]
