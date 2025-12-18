@@ -1,170 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2025-12-08",
-        "status": "posted",
-        "tweet": "Microsoft's Azure data centers in \ud83c\uddfa\ud83c\uddf8 Virginia consumed 2.5 TWh of energy in 2024, powering AI workloads with 98% renewable sources. $MSFT",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeThkMl9vVXJFMEVUME9CRFFWWFlwd3ptbms1N0hEZVMxcjE0enZJZ0RQWEVxWWtVU1piM3J6VmtJbWFIdEp6dlNZSF9yNWFrYUpBVzhQOW9TMDgyVWl2SjFWUHpUaG1rSUpxUEFnWTEzak9FT29fbFM0YUNJTmpDNlU4ZGdVY1hta24xZkFKWkZtd1hhRTVGampQX3BRa0x0dUlidDJMOG00Sng2WDZHdzJWd1FQd0xlQXRzRWZJRlkzcFQyUDVkV0hn?oc=5",
-        "date": "2025-12-08",
-        "title": "Content versus infrastructure is key battle for Saudi film industry, say investors - Screen Daily",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNeThkMl9vVXJFMEVUME9CRFFWWFlwd3ptbms1N0hEZVMxcjE0enZJZ0RQWEVxWWtVU1piM3J6VmtJbWFIdEp6dlNZSF9yNWFrYUpBVzhQOW9TMDgyVWl2SjFWUHpUaG1rSUpxUEFnWTEzak9FT29fbFM0YUNJTmpDNlU4ZGdVY1hta24xZkFKWkZtd1hhRTVGampQX3BRa0x0dUlidDJMOG00Sng2WDZHdzJWd1FQd0xlQXRzRWZJRlkzcFQyUDVkV0hn?oc=5\" target=\"_blank\">Content versus infrastructure is key battle for Saudi film industry, say investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Screen Daily</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUgxcW1DMkFWNFZ4MlFjeTFMY2tjd3dZUXNPVHZrY2lvdWVWSFREVWxmRDVSdDg5Z3hUUmppOVBsRmJ4NXNFX0NWMTBTcmtQVUlJdjVXOE96amtLVFBWbEdjSko4bHhYTVFiTS1vZ1dEVk1VR3ZjWl9Dc0QwZWo1Yw?oc=5",
-        "date": "2025-12-08",
-        "title": "How Rebellions\u2019 NPU Validation Marks Korea\u2019s Broader Bet on AI Infrastructure and Industry Collaboration - KoreaTechDesk",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUgxcW1DMkFWNFZ4MlFjeTFMY2tjd3dZUXNPVHZrY2lvdWVWSFREVWxmRDVSdDg5Z3hUUmppOVBsRmJ4NXNFX0NWMTBTcmtQVUlJdjVXOE96amtLVFBWbEdjSko4bHhYTVFiTS1vZ1dEVk1VR3ZjWl9Dc0QwZWo1Yw?oc=5\" target=\"_blank\">How Rebellions\u2019 NPU Validation Marks Korea\u2019s Broader Bet on AI Infrastructure and Industry Collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KoreaTechDesk</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVByYWNGN0FkcHNGQ0h0ZGZnY1A5SjhjQ01lUDRCMFpqQWhEa25razFnQ1E5MF9PVVpvdnJQYjZPMzZpdEVnYnNuTWE3VmhyQVBhMFUtSU90S2RjNGUzZ1NvVE1iZmpOWnNoU1J1VVg3d3NZajR2YkswRDA1c3RvTzNFOEFtclFWZ0VFTmpYbV9FX3dkUS1KaVRrVFBMZzFHdDhubkx1Yy00eEVhS3VJb0RVeGUxaDllRjYwVU9DU1RXWEp3YzBhcmlSR3NXbzdVUENV?oc=5",
-        "date": "2025-12-08",
-        "title": "Now, Increased Airport Fees in Thailand to Fund Major Tourism Infrastructure Improvements - Travel And Tour World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVByYWNGN0FkcHNGQ0h0ZGZnY1A5SjhjQ01lUDRCMFpqQWhEa25razFnQ1E5MF9PVVpvdnJQYjZPMzZpdEVnYnNuTWE3VmhyQVBhMFUtSU90S2RjNGUzZ1NvVE1iZmpOWnNoU1J1VVg3d3NZajR2YkswRDA1c3RvTzNFOEFtclFWZ0VFTmpYbV9FX3dkUS1KaVRrVFBMZzFHdDhubkx1Yy00eEVhS3VJb0RVeGUxaDllRjYwVU9DU1RXWEp3YzBhcmlSR3NXbzdVUENV?oc=5\" target=\"_blank\">Now, Increased Airport Fees in Thailand to Fund Major Tourism Infrastructure Improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddf9\ud83c\udded NEWS: Thailand hikes airport fees to fund major tourism infrastructure upgrades."
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUnBGSkwxX2paU1E0SjJ5MldCTGZTOHJpYXM3RGx4ZnpWUHFyNFFpdFZ0dUFJR0ltVWJZR29vMHBweTB1VUJDdkRpMUdEX3d0SDdQRjlWSE9jc1lha090emNOLUktYjFsRzlEUUZHUzNQMy1VdG9TNzJLNDgyNGJnanNPcjNiV0ZW?oc=5",
-        "date": "2025-12-08",
-        "title": "NITP urges Abia govt to implement town planning law - The Guardian Nigeria News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUnBGSkwxX2paU1E0SjJ5MldCTGZTOHJpYXM3RGx4ZnpWUHFyNFFpdFZ0dUFJR0ltVWJZR29vMHBweTB1VUJDdkRpMUdEX3d0SDdQRjlWSE9jc1lha090emNOLUktYjFsRzlEUUZHUzNQMy1VdG9TNzJLNDgyNGJnanNPcjNiV0ZW?oc=5\" target=\"_blank\">NITP urges Abia govt to implement town planning law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian Nigeria News</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVXV0VGtnV2k4SDkxX2NEWi1xTmRIclRmeU5uOW84ZjAtMnRPQkhuUF9SZFR2OUcyNmRjWnEzOHN2VjVic01DX0xQWlUyWHhOLVRLZmxuSlQ1WkNieV9GYllPOC1JbHRBejZFdUpNM3YtRFhaZzJXWFNqdDlmWHdLR2tDQTh0Qm4xZ2FiNFlicmFDbnJ2UTVXekRmY3RMRk54THpkUWozNi0tbmhWeDN0ODVld2N2UkU1cHppTm9mMkpKWFpmVl9Ya1lqRQ?oc=5",
-        "date": "2025-12-08",
-        "title": "South Korean researchers join Birmingham City University to support smart city development - EdTech Innovation Hub",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQVXV0VGtnV2k4SDkxX2NEWi1xTmRIclRmeU5uOW84ZjAtMnRPQkhuUF9SZFR2OUcyNmRjWnEzOHN2VjVic01DX0xQWlUyWHhOLVRLZmxuSlQ1WkNieV9GYllPOC1JbHRBejZFdUpNM3YtRFhaZzJXWFNqdDlmWHdLR2tDQTh0Qm4xZ2FiNFlicmFDbnJ2UTVXekRmY3RMRk54THpkUWozNi0tbmhWeDN0ODVld2N2UkU1cHppTm9mMkpKWFpmVl9Ya1lqRQ?oc=5\" target=\"_blank\">South Korean researchers join Birmingham City University to support smart city development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EdTech Innovation Hub</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVByYWNGN0FkcHNGQ0h0ZGZnY1A5SjhjQ01lUDRCMFpqQWhEa25razFnQ1E5MF9PVVpvdnJQYjZPMzZpdEVnYnNuTWE3VmhyQVBhMFUtSU90S2RjNGUzZ1NvVE1iZmpOWnNoU1J1VVg3d3NZajR2YkswRDA1c3RvTzNFOEFtclFWZ0VFTmpYbV9FX3dkUS1KaVRrVFBMZzFHdDhubkx1Yy00eEVhS3VJb0RVeGUxaDllRjYwVU9DU1RXWEp3YzBhcmlSR3NXbzdVUENV?oc=5",
-        "date": "2025-12-08",
-        "title": "Now, Increased Airport Fees in Thailand to Fund Major Tourism Infrastructure Improvements - Travel And Tour World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVByYWNGN0FkcHNGQ0h0ZGZnY1A5SjhjQ01lUDRCMFpqQWhEa25razFnQ1E5MF9PVVpvdnJQYjZPMzZpdEVnYnNuTWE3VmhyQVBhMFUtSU90S2RjNGUzZ1NvVE1iZmpOWnNoU1J1VVg3d3NZajR2YkswRDA1c3RvTzNFOEFtclFWZ0VFTmpYbV9FX3dkUS1KaVRrVFBMZzFHdDhubkx1Yy00eEVhS3VJb0RVeGUxaDllRjYwVU9DU1RXWEp3YzBhcmlSR3NXbzdVUENV?oc=5\" target=\"_blank\">Now, Increased Airport Fees in Thailand to Fund Major Tourism Infrastructure Improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "(\ud83c\uddf9\ud83c\udded) NEWS: Thailand raises airport fees to fund major tourism infrastructure improvements.",
-        "type": "news"
-    },
-    {
-        "link": null,
-        "date": "2025-12-08",
-        "status": "posted",
-        "tweet": "Estimated min annual cost to run a validator/miner for decentralization (2025, USD incl. hardware/elec/bandwidth).\n\n1. Bitcoin (ASIC miner): $45,000\n2. Solana (high-spec server): $8,500\n3. Ethereum (standard node): $1,200",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGNkNnRBcGhmMWkzUTZPcTVDaFo1OFRpUkc0R0tpMVVoSzFPVzJqS2lvNHUyaG5jeE1KRjg0ZlRFNDA3TXc1SmEwTFV1emczNmZMeVY0WmtZeEo3RGY4am1TZVd1V3BfYzQzcjZzbmpMTk1Ga0NYRjJnWGh4S3lCWkRBel9lQXJVZmtQdU93Z1Y3Y19NMk5JMC1femVBdEpjZGtVc2YzWU5tQ0V5OTVfdDlfcGF5alN6aU15Z0xYd1NNVWw0cFZ2aFphMA?oc=5",
-        "date": "2025-12-08",
-        "title": "NAVFAC EURAFCENT Executes $512 Million in FY25, Boosting Fleet Readiness, Infrastructure Sustainment - DVIDS",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGNkNnRBcGhmMWkzUTZPcTVDaFo1OFRpUkc0R0tpMVVoSzFPVzJqS2lvNHUyaG5jeE1KRjg0ZlRFNDA3TXc1SmEwTFV1emczNmZMeVY0WmtZeEo3RGY4am1TZVd1V3BfYzQzcjZzbmpMTk1Ga0NYRjJnWGh4S3lCWkRBel9lQXJVZmtQdU93Z1Y3Y19NMk5JMC1femVBdEpjZGtVc2YzWU5tQ0V5OTVfdDlfcGF5alN6aU15Z0xYd1NNVWw0cFZ2aFphMA?oc=5\" target=\"_blank\">NAVFAC EURAFCENT Executes $512 Million in FY25, Boosting Fleet Readiness, Infrastructure Sustainment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DVIDS</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: NAVFAC EURAFCENT executes $512M in FY25, enhancing fleet readiness and sustaining key infrastructure across Europe, Africa, and Central regions."
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCV2x4M3Zua2VMR2VMQjgzZVNMN3FsTkhKRFd0MUpBMngzcThCcE50QkNuQV9zWGJ5MzB0MGVJdlREbXg5WXlJbzNoYmpoSlIzcjJFeDRtUHB4cktKUE9oR1R0LWw0MWdPSTREanhaSVZCNTZjenc?oc=5",
-        "date": "2025-12-08",
-        "title": "Guggenheim Investments Eyes Saudi Expansion, Targets Infrastructure and Tech Opportunities - Oil & Gas Middle East",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBCV2x4M3Zua2VMR2VMQjgzZVNMN3FsTkhKRFd0MUpBMngzcThCcE50QkNuQV9zWGJ5MzB0MGVJdlREbXg5WXlJbzNoYmpoSlIzcjJFeDRtUHB4cktKUE9oR1R0LWw0MWdPSTREanhaSVZCNTZjenc?oc=5\" target=\"_blank\">Guggenheim Investments Eyes Saudi Expansion, Targets Infrastructure and Tech Opportunities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oil & Gas Middle East</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaC1CSXdhR3hHbWpKN1hnNWtQSHFqOWtNeDRLVktfVVl2UkZFLWJ4MVFtNThvWkJzcDd1RGtlMkctaXhrZkRXQm14SzlQMGk0VGFCUHQyRW9Jdy1pR0VoS01xZzV6S3dyMk04a3ItY011TFV4SUZfZXVlQ2Vla1hCYnp1SE1aR0xkVmhkZVdIUnQyMVFTWDFLUk5pS3JNSHE4X2R2eG1DcWNXejF0b3FTUk5LQ2VaUnRTRjdwRUtyU0k3aW5z?oc=5",
-        "date": "2025-12-08",
-        "title": "Canadian Solar Infrastructure Fund Reports Resilient November Solar Output - TipRanks",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaC1CSXdhR3hHbWpKN1hnNWtQSHFqOWtNeDRLVktfVVl2UkZFLWJ4MVFtNThvWkJzcDd1RGtlMkctaXhrZkRXQm14SzlQMGk0VGFCUHQyRW9Jdy1pR0VoS01xZzV6S3dyMk04a3ItY011TFV4SUZfZXVlQ2Vla1hCYnp1SE1aR0xkVmhkZVdIUnQyMVFTWDFLUk5pS3JNSHE4X2R2eG1DcWNXejF0b3FTUk5LQ2VaUnRTRjdwRUtyU0k3aW5z?oc=5\" target=\"_blank\">Canadian Solar Infrastructure Fund Reports Resilient November Solar Output</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXQ3cUFUTWI0TkJJOUNoRENNbU9NdmhzYlVDN1pRZ1o1U2JBWm12dkRMSFVqaG9iRERWck1hLUlWT19LbjlHaDQtR2tuOVIxcUFhQXFMeWtvbU15ZERoajFUS0x0SzFSZGtFSHFJbVZ0TnlPMnRiYldWdk5CQVpaWEhhNUstVXRGdWJQZ1BxbVhCeUtyM0RCX3pQUFZ5Nlk?oc=5",
-        "date": "2025-12-08",
-        "title": "EV Charging Infrastructure Market to hit US$204,923.33 million - openPR.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXQ3cUFUTWI0TkJJOUNoRENNbU9NdmhzYlVDN1pRZ1o1U2JBWm12dkRMSFVqaG9iRERWck1hLUlWT19LbjlHaDQtR2tuOVIxcUFhQXFMeWtvbU15ZERoajFUS0x0SzFSZGtFSHFJbVZ0TnlPMnRiYldWdk5CQVpaWEhhNUstVXRGdWJQZ1BxbVhCeUtyM0RCX3pQUFZ5Nlk?oc=5\" target=\"_blank\">EV Charging Infrastructure Market to hit US$204,923.33 million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnJ5eFhzV3ZkTENzem5ITll0VHBTYWJ0RjNjSWd5M3Z1XzlMZDhnVExzSnRTc1J5bV9xdUdQNm9aamw3ckFEQ3JzdnZ1b0x5V1Bkdk0yc0RTcjRIeGwtd2FUS0x0T0lCdVFGWmp4RjVwaF8ycW1OWWVZbVE1aXNUSFFwRjFrd3NHQTRZaldsV25NWGR0a1l4Mml0V3VLOWlKYk13bFRQSUpFdw?oc=5",
-        "date": "2025-12-08",
-        "title": "Fantasy AI Partners With CAI To Boost Scalable AI Companion Infrastructure - BlockchainReporter",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnJ5eFhzV3ZkTENzem5ITll0VHBTYWJ0RjNjSWd5M3Z1XzlMZDhnVExzSnRTc1J5bV9xdUdQNm9aamw3ckFEQ3JzdnZ1b0x5V1Bkdk0yc0RTcjRIeGwtd2FUS0x0T0lCdVFGWmp4RjVwaF8ycW1OWWVZbVE1aXNUSFFwRjFrd3NHQTRZaldsV25NWGR0a1l4Mml0V3VLOWlKYk13bFRQSUpFdw?oc=5\" target=\"_blank\">Fantasy AI Partners With CAI To Boost Scalable AI Companion Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BlockchainReporter</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWUtPNjJfbFl3UTlaTGFkcWdLU2NkMGhCcTdFbmV1Rk56dFh1LTZ5OUt0aDRsZUkwdU9YVkFzRDd0dUYtQ0E5aEtKdDZES3pCdG81YkhzeTBCVVViX3hKTWZwOVV5VUdpazRGM3JXYXdvaE5WR2d0Y0tnclp0MURjNTZqcWxKMHN1T2s1MUVuelEwV3hnVVJlakNEX1M0LWZDTzgycDkxWDFqd0VsSGo2LXdBcUxTT3Q1VjBOYUQ5ZFd3cm1TS1J2dmxNV1c0SzhkZnBvSHhCdUZ0dU5BY0ZRQW9fc0lmb21rTXZJQTZZRmFtWExNTmc?oc=5",
-        "date": "2025-12-08",
-        "title": "EBRD Provides \u20ac16 Million Loan To Cherkasy, Ukraine For Modern Trolleybuses And Infrastructure Upgrades Amid Wartime Challenges - SolarQuarter",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWUtPNjJfbFl3UTlaTGFkcWdLU2NkMGhCcTdFbmV1Rk56dFh1LTZ5OUt0aDRsZUkwdU9YVkFzRDd0dUYtQ0E5aEtKdDZES3pCdG81YkhzeTBCVVViX3hKTWZwOVV5VUdpazRGM3JXYXdvaE5WR2d0Y0tnclp0MURjNTZqcWxKMHN1T2s1MUVuelEwV3hnVVJlakNEX1M0LWZDTzgycDkxWDFqd0VsSGo2LXdBcUxTT3Q1VjBOYUQ5ZFd3cm1TS1J2dmxNV1c0SzhkZnBvSHhCdUZ0dU5BY0ZRQW9fc0lmb21rTXZJQTZZRmFtWExNTmc?oc=5\" target=\"_blank\">EBRD Provides \u20ac16 Million Loan To Cherkasy, Ukraine For Modern Trolleybuses And Infrastructure Upgrades Amid Wartime Challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SolarQuarter</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "(\ud83c\uddfa\ud83c\udde6) NEWS: EBRD provides \u20ac16M loan to Cherkasy for modern trolleybuses and infrastructure upgrades amid wartime challenges"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGNkNnRBcGhmMWkzUTZPcTVDaFo1OFRpUkc0R0tpMVVoSzFPVzJqS2lvNHUyaG5jeE1KRjg0ZlRFNDA3TXc1SmEwTFV1emczNmZMeVY0WmtZeEo3RGY4am1TZVd1V3BfYzQzcjZzbmpMTk1Ga0NYRjJnWGh4S3lCWkRBel9lQXJVZmtQdU93Z1Y3Y19NMk5JMC1femVBdEpjZGtVc2YzWU5tQ0V5OTVfdDlfcGF5alN6aU15Z0xYd1NNVWw0cFZ2aFphMA?oc=5",
-        "date": "2025-12-08",
-        "title": "NAVFAC EURAFCENT Executes $512 Million in FY25, Boosting Fleet Readiness, Infrastructure Sustainment - DVIDS",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGNkNnRBcGhmMWkzUTZPcTVDaFo1OFRpUkc0R0tpMVVoSzFPVzJqS2lvNHUyaG5jeE1KRjg0ZlRFNDA3TXc1SmEwTFV1emczNmZMeVY0WmtZeEo3RGY4am1TZVd1V3BfYzQzcjZzbmpMTk1Ga0NYRjJnWGh4S3lCWkRBel9lQXJVZmtQdU93Z1Y3Y19NMk5JMC1femVBdEpjZGtVc2YzWU5tQ0V5OTVfdDlfcGF5alN6aU15Z0xYd1NNVWw0cFZ2aFphMA?oc=5\" target=\"_blank\">NAVFAC EURAFCENT Executes $512 Million in FY25, Boosting Fleet Readiness, Infrastructure Sustainment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DVIDS</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: NAVFAC EURAFCENT executes $512M in FY25 contracts to boost fleet readiness and sustain key infrastructure.",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWUtPNjJfbFl3UTlaTGFkcWdLU2NkMGhCcTdFbmV1Rk56dFh1LTZ5OUt0aDRsZUkwdU9YVkFzRDd0dUYtQ0E5aEtKdDZES3pCdG81YkhzeTBCVVViX3hKTWZwOVV5VUdpazRGM3JXYXdvaE5WR2d0Y0tnclp0MURjNTZqcWxKMHN1T2s1MUVuelEwV3hnVVJlakNEX1M0LWZDTzgycDkxWDFqd0VsSGo2LXdBcUxTT3Q1VjBOYUQ5ZFd3cm1TS1J2dmxNV1c0SzhkZnBvSHhCdUZ0dU5BY0ZRQW9fc0lmb21rTXZJQTZZRmFtWExNTmc?oc=5",
-        "date": "2025-12-08",
-        "title": "EBRD Provides \u20ac16 Million Loan To Cherkasy, Ukraine For Modern Trolleybuses And Infrastructure Upgrades Amid Wartime Challenges - SolarQuarter",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWUtPNjJfbFl3UTlaTGFkcWdLU2NkMGhCcTdFbmV1Rk56dFh1LTZ5OUt0aDRsZUkwdU9YVkFzRDd0dUYtQ0E5aEtKdDZES3pCdG81YkhzeTBCVVViX3hKTWZwOVV5VUdpazRGM3JXYXdvaE5WR2d0Y0tnclp0MURjNTZqcWxKMHN1T2s1MUVuelEwV3hnVVJlakNEX1M0LWZDTzgycDkxWDFqd0VsSGo2LXdBcUxTT3Q1VjBOYUQ5ZFd3cm1TS1J2dmxNV1c0SzhkZnBvSHhCdUZ0dU5BY0ZRQW9fc0lmb21rTXZJQTZZRmFtWExNTmc?oc=5\" target=\"_blank\">EBRD Provides \u20ac16 Million Loan To Cherkasy, Ukraine For Modern Trolleybuses And Infrastructure Upgrades Amid Wartime Challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SolarQuarter</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "(\ud83c\uddfa\ud83c\udde6) NEWS: EBRD lends \u20ac16M to Cherkasy for modern trolleybuses and infrastructure upgrades, pushing through wartime challenges.",
-        "type": "news"
-    },
-    {
-        "link": null,
-        "date": "2025-12-08",
-        "status": "posted",
-        "tweet": "By 2025, urban development firms globally are projected to invest $1.1 trillion in climate-resilient infrastructure, up 25% from 2024 levels.",
-        "type": "statistical",
-        "category": "urban development firms"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTkdVdFA1dk1OaU9PcG9DREt1alBzc2RaNWlfd1ZaeUtkYUNmaGtIVEVjSVRHRFF5MEd6Z1JwSDF4TWVRUmtEWlY5aWdLQzM5cEJ0ZnQ0X3NRM2dNNmx3ZGVueEZPOHdUamNfM1pCWGNLa1ZPSkZNaEhmODhqVjNyTjkzSmdRUHZ4MWpCUDAyZXZTc1lwZlJYbQ?oc=5",
         "date": "2025-12-09",
         "title": "Applications open for Beck School of Construction - The Business Press",
@@ -2185,5 +2020,12 @@
         "tweet": "\ud83c\udde8\ud83c\uddf3 infrastructure investment 2025: $1.5T\n\n\ud83c\uddfa\ud83c\uddf8: $900B\n\nChina outspends US by 67%, fueling Asia's 45% share of global projects.",
         "type": "statistical",
         "category": "infrastructure companies"
+    },
+    {
+        "link": null,
+        "date": "2025-12-18",
+        "status": "posted",
+        "tweet": "Alphabet's data centers in \ud83c\uddfa\ud83c\uddf8 processed 15 exabytes daily in 2025, supporting AI infrastructure.\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
