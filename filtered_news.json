@@ -2191,5 +2191,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfb\ud83c\uddf3 NEWS: Vietnam kicks off construction on key rail link to China amid major infrastructure spending boom",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-19",
+        "status": "posted",
+        "tweet": "Bitcoin annual mining electricity costs: $0.5B in 2016 \u2192 $12B projected for 2025.",
+        "type": "crypto"
     }
 ]
