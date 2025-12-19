@@ -2205,5 +2205,87 @@
         "status": "posted",
         "tweet": "Microsoft Azure data centers in \ud83c\uddfa\ud83c\uddf8 Virginia achieved a PUE of 1.08 in 2025, processing 20 petabytes daily.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUUZwVnNKQ2xudVpYeWNFX3o2RllKQnFpUGp2U0NTSTUwRXc4RnFWZGV6WHlQeElBeE9XaWJpTklKTnViQktWNExLS3pIRUpkSlpvcEgwX09KdGVOX190ekpxdWNscXF5Tkx5SEo5MkF6ZkgzU0xuSTc0UmZLa01BM2xvRmJQaEVhVV83VUlsUzdLb1ktNVZoOE9VZGlfTi15T2JQU3VnS190a1dDVXNLVVIwMldFV2xXOV9Eb1dhOWhYS3pmUEVSQnZpN29RUQ?oc=5",
+        "date": "2025-12-19",
+        "title": "Oswal Investments Group wins Best Road Construction Company at 2024/2025 GCIEA - GhanaWeb",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNUUZwVnNKQ2xudVpYeWNFX3o2RllKQnFpUGp2U0NTSTUwRXc4RnFWZGV6WHlQeElBeE9XaWJpTklKTnViQktWNExLS3pIRUpkSlpvcEgwX09KdGVOX190ekpxdWNscXF5Tkx5SEo5MkF6ZkgzU0xuSTc0UmZLa01BM2xvRmJQaEVhVV83VUlsUzdLb1ktNVZoOE9VZGlfTi15T2JQU3VnS190a1dDVXNLVVIwMldFV2xXOV9Eb1dhOWhYS3pmUEVSQnZpN29RUQ?oc=5\" target=\"_blank\">Oswal Investments Group wins Best Road Construction Company at 2024/2025 GCIEA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GhanaWeb</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0pZT2otd3BiaDhDckdabUs1TGUtNnN1V3VJbjF3OXNvS0txRFQ1MGxPeGxLZGRqMkxXZFllSlNfS0oxSktZTVBYTlZiYUJUSGluMUYwSlFlWG9VQ0JTTVpWVWt5eDU3WHp1cmtyOTI2OU01ZUZfRkdfWmJDOG5CV1d6VWdFYmJVaU81V19lUGRSdzBZLXVDN0tBVjc?oc=5",
+        "date": "2025-12-19",
+        "title": "PA Asks Court To Release Billions In EV Infrastructure Funds - newtownpanow.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0pZT2otd3BiaDhDckdabUs1TGUtNnN1V3VJbjF3OXNvS0txRFQ1MGxPeGxLZGRqMkxXZFllSlNfS0oxSktZTVBYTlZiYUJUSGluMUYwSlFlWG9VQ0JTTVpWVWt5eDU3WHp1cmtyOTI2OU01ZUZfRkdfWmJDOG5CV1d6VWdFYmJVaU81V19lUGRSdzBZLXVDN0tBVjc?oc=5\" target=\"_blank\">PA Asks Court To Release Billions In EV Infrastructure Funds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newtownpanow.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Pennsylvania seeks court order to unlock billions in EV infrastructure funding."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ybzVtRW5DQlUzejlRWlNzdnJwNlNidEhlNnVBT2d3Ynk3alMzdHM5aXVKQWNwQi1iQW01Sjg4STg1YW43UF9wSVdEZVRYc2FpVF9Z?oc=5",
+        "date": "2025-12-19",
+        "title": "Improving US Power Infrastructure Ahead of Energy Demand - WebProNews",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ybzVtRW5DQlUzejlRWlNzdnJwNlNidEhlNnVBT2d3Ynk3alMzdHM5aXVKQWNwQi1iQW01Sjg4STg1YW43UF9wSVdEZVRYc2FpVF9Z?oc=5\" target=\"_blank\">Improving US Power Infrastructure Ahead of Energy Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WebProNews</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWDBtMFc1TXJOY0FIc0gwRjd4SHdmRmMyQ1IzUkhuWUlDeFhQWE5CMU1sNnZudzRna1Axa1JmR1E0WncwMllzRXY2blBKNWpoV1lncG9XTldPaWt5aWNsRFRzSWRITmFtTlJyWlpUdkpIeXRaTndydWYtNjlJUVVBenV6RzZSNWgwbDFuby12TXUtM0MwVDROenYzMm44bURtZTJQNGE5bVRmOE4yYlNDWDVLRWZJdGh1REtnZzBOYk5Jd2VZQzN1NVdwUnlYaGxBbUN2SDBNRDA0bFk?oc=5",
+        "date": "2025-12-19",
+        "title": "Satellite Connectivity in Asia: Infrastructure Realities, Momentum, and Strategies - Telecom Review Asia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWDBtMFc1TXJOY0FIc0gwRjd4SHdmRmMyQ1IzUkhuWUlDeFhQWE5CMU1sNnZudzRna1Axa1JmR1E0WncwMllzRXY2blBKNWpoV1lncG9XTldPaWt5aWNsRFRzSWRITmFtTlJyWlpUdkpIeXRaTndydWYtNjlJUVVBenV6RzZSNWgwbDFuby12TXUtM0MwVDROenYzMm44bURtZTJQNGE5bVRmOE4yYlNDWDVLRWZJdGh1REtnZzBOYk5Jd2VZQzN1NVdwUnlYaGxBbUN2SDBNRDA0bFk?oc=5\" target=\"_blank\">Satellite Connectivity in Asia: Infrastructure Realities, Momentum, and Strategies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telecom Review Asia</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdGxfNWd0ckptWWxva2o4VmRvTkpiNUNoeVVGek9oNjVDNlZMUml3M2ZvdTYycXB5azI5MFFWYmZ6VUR2T0ltSkZpcVU0OTJ5cloyS3JrUEloVVdMdzU4bGlYb2Z6cDJLNGZnWDBRaG1MVzNFODc3VWtUYlRlUjJzQ3dDclNXZFduZVlUTHgxSXBRT0NZVnZUZFdCTGt0OGxFTmJTVmVIZklXRTdlUjdlWUF0RllWZw?oc=5",
+        "date": "2025-12-19",
+        "title": "Chinese researchers reveal how urban heat sources intensify extreme heat events - Az\u0259rtac",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdGxfNWd0ckptWWxva2o4VmRvTkpiNUNoeVVGek9oNjVDNlZMUml3M2ZvdTYycXB5azI5MFFWYmZ6VUR2T0ltSkZpcVU0OTJ5cloyS3JrUEloVVdMdzU4bGlYb2Z6cDJLNGZnWDBRaG1MVzNFODc3VWtUYlRlUjJzQ3dDclNXZFduZVlUTHgxSXBRT0NZVnZUZFdCTGt0OGxFTmJTVmVIZklXRTdlUjdlWUF0RllWZw?oc=5\" target=\"_blank\">Chinese researchers reveal how urban heat sources intensify extreme heat events</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Az\u0259rtac</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVkwWW1ueno3M0N1U0NfNE9YR2pTaTFUUk1yTlBVOHZIVVEwVnlJQVRIQzR6OEFadDMtZUktUGhMaWF0dXlud0U4STF4Uk9HclN1SkNqNFgtYXlyQ0ZLTWNiYnFXRXE1cnFMUnBSTVFjRm1PY2dMdW9qOHJ6T3NtUUdkUjFNOG1kclVqb0U4VzlaTllsRENOUW9fZGNGZE81dkNLRkI4cHFFakdEOUhrZjk5cmJ2WEtORXRhdUhKUGJuQQ?oc=5",
+        "date": "2025-12-19",
+        "title": "Ha Noi breaks ground on seven major projects to celebrate 14th National Party Congress - Nhan Dan Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVkwWW1ueno3M0N1U0NfNE9YR2pTaTFUUk1yTlBVOHZIVVEwVnlJQVRIQzR6OEFadDMtZUktUGhMaWF0dXlud0U4STF4Uk9HclN1SkNqNFgtYXlyQ0ZLTWNiYnFXRXE1cnFMUnBSTVFjRm1PY2dMdW9qOHJ6T3NtUUdkUjFNOG1kclVqb0U4VzlaTllsRENOUW9fZGNGZE81dkNLRkI4cHFFakdEOUhrZjk5cmJ2WEtORXRhdUhKUGJuQQ?oc=5\" target=\"_blank\">Ha Noi breaks ground on seven major projects to celebrate 14th National Party Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nhan Dan Online</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": "\ud83c\uddfb\ud83c\uddf3 NEWS: Ha Noi breaks ground on seven major projects to celebrate 14th National Party Congress"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVkwWW1ueno3M0N1U0NfNE9YR2pTaTFUUk1yTlBVOHZIVVEwVnlJQVRIQzR6OEFadDMtZUktUGhMaWF0dXlud0U4STF4Uk9HclN1SkNqNFgtYXlyQ0ZLTWNiYnFXRXE1cnFMUnBSTVFjRm1PY2dMdW9qOHJ6T3NtUUdkUjFNOG1kclVqb0U4VzlaTllsRENOUW9fZGNGZE81dkNLRkI4cHFFakdEOUhrZjk5cmJ2WEtORXRhdUhKUGJuQQ?oc=5",
+        "date": "2025-12-19",
+        "title": "Ha Noi breaks ground on seven major projects to celebrate 14th National Party Congress - Nhan Dan Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVkwWW1ueno3M0N1U0NfNE9YR2pTaTFUUk1yTlBVOHZIVVEwVnlJQVRIQzR6OEFadDMtZUktUGhMaWF0dXlud0U4STF4Uk9HclN1SkNqNFgtYXlyQ0ZLTWNiYnFXRXE1cnFMUnBSTVFjRm1PY2dMdW9qOHJ6T3NtUUdkUjFNOG1kclVqb0U4VzlaTllsRENOUW9fZGNGZE81dkNLRkI4cHFFakdEOUhrZjk5cmJ2WEtORXRhdUhKUGJuQQ?oc=5\" target=\"_blank\">Ha Noi breaks ground on seven major projects to celebrate 14th National Party Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nhan Dan Online</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddfb\ud83c\uddf3 NEWS: Hanoi breaks ground on seven major projects to celebrate the 14th National Party Congress",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0pZT2otd3BiaDhDckdabUs1TGUtNnN1V3VJbjF3OXNvS0txRFQ1MGxPeGxLZGRqMkxXZFllSlNfS0oxSktZTVBYTlZiYUJUSGluMUYwSlFlWG9VQ0JTTVpWVWt5eDU3WHp1cmtyOTI2OU01ZUZfRkdfWmJDOG5CV1d6VWdFYmJVaU81V19lUGRSdzBZLXVDN0tBVjc?oc=5",
+        "date": "2025-12-19",
+        "title": "PA Asks Court To Release Billions In EV Infrastructure Funds - newtownpanow.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0pZT2otd3BiaDhDckdabUs1TGUtNnN1V3VJbjF3OXNvS0txRFQ1MGxPeGxLZGRqMkxXZFllSlNfS0oxSktZTVBYTlZiYUJUSGluMUYwSlFlWG9VQ0JTTVpWVWt5eDU3WHp1cmtyOTI2OU01ZUZfRkdfWmJDOG5CV1d6VWdFYmJVaU81V19lUGRSdzBZLXVDN0tBVjc?oc=5\" target=\"_blank\">PA Asks Court To Release Billions In EV Infrastructure Funds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newtownpanow.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Pennsylvania asks court to release billions in funds for EV infrastructure projects",
+        "type": "news"
     }
 ]
