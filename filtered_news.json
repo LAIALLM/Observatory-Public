@@ -2198,5 +2198,12 @@
         "status": "posted",
         "tweet": "Bitcoin annual mining electricity costs: $0.5B in 2016 \u2192 $12B projected for 2025.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-12-19",
+        "status": "posted",
+        "tweet": "Microsoft Azure data centers in \ud83c\uddfa\ud83c\uddf8 Virginia achieved a PUE of 1.08 in 2025, processing 20 petabytes daily.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
