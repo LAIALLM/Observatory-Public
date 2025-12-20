@@ -2076,5 +2076,13 @@
         "status": "posted",
         "tweet": "Microsoft's Azure cloud infrastructure processed 75 petabytes of data daily across its global network in 2025.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-20",
+        "status": "posted",
+        "tweet": "By 2025, global urban population will reach 4.4 billion,\n\n58% of humanity\u2014up from 56% in 2020.\n\nThis surge requires $3.7 trillion yearly in infrastructure.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
