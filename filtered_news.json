@@ -2069,5 +2069,12 @@
         "status": "posted",
         "tweet": "Annual data center electricity costs for blockchains in 2025:\n\n1. Bitcoin: $2.1B (global mining farms)\n2. Ethereum: $450M (validator nodes)\n3. Solana: $120M (high-throughput clusters)",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-12-20",
+        "status": "posted",
+        "tweet": "Microsoft's Azure cloud infrastructure processed 75 petabytes of data daily across its global network in 2025.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
