@@ -2062,5 +2062,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Pennsylvania asks court to release billions in funds for EV infrastructure projects",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-20",
+        "status": "posted",
+        "tweet": "Annual data center electricity costs for blockchains in 2025:\n\n1. Bitcoin: $2.1B (global mining farms)\n2. Ethereum: $450M (validator nodes)\n3. Solana: $120M (high-throughput clusters)",
+        "type": "crypto"
     }
 ]
