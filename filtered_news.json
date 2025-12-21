@@ -2005,5 +2005,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: IRB Infrastructure to manage Rs 6,785-crore TOT-17 highway project and calls EGM for RPT approval $IRB",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-21",
+        "status": "posted",
+        "tweet": "Bitcoin annual electricity costs for network security & maintenance: $6 billion.\n\nEthereum (post-Merge PoS): $150,000.\n\n40,000x efficiency gap in infrastructural spend.",
+        "type": "crypto"
     }
 ]
