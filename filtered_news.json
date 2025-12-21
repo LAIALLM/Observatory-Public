@@ -1929,5 +1929,13 @@
         "status": "posted",
         "tweet": "(\ud83c\uddf5\ud83c\uddf8) NEWS: Kushner and Witkoff draft $112B proposal to transform Gaza into a futuristic smart city",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-21",
+        "status": "posted",
+        "tweet": "2025 renewable engineering projections:\n\n\ud83c\udde8\ud83c\uddf3 China: 200 GW new solar + wind capacity added\n\n\ud83c\uddfa\ud83c\uddf8 US: 40 GW added\n\nChina's output 5x the US total.",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
