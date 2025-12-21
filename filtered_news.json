@@ -2142,5 +2142,35 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPejYyTm1RSUN4S1BPRDhfTy1sa2sybkxUS3I2WjBfdHpkU0hnMW4yMXN3dlYteUNrY19JeDNzOXktWU9aLXBFOTR6SEk5d3g5b1hwNWNMM2lIbTdocmZoYTdsOEpwcGprakJheWVEWFZCVGo5VXlSTk5famQyZlZpREtJZmE1azVjV1FPVThra3l4QVF5WGhTeTZ0MG5vYWIxUTdlSHF5OW1pY2d1Zm94YThNbnF5VVZMaWlHQ0V1WHNGQ0hfT0xLTjVKNzA?oc=5",
+        "date": "2025-12-21",
+        "title": "More than $450M in grants awarded to N.Y. water infrastructure projects - Spectrum News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPejYyTm1RSUN4S1BPRDhfTy1sa2sybkxUS3I2WjBfdHpkU0hnMW4yMXN3dlYteUNrY19JeDNzOXktWU9aLXBFOTR6SEk5d3g5b1hwNWNMM2lIbTdocmZoYTdsOEpwcGprakJheWVEWFZCVGo5VXlSTk5famQyZlZpREtJZmE1azVjV1FPVThra3l4QVF5WGhTeTZ0MG5vYWIxUTdlSHF5OW1pY2d1Zm94YThNbnF5VVZMaWlHQ0V1WHNGQ0hfT0xLTjVKNzA?oc=5\" target=\"_blank\">More than $450M in grants awarded to N.Y. water infrastructure projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2tydXhScFQtcEFlWjJnLU1qUnJRYk5rRzFSTGd3SEpPUDVuSkZyQThhUU9XMVl5ajNtWGpaYUxueWhrYWU3cHpJa1FLb1VvajMwamRqMnk3cldKQTRuRlg1ZVhkaHU2dW1JV2NxYTJ6Ry1hNGhWNDl4SzFFSFRaNlZfU1FQSnhxajhWd1VNU2gzZUJaNHlNRU03YVpuT3lDSTYw?oc=5",
+        "date": "2025-12-21",
+        "title": "Is Data Infrastructure Trust Starting a New Uptrend - Risk Management Strategies & Capital Efficiency Improvement - Bollywood Helpline",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2tydXhScFQtcEFlWjJnLU1qUnJRYk5rRzFSTGd3SEpPUDVuSkZyQThhUU9XMVl5ajNtWGpaYUxueWhrYWU3cHpJa1FLb1VvajMwamRqMnk3cldKQTRuRlg1ZVhkaHU2dW1JV2NxYTJ6Ry1hNGhWNDl4SzFFSFRaNlZfU1FQSnhxajhWd1VNU2gzZUJaNHlNRU03YVpuT3lDSTYw?oc=5\" target=\"_blank\">Is Data Infrastructure Trust Starting a New Uptrend - Risk Management Strategies & Capital Efficiency Improvement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bollywood Helpline</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1l2VjAteFp3allTVk9qRFoyTVVNS2RmTjBlVFFMbndiMXdyc1ZCLXhIOFJPNjRiWkNyNjRNT1dtMjMtQU90OEs4YXMzTTdYS1EwSHBmY1hEQi1JWnJuOE5XVGVQU2ExS1FldzNkLXVpVlZtQzlzVExiU0JXTlNLSktjWW52UnRERVhydE1vR0RsQl9sMlJFa1U5bExOdkdLSUluTTU5Vm5HcVc3MWI5VDJnR0hCYU1xRU9IVW1YT0xLc2lTWkxjZVBR?oc=5",
+        "date": "2025-12-21",
+        "title": "Ghana needs a dedicated fund for health infrastructure - Abena Osei-Asare - GhanaWeb",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1l2VjAteFp3allTVk9qRFoyTVVNS2RmTjBlVFFMbndiMXdyc1ZCLXhIOFJPNjRiWkNyNjRNT1dtMjMtQU90OEs4YXMzTTdYS1EwSHBmY1hEQi1JWnJuOE5XVGVQU2ExS1FldzNkLXVpVlZtQzlzVExiU0JXTlNLSktjWW52UnRERVhydE1vR0RsQl9sMlJFa1U5bExOdkdLSUluTTU5Vm5HcVc3MWI5VDJnR0hCYU1xRU9IVW1YT0xLc2lTWkxjZVBR?oc=5\" target=\"_blank\">Ghana needs a dedicated fund for health infrastructure - Abena Osei-Asare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GhanaWeb</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
