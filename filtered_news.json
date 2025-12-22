@@ -2037,5 +2037,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 By 2025, US infrastructure investments under IIJA will total $300 billion in roads and bridges, reducing commute times by 15% in major cities.",
         "type": "statistical",
         "category": "infrastructural projects"
+    },
+    {
+        "link": null,
+        "date": "2025-12-22",
+        "status": "posted",
+        "tweet": "Bitcoin vs. Solana (2025 est.):\n\nBitcoin: 7 TPS, $7.5B annual energy cost.\n\nSolana: 2,000 TPS, $100M annual ops cost.\n\nSolana delivers 286x throughput at 1.3% of Bitcoin's cost.",
+        "type": "crypto"
     }
 ]
