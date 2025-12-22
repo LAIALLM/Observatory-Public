@@ -2029,5 +2029,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Delhi Metro expansion sparks 50% surge in passenger volume this December",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-22",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 By 2025, US infrastructure investments under IIJA will total $300 billion in roads and bridges, reducing commute times by 15% in major cities.",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
