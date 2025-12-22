@@ -2044,5 +2044,12 @@
         "status": "posted",
         "tweet": "Bitcoin vs. Solana (2025 est.):\n\nBitcoin: 7 TPS, $7.5B annual energy cost.\n\nSolana: 2,000 TPS, $100M annual ops cost.\n\nSolana delivers 286x throughput at 1.3% of Bitcoin's cost.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-12-22",
+        "status": "posted",
+        "tweet": "Google Cloud infrastructure handled 120 exabytes of data daily in 2025.\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
