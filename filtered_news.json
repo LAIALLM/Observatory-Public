@@ -2152,5 +2152,106 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddea NEWS: Taraf and Masdar City partner to develop 153-acre Fay Hills community",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM05jOWpoMmFmSVR0V19zRTFPSEdIUUxqSmlrdm1GLUhZSnVKd3dpLTdwT0l2WFFNZURQZ2tZcVRuVHZiMmNMVnVKZERzUlNldVE0VVpuQ2EwNWdlVWQtc2hGQmo1TzJ3ejM4RkJBY21Zc0VOYmF3VjdQd3FUaGJuSFE2emxmWlFUWk9DYmRDMDgzeHBXMlpRNWE0T1pKVzU4WDVQRlhFdEYza2I3aUJfY3VXTzFyek5qUHkzME1DdnpLZmVOZW8xYzFmUUJyMFpIeGZF?oc=5",
+        "date": "2025-12-23",
+        "title": "SMX Expands Precious Metals Strategy Through New Identity Infrastructure Partnerships - USA Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM05jOWpoMmFmSVR0V19zRTFPSEdIUUxqSmlrdm1GLUhZSnVKd3dpLTdwT0l2WFFNZURQZ2tZcVRuVHZiMmNMVnVKZERzUlNldVE0VVpuQ2EwNWdlVWQtc2hGQmo1TzJ3ejM4RkJBY21Zc0VOYmF3VjdQd3FUaGJuSFE2emxmWlFUWk9DYmRDMDgzeHBXMlpRNWE0T1pKVzU4WDVQRlhFdEYza2I3aUJfY3VXTzFyek5qUHkzME1DdnpLZmVOZW8xYzFmUUJyMFpIeGZF?oc=5\" target=\"_blank\">SMX Expands Precious Metals Strategy Through New Identity Infrastructure Partnerships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTFEcE9qZkwyRkI4eFUycEdOcklPLS1oN24zeG50OFRTOWhNcWh3UVhaWlJ4NFQwcVk2aENBQV9wQ0tqRjdQYTk5X19hT2RsdmlTTWdyclVQdUcxVE90elVSWEZfODUzcEhLTXpMOFJvcHZzOWJzWnlzeFI5VXNJVGcxdFdHRWxzZjExeVBNT051WFJSWU5nNUZIejA0eEh5SEZDYTRJTktzejFp?oc=5",
+        "date": "2025-12-23",
+        "title": "Dell and Equinix Partner to Bring Cloud-Adjacent Infrastructure to Hybrid IT - ChannelE2E",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTFEcE9qZkwyRkI4eFUycEdOcklPLS1oN24zeG50OFRTOWhNcWh3UVhaWlJ4NFQwcVk2aENBQV9wQ0tqRjdQYTk5X19hT2RsdmlTTWdyclVQdUcxVE90elVSWEZfODUzcEhLTXpMOFJvcHZzOWJzWnlzeFI5VXNJVGcxdFdHRWxzZjExeVBNT051WFJSWU5nNUZIejA0eEh5SEZDYTRJTktzejFp?oc=5\" target=\"_blank\">Dell and Equinix Partner to Bring Cloud-Adjacent Infrastructure to Hybrid IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ChannelE2E</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMFFJaVdMQXRUbEhqYjJmZFZBaV9MalU0UEM2c01JTnFVSmFhVXc1S0xnVm9BZ3BfTTZvXzZkT2ozQ3dFUjBTSXRYOXZCTnl3TWtPaXY3dzdpcnhsa1JwdzdZQlRwWnlvMXM3MG9Na0VsdzM1SE5naHdIU0YtWFBsdUcwSUxjd2oxb2xNWUlTUHdFZlZfSnI0OVpyQ3lHUzNnV0FraWkzQnZ5VFhLSndLWFZteU45RExfYlE?oc=5",
+        "date": "2025-12-23",
+        "title": "How Railroads can Deliver What Congress Promised: Better Infrastructure - Railway Age",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQMFFJaVdMQXRUbEhqYjJmZFZBaV9MalU0UEM2c01JTnFVSmFhVXc1S0xnVm9BZ3BfTTZvXzZkT2ozQ3dFUjBTSXRYOXZCTnl3TWtPaXY3dzdpcnhsa1JwdzdZQlRwWnlvMXM3MG9Na0VsdzM1SE5naHdIU0YtWFBsdUcwSUxjd2oxb2xNWUlTUHdFZlZfSnI0OVpyQ3lHUzNnV0FraWkzQnZ5VFhLSndLWFZteU45RExfYlE?oc=5\" target=\"_blank\">How Railroads can Deliver What Congress Promised: Better Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Railway Age</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPY1RFelcwa01iN2xiSV9tMzBmVk9pVWlFQ2RvTDZYRm5vMFhxMTRaakdVUFpEVVRHbFNPV3RmRTJvWmtQcHZzZ2djT2Nvc0ZfY0FzX3MtVjNXb1RLajFVdGZLdGxNazZRczNVcS11TUtRSGpET28tWWJVMVVMQUxUZlY5ZDkxVXM2aUJwbEp4SWxtYk02UnRqbE9yUTJJNnJOUE5HaE9tSnJNRVhaU3NQdVl6SHhTVjRQOENsd3FDbVRab09aLWxpR0VaSElIeVZ5eUlfZVJpM3RWTk1KajUtQWJ0R3E0STRTbEV1bGF6QTNySnlfUk5EeTFuZGpDQ25RMmhxTFRJcVg?oc=5",
+        "date": "2025-12-23",
+        "title": "The AI Infrastructure Paradox: Mass Deployment Meets Physical Limits in the Race for Compute Supremacy - FinancialContent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxPY1RFelcwa01iN2xiSV9tMzBmVk9pVWlFQ2RvTDZYRm5vMFhxMTRaakdVUFpEVVRHbFNPV3RmRTJvWmtQcHZzZ2djT2Nvc0ZfY0FzX3MtVjNXb1RLajFVdGZLdGxNazZRczNVcS11TUtRSGpET28tWWJVMVVMQUxUZlY5ZDkxVXM2aUJwbEp4SWxtYk02UnRqbE9yUTJJNnJOUE5HaE9tSnJNRVhaU3NQdVl6SHhTVjRQOENsd3FDbVRab09aLWxpR0VaSElIeVZ5eUlfZVJpM3RWTk1KajUtQWJ0R3E0STRTbEV1bGF6QTNySnlfUk5EeTFuZGpDQ25RMmhxTFRJcVg?oc=5\" target=\"_blank\">The AI Infrastructure Paradox: Mass Deployment Meets Physical Limits in the Race for Compute Supremacy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinancialContent</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTV9VdFRHVE1OQVhMMWhITnl5RVI0RUxwTjl0UjlRTTJpMHpvZ1JqSVg5YW9HbVhtTU1UT2lFRjBmc1JERWg3LXhzM2licy1pMy03a3J2R0JlWkxxcVd2dnA5QnJ1dm1YbUI1NjZtT0dLVmVxQm41Q3UzTFVjRTBSRkw1TGl5ZjRYTHBWX2hUa2FBTU51bzNUTmpQcVRCRkFpd2NHM001ZVYyd0FVTjRTakhoam5iall2R1FXTzRpX3N6djd5OC1YNDY1bVRwOFREMnVGctIB2gFBVV95cUxPSmdPazBGWFpfRm85WElOZkZ6cWhDTmc1RFhqb1lOMGVoNnBRc3poazQwV2FxeFhRenJRLUZkSjl1UE5sSnlic2ttNVFkMmRNUy16SmFob0FqWUtPT2FvbXFVTE5Na0FmR3hwRVpyeGF6eDVxWE1hSmY2dVB6MlFLYUdQRXhoMmJJbG1ubm9IdXZ1OVM1QTVJWDZjeHUxMEtIWlBqT0FyZEZlRko5cFdQMmlOeVg0VmZxU0U5VVFnNHdqY3luTTVlZzNCYS1JckJNNTZheGdfUF9EUQ?oc=5",
+        "date": "2025-12-23",
+        "title": "Infrastructure installed ahead of paid parking rollout early next year in parts of Old Towne Orange - Orange County Register",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTV9VdFRHVE1OQVhMMWhITnl5RVI0RUxwTjl0UjlRTTJpMHpvZ1JqSVg5YW9HbVhtTU1UT2lFRjBmc1JERWg3LXhzM2licy1pMy03a3J2R0JlWkxxcVd2dnA5QnJ1dm1YbUI1NjZtT0dLVmVxQm41Q3UzTFVjRTBSRkw1TGl5ZjRYTHBWX2hUa2FBTU51bzNUTmpQcVRCRkFpd2NHM001ZVYyd0FVTjRTakhoam5iall2R1FXTzRpX3N6djd5OC1YNDY1bVRwOFREMnVGctIB2gFBVV95cUxPSmdPazBGWFpfRm85WElOZkZ6cWhDTmc1RFhqb1lOMGVoNnBRc3poazQwV2FxeFhRenJRLUZkSjl1UE5sSnlic2ttNVFkMmRNUy16SmFob0FqWUtPT2FvbXFVTE5Na0FmR3hwRVpyeGF6eDVxWE1hSmY2dVB6MlFLYUdQRXhoMmJJbG1ubm9IdXZ1OVM1QTVJWDZjeHUxMEtIWlBqT0FyZEZlRko5cFdQMmlOeVg0VmZxU0U5VVFnNHdqY3luTTVlZzNCYS1JckJNNTZheGdfUF9EUQ?oc=5\" target=\"_blank\">Infrastructure installed ahead of paid parking rollout early next year in parts of Old Towne Orange</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orange County Register</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQckdlcktlbG1mYzI5NjFaU2RHcUM0X3E1eHRJWHJUYVFwTW1EZUl2aUdLNnNjV1daZTN3eWwzM3hGQ0ZzNVdiWllzM1MyUDU3LUJHd3EyTnJkcU5VbEFnc2dFcVByT05rY3RDOUw4VllmeklnUDdHenBlbUg5dFViZWx5eFpHVzV4Q0pnSDB2eGFBRkdlUXljTEhzNzA2THdUTHRYMkktMnJLZ0cweWU4RFFLano3bUU0cXhySA?oc=5",
+        "date": "2025-12-23",
+        "title": "Village Farms: Greenhouse Discipline Turning Cannabis Into Export Infrastructure (VFF) - Seeking Alpha",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQckdlcktlbG1mYzI5NjFaU2RHcUM0X3E1eHRJWHJUYVFwTW1EZUl2aUdLNnNjV1daZTN3eWwzM3hGQ0ZzNVdiWllzM1MyUDU3LUJHd3EyTnJkcU5VbEFnc2dFcVByT05rY3RDOUw4VllmeklnUDdHenBlbUg5dFViZWx5eFpHVzV4Q0pnSDB2eGFBRkdlUXljTEhzNzA2THdUTHRYMkktMnJLZ0cweWU4RFFLano3bUU0cXhySA?oc=5\" target=\"_blank\">Village Farms: Greenhouse Discipline Turning Cannabis Into Export Infrastructure (VFF)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0psRWNDZ09OWFVjTWxhbzUxTkMxZTliWGxtQ2hYemgwQi1yaFpHSzJudFVSb3FYWUM2UUFjYnFQRkExamJoUU45Zk5yNEpfQzlZY3VBVl9RSjV0TzdSYWlfYmVlekt2bWQtX2tlZWFNWGR2M0lnUExqVFd0c2t1UGJBTzNpaklhb0xFTjR0dldSbk40MFBlbVN5OA?oc=5",
+        "date": "2025-12-23",
+        "title": "Lagos to step up control of informal spaces across the state - EnviroNews Nigeria",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0psRWNDZ09OWFVjTWxhbzUxTkMxZTliWGxtQ2hYemgwQi1yaFpHSzJudFVSb3FYWUM2UUFjYnFQRkExamJoUU45Zk5yNEpfQzlZY3VBVl9RSjV0TzdSYWlfYmVlekt2bWQtX2tlZWFNWGR2M0lnUExqVFd0c2t1UGJBTzNpaklhb0xFTjR0dldSbk40MFBlbVN5OA?oc=5\" target=\"_blank\">Lagos to step up control of informal spaces across the state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EnviroNews Nigeria</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddf3\ud83c\uddec NEWS: Lagos plans to tighten oversight of informal urban spaces statewide to improve regulation and development."
+    },
+    {
+        "link": "https://www.constructiondive.com/news/top-infrastructure-construction-news-2025/808570/",
+        "date": "2025-12-23",
+        "title": "Top infrastructure construction news of 2025",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/1n0zxdLWxajaR9RxPqY8dbtA0z3MSrSXMhXQkEn9sFk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CcmlkZ2UtR2FsbGVyeS1QaG90by1KdWx5LTIwMjUtMzYuanBn.webp\" /></div></figure><p>President Donald Trump's return to the White House meant a whipsaw course for policy and funding that impacts infrastructure projects.&nbsp;</p>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.smartcitiesdive.com/news/highway-rail-crossing-safety-legislation-congress/808579/",
+        "date": "2025-12-23",
+        "title": "Bill to improve highway-rail crossing safety moves out of U.S. House committee",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/jjGnPtzE464yJvgiG_n_kwYiHD4Of4ZL4CqOhDXF8F8/g:nowe:0:231/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI4ODUzNDE3LmpwZw==.webp\" /></div></figure><p>The legislation would direct states to show how they would work with railroads and other stakeholders to reduce pedestrian deaths and suicides along railroad tracks.</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0psRWNDZ09OWFVjTWxhbzUxTkMxZTliWGxtQ2hYemgwQi1yaFpHSzJudFVSb3FYWUM2UUFjYnFQRkExamJoUU45Zk5yNEpfQzlZY3VBVl9RSjV0TzdSYWlfYmVlekt2bWQtX2tlZWFNWGR2M0lnUExqVFd0c2t1UGJBTzNpaklhb0xFTjR0dldSbk40MFBlbVN5OA?oc=5",
+        "date": "2025-12-23",
+        "title": "Lagos to step up control of informal spaces across the state - EnviroNews Nigeria",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0psRWNDZ09OWFVjTWxhbzUxTkMxZTliWGxtQ2hYemgwQi1yaFpHSzJudFVSb3FYWUM2UUFjYnFQRkExamJoUU45Zk5yNEpfQzlZY3VBVl9RSjV0TzdSYWlfYmVlekt2bWQtX2tlZWFNWGR2M0lnUExqVFd0c2t1UGJBTzNpaklhb0xFTjR0dldSbk40MFBlbVN5OA?oc=5\" target=\"_blank\">Lagos to step up control of informal spaces across the state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EnviroNews Nigeria</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "(\ud83c\uddf3\ud83c\uddec) NEWS: Lagos plans stricter oversight of informal urban spaces statewide to enhance regulation and safety.",
+        "type": "news"
     }
 ]
