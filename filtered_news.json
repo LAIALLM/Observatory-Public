@@ -2014,5 +2014,12 @@
         "status": "posted",
         "tweet": "Global Bitcoin mining hardware spending hit $5.2B in 2024.\n\nProjected to reach $7.1B in 2025 as advanced ASICs drive up costs for efficiency.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-12-23",
+        "status": "posted",
+        "tweet": "Meta's data centers process 1.2 zettabytes of data annually in 2025, fueling AI-driven content delivery.\n\n$META",
+        "type": "infrastructure"
     }
 ]
