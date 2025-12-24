@@ -2105,5 +2105,12 @@
         "tweet": "By 2050, Africa's population will double to 2.5 billion, accounting for over 25% of the world's total\u2014driven by high fertility rates in \ud83c\uddf3\ud83c\uddecNigeria and \ud83c\uddea\ud83c\uddf9Ethiopia.",
         "type": "statistical",
         "category": "population"
+    },
+    {
+        "link": null,
+        "date": "2025-12-24",
+        "status": "posted",
+        "tweet": "Bitcoin's 18,000 full nodes in 2025 consume 15 GWh annually in electricity.\n\nYet 55% are concentrated in \ud83c\uddfa\ud83c\uddf8 and \ud83c\udde9\ud83c\uddea, inflating infrastructural costs by 40% due to higher regional energy prices.",
+        "type": "crypto"
     }
 ]
