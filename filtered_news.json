@@ -1986,5 +1986,12 @@
         "tweet": "Projected largest urban populations in 2025\n\n\ud83c\uddef\ud83c\uddf5 Tokyo: 37.2 million  \n\ud83c\uddee\ud83c\uddf3 Delhi: 33.8 million  \n\ud83c\udde8\ud83c\uddf3 Shanghai: 29.6 million  \n\ud83c\udde7\ud83c\udde9 Dhaka: 23.9 million  \n\ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo: 22.8 million",
         "type": "statistical",
         "category": "urban development"
+    },
+    {
+        "link": null,
+        "date": "2025-12-25",
+        "status": "posted",
+        "tweet": "Bitcoin mining (PoW) incurs ~$8B in annual global electricity costs (2024 est.).\n\nEthereum staking (PoS) totals ~$50M in validator hardware/ops expenses yearly.\n\nPoS slashes infra costs by 99%+.",
+        "type": "crypto"
     }
 ]
