@@ -2023,5 +2023,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-25",
+        "status": "posted",
+        "tweet": "Amazon's AWS cloud infrastructure in \ud83c\uddfa\ud83c\uddf8US regions supported 15 million active servers globally in 2025, up 25% from 2024.\n\n$AMZN",
+        "type": "infrastructure"
     }
 ]
