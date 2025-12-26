@@ -2062,5 +2062,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 New EPA regulations on crypto mining energy use will add $3.2B to Bitcoin infrastructure costs in 2025, a 35% increase from 2024 due to mandatory carbon audits and grid compliance.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2025-12-26",
+        "status": "posted",
+        "tweet": "Global population reaches 8.2 billion in 2025, growing by 83 million since 2022.",
+        "type": "statistical",
+        "category": "population"
     }
 ]
