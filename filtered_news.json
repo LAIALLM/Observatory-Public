@@ -2055,5 +2055,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-26",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New EPA regulations on crypto mining energy use will add $3.2B to Bitcoin infrastructure costs in 2025, a 35% increase from 2024 due to mandatory carbon audits and grid compliance.",
+        "type": "crypto"
     }
 ]
