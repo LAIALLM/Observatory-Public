@@ -1958,5 +1958,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-27",
+        "status": "posted",
+        "tweet": "By 2025, Singapore \ud83c\uddf8\ud83c\uddec achieves 90% IoT sensor coverage in urban areas, slashing energy use by 35%.\n\nGlobally, only 40% of cities reach 50% coverage, limiting savings to 15%.",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
