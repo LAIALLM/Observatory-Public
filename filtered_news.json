@@ -1986,5 +1986,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-27",
+        "status": "posted",
+        "tweet": "Bitcoin: 7 TPS, $7.5B annual energy cost.\n\nSolana: 2,000 TPS, $1M annual energy cost.\n\n286x higher throughput at 1/7,500th the infrastructural cost.",
+        "type": "crypto"
     }
 ]
