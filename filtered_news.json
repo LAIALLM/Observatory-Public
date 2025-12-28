@@ -2184,5 +2184,12 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-28",
+        "status": "posted",
+        "tweet": "Ethereum: 1.5M validators across 100+ countries, home staking costs ~$50/month on basic hardware.\n\nSolana: 2,500 validators, 60% in \ud83c\uddfa\ud83c\uddf8US/\ud83c\udde9\ud83c\uddeaGermany, requiring high-end servers at $1,500+/month.\n\nEthereum's decentralization cuts infra costs 70% vs Solana in 2025.",
+        "type": "crypto"
     }
 ]
