@@ -2232,5 +2232,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Uttar Pradeshs Heritage Corridor showcases modern development while preserving cultural sites.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZU5hTWJJVHY4T0daOG1vRUxDdzg2cXZXLVc0V1k3bC1iaXFIb1VVcWY1aFdXVF9RTXp2aDV5N2NfQ0JZYkZBak9JZUFuUGs0c0YxUEtYVGpUUzh5RUphNmxxeVFNRHR4cEhjMHg0SnBhaE1fcGhENDJYeUtQQVpLQmFRdnVVYk9wTnRzNTVkckI1Z3lMTmVVTDlmMWgwcmxmYmJZX01JUHo5Tk9pR1ZtNXFRd2o2NGRBM2R6VV90TEFwVnMtLUlGREpMM25EZWF1NTRuOUFQZk0?oc=5",
+        "date": "2025-12-28",
+        "title": "GFX TECH Builds Next-Generation AI Financial Decision Infrastructure - FinancialContent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZU5hTWJJVHY4T0daOG1vRUxDdzg2cXZXLVc0V1k3bC1iaXFIb1VVcWY1aFdXVF9RTXp2aDV5N2NfQ0JZYkZBak9JZUFuUGs0c0YxUEtYVGpUUzh5RUphNmxxeVFNRHR4cEhjMHg0SnBhaE1fcGhENDJYeUtQQVpLQmFRdnVVYk9wTnRzNTVkckI1Z3lMTmVVTDlmMWgwcmxmYmJZX01JUHo5Tk9pR1ZtNXFRd2o2NGRBM2R6VV90TEFwVnMtLUlGREpMM25EZWF1NTRuOUFQZk0?oc=5\" target=\"_blank\">GFX TECH Builds Next-Generation AI Financial Decision Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinancialContent</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRlY2TllBVHZady1iYXJnNFJVZ01GSEVScUx4bGtTRG90NjFZN3hxY3pTVDNoZHdmTkx1UjNLY2VHNHZ0VWdEanBuMV9pblVqVW95NVZMWmctbWw2dUQwS2pkd1F2bDFtLUpuWHFKU1NTLXBXQW9vVjJWU1hnX3daN1N5LWh0VWxkTE1sME14Y2doeWlNZTllWWZ3bm5QVHR4MzZNZzNyYkF5T0lQSVRDd1Ntb2lkd0RMdE5iUkdqa3NmS0lPcGpHa19kbHRNSU5DaWZ1SnZLV3J0YmZmbDFSWG81bUNlalhUQWl5Nm9NTUdhcGRfUVBVbC1B?oc=5",
+        "date": "2025-12-28",
+        "title": "Jim Cramer Points Investors Toward \u201cPipelines and Similar Infrastructure Plays\u201d Like Enterprise Products for Energy Exposure - Insider Monkey",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRlY2TllBVHZady1iYXJnNFJVZ01GSEVScUx4bGtTRG90NjFZN3hxY3pTVDNoZHdmTkx1UjNLY2VHNHZ0VWdEanBuMV9pblVqVW95NVZMWmctbWw2dUQwS2pkd1F2bDFtLUpuWHFKU1NTLXBXQW9vVjJWU1hnX3daN1N5LWh0VWxkTE1sME14Y2doeWlNZTllWWZ3bm5QVHR4MzZNZzNyYkF5T0lQSVRDd1Ntb2lkd0RMdE5iUkdqa3NmS0lPcGpHa19kbHRNSU5DaWZ1SnZLV3J0YmZmbDFSWG81bUNlalhUQWl5Nm9NTUdhcGRfUVBVbC1B?oc=5\" target=\"_blank\">Jim Cramer Points Investors Toward \u201cPipelines and Similar Infrastructure Plays\u201d Like Enterprise Products for Energy Exposure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
