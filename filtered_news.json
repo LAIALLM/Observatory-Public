@@ -2322,5 +2322,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-28",
+        "status": "posted",
+        "tweet": "By 2030, global infrastructure companies must invest $15 trillion in resilient assets to combat climate risks, per World Bank projections for 2025-2030.",
+        "type": "statistical",
+        "category": "infrastructure companies"
     }
 ]
