@@ -2381,5 +2381,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-29",
+        "status": "posted",
+        "tweet": "Microsoft Azure's \ud83c\uddfa\ud83c\uddf8 Virginia data center processes 3 exabytes of cloud data daily in 2025.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
