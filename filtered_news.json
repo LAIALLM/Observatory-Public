@@ -2264,5 +2264,122 @@
         "status": "posted",
         "tweet": "\ud83c\uddea\ud83c\uddec NEWS: Egyptian Countryside Development Company to extend power infrastructure across Western Minya",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-29",
+        "status": "posted",
+        "tweet": "Regulatory impacts on Bitcoin mining infrastructure costs in 2025 total $10B+ globally.\n\n1. \ud83c\udde8\ud83c\uddf3China ban relocation: $6B in new site builds.\n2. \ud83c\uddea\ud83c\uddfaEU carbon taxes: 25% energy cost surge.\n3. \ud83c\uddfa\ud83c\uddf8US efficiency rules: $1.5B compliance upgrades.",
+        "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUV1eVdtTEx6M2I1U3Y1N0VxVzg5YlBGYkRyWUgycjBsUEFXVTVoc1daSXA0MTNrWHBTRmFfRjNHeW93Rjc1YlVmeGo4blhHNFFJU1l6M1pSc3FMckYxdC1TWWJGQVFGME4tbFVLZENnajlNbTFnWk1SQ1BuQ1NGMmpqRzJTd1cwOUFIaHdyXzgtWC1vQ2xr0gGcAUFVX3lxTFA3WGJzbnpiMFZobzkza05rM3I2blVxMTMzZFdFUWlVR3I3X2ZtSFdvZGx0RWZvdDhhMzJ1Vlk3Q3pOcGl4S1lJNEpxMzVEbkhNT3BDcmM0NkI5Wi1MeVZPUHlaTm92NDFOT3ZwTUZZTEZXazZTMmVaZENUNHdoeW5scTRGa011aUVKRjA0NGNxNFVmbXpwNUtnVEp2Nw?oc=5",
+        "date": "2025-12-29",
+        "title": "Construction company MGL Group positions for growth after turnover tops \u00a3171m - Business Live",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUV1eVdtTEx6M2I1U3Y1N0VxVzg5YlBGYkRyWUgycjBsUEFXVTVoc1daSXA0MTNrWHBTRmFfRjNHeW93Rjc1YlVmeGo4blhHNFFJU1l6M1pSc3FMckYxdC1TWWJGQVFGME4tbFVLZENnajlNbTFnWk1SQ1BuQ1NGMmpqRzJTd1cwOUFIaHdyXzgtWC1vQ2xr0gGcAUFVX3lxTFA3WGJzbnpiMFZobzkza05rM3I2blVxMTMzZFdFUWlVR3I3X2ZtSFdvZGx0RWZvdDhhMzJ1Vlk3Q3pOcGl4S1lJNEpxMzVEbkhNT3BDcmM0NkI5Wi1MeVZPUHlaTm92NDFOT3ZwTUZZTEZXazZTMmVaZENUNHdoeW5scTRGa011aUVKRjA0NGNxNFVmbXpwNUtnVEp2Nw?oc=5\" target=\"_blank\">Construction company MGL Group positions for growth after turnover tops \u00a3171m</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Live</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUJTUThiT2lzT3AtLUdXTTU1ZmFoT1NnazBIMmJ4R0hIalVyVGlHcUdsQ3R4NC1xRTVhenpnWDRqXy1nYXlVMElLU29QdG9WeXk4SExkeVI1SUROZm5sQTFCeVctZ3doQ05EX3FYT3Z4d0dOcGRPTXF5UXpmZndVNC1GNEdwNTFLU1hpQ2FJRUx0UmF0QVZRX3VQSGx0ZGR4ajRaa3dMelpReW1YLVh6WkJZOWtDUQ?oc=5",
+        "date": "2025-12-29",
+        "title": "Rebuilding Digital Trust: Lessons from Critical Infrastructure - THINK Digital Partners",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUJTUThiT2lzT3AtLUdXTTU1ZmFoT1NnazBIMmJ4R0hIalVyVGlHcUdsQ3R4NC1xRTVhenpnWDRqXy1nYXlVMElLU29QdG9WeXk4SExkeVI1SUROZm5sQTFCeVctZ3doQ05EX3FYT3Z4d0dOcGRPTXF5UXpmZndVNC1GNEdwNTFLU1hpQ2FJRUx0UmF0QVZRX3VQSGx0ZGR4ajRaa3dMelpReW1YLVh6WkJZOWtDUQ?oc=5\" target=\"_blank\">Rebuilding Digital Trust: Lessons from Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">THINK Digital Partners</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWFjUFQwWG9XcXJoZ016VEJDOGtmZDBTaXdJZ3Z6SFFaWWE1V2k0QWFxNFJqM1B2Q0ZsVVNobV9RYW9jTUlZU21DLURpXzE5Zi1XRUdyQ3VMeWxRLVY4Tm9FMkU3TFRGLUlBdkM3Y0VWc3lXcUJGOW1RSHQzSnVQVWFKdVlWT3NZSUNSWGM2Tm1jUzRtNndkWkdORWk3QlZ6LTJpNVlhZWRMYWI0YmNST3lrakdvQjlhWUNV?oc=5",
+        "date": "2025-12-29",
+        "title": "Hosted.com\u2019s WordPress Hosting Infrastructure Enhancements for Uptime and Performance - martechseries.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWFjUFQwWG9XcXJoZ016VEJDOGtmZDBTaXdJZ3Z6SFFaWWE1V2k0QWFxNFJqM1B2Q0ZsVVNobV9RYW9jTUlZU21DLURpXzE5Zi1XRUdyQ3VMeWxRLVY4Tm9FMkU3TFRGLUlBdkM3Y0VWc3lXcUJGOW1RSHQzSnVQVWFKdVlWT3NZSUNSWGM2Tm1jUzRtNndkWkdORWk3QlZ6LTJpNVlhZWRMYWI0YmNST3lrakdvQjlhWUNV?oc=5\" target=\"_blank\">Hosted.com\u2019s WordPress Hosting Infrastructure Enhancements for Uptime and Performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">martechseries.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbTVLZ0xYUGZYZEJvbGlTZXZ1Zlp4aWNYakJ3a01ya3BIckhETXZMNl9FNDhSQXJpWHJLS1l5M011M3llNF9uZUxYVVdDZHRYcmJwcDJPXzhQa0hxV1lhNVFYYzFkU2ZpUVVNaDdiS2R4VXVLVTVzOTF5Q3lvMG5xT3hZOEplV1JteVVCbi1Ld1poZ282S0dEQjNYNkNVb0VHMmFva19sRGw?oc=5",
+        "date": "2025-12-29",
+        "title": "WelcomeVille Investment Associa: Infrastructure, Data, and the Future of Finance - vocal.media",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbTVLZ0xYUGZYZEJvbGlTZXZ1Zlp4aWNYakJ3a01ya3BIckhETXZMNl9FNDhSQXJpWHJLS1l5M011M3llNF9uZUxYVVdDZHRYcmJwcDJPXzhQa0hxV1lhNVFYYzFkU2ZpUVVNaDdiS2R4VXVLVTVzOTF5Q3lvMG5xT3hZOEplV1JteVVCbi1Ld1poZ282S0dEQjNYNkNVb0VHMmFva19sRGw?oc=5\" target=\"_blank\">WelcomeVille Investment Associa: Infrastructure, Data, and the Future of Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vocal.media</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNWWFGcmN6TEpUNi1ZbFVmZjNCMnk1aXlJaVZsNjhmNm5vbkR0SE0wb29uYUo2c2lyUjFuWkdFcGpLcWt3bjZOcHk3Mk5mQ2FneV9DYUdQa25mNDBJM01DLXRPMFI5ZWprNEVGVDhGSWhnR0tELWpDb0tTVE9OSExMZGdNS0Rpa241cVVTQWhxRWxsNVhPSlRuUTU1VkhtSTZoWFNSajJxdVgxaW1VRE4zaUxHQlFkNTc5ZW9hSjJ6N1JXTGJIcGZJZnhDYXQwcnpCVF9PX2pXRElZYXZrS1F0dXRMcnhpbUR2QW5RcFBELU1HS05wT0lwT2J2VXM3aHgwcGoycGk0YUJoRjUteXZhWnZPRnp4UWU2?oc=5",
+        "date": "2025-12-29",
+        "title": "New Tourism Tax In Angola To Fuel Growth And Infrastructure Development As Government Unveils Comprehensive Strategy To Transform The Sector - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNWWFGcmN6TEpUNi1ZbFVmZjNCMnk1aXlJaVZsNjhmNm5vbkR0SE0wb29uYUo2c2lyUjFuWkdFcGpLcWt3bjZOcHk3Mk5mQ2FneV9DYUdQa25mNDBJM01DLXRPMFI5ZWprNEVGVDhGSWhnR0tELWpDb0tTVE9OSExMZGdNS0Rpa241cVVTQWhxRWxsNVhPSlRuUTU1VkhtSTZoWFNSajJxdVgxaW1VRE4zaUxHQlFkNTc5ZW9hSjJ6N1JXTGJIcGZJZnhDYXQwcnpCVF9PX2pXRElZYXZrS1F0dXRMcnhpbUR2QW5RcFBELU1HS05wT0lwT2J2VXM3aHgwcGoycGk0YUJoRjUteXZhWnZPRnp4UWU2?oc=5\" target=\"_blank\">New Tourism Tax In Angola To Fuel Growth And Infrastructure Development As Government Unveils Comprehensive Strategy To Transform The Sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT245QS1ibjZFMGdZUEJGQVZ2ZDl4MWprNTNfeU1JeHNWVU9HQUxkdmpHak1Sa0ROQ3JQcUpnWG5mU2x3RGxSSlVWbEFCX094VlZYalZwZEtVX1JOTjVGX3dUR1loc3JnS09zVE5MSGp1YkVKN0JGYkVObDhZaW5UY3BEN1JZajJjaU1COUxvaFUxaHB4dHFjOUlzdW5LOUJ5VWVHUjFucjJUT1YyLXJjNF94SFBoZw?oc=5",
+        "date": "2025-12-29",
+        "title": "Fortinet delivers Isolated Infrastructure acceleration for the AI factory with NVIDIA - varindia.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPT245QS1ibjZFMGdZUEJGQVZ2ZDl4MWprNTNfeU1JeHNWVU9HQUxkdmpHak1Sa0ROQ3JQcUpnWG5mU2x3RGxSSlVWbEFCX094VlZYalZwZEtVX1JOTjVGX3dUR1loc3JnS09zVE5MSGp1YkVKN0JGYkVObDhZaW5UY3BEN1JZajJjaU1COUxvaFUxaHB4dHFjOUlzdW5LOUJ5VWVHUjFucjJUT1YyLXJjNF94SFBoZw?oc=5\" target=\"_blank\">Fortinet delivers Isolated Infrastructure acceleration for the AI factory with NVIDIA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">varindia.com</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQOVZmR2cxZGkxcXdOU3FveWtBZVBJRHhVbnVYOUZPODRRdXY1MDFObXplY1g2S2pZcm1NdDdLT1dWRFpSWDgzRnhXay0zZlVQaDZjQzl1dkxIT1JZS0NaSi15SzJwLTFHWXRmbndNSGl5a3Zac0lfTlVQWnh4VlVPVlhBVDdRMndMR1lhYTRvV3p5NFpMbWRDb0dMYWduZ19GWU9PeXJPeVRmd3BCajcxTU9vTEI0UzExQjM2QkNZMHkwc1FWLW9iSTVsckI4UXB1enhSWkR2RjVPT0paRXNaWVBYZmJvTkFYWVRNTS1ZTFBiSEU4dXY2SERtVDFQYUdKc29HN2Jjc1lGclljaGttX2YtblUzbXk5N3Z1OVRPVE54dkVLMXBGcmxESng4dkQ2?oc=5",
+        "date": "2025-12-29",
+        "title": "India\u2019s Growing Role as a Leading Global Travel Destination in 2026: What Travelers Can Expect from the Country\u2019s Expanding Tourism Sector and New Infrastructure - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxQOVZmR2cxZGkxcXdOU3FveWtBZVBJRHhVbnVYOUZPODRRdXY1MDFObXplY1g2S2pZcm1NdDdLT1dWRFpSWDgzRnhXay0zZlVQaDZjQzl1dkxIT1JZS0NaSi15SzJwLTFHWXRmbndNSGl5a3Zac0lfTlVQWnh4VlVPVlhBVDdRMndMR1lhYTRvV3p5NFpMbWRDb0dMYWduZ19GWU9PeXJPeVRmd3BCajcxTU9vTEI0UzExQjM2QkNZMHkwc1FWLW9iSTVsckI4UXB1enhSWkR2RjVPT0paRXNaWVBYZmJvTkFYWVRNTS1ZTFBiSEU4dXY2SERtVDFQYUdKc29HN2Jjc1lGclljaGttX2YtblUzbXk5N3Z1OVRPVE54dkVLMXBGcmxESng4dkQ2?oc=5\" target=\"_blank\">India\u2019s Growing Role as a Leading Global Travel Destination in 2026: What Travelers Can Expect from the Country\u2019s Expanding Tourism Sector and New Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOSzlfcmtTSzZWV1Q1ekZPSWVPQXhJX2tfYmhFc21OMmE5N0RjZm5aODZSbjZQQUJpMUJUTGo4WHdLRWJIUnlvMWRXYS10WFNhbjkxdTI2VzhqZE5QOVZ0TUJnNmNzRWVmb3NRY21JSnhZVURWOUZObndaZG1hZEZ3TDZ3aWgzb3JYamRQS25CSFp0NWp1a1RGVU1xRWh6VnJ4V0djOHdCbzc2Y0E0QkJnM1FSZURKcXZUdHNUTHRyQ1JrNUVja0NiNFBmSkllV056dDJyVHVtQnNuMGsya3lkSG5sR2JxYUVRVnN1bDFWdVBUdUFpTGFLWW11SzZjOS04WkN0TWhlRkxQZmlUSS1VdTY4RW5MUFJpdDdyY181OUxNSlRVMlRQU0V0WkdIR2ZyUzJ0VGdDbjJDV0RxQm5DMFQtUnVfSmphS3ZZd0wxVGpWT2M2bTdj?oc=5",
+        "date": "2025-12-29",
+        "title": "UAE Positions Sharjah As A Top Global Tourism Destination With Thirty-eight percent Growth In 2025, Sharjah Fuelled By Strategic Infrastructure Projects And Rising Indian Market Engagement - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxOSzlfcmtTSzZWV1Q1ekZPSWVPQXhJX2tfYmhFc21OMmE5N0RjZm5aODZSbjZQQUJpMUJUTGo4WHdLRWJIUnlvMWRXYS10WFNhbjkxdTI2VzhqZE5QOVZ0TUJnNmNzRWVmb3NRY21JSnhZVURWOUZObndaZG1hZEZ3TDZ3aWgzb3JYamRQS25CSFp0NWp1a1RGVU1xRWh6VnJ4V0djOHdCbzc2Y0E0QkJnM1FSZURKcXZUdHNUTHRyQ1JrNUVja0NiNFBmSkllV056dDJyVHVtQnNuMGsya3lkSG5sR2JxYUVRVnN1bDFWdVBUdUFpTGFLWW11SzZjOS04WkN0TWhlRkxQZmlUSS1VdTY4RW5MUFJpdDdyY181OUxNSlRVMlRQU0V0WkdIR2ZyUzJ0VGdDbjJDV0RxQm5DMFQtUnVfSmphS3ZZd0wxVGpWT2M2bTdj?oc=5\" target=\"_blank\">UAE Positions Sharjah As A Top Global Tourism Destination With Thirty-eight percent Growth In 2025, Sharjah Fuelled By Strategic Infrastructure Projects And Rising Indian Market Engagement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkJOMWNSMnFaQldUX0E2NG9ScWZYYWxLdk5NU3dwUS1yTEVIcEJ2X2tXZ2Z3WGg1bkZJSFFWZUF6RGxxQlJfNkx0MkZVbG5tWk1ScjFYekJOZ0h0NDNEZzdWdFpZX1pmTjBHdW5XZzVzYTk1S1pwcVRYSTBNQXVwZl9pMnF2LWstcHpZSDdtQkMwT0NKVndIZDVIR2lBNVVETFBfMGNGZEw2WkluVm1Z?oc=5",
+        "date": "2025-12-29",
+        "title": "Is Setubandhan Infrastructure Limited (533605) a Good Long Term Bet - Fibonacci Extensions & Free Turn Volatility To Profit - bollywoodhelpline.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkJOMWNSMnFaQldUX0E2NG9ScWZYYWxLdk5NU3dwUS1yTEVIcEJ2X2tXZ2Z3WGg1bkZJSFFWZUF6RGxxQlJfNkx0MkZVbG5tWk1ScjFYekJOZ0h0NDNEZzdWdFpZX1pmTjBHdW5XZzVzYTk1S1pwcVRYSTBNQXVwZl9pMnF2LWstcHpZSDdtQkMwT0NKVndIZDVIR2lBNVVETFBfMGNGZEw2WkluVm1Z?oc=5\" target=\"_blank\">Is Setubandhan Infrastructure Limited (533605) a Good Long Term Bet - Fibonacci Extensions & Free Turn Volatility To Profit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bollywoodhelpline.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMjBqdFZrUlhVUnlVbU5sMjlOeW9XTkM1dlk3amY1Wk1iSHNDMzFRRjJwNFJIUnFXSEVKSWhpNzNVcG1uM2x3ZTZfV3Jyb251WlU0YUN2cW1YQlp6UHFLT0RienhFUFQzLVQ5djE4WGJ4NUFVZE9zX24yZTBhallOUmFfcWJaMDJBaWlvR0Q5R3I5Zkc0UDRMczFQWGlRdGdFazNxYTREMXpqdnExM3dtcXdPWV85c0x2Z2c?oc=5",
+        "date": "2025-12-29",
+        "title": "Sri Havisha Hospitality and Infrastructure Limited (531322) Expands into New Market - Sector Performance Drivers & Free Dashboard to Track Market Momentum - bollywoodhelpline.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPMjBqdFZrUlhVUnlVbU5sMjlOeW9XTkM1dlk3amY1Wk1iSHNDMzFRRjJwNFJIUnFXSEVKSWhpNzNVcG1uM2x3ZTZfV3Jyb251WlU0YUN2cW1YQlp6UHFLT0RienhFUFQzLVQ5djE4WGJ4NUFVZE9zX24yZTBhallOUmFfcWJaMDJBaWlvR0Q5R3I5Zkc0UDRMczFQWGlRdGdFazNxYTREMXpqdnExM3dtcXdPWV85c0x2Z2c?oc=5\" target=\"_blank\">Sri Havisha Hospitality and Infrastructure Limited (531322) Expands into New Market - Sector Performance Drivers & Free Dashboard to Track Market Momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bollywoodhelpline.com</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ya0FsempISUtkb2pUYW94N1A1dGVOR1dSN25OMHZHWjdFdFJvUU9sU0paMnE4ZXc2b2FiZ2FIX3BGMkI0SUFLMHduSGdjUHNlNlF6RA?oc=5",
+        "date": "2025-12-29",
+        "title": "Azerbaijan Urban Planning Chief meets UN Resident Coordinator - AzerNews",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ya0FsempISUtkb2pUYW94N1A1dGVOR1dSN25OMHZHWjdFdFJvUU9sU0paMnE4ZXc2b2FiZ2FIX3BGMkI0SUFLMHduSGdjUHNlNlF6RA?oc=5\" target=\"_blank\">Azerbaijan Urban Planning Chief meets UN Resident Coordinator</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AzerNews</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
