@@ -2505,5 +2505,35 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmlSWXExQkpsbzd5dUJDdWtsUzFoT0RFSHE0b3d4elpFY1piRWtua1hzOE9Zd21qUGZNLWt5b20tUlVBN0pyZzJrRFJnQVR4QVkybUFXMjZwRXZGTU5LRW5EWHFOYW1wS1MwYlg0RHZ1TW55ZERIY3F4RkstbHhzNWJobHA5QTJMV2tpc05UNngzQll3WnlZUW9UZHBBUGtvcW1VN2dwZ05EbHJzTHl3ag?oc=5",
+        "date": "2025-12-30",
+        "title": "Qatar: Over 7,000 building permits issued in nine-months - ZAWYA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmlSWXExQkpsbzd5dUJDdWtsUzFoT0RFSHE0b3d4elpFY1piRWtua1hzOE9Zd21qUGZNLWt5b20tUlVBN0pyZzJrRFJnQVR4QVkybUFXMjZwRXZGTU5LRW5EWHFOYW1wS1MwYlg0RHZ1TW55ZERIY3F4RkstbHhzNWJobHA5QTJMV2tpc05UNngzQll3WnlZUW9UZHBBUGtvcW1VN2dwZ05EbHJzTHl3ag?oc=5\" target=\"_blank\">Qatar: Over 7,000 building permits issued in nine-months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZAWYA</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORS1PRWZielQ3VDFHb2tFMThfTFpldGhfOWJrUE0wRHJEUGdSQ3MwREd4Y1F1UFRaeGZhM0N0TWFUczZfOHh3V1kzOXQtRFgzRHNRelVnbVk3UHdYRHJ2V0Q3TS1wOHlhWWR1am45SGswV0lRRUszbGdvR3BBbnNlRk1WQjU0RlBWemJBOTRRM2lJaHBZQTI2dFI0UQ?oc=5",
+        "date": "2025-12-30",
+        "title": "Can we bring US infrastructure into the modern era? - Innovation News Network",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxORS1PRWZielQ3VDFHb2tFMThfTFpldGhfOWJrUE0wRHJEUGdSQ3MwREd4Y1F1UFRaeGZhM0N0TWFUczZfOHh3V1kzOXQtRFgzRHNRelVnbVk3UHdYRHJ2V0Q3TS1wOHlhWWR1am45SGswV0lRRUszbGdvR3BBbnNlRk1WQjU0RlBWemJBOTRRM2lJaHBZQTI2dFI0UQ?oc=5\" target=\"_blank\">Can we bring US infrastructure into the modern era?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Innovation News Network</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUUFLaUVEYnYxZ25BSWdoUXNPN0ZNRFZQT0JubF9oVDJlSkVVZnUzMEU1WW1aNUk4S2JvRnVhejJOM3pmdkVZVEhnMlB5ZGZGTnk3dkVfQU1EU1FVTWhYZ3h4V2lEcVRfbU9fZW1rUzZ0MXh3NXR6bVliMng5RElfZEhhWG5Xcm01SDgxRldzOHJhN1JMV0M1MUJERXV5T201dUVvcnVR?oc=5",
+        "date": "2025-12-30",
+        "title": "UK EV charging infrastructure: 2025's policy and tech trends - EV Infrastructure News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNUUFLaUVEYnYxZ25BSWdoUXNPN0ZNRFZQT0JubF9oVDJlSkVVZnUzMEU1WW1aNUk4S2JvRnVhejJOM3pmdkVZVEhnMlB5ZGZGTnk3dkVfQU1EU1FVTWhYZ3h4V2lEcVRfbU9fZW1rUzZ0MXh3NXR6bVliMng5RElfZEhhWG5Xcm01SDgxRldzOHJhN1JMV0M1MUJERXV5T201dUVvcnVR?oc=5\" target=\"_blank\">UK EV charging infrastructure: 2025's policy and tech trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EV Infrastructure News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
