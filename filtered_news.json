@@ -2593,5 +2593,65 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Maharashtra\u2019s Smart Cities nearing completion, but \u20b91,555 crore in works still pending",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlBjMlp1MnU3WXVFMy1Bc2V6VjRUdXUyNElzcDBzQUxnMzczNE1oTnVlUThLak1yOGlQbVplb210bHJJcVByREhsU25udl9GOU9tTzJXX2NaT2E1M1JVb0RyZWlQUDM0NFhxSGdWcHd5Ny1DVFJ1UGxKRnZMVC1mSHJZSFZOQnNRVWc?oc=5",
+        "date": "2025-12-30",
+        "title": "The infrastructure gap holding back AI agents - Fast Company",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlBjMlp1MnU3WXVFMy1Bc2V6VjRUdXUyNElzcDBzQUxnMzczNE1oTnVlUThLak1yOGlQbVplb210bHJJcVByREhsU25udl9GOU9tTzJXX2NaT2E1M1JVb0RyZWlQUDM0NFhxSGdWcHd5Ny1DVFJ1UGxKRnZMVC1mSHJZSFZOQnNRVWc?oc=5\" target=\"_blank\">The infrastructure gap holding back AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSlNaVGQ4SnEwbEtwRHN1czAzeUpzOXNyME0tbzY4Q3ZtXzlUa2pKWndXT2tFM3ZMbnNVVUVrZTJJZGNVRk1Gdkp4cXJtTVpfWjlneGdTSTJQeGEyZlJvSDAyLXR3Z2NteHNlTkhONXdBbmtnOTlsUWxnbG83RlkxWkh0aFVMQXJYd3lfMk1QOGF0U2x5MTdBdw?oc=5",
+        "date": "2025-12-30",
+        "title": "SoftBank Acquires DigitalBridge for $4B to Boost AI Infrastructure - WebProNews",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNSlNaVGQ4SnEwbEtwRHN1czAzeUpzOXNyME0tbzY4Q3ZtXzlUa2pKWndXT2tFM3ZMbnNVVUVrZTJJZGNVRk1Gdkp4cXJtTVpfWjlneGdTSTJQeGEyZlJvSDAyLXR3Z2NteHNlTkhONXdBbmtnOTlsUWxnbG83RlkxWkh0aFVMQXJYd3lfMk1QOGF0U2x5MTdBdw?oc=5\" target=\"_blank\">SoftBank Acquires DigitalBridge for $4B to Boost AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WebProNews</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaE5MbmdpbFdONWN4cXo1ZE9tdVMxQnZ3dktJNVlUOFRkYVFWTGhRak04YV9ZN1h2c1lxVFJUMnVBNEpnbFlSY2Jzc2pfU0c3TERSYU1kS2cyUlBMNm8tb0tfTTItcy1SeXJXM09wOGsxYkpMSFEwcDl2dTVLblFrbG03Y2xwR2lOTUpKWU5jRURVdUhEMWh2ZnNFRVBtOXNDajNfblpMb1J3RkdZcTctb1B4X1o1bEtkTFhsbFNKc2VPemI4WXRVVUZ3ZVFEZmM?oc=5",
+        "date": "2025-12-30",
+        "title": "Extensive damage to energy infrastructure leaves parts of Kyiv, Odesa oblasts without scheduled blackouts - The Kyiv Independent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNaE5MbmdpbFdONWN4cXo1ZE9tdVMxQnZ3dktJNVlUOFRkYVFWTGhRak04YV9ZN1h2c1lxVFJUMnVBNEpnbFlSY2Jzc2pfU0c3TERSYU1kS2cyUlBMNm8tb0tfTTItcy1SeXJXM09wOGsxYkpMSFEwcDl2dTVLblFrbG03Y2xwR2lOTUpKWU5jRURVdUhEMWh2ZnNFRVBtOXNDajNfblpMb1J3RkdZcTctb1B4X1o1bEtkTFhsbFNKc2VPemI4WXRVVUZ3ZVFEZmM?oc=5\" target=\"_blank\">Extensive damage to energy infrastructure leaves parts of Kyiv, Odesa oblasts without scheduled blackouts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Kyiv Independent</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbWJlU05xUWc1M1YwNm9qeGlfY1lhMFFtcXR6QXZrRk1qZDVWd1pfTE9xbGtwaUR4eGNFT2dlUGhSLVVRdlhfM1BxQTlfRDgtSG1tbDRUMnpNclBmRHFTOFpGVVdDblRjTVpFcU9wUUswYS1mZjlvQ2ZRZ210WXpJX3pLcm80OHZOVHZGcE5kd1RlNkZhVHZTUnJDQmotVGQ2enExbFVmZG9fM3N5SzR4SU0wSm1vQ2J0eW1uQS11SXpnc2FKLUxKcXdYdjViV0lnTnZmX0VhUWFmR3pFRExPcThHb0M?oc=5",
+        "date": "2025-12-30",
+        "title": "National Standard Finance CEO Russell Duke Issues Strategic Briefing on Global Infrastructure Failure Rates; Outlines Path to Bankability for Governments - ACCESS Newswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbWJlU05xUWc1M1YwNm9qeGlfY1lhMFFtcXR6QXZrRk1qZDVWd1pfTE9xbGtwaUR4eGNFT2dlUGhSLVVRdlhfM1BxQTlfRDgtSG1tbDRUMnpNclBmRHFTOFpGVVdDblRjTVpFcU9wUUswYS1mZjlvQ2ZRZ210WXpJX3pLcm80OHZOVHZGcE5kd1RlNkZhVHZTUnJDQmotVGQ2enExbFVmZG9fM3N5SzR4SU0wSm1vQ2J0eW1uQS11SXpnc2FKLUxKcXdYdjViV0lnTnZmX0VhUWFmR3pFRExPcThHb0M?oc=5\" target=\"_blank\">National Standard Finance CEO Russell Duke Issues Strategic Briefing on Global Infrastructure Failure Rates; Outlines Path to Bankability for Governments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ACCESS Newswire</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaXRPSDRNWGlGclQtQnRhMFRSY3REb2s0VWJLWVllLVNHQUZ1RklxcnE0TGo4VGdVbEtlYkJ0Q1dKcG5lTjhXQjE3OVpEVVdHNzNHaFRTQkRpYkJtV2NtTkJoRXM2SVdjNWVDMW1uTXZ2LVZOdU1Hb1dZUmF6cFh5aGpfUlpHZ3VNUk5OVUZIejBWUTZQLU5ZNUJ0YkU4U0RrQXhlRnhhWm9RVWxLWHFxaW9XMHJ2MnZaWFlKV2dpZnpIaW5PZEtBMEVJVDFweHpCejNDV3hUeU5jTnhEOGo2Y2JjZ1lZSUZ6eG5tRzJWNjNRVXlhemhfVXJqZUNtd0JqVXBQMmhIZGsxQzjSAZACQVVfeXFMUHJsaWtpU3h6T3gtVDRiVmZkQ0xVenpKbmdrNUNRdE5oMlE2alpfbTBSSjNiUUxLS1dkenZEeW1FbGg1ZV9CZ3BZZmM2b1ItZkJRb0tKNHc3MFh2SjhjNmFiQll4eDh2dGpCdEFQY29RVVJkc0ZwNEt5ZlF2d2xDTlk1dlM5R0RXSUN1X1NVYmdpX0lWQlBJc25kYWZGQ2gyODZOYVhIVXNvYmJGNDR1M1N0WXdZMEtmR2hfNXR6WjE3ZmtHdkRvN3pEbzdhZVIzcjZFd2JnTDFGREtPekZTcHZKOE5KYWc0QU5nOXEwZXBjLW1FZ2FVUU9ySEtmX2VxRnh5bG4tdEMyV1N4bVFTQTA?oc=5",
+        "date": "2025-12-30",
+        "title": "Mawson Infrastructure Group Inc. Files Adversary Complaint Seeking Damages for Bad-Faith Bankruptcy Filing - The Manila Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaXRPSDRNWGlGclQtQnRhMFRSY3REb2s0VWJLWVllLVNHQUZ1RklxcnE0TGo4VGdVbEtlYkJ0Q1dKcG5lTjhXQjE3OVpEVVdHNzNHaFRTQkRpYkJtV2NtTkJoRXM2SVdjNWVDMW1uTXZ2LVZOdU1Hb1dZUmF6cFh5aGpfUlpHZ3VNUk5OVUZIejBWUTZQLU5ZNUJ0YkU4U0RrQXhlRnhhWm9RVWxLWHFxaW9XMHJ2MnZaWFlKV2dpZnpIaW5PZEtBMEVJVDFweHpCejNDV3hUeU5jTnhEOGo2Y2JjZ1lZSUZ6eG5tRzJWNjNRVXlhemhfVXJqZUNtd0JqVXBQMmhIZGsxQzjSAZACQVVfeXFMUHJsaWtpU3h6T3gtVDRiVmZkQ0xVenpKbmdrNUNRdE5oMlE2alpfbTBSSjNiUUxLS1dkenZEeW1FbGg1ZV9CZ3BZZmM2b1ItZkJRb0tKNHc3MFh2SjhjNmFiQll4eDh2dGpCdEFQY29RVVJkc0ZwNEt5ZlF2d2xDTlk1dlM5R0RXSUN1X1NVYmdpX0lWQlBJc25kYWZGQ2gyODZOYVhIVXNvYmJGNDR1M1N0WXdZMEtmR2hfNXR6WjE3ZmtHdkRvN3pEbzdhZVIzcjZFd2JnTDFGREtPekZTcHZKOE5KYWc0QU5nOXEwZXBjLW1FZ2FVUU9ySEtmX2VxRnh5bG4tdEMyV1N4bVFTQTA?oc=5\" target=\"_blank\">Mawson Infrastructure Group Inc. Files Adversary Complaint Seeking Damages for Bad-Faith Bankruptcy Filing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBocnF0b2ZlbWdPS3JhZGtvSVVMVTNHNUItRDRkalhJMTIxQmlpbDgtazJuMTdzS25aY3NuRUpWQUxJRm9Tc25BVTRKblU2dnNLLUNZdUJiSWhJYXJDeE1aQUdhNNIBaEFVX3lxTE5QdEllS3pkMVhOcTZoSlZzUzNMRHNXcTF6ak5PZ2VWZnFnQ19kdWJQS3JMTnBmR1NNaDczU3NYUWRRVnYyWHoyS2xEcGRtUWUtWWNZOGk2TUFUajhzbDQ3RTdFa0F0MVlH?oc=5",
+        "date": "2025-12-30",
+        "title": "Ukraine secures over EUR 83 mln from European Investment Bank for urban development - Interfax-Ukraine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBocnF0b2ZlbWdPS3JhZGtvSVVMVTNHNUItRDRkalhJMTIxQmlpbDgtazJuMTdzS25aY3NuRUpWQUxJRm9Tc25BVTRKblU2dnNLLUNZdUJiSWhJYXJDeE1aQUdhNNIBaEFVX3lxTE5QdEllS3pkMVhOcTZoSlZzUzNMRHNXcTF6ak5PZ2VWZnFnQ19kdWJQS3JMTnBmR1NNaDczU3NYUWRRVnYyWHoyS2xEcGRtUWUtWWNZOGk2TUFUajhzbDQ3RTdFa0F0MVlH?oc=5\" target=\"_blank\">Ukraine secures over EUR 83 mln from European Investment Bank for urban development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interfax-Ukraine</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\udde6 NEWS: Ukraine secures over \u20ac83 mln from European Investment Bank for urban development"
     }
 ]
