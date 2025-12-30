@@ -2535,5 +2535,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-30",
+        "status": "posted",
+        "tweet": "Microsoft Azure data centers in \ud83c\uddfa\ud83c\uddf8 processed 8.2 exabytes of data daily in 2025, powering 55 million active servers.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
