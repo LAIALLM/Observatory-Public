@@ -2374,5 +2374,25 @@
         "status": "posted",
         "tweet": "Bitcoin's projected 2025 carbon footprint: 75 million metric tons of CO2e annually.\n\nThis exceeds the yearly emissions of the Netherlands (68 MtCO2e) and equals 0.15% of global total.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYzdfdGFXNWdPQ2Flc0UxX2hrdDBocjVrdTFVZEtELWYzaDhLdm9NWHllc2pfYmgtN0tMS3NNeVY4aXo1aFk5N3B4T1RxNWgyYTdXQVRrNE1RdVg3aFUyRldVWWMyVElxOW4tVEhSWFZMVFZBY1V0T1U0c3NnWmRNcWFJUXFaTmFXQmtmQTJvMnRZSTVYY19XV0JvSTVNcjVTVE4wWg?oc=5",
+        "date": "2025-12-30",
+        "title": "Europe AI Infrastructure Market Size, Share & Growth, 2033 - Market Data Forecast",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOYzdfdGFXNWdPQ2Flc0UxX2hrdDBocjVrdTFVZEtELWYzaDhLdm9NWHllc2pfYmgtN0tMS3NNeVY4aXo1aFk5N3B4T1RxNWgyYTdXQVRrNE1RdVg3aFUyRldVWWMyVElxOW4tVEhSWFZMVFZBY1V0T1U0c3NnWmRNcWFJUXFaTmFXQmtmQTJvMnRZSTVYY19XV0JvSTVNcjVTVE4wWg?oc=5\" target=\"_blank\">Europe AI Infrastructure Market Size, Share & Growth, 2033</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Market Data Forecast</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjZ0NFdIZ2pDN0tKRWR4V0JWUW40V0ZZc0pjNWgzTjd1REhBX3M0UUMzZ2JVdGVBUzdyQkU2b2xyZHVuUmNtQnU1OHc4Wl9oNnc3ejZIWWNNMkZFSG5NTTJyQ1R1NkZNQnZ6U0JYY1dkcEFyRndZU1F6bEMwU25XT1M2cC1EN2xCVXVIVV9LdXZDWmhxZ3pRYnRXWk9IeGEyU2JzeWNaMHBhdXFXOFNCOQ?oc=5",
+        "date": "2025-12-30",
+        "title": "How AI Traffic Management Systems are Redefining India\u2019s \u2018Smart Cities\u2019 - Analytics India Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjZ0NFdIZ2pDN0tKRWR4V0JWUW40V0ZZc0pjNWgzTjd1REhBX3M0UUMzZ2JVdGVBUzdyQkU2b2xyZHVuUmNtQnU1OHc4Wl9oNnc3ejZIWWNNMkZFSG5NTTJyQ1R1NkZNQnZ6U0JYY1dkcEFyRndZU1F6bEMwU25XT1M2cC1EN2xCVXVIVV9LdXZDWmhxZ3pRYnRXWk9IeGEyU2JzeWNaMHBhdXFXOFNCOQ?oc=5\" target=\"_blank\">How AI Traffic Management Systems are Redefining India\u2019s \u2018Smart Cities\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics India Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
