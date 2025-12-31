@@ -2781,5 +2781,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddef\ud83c\uddf5 NEWS: Delivery of the future begins in aspiring smart city Minami-Osawa",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-31",
+        "status": "posted",
+        "tweet": "Microsoft's global data centers process 1.2 exabytes of data daily in 2025.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
