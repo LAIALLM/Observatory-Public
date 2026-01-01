@@ -2751,5 +2751,12 @@
         "score": 9,
         "status": "processed",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Bengalurus infrastructure projects are set to boldly transform and reshape the city."
+    },
+    {
+        "link": null,
+        "date": "2026-01-01",
+        "status": "posted",
+        "tweet": "Amazon's AWS infrastructure in \ud83c\uddfa\ud83c\uddf8 data centers processed 450 petabytes of data daily in 2025, supporting 40% of global cloud workloads.\n\n$AMZN",
+        "type": "infrastructure"
     }
 ]
