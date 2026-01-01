@@ -2875,5 +2875,25 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS0JKRjJFS1RxbmF1MEU2eVdHNERTczQ0dkhRQzQ4TXNoOUVyZzA2Y3AtVGYwdUp6c2dMcGRDNnR0VEt3MDNKbThpSkU0N3M1cW5ETUR2anJFTHlGZUZkTm9FMnJ5WHdCeEJFMXBYVG9Rc2h4QTVqS0pSOG5zZld1LTloU19oanYtWTM5SjFOa3RVNUVHLXpBSmhsZG1xQQ?oc=5",
+        "date": "2026-01-01",
+        "title": "Officials celebrate ambitious project removing 90-year-old infrastructure: 'A tremendous achievement' - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPS0JKRjJFS1RxbmF1MEU2eVdHNERTczQ0dkhRQzQ4TXNoOUVyZzA2Y3AtVGYwdUp6c2dMcGRDNnR0VEt3MDNKbThpSkU0N3M1cW5ETUR2anJFTHlGZUZkTm9FMnJ5WHdCeEJFMXBYVG9Rc2h4QTVqS0pSOG5zZld1LTloU19oanYtWTM5SjFOa3RVNUVHLXpBSmhsZG1xQQ?oc=5\" target=\"_blank\">Officials celebrate ambitious project removing 90-year-old infrastructure: 'A tremendous achievement'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "NEWS: Officials celebrate ambitious project removing 90-year-old infrastructure as a tremendous achievement"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2JpU2NKVnV1OFdmemhSOExhRUU2aWhrTXA2aFlwdXhRd3pyenIyVm1Ddm1KdVdaTGtGazdycjRZb19kOWhWNS1tZW1BUzI3UFZENXdQYVRHNF9rUi1aQVFmUk1uR3NTbkQxdnpGdGxFbmM5NmIySGZNaU9OU3R6clZtVFdFS0s1SlBkdWtQck5rSzF2SjNwM0lCUG83cndJRzhjeVh2dEgxZjVoZGNOeTk2LURZZw?oc=5",
+        "date": "2026-01-01",
+        "title": "Aurora's Infrastructure Boom: Road Upgrades and New Bus Transit System in the Pipeline - Hoodline",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2JpU2NKVnV1OFdmemhSOExhRUU2aWhrTXA2aFlwdXhRd3pyenIyVm1Ddm1KdVdaTGtGazdycjRZb19kOWhWNS1tZW1BUzI3UFZENXdQYVRHNF9rUi1aQVFmUk1uR3NTbkQxdnpGdGxFbmM5NmIySGZNaU9OU3R6clZtVFdFS0s1SlBkdWtQck5rSzF2SjNwM0lCUG83cndJRzhjeVh2dEgxZjVoZGNOeTk2LURZZw?oc=5\" target=\"_blank\">Aurora's Infrastructure Boom: Road Upgrades and New Bus Transit System in the Pipeline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
