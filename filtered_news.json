@@ -2848,5 +2848,32 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-01",
+        "status": "posted",
+        "tweet": "Bitcoin's projected 2026 electricity consumption: 180 TWh annually.\n\nThat's equivalent to \ud83c\udde6\ud83c\uddf7 Argentina's full yearly usage, powering a network that processes just 7 transactions per second.",
+        "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1owQnZlaTY1S3c3eUllWTNNamg0Qk96dUJHZzg2SVRTMXZnYzQ3aHAwTHRJU3VrRHZnUFBIbVRvNDVlSnJEd1NuZG5rYUV5MldOd0s3bnNNVFkybFJvQzNfQ3pIaHpCZER0OG1fSmI2bDhDUzduc0hVUmFzQTc1eFMxNXhOY1Q0YWU2TjIyMTZiT0taODljdHN1UTZvWncxRWo3RDRjaTJyVmlZbzNRT1VHajlqV0Q4X0kwaXd3?oc=5",
+        "date": "2026-01-01",
+        "title": "Newly Appointed State Senator Kevin Harris Tours Energy And Infrastructure Sites In Calvert County - The BayNet",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1owQnZlaTY1S3c3eUllWTNNamg0Qk96dUJHZzg2SVRTMXZnYzQ3aHAwTHRJU3VrRHZnUFBIbVRvNDVlSnJEd1NuZG5rYUV5MldOd0s3bnNNVFkybFJvQzNfQ3pIaHpCZER0OG1fSmI2bDhDUzduc0hVUmFzQTc1eFMxNXhOY1Q0YWU2TjIyMTZiT0taODljdHN1UTZvWncxRWo3RDRjaTJyVmlZbzNRT1VHajlqV0Q4X0kwaXd3?oc=5\" target=\"_blank\">Newly Appointed State Senator Kevin Harris Tours Energy And Infrastructure Sites In Calvert County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The BayNet</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV0d5ZGV6TW5WOWJaRzRTNFcwNjlqeUJqdjRCYWh6SmJVTGxhRTZ2Xy0zLUJFNGN2R09TLW9zREdMalRsazNCam8yRkxVNlBZNENLRFZDTVRpeWpOcmJLZS0yR0t1VEpibkVIZThNUzhpZEtPZXU3QnR4MWVkYldZTHNuM2VFR3phUVU4am9kZHA0UG5xSUdWTDFQR3RaMks4SDlJM2p6UDBGOEVnbWxVRmw5Skw?oc=5",
+        "date": "2026-01-01",
+        "title": "Ruchi Infrastructure Limited Matches Institutional Buying Filter - Mean Reversion Trades & Exceptional Profit Growth - bollywoodhelpline.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOV0d5ZGV6TW5WOWJaRzRTNFcwNjlqeUJqdjRCYWh6SmJVTGxhRTZ2Xy0zLUJFNGN2R09TLW9zREdMalRsazNCam8yRkxVNlBZNENLRFZDTVRpeWpOcmJLZS0yR0t1VEpibkVIZThNUzhpZEtPZXU3QnR4MWVkYldZTHNuM2VFR3phUVU4am9kZHA0UG5xSUdWTDFQR3RaMks4SDlJM2p6UDBGOEVnbWxVRmw5Skw?oc=5\" target=\"_blank\">Ruchi Infrastructure Limited Matches Institutional Buying Filter - Mean Reversion Trades & Exceptional Profit Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bollywoodhelpline.com</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
