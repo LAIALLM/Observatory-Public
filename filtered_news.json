@@ -2620,5 +2620,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-02",
+        "status": "posted",
+        "tweet": "Microsoft Azure data centers worldwide consumed 15 TWh of energy in 2025, powering AI workloads for 60% of Fortune 500 companies.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
