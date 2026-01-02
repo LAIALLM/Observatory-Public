@@ -2833,5 +2833,75 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNenFZcjNHYWRZcF9zTGk3VktZQThsUEx1cFJ4SVl0bE1pUmktRVA2d2J4VThOdGdadF9zVHRjdldXY2Y3UDlzX3cxUXB1QlZ2ZTVoN3dzRUZkak12aWUzZHRTNVVhR1hCRGVWcVBKV2xpM25oRWUxdVAzZDNNWDNzWTF3?oc=5",
+        "date": "2026-01-02",
+        "title": "Infrastructure, energy efficiency and leadership changes among key projects in North County in 2026 - Greenfield Recorder",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNenFZcjNHYWRZcF9zTGk3VktZQThsUEx1cFJ4SVl0bE1pUmktRVA2d2J4VThOdGdadF9zVHRjdldXY2Y3UDlzX3cxUXB1QlZ2ZTVoN3dzRUZkak12aWUzZHRTNVVhR1hCRGVWcVBKV2xpM25oRWUxdVAzZDNNWDNzWTF3?oc=5\" target=\"_blank\">Infrastructure, energy efficiency and leadership changes among key projects in North County in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Greenfield Recorder</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXZnWmVLU1BVOV9zXzdxc0xTYV9DX2x2OHIwdTdBR0h0aVIwQ1daZjVnQmlyU3ltX0xoaGhsQlpOc3BONUxDUXhTS1FMcTFBblFMbVd1ZFBUN05IakxnZ2dyOVdOWVRUdG5vZV8yYjdCeFRxd0hVdjAyTjZoMWVoZVZHUGpTQzl4RHNKci02NThTZ2d6Q1VZTXBjbDZZMXhxSldaSVFfamZQUnY0X3BieW94RFNSZ0JmdVhaejJvU3I?oc=5",
+        "date": "2026-01-02",
+        "title": "Upcoming Infrastructure Project on Busy Nipomo Road to Disrupt Traffic for Months - News Channel 3-12",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXZnWmVLU1BVOV9zXzdxc0xTYV9DX2x2OHIwdTdBR0h0aVIwQ1daZjVnQmlyU3ltX0xoaGhsQlpOc3BONUxDUXhTS1FMcTFBblFMbVd1ZFBUN05IakxnZ2dyOVdOWVRUdG5vZV8yYjdCeFRxd0hVdjAyTjZoMWVoZVZHUGpTQzl4RHNKci02NThTZ2d6Q1VZTXBjbDZZMXhxSldaSVFfamZQUnY0X3BieW94RFNSZ0JmdVhaejJvU3I?oc=5\" target=\"_blank\">Upcoming Infrastructure Project on Busy Nipomo Road to Disrupt Traffic for Months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News Channel 3-12</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1JseTZpSFRSNDNwbl9fb0pjY1BnampLT0UxX0Y0LXdLelBUTHd3N2F2T2FEYUhoOXRsWE9MbFJEMU9aX0szSlJwZzNBUUlob3YxZjFhdUxzQ21pZG1LZm1QNWZIcTc0S1JGWkp2VUpvNHJtRUdfV3Zxd1UwMnZKcHJyMmNTc1diMlZEVjBxNXQ0M2JqZEp6Z0NXMA?oc=5",
+        "date": "2026-01-02",
+        "title": "Costs to repair Waterbury water infrastructure in the millions, officials say - WSHU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1JseTZpSFRSNDNwbl9fb0pjY1BnampLT0UxX0Y0LXdLelBUTHd3N2F2T2FEYUhoOXRsWE9MbFJEMU9aX0szSlJwZzNBUUlob3YxZjFhdUxzQ21pZG1LZm1QNWZIcTc0S1JGWkp2VUpvNHJtRUdfV3Zxd1UwMnZKcHJyMmNTc1diMlZEVjBxNXQ0M2JqZEp6Z0NXMA?oc=5\" target=\"_blank\">Costs to repair Waterbury water infrastructure in the millions, officials say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSHU</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOU3Jkdm5GVk9wX0tOektmSDczeGxGaW9yR2V0RjJ0aG9Pd2pQTmdxc2tSa21HVTNXaWJVX1JHZEhJOHdRSUtYd3RuWXNqb3R0MXc0VUpvaEVCMU5tcGdsajJsOWlYX1FSaVNlbkZoaTJwRW5oRVBjRHNvSTBpQ09ZMTlnamxjRlgzSTZOQnRPNHZoVDRnY3dfRGFCZ0Fycm02Z2VVME5KbWhkeVJhNHh4bDNYWFZubl9Kdk9zSFdlRWhKT2t0VkNIQWU3TlhXZUUxbWh3cG0yUkNZSHBIajlqSm4xaTJmU09NRTBhMktPV2xVM0VjTkM2RGRIZkFWUDVzX0tmMHVWOU4tQ2xFNTRJb2ZDVVhJdDQ?oc=5",
+        "date": "2026-01-02",
+        "title": "Jackson drives ahead on EV chargers as Trump administration deprioritizes green infrastructure - WyomingNews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOU3Jkdm5GVk9wX0tOektmSDczeGxGaW9yR2V0RjJ0aG9Pd2pQTmdxc2tSa21HVTNXaWJVX1JHZEhJOHdRSUtYd3RuWXNqb3R0MXc0VUpvaEVCMU5tcGdsajJsOWlYX1FSaVNlbkZoaTJwRW5oRVBjRHNvSTBpQ09ZMTlnamxjRlgzSTZOQnRPNHZoVDRnY3dfRGFCZ0Fycm02Z2VVME5KbWhkeVJhNHh4bDNYWFZubl9Kdk9zSFdlRWhKT2t0VkNIQWU3TlhXZUUxbWh3cG0yUkNZSHBIajlqSm4xaTJmU09NRTBhMktPV2xVM0VjTkM2RGRIZkFWUDVzX0tmMHVWOU4tQ2xFNTRJb2ZDVVhJdDQ?oc=5\" target=\"_blank\">Jackson drives ahead on EV chargers as Trump administration deprioritizes green infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WyomingNews.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVXNtX0ItTGVrampKZTdFbWRhamRGY2Y1ZEVrYnRpSmhubmNmbVF6S2wwWGxneklfYVpFdTRqTDhlaDA5eTJFNG0yZTNYT1JLR25GbVJxREEwV2Jqa0JTY2hwS1ZmQ0JHQ0xGUmtjZUNGcmJOdFdVLTZ2NmFxTVRxMklhOEVCY2ZVaFdkak9pWHF4U2VyVC1MU29PSmJMWC1rOXRvV1lSOUQwNkx3aGVUSm10Smt3NC1yeFU0dDFUZk54Tlo1Mlg0OTlYYlVOcTBPTkxCR3F5blBremZvRUw2TUQySVdPZGZzQUg0OFlFb2cwYXJyN0pSNDA2MXNHZGNXMThjV3h4dEI3ZmFwV2Fv?oc=5",
+        "date": "2026-01-02",
+        "title": "WOUFX LLC Announces Establishment of FX Infrastructure Following Founder\u2019s 13-Year Professional Trading Career - GlobeNewswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQVXNtX0ItTGVrampKZTdFbWRhamRGY2Y1ZEVrYnRpSmhubmNmbVF6S2wwWGxneklfYVpFdTRqTDhlaDA5eTJFNG0yZTNYT1JLR25GbVJxREEwV2Jqa0JTY2hwS1ZmQ0JHQ0xGUmtjZUNGcmJOdFdVLTZ2NmFxTVRxMklhOEVCY2ZVaFdkak9pWHF4U2VyVC1MU29PSmJMWC1rOXRvV1lSOUQwNkx3aGVUSm10Smt3NC1yeFU0dDFUZk54Tlo1Mlg0OTlYYlVOcTBPTkxCR3F5blBremZvRUw2TUQySVdPZGZzQUg0OFlFb2cwYXJyN0pSNDA2MXNHZGNXMThjV3h4dEI3ZmFwV2Fv?oc=5\" target=\"_blank\">WOUFX LLC Announces Establishment of FX Infrastructure Following Founder\u2019s 13-Year Professional Trading Career</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1M1WExBbkNhZll3TUc3dlNkcGZLTVNUVHNaeVVRcU1vcVBjcDRMU0FBeTAzLTM5Y1lDNzNrUnctbzg0SjZ6am9HTWFwT1lvUnBTNEotRDZPVFo3bGFCWDdZck44ZGQwNTNnNlBLRTNEakVvLWZTd1hPWk1mR2o2ZVNuMWlOMTI3eXZfemdfTlFSVnR1bkZHYnZ4TWVQSVFkbVJZM3ROWFBtWlBZeTZyMURlQzRIaGdGbVE?oc=5",
+        "date": "2026-01-02",
+        "title": "Clackamas County Touts Year of Progress with Key Infrastructure and Service Enhancements - Hoodline",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1M1WExBbkNhZll3TUc3dlNkcGZLTVNUVHNaeVVRcU1vcVBjcDRMU0FBeTAzLTM5Y1lDNzNrUnctbzg0SjZ6am9HTWFwT1lvUnBTNEotRDZPVFo3bGFCWDdZck44ZGQwNTNnNlBLRTNEakVvLWZTd1hPWk1mR2o2ZVNuMWlOMTI3eXZfemdfTlFSVnR1bkZHYnZ4TWVQSVFkbVJZM3ROWFBtWlBZeTZyMURlQzRIaGdGbVE?oc=5\" target=\"_blank\">Clackamas County Touts Year of Progress with Key Infrastructure and Service Enhancements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zb0RSWDlTYlpFZlpSRDVuNEpfRzVGNWM1UXJwREhrWVd4SVlSSDdBdkRvOE0zZ0U5VWx4TjltUlJkLXJmTmE1cm1sLW1sWnJRRkpqTE00eEtCdF9aSFQ0RjBWZzhqYksyR05scEJWZ3FYVjlEcVNGSTZWel8?oc=5",
+        "date": "2026-01-02",
+        "title": "Crows\u2019 Abundance and Lahore\u2019s Ecosystem - Daily Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1zb0RSWDlTYlpFZlpSRDVuNEpfRzVGNWM1UXJwREhrWVd4SVlSSDdBdkRvOE0zZ0U5VWx4TjltUlJkLXJmTmE1cm1sLW1sWnJRRkpqTE00eEtCdF9aSFQ0RjBWZzhqYksyR05scEJWZ3FYVjlEcVNGSTZWel8?oc=5\" target=\"_blank\">Crows\u2019 Abundance and Lahore\u2019s Ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
