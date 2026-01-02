@@ -2715,5 +2715,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-02",
+        "status": "posted",
+        "tweet": "2026 projection: 62% of Ethereum nodes concentrated in US \ud83c\uddfa\ud83c\uddf8 and Germany \ud83c\udde9\ud83c\uddea data centers, driving $950M in annual infrastructural costs from bandwidth and hosting centralization.",
+        "type": "crypto"
     }
 ]
