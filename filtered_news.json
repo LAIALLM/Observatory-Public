@@ -2881,5 +2881,25 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBteEhmb1U1Q0ZZQUpLRFAzZFROMGtFekFFZU9yVkk1blZqNkt1V3BCMFQwQW1VWUlJQW4tREdJT2cxdFpfRUVJRmNaelpTQTV3X1paRUVWelF2UEFtS21JT3dR?oc=5",
+        "date": "2026-01-03",
+        "title": "Goldsboro City Council Kicks Off New Year with Zoning Cases, Infrastructure Updates, and Financial Planning - Goldsboro Daily News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBteEhmb1U1Q0ZZQUpLRFAzZFROMGtFekFFZU9yVkk1blZqNkt1V3BCMFQwQW1VWUlJQW4tREdJT2cxdFpfRUVJRmNaelpTQTV3X1paRUVWelF2UEFtS21JT3dR?oc=5\" target=\"_blank\">Goldsboro City Council Kicks Off New Year with Zoning Cases, Infrastructure Updates, and Financial Planning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Goldsboro Daily News</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYndOLUdTS21CdmFFcHo1MzR6YkFJRVlSSEliRWpXUjVEM3R6cElKODdMVWxHeUlwdWpPa2M1Qk9iWEJBR0hSQXpBY2RwRFJiNUdrTnlaMm1kTEpsVEpVZ2VsQ0tnMFZpYzVoSzNyR2lvUWtjT0xBY0lVS2d0YV9jaEZzU3RjUjRTWjJac2NpZGU?oc=5",
+        "date": "2026-01-03",
+        "title": "Berlin infrastructure attack: 45,000 homes lose power - Egyptian Gazette",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNYndOLUdTS21CdmFFcHo1MzR6YkFJRVlSSEliRWpXUjVEM3R6cElKODdMVWxHeUlwdWpPa2M1Qk9iWEJBR0hSQXpBY2RwRFJiNUdrTnlaMm1kTEpsVEpVZ2VsQ0tnMFZpYzVoSzNyR2lvUWtjT0xBY0lVS2d0YV9jaEZzU3RjUjRTWjJac2NpZGU?oc=5\" target=\"_blank\">Berlin infrastructure attack: 45,000 homes lose power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Egyptian Gazette</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
