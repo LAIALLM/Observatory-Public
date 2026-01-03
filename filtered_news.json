@@ -2831,5 +2831,55 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZkNuUnp5eUtkWkVwdnpva2lrUDItTXNSbU5nQl9tNFZ6OGhfekRhR24zYURoa0JLZ0h3MXpnazNRTjRlM0VpQzRud0s1dXdrbGtUYm5uVHdiMGNhazUxNnEyLTY2OHQzWDFrN1dtUlVGaUdWNFUzTVA4dWo4NWxMMk1uSWVFa1BCa0Zzb3hyNEl5amdpOUtWRlhhVXlpa1RkNzcwTmZ0WDhoT1JGSVI5M1cxX2pIRkxCUGJjUw?oc=5",
+        "date": "2026-01-03",
+        "title": "How technology is shaping the future of sustainable construction - facilitiesmanagement-now.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNZkNuUnp5eUtkWkVwdnpva2lrUDItTXNSbU5nQl9tNFZ6OGhfekRhR24zYURoa0JLZ0h3MXpnazNRTjRlM0VpQzRud0s1dXdrbGtUYm5uVHdiMGNhazUxNnEyLTY2OHQzWDFrN1dtUlVGaUdWNFUzTVA4dWo4NWxMMk1uSWVFa1BCa0Zzb3hyNEl5amdpOUtWRlhhVXlpa1RkNzcwTmZ0WDhoT1JGSVI5M1cxX2pIRkxCUGJjUw?oc=5\" target=\"_blank\">How technology is shaping the future of sustainable construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facilitiesmanagement-now.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON0RGVTJUaWFobnlYT19kVmdYdkdjMkdFeUxjYXFadThWcVlEZC1icjRQUUQtQkt5czE5UEYxZlIwdVFCX1Z4NHYzSGNiNG05dmpjT2lYV1ZuTUVIdF9IU2p4OEY5cUUtSWNISTRwOHZsSGdPNm54TE5rNWVjelZWSGZOa0dGWkh0NWxmOWRYYzNIWVFKVEx3Z1N1SnluOGEwLUk3Y21lNk9lQ3M4RFVSaTFLNk13Nm5PcHZKOE1nWkNxbmhhRkozak4xWUl5QWZrb3c?oc=5",
+        "date": "2026-01-03",
+        "title": "San Juan County 2025 Year-In-Review: Housing projects, dental clinics, infrastructure updates and more - Islands' Sounder",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxON0RGVTJUaWFobnlYT19kVmdYdkdjMkdFeUxjYXFadThWcVlEZC1icjRQUUQtQkt5czE5UEYxZlIwdVFCX1Z4NHYzSGNiNG05dmpjT2lYV1ZuTUVIdF9IU2p4OEY5cUUtSWNISTRwOHZsSGdPNm54TE5rNWVjelZWSGZOa0dGWkh0NWxmOWRYYzNIWVFKVEx3Z1N1SnluOGEwLUk3Y21lNk9lQ3M4RFVSaTFLNk13Nm5PcHZKOE1nWkNxbmhhRkozak4xWUl5QWZrb3c?oc=5\" target=\"_blank\">San Juan County 2025 Year-In-Review: Housing projects, dental clinics, infrastructure updates and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Islands' Sounder</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY2RTcWpxblZWSnZpVW01THBoeUVIM05NU2ZRRlVhaDhtTjRnNXVaU1FJWVBCalQ5eldQYzNDRTM3bU5TM0JicWlZRnJBNW5HNU5VSjFhLVNZbjQ2VDI0djZ6LWNWaHNRV1JRRFY3a3NBSldxaldnNE5NU2RYNWNsWWRtTjF0X01SU0c0dDBHZU9xUdIBlwFBVV95cUxOUXlicG9VazRmOUFwcy1mLU51cVJKQ204bzNFWGZUdURaZXBpQWFqZlRIbkEyU1doVmpkeFowSEtTVEp0S05OdGVEeUlQTXdiNTlTSnVuUFRaaXI0OEZKaG0teE1oNnJzUS1ZOVJrcnFyX0JwNGRXaFo1SWZMQTFMc09saXBJLXIzWHJpcnBHUnQybFE3NUVj?oc=5",
+        "date": "2026-01-03",
+        "title": "Infostealers Enable Attackers to Hijack Legitimate Business Infrastructure for Malware Hosting - CybersecurityNews",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOY2RTcWpxblZWSnZpVW01THBoeUVIM05NU2ZRRlVhaDhtTjRnNXVaU1FJWVBCalQ5eldQYzNDRTM3bU5TM0JicWlZRnJBNW5HNU5VSjFhLVNZbjQ2VDI0djZ6LWNWaHNRV1JRRFY3a3NBSldxaldnNE5NU2RYNWNsWWRtTjF0X01SU0c0dDBHZU9xUdIBlwFBVV95cUxOUXlicG9VazRmOUFwcy1mLU51cVJKQ204bzNFWGZUdURaZXBpQWFqZlRIbkEyU1doVmpkeFowSEtTVEp0S05OdGVEeUlQTXdiNTlTSnVuUFRaaXI0OEZKaG0teE1oNnJzUS1ZOVJrcnFyX0JwNGRXaFo1SWZMQTFMc09saXBJLXIzWHJpcnBHUnQybFE3NUVj?oc=5\" target=\"_blank\">Infostealers Enable Attackers to Hijack Legitimate Business Infrastructure for Malware Hosting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CybersecurityNews</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNUJZZjRCRkswbE1qYWhRdjU4b0w4SVozenBLSnAwSF94OGw1a0FnZE55RkpYSnVIR2xsbzI4dkdsbjRrcjRHb3FjTGFpS210OTNQSVVhQlBULXdkYkJqOFhQWENCeURCUDRIcmFMMU9FeEhVVnNYRXZxbTNTQzJGYlQzaw?oc=5",
+        "date": "2026-01-03",
+        "title": "Predulive Innovations: Predicting Infrastructure Failures Before They Happen \u2013 A K-Startup Grand Challenge Interview - KoreaTechDesk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNUJZZjRCRkswbE1qYWhRdjU4b0w4SVozenBLSnAwSF94OGw1a0FnZE55RkpYSnVIR2xsbzI4dkdsbjRrcjRHb3FjTGFpS210OTNQSVVhQlBULXdkYkJqOFhQWENCeURCUDRIcmFMMU9FeEhVVnNYRXZxbTNTQzJGYlQzaw?oc=5\" target=\"_blank\">Predulive Innovations: Predicting Infrastructure Failures Before They Happen \u2013 A K-Startup Grand Challenge Interview</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KoreaTechDesk</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSnRNVTFwQ0RtNkh5Ung2cE11N0E2UFV4N0U3dUJLNGtFN1A4UFk4YUhfV0NGNUlTTjZubzJ1LWFNeXZuaXFoQm9LckppMjhIWkw3QlRlNVhraGZGMzdKNHoyd1ZEd2k5YkJfOHQ1ZW9kMW45SVpwR2xCLW5YaFpxZXBfYU5QWUd0RF9vZkhPd2M0WVRTcnB1aHRPRmc0YU1zWktId29lSWQ1R214UUVCQ1ltdEhJU1drWjA3d1dXMlVFWkRrNVhESklwYURkcEdFZjJGSUNWcVozVUdxcE5RSk1qUXFlMmlmX01GTWEyek8tUmk2YmhJUHpsVE1ST28?oc=5",
+        "date": "2026-01-03",
+        "title": "Advanced Home Services Launches Safety Starts at Home Initiative to Mitigate Residential Infrastructure Risks in Idaho - Trending Now Infrastructure",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSnRNVTFwQ0RtNkh5Ung2cE11N0E2UFV4N0U3dUJLNGtFN1A4UFk4YUhfV0NGNUlTTjZubzJ1LWFNeXZuaXFoQm9LckppMjhIWkw3QlRlNVhraGZGMzdKNHoyd1ZEd2k5YkJfOHQ1ZW9kMW45SVpwR2xCLW5YaFpxZXBfYU5QWUd0RF9vZkhPd2M0WVRTcnB1aHRPRmc0YU1zWktId29lSWQ1R214UUVCQ1ltdEhJU1drWjA3d1dXMlVFWkRrNVhESklwYURkcEdFZjJGSUNWcVozVUdxcE5RSk1qUXFlMmlmX01GTWEyek8tUmk2YmhJUHpsVE1ST28?oc=5\" target=\"_blank\">Advanced Home Services Launches Safety Starts at Home Initiative to Mitigate Residential Infrastructure Risks in Idaho</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trending Now Infrastructure</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
