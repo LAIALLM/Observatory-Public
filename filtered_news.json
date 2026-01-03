@@ -2777,5 +2777,25 @@
         "tweet": "By 2026, global infrastructure spending is projected to hit $9.2 trillion annually, with 40% allocated to sustainable projects in Asia and Europe.",
         "type": "statistical",
         "category": "infrastructure companies"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1g1VThMRnZFSTFsX0tIQ09oV0FPNFhiVmM2bkc0Uk0tUGp6NnhBZTdqdlRUTjBhc3lJMEZJZ1JReDNqTTAwQVB5NVV0NWxma19ZcjNkWGE4eDJvcDVuelBEamdKWjVzRTdHQ0YzVE5hTHJlTVhodzJadmJFTjNGZTZJWVhBclR1cnhnNDU4d2dERlJueXMxZnhvOXUweGRPcURzWWhR?oc=5",
+        "date": "2026-01-03",
+        "title": "Hong Kong arrests 21 for corruption in building renovation crackdown - sightmagazine.com.au",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1g1VThMRnZFSTFsX0tIQ09oV0FPNFhiVmM2bkc0Uk0tUGp6NnhBZTdqdlRUTjBhc3lJMEZJZ1JReDNqTTAwQVB5NVV0NWxma19ZcjNkWGE4eDJvcDVuelBEamdKWjVzRTdHQ0YzVE5hTHJlTVhodzJadmJFTjNGZTZJWVhBclR1cnhnNDU4d2dERlJueXMxZnhvOXUweGRPcURzWWhR?oc=5\" target=\"_blank\">Hong Kong arrests 21 for corruption in building renovation crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sightmagazine.com.au</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ21TX3UxZkhKM2JqSWRhN0cxOC1xNWk3Z191YUFJY2oyV2Z2TGhRdEVOYWhGMl9SamtUQmMyWkU0YWhtX0dGT19lMDBIb1hkSDNlTWl2U08xZWdLZmFnQjluOEpyNFNjSVlVNGJ3VF80VVlGajY0UU9JR1ZMWGx5U1FkWEsxVGF1UlJXbGNGQXdEdlZ2MzE2RWM3aUt2NnFRX0kwQ0N2a19hdDdGNlZpUWdFbnJlQXpXR0Q3V0hQZlEwSFQxT2ZiSFhGTGZfWG1LR2Q5ek5n?oc=5",
+        "date": "2026-01-03",
+        "title": "Hawai\u2018i Green Infrastructure Authority achieves financing goal for Better Buildings & Better Plants Initiative - Maui Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ21TX3UxZkhKM2JqSWRhN0cxOC1xNWk3Z191YUFJY2oyV2Z2TGhRdEVOYWhGMl9SamtUQmMyWkU0YWhtX0dGT19lMDBIb1hkSDNlTWl2U08xZWdLZmFnQjluOEpyNFNjSVlVNGJ3VF80VVlGajY0UU9JR1ZMWGx5U1FkWEsxVGF1UlJXbGNGQXdEdlZ2MzE2RWM3aUt2NnFRX0kwQ0N2a19hdDdGNlZpUWdFbnJlQXpXR0Q3V0hQZlEwSFQxT2ZiSFhGTGZfWG1LR2Q5ek5n?oc=5\" target=\"_blank\">Hawai\u2018i Green Infrastructure Authority achieves financing goal for Better Buildings & Better Plants Initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maui Now</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
