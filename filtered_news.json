@@ -2804,5 +2804,12 @@
         "status": "posted",
         "tweet": "Meta Platforms' global data centers processed 5.7 zettabytes in 2026, a 30% increase from 2025.\n\n$META",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-03",
+        "status": "posted",
+        "tweet": "Bitcoin's 2026 electricity use: 180 TWh annually, rivaling \ud83c\uddf3\ud83c\uddf1 Netherlands' total.\n\nEthereum's (PoS): 0.003 TWh, 60,000x less.\n\nProof-of-work vs. proof-of-stake highlights massive efficiency gap.",
+        "type": "crypto"
     }
 ]
