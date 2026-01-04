@@ -2854,5 +2854,15 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTHNwRTAydzdDQTBDcVozRzREOTVpZ3ExS1hsck85RVdvajNRbk01aVhja0hDaHRuNG9DQXIwS0hiRHJITEkzcy1XbFBtcF9hdDJIdE9la3JGNXBVM1VNSkYzbUJYQnhHQWNoR19WMjJ6TUM3d3FZUmN3SExsZ3ZwTWJFZHNMNTQ2Sk1aSTJvaUw2SDFUam83ejVheEZ0TnRxcHVrcmppM1RwYm4tdDFmT09iLVY4OE10eW5hQ09SbDBEZVFQMXpYM19faXk1bDdDWk95bFlmT2FtV0pRMVBqUHNuZkdPUQ?oc=5",
+        "date": "2026-01-04",
+        "title": "Frustration in Calgary over water infrastructure woes - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTHNwRTAydzdDQTBDcVozRzREOTVpZ3ExS1hsck85RVdvajNRbk01aVhja0hDaHRuNG9DQXIwS0hiRHJITEkzcy1XbFBtcF9hdDJIdE9la3JGNXBVM1VNSkYzbUJYQnhHQWNoR19WMjJ6TUM3d3FZUmN3SExsZ3ZwTWJFZHNMNTQ2Sk1aSTJvaUw2SDFUam83ejVheEZ0TnRxcHVrcmppM1RwYm4tdDFmT09iLVY4OE10eW5hQ09SbDBEZVFQMXpYM19faXk1bDdDWk95bFlmT2FtV0pRMVBqUHNuZkdPUQ?oc=5\" target=\"_blank\">Frustration in Calgary over water infrastructure woes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
