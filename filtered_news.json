@@ -2935,5 +2935,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: Redland City\u2019s future at stake with 10 key planning decisions set to shape 2026",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-04",
+        "status": "posted",
+        "tweet": "Bitcoin annual electricity consumption: 150 TWh\n\nEthereum: 0.01 TWh\n\nBTC uses 15,000x more power, equivalent to \ud83c\uddf3\ud83c\uddf1 Netherlands' yearly usage.",
+        "type": "crypto"
     }
 ]
