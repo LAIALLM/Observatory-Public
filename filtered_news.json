@@ -2817,5 +2817,12 @@
         "tweet": "Top 5 countries by projected renewable energy capacity (2026, GW)\n\n1. \ud83c\udde8\ud83c\uddf3 China: 1800\n2. \ud83c\uddfa\ud83c\uddf8 USA: 500\n3. \ud83c\uddee\ud83c\uddf3 India: 250\n4. \ud83c\udde9\ud83c\uddea Germany: 150\n5. \ud83c\udde7\ud83c\uddf7 Brazil: 120",
         "type": "statistical",
         "category": "energy"
+    },
+    {
+        "link": null,
+        "date": "2026-01-04",
+        "status": "posted",
+        "tweet": "Tech firm $GOOGL's \ud83c\uddfa\ud83c\uddf8 data centers handled 12 exabytes of daily traffic in 2026, a 25% rise from 2025.",
+        "type": "infrastructure"
     }
 ]
