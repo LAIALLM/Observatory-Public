@@ -2770,5 +2770,12 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-05",
+        "status": "posted",
+        "tweet": "Bitcoin node distribution in 2026: 48% in \ud83c\uddfa\ud83c\uddf8, 22% in \ud83c\udde9\ud83c\uddea, 15% in \ud83c\udde8\ud83c\udde6. This skew drives 35% higher electricity costs for operators versus evenly distributed networks.",
+        "type": "crypto"
     }
 ]
