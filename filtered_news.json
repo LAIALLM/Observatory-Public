@@ -2727,5 +2727,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-06",
+        "status": "posted",
+        "tweet": "Bitcoin mining infrastructure in 2026: 95% of global hash rate concentrated in top 5 countries, inflating regional energy and cooling costs.\n\n1. \ud83c\uddfa\ud83c\uddf8 US: 38% hash rate, $2.5B annual infra spend\n2. \ud83c\uddf0\ud83c\uddff Kazakhstan: 18%, $1.1B\n3. \ud83c\uddf7\ud83c\uddfa Russia: 14%, $900M\n4. \ud83c\udde8\ud83c\udde6 Canada: 13%, $800M\n5. \ud83c\uddee\ud83c\uddf7 Ira",
+        "type": "crypto"
     }
 ]
