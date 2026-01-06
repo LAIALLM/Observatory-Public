@@ -2794,5 +2794,12 @@
         "score": 9,
         "status": "processed",
         "tweet": "\ud83c\udde6\ud83c\uddea NEWS: Dubai\u2019s RTA launches Al Ruwayyah Yard project to revolutionize parking and boost tourism appeal across UAE cities."
+    },
+    {
+        "link": null,
+        "date": "2026-01-06",
+        "status": "posted",
+        "tweet": "Alphabet's data centers in \ud83c\uddfa\ud83c\uddf8 processed 12 exabytes daily in 2026, up 20% from 2025.\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
