@@ -3091,5 +3091,95 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNzBnbnFxdUdxbWxwSUJRSlZhNHZCckdzY0pVWWpmR0JYWlk3N2lTX2pibFFRUE1QMUhQdmV5YVJadWl1cVluUnVZZWhOVXFpUV8zUUZUU0gtd19HWlE0a2tmVkFuYmNDaGxaa20zLWRydnNoRWJkNHE5NnJUTHlNVGtyYTdZeXFDYXgzamY4OW1PR3VjWXFiMlY3MW0yS0RPaU5HS1IzNUVDYnZkSHVJMGRuWGk0anZieThZRkl2eG8?oc=5",
+        "date": "2026-01-07",
+        "title": "Tannenbaum Helpern Elevates Construction & Design Attorney Hillel E. Sussman to Partner - citybiz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNzBnbnFxdUdxbWxwSUJRSlZhNHZCckdzY0pVWWpmR0JYWlk3N2lTX2pibFFRUE1QMUhQdmV5YVJadWl1cVluUnVZZWhOVXFpUV8zUUZUU0gtd19HWlE0a2tmVkFuYmNDaGxaa20zLWRydnNoRWJkNHE5NnJUTHlNVGtyYTdZeXFDYXgzamY4OW1PR3VjWXFiMlY3MW0yS0RPaU5HS1IzNUVDYnZkSHVJMGRuWGk0anZieThZRkl2eG8?oc=5\" target=\"_blank\">Tannenbaum Helpern Elevates Construction & Design Attorney Hillel E. Sussman to Partner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citybiz</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcTRLX2Q5NlUyUlJIY0VIM0ktOXVleVFqQVpvOGdGeGh6LW03MEhyaTJZdVdTRGJ6a2NrV245dkZGQWJ4VHo0QjhldGFVREY3LXVZaXk3bF9ZOXFWd3ZjTTZyeGh5S2lESzhiM1IzUHFCYUN4WmJ6VFlyVHZNOXRUSGZEODg4N3IxN0VxTW50Rlp4RW52UkdJRkh6Q1NYOW8?oc=5",
+        "date": "2026-01-07",
+        "title": "China Wants To Switch Off Taiwan\u2019s Critical Infrastructure - Foundation for Defense of Democracies",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOcTRLX2Q5NlUyUlJIY0VIM0ktOXVleVFqQVpvOGdGeGh6LW03MEhyaTJZdVdTRGJ6a2NrV245dkZGQWJ4VHo0QjhldGFVREY3LXVZaXk3bF9ZOXFWd3ZjTTZyeGh5S2lESzhiM1IzUHFCYUN4WmJ6VFlyVHZNOXRUSGZEODg4N3IxN0VxTW50Rlp4RW52UkdJRkh6Q1NYOW8?oc=5\" target=\"_blank\">China Wants To Switch Off Taiwan\u2019s Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foundation for Defense of Democracies</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblZNbHRBNUExcmR6d0Q0RXNEMU9iYnhNQ1M3dUtkbkpCVGRmQlBVWG1JdlYzYXBWOXNxTzhGWDJ4VFlvWW43ci1pVHl2RjMtc3JOOHZORU1yeFpHR0J3ZUp4YmpOSzdJYWNJeGRaUHoxdzNtaGZxZzV4dzBCdzBCYlNIb1FUNFdHa2pOUklpQ2YyVllQQ1VMSEtBNUE3a0VMS0NPb2FHSGNkUQ?oc=5",
+        "date": "2026-01-07",
+        "title": "Intuitive Machines Expands Infrastructure Focus Beyond Lunar Landings - news.satnews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblZNbHRBNUExcmR6d0Q0RXNEMU9iYnhNQ1M3dUtkbkpCVGRmQlBVWG1JdlYzYXBWOXNxTzhGWDJ4VFlvWW43ci1pVHl2RjMtc3JOOHZORU1yeFpHR0J3ZUp4YmpOSzdJYWNJeGRaUHoxdzNtaGZxZzV4dzBCdzBCYlNIb1FUNFdHa2pOUklpQ2YyVllQQ1VMSEtBNUE3a0VMS0NPb2FHSGNkUQ?oc=5\" target=\"_blank\">Intuitive Machines Expands Infrastructure Focus Beyond Lunar Landings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.satnews.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWEl0MUVKdXRsdjBMWWhiU252TzNpRklfNmV0QkhILTZfa0MzWGNySl91M2NKSElXQlRGRE5fTHlqZm1aTHdISmRYaHd4bGV1S2JWOEE2c1FUelFQR0lGa19makFUNmtoUVljVUNyREtQQ3Q1Z05MblFKbEZJVXZJaFFkVWwzZXluLVRUMnhlaTczS3hyMlYtVmp2U0pJZWVnOXE5Z0xGMzBHRW5Bbll1SzBKcTEteUJ4SGxkZzM0blpmVW8?oc=5",
+        "date": "2026-01-07",
+        "title": "WaterBridge Infrastructure LLC Stock (WBI) Opinions on Insider Buying and Strategic Role - Quiver Quantitative",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWEl0MUVKdXRsdjBMWWhiU252TzNpRklfNmV0QkhILTZfa0MzWGNySl91M2NKSElXQlRGRE5fTHlqZm1aTHdISmRYaHd4bGV1S2JWOEE2c1FUelFQR0lGa19makFUNmtoUVljVUNyREtQQ3Q1Z05MblFKbEZJVXZJaFFkVWwzZXluLVRUMnhlaTczS3hyMlYtVmp2U0pJZWVnOXE5Z0xGMzBHRW5Bbll1SzBKcTEteUJ4SGxkZzM0blpmVW8?oc=5\" target=\"_blank\">WaterBridge Infrastructure LLC Stock (WBI) Opinions on Insider Buying and Strategic Role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeVY0ajBJLXRhRE5CODBqbmVsVFdDbHFwWU1PN2VWZ25CVG5MeUNiSzZIaUVQd19DUjNrcXVaeWpYRzdLenFEcU9OMGIzVGtibmNkQ2FFZ2ZjWDdkWi1jU0VJdDdJa3g4Sm1QU09seS1PaUtLVkd0YVFvVTgwaWlOVU56c25TQzdfSjVoYTVQYkZlcnZqbXdGMEdTeU03cENYUkNj?oc=5",
+        "date": "2026-01-07",
+        "title": "Global data center sector to nearly double to 200GWamid AI infrastructure boom - Institutional Real Estate, Inc.",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOeVY0ajBJLXRhRE5CODBqbmVsVFdDbHFwWU1PN2VWZ25CVG5MeUNiSzZIaUVQd19DUjNrcXVaeWpYRzdLenFEcU9OMGIzVGtibmNkQ2FFZ2ZjWDdkWi1jU0VJdDdJa3g4Sm1QU09seS1PaUtLVkd0YVFvVTgwaWlOVU56c25TQzdfSjVoYTVQYkZlcnZqbXdGMEdTeU03cENYUkNj?oc=5\" target=\"_blank\">Global data center sector to nearly double to 200GWamid AI infrastructure boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Institutional Real Estate, Inc.</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOM1lBZzRUcmRGc0pZbzRfYzk4ZW5na1JoTkx2T1hhMGFhT19JM0k3d0NCbFhxRzJqdXc4YVlISGpJYUZ2YmhXSUc2UDBpSUQ2WkJRRnJnSHZZdUZFZXcycy1SWVJELW9IX2pQUWF2V0xFS25yQmp0TjNSRElvSTNEelh3bC1oNUozY2FzdTZRQlhVRXZsRzV5OHlwTS1ScEE2YV9QM2FaNk02TVZTbGtzM3FGSmFMS3FZcFFqeEpEdXZRUFdENDRGR0huUVNkdGZhLUF3ek9uRFJUQWdsc1NYcDlTTEdfRUtrZ3BJRDNDTDN1UUNu?oc=5",
+        "date": "2026-01-07",
+        "title": "PaXini Unveils the \"Tactile Infrastructure\" for Embodied AI, Redefining Full-Stack Product Matrix at CES 2026 - PR Newswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOM1lBZzRUcmRGc0pZbzRfYzk4ZW5na1JoTkx2T1hhMGFhT19JM0k3d0NCbFhxRzJqdXc4YVlISGpJYUZ2YmhXSUc2UDBpSUQ2WkJRRnJnSHZZdUZFZXcycy1SWVJELW9IX2pQUWF2V0xFS25yQmp0TjNSRElvSTNEelh3bC1oNUozY2FzdTZRQlhVRXZsRzV5OHlwTS1ScEE2YV9QM2FaNk02TVZTbGtzM3FGSmFMS3FZcFFqeEpEdXZRUFdENDRGR0huUVNkdGZhLUF3ek9uRFJUQWdsc1NYcDlTTEdfRUtrZ3BJRDNDTDN1UUNu?oc=5\" target=\"_blank\">PaXini Unveils the \"Tactile Infrastructure\" for Embodied AI, Redefining Full-Stack Product Matrix at CES 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYURFY1Bxb0kwcHRPZ1QtOWs0dklQS1FVVzhhbnZSeVpPZ0NVVjIyTzNxM0hYV2FqQW5BQkNVUUt1UXlPVHc1UWZMQjB1bEltMGFOSk9JM2NNMzFOVnN2c0MwOG1IV1VtZXlKbnV5cXgzazBjcHJkQndtSkJFNjQwV3FDZ0FTLUVsM3d3YXdqMDVnYVViOHFBVlNHYVhQVlRNS1RuZ1ZrZUhWeU0?oc=5",
+        "date": "2026-01-07",
+        "title": "Is Housing and Urban Development Corporation Limited Forming a Consolidation Base - Large Cap Stability Picks & Explosive Profit Trading - \u0423\u043b\u043f\u0440\u0430\u0432\u0434\u0430",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYURFY1Bxb0kwcHRPZ1QtOWs0dklQS1FVVzhhbnZSeVpPZ0NVVjIyTzNxM0hYV2FqQW5BQkNVUUt1UXlPVHc1UWZMQjB1bEltMGFOSk9JM2NNMzFOVnN2c0MwOG1IV1VtZXlKbnV5cXgzazBjcHJkQndtSkJFNjQwV3FDZ0FTLUVsM3d3YXdqMDVnYVViOHFBVlNHYVhQVlRNS1RuZ1ZrZUhWeU0?oc=5\" target=\"_blank\">Is Housing and Urban Development Corporation Limited Forming a Consolidation Base - Large Cap Stability Picks & Explosive Profit Trading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0423\u043b\u043f\u0440\u0430\u0432\u0434\u0430</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGZhc2o3aDRYVURtbUt0ZUVoTF9vMlZHVWFrSVhQNE1KcVViVmpoS1lIZ1BNeGNfSkh1UVJsZkhTMmMxUk93VXRTM2llWEdQOVZyNkdoLTkwNkNPMDN3am1QYTZvVjJUVDVxb1AwMTNFYjg0MzladVgxczZlbExLRUJVbERwa0FEczgxSzBUMUFob1A0Qk1Kak9Td3FLMUI0SDg1bHNnbDkySkZxa0xMa08zQzVieFlMNnc4eFlhUk9YUQ?oc=5",
+        "date": "2026-01-07",
+        "title": "World Urban Forum 13 - Governance Model and the Emerging Global Leadership of Azerbaijan - Az\u0259rtac",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGZhc2o3aDRYVURtbUt0ZUVoTF9vMlZHVWFrSVhQNE1KcVViVmpoS1lIZ1BNeGNfSkh1UVJsZkhTMmMxUk93VXRTM2llWEdQOVZyNkdoLTkwNkNPMDN3am1QYTZvVjJUVDVxb1AwMTNFYjg0MzladVgxczZlbExLRUJVbERwa0FEczgxSzBUMUFob1A0Qk1Kak9Td3FLMUI0SDg1bHNnbDkySkZxa0xMa08zQzVieFlMNnc4eFlhUk9YUQ?oc=5\" target=\"_blank\">World Urban Forum 13 - Governance Model and the Emerging Global Leadership of Azerbaijan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Az\u0259rtac</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc1ZBY0t3aXBka2VYd0xWTV85c1hBS1FXV1JpeDVGNWQtSGhTcjZSSi1zUnhVVjA3Q3AtLVZBUU5fUUQ2SUI3aUNLdm1SSWxHUDVhenNZMWFmX1Jjc1hnSGpYbmd6eEsya0Z1Y3Itak1NLVJnYm5LXzIzdHdmZTlRWnpGMGpwMm0xOWh4UzJ2bVZOc3dOQ3NCaTFnZXJ6cWtQeEROQkcycko?oc=5",
+        "date": "2026-01-07",
+        "title": "Quant Tools Rank Prime Urban Development India Limited as High Risk High Reward - Market Sentiment Shifts & Outperform the Market with Aggressive Picks - \u0423\u043b\u043f\u0440\u0430\u0432\u0434\u0430",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc1ZBY0t3aXBka2VYd0xWTV85c1hBS1FXV1JpeDVGNWQtSGhTcjZSSi1zUnhVVjA3Q3AtLVZBUU5fUUQ2SUI3aUNLdm1SSWxHUDVhenNZMWFmX1Jjc1hnSGpYbmd6eEsya0Z1Y3Itak1NLVJnYm5LXzIzdHdmZTlRWnpGMGpwMm0xOWh4UzJ2bVZOc3dOQ3NCaTFnZXJ6cWtQeEROQkcycko?oc=5\" target=\"_blank\">Quant Tools Rank Prime Urban Development India Limited as High Risk High Reward - Market Sentiment Shifts & Outperform the Market with Aggressive Picks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0423\u043b\u043f\u0440\u0430\u0432\u0434\u0430</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
