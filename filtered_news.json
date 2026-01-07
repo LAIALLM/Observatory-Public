@@ -2944,5 +2944,12 @@
         "status": "posted",
         "tweet": "AWS global data centers processed 3.2 zettabytes daily in 2026, up 45% from 2025.\n\n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-07",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Bitcoin mining now controls 45% of global hashrate in 2026, up from 5% in 2021.\n\nThis concentration drives $2.8B annual energy infrastructure costs in Texas alone, equivalent to powering 2.5M households.",
+        "type": "crypto"
     }
 ]
