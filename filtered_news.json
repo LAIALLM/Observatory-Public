@@ -3262,5 +3262,97 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: South Carolina hits key milestones in its 10-year infrastructure plan.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPclhCV0N0NF9wVmFnLWpid1p2b0s1YkFzb2xKZjY2dkxLN1FrQngzY29rbGNRY2tvOGpJSUl2VjRtTU4tZ1AtR2t2ZS1mTzgzbVk2cWJNNHJ5OGdSRHFMMWpyaHV0UHlySlowVkxIaktKMVZVVkYxRmp2WVlxUW1CMTZKU3hEWTBKMVlVdVdCWUphWjU2UDRpaUUyY1hCS2ZOQjRNa1FUdnFPcXJ3ckxGNURNVDNDMmQz?oc=5",
+        "date": "2026-01-07",
+        "title": "California Updates Confined Space Rules for Construction - ohsonline.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPclhCV0N0NF9wVmFnLWpid1p2b0s1YkFzb2xKZjY2dkxLN1FrQngzY29rbGNRY2tvOGpJSUl2VjRtTU4tZ1AtR2t2ZS1mTzgzbVk2cWJNNHJ5OGdSRHFMMWpyaHV0UHlySlowVkxIaktKMVZVVkYxRmp2WVlxUW1CMTZKU3hEWTBKMVlVdVdCWUphWjU2UDRpaUUyY1hCS2ZOQjRNa1FUdnFPcXJ3ckxGNURNVDNDMmQz?oc=5\" target=\"_blank\">California Updates Confined Space Rules for Construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ohsonline.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOamhZdFJjVzE0VC1OdzFOcXlFckI2dThISGM1MUNhM0tjUVZ5SlpEWklmeWFna1JMaUJleWpudHlhcUNjSGRTdS0yLUhENXM2Uy05cWNBTlhHT3B6U3dGZURsa1BHaW1FX0NqaXdFU1BrU1Vrd1dDbXZWM3BNRHp0ZlppQ1VOako4Q2szZm5ua0xOMF9yNEVjX1VsV1U1LU1KekExQ0pISnVId2J2bFZycVNUVzdhTk44c0thcnRDRQ?oc=5",
+        "date": "2026-01-07",
+        "title": "Gov. DeSantis awards $168M to rural communities for infrastructure improvements - Florida Politics",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOamhZdFJjVzE0VC1OdzFOcXlFckI2dThISGM1MUNhM0tjUVZ5SlpEWklmeWFna1JMaUJleWpudHlhcUNjSGRTdS0yLUhENXM2Uy05cWNBTlhHT3B6U3dGZURsa1BHaW1FX0NqaXdFU1BrU1Vrd1dDbXZWM3BNRHp0ZlppQ1VOako4Q2szZm5ua0xOMF9yNEVjX1VsV1U1LU1KekExQ0pISnVId2J2bFZycVNUVzdhTk44c0thcnRDRQ?oc=5\" target=\"_blank\">Gov. DeSantis awards $168M to rural communities for infrastructure improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Politics</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Gov. DeSantis awards $168M to Floridas rural communities for infrastructure upgrades."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdFhPOV9HQm1URGJYZTZHU3pmNW5lSS03VnZRMFVvVUFoMmdJSlVwdTJITnpoRHU2b3NSdmdwTkVPYVhkZ2g5eFJieG54ZExBZUdDQi1uTkFDZm9MSkdfRkJycjhpUUZxVGVGbm9SLTJycEFoamg4TGtwNFg4YndtZkw3ZnBBbmJ4SDFLNXhuY3pnRWlGeXRzSmtoV3dlT3lDQWt6NUk4dWk0RE91WHU4Njl5V0JKaUVseW55aFNnYzRMQQ?oc=5",
+        "date": "2026-01-07",
+        "title": "DeSantis announces $167.5 million in rural infrastructure funding for hurricane recovery - ABC7 WWSB",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdFhPOV9HQm1URGJYZTZHU3pmNW5lSS03VnZRMFVvVUFoMmdJSlVwdTJITnpoRHU2b3NSdmdwTkVPYVhkZ2g5eFJieG54ZExBZUdDQi1uTkFDZm9MSkdfRkJycjhpUUZxVGVGbm9SLTJycEFoamg4TGtwNFg4YndtZkw3ZnBBbmJ4SDFLNXhuY3pnRWlGeXRzSmtoV3dlT3lDQWt6NUk4dWk0RE91WHU4Njl5V0JKaUVseW55aFNnYzRMQQ?oc=5\" target=\"_blank\">DeSantis announces $167.5 million in rural infrastructure funding for hurricane recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 WWSB</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: DeSantis announces $167.5M in funding for rural infrastructure to aid hurricane recovery"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5TXB5OFFoSktOdDF6T21uMHp4aE11UFQxUjFlYkRUTFFuQ3kwYWVBc0dVdXJYNnU2UVhvSlVVSXNDMVA3ZGRfNlBpZjFpdktycjhqdTdwcVk4aXIzSWMyaGlnTlpGNW9vd2c?oc=5",
+        "date": "2026-01-07",
+        "title": "Infrastructure Improvement Grant Funding is Announced by Pettis County - KSIS Radio 1050 AM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA5TXB5OFFoSktOdDF6T21uMHp4aE11UFQxUjFlYkRUTFFuQ3kwYWVBc0dVdXJYNnU2UVhvSlVVSXNDMVA3ZGRfNlBpZjFpdktycjhqdTdwcVk4aXIzSWMyaGlnTlpGNW9vd2c?oc=5\" target=\"_blank\">Infrastructure Improvement Grant Funding is Announced by Pettis County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSIS Radio 1050 AM</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb09Yb2ZySEpVV0hLbFFISHRVejNiOWRxY1VfWTJybTV2Ym5hUUdxbjVsbDBtRzRiNWxSdmVZU2Y4TVBseUxSU2lyVWZ2N19EbXdlUFAyOWxKZU9VTlFTbEdKcTJCaGVNN1d5aERaOFNrR1VOd0RHZDEyOFhlYTN1dXI5dlVsRnRWS1d5NjBnYnpxVDBIazR0WHNWekhjbzluQlF6a1pHT0NyUQ?oc=5",
+        "date": "2026-01-07",
+        "title": "Gov. DeSantis awards $167.5 million for infrastructure in rural Florida communities - Florida\u2019s Voice",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb09Yb2ZySEpVV0hLbFFISHRVejNiOWRxY1VfWTJybTV2Ym5hUUdxbjVsbDBtRzRiNWxSdmVZU2Y4TVBseUxSU2lyVWZ2N19EbXdlUFAyOWxKZU9VTlFTbEdKcTJCaGVNN1d5aERaOFNrR1VOd0RHZDEyOFhlYTN1dXI5dlVsRnRWS1d5NjBnYnpxVDBIazR0WHNWekhjbzluQlF6a1pHT0NyUQ?oc=5\" target=\"_blank\">Gov. DeSantis awards $167.5 million for infrastructure in rural Florida communities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida\u2019s Voice</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMVQ3U0Zrek9ZeXhLellmTld1cUZuM0FlZWRfZS0yeHFsODRadElyaFptT2QtVGNYX2tkbDd5dFJOeklmUDNySktMdmN0OHNsZXowVVlXVFhCeUVucGNPbk1vNFZKOUdsa2w1dWQya0tYU0psRnk1RHRzWUE1M3lrZEcwLXZPQ2NEN25vcmROVGJrY3VqTW9tT1U2TzA1S0FBOFh4M2NJYTk4SEJJUXJ6V3FUZUctRmhhRkRPeFF5d2RJb0xOY2trZ3c5MGw3ZmQ0Z0dlOGlTUG0yQ25Z?oc=5",
+        "date": "2026-01-07",
+        "title": "Sentiment Tools Show Shift in Trader Mood on Housing and Urban Development Corporation Limited - Emerging Market Stocks & Big Gains Small Budget - bollywoodhelpline.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMVQ3U0Zrek9ZeXhLellmTld1cUZuM0FlZWRfZS0yeHFsODRadElyaFptT2QtVGNYX2tkbDd5dFJOeklmUDNySktMdmN0OHNsZXowVVlXVFhCeUVucGNPbk1vNFZKOUdsa2w1dWQya0tYU0psRnk1RHRzWUE1M3lrZEcwLXZPQ2NEN25vcmROVGJrY3VqTW9tT1U2TzA1S0FBOFh4M2NJYTk4SEJJUXJ6V3FUZUctRmhhRkRPeFF5d2RJb0xOY2trZ3c5MGw3ZmQ0Z0dlOGlTUG0yQ25Z?oc=5\" target=\"_blank\">Sentiment Tools Show Shift in Trader Mood on Housing and Urban Development Corporation Limited - Emerging Market Stocks & Big Gains Small Budget</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bollywoodhelpline.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNamdvQ0sxLTNUQlZReGlhNW4xdmx0dnlRT2NMOC1WTEtUb3k3dWNTOXVPN2NDRnJCRTZmZHdadVJjYWZBOURmT1ZNQUZtd253bVdWUjB6LWtCeEZmdk1RbXJ6VXN0WXZoNm5HeWl6aFF1Y0tITnVTNUUyTXZaeFkyRnRsZFZLV3daSzF5bWhsZEhKWmo0cWdXbmotRE05TWZGMEVzVndsUXpmVzR1N0lYR2R1VThGRXNnclE?oc=5",
+        "date": "2026-01-07",
+        "title": "Sector ETF Data Correlates with Strength in Housing and Urban Development Corporation Limited - Dividend Growth Stocks & Add These Before Everyone Else Does - \u0423\u043b\u043f\u0440\u0430\u0432\u0434\u0430",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNamdvQ0sxLTNUQlZReGlhNW4xdmx0dnlRT2NMOC1WTEtUb3k3dWNTOXVPN2NDRnJCRTZmZHdadVJjYWZBOURmT1ZNQUZtd253bVdWUjB6LWtCeEZmdk1RbXJ6VXN0WXZoNm5HeWl6aFF1Y0tITnVTNUUyTXZaeFkyRnRsZFZLV3daSzF5bWhsZEhKWmo0cWdXbmotRE05TWZGMEVzVndsUXpmVzR1N0lYR2R1VThGRXNnclE?oc=5\" target=\"_blank\">Sector ETF Data Correlates with Strength in Housing and Urban Development Corporation Limited - Dividend Growth Stocks & Add These Before Everyone Else Does</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0423\u043b\u043f\u0440\u0430\u0432\u0434\u0430</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOamhZdFJjVzE0VC1OdzFOcXlFckI2dThISGM1MUNhM0tjUVZ5SlpEWklmeWFna1JMaUJleWpudHlhcUNjSGRTdS0yLUhENXM2Uy05cWNBTlhHT3B6U3dGZURsa1BHaW1FX0NqaXdFU1BrU1Vrd1dDbXZWM3BNRHp0ZlppQ1VOako4Q2szZm5ua0xOMF9yNEVjX1VsV1U1LU1KekExQ0pISnVId2J2bFZycVNUVzdhTk44c0thcnRDRQ?oc=5",
+        "date": "2026-01-07",
+        "title": "Gov. DeSantis awards $168M to rural communities for infrastructure improvements - Florida Politics",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOamhZdFJjVzE0VC1OdzFOcXlFckI2dThISGM1MUNhM0tjUVZ5SlpEWklmeWFna1JMaUJleWpudHlhcUNjSGRTdS0yLUhENXM2Uy05cWNBTlhHT3B6U3dGZURsa1BHaW1FX0NqaXdFU1BrU1Vrd1dDbXZWM3BNRHp0ZlppQ1VOako4Q2szZm5ua0xOMF9yNEVjX1VsV1U1LU1KekExQ0pISnVId2J2bFZycVNUVzdhTk44c0thcnRDRQ?oc=5\" target=\"_blank\">Gov. DeSantis awards $168M to rural communities for infrastructure improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Politics</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Gov. DeSantis awards $168M to rural Florida communities for infrastructure upgrades",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdFhPOV9HQm1URGJYZTZHU3pmNW5lSS03VnZRMFVvVUFoMmdJSlVwdTJITnpoRHU2b3NSdmdwTkVPYVhkZ2g5eFJieG54ZExBZUdDQi1uTkFDZm9MSkdfRkJycjhpUUZxVGVGbm9SLTJycEFoamg4TGtwNFg4YndtZkw3ZnBBbmJ4SDFLNXhuY3pnRWlGeXRzSmtoV3dlT3lDQWt6NUk4dWk0RE91WHU4Njl5V0JKaUVseW55aFNnYzRMQQ?oc=5",
+        "date": "2026-01-07",
+        "title": "DeSantis announces $167.5 million in rural infrastructure funding for hurricane recovery - ABC7 WWSB",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdFhPOV9HQm1URGJYZTZHU3pmNW5lSS03VnZRMFVvVUFoMmdJSlVwdTJITnpoRHU2b3NSdmdwTkVPYVhkZ2g5eFJieG54ZExBZUdDQi1uTkFDZm9MSkdfRkJycjhpUUZxVGVGbm9SLTJycEFoamg4TGtwNFg4YndtZkw3ZnBBbmJ4SDFLNXhuY3pnRWlGeXRzSmtoV3dlT3lDQWt6NUk4dWk0RE91WHU4Njl5V0JKaUVseW55aFNnYzRMQQ?oc=5\" target=\"_blank\">DeSantis announces $167.5 million in rural infrastructure funding for hurricane recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 WWSB</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: DeSantis announces $167.5M in rural infrastructure funding to aid hurricane recovery",
+        "type": "news"
     }
 ]
