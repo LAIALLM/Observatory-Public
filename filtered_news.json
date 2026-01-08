@@ -2928,5 +2928,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: DeSantis announces $167.5M in rural infrastructure funding to aid hurricane recovery",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWjJ1V0Q2Z2pUUVA3YXc5ZU5iTldzclBiNkNMS2JwTmk1LXF6QXJoTVc5WF96NUwycTU2amxfOTh5dU8wSFJnZnhnRC14dkl0NU1JUm9oaXhEdXVpQnhXM1E2SUFWY25uY0pOeUZfX3AzWG9fV1J3VE85b25mVXZEVi1Ud2JZbnFSNGFmY2xtMDJlUHlTOVdCa3N6ekZBZzZPdUFwZ3FkLTI0OXhZQjRHbU45N1lqa2JsbXBmeE1n?oc=5",
+        "date": "2026-01-08",
+        "title": "Bay Area company is automating home construction with mobile robotic factories - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOWjJ1V0Q2Z2pUUVA3YXc5ZU5iTldzclBiNkNMS2JwTmk1LXF6QXJoTVc5WF96NUwycTU2amxfOTh5dU8wSFJnZnhnRC14dkl0NU1JUm9oaXhEdXVpQnhXM1E2SUFWY25uY0pOeUZfX3AzWG9fV1J3VE85b25mVXZEVi1Ud2JZbnFSNGFmY2xtMDJlUHlTOVdCa3N6ekZBZzZPdUFwZ3FkLTI0OXhZQjRHbU45N1lqa2JsbXBmeE1n?oc=5\" target=\"_blank\">Bay Area company is automating home construction with mobile robotic factories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcFVad3BIbU9QTE5vd1hmUnM3STg0TENVMUJlLThrd3FlRDdELURHLThOd2RKYUVWaDUwWGRhb3R6cFhkM1VLcUM3aGxkWGtxZTBBd1ZhbXNEVkxRVzNIUnJ6cjd4Y3RScnpQSk5WN2YtOVBiVER4WmhtVXN3YWp0YXBpaGZXd1pJd3Azblpn0gGiAUFVX3lxTFBpZHhIR0hJbFB5U2pMa0NCZnFLOXpvTEplWlZZZk5wOFVUaVJyWktrUmJXbm01dGNxN2hXR05JUjQ3eWZ2UFpwT0NISmZhLU9ROW9sQXhWUElQbmVkM2EyVGVlaktaQmRtTmk4N3hQN2ppRlR6dkJRUjMyemQwTGoyd1MtZGU5bGZwYy1CTnlCLVk4ZTNRbmpsSkdkNTZCUHF5QQ?oc=5",
+        "date": "2026-01-08",
+        "title": "Town of Chenango passes solar infrastructure moratorium - WBNG",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOcFVad3BIbU9QTE5vd1hmUnM3STg0TENVMUJlLThrd3FlRDdELURHLThOd2RKYUVWaDUwWGRhb3R6cFhkM1VLcUM3aGxkWGtxZTBBd1ZhbXNEVkxRVzNIUnJ6cjd4Y3RScnpQSk5WN2YtOVBiVER4WmhtVXN3YWp0YXBpaGZXd1pJd3Azblpn0gGiAUFVX3lxTFBpZHhIR0hJbFB5U2pMa0NCZnFLOXpvTEplWlZZZk5wOFVUaVJyWktrUmJXbm01dGNxN2hXR05JUjQ3eWZ2UFpwT0NISmZhLU9ROW9sQXhWUElQbmVkM2EyVGVlaktaQmRtTmk4N3hQN2ppRlR6dkJRUjMyemQwTGoyd1MtZGU5bGZwYy1CTnlCLVk4ZTNRbmpsSkdkNTZCUHF5QQ?oc=5\" target=\"_blank\">Town of Chenango passes solar infrastructure moratorium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBNG</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
