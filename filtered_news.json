@@ -2984,5 +2984,12 @@
         "status": "posted",
         "tweet": "Ethereum's infrastructure energy costs fell 99.95% post-2022 Merge,\n\nfrom 112 TWh/year (~$5.6B at $0.05/kWh) in 2021\n\nto 0.05 TWh/year (~$2.5M) projected for 2026.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-01-08",
+        "status": "posted",
+        "tweet": "NVIDIA's \ud83c\uddfa\ud83c\uddf8 California data centers hit 15 exabytes of daily AI compute throughput in 2026, up 40% from 2025.\n\n$NVDA",
+        "type": "infrastructure"
     }
 ]
