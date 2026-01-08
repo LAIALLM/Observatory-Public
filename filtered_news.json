@@ -2948,5 +2948,26 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWdrOEtKOGZBUFJuR0x4Q29fY2dEVEJxakhIRUl4OUFCalF2ZHZzSnQxb2psNmkwdS04QVE2LUF6M1U0dHF2ZFZ3Z3d0X2ZxVzBqMWVYaXJrc2I4Ti05dGluUkxMMVlQQ0FBckREVGRqUGFvRzkxZGcwa09waFBfX0g3Z3ZVWEtjcDFoME8wbmp6RVRzdEpQTHFn?oc=5",
+        "date": "2026-01-08",
+        "title": "ATELIER: Driving smart cities towards positive energy districts - Enlit World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWdrOEtKOGZBUFJuR0x4Q29fY2dEVEJxakhIRUl4OUFCalF2ZHZzSnQxb2psNmkwdS04QVE2LUF6M1U0dHF2ZFZ3Z3d0X2ZxVzBqMWVYaXJrc2I4Ti05dGluUkxMMVlQQ0FBckREVGRqUGFvRzkxZGcwa09waFBfX0g3Z3ZVWEtjcDFoME8wbmp6RVRzdEpQTHFn?oc=5\" target=\"_blank\">ATELIER: Driving smart cities towards positive energy districts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Enlit World</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "NEWS: ATELIER project advances smart cities by developing positive energy districts for sustainable urban growth"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWdrOEtKOGZBUFJuR0x4Q29fY2dEVEJxakhIRUl4OUFCalF2ZHZzSnQxb2psNmkwdS04QVE2LUF6M1U0dHF2ZFZ3Z3d0X2ZxVzBqMWVYaXJrc2I4Ti05dGluUkxMMVlQQ0FBckREVGRqUGFvRzkxZGcwa09waFBfX0g3Z3ZVWEtjcDFoME8wbmp6RVRzdEpQTHFn?oc=5",
+        "date": "2026-01-08",
+        "title": "ATELIER: Driving smart cities towards positive energy districts - Enlit World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWdrOEtKOGZBUFJuR0x4Q29fY2dEVEJxakhIRUl4OUFCalF2ZHZzSnQxb2psNmkwdS04QVE2LUF6M1U0dHF2ZFZ3Z3d0X2ZxVzBqMWVYaXJrc2I4Ti05dGluUkxMMVlQQ0FBckREVGRqUGFvRzkxZGcwa09waFBfX0g3Z3ZVWEtjcDFoME8wbmp6RVRzdEpQTHFn?oc=5\" target=\"_blank\">ATELIER: Driving smart cities towards positive energy districts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Enlit World</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "NEWS: ATELIER project advances smart cities with positive energy districts for sustainable urban growth",
+        "type": "news"
     }
 ]
