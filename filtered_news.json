@@ -2969,5 +2969,13 @@
         "status": "posted",
         "tweet": "NEWS: ATELIER project advances smart cities with positive energy districts for sustainable urban growth",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-08",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Drivers log 13,476 miles annually per capita.\n\nBy 2026, EVs comprise 35% of new vehicle sales, cutting oil demand by 5 million barrels/day globally.",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
