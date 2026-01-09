@@ -2899,5 +2899,66 @@
         "status": "posted",
         "tweet": "NEWS: Real estate firm secures $1.25B to build next-gen AI data centers",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY2xnMHNuNnVWWHBVU1JodVlJX2llSGlnbFdfbUVzeVBwWXB2WGFvNXVlNmk2Z3NqM013T1VFd0ZXVVJqRFd5TjBkSlhVU3hjUXJqbXF1Q3AySUp0eTdtY0ZxVl8xdng2VkJ6RWhjbm9jRXZQZGp6ZkpvMUhkYy1hUjlDNV9RNWk2cGt3R1ZPUzhxQzJEaG1oS2pJY3JObzE2ajR2Snc5NEZZY0ZCZGxRYW1LSkZRLVNNYnVB?oc=5",
+        "date": "2026-01-09",
+        "title": "News Releases | ABC: Construction Lost 11,000 Jobs in December, Added Just 14,000 Jobs in 2025 - ABC.org",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY2xnMHNuNnVWWHBVU1JodVlJX2llSGlnbFdfbUVzeVBwWXB2WGFvNXVlNmk2Z3NqM013T1VFd0ZXVVJqRFd5TjBkSlhVU3hjUXJqbXF1Q3AySUp0eTdtY0ZxVl8xdng2VkJ6RWhjbm9jRXZQZGp6ZkpvMUhkYy1hUjlDNV9RNWk2cGt3R1ZPUzhxQzJEaG1oS2pJY3JObzE2ajR2Snc5NEZZY0ZCZGxRYW1LSkZRLVNNYnVB?oc=5\" target=\"_blank\">News Releases | ABC: Construction Lost 11,000 Jobs in December, Added Just 14,000 Jobs in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC.org</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenpnLVFIaUhTekE2dXI0UHU2X1JEYjJsc3BsV2paZ1JqdElaSUpOVUFLN2ViQWRfeFp3NXdJLWRmZ2FkSXdTLVV6b3F4el9aNFl5dnJiZlNGM0JQd3pKMHZmMm4zYW5jbzc4aTBDZ2Q2SnFhQ3FZekxJUXRWMGRFNXZwUVZETGdQU29STTZhWkdxbmt4dGFQTV9mVQ?oc=5",
+        "date": "2026-01-09",
+        "title": "Construction Jobs Bounced Back by 90,000 in November - Builder Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOenpnLVFIaUhTekE2dXI0UHU2X1JEYjJsc3BsV2paZ1JqdElaSUpOVUFLN2ViQWRfeFp3NXdJLWRmZ2FkSXdTLVV6b3F4el9aNFl5dnJiZlNGM0JQd3pKMHZmMm4zYW5jbzc4aTBDZ2Q2SnFhQ3FZekxJUXRWMGRFNXZwUVZETGdQU29STTZhWkdxbmt4dGFQTV9mVQ?oc=5\" target=\"_blank\">Construction Jobs Bounced Back by 90,000 in November</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builder Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNclc5MW5hdFE4ZHBLWnFrTFVGOUxzcnUwZklCQi1YbGN4WklUWEp5QllrVG8xSF9xbzZhQ0h0bWxuMFN3R0wzMU5GYTM0dUwtOXVjQjhnNktILU9EZW1IZ2RBenBvNVFfZ0xEc1g0NWExYVhEYWZXZGtMUEpFbGk5QV9sQ05ZSXpBc3IzbVJhNk43eHVFVGVzdVRFS3hUYlZYSmxYQzRUSWJiV2NXeHZXWjJGUldkVXM?oc=5",
+        "date": "2026-01-09",
+        "title": "Collaborative approach to infrastructure investment and workforce development drive growth - American Journal of Transportation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNclc5MW5hdFE4ZHBLWnFrTFVGOUxzcnUwZklCQi1YbGN4WklUWEp5QllrVG8xSF9xbzZhQ0h0bWxuMFN3R0wzMU5GYTM0dUwtOXVjQjhnNktILU9EZW1IZ2RBenBvNVFfZ0xEc1g0NWExYVhEYWZXZGtMUEpFbGk5QV9sQ05ZSXpBc3IzbVJhNk43eHVFVGVzdVRFS3hUYlZYSmxYQzRUSWJiV2NXeHZXWjJGUldkVXM?oc=5\" target=\"_blank\">Collaborative approach to infrastructure investment and workforce development drive growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Journal of Transportation</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSDV1ZVB3WUJqS0xDTlgyM1lNcllTZTkwSXF6U0VEQ0pCNTQwY0ljZVBJM24zbEpwb0lnV2VJSVN3RXVJYXd0VGgzWmtjN1pzaUZCRjc5NkljOXJiOURJRzAyejF0cjcxUGpjT0MxQkxjT0FGcFlzYUd6R3B1VFB1MXVRVFNYT29DVUl1OThGT3NUTDVVa0RWT2VFU1k2MllIeVNraTBTeDROTzJCczhGUnZFZlZwNGxZbExzVms0ZEFzdGxENGdwX0Fiakh4Z1huMFFUajdR?oc=5",
+        "date": "2026-01-09",
+        "title": "Aging Sewer Infrastructure Is Becoming A Growing Concern For Communities Nationwide - KHTS Radio",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSDV1ZVB3WUJqS0xDTlgyM1lNcllTZTkwSXF6U0VEQ0pCNTQwY0ljZVBJM24zbEpwb0lnV2VJSVN3RXVJYXd0VGgzWmtjN1pzaUZCRjc5NkljOXJiOURJRzAyejF0cjcxUGpjT0MxQkxjT0FGcFlzYUd6R3B1VFB1MXVRVFNYT29DVUl1OThGT3NUTDVVa0RWT2VFU1k2MllIeVNraTBTeDROTzJCczhGUnZFZlZwNGxZbExzVms0ZEFzdGxENGdwX0Fiakh4Z1huMFFUajdR?oc=5\" target=\"_blank\">Aging Sewer Infrastructure Is Becoming A Growing Concern For Communities Nationwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KHTS Radio</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcmRYQ1RFMjIyMG84ZXQ4RWFqVUFKYmxaNkZmaVp0TFBTWWR6cXBodHJmbGFRQW8xTkE0SzZTU3dMTmFYTWp0OU5pOEFMYUE1T0Z2MlkyeThwTmVUUnN3VVdNOXRaeTZieGlMZFYwdXAxLTM5NTRlNm1JT1oyY1d3ZDhDamhnN1Y3bzdNQWRpU3YzUksxTlE2QmI4enIwN2YxUEJ0dGc1X2lQQUtnZUZHaTlmUTdSZ0RDVDlwTllHZk5jTlp5X3BENWZMQUVfUWIxS2JtQkdTUm11dlE4OTJTSjdPbDFOemFERDBHWVFGX2oxcE5yNVcwUW9NUWdwMUdVaWZZ0gGIAkFVX3lxTE9wTnNSdk9CcHpXLXR2TlpGQmgtQzdoenp1LWhNVXhzRWhOdzFrdWZTc2xIVUtlenJaLWpQOHBiZWU5U0NzRnUydzA3RXBXTEdUTkpZMW5YazBzeTEwT3hKaTc0ZnFBd1J4UDUxSExXcGFDend2ZFRIZkc5Q19xT2d0NG5pckNyWWQzNEpNbE5rSTdQV0JIREMxOHExSlBMcTJ5aWxnbW01Qmd4SFFkWnIxb0ZQYlQ2Q3RzenpCOFAzRjFabm5kX25HMDBXLXJOOFgxQU5ONlBNVXo1Ul9PTkY5Z1B3VlM5aVBmTnFReEpMSVJkSW1QMXpHNTRuNzNSMmtYaktHTzdHUg?oc=5",
+        "date": "2026-01-09",
+        "title": "Meta signs major nuclear energy contracts for AI infrastructure amid demand surge - livemint.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPcmRYQ1RFMjIyMG84ZXQ4RWFqVUFKYmxaNkZmaVp0TFBTWWR6cXBodHJmbGFRQW8xTkE0SzZTU3dMTmFYTWp0OU5pOEFMYUE1T0Z2MlkyeThwTmVUUnN3VVdNOXRaeTZieGlMZFYwdXAxLTM5NTRlNm1JT1oyY1d3ZDhDamhnN1Y3bzdNQWRpU3YzUksxTlE2QmI4enIwN2YxUEJ0dGc1X2lQQUtnZUZHaTlmUTdSZ0RDVDlwTllHZk5jTlp5X3BENWZMQUVfUWIxS2JtQkdTUm11dlE4OTJTSjdPbDFOemFERDBHWVFGX2oxcE5yNVcwUW9NUWdwMUdVaWZZ0gGIAkFVX3lxTE9wTnNSdk9CcHpXLXR2TlpGQmgtQzdoenp1LWhNVXhzRWhOdzFrdWZTc2xIVUtlenJaLWpQOHBiZWU5U0NzRnUydzA3RXBXTEdUTkpZMW5YazBzeTEwT3hKaTc0ZnFBd1J4UDUxSExXcGFDend2ZFRIZkc5Q19xT2d0NG5pckNyWWQzNEpNbE5rSTdQV0JIREMxOHExSlBMcTJ5aWxnbW01Qmd4SFFkWnIxb0ZQYlQ2Q3RzenpCOFAzRjFabm5kX25HMDBXLXJOOFgxQU5ONlBNVXo1Ul9PTkY5Z1B3VlM5aVBmTnFReEpMSVJkSW1QMXpHNTRuNzNSMmtYaktHTzdHUg?oc=5\" target=\"_blank\">Meta signs major nuclear energy contracts for AI infrastructure amid demand surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">livemint.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Meta signs major nuclear energy contracts for AI infrastructure amid demand surge $META"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcmRYQ1RFMjIyMG84ZXQ4RWFqVUFKYmxaNkZmaVp0TFBTWWR6cXBodHJmbGFRQW8xTkE0SzZTU3dMTmFYTWp0OU5pOEFMYUE1T0Z2MlkyeThwTmVUUnN3VVdNOXRaeTZieGlMZFYwdXAxLTM5NTRlNm1JT1oyY1d3ZDhDamhnN1Y3bzdNQWRpU3YzUksxTlE2QmI4enIwN2YxUEJ0dGc1X2lQQUtnZUZHaTlmUTdSZ0RDVDlwTllHZk5jTlp5X3BENWZMQUVfUWIxS2JtQkdTUm11dlE4OTJTSjdPbDFOemFERDBHWVFGX2oxcE5yNVcwUW9NUWdwMUdVaWZZ0gGIAkFVX3lxTE9wTnNSdk9CcHpXLXR2TlpGQmgtQzdoenp1LWhNVXhzRWhOdzFrdWZTc2xIVUtlenJaLWpQOHBiZWU5U0NzRnUydzA3RXBXTEdUTkpZMW5YazBzeTEwT3hKaTc0ZnFBd1J4UDUxSExXcGFDend2ZFRIZkc5Q19xT2d0NG5pckNyWWQzNEpNbE5rSTdQV0JIREMxOHExSlBMcTJ5aWxnbW01Qmd4SFFkWnIxb0ZQYlQ2Q3RzenpCOFAzRjFabm5kX25HMDBXLXJOOFgxQU5ONlBNVXo1Ul9PTkY5Z1B3VlM5aVBmTnFReEpMSVJkSW1QMXpHNTRuNzNSMmtYaktHTzdHUg?oc=5",
+        "date": "2026-01-09",
+        "title": "Meta signs major nuclear energy contracts for AI infrastructure amid demand surge - livemint.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPcmRYQ1RFMjIyMG84ZXQ4RWFqVUFKYmxaNkZmaVp0TFBTWWR6cXBodHJmbGFRQW8xTkE0SzZTU3dMTmFYTWp0OU5pOEFMYUE1T0Z2MlkyeThwTmVUUnN3VVdNOXRaeTZieGlMZFYwdXAxLTM5NTRlNm1JT1oyY1d3ZDhDamhnN1Y3bzdNQWRpU3YzUksxTlE2QmI4enIwN2YxUEJ0dGc1X2lQQUtnZUZHaTlmUTdSZ0RDVDlwTllHZk5jTlp5X3BENWZMQUVfUWIxS2JtQkdTUm11dlE4OTJTSjdPbDFOemFERDBHWVFGX2oxcE5yNVcwUW9NUWdwMUdVaWZZ0gGIAkFVX3lxTE9wTnNSdk9CcHpXLXR2TlpGQmgtQzdoenp1LWhNVXhzRWhOdzFrdWZTc2xIVUtlenJaLWpQOHBiZWU5U0NzRnUydzA3RXBXTEdUTkpZMW5YazBzeTEwT3hKaTc0ZnFBd1J4UDUxSExXcGFDend2ZFRIZkc5Q19xT2d0NG5pckNyWWQzNEpNbE5rSTdQV0JIREMxOHExSlBMcTJ5aWxnbW01Qmd4SFFkWnIxb0ZQYlQ2Q3RzenpCOFAzRjFabm5kX25HMDBXLXJOOFgxQU5ONlBNVXo1Ul9PTkY5Z1B3VlM5aVBmTnFReEpMSVJkSW1QMXpHNTRuNzNSMmtYaktHTzdHUg?oc=5\" target=\"_blank\">Meta signs major nuclear energy contracts for AI infrastructure amid demand surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">livemint.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Meta signs major nuclear energy contracts to power AI infrastructure amid surging demand $META",
+        "type": "news"
     }
 ]
