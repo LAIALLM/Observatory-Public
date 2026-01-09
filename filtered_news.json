@@ -2960,5 +2960,86 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Meta signs major nuclear energy contracts to power AI infrastructure amid surging demand $META",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjBaTVo2VTZDSXJaMGFSVUdBTlJrZmZCa3NoeXNhZ216S09KS0hYbW9GN1pwby1weHJYbFJBek5QMkI1aWxSaWp6ZVQwd0FnTWhUNjM4SHdzcnVuSEVyNlQ5TDBFS2Fkb3hQeGNFTi1JOEtQN1QzVFVEVkNweXRkWlozeV94X0pneGRvMllIdW5YSEJzeU5uYUl6cy1Xamp3?oc=5",
+        "date": "2026-01-09",
+        "title": "Dec. Construction Employment Declined From Nov. but Rose YOY - Floor Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjBaTVo2VTZDSXJaMGFSVUdBTlJrZmZCa3NoeXNhZ216S09KS0hYbW9GN1pwby1weHJYbFJBek5QMkI1aWxSaWp6ZVQwd0FnTWhUNjM4SHdzcnVuSEVyNlQ5TDBFS2Fkb3hQeGNFTi1JOEtQN1QzVFVEVkNweXRkWlozeV94X0pneGRvMllIdW5YSEJzeU5uYUl6cy1Xamp3?oc=5\" target=\"_blank\">Dec. Construction Employment Declined From Nov. but Rose YOY</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Floor Daily</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbEdtM3dtQTNXTHBTT3M4ZG5GMEpnQ3A3dnV1MjQzaGxRVjdnREJlazdhYmdWaVhrOENoRHZGREUxQkFDNFllQ0xWQVZOTmZUT3h3LWFOZ0JLZHJwamJxWkxuUDhnc2I0MGxqUzhlWlNmbE1ZU2FGTkNYdWVRZE84eW9Va1d2dXRuZEI5RjhaZE9Zejc2MHg4NU1hUzE4dnpIV0tqaGtJOEVWeGctYlljZ05ldTVTR09HaUp4dnlnaExJLWxZT3ZXR3E1MDBTYlZITng0d1RnZEFKbW5McHJEVExzTQ?oc=5",
+        "date": "2026-01-09",
+        "title": "City of Davenport secures $6 million infrastructure grant - WQAD",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbEdtM3dtQTNXTHBTT3M4ZG5GMEpnQ3A3dnV1MjQzaGxRVjdnREJlazdhYmdWaVhrOENoRHZGREUxQkFDNFllQ0xWQVZOTmZUT3h3LWFOZ0JLZHJwamJxWkxuUDhnc2I0MGxqUzhlWlNmbE1ZU2FGTkNYdWVRZE84eW9Va1d2dXRuZEI5RjhaZE9Zejc2MHg4NU1hUzE4dnpIV0tqaGtJOEVWeGctYlljZ05ldTVTR09HaUp4dnlnaExJLWxZT3ZXR3E1MDBTYlZITng0d1RnZEFKbW5McHJEVExzTQ?oc=5\" target=\"_blank\">City of Davenport secures $6 million infrastructure grant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WQAD</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa2tRQlNDeEgzX0lMZmY0SXAzY21SenR0UEd5TFU4aXQ1eUJmYzZXd19sN2J4TUYzUld6bG1xdWxRRHo5aXNvNXhNNEdaYVhNNUhWcWdMWUwzX0t3QW1zeXRfck55Y29NNEh4Y296b3ZxTjIyYWN5T0t2VlN3dmpQcmdzX243cnhNZnpKY3d2cGxqckYtX2x3eTdvRzk?oc=5",
+        "date": "2026-01-09",
+        "title": "Mattoon planning for upgrades to water filters, infrastructure - WCIA.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOa2tRQlNDeEgzX0lMZmY0SXAzY21SenR0UEd5TFU4aXQ1eUJmYzZXd19sN2J4TUYzUld6bG1xdWxRRHo5aXNvNXhNNEdaYVhNNUhWcWdMWUwzX0t3QW1zeXRfck55Y29NNEh4Y296b3ZxTjIyYWN5T0t2VlN3dmpQcmdzX243cnhNZnpKY3d2cGxqckYtX2x3eTdvRzk?oc=5\" target=\"_blank\">Mattoon planning for upgrades to water filters, infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCIA.com</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkllYXJSeGhHczBKanNVR2hNWVBEYmNONk9Sa0RiVnRkSHBuWmhySlYzS3M2TTN6TTlnZnVmZGNfWWpjb2hZZVN4T2hacnoyVTZfdWZXODh6UjB6VnNacWZzVzQ5RnNqMHBabnJxcU5TNTBVQUZQVGNBZVpZMFBfY2JULUFTS1RQcFQ5bUZzVkZkenlXVm1Sb3F3SFFMYzUtUjBmS2p3dWJ1amtncjNvcE9MTdIBuwFBVV95cUxNNTBMdTJ0VktKSXJ0WkRXQkJ2MmZjNVhvSFEybzF5aGljQ2FVb193UklHcmVDeHJ6YVIxall2SzdONGJpdXVST3N3cDNNZlo2YUp0Q1RWZDBRaFMxdkRrdUoyVzNUT0lxamJjMjU1RFNlLVdoVGF1VG1kd2ZzNEVIVkxpbHJsN2ZIY1NLWEU3cmdtT0hwVHZqcDN1cHg2YVROUEZxU25jRzcwTkR0Z1FCVlZRcnJ1dUVqalNN?oc=5",
+        "date": "2026-01-09",
+        "title": "Techie Highlights Bengaluru IT Park's Infrastructure, Compares It To New York - NDTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkllYXJSeGhHczBKanNVR2hNWVBEYmNONk9Sa0RiVnRkSHBuWmhySlYzS3M2TTN6TTlnZnVmZGNfWWpjb2hZZVN4T2hacnoyVTZfdWZXODh6UjB6VnNacWZzVzQ5RnNqMHBabnJxcU5TNTBVQUZQVGNBZVpZMFBfY2JULUFTS1RQcFQ5bUZzVkZkenlXVm1Sb3F3SFFMYzUtUjBmS2p3dWJ1amtncjNvcE9MTdIBuwFBVV95cUxNNTBMdTJ0VktKSXJ0WkRXQkJ2MmZjNVhvSFEybzF5aGljQ2FVb193UklHcmVDeHJ6YVIxall2SzdONGJpdXVST3N3cDNNZlo2YUp0Q1RWZDBRaFMxdkRrdUoyVzNUT0lxamJjMjU1RFNlLVdoVGF1VG1kd2ZzNEVIVkxpbHJsN2ZIY1NLWEU3cmdtT0hwVHZqcDN1cHg2YVROUEZxU25jRzcwTkR0Z1FCVlZRcnJ1dUVqalNN?oc=5\" target=\"_blank\">Techie Highlights Bengaluru IT Park's Infrastructure, Compares It To New York</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNempiQ3dXWGVWdXFrbncyZFgzb0tUZlhhWXFOUjFrNnJCLVpjX2xwMkxSYzJEcVZOMFFLOW1GQnVKbTE2bEFUeW5id0VqRERoc3pEdFEtakFrVm14Y1Z3VnhURzJSaXNJekgtMXhnWFdnUzJMYzEtNmlwd2hHQXJLVEI2a25KdENxa0Q5V183LUhIcXZ6bVRmQ2xrNlF4NWxtWmd0eFF0OGtqNzdSUXpiY0h6UldvcUZKWmhTOTJKRDFnZUNhZDY0UGl4UGZYQjlIdjBKR1JYQ2Nyc0plUzNHRFlqaVBxeHdnYTVSQ09IeHQ3WEM0Unh0LVRUYV9JdXF1ZUhQZU9aSEc?oc=5",
+        "date": "2026-01-09",
+        "title": "AMT DeFi Launches Renewable Energy Infrastructure Model to Facilitate New Revenue Streams for XRP Holders - GlobeNewswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNempiQ3dXWGVWdXFrbncyZFgzb0tUZlhhWXFOUjFrNnJCLVpjX2xwMkxSYzJEcVZOMFFLOW1GQnVKbTE2bEFUeW5id0VqRERoc3pEdFEtakFrVm14Y1Z3VnhURzJSaXNJekgtMXhnWFdnUzJMYzEtNmlwd2hHQXJLVEI2a25KdENxa0Q5V183LUhIcXZ6bVRmQ2xrNlF4NWxtWmd0eFF0OGtqNzdSUXpiY0h6UldvcUZKWmhTOTJKRDFnZUNhZDY0UGl4UGZYQjlIdjBKR1JYQ2Nyc0plUzNHRFlqaVBxeHdnYTVSQ09IeHQ3WEM0Unh0LVRUYV9JdXF1ZUhQZU9aSEc?oc=5\" target=\"_blank\">AMT DeFi Launches Renewable Energy Infrastructure Model to Facilitate New Revenue Streams for XRP Holders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOck95U3g0TnhSTlEwbWVRckRqUnJJQ2RDT0k5bFZYQjBIMHo4VGk0WE5yUy1LUFlGMDk3VU4yTU8xWHlKYUpCU1RvakZNbTNZX0xBM0c2X3lvem4ySjcwbUpLcndNZ1lMX3kyQnBhREg3MjRySU92UjNVMEt1NFVvYnRxYW55dER4RWpITnI2Wjh4WEZxWk1KR1l6MVh2V0hHUUdiejRzbUczYU1oWlZuRFlmMUFEZi1qNVNtOFJfc05oMDAtYmk1Nw?oc=5",
+        "date": "2026-01-09",
+        "title": "Retired Urban Planner Richard G. Bickel Recently Featured on Close Up Radio - The Tennessean",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOck95U3g0TnhSTlEwbWVRckRqUnJJQ2RDT0k5bFZYQjBIMHo4VGk0WE5yUy1LUFlGMDk3VU4yTU8xWHlKYUpCU1RvakZNbTNZX0xBM0c2X3lvem4ySjcwbUpLcndNZ1lMX3kyQnBhREg3MjRySU92UjNVMEt1NFVvYnRxYW55dER4RWpITnI2Wjh4WEZxWk1KR1l6MVh2V0hHUUdiejRzbUczYU1oWlZuRFlmMUFEZi1qNVNtOFJfc05oMDAtYmk1Nw?oc=5\" target=\"_blank\">Retired Urban Planner Richard G. Bickel Recently Featured on Close Up Radio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tennessean</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.constructiondive.com/news/potomac-overlook-development-rosslyn-virginia/809201/",
+        "date": "2026-01-09",
+        "title": "Plans unveiled for 1,775-unit megadevelopment in DC area",
+        "summary": "<p>Quadrangle is developing the transit-oriented Potomac Overlook apartment and hotel project, slated for the 5.5-acre Key Bridge site in Rosslyn, Virginia.</p>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Quadrangle unveils plans for 1,775-unit Potomac Overlook apartment and hotel megadevelopment on 5.5-acre Key Bridge site in Rosslyn, Virginia"
+    },
+    {
+        "link": "https://www.constructiondive.com/news/potomac-overlook-development-rosslyn-virginia/809201/",
+        "date": "2026-01-09",
+        "title": "Plans unveiled for 1,775-unit megadevelopment in DC area",
+        "summary": "<p>Quadrangle is developing the transit-oriented Potomac Overlook apartment and hotel project, slated for the 5.5-acre Key Bridge site in Rosslyn, Virginia.</p>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Plans unveiled for Quadrangles 1,775-unit Potomac Overlook apartment and hotel megadevelopment on 5.5-acre Key Bridge site in Rosslyn, VA",
+        "type": "news"
     }
 ]
