@@ -2770,5 +2770,13 @@
         "status": "posted",
         "tweet": "2026 validator/node annual infra costs vs decentralization (active count):\n\n1. Ethereum: $3,000, 2M validators (highly decentralized staking)\n\n2. Bitcoin: $1,200, 20k nodes (widespread but mining pooled)\n\n3. Solana: $25,000, 3k validators (hardware-intensive, centralized risk)",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-01-09",
+        "status": "posted",
+        "tweet": "By 2026, Asia will host 60% of the world's 1,000+ smart cities.\n\nEurope: 20%.",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
