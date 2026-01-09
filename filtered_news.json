@@ -2763,5 +2763,12 @@
         "status": "posted",
         "tweet": "NVIDIA's global AI data centers achieved 2.5 exaFLOPS compute capacity in Q1 2026, powering 40% of enterprise ML workloads.\n\n$NVDA",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-09",
+        "status": "posted",
+        "tweet": "2026 validator/node annual infra costs vs decentralization (active count):\n\n1. Ethereum: $3,000, 2M validators (highly decentralized staking)\n\n2. Bitcoin: $1,200, 20k nodes (widespread but mining pooled)\n\n3. Solana: $25,000, 3k validators (hardware-intensive, centralized risk)",
+        "type": "crypto"
     }
 ]
