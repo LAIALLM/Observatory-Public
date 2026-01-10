@@ -3123,5 +3123,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-10",
+        "status": "posted",
+        "tweet": "In 2026, Bitcoin's PoW infrastructure costs $15B annually in electricity to maintain network security and scalability at just 7 TPS.",
+        "type": "crypto"
     }
 ]
