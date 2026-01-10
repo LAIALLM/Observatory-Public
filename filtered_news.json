@@ -3103,5 +3103,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Amaravati construction to be completed on stipulated time, says Urban Development Minister Narayana",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnd6RmJjRGZpZkptQWFZb1djQ3ZJV0lSUlpvV2ZRRjlWdk5VT2pOS01sNkt5bkNDQlpkYlVCc3J6cGV6MlZIdklTSFd4TFdXdU9COU1SeE5ERFk5eGpJR0RlV3Y1c2ViRHBrcGYwTXM5Tk12bmd4cEd3bHdTekFibjFJbHdMMEV1UzhqTDQ4cmctUUNYZ21GUkN3eTROTEZ1LW5zRHkxeGs3V0l2RFNmSzJtN0prcjRm?oc=5",
+        "date": "2026-01-10",
+        "title": "Public meeting to be held on proposed infrastructure project at Mount Vista Park - nottinghammd.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnd6RmJjRGZpZkptQWFZb1djQ3ZJV0lSUlpvV2ZRRjlWdk5VT2pOS01sNkt5bkNDQlpkYlVCc3J6cGV6MlZIdklTSFd4TFdXdU9COU1SeE5ERFk5eGpJR0RlV3Y1c2ViRHBrcGYwTXM5Tk12bmd4cEd3bHdTekFibjFJbHdMMEV1UzhqTDQ4cmctUUNYZ21GUkN3eTROTEZ1LW5zRHkxeGs3V0l2RFNmSzJtN0prcjRm?oc=5\" target=\"_blank\">Public meeting to be held on proposed infrastructure project at Mount Vista Park</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nottinghammd.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObXhkcUdYQW1PcEZzY0pzSHIxX3FYSjFTQ1dCNWNXT3VxbGVEbERVMkJWNlB6SHNWVHJLbXFhTmtjT0I1TGpBSVlGNXlfVENCWGFzd0JrS1pTQk1LMEgxS2dmSzJlMGtBM0hhanBDcnRrcUxZN0V4UXBEY0ZVVU9vMUxmNzFQN3VScDlNRUhR?oc=5",
+        "date": "2026-01-10",
+        "title": "Minister Pledges Nationwide Completion of Public Housing Projects - Voice of Nigeria",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObXhkcUdYQW1PcEZzY0pzSHIxX3FYSjFTQ1dCNWNXT3VxbGVEbERVMkJWNlB6SHNWVHJLbXFhTmtjT0I1TGpBSVlGNXlfVENCWGFzd0JrS1pTQk1LMEgxS2dmSzJlMGtBM0hhanBDcnRrcUxZN0V4UXBEY0ZVVU9vMUxmNzFQN3VScDlNRUhR?oc=5\" target=\"_blank\">Minister Pledges Nationwide Completion of Public Housing Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Voice of Nigeria</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
