@@ -2844,5 +2844,32 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-10",
+        "status": "posted",
+        "tweet": "Microsoft Azure infrastructure hit 2.5 zettabytes of total data processing capacity in 2026, powering 60% of enterprise cloud workloads globally.\n\n$MSFT",
+        "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4ySVFCdlRnM005V2c3Q3pueTg5RkdrVVNkUEc2a0VIcU54azktcUhlMEJTQW1ob0R2R1dCOW5ueDR4VXVTTExZRmdBcw?oc=5",
+        "date": "2026-01-10",
+        "title": "Overnight Russian Strike Hits Zelensky\u2019s Hometown, Infrastructure Damaged - Kyiv Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE4ySVFCdlRnM005V2c3Q3pueTg5RkdrVVNkUEc2a0VIcU54azktcUhlMEJTQW1ob0R2R1dCOW5ueDR4VXVTTExZRmdBcw?oc=5\" target=\"_blank\">Overnight Russian Strike Hits Zelensky\u2019s Hometown, Infrastructure Damaged</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyiv Post</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVGx5NHg1cEUzTm1tQXItTnRlblVzcVJWX0NDcksydzhpTXpNc09oS3ZmSnRhQnVOTFB1bUw3bFVjZG9hTEh5eWhOaHlLMEcxcUVlaC10c0t0eF9NcnJqeHRNaUY5X29KQmVoaDRTUVZJdlVMRGpCQTBBQVNyME9fdE5OaVE3VmxEazhpdnZwb24tcF9NelczVFAyLThuUzBxX0gtUjdVVXhCbUlJRXBWYTlqTlp0STMyWEYxSS03MXpFXzhVX1pjazNqWG1qSWpfMG1rS2puckpxV0RyeUNFa1haTGt6cW41RHlTQVJn?oc=5",
+        "date": "2026-01-10",
+        "title": "Incheon Reveals Bold AI City Vision at CES 2026 in Las Vegas: A Glimpse into the Future of Smart Urban Living - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVGx5NHg1cEUzTm1tQXItTnRlblVzcVJWX0NDcksydzhpTXpNc09oS3ZmSnRhQnVOTFB1bUw3bFVjZG9hTEh5eWhOaHlLMEcxcUVlaC10c0t0eF9NcnJqeHRNaUY5X29KQmVoaDRTUVZJdlVMRGpCQTBBQVNyME9fdE5OaVE3VmxEazhpdnZwb24tcF9NelczVFAyLThuUzBxX0gtUjdVVXhCbUlJRXBWYTlqTlp0STMyWEYxSS03MXpFXzhVX1pjazNqWG1qSWpfMG1rS2puckpxV0RyeUNFa1haTGt6cW41RHlTQVJn?oc=5\" target=\"_blank\">Incheon Reveals Bold AI City Vision at CES 2026 in Las Vegas: A Glimpse into the Future of Smart Urban Living</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
