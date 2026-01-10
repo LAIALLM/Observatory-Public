@@ -2871,5 +2871,25 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYy1FRGoxY1ZQM1ZBWTV3T0tETnpFVXh2QTlBNndfRUlCdC1FYVVDNDd6S3pwYzUyREg2NHBlcF9vVEJrQlpWMnJ2Y1l4Z2J5UXNYYVY1czZjYUo1dEtJUVp0N2g2SnNSdHdRZmpFSzdoN3hXa3dyY3lWeUdmRTBGNUdkVjUwdXdlbmFyUVdvZ2gzeGpVWC05SWFlVDJ5WjkyTW9zcnhkU29ZYkdnMFJINw?oc=5",
+        "date": "2026-01-10",
+        "title": "Why Infrastructure Finance and PPPs Belong at Heart of MENA Business Education - The Times of Israel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNYy1FRGoxY1ZQM1ZBWTV3T0tETnpFVXh2QTlBNndfRUlCdC1FYVVDNDd6S3pwYzUyREg2NHBlcF9vVEJrQlpWMnJ2Y1l4Z2J5UXNYYVY1czZjYUo1dEtJUVp0N2g2SnNSdHdRZmpFSzdoN3hXa3dyY3lWeUdmRTBGNUdkVjUwdXdlbmFyUVdvZ2gzeGpVWC05SWFlVDJ5WjkyTW9zcnhkU29ZYkdnMFJINw?oc=5\" target=\"_blank\">Why Infrastructure Finance and PPPs Belong at Heart of MENA Business Education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeHlQRUhOcFI1Vnczd1R3bXVYNGxVRzRrUjdQNG1MMHh0ODFnYTRNSV81amhiOFVObGFVS2J1VlduNFB2bERFVDBkMFhuY05qZnd0S1Zpa0Z3YkxFNmVOU0ZNOXJrRmEtWjhzUFdaTzJmbEQ1ckpNbnBWMHBDS0NYdzJGMl96X29qQ3BOMnJoX2szZEEyei1oR0p6UG4yRzFDZEM0bE5BcElZVzhmLWJUMnl3Z0Nqd2dqS0x1NUJDUHA2X2NxNVdHcW5rMFV0WEJQdlZTUk5Ocw?oc=5",
+        "date": "2026-01-10",
+        "title": "Why real estate has become the invisible infrastructure of the new Portuguese economy - The Portugal News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeHlQRUhOcFI1Vnczd1R3bXVYNGxVRzRrUjdQNG1MMHh0ODFnYTRNSV81amhiOFVObGFVS2J1VlduNFB2bERFVDBkMFhuY05qZnd0S1Zpa0Z3YkxFNmVOU0ZNOXJrRmEtWjhzUFdaTzJmbEQ1ckpNbnBWMHBDS0NYdzJGMl96X29qQ3BOMnJoX2szZEEyei1oR0p6UG4yRzFDZEM0bE5BcElZVzhmLWJUMnl3Z0Nqd2dqS0x1NUJDUHA2X2NxNVdHcW5rMFV0WEJQdlZTUk5Ocw?oc=5\" target=\"_blank\">Why real estate has become the invisible infrastructure of the new Portuguese economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Portugal News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
