@@ -2806,5 +2806,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-10",
+        "status": "posted",
+        "tweet": "Delhi \ud83c\uddee\ud83c\uddf3 will reach 33 million residents in 2026, surpassing Tokyo \ud83c\uddef\ud83c\uddf5 as the world's most populous city.  \n\nAfrica's urban population hits 600 million, with Lagos \ud83c\uddf3\ud83c\uddec at 16 million.",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
