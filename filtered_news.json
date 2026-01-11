@@ -3135,5 +3135,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-11",
+        "status": "posted",
+        "tweet": "Apple's \ud83c\uddfa\ud83c\uddf8 Cupertino data center processed 12 petabytes of AI workloads daily in Q2 2026, up 25% YoY.\n\n$AAPL",
+        "type": "infrastructure"
     }
 ]
