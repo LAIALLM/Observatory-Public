@@ -3034,5 +3034,56 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYXAyenJEdmNLNDA5MWI2WmtncmtkQU45eDg2MmpSODRwRDVaRDNkVmJiQXNUZzd3QzNjdlhrYWE4RTY2dGpSSEttazJRVktzQXduZmZnbTZNdEZZVFVkb0dnVWRkZktnVkV5X0lCZ1RIN0lYTDZsdDdpN1V5dDlRc3BVSDloNFJtMDhtdE5pUzBlYjkxQVhubURORl9QMF9yMzlaNg?oc=5",
+        "date": "2026-01-11",
+        "title": "Labour\u2019s economic mismanagement is stifling Britain\u2019s building boom - The Telegraph",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQYXAyenJEdmNLNDA5MWI2WmtncmtkQU45eDg2MmpSODRwRDVaRDNkVmJiQXNUZzd3QzNjdlhrYWE4RTY2dGpSSEttazJRVktzQXduZmZnbTZNdEZZVFVkb0dnVWRkZktnVkV5X0lCZ1RIN0lYTDZsdDdpN1V5dDlRc3BVSDloNFJtMDhtdE5pUzBlYjkxQVhubURORl9QMF9yMzlaNg?oc=5\" target=\"_blank\">Labour\u2019s economic mismanagement is stifling Britain\u2019s building boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Telegraph</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMXJpanl2NU56WWJHNEdpMmNYaFNLR2VtczVGZjJ6RFI3Y1F1YVMtaENtTkNzVFVpM3FDdXpEWmZZY0xxMDlZbmJXbm9HTTA3OUZPSUVTY2xIOHVHTWw4cmhhck5vQ2tWNjZpenZkVnF5UFRxZVhnRjBiZWMwSXA4RW9oUElQcjFCNC02dWFNRVdkdHZvMFl0WmF1NXM3T2ktYWNkd3BB?oc=5",
+        "date": "2026-01-11",
+        "title": "Missoula County approves Wye area infrastructure plan - The Missoulian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMXJpanl2NU56WWJHNEdpMmNYaFNLR2VtczVGZjJ6RFI3Y1F1YVMtaENtTkNzVFVpM3FDdXpEWmZZY0xxMDlZbmJXbm9HTTA3OUZPSUVTY2xIOHVHTWw4cmhhck5vQ2tWNjZpenZkVnF5UFRxZVhnRjBiZWMwSXA4RW9oUElQcjFCNC02dWFNRVdkdHZvMFl0WmF1NXM3T2ktYWNkd3BB?oc=5\" target=\"_blank\">Missoula County approves Wye area infrastructure plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Missoulian</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XYWFraXRPTF8wZHFMUF9UOGlNT0dHZHlNQ01GQnNIZjZXN0VWc0taeDMySHhzWGViNEtuOXh5WW9JMk8wNTA5OFV2bFJfNG12ejhpTWg3OFhYeS1WQ05RSG5SWGs1bUlIRzBUSDlId2t1dEp1T1dtaFBVRHdtQQ?oc=5",
+        "date": "2026-01-11",
+        "title": "FG Unveils Framework To Curb Public Asset Decay - The Whistler Newspaper",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5XYWFraXRPTF8wZHFMUF9UOGlNT0dHZHlNQ01GQnNIZjZXN0VWc0taeDMySHhzWGViNEtuOXh5WW9JMk8wNTA5OFV2bFJfNG12ejhpTWg3OFhYeS1WQ05RSG5SWGs1bUlIRzBUSDlId2t1dEp1T1dtaFBVRHdtQQ?oc=5\" target=\"_blank\">FG Unveils Framework To Curb Public Asset Decay</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Whistler Newspaper</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "(\ud83c\uddf3\ud83c\uddec) NEWS: Federal Government unveils framework to curb public asset decay in infrastructure."
+    },
+    {
+        "link": "https://www.enr.com/articles/62318-uva-launches-developer-led-student-housing-project",
+        "date": "2026-01-11",
+        "title": "UVa Launches Developer-Led Student Housing Project",
+        "summary": "<p><span style=\"font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; display: inline !important; float: none;\">Scheduled to be completed for the fall term of 2027, the complex of apartment-style units will house approximately 780 upper class students.</span></p>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XYWFraXRPTF8wZHFMUF9UOGlNT0dHZHlNQ01GQnNIZjZXN0VWc0taeDMySHhzWGViNEtuOXh5WW9JMk8wNTA5OFV2bFJfNG12ejhpTWg3OFhYeS1WQ05RSG5SWGs1bUlIRzBUSDlId2t1dEp1T1dtaFBVRHdtQQ?oc=5",
+        "date": "2026-01-11",
+        "title": "FG Unveils Framework To Curb Public Asset Decay - The Whistler Newspaper",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5XYWFraXRPTF8wZHFMUF9UOGlNT0dHZHlNQ01GQnNIZjZXN0VWc0taeDMySHhzWGViNEtuOXh5WW9JMk8wNTA5OFV2bFJfNG12ejhpTWg3OFhYeS1WQ05RSG5SWGs1bUlIRzBUSDlId2t1dEp1T1dtaFBVRHdtQQ?oc=5\" target=\"_blank\">FG Unveils Framework To Curb Public Asset Decay</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Whistler Newspaper</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddec NEWS: Federal Government unveils framework to curb decay of public assets like roads and buildings.",
+        "type": "news"
     }
 ]
