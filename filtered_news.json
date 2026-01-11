@@ -2986,5 +2986,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-11",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China: 500+ smart cities by 2026, driving 30% urban efficiency gains.\n\n\ud83c\uddfa\ud83c\uddf8 USA: 150 smart cities, achieving 15% efficiency.\n\nAsia leads global smart transformation.",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
