@@ -3142,5 +3142,25 @@
         "status": "posted",
         "tweet": "Apple's \ud83c\uddfa\ud83c\uddf8 Cupertino data center processed 12 petabytes of AI workloads daily in Q2 2026, up 25% YoY.\n\n$AAPL",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY09kOGtoamFWZ3RMamFySm5mZDF4XzMyZGhGc3dvRl9NUWFhTjZZdVJyU2tjQnBfcnFOOEVYSzU1VGZOZHE4Y3kxZUM1bU9TY3BEMi1LLVh4ZzgxNjF1OVhWY1VvV0NYdEpiQzd2a291SWI3WkNGdGZLM0tQWWk3bFJKSFd2ZFg3NHpSMjdGSno2QQ?oc=5",
+        "date": "2026-01-11",
+        "title": "Infrastructure Upgrades Begin on St. Armands Artery Despite Concerns - lbknews",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQY09kOGtoamFWZ3RMamFySm5mZDF4XzMyZGhGc3dvRl9NUWFhTjZZdVJyU2tjQnBfcnFOOEVYSzU1VGZOZHE4Y3kxZUM1bU9TY3BEMi1LLVh4ZzgxNjF1OVhWY1VvV0NYdEpiQzd2a291SWI3WkNGdGZLM0tQWWk3bFJKSFd2ZFg3NHpSMjdGSno2QQ?oc=5\" target=\"_blank\">Infrastructure Upgrades Begin on St. Armands Artery Despite Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lbknews</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVdKRDRnTDU0WHF0enozbGhRSjRzTU5LVnpaQnVzd0Z2OXZOamtnN0hrNDA0dUNBRVV1VVRMblhqQzc5QUJzeDVIdnppMEdaWFJPVU5WbzVKV1BxYXdtbGtRcHJGWWFjNHIxM1Z1YjZTT2g5bUZCRm8xYXNwX2lqNklDZURUS3BrcU45bVM1S1FBOFB3RWFDQ24zdzlWS3dNUXJmcQ?oc=5",
+        "date": "2026-01-11",
+        "title": "Russia waited for frosts to harm people, Zelenskyy says about massive shelling of Ukraine - \u041d\u0438\u043a\u0412\u0435\u0441\u0442\u0438",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVdKRDRnTDU0WHF0enozbGhRSjRzTU5LVnpaQnVzd0Z2OXZOamtnN0hrNDA0dUNBRVV1VVRMblhqQzc5QUJzeDVIdnppMEdaWFJPVU5WbzVKV1BxYXdtbGtRcHJGWWFjNHIxM1Z1YjZTT2g5bUZCRm8xYXNwX2lqNklDZURUS3BrcU45bVM1S1FBOFB3RWFDQ24zdzlWS3dNUXJmcQ?oc=5\" target=\"_blank\">Russia waited for frosts to harm people, Zelenskyy says about massive shelling of Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u041d\u0438\u043a\u0412\u0435\u0441\u0442\u0438</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
