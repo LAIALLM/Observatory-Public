@@ -3162,5 +3162,35 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05SHAtRm9MNXItSmlEcHc1bmJPN2VqLVA0b2dEZWo5TkxfR3JEaFBzVHJjdlBNclRKY0JUWVZKdy16N3NxVk9qak5oRWVVa0Q5UEI5djlYQ3k2NU1xbmJsaGZlZHJCemg4dXVKN2tsRUlaWDA?oc=5",
+        "date": "2026-01-11",
+        "title": "The Good Builder Directory Is Live! - The Good Builder",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE05SHAtRm9MNXItSmlEcHc1bmJPN2VqLVA0b2dEZWo5TkxfR3JEaFBzVHJjdlBNclRKY0JUWVZKdy16N3NxVk9qak5oRWVVa0Q5UEI5djlYQ3k2NU1xbmJsaGZlZHJCemg4dXVKN2tsRUlaWDA?oc=5\" target=\"_blank\">The Good Builder Directory Is Live!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Good Builder</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00Y2VGR2VNaDA5dFU0TldQTGw3MnN6VkM2N2hSU3pkZURreGs2M3duLXgzN2NYZ2loUkIzbXFVZV8wdUl6Ym5kMjJhLUNvM2xnX1FSNVJoSzlmdFA3ZTlEZlRtVGl5U043dlJBUA?oc=5",
+        "date": "2026-01-11",
+        "title": "Tagged: agentic infrastructure - Crowdfund Insider",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE00Y2VGR2VNaDA5dFU0TldQTGw3MnN6VkM2N2hSU3pkZURreGs2M3duLXgzN2NYZ2loUkIzbXFVZV8wdUl6Ym5kMjJhLUNvM2xnX1FSNVJoSzlmdFA3ZTlEZlRtVGl5U043dlJBUA?oc=5\" target=\"_blank\">Tagged: agentic infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crowdfund Insider</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWNDVzlXTmIxMnpyakttYnVOLUJuUkI2SXJ3by1Xa1BCR2phRnhFd0kyUC1rdFlDbndRbG9wMEJrb3pFNzV1dGwwelV5Y291QTlVcnJ0Uk1tbW9QcTVCUWw1VzRkTzdzSFk4MTNHU1BHdm1lMTRfdnlPb2I3NkI4c0h0OHRPbGs1S09WWjcxZW9XaFd0UVN4U2k1eFNvYUtwY2hvc2tfMWFuNk4zRlVheFBzVzdqeUJmdzhwblNB?oc=5",
+        "date": "2026-01-11",
+        "title": "China Mobile Limited Class A stock (600941) on watch: AI \u201cinfrastructure edge\u201d talk meets China data week - TechStock\u00b2",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWNDVzlXTmIxMnpyakttYnVOLUJuUkI2SXJ3by1Xa1BCR2phRnhFd0kyUC1rdFlDbndRbG9wMEJrb3pFNzV1dGwwelV5Y291QTlVcnJ0Uk1tbW9QcTVCUWw1VzRkTzdzSFk4MTNHU1BHdm1lMTRfdnlPb2I3NkI4c0h0OHRPbGs1S09WWjcxZW9XaFd0UVN4U2k1eFNvYUtwY2hvc2tfMWFuNk4zRlVheFBzVzdqeUJmdzhwblNB?oc=5\" target=\"_blank\">China Mobile Limited Class A stock (600941) on watch: AI \u201cinfrastructure edge\u201d talk meets China data week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock\u00b2</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
