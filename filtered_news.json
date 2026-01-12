@@ -2959,5 +2959,85 @@
         "tweet": "Top 5 countries by projected renewable energy capacity in 2026 (GW)\n\n\ud83c\udde8\ud83c\uddf3 China: 1,800  \n\ud83c\uddfa\ud83c\uddf8 USA: 550  \n\ud83c\uddee\ud83c\uddf3 India: 300  \n\ud83c\udde9\ud83c\uddea Germany: 200  \n\ud83c\udde7\ud83c\uddf7 Brazil: 180",
         "type": "statistical",
         "category": "energy"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jQTNTbFVmYThCMWN2cHhxd3U1R1BLXzFaa1Rmck9JMjNveTBCajE0X2R2SXpxWkUzT2d0d1lEMkQ5ajZYM3EybFhrbzFqOUJTR0VCZGxKdWhuZHlyXzE4WmlZLUNnbGt3Rm1jYXR6cXlMNjBT?oc=5",
+        "date": "2026-01-12",
+        "title": "Unemployment Benefits Reach Record High Amid Construction Slump - Businesskorea",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1jQTNTbFVmYThCMWN2cHhxd3U1R1BLXzFaa1Rmck9JMjNveTBCajE0X2R2SXpxWkUzT2d0d1lEMkQ5ajZYM3EybFhrbzFqOUJTR0VCZGxKdWhuZHlyXzE4WmlZLUNnbGt3Rm1jYXR6cXlMNjBT?oc=5\" target=\"_blank\">Unemployment Benefits Reach Record High Amid Construction Slump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Businesskorea</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pazV6QS1hNmpMcVBuUVpYNVRtUEtOVjRIYkdTTlNucGVlNFVpZ09FcUZVeV9GSzlkT3RTVDN5RFY4Vlp2aU0tQ25fdmNYTjhMVlE?oc=5",
+        "date": "2026-01-12",
+        "title": "Syndicate in road construction has been dismantled: Dr Sheikh Moinuddin - Bangladesh Sangbad Sangstha (BSS)",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pazV6QS1hNmpMcVBuUVpYNVRtUEtOVjRIYkdTTlNucGVlNFVpZ09FcUZVeV9GSzlkT3RTVDN5RFY4Vlp2aU0tQ25fdmNYTjhMVlE?oc=5\" target=\"_blank\">Syndicate in road construction has been dismantled: Dr Sheikh Moinuddin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bangladesh Sangbad Sangstha (BSS)</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQT1NHUU9XMVYyenlKZDBPMEJKLXYzZV91RWptc1pUeElpMVZxMC04OVZhUDdkUWJZNUp6RjdieWwwZ3FZdGRrck1JY0JrZFFaRDdTM3oxVlZBSU5zM0NUeGNSOFpoeXptblBHODRjRmt2ZzlVMTJMT25NMlpzekVDWlhnRUMxekpXcTkyRUI0cVhWMVpZX0hJMnVLOFhLbVdsWE9xWDhyU184Mk9wTE14SFVQbnFGM0NTaFVzbUlJRUsxamJmVmE0bFlWd3pqR2R2QWRrNzRCZHFXZ085ZElKTThHTWZScERTZzMw?oc=5",
+        "date": "2026-01-12",
+        "title": "Kiteworks warns AI security gaps leave energy infrastructure exposed to nation-state attacks - Industrial Cyber",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQT1NHUU9XMVYyenlKZDBPMEJKLXYzZV91RWptc1pUeElpMVZxMC04OVZhUDdkUWJZNUp6RjdieWwwZ3FZdGRrck1JY0JrZFFaRDdTM3oxVlZBSU5zM0NUeGNSOFpoeXptblBHODRjRmt2ZzlVMTJMT25NMlpzekVDWlhnRUMxekpXcTkyRUI0cVhWMVpZX0hJMnVLOFhLbVdsWE9xWDhyU184Mk9wTE14SFVQbnFGM0NTaFVzbUlJRUsxamJmVmE0bFlWd3pqR2R2QWRrNzRCZHFXZ085ZElKTThHTWZScERTZzMw?oc=5\" target=\"_blank\">Kiteworks warns AI security gaps leave energy infrastructure exposed to nation-state attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Industrial Cyber</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUU15eW84ZlhuYTRyQWVaVi0yTkxuTmZYWEVPRTM2OXVOQURFWktwV3J6NkVKUl9YeU44WE9sQkZ1TWZnNElnRHZKM28wM0VGcXRlU0sxYWROREZvblpJYWpkMzM1T184azNFT0UxRmdEdHQ4VVlGdHRNV05HS1V0OGZ2NUdSb01CazFMa2g3eDFsYTJ1TGMxeTg0ckZyZjFNZ1NmR0VVdHBTVjg?oc=5",
+        "date": "2026-01-12",
+        "title": "Orlando Urban Trail Closing Near Ivanhoe Village for Infrastructure Work - Bungalower",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUU15eW84ZlhuYTRyQWVaVi0yTkxuTmZYWEVPRTM2OXVOQURFWktwV3J6NkVKUl9YeU44WE9sQkZ1TWZnNElnRHZKM28wM0VGcXRlU0sxYWROREZvblpJYWpkMzM1T184azNFT0UxRmdEdHQ4VVlGdHRNV05HS1V0OGZ2NUdSb01CazFMa2g3eDFsYTJ1TGMxeTg0ckZyZjFNZ1NmR0VVdHBTVjg?oc=5\" target=\"_blank\">Orlando Urban Trail Closing Near Ivanhoe Village for Infrastructure Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bungalower</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNDg1UktUaE03LUxibUc2d1RyMFZJSjlNaGFxWDZOMjBick9UNmI2NTJfZ0NvZmNERVA2MlpTMHV3T0pCa2RvQVNFMWtyS0MwVmpOUHNoN2VhVDAtY2tKQkNzZ2dFQjY3N0V5cGstRlNwNWlvTm1tY05zcjdwNFp1OGQwcUVJZkFNZGpIejQwWDFLUmFmMWoxelhBcXhQSVlkUkhKaWwtVUY0YzlqN0kyV0N2OU1PVlpIMl9ITjl6eTUwczdlWGFnaDUyZzA3ZHZjWUx5cE5BWGNoUQ?oc=5",
+        "date": "2026-01-12",
+        "title": "AATX Centers on Long-Term Asset Tech Infrastructure, Emphasizing Governance and Robustness. - Milwaukee Journal Sentinel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNDg1UktUaE03LUxibUc2d1RyMFZJSjlNaGFxWDZOMjBick9UNmI2NTJfZ0NvZmNERVA2MlpTMHV3T0pCa2RvQVNFMWtyS0MwVmpOUHNoN2VhVDAtY2tKQkNzZ2dFQjY3N0V5cGstRlNwNWlvTm1tY05zcjdwNFp1OGQwcUVJZkFNZGpIejQwWDFLUmFmMWoxelhBcXhQSVlkUkhKaWwtVUY0YzlqN0kyV0N2OU1PVlpIMl9ITjl6eTUwczdlWGFnaDUyZzA3ZHZjWUx5cE5BWGNoUQ?oc=5\" target=\"_blank\">AATX Centers on Long-Term Asset Tech Infrastructure, Emphasizing Governance and Robustness.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSUpvSEZmT09SRXdVQUdGcDNXX3V2bnduSE5Id1ZOUzlDcGd5RUtoRmlBSnVPTkljMUNJUTIwSVFUVFNSSnRaNnk3cmk4MlVDWlozQ1dwTGhFcVZkTnNCREw3eGVTR21NcWJES3B2U1Uzbi0xeDBIWG1LZkNNUTU1RHFsckZfeDBXZjN3QXJwV3lQNjMxOFdQSnl6d2NRWmprdm9QUHlSRVdrb2s?oc=5",
+        "date": "2026-01-12",
+        "title": "President Aliyev unveils 2026\u20132035 state program to overhaul Baku water infrastructure - Latest news from Azerbaijan",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSUpvSEZmT09SRXdVQUdGcDNXX3V2bnduSE5Id1ZOUzlDcGd5RUtoRmlBSnVPTkljMUNJUTIwSVFUVFNSSnRaNnk3cmk4MlVDWlozQ1dwTGhFcVZkTnNCREw3eGVTR21NcWJES3B2U1Uzbi0xeDBIWG1LZkNNUTU1RHFsckZfeDBXZjN3QXJwV3lQNjMxOFdQSnl6d2NRWmprdm9QUHlSRVdrb2s?oc=5\" target=\"_blank\">President Aliyev unveils 2026\u20132035 state program to overhaul Baku water infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Latest news from Azerbaijan</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSV9qdmhhTHBFUnlobUE1bERmV2dpYXotc0tfYndDbFppOFR3dHZ0RXp0MzYybk5tOS1WMlJLUWJRRHpiWFJqRFo5WjdTanJVdG9CXy1Wb2tjb0RCc1REUzZSaWY3cFV1S0FRcXNNbG1YbTZHS2laSmpzRVVzWG0wM1FhcG5jNVJBeW12OWctcmR2SUN5aFFPTzJDSXRESl9lQVdacnE0cWw1VG5SS2VROHk0NjVVZUUzWGl1cjh1X0FyVVdfUTQweE04Y1plYUxKal9nUGJXOFU5X2lSQnZRbkt3?oc=5",
+        "date": "2026-01-12",
+        "title": "Cebu business group to study Japan\u2019s disaster, healthcare, urban development models in Tokyo mission - Manila Standard",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSV9qdmhhTHBFUnlobUE1bERmV2dpYXotc0tfYndDbFppOFR3dHZ0RXp0MzYybk5tOS1WMlJLUWJRRHpiWFJqRFo5WjdTanJVdG9CXy1Wb2tjb0RCc1REUzZSaWY3cFV1S0FRcXNNbG1YbTZHS2laSmpzRVVzWG0wM1FhcG5jNVJBeW12OWctcmR2SUN5aFFPTzJDSXRESl9lQVdacnE0cWw1VG5SS2VROHk0NjVVZUUzWGl1cjh1X0FyVVdfUTQweE04Y1plYUxKal9nUGJXOFU5X2lSQnZRbkt3?oc=5\" target=\"_blank\">Cebu business group to study Japan\u2019s disaster, healthcare, urban development models in Tokyo mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Manila Standard</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZGNyNC1Id1RoakVxckgxSnIxRjIwSTZIam5rci1JT2hKV1VwdGtoelJoVjQ0dF8yanBoZ3hyWWIzMFpaRFhVb0VRUlZUTllVMWJMQXVfaXpoUDVCZTBIazA0U3ZqdVZzU3M4ODNYbi13eU9Id2s5dlJUNk4yNUY5VWFTV3ZoOWxoeUg4OGZoNS03ZmFqbHZKeFg5TUtJVE1jSjI4Z1FweDVhSFQ0ME03Mk9lbXpPcVAwRXpRLQ?oc=5",
+        "date": "2026-01-12",
+        "title": "Citizen advocacy in transforming major towns into fully equipped urban centres stressed - Associated Press of Pakistan",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZGNyNC1Id1RoakVxckgxSnIxRjIwSTZIam5rci1JT2hKV1VwdGtoelJoVjQ0dF8yanBoZ3hyWWIzMFpaRFhVb0VRUlZUTllVMWJMQXVfaXpoUDVCZTBIazA0U3ZqdVZzU3M4ODNYbi13eU9Id2s5dlJUNk4yNUY5VWFTV3ZoOWxoeUg4OGZoNS03ZmFqbHZKeFg5TUtJVE1jSjI4Z1FweDVhSFQ0ME03Mk9lbXpPcVAwRXpRLQ?oc=5\" target=\"_blank\">Citizen advocacy in transforming major towns into fully equipped urban centres stressed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Associated Press of Pakistan</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
