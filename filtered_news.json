@@ -2787,5 +2787,45 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMTE4ZnZxem5MMzRQT1pHNVhHR0JYeEtKWmZ3U0UyZVhicFRTWG54ZkNCUGZtVExmdUVMd2dSNXNqaVBuVUVLUHVzWmJuTTdnenJjSmxJbUVQUG9SWEp0QWU0M3BZQWExSHRWTXA4X29SYzVSZFFEbXlCMk1WY2p5QnFMZTJKV05FMWwyMVRuaTdNS3hhMGZTOWw4ZzEyUEdXLUNscnVOR0k4dw?oc=5",
+        "date": "2026-01-12",
+        "title": "Mylapay raises $1m to scale compliance first payments infrastructure - IBS Intelligence",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMTE4ZnZxem5MMzRQT1pHNVhHR0JYeEtKWmZ3U0UyZVhicFRTWG54ZkNCUGZtVExmdUVMd2dSNXNqaVBuVUVLUHVzWmJuTTdnenJjSmxJbUVQUG9SWEp0QWU0M3BZQWExSHRWTXA4X29SYzVSZFFEbXlCMk1WY2p5QnFMZTJKV05FMWwyMVRuaTdNS3hhMGZTOWw4ZzEyUEdXLUNscnVOR0k4dw?oc=5\" target=\"_blank\">Mylapay raises $1m to scale compliance first payments infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBS Intelligence</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOXo0TVE1NG5tVFJibjVOUjhoRVZ0dm1lYUpWbHBTZXJvdU1Md2N2VThneUxRQnZYQUZRUTFQZzFUQjRKdU1EVXFEN2tBYXlFeHhHQUxsUTdQNWZwd2dVdEY1cnlCU3hLdEZMT0Vod3ViY2V4dXhFdjRnWG1OcXB3MlpWRUdNMjM5Znh6ckdBeVdOUXZvRW9TTWJaMW5FSjRiOXJyeDg4X0YwMjJjNWYyR1BwZ2t0eFk?oc=5",
+        "date": "2026-01-12",
+        "title": "Winter Road Safety Infrastructure: Manual or Automated Snow Removal in Freight Transport? - Trans.INFO",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPOXo0TVE1NG5tVFJibjVOUjhoRVZ0dm1lYUpWbHBTZXJvdU1Md2N2VThneUxRQnZYQUZRUTFQZzFUQjRKdU1EVXFEN2tBYXlFeHhHQUxsUTdQNWZwd2dVdEY1cnlCU3hLdEZMT0Vod3ViY2V4dXhFdjRnWG1OcXB3MlpWRUdNMjM5Znh6ckdBeVdOUXZvRW9TTWJaMW5FSjRiOXJyeDg4X0YwMjJjNWYyR1BwZ2t0eFk?oc=5\" target=\"_blank\">Winter Road Safety Infrastructure: Manual or Automated Snow Removal in Freight Transport?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trans.INFO</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmpzajhYeEYzN1hLTTZ0blk2WE03S3MtREZOVWEtdFdQUWxUUnM3TXRtY3pmWlREbUxRYkFIcXhLc0gyNnI0WEFGcU1vZ0pUTUxaa3VVOEI3MzE2REQ5MXRPVWZjdzM1bTVia1ZpVGhUUmFtNVJUbnRuQk1CNHJNNHdiS3JIdG1CMnlrRjROUHlMQkMxa1c5N0d5ZjFuTHB6ZDZfYmZEZnhNUQ?oc=5",
+        "date": "2026-01-12",
+        "title": "Ireland needs to get serious on EV charging infrastructure - The Irish Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmpzajhYeEYzN1hLTTZ0blk2WE03S3MtREZOVWEtdFdQUWxUUnM3TXRtY3pmWlREbUxRYkFIcXhLc0gyNnI0WEFGcU1vZ0pUTUxaa3VVOEI3MzE2REQ5MXRPVWZjdzM1bTVia1ZpVGhUUmFtNVJUbnRuQk1CNHJNNHdiS3JIdG1CMnlrRjROUHlMQkMxa1c5N0d5ZjFuTHB6ZDZfYmZEZnhNUQ?oc=5\" target=\"_blank\">Ireland needs to get serious on EV charging infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Irish Times</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2g2V21obF9zNGJMcDIzRkJEZmNsSHFUd2FpME9xWlI2Zmx6TTMtWko5ZThOMzY4X2pEX2pETzFfc1BkMUpNcGg4YkR4M255cVZWRmh2a2wxVzYyQkRsQU9yQ3Qybldod1ZJeFU3bkJxaGhwb0s0RklUWjJUdEZVMDJQVFMxcVhjUnFIV01MTjRycFBtTHNydQ?oc=5",
+        "date": "2026-01-12",
+        "title": "Published on: 2026-01-12 12:14:20 - baoquankhu1.vn",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2g2V21obF9zNGJMcDIzRkJEZmNsSHFUd2FpME9xWlI2Zmx6TTMtWko5ZThOMzY4X2pEX2pETzFfc1BkMUpNcGg4YkR4M255cVZWRmh2a2wxVzYyQkRsQU9yQ3Qybldod1ZJeFU3bkJxaGhwb0s0RklUWjJUdEZVMDJQVFMxcVhjUnFIV01MTjRycFBtTHNydQ?oc=5\" target=\"_blank\">Published on: 2026-01-12 12:14:20</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">baoquankhu1.vn</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
