@@ -2951,5 +2951,13 @@
         "status": "posted",
         "tweet": "Alphabet's global data centers consumed 25 TWh of energy in 2026, powering AI workloads across 24 regions.\n\n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-12",
+        "status": "posted",
+        "tweet": "Top 5 countries by projected renewable energy capacity in 2026 (GW)\n\n\ud83c\udde8\ud83c\uddf3 China: 1,800  \n\ud83c\uddfa\ud83c\uddf8 USA: 550  \n\ud83c\uddee\ud83c\uddf3 India: 300  \n\ud83c\udde9\ud83c\uddea Germany: 200  \n\ud83c\udde7\ud83c\uddf7 Brazil: 180",
+        "type": "statistical",
+        "category": "energy"
     }
 ]
