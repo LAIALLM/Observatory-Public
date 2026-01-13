@@ -3338,5 +3338,196 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-13",
+        "status": "posted",
+        "tweet": "By 2026, global renewable energy engineering projects will add 500 GW of capacity annually, reaching 4,000 GW total and powering 32% of world electricity demand.",
+        "type": "statistical",
+        "category": "engineering projects"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONHFlQ0xuY0hjemx2MjhKaUZBOWF4N3A0RnE0ZHdIMWh5VXZ1ZWF3bXVUSkpNREM1RFg0Y0RXV1NmeFk0LTlpLU1FSkFBUE0teGR3VWJXVkJzV01NeVpIdWtMODF2aF9Ldkc0WUU2TEJzOHFVZHNCcS1MZzREUG9VeUNYc2NiMjdWUWk1bENUTkIzb2RrMC1QYm9pODRTOG4xZVdvX1NYRHh6UQ?oc=5",
+        "date": "2026-01-13",
+        "title": "$40M Awarded To Four Freight Infrastructure Projects In NYC - New York YIMBY",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxONHFlQ0xuY0hjemx2MjhKaUZBOWF4N3A0RnE0ZHdIMWh5VXZ1ZWF3bXVUSkpNREM1RFg0Y0RXV1NmeFk0LTlpLU1FSkFBUE0teGR3VWJXVkJzV01NeVpIdWtMODF2aF9Ldkc0WUU2TEJzOHFVZHNCcS1MZzREUG9VeUNYc2NiMjdWUWk1bENUTkIzb2RrMC1QYm9pODRTOG4xZVdvX1NYRHh6UQ?oc=5\" target=\"_blank\">$40M Awarded To Four Freight Infrastructure Projects In NYC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York YIMBY</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHVBd3kxa1RHTzNFZ18zQm9fOGZKSE02aWVEeWlNdGpUa045Y3lCYjNaZlEwcWhyMFJCU19sWGZvNGxScU1EUnIzTGpmak5tMDh5eV9XRkVRU2tQdGlLcG44SHFRckJGa0xlWnVHb25kdXdzWjNQMmVJWDhMcDB6YTViSnFFTnl5WG9xOTNPekZaeE1BS29wSENQcS1IM2hSQjNCRWhVWElVeklRSmc?oc=5",
+        "date": "2026-01-13",
+        "title": "Marseilles awarded grant for infrastructure improvements - Shaw Local",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHVBd3kxa1RHTzNFZ18zQm9fOGZKSE02aWVEeWlNdGpUa045Y3lCYjNaZlEwcWhyMFJCU19sWGZvNGxScU1EUnIzTGpmak5tMDh5eV9XRkVRU2tQdGlLcG44SHFRckJGa0xlWnVHb25kdXdzWjNQMmVJWDhMcDB6YTViSnFFTnl5WG9xOTNPekZaeE1BS29wSENQcS1IM2hSQjNCRWhVWElVeklRSmc?oc=5\" target=\"_blank\">Marseilles awarded grant for infrastructure improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shaw Local</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkRfM01aNWtpRGI0NndjLTlKMEN5TFBnMi1kczRUTzBnYXNSd2w4ODJSdGx5eklMOFhKcS1jRGtxeGJjNGE3M3lEend1M3NRRmF4OHAyNTBfMnUybF9tY05aTldETDFta21SODE1WWpmZy1wbGd0elRRR21hOWVJd1BGZmZ5VnhaZW40VTRKSHhXWnM?oc=5",
+        "date": "2026-01-13",
+        "title": "$104+ Bn Composable Infrastructure Markets - Global Forecast to 2032: Expanding Significance of Edge Computing and Distributed Data Processing Influencing Composable Infrastructure Design - Yahoo Finance UK",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkRfM01aNWtpRGI0NndjLTlKMEN5TFBnMi1kczRUTzBnYXNSd2w4ODJSdGx5eklMOFhKcS1jRGtxeGJjNGE3M3lEend1M3NRRmF4OHAyNTBfMnUybF9tY05aTldETDFta21SODE1WWpmZy1wbGd0elRRR21hOWVJd1BGZmZ5VnhaZW40VTRKSHhXWnM?oc=5\" target=\"_blank\">$104+ Bn Composable Infrastructure Markets - Global Forecast to 2032: Expanding Significance of Edge Computing and Distributed Data Processing Influencing Composable Infrastructure Design</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOTlVTRXNldVpBNWVDWVlUUDhFdGtjLXBqUzVhSFJ2X3gxZUFOOGNJUzZWSHFmenMxYkkzaXFTTVpxc1lCWkIyWVI0bE9MdjVHZ3RjTnUyVEdNcnMxbXpKNEZVUnVhRTJWNnpETm5PWjZ6Nl9GQ2d0d1ZieWp6d0l0eHVXRnJzOUJfYi0zcHd3SnpUdld0dzlWS0x5SVp1TFc1cTZfZmh4eG9wZkdfdWhneFBDMVBXeVduMmpkX0doQmJwa1JfZEk3UVJwX0Voc05WcTdhd0pCM2Z3dDI0cjF2U0haeW9YbDh2bGZWMjFyTTZKMk1aQU55LXBYTDNaZnBPZGtFdk94M2ZwWkdRUnVrVmN4VF92WE1Ga3VPWjBrLVNYMlY4SVgyYzY4SmxMNjNoNDN1NTVnM2NqR1pSNXZPWmIyQi11cXlVaXlxV1R3ZWJaQnRPall0ZVVyTzJNNlJwZzZPQ3Z0NE9aOEZF?oc=5",
+        "date": "2026-01-13",
+        "title": "$12.86 Bn Infrastructure As Code Market Forecasts, - GlobeNewswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AJBVV95cUxOTlVTRXNldVpBNWVDWVlUUDhFdGtjLXBqUzVhSFJ2X3gxZUFOOGNJUzZWSHFmenMxYkkzaXFTTVpxc1lCWkIyWVI0bE9MdjVHZ3RjTnUyVEdNcnMxbXpKNEZVUnVhRTJWNnpETm5PWjZ6Nl9GQ2d0d1ZieWp6d0l0eHVXRnJzOUJfYi0zcHd3SnpUdld0dzlWS0x5SVp1TFc1cTZfZmh4eG9wZkdfdWhneFBDMVBXeVduMmpkX0doQmJwa1JfZEk3UVJwX0Voc05WcTdhd0pCM2Z3dDI0cjF2U0haeW9YbDh2bGZWMjFyTTZKMk1aQU55LXBYTDNaZnBPZGtFdk94M2ZwWkdRUnVrVmN4VF92WE1Ga3VPWjBrLVNYMlY4SVgyYzY4SmxMNjNoNDN1NTVnM2NqR1pSNXZPWmIyQi11cXlVaXlxV1R3ZWJaQnRPall0ZVVyTzJNNlJwZzZPQ3Z0NE9aOEZF?oc=5\" target=\"_blank\">$12.86 Bn Infrastructure As Code Market Forecasts,</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmx3UWJPYzZwYVRXRlRDTjJHRUNvbjZQVTMzc0pHOG5PUkZPRmw3Y1ZkSF90OHB3UnQyWWx2cE82a0RLaURPaTBNdXVMWXAwSmtDR0syb3VQT1lIVHV1MVQwMjlXeWVKcnJ6NFBSWUhWMEh4N29SWUFiektJYjZBbHhZNXYxUm9CSnFndUJ0UnpZVWFwTFF4LXptazA5dkNuTnN6bTVhVVZVaHFLbFJwWWt6RWZwZEZFTHpvRQ?oc=5",
+        "date": "2026-01-13",
+        "title": "Sterling Infrastructure: Buy On Growth Patterns, Margin Strength, And Heavy Backlog (STRL) - Seeking Alpha",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmx3UWJPYzZwYVRXRlRDTjJHRUNvbjZQVTMzc0pHOG5PUkZPRmw3Y1ZkSF90OHB3UnQyWWx2cE82a0RLaURPaTBNdXVMWXAwSmtDR0syb3VQT1lIVHV1MVQwMjlXeWVKcnJ6NFBSWUhWMEh4N29SWUFiektJYjZBbHhZNXYxUm9CSnFndUJ0UnpZVWFwTFF4LXptazA5dkNuTnN6bTVhVVZVaHFLbFJwWWt6RWZwZEZFTHpvRQ?oc=5\" target=\"_blank\">Sterling Infrastructure: Buy On Growth Patterns, Margin Strength, And Heavy Backlog (STRL)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMUF2RDhQeEVwelhfY0NUYV84QVUzb1RXUEk2b0owUmxpY1RQZGpwNWUyNUdKcENUVXQwc2YwMlZlMnVQZXpLX2RzcXNBWEtLbUFUUk1hUUt2enFvc3VTbi1hSWdUV244cmFYdWZzbE0weS04c1Y5TGhjR0dseHpyWWtYYXJVb3NjMzNwYnVyd0M4RXpWbU9LeVFSUDRTa3k0MjIyRjJ2MmxtVWk0UmhNRVBVcjNUUU5QSlppdmR3b1h0SUJlMElPVExhQ2tQUXNGck1WYVlSYlpCaUZRWEpST1pB?oc=5",
+        "date": "2026-01-13",
+        "title": "Options deploys AtlasInsight packet capture and analytics servers across Options Global Infrastructure - FX News Group",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMUF2RDhQeEVwelhfY0NUYV84QVUzb1RXUEk2b0owUmxpY1RQZGpwNWUyNUdKcENUVXQwc2YwMlZlMnVQZXpLX2RzcXNBWEtLbUFUUk1hUUt2enFvc3VTbi1hSWdUV244cmFYdWZzbE0weS04c1Y5TGhjR0dseHpyWWtYYXJVb3NjMzNwYnVyd0M4RXpWbU9LeVFSUDRTa3k0MjIyRjJ2MmxtVWk0UmhNRVBVcjNUUU5QSlppdmR3b1h0SUJlMElPVExhQ2tQUXNGck1WYVlSYlpCaUZRWEpST1pB?oc=5\" target=\"_blank\">Options deploys AtlasInsight packet capture and analytics servers across Options Global Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FX News Group</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcHFWSExkeGd2SVJkRlEyZGZLWEphazlvaXBuMHZqMGQ2SUhudXp5WXpsa082UlBJRzBXVnJrQm5QcmJZUVZPbXl4LVd4M2otV0JVUnBFTUl4U0gwdGxLS2o3akIxc2pKaWdrU215NmkxRmQwQ2N2eUViOGhSTGVYMjlhcnpKbUdwWi0zWEJNbzNySHplcU9hVnZiU0xqa1dGMzBFbW9ramVXWTFEV243WjNDWHQteTV3WEE?oc=5",
+        "date": "2026-01-13",
+        "title": "Bakkt to Acquire DTR in Push Into Global Stablecoin Infrastructure - LeapRate",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcHFWSExkeGd2SVJkRlEyZGZLWEphazlvaXBuMHZqMGQ2SUhudXp5WXpsa082UlBJRzBXVnJrQm5QcmJZUVZPbXl4LVd4M2otV0JVUnBFTUl4U0gwdGxLS2o3akIxc2pKaWdrU215NmkxRmQwQ2N2eUViOGhSTGVYMjlhcnpKbUdwWi0zWEJNbzNySHplcU9hVnZiU0xqa1dGMzBFbW9ramVXWTFEV243WjNDWHQteTV3WEE?oc=5\" target=\"_blank\">Bakkt to Acquire DTR in Push Into Global Stablecoin Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LeapRate</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcm9HLVJzaVJXYmlKR2tKTjBFb014OERIeWNBWGY4RURmNENFbzdkc3REUEdZNlJ4clJjQTBacE1UQzZXUWV6LU5FNlhFZ0dnVjcxNThEc1BVSFlxaU85ZDBiOWhfLWhKd3pZUXhxWHRyaFB2UGhEWHRCS01QVmZBZlp2bWR3QXVFQUlCUXRVa1JqYkpwck82aE5NWnFUdGEy0gGmAUFVX3lxTFBVam1HeWdHNHdFRjNqYkhULW9ZMkhWTkpnbVF0VXZNNngxdDFBbk16aVQyemFHN1pHcWk0SHl4SmRNbWJqdmxOU0lCLTRCZ1RYTVM1WDFtcHpiM1N4dENLWU5sVjJWTzUzOGdiRmhOWFZhazc0dE9lcDlGQ1U4NGFXeHptQWpVQUtQcEFkQ2UwZjZ2aFpDOVFQNFZGa2lHVzk4ZjlhalE?oc=5",
+        "date": "2026-01-13",
+        "title": "ZKsync Unveils Strategy for Building \u2018Incorruptible Financial Infrastructure\u2019 - ForkLog",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNcm9HLVJzaVJXYmlKR2tKTjBFb014OERIeWNBWGY4RURmNENFbzdkc3REUEdZNlJ4clJjQTBacE1UQzZXUWV6LU5FNlhFZ0dnVjcxNThEc1BVSFlxaU85ZDBiOWhfLWhKd3pZUXhxWHRyaFB2UGhEWHRCS01QVmZBZlp2bWR3QXVFQUlCUXRVa1JqYkpwck82aE5NWnFUdGEy0gGmAUFVX3lxTFBVam1HeWdHNHdFRjNqYkhULW9ZMkhWTkpnbVF0VXZNNngxdDFBbk16aVQyemFHN1pHcWk0SHl4SmRNbWJqdmxOU0lCLTRCZ1RYTVM1WDFtcHpiM1N4dENLWU5sVjJWTzUzOGdiRmhOWFZhazc0dE9lcDlGQ1U4NGFXeHptQWpVQUtQcEFkQ2UwZjZ2aFpDOVFQNFZGa2lHVzk4ZjlhalE?oc=5\" target=\"_blank\">ZKsync Unveils Strategy for Building \u2018Incorruptible Financial Infrastructure\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ForkLog</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSGdwYXYtSnB0MXFvcXctNUt1UlVINzZja20tb0w0UjNxVm5FMWlweE9QbDZSMy0xaHZCSWVySGRXcmJVZWItMGY2VkdVT1BobF9rekFodUJ3dGUzVUp1dWZva1VIN2s5LXlKei0xOXhNOVlkbndWX1BXdWE2ZWlpcWhSMzVQUW43WlFBX2w0UEY?oc=5",
+        "date": "2026-01-13",
+        "title": "REPORT \u2013 THE SOMALILAND INFRASTRUCTURE PARADIGM (Q1 2026) - https://debuglies.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPSGdwYXYtSnB0MXFvcXctNUt1UlVINzZja20tb0w0UjNxVm5FMWlweE9QbDZSMy0xaHZCSWVySGRXcmJVZWItMGY2VkdVT1BobF9rekFodUJ3dGUzVUp1dWZva1VIN2s5LXlKei0xOXhNOVlkbndWX1BXdWE2ZWlpcWhSMzVQUW43WlFBX2w0UEY?oc=5\" target=\"_blank\">REPORT \u2013 THE SOMALILAND INFRASTRUCTURE PARADIGM (Q1 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://debuglies.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWURLZUNRMDRYREhnSEE1UzdBTmR5OEU1UllkTnBfc2ZrcHJpaVYzZnlZY2thSWFCSk9IVm5BTnYxdXk0Ti1LV1JfVWJuUGEtcXhKbFNZSUozMmJVNEVEdG1PS1p6YXJNZE44cEV2Zl9XNTdSSnUxOWxzMlV3QzQ5aDZuZnRwSkNyYXMya3BfczNBSmJOR1ZjdG5qRTNCazNKRG42RWxPWVRNUXNlbW55UWlkdDRkaExMTjRYTHR2d2lObGZ5WHZ2R0RzZ1BYUUlmUE9ta2pRR1VwNC1oR3pmeEF6TQ?oc=5",
+        "date": "2026-01-13",
+        "title": "From Engineering Feats to Ecological Regeneration, Vinhomes Green Paradise Debuts the ESG++ Framework for Future Cities - DagangNews",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWURLZUNRMDRYREhnSEE1UzdBTmR5OEU1UllkTnBfc2ZrcHJpaVYzZnlZY2thSWFCSk9IVm5BTnYxdXk0Ti1LV1JfVWJuUGEtcXhKbFNZSUozMmJVNEVEdG1PS1p6YXJNZE44cEV2Zl9XNTdSSnUxOWxzMlV3QzQ5aDZuZnRwSkNyYXMya3BfczNBSmJOR1ZjdG5qRTNCazNKRG42RWxPWVRNUXNlbW55UWlkdDRkaExMTjRYTHR2d2lObGZ5WHZ2R0RzZ1BYUUlmUE9ta2pRR1VwNC1oR3pmeEF6TQ?oc=5\" target=\"_blank\">From Engineering Feats to Ecological Regeneration, Vinhomes Green Paradise Debuts the ESG++ Framework for Future Cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DagangNews</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfb\ud83c\uddf3 NEWS: Vinhomes Green Paradise debuts ESG++ Framework, blending engineering feats with ecological regeneration for sustainable future cities $VHM"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHRDeWU1MmhZV3FwM0RaSVhQZWh6NUV3Yi1jeEYtR2VSRUNwV0pySzFzOXBuNnRNb1pHVlZMdmM5cVFIRWtabjIydjVJMHRNOVBlSmRHYUE0Sl9fMVZqNGpELWFZNlFoenpfeXZGMUotXzJyVkFqVi1VcExVTGRvVDZrVGtkd0pWbHBaOGRFb3pZSDlVOXl5NkZUTWlnZw?oc=5",
+        "date": "2026-01-13",
+        "title": "Genesys\u2019 Varanasi Digital Twin project receives SKOCH Award Gold - Machine Maker",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMHRDeWU1MmhZV3FwM0RaSVhQZWh6NUV3Yi1jeEYtR2VSRUNwV0pySzFzOXBuNnRNb1pHVlZMdmM5cVFIRWtabjIydjVJMHRNOVBlSmRHYUE0Sl9fMVZqNGpELWFZNlFoenpfeXZGMUotXzJyVkFqVi1VcExVTGRvVDZrVGtkd0pWbHBaOGRFb3pZSDlVOXl5NkZUTWlnZw?oc=5\" target=\"_blank\">Genesys\u2019 Varanasi Digital Twin project receives SKOCH Award Gold</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Machine Maker</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzZTd2JvN3hXRi04YkR2c001bzJGdHB2bDZRX05zNDNPMjJreUZBT3E2clhGc0hBN3pYYmkwWmhIQ2NsckRBbTB4V2pCM1hkMmhXcGFBVmdHRzBjbks5NTFBbTZra2xUY3VmMFFlOTB4TjM0bUNtM1gxeWMyem1WOUNkVGoxLXJEQWFWWGNkLVlKaWItTkhBelE1dW5xcy04bUYxUG1fbw?oc=5",
+        "date": "2026-01-13",
+        "title": "City of Helsinki and Aalto University strengthen partnership - Smart Cities World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzZTd2JvN3hXRi04YkR2c001bzJGdHB2bDZRX05zNDNPMjJreUZBT3E2clhGc0hBN3pYYmkwWmhIQ2NsckRBbTB4V2pCM1hkMmhXcGFBVmdHRzBjbks5NTFBbTZra2xUY3VmMFFlOTB4TjM0bUNtM1gxeWMyem1WOUNkVGoxLXJEQWFWWGNkLVlKaWItTkhBelE1dW5xcy04bUYxUG1fbw?oc=5\" target=\"_blank\">City of Helsinki and Aalto University strengthen partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDFMRzV1OVdLTV9aQUxkZ0xxdFh0dURiZGpWUWlVM1RYMU1TTGlWTDFibWNQLXlzOXZlYXBzSHVDc1BHT1pVZVZTaFdXbURwaG13MlRRN2tIRzIwZUdQc1lSS2dBR25uQ0lLcUMxckJJM3BGOFVwaTNfZDJEQjJRalpZbld3M2E2VG5TMGYyZ0lqdkdvUmVETFRn?oc=5",
+        "date": "2026-01-13",
+        "title": "Smart Waste Management Market is likely to Reach USD 17.08 Billion by 2035, Reaching at a CAGR of 13.8% - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDFMRzV1OVdLTV9aQUxkZ0xxdFh0dURiZGpWUWlVM1RYMU1TTGlWTDFibWNQLXlzOXZlYXBzSHVDc1BHT1pVZVZTaFdXbURwaG13MlRRN2tIRzIwZUdQc1lSS2dBR25uQ0lLcUMxckJJM3BGOFVwaTNfZDJEQjJRalpZbld3M2E2VG5TMGYyZ0lqdkdvUmVETFRn?oc=5\" target=\"_blank\">Smart Waste Management Market is likely to Reach USD 17.08 Billion by 2035, Reaching at a CAGR of 13.8%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVHIzc1E5VC1aay1MeDFEa0ZyMVVoVW1TVUhBb3o3UVY3N0l2V1NCZXplSDktbGdnWUZ2NlMyOVZGOTVsc2QtZjlhX1ZselpTT3lHZUUtSDNPNnlnU1Y0ckJaVXVuTlRRd19OZEc4SFdpRy1ackx0ejBzNDFxaTBUZHNFVC1pOGM2Q0JwejhHTHd5M19zSHByMWVEczBUcTlvQjlfeUIyeE9yQQ?oc=5",
+        "date": "2026-01-13",
+        "title": "Electric vehicles - EV Mega Hub to launch between Abu Dhabi and Dubai - Smart Cities World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVHIzc1E5VC1aay1MeDFEa0ZyMVVoVW1TVUhBb3o3UVY3N0l2V1NCZXplSDktbGdnWUZ2NlMyOVZGOTVsc2QtZjlhX1ZselpTT3lHZUUtSDNPNnlnU1Y0ckJaVXVuTlRRd19OZEc4SFdpRy1ackx0ejBzNDFxaTBUZHNFVC1pOGM2Q0JwejhHTHd5M19zSHByMWVEczBUcTlvQjlfeUIyeE9yQQ?oc=5\" target=\"_blank\">Electric vehicles - EV Mega Hub to launch between Abu Dhabi and Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde6\ud83c\uddea NEWS: EV Mega Hub to launch between Abu Dhabi and Dubai"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZldQbHozOFRVUHJtN21hUWJWY191QmM1b1NncGlWcEdkNExXNkZ3NFdYTEVESlFmLXN6Q20ybHRWcDIya0V5dVU3d1RYSUFXRUpENUpXemlyVlFtWE1fdWFndDBCQVVid2FZTmdSUlJIOXBkMm4xV0Z4UFI4MGwyX3hqWWhYTnktRTJOa3lBcHZHQ2pD?oc=5",
+        "date": "2026-01-13",
+        "title": "Ha Noi develops smart city with people at the centre - Nhan Dan Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZldQbHozOFRVUHJtN21hUWJWY191QmM1b1NncGlWcEdkNExXNkZ3NFdYTEVESlFmLXN6Q20ybHRWcDIya0V5dVU3d1RYSUFXRUpENUpXemlyVlFtWE1fdWFndDBCQVVid2FZTmdSUlJIOXBkMm4xV0Z4UFI4MGwyX3hqWWhYTnktRTJOa3lBcHZHQ2pD?oc=5\" target=\"_blank\">Ha Noi develops smart city with people at the centre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nhan Dan Online</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfb\ud83c\uddf3 NEWS: Ha Noi develops smart city with people at the centre"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWURLZUNRMDRYREhnSEE1UzdBTmR5OEU1UllkTnBfc2ZrcHJpaVYzZnlZY2thSWFCSk9IVm5BTnYxdXk0Ti1LV1JfVWJuUGEtcXhKbFNZSUozMmJVNEVEdG1PS1p6YXJNZE44cEV2Zl9XNTdSSnUxOWxzMlV3QzQ5aDZuZnRwSkNyYXMya3BfczNBSmJOR1ZjdG5qRTNCazNKRG42RWxPWVRNUXNlbW55UWlkdDRkaExMTjRYTHR2d2lObGZ5WHZ2R0RzZ1BYUUlmUE9ta2pRR1VwNC1oR3pmeEF6TQ?oc=5",
+        "date": "2026-01-13",
+        "title": "From Engineering Feats to Ecological Regeneration, Vinhomes Green Paradise Debuts the ESG++ Framework for Future Cities - DagangNews",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWURLZUNRMDRYREhnSEE1UzdBTmR5OEU1UllkTnBfc2ZrcHJpaVYzZnlZY2thSWFCSk9IVm5BTnYxdXk0Ti1LV1JfVWJuUGEtcXhKbFNZSUozMmJVNEVEdG1PS1p6YXJNZE44cEV2Zl9XNTdSSnUxOWxzMlV3QzQ5aDZuZnRwSkNyYXMya3BfczNBSmJOR1ZjdG5qRTNCazNKRG42RWxPWVRNUXNlbW55UWlkdDRkaExMTjRYTHR2d2lObGZ5WHZ2R0RzZ1BYUUlmUE9ta2pRR1VwNC1oR3pmeEF6TQ?oc=5\" target=\"_blank\">From Engineering Feats to Ecological Regeneration, Vinhomes Green Paradise Debuts the ESG++ Framework for Future Cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DagangNews</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfb\ud83c\uddf3 NEWS: Vinhomes Green Paradise debuts ESG++ Framework, blending engineering feats with ecological regeneration for sustainable future cities $VHM",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVHIzc1E5VC1aay1MeDFEa0ZyMVVoVW1TVUhBb3o3UVY3N0l2V1NCZXplSDktbGdnWUZ2NlMyOVZGOTVsc2QtZjlhX1ZselpTT3lHZUUtSDNPNnlnU1Y0ckJaVXVuTlRRd19OZEc4SFdpRy1ackx0ejBzNDFxaTBUZHNFVC1pOGM2Q0JwejhHTHd5M19zSHByMWVEczBUcTlvQjlfeUIyeE9yQQ?oc=5",
+        "date": "2026-01-13",
+        "title": "Electric vehicles - EV Mega Hub to launch between Abu Dhabi and Dubai - Smart Cities World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVHIzc1E5VC1aay1MeDFEa0ZyMVVoVW1TVUhBb3o3UVY3N0l2V1NCZXplSDktbGdnWUZ2NlMyOVZGOTVsc2QtZjlhX1ZselpTT3lHZUUtSDNPNnlnU1Y0ckJaVXVuTlRRd19OZEc4SFdpRy1ackx0ejBzNDFxaTBUZHNFVC1pOGM2Q0JwejhHTHd5M19zSHByMWVEczBUcTlvQjlfeUIyeE9yQQ?oc=5\" target=\"_blank\">Electric vehicles - EV Mega Hub to launch between Abu Dhabi and Dubai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddea NEWS: EV Mega Hub to launch between Abu Dhabi and Dubai, enhancing regional electric vehicle infrastructure",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZldQbHozOFRVUHJtN21hUWJWY191QmM1b1NncGlWcEdkNExXNkZ3NFdYTEVESlFmLXN6Q20ybHRWcDIya0V5dVU3d1RYSUFXRUpENUpXemlyVlFtWE1fdWFndDBCQVVid2FZTmdSUlJIOXBkMm4xV0Z4UFI4MGwyX3hqWWhYTnktRTJOa3lBcHZHQ2pD?oc=5",
+        "date": "2026-01-13",
+        "title": "Ha Noi develops smart city with people at the centre - Nhan Dan Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZldQbHozOFRVUHJtN21hUWJWY191QmM1b1NncGlWcEdkNExXNkZ3NFdYTEVESlFmLXN6Q20ybHRWcDIya0V5dVU3d1RYSUFXRUpENUpXemlyVlFtWE1fdWFndDBCQVVid2FZTmdSUlJIOXBkMm4xV0Z4UFI4MGwyX3hqWWhYTnktRTJOa3lBcHZHQ2pD?oc=5\" target=\"_blank\">Ha Noi develops smart city with people at the centre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nhan Dan Online</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfb\ud83c\uddf3 NEWS: Ha Noi develops smart city with people at the centre",
+        "type": "news"
     }
 ]
