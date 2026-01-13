@@ -3301,5 +3301,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: Westminster City Council launches retrofit-first policy to prioritize building upgrades for climate action.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-13",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US hosts 55% of Bitcoin's global hash rate in 2026, adding $3.2B to national energy infrastructure costs annually.\n\n\ud83c\uddfa\ud83c\uddf8 US holds just 35% of Ethereum's staked ETH, distributing $1.1B in validation costs more evenly across 50+ countries.",
+        "type": "crypto"
     }
 ]
