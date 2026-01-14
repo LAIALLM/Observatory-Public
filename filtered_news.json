@@ -3432,5 +3432,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Varanasis 3D Digital Twin Project wins SKOCH Gold Award for urban development",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGkwQWJrTWUzVGwtSkxPMEl2MjYyRW4yLWktaWxyQlFlMzZ2RnphTlBYRUFRQTBlajhYSEMwNU0yZ0w4a000WWlERnNndHF2Z1hEazJnMGxHeW04RTNKTlpaaWI0clpONzlpQmdKMEZvaThuMk0tR01wZ0tKX2JneEpUTm5RcFE1V1YxRkJTbERtc0ZQNTBYeXVSRF8wQQ?oc=5",
+        "date": "2026-01-14",
+        "title": "News | Knight Frank launches Infrastructure Lead Advisory team - CoStar",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOaGkwQWJrTWUzVGwtSkxPMEl2MjYyRW4yLWktaWxyQlFlMzZ2RnphTlBYRUFRQTBlajhYSEMwNU0yZ0w4a000WWlERnNndHF2Z1hEazJnMGxHeW04RTNKTlpaaWI0clpONzlpQmdKMEZvaThuMk0tR01wZ0tKX2JneEpUTm5RcFE1V1YxRkJTbERtc0ZQNTBYeXVSRF8wQQ?oc=5\" target=\"_blank\">News | Knight Frank launches Infrastructure Lead Advisory team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoStar</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRmxGbG9UTC0wMUVSU1ZlQS01YmJxRUkySUNZWHdwU3pkdHFQX1BiZWgyNGFwN3N0cHVkU2RBaUN5UVgzcFdMeFk2R3pjODV4WnVfLWFCSWR1M1ZyVHpZVHJwSFJfSFFjUWlUTlZVWC0tdGhMS2Iwa280c19xU3ctcWwtd1AwRC1fWHM4N2R1Z0NPVXUyc1E1cQ?oc=5",
+        "date": "2026-01-14",
+        "title": "BVNK to Deliver Stablecoin Infrastructure for Visa Direct Pilot Programs - The AI Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNRmxGbG9UTC0wMUVSU1ZlQS01YmJxRUkySUNZWHdwU3pkdHFQX1BiZWgyNGFwN3N0cHVkU2RBaUN5UVgzcFdMeFk2R3pjODV4WnVfLWFCSWR1M1ZyVHpZVHJwSFJfSFFjUWlUTlZVWC0tdGhMS2Iwa280c19xU3ctcWwtd1AwRC1fWHM4N2R1Z0NPVXUyc1E1cQ?oc=5\" target=\"_blank\">BVNK to Deliver Stablecoin Infrastructure for Visa Direct Pilot Programs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The AI Journal</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
