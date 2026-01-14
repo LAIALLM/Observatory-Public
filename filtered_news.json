@@ -3459,5 +3459,46 @@
         "status": "posted",
         "tweet": "Ethereum: 1.5M validators across 120+ countries, avg infrastructure cost $150/mo per node (hardware + power).\n\nSolana: 2.8K validators, 60% in \ud83c\uddfa\ud83c\uddf8US & \ud83c\uddea\ud83c\uddfaEU hubs, avg cost $1,200/mo per node.\n\nValidator decentralization drives 8x lower barriers on ETH vs SOL.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTXNCc2hxay04MU0wbTZfdV9RM2FjcWV5ck56RGtmYWJOWjFHUTdONzl3V1FGT1ItUTJPU3V0d01TcjVTckgwRVJyek5XTzRqYnc2REYzenpTSWFjcms0NjBUN3YtZmJQRlVPZWlBS3VubGRYaC1VZEY4MjNuY0lSNGp4MV9LNElhclVqUTJnM1IteURSa1NldXc2WDRSVE5OMGVLdHVpNGJQZw?oc=5",
+        "date": "2026-01-14",
+        "title": "Microsoft Unveils 5-Point Plan for \u2018Community-First AI Infrastructure\u2019 - AI Insider",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTXNCc2hxay04MU0wbTZfdV9RM2FjcWV5ck56RGtmYWJOWjFHUTdONzl3V1FGT1ItUTJPU3V0d01TcjVTckgwRVJyek5XTzRqYnc2REYzenpTSWFjcms0NjBUN3YtZmJQRlVPZWlBS3VubGRYaC1VZEY4MjNuY0lSNGp4MV9LNElhclVqUTJnM1IteURSa1NldXc2WDRSVE5OMGVLdHVpNGJQZw?oc=5\" target=\"_blank\">Microsoft Unveils 5-Point Plan for \u2018Community-First AI Infrastructure\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Insider</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSQTc2U2NxbjljanlUZHpSdzNVWVVxa2VrUUtjR3g3MGtkQnQycXhQX1BMYmpoM0lYcl84b1liTjZoTFZZR3c5amM2a3dlczhxYktjZDVNRVlZaDZhTHBDUUl2VQ?oc=5",
+        "date": "2026-01-14",
+        "title": "$3T AI infrastructure boom rolls on amid profit doubts - theregister.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSQTc2U2NxbjljanlUZHpSdzNVWVVxa2VrUUtjR3g3MGtkQnQycXhQX1BMYmpoM0lYcl84b1liTjZoTFZZR3c5amM2a3dlczhxYktjZDVNRVlZaDZhTHBDUUl2VQ?oc=5\" target=\"_blank\">$3T AI infrastructure boom rolls on amid profit doubts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theregister.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "NEWS: $3T AI infrastructure boom powers ahead despite growing profit doubts"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOXNMS0dUemRwNVVlUjc1azUxWTJCM3hOb2VTMmg3c0t0UTA4Tk9rSnNYbWw3Q1Y4T2pKbjhmTUF4MGR1SHNuZ2FwNHRIR0RQMmU1Q1hvOFFGcUs3NkV5b0lxY3lvLUIzQ2VTTHVyOV9KNVdtNVJzZWhqeWxJSmo4UTNxV1ZoT2ZWUW5QTkxFRi1fVUQybEp6d01uYVFMN00?oc=5",
+        "date": "2026-01-14",
+        "title": "Danish infrastructure manager AIP holds \u20ac2B first close for latest fund - PitchBook",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOOXNMS0dUemRwNVVlUjc1azUxWTJCM3hOb2VTMmg3c0t0UTA4Tk9rSnNYbWw3Q1Y4T2pKbjhmTUF4MGR1SHNuZ2FwNHRIR0RQMmU1Q1hvOFFGcUs3NkV5b0lxY3lvLUIzQ2VTTHVyOV9KNVdtNVJzZWhqeWxJSmo4UTNxV1ZoT2ZWUW5QTkxFRi1fVUQybEp6d01uYVFMN00?oc=5\" target=\"_blank\">Danish infrastructure manager AIP holds \u20ac2B first close for latest fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PitchBook</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSQTc2U2NxbjljanlUZHpSdzNVWVVxa2VrUUtjR3g3MGtkQnQycXhQX1BMYmpoM0lYcl84b1liTjZoTFZZR3c5amM2a3dlczhxYktjZDVNRVlZaDZhTHBDUUl2VQ?oc=5",
+        "date": "2026-01-14",
+        "title": "$3T AI infrastructure boom rolls on amid profit doubts - theregister.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSQTc2U2NxbjljanlUZHpSdzNVWVVxa2VrUUtjR3g3MGtkQnQycXhQX1BMYmpoM0lYcl84b1liTjZoTFZZR3c5amM2a3dlczhxYktjZDVNRVlZaDZhTHBDUUl2VQ?oc=5\" target=\"_blank\">$3T AI infrastructure boom rolls on amid profit doubts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theregister.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "NEWS: $3T AI infrastructure boom charges ahead despite growing profit skepticism",
+        "type": "news"
     }
 ]
