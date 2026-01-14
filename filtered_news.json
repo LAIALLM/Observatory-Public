@@ -3452,5 +3452,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-14",
+        "status": "posted",
+        "tweet": "Ethereum: 1.5M validators across 120+ countries, avg infrastructure cost $150/mo per node (hardware + power).\n\nSolana: 2.8K validators, 60% in \ud83c\uddfa\ud83c\uddf8US & \ud83c\uddea\ud83c\uddfaEU hubs, avg cost $1,200/mo per node.\n\nValidator decentralization drives 8x lower barriers on ETH vs SOL.",
+        "type": "crypto"
     }
 ]
