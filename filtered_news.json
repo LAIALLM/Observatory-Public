@@ -3223,5 +3223,12 @@
         "tweet": "By 2026, global engineering projects in renewables will add 510 GW capacity.\n\n\ud83c\udde8\ud83c\uddf3 China delivers 220 GW, surpassing the combined 180 GW from \ud83c\uddfa\ud83c\uddf8 US and \ud83c\uddea\ud83c\uddfa EU.",
         "type": "statistical",
         "category": "engineering projects"
+    },
+    {
+        "link": null,
+        "date": "2026-01-15",
+        "status": "posted",
+        "tweet": "Bitcoin's projected 2026 carbon footprint: 95 million metric tons of CO2 annually.\n\nThis exceeds the yearly emissions of Greece \ud83c\uddec\ud83c\uddf7 (84 million metric tons).",
+        "type": "crypto"
     }
 ]
