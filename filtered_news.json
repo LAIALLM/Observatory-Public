@@ -3215,5 +3215,13 @@
         "status": "posted",
         "tweet": "Google's \ud83c\uddfa\ud83c\uddf8 data centers processed 18 exabytes daily in 2026, supporting 8.5 billion searches.\n\n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-15",
+        "status": "posted",
+        "tweet": "By 2026, global engineering projects in renewables will add 510 GW capacity.\n\n\ud83c\udde8\ud83c\uddf3 China delivers 220 GW, surpassing the combined 180 GW from \ud83c\uddfa\ud83c\uddf8 US and \ud83c\uddea\ud83c\uddfa EU.",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
