@@ -3226,5 +3226,12 @@
         "status": "posted",
         "tweet": "2026 projection: Bitcoin's network infrastructure costs $15B annually in energy alone, supporting just 7 TPS\u2014$68 per transaction.\n\nSolana delivers 65,000 TPS at under $200M yearly, or $0.0001 per tx.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-01-16",
+        "status": "posted",
+        "tweet": "Microsoft Azure infrastructure reached 3.2 million active servers globally in 2026, up 25% from 2025.\n\nPower efficiency: 1.15 PUE across data centers.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
