@@ -3282,5 +3282,76 @@
         "status": "posted",
         "tweet": "NEWS: Zangezur Corridor emerges as key infrastructure to reshape trade and connectivity across South Caucasus",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmOWRCaWtmUzhKUTZKZjQ3cG1RaXdpaUl1Z3g1YXA5REZZUGRKNDBlbHo4aVpSdTRZLWJiNElWNGVGazExODdWaUJtcFdfRWJRdF81QVJnRDNad9IBX0FVX3lxTFB6bHJRay1UN0xId1lsdXBhUU1Yc2paUXBNYjJWYlpPb1B0N2M1QjBYTDNMcDkySE1HaWNVMjZLTWdrTzQ4ZmM4d2tOYUxLZDRfcnBQa1Vfam4tdXFZbi1R?oc=5",
+        "date": "2026-01-16",
+        "title": "Mural hopes to inspire future construction workers - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmOWRCaWtmUzhKUTZKZjQ3cG1RaXdpaUl1Z3g1YXA5REZZUGRKNDBlbHo4aVpSdTRZLWJiNElWNGVGazExODdWaUJtcFdfRWJRdF81QVJnRDNad9IBX0FVX3lxTFB6bHJRay1UN0xId1lsdXBhUU1Yc2paUXBNYjJWYlpPb1B0N2M1QjBYTDNMcDkySE1HaWNVMjZLTWdrTzQ4ZmM4d2tOYUxLZDRfcnBQa1Vfam4tdXFZbi1R?oc=5\" target=\"_blank\">Mural hopes to inspire future construction workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkRXU1JsRkdMX1Z6WVlFaUc4R0M2WFR2SHh0OTh2ZWJYY3Y3bU1ZcS1yZkJsZ0VHYXRGN0otQTFjN0p6TUY5amJraTk1U1NTUG5aOGtxSDNzbVRNR1RZVFU1TkVFVFFHQm5jMnBuM1cxUkVkczVNMEdtUFlPVUpXcjZ1MkEwcDNSdmxJ?oc=5",
+        "date": "2026-01-16",
+        "title": "The AI we need for sustainable infrastructure - Eco-Business",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkRXU1JsRkdMX1Z6WVlFaUc4R0M2WFR2SHh0OTh2ZWJYY3Y3bU1ZcS1yZkJsZ0VHYXRGN0otQTFjN0p6TUY5amJraTk1U1NTUG5aOGtxSDNzbVRNR1RZVFU1TkVFVFFHQm5jMnBuM1cxUkVkczVNMEdtUFlPVUpXcjZ1MkEwcDNSdmxJ?oc=5\" target=\"_blank\">The AI we need for sustainable infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eco-Business</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yaWlUdEEzZmZFaUZOaEJNbWROU29GS21tZk11LTA4YzdFRkhpTHFKRU1oZ1B1SDZZRlYxdmNYX3h0RzIyYU9ieUhsYmI3cjVsUk5GeFpza3kxSEt0Ri1DSEFzaHMyTXAxSUdRWUw4VUEtdFBjRmc?oc=5",
+        "date": "2026-01-16",
+        "title": "Parsons (PSN) Is Up 5.9% After Major New Murabba Infrastructure Win in Riyadh - Has The Bull Case Changed? - Yahoo Finance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0yaWlUdEEzZmZFaUZOaEJNbWROU29GS21tZk11LTA4YzdFRkhpTHFKRU1oZ1B1SDZZRlYxdmNYX3h0RzIyYU9ieUhsYmI3cjVsUk5GeFpza3kxSEt0Ri1DSEFzaHMyTXAxSUdRWUw4VUEtdFBjRmc?oc=5\" target=\"_blank\">Parsons (PSN) Is Up 5.9% After Major New Murabba Infrastructure Win in Riyadh - Has The Bull Case Changed?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddf8\ud83c\udde6 NEWS: Parsons $PSN up 5.9% after securing major New Murabba infrastructure contract in Riyadh\u2014has the bull case strengthened?"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX0M0U3EtTWN1UjllZUUwUl9iYVhNV2Q5SnlLLWFnbm5yU0c1Vmw2dWUta051Y0ZVTXExMFF0OXhSNS1hWVA5MFV0eERtUHVsSFRCYWh4aHBYSkNxajU4VGNFSlBnTmxPOENjMGpPVDV3cDlsaDJfelZfcmtWZFU4WWw3X2gwVXlIZ1VkT0tmaEd2dWo4NmhxLWJ3RGcwbDQ3UEEzUlpfS255NzFqNi0xMzJlalI2Y2Q4dzhfODBkZzFLYmZKeGozMVJ6NWV3bTNmdS02NWFRbHdQTWdXUUVF?oc=5",
+        "date": "2026-01-16",
+        "title": "Poland's PM praises cyber defences after attempted attack on energy infrastructure foiled - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX0M0U3EtTWN1UjllZUUwUl9iYVhNV2Q5SnlLLWFnbm5yU0c1Vmw2dWUta051Y0ZVTXExMFF0OXhSNS1hWVA5MFV0eERtUHVsSFRCYWh4aHBYSkNxajU4VGNFSlBnTmxPOENjMGpPVDV3cDlsaDJfelZfcmtWZFU4WWw3X2gwVXlIZ1VkT0tmaEd2dWo4NmhxLWJ3RGcwbDQ3UEEzUlpfS255NzFqNi0xMzJlalI2Y2Q4dzhfODBkZzFLYmZKeGozMVJ6NWV3bTNmdS02NWFRbHdQTWdXUUVF?oc=5\" target=\"_blank\">Poland's PM praises cyber defences after attempted attack on energy infrastructure foiled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hTHhuOXRBbjU2TlNGTjA2SGU0UjhmazBpVDd3eTN4eFN0c3RIM3dvYzA0ZkRLM3VkaFJ2OWdaMERLN0VsTjRWejJJM2tlRktIUHl0WEtfYXg?oc=5",
+        "date": "2026-01-16",
+        "title": "Reno's Action Plan to Tackle Wildfire Risks - burgtelegram.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hTHhuOXRBbjU2TlNGTjA2SGU0UjhmazBpVDd3eTN4eFN0c3RIM3dvYzA0ZkRLM3VkaFJ2OWdaMERLN0VsTjRWejJJM2tlRktIUHl0WEtfYXg?oc=5\" target=\"_blank\">Reno's Action Plan to Tackle Wildfire Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">burgtelegram.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVnRIeG14Zk9pOWtjVS04bkFoWkpCS3l5TVFQeUt6VV9lU0h0RjhKWVNBTkR3VWZaTXMtWTJsem1CRndzUXRVbVg4TE1FODQ0b3ZmZUhWeVFkQUs5cUVGdnRUMk9NRTlJWVczZEdBQUV2SHpJWUs4NlV2V2MtZjBHNkZOa0RiLU41d0Vodjg1TXlkYzhnemkzVWU0YUIwQ09qZndFejRxUHkxRE1qMEtYM0V4dnQ3TXB2X3dsZzNkTXI?oc=5",
+        "date": "2026-01-16",
+        "title": "Genesys\u2019 Varanasi Digital Twin Wins SKOCH Award 2025 - Construction World India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVnRIeG14Zk9pOWtjVS04bkFoWkpCS3l5TVFQeUt6VV9lU0h0RjhKWVNBTkR3VWZaTXMtWTJsem1CRndzUXRVbVg4TE1FODQ0b3ZmZUhWeVFkQUs5cUVGdnRUMk9NRTlJWVczZEdBQUV2SHpJWUs4NlV2V2MtZjBHNkZOa0RiLU41d0Vodjg1TXlkYzhnemkzVWU0YUIwQ09qZndFejRxUHkxRE1qMEtYM0V4dnQ3TXB2X3dsZzNkTXI?oc=5\" target=\"_blank\">Genesys\u2019 Varanasi Digital Twin Wins SKOCH Award 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction World India</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yaWlUdEEzZmZFaUZOaEJNbWROU29GS21tZk11LTA4YzdFRkhpTHFKRU1oZ1B1SDZZRlYxdmNYX3h0RzIyYU9ieUhsYmI3cjVsUk5GeFpza3kxSEt0Ri1DSEFzaHMyTXAxSUdRWUw4VUEtdFBjRmc?oc=5",
+        "date": "2026-01-16",
+        "title": "Parsons (PSN) Is Up 5.9% After Major New Murabba Infrastructure Win in Riyadh - Has The Bull Case Changed? - Yahoo Finance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0yaWlUdEEzZmZFaUZOaEJNbWROU29GS21tZk11LTA4YzdFRkhpTHFKRU1oZ1B1SDZZRlYxdmNYX3h0RzIyYU9ieUhsYmI3cjVsUk5GeFpza3kxSEt0Ri1DSEFzaHMyTXAxSUdRWUw4VUEtdFBjRmc?oc=5\" target=\"_blank\">Parsons (PSN) Is Up 5.9% After Major New Murabba Infrastructure Win in Riyadh - Has The Bull Case Changed?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf8\ud83c\udde6 NEWS: Parsons $PSN surges 5.9% on major Murabba infrastructure contract win in Riyadh",
+        "type": "news"
     }
 ]
