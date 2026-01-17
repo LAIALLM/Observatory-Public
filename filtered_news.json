@@ -3044,5 +3044,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-17",
+        "status": "posted",
+        "tweet": "Bitcoin's PoW infrastructure incurs $4.2B in 2026 global regulatory costs from energy mandates and carbon taxes, driving 30% of miners to relocate.\n\nEthereum's PoS setup faces just $450M, with 85% lower compliance burdens under \ud83c\uddea\ud83c\uddfa EU MiCA rules.",
+        "type": "crypto"
     }
 ]
