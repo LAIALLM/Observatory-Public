@@ -3051,5 +3051,15 @@
         "status": "posted",
         "tweet": "Bitcoin's PoW infrastructure incurs $4.2B in 2026 global regulatory costs from energy mandates and carbon taxes, driving 30% of miners to relocate.\n\nEthereum's PoS setup faces just $450M, with 85% lower compliance burdens under \ud83c\uddea\ud83c\uddfa EU MiCA rules.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYzZ1Q1o1SktoY3Yzem9sV3lrNFQ0ZzZ0eVpfd0JlWm9JVjZxSGdFNHpGcFFRaHRKeGphZkZQZVgxNEVIQnFjMmtHXzdjTVZQczBGakVfZGVMSWJqRFBJa3ozellzZGJEcFhnMGxnenhxV1Z4NDhiNEpVSjdLNDF1UEFtYWtLRU5oTi1V?oc=5",
+        "date": "2026-01-17",
+        "title": "STACK Infrastructure \u2013 Weekly Recap - TipRanks",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYzZ1Q1o1SktoY3Yzem9sV3lrNFQ0ZzZ0eVpfd0JlWm9JVjZxSGdFNHpGcFFRaHRKeGphZkZQZVgxNEVIQnFjMmtHXzdjTVZQczBGakVfZGVMSWJqRFBJa3ozellzZGJEcFhnMGxnenhxV1Z4NDhiNEpVSjdLNDF1UEFtYWtLRU5oTi1V?oc=5\" target=\"_blank\">STACK Infrastructure \u2013 Weekly Recap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
