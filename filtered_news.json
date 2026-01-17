@@ -3026,5 +3026,23 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Telangana redraws 2012 Building Rules to protect lakes and rivers from construction threats.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-17",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US construction firms project $2.1T revenue in 2026.  \n\ud83c\udde8\ud83c\uddf3 China: $4.8T.  \nChina holds 36% of global $13.2T market, driving infrastructure surge.",
+        "type": "statistical",
+        "category": "construction companies"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTVI5NUs0c2EtRE0xci1fRFZya2RsQThaRXExWDhRMGRiWGR4OUh5MXhPc21RbjlaSjJGeTlURFhNZkZtMjY2VFRZcUZNYlhIQWp6N2tnNXBCLUtHLTVkZUxrM1pvSjRBQkdRZVk0RVdpeXFmdWlwbnZuR3hGY3NwNWFta25QQUwxc0MxTDB2TTdyVzFQbFdoSUl2eGJMVmY2?oc=5",
+        "date": "2026-01-17",
+        "title": "Labor, Tariffs Challenge Contractors as Data Centers Drive Growth - Construction Owners Club",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPTVI5NUs0c2EtRE0xci1fRFZya2RsQThaRXExWDhRMGRiWGR4OUh5MXhPc21RbjlaSjJGeTlURFhNZkZtMjY2VFRZcUZNYlhIQWp6N2tnNXBCLUtHLTVkZUxrM1pvSjRBQkdRZVk0RVdpeXFmdWlwbnZuR3hGY3NwNWFta25QQUwxc0MxTDB2TTdyVzFQbFdoSUl2eGJMVmY2?oc=5\" target=\"_blank\">Labor, Tariffs Challenge Contractors as Data Centers Drive Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Owners Club</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
