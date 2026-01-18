@@ -2906,5 +2906,62 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-18",
+        "status": "posted",
+        "tweet": "Bitcoin mining hash rate in 2026: 65% concentrated in top 3 countries, inflating global infra costs via uneven energy/regulatory burdens.\n\n1. \ud83c\uddfa\ud83c\uddf8 USA: 38%\n2. \ud83c\uddf7\ud83c\uddfa Russia: 16%\n3. \ud83c\udde8\ud83c\udde6 Canada: 11%",
+        "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQXdYbjlTSTg0WmlRRENzVHFRaTQ1eVExdWNzc1BISzNNTFM5RkdiZ1BvaE9NNTg4Wi0wbTlLaEltN2NWRnpmQmN5LWRKZDJuU2hZM2VIN0p6M1JPZV9VRFNVZWNfVFEwRHMzeW41WVN5ZThfX1pCZ3ZFUEFaRjBfQ3dKRlhKc1dhUEJlRGhzVlRILVJiMEpUT0ZIWjI?oc=5",
+        "date": "2026-01-18",
+        "title": "War-driven labor shortage pushes Israel toward Asian workers - israeltoday.co.il",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQQXdYbjlTSTg0WmlRRENzVHFRaTQ1eVExdWNzc1BISzNNTFM5RkdiZ1BvaE9NNTg4Wi0wbTlLaEltN2NWRnpmQmN5LWRKZDJuU2hZM2VIN0p6M1JPZV9VRFNVZWNfVFEwRHMzeW41WVN5ZThfX1pCZ3ZFUEFaRjBfQ3dKRlhKc1dhUEJlRGhzVlRILVJiMEpUT0ZIWjI?oc=5\" target=\"_blank\">War-driven labor shortage pushes Israel toward Asian workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">israeltoday.co.il</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVVYybERjSC1VWWRKQ1E3Ui1xSTZfVGUwR0NVR3lmN0NWQUpVRFZRT04za2l4N09fTlc4RmdidVo3b3dFMGpoNjhVSUc2eU12SWxQYmF0cmVDUVl2dVR0TThMZmRySWdYSFVVeTNLUVZTV21pdi1uc293S21JTDgxT3otZWRTRk5XajZjVlFUSE1RWmNqUkszVUpIcUl4TUl3ZElJbzNR?oc=5",
+        "date": "2026-01-18",
+        "title": "Microsoft obtains UK and US court orders to disable cybercrime infrastructure - Digital Watch Observatory",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOVVYybERjSC1VWWRKQ1E3Ui1xSTZfVGUwR0NVR3lmN0NWQUpVRFZRT04za2l4N09fTlc4RmdidVo3b3dFMGpoNjhVSUc2eU12SWxQYmF0cmVDUVl2dVR0TThMZmRySWdYSFVVeTNLUVZTV21pdi1uc293S21JTDgxT3otZWRTRk5XajZjVlFUSE1RWmNqUkszVUpIcUl4TUl3ZElJbzNR?oc=5\" target=\"_blank\">Microsoft obtains UK and US court orders to disable cybercrime infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Watch Observatory</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZEVYLVowVktHN3lXMjR1UzljRXAzdk15UUpxNW9LT2Z2QWY5ejRYejRFbUVTTElpeWhhRm1KSTB6UHZPa09vekVCUGpXTkd4bzZLNUdGd2J2NEhUeXJud3BrbGNMWXdNdWtwOUhnOEZIX19BZTgyQzlRUHEwUlRSWUZwXzhVRXVuZ3dOSHc2X2ZDSkHSAZgBQVVfeXFMUFdPVUZLWDNjdloxS3R0RXlCOEEwVG91QjdCZkkzWE1mSVVUMlNWczBFcTRmZXZOTjRsQ0E0bjg5cm1hbmplRTZBRUd5aVlaTElzRFBEdURWdTQ1RWxhcHdVclhNT0stMXZGZ3UtYmd5V055V2k3OEg2ZzBZdHFLN2MyTW5HOWZ4UHNWMnptNmZSZkhYMlV1RTE?oc=5",
+        "date": "2026-01-18",
+        "title": "Russian Attack Damages Energy Infrastructure in Odesa Region - mezha.net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOZEVYLVowVktHN3lXMjR1UzljRXAzdk15UUpxNW9LT2Z2QWY5ejRYejRFbUVTTElpeWhhRm1KSTB6UHZPa09vekVCUGpXTkd4bzZLNUdGd2J2NEhUeXJud3BrbGNMWXdNdWtwOUhnOEZIX19BZTgyQzlRUHEwUlRSWUZwXzhVRXVuZ3dOSHc2X2ZDSkHSAZgBQVVfeXFMUFdPVUZLWDNjdloxS3R0RXlCOEEwVG91QjdCZkkzWE1mSVVUMlNWczBFcTRmZXZOTjRsQ0E0bjg5cm1hbmplRTZBRUd5aVlaTElzRFBEdURWdTQ1RWxhcHdVclhNT0stMXZGZ3UtYmd5V055V2k3OEg2ZzBZdHFLN2MyTW5HOWZ4UHNWMnptNmZSZkhYMlV1RTE?oc=5\" target=\"_blank\">Russian Attack Damages Energy Infrastructure in Odesa Region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mezha.net</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjN1S0J6b3g2YXZOVHEzTHRMWGV4eDZoU1FYb1dYQWVGbjV4Q0p0Tk9Va3dLQ1ZKSTdveXNsZ1QwUTJwb2RVcGJfbkVZeTNHQmRjajlpZXRRQ3lWOUxzLTl1RFJrN0FJblNKcW1FMm1jOTVwM213NktpTExzN2xSSE5DTFhaUkI0ZVlUeEplZ1hhZE9VYVpUTWxXTDB6OG5wWXdSSVBXemJCOEdHTUxnV3NkNFNPZ1NFYU5SVlVobFbSAb8BQVVfeXFMTVppWnFxR1BRc1ItekJkQ1E5aXd2VnVPNFRuZE9rZ240Zkt0Mmt3Uk8zaUt4LVNlREZtSFlmbDRWQWJKZldULV9nRm1VQ2RWMFR6WWZFREVmaTZnanFMQ1YtMDctSnc0NjJubkRGR2JyXzE4T0NITUxWNUxxdXpGOG1seGRQNXhMNF9VQ0xGWDYyNTlPUzBKUGNqbXkxaDFXMllTVThTRFNFTnJNNWdWaEVZOGZ3MjBGWndpZ3dTR2c?oc=5",
+        "date": "2026-01-18",
+        "title": "Night attack on Odesa region: energy infrastructure object hit - Odesa Regional Military Administration - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjN1S0J6b3g2YXZOVHEzTHRMWGV4eDZoU1FYb1dYQWVGbjV4Q0p0Tk9Va3dLQ1ZKSTdveXNsZ1QwUTJwb2RVcGJfbkVZeTNHQmRjajlpZXRRQ3lWOUxzLTl1RFJrN0FJblNKcW1FMm1jOTVwM213NktpTExzN2xSSE5DTFhaUkI0ZVlUeEplZ1hhZE9VYVpUTWxXTDB6OG5wWXdSSVBXemJCOEdHTUxnV3NkNFNPZ1NFYU5SVlVobFbSAb8BQVVfeXFMTVppWnFxR1BRc1ItekJkQ1E5aXd2VnVPNFRuZE9rZ240Zkt0Mmt3Uk8zaUt4LVNlREZtSFlmbDRWQWJKZldULV9nRm1VQ2RWMFR6WWZFREVmaTZnanFMQ1YtMDctSnc0NjJubkRGR2JyXzE4T0NITUxWNUxxdXpGOG1seGRQNXhMNF9VQ0xGWDYyNTlPUzBKUGNqbXkxaDFXMllTVThTRFNFTnJNNWdWaEVZOGZ3MjBGWndpZ3dTR2c?oc=5\" target=\"_blank\">Night attack on Odesa region: energy infrastructure object hit - Odesa Regional Military Administration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRllmUmRhWWVkLVliNFdwcHlKbmZJdWhCbVhVSkN5OUZDR291MnJaRWFrOTdrYXVyRFpuM2kyaUU4c1I4LVBYdFExTGZCS1ROV1dhU2hBY25veGE2N1hjTDlDNXJLR25iZXlyVmpkaUFpNUN1MU5xekhxZ3FEaHVoVkVB?oc=5",
+        "date": "2026-01-18",
+        "title": "Singapore's former chief planner Liu Thai Ker dies aged 87 - AsiaOne",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNRllmUmRhWWVkLVliNFdwcHlKbmZJdWhCbVhVSkN5OUZDR291MnJaRWFrOTdrYXVyRFpuM2kyaUU4c1I4LVBYdFExTGZCS1ROV1dhU2hBY25veGE2N1hjTDlDNXJLR25iZXlyVmpkaUFpNUN1MU5xekhxZ3FEaHVoVkVB?oc=5\" target=\"_blank\">Singapore's former chief planner Liu Thai Ker dies aged 87</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AsiaOne</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
