@@ -2970,5 +2970,13 @@
         "status": "posted",
         "tweet": "Amazon's AWS global infrastructure processed 75 exabytes of data daily in 2026, powering 40% of enterprise cloud workloads.\n\n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-18",
+        "status": "posted",
+        "tweet": "By 2026, the global construction industry will surpass $12 trillion in value, with AI-driven automation projected to cut project timelines by 20%.",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
