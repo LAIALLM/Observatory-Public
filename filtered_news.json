@@ -3098,5 +3098,46 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8tQmNqMUxZY1RWQVQtQ3YxVFhleExIN3l5eUthVHk0NUE3OUZqamxKSWFublVQOUNTSi0xc2VPODkzQ0lGVFE?oc=5",
+        "date": "2026-01-18",
+        "title": "EU Pushes to Phase Out Chinese Suppliers from Key Infrastructure: FT Reports - filmogaz.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE8tQmNqMUxZY1RWQVQtQ3YxVFhleExIN3l5eUthVHk0NUE3OUZqamxKSWFublVQOUNTSi0xc2VPODkzQ0lGVFE?oc=5\" target=\"_blank\">EU Pushes to Phase Out Chinese Suppliers from Key Infrastructure: FT Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">filmogaz.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddea\ud83c\uddfa NEWS: EU pushes to phase out Chinese suppliers from key infrastructure like telecoms and energy grids."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1qYTlvTWdNb3RUbnZkYkxhNjd0QTR4MHVSbmU5c0Zvd0Z5ZWRFeDlQSE5tM1pSVm1UbkR0dk9QLWwwRUdXaHc?oc=5",
+        "date": "2026-01-18",
+        "title": "Revamping Roads: Can Recycled Tires Strengthen NT\u2019s Climate-Resilient Infrastructure? - filmogaz.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1qYTlvTWdNb3RUbnZkYkxhNjd0QTR4MHVSbmU5c0Zvd0Z5ZWRFeDlQSE5tM1pSVm1UbkR0dk9QLWwwRUdXaHc?oc=5\" target=\"_blank\">Revamping Roads: Can Recycled Tires Strengthen NT\u2019s Climate-Resilient Infrastructure?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">filmogaz.com</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZmRsUElLMXc3ZWZxMGhjTDZJUmlpOGF5bFRud3hmNXhVYlFQeWxFcHZjdTBkZjBlRjV6U1pqdEdaSTMtYlZWa2t4OWtwQmpmbG53TmZoX0lEZzFTS0liTkoyZ3VwNlFjeGdSX0h3VC1ENG9QVUVraDVXRVRRSlVoQTVqdi1zTk1BUG9EYl9HamNFbHU0ZUhNQVFwYk5lSlJf?oc=5",
+        "date": "2026-01-18",
+        "title": "Energy: the cornerstone of Africa\u2019s infrastructure development - Green Building Africa",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZmRsUElLMXc3ZWZxMGhjTDZJUmlpOGF5bFRud3hmNXhVYlFQeWxFcHZjdTBkZjBlRjV6U1pqdEdaSTMtYlZWa2t4OWtwQmpmbG53TmZoX0lEZzFTS0liTkoyZ3VwNlFjeGdSX0h3VC1ENG9QVUVraDVXRVRRSlVoQTVqdi1zTk1BUG9EYl9HamNFbHU0ZUhNQVFwYk5lSlJf?oc=5\" target=\"_blank\">Energy: the cornerstone of Africa\u2019s infrastructure development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Green Building Africa</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8tQmNqMUxZY1RWQVQtQ3YxVFhleExIN3l5eUthVHk0NUE3OUZqamxKSWFublVQOUNTSi0xc2VPODkzQ0lGVFE?oc=5",
+        "date": "2026-01-18",
+        "title": "EU Pushes to Phase Out Chinese Suppliers from Key Infrastructure: FT Reports - filmogaz.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE8tQmNqMUxZY1RWQVQtQ3YxVFhleExIN3l5eUthVHk0NUE3OUZqamxKSWFublVQOUNTSi0xc2VPODkzQ0lGVFE?oc=5\" target=\"_blank\">EU Pushes to Phase Out Chinese Suppliers from Key Infrastructure: FT Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">filmogaz.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddea\ud83c\uddfa NEWS: EU pushes to phase out Chinese suppliers from key infrastructure projects.",
+        "type": "news"
     }
 ]
