@@ -2963,5 +2963,12 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-18",
+        "status": "posted",
+        "tweet": "Amazon's AWS global infrastructure processed 75 exabytes of data daily in 2026, powering 40% of enterprise cloud workloads.\n\n$AMZN",
+        "type": "infrastructure"
     }
 ]
