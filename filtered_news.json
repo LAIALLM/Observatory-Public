@@ -3074,5 +3074,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\udde9 NEWS: Samakta Mitra and NEC Indonesia launch smart city command center at Deltamas Industrial Estate",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-19",
+        "status": "posted",
+        "tweet": "Meta's global data centers processed 18 petabytes of AI training data daily in Q1 2026, up 40% YoY.\n\n$META",
+        "type": "infrastructure"
     }
 ]
