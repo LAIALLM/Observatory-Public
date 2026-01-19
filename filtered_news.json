@@ -3081,5 +3081,13 @@
         "status": "posted",
         "tweet": "Meta's global data centers processed 18 petabytes of AI training data daily in Q1 2026, up 40% YoY.\n\n$META",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-19",
+        "status": "posted",
+        "tweet": "Top 5 cities by projected megaproject value in 2026 (USD trillions total: 2.1)\n\n\ud83c\uddf8\ud83c\udde6 Riyadh, Saudi Arabia\n\ud83c\udde8\ud83c\uddf3 Shanghai, China\n\ud83c\uddee\ud83c\uddf3 Mumbai, India\n\ud83c\uddfa\ud83c\uddf8 New York City, USA\n\ud83c\udde6\ud83c\uddea Dubai, UAE",
+        "type": "statistical",
+        "category": "construction projects"
     }
 ]
