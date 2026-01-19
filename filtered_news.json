@@ -2854,5 +2854,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddea\ud83c\uddfa NEWS: EU pushes to phase out Chinese suppliers from key infrastructure projects.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-19",
+        "status": "posted",
+        "tweet": "By 2026, \ud83c\uddfa\ud83c\uddf8US energy regulations will add $3.2B annually to Bitcoin mining infrastructure costs, driven by carbon pricing and grid compliance mandates. \n\nTotal network energy spend: $12.5B/year.",
+        "type": "crypto"
     }
 ]
