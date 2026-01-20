@@ -2929,5 +2929,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf3\ud83c\uddec NEWS: Nigerias federal government targets housing deficit through land reforms and launches new national housing strategy.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-20",
+        "status": "posted",
+        "tweet": "NVIDIA's \ud83c\uddfa\ud83c\uddf8California AI infrastructure processes 2 exaflops daily.\n\n$NVDA",
+        "type": "infrastructure"
     }
 ]
