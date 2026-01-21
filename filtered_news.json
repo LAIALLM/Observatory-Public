@@ -2848,5 +2848,12 @@
         "status": "posted",
         "tweet": "(\ud83c\uddf8\ud83c\udde6) NEWS: Saudi Arabias smart cities market grows with IoT integration for enhanced connected urban living",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-21",
+        "status": "posted",
+        "tweet": "Bitcoin's projected 2026 electricity use: 180 TWh annually.\n\nEquivalent to \ud83c\uddf3\ud83c\uddf1 Netherlands' total consumption for 100 million people.",
+        "type": "crypto"
     }
 ]
