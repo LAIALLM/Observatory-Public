@@ -2668,5 +2668,12 @@
         "tweet": "2026: \ud83c\uddee\ud83c\uddf3 India 1.44B  \n\ud83c\udde8\ud83c\uddf3 China 1.41B  \n\nIndia surpasses China by 30 million.",
         "type": "statistical",
         "category": "population"
+    },
+    {
+        "link": null,
+        "date": "2026-01-21",
+        "status": "posted",
+        "tweet": "NVIDIA's latest AI data centers in 2026 achieve 1.2 petaflops per GPU cluster efficiency.\n\nDaily throughput: 8 exaflops across global operations.\n\n$NVDA",
+        "type": "infrastructure"
     }
 ]
