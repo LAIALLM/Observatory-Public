@@ -2499,5 +2499,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf1 NEWS: Mekorot and Afikey Mayim agree to boost water supply to Beit She\u2019an area $MCTR",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-22",
+        "status": "posted",
+        "tweet": "AWS $AMZN data centers in \ud83c\uddfa\ud83c\uddf8Oregon processed 12 exabytes daily in 2026, supporting 2.5 billion global users.",
+        "type": "infrastructure"
     }
 ]
