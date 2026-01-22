@@ -2309,5 +2309,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-22",
+        "status": "posted",
+        "tweet": "Bitcoin's 2026 network security costs $18B annually in mining electricity to maintain hash rate.\n\nSolana's total validator maintenance hits $150M yearly for hardware, bandwidth, and ops across 2,500 nodes.\n\nBitcoin's scale dwarfs Solana's infra burden by 120x.",
+        "type": "crypto"
     }
 ]
