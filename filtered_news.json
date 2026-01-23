@@ -2225,5 +2225,86 @@
         "status": "posted",
         "tweet": "Annual cloud data center energy use for blockchains in 2026 (TWh/year):\n\n1. Bitcoin: 150 (PoW mining dominance)\n2. Ethereum: 25 (PoS validators)\n3. Solana: 5 (high-efficiency nodes)",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWXVDQ2NSNks4b2VGV3loVURIbkVzS2lfVVR3UVVwNzJMOUg2NDBsMTkwTWlFODJucWtsdi1HMTFMck1mNXZSN2JWdHhDcTJXQ2dSSEltam5jdVBSb1FKWFE5dDdkbXFrazhRdndyck1sUTViVE9hRW1oaGswdWo0VFV0TWNqLUNRZENvTlZ4bGtMVFo5akhxTV9mTk9jZk40M3oza0xwZHdOOGdmS0FnUWl5TVA1ZFpsYjU4Wm10czhmYVF6Z0pFclRZX29TYTRRSXRhXzdYYi0?oc=5",
+        "date": "2026-01-23",
+        "title": "Marlink Cyber exposes ISC BIND flaw that could knock critical infrastructure DNS offline - Industrial Cyber",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWXVDQ2NSNks4b2VGV3loVURIbkVzS2lfVVR3UVVwNzJMOUg2NDBsMTkwTWlFODJucWtsdi1HMTFMck1mNXZSN2JWdHhDcTJXQ2dSSEltam5jdVBSb1FKWFE5dDdkbXFrazhRdndyck1sUTViVE9hRW1oaGswdWo0VFV0TWNqLUNRZENvTlZ4bGtMVFo5akhxTV9mTk9jZk40M3oza0xwZHdOOGdmS0FnUWl5TVA1ZFpsYjU4Wm10czhmYVF6Z0pFclRZX29TYTRRSXRhXzdYYi0?oc=5\" target=\"_blank\">Marlink Cyber exposes ISC BIND flaw that could knock critical infrastructure DNS offline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Industrial Cyber</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczNTZThkUGt5c1R0US1vSkRsaVlaQU1qRHFWdDZFcExHNXVyZ01kMWViT21xZThpNjVJZUJZd1dySDNvVEtPQXR3UEZobzhjSnpyUXBxX3Zmb3BQTmVmeW9tR3JLVS1hZnloc19OWHpoaWlXZDZZcFVSckxzUDcyZWFNbDBxcGx2Q2M1dWpBT0Z4bUJkNTZKQndPMTN5a2dsb2hkUnh4RkJuVm5ITXl3MnJ2QzVYamx5eER6dVBTSWpSQzh2RnJTODhQYw?oc=5",
+        "date": "2026-01-23",
+        "title": "WAPA Board Takes Action to Support Infrastructure Progress and Operational Stability - stthomassource.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPczNTZThkUGt5c1R0US1vSkRsaVlaQU1qRHFWdDZFcExHNXVyZ01kMWViT21xZThpNjVJZUJZd1dySDNvVEtPQXR3UEZobzhjSnpyUXBxX3Zmb3BQTmVmeW9tR3JLVS1hZnloc19OWHpoaWlXZDZZcFVSckxzUDcyZWFNbDBxcGx2Q2M1dWpBT0Z4bUJkNTZKQndPMTN5a2dsb2hkUnh4RkJuVm5ITXl3MnJ2QzVYamx5eER6dVBTSWpSQzh2RnJTODhQYw?oc=5\" target=\"_blank\">WAPA Board Takes Action to Support Infrastructure Progress and Operational Stability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stthomassource.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZVd3ZVZmc3NtVjN5SGtjTGJuQnlZejkzVV9JaDNxX0g1YTJwcF9fVXRJZ004aS1ZMW1IOURGRGo5ZmNUXy01RmlOZnNOTjEzNHl2WGI0VTcxekNaSDRHMGozNHg3N0l1M3ZVbnNsRUZsQmYzZDdOZ01ISVVFMDctb2xUMmpGV1A4cDFyYVAtQUlUYTg4aVQ2QURiMVNiYktXOHhRYWhaV2lOdkk1RmluZmdDZy1kbWhPaDZaX1o0Z1hlRzBuTEF2YWhkNkprTUo5eWlmN3RSdFhScDJvd3l6UlhzUQ?oc=5",
+        "date": "2026-01-23",
+        "title": "EIB invests \u20ac50 million in Amber Dragon, the first-ever infrastructure equity fund for Ukraine\u2019s recovery - EU NEIGHBOURS east",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZVd3ZVZmc3NtVjN5SGtjTGJuQnlZejkzVV9JaDNxX0g1YTJwcF9fVXRJZ004aS1ZMW1IOURGRGo5ZmNUXy01RmlOZnNOTjEzNHl2WGI0VTcxekNaSDRHMGozNHg3N0l1M3ZVbnNsRUZsQmYzZDdOZ01ISVVFMDctb2xUMmpGV1A4cDFyYVAtQUlUYTg4aVQ2QURiMVNiYktXOHhRYWhaV2lOdkk1RmluZmdDZy1kbWhPaDZaX1o0Z1hlRzBuTEF2YWhkNkprTUo5eWlmN3RSdFhScDJvd3l6UlhzUQ?oc=5\" target=\"_blank\">EIB invests \u20ac50 million in Amber Dragon, the first-ever infrastructure equity fund for Ukraine\u2019s recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EU NEIGHBOURS east</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\udde6 NEWS: EIB invests \u20ac50 million in Amber Dragon, the first-ever infrastructure equity fund for Ukraine\u2019s recovery"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNWl5bWVUQVk5MEMtQmhtWUNucTViVzdMMGJiWmRmeUxDdkM2d3ZvaGExbkJMdTFwX19wT1JLWmVrek9NblFnOXI3ZjBMVGhpeUVmc2cwY2ItMzhoTHBUbWdiLTVzTFNjN1RMNGFDVU9VYUg4OUlfbUhieV8xcHhNQXluaUZkQUthQmF2bm44eDU4Y0YyaVZpdzlvYWRla0dHbDBMeVkwN1liN09GVDFZeEk2M1pKaXR6MVUtUXFhSG1MdEk?oc=5",
+        "date": "2026-01-23",
+        "title": "Fayetteville takes another swing at Murchison revival | Opinion - fayobserver.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNWl5bWVUQVk5MEMtQmhtWUNucTViVzdMMGJiWmRmeUxDdkM2d3ZvaGExbkJMdTFwX19wT1JLWmVrek9NblFnOXI3ZjBMVGhpeUVmc2cwY2ItMzhoTHBUbWdiLTVzTFNjN1RMNGFDVU9VYUg4OUlfbUhieV8xcHhNQXluaUZkQUthQmF2bm44eDU4Y0YyaVZpdzlvYWRla0dHbDBMeVkwN1liN09GVDFZeEk2M1pKaXR6MVUtUXFhSG1MdEk?oc=5\" target=\"_blank\">Fayetteville takes another swing at Murchison revival | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fayobserver.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVHk4TkU0aUVWSmo0SlVvMDdfVkVlMERGODY1RWUyaFZ6Nm1Qa1BhWWZSSFhLXzhHcGY0aTh0WG45ZFh1QmR4N19qOFRxYzNKLWZSRGxoQWZYV202V3FIN2VGMHBmU1FvQS1kVWhKc2JBYzdyU2lqOUdJUGFLbnhzbUFxLTRlc2dELURndWxESHppeEZLTTgzUVhyeWQ3OGNOeHVRUUtza2dldS10UmY5cGhQQnZ6ejFreUY2VldEWjBmMXRPZnVpQzZtLWF1OV9SbnRHV0d3?oc=5",
+        "date": "2026-01-23",
+        "title": "300+ Registrations for Urban Innovation Challenge; National Jury Convenes Tomorrow - PR Newswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVHk4TkU0aUVWSmo0SlVvMDdfVkVlMERGODY1RWUyaFZ6Nm1Qa1BhWWZSSFhLXzhHcGY0aTh0WG45ZFh1QmR4N19qOFRxYzNKLWZSRGxoQWZYV202V3FIN2VGMHBmU1FvQS1kVWhKc2JBYzdyU2lqOUdJUGFLbnhzbUFxLTRlc2dELURndWxESHppeEZLTTgzUVhyeWQ3OGNOeHVRUUtza2dldS10UmY5cGhQQnZ6ejFreUY2VldEWjBmMXRPZnVpQzZtLWF1OV9SbnRHV0d3?oc=5\" target=\"_blank\">300+ Registrations for Urban Innovation Challenge; National Jury Convenes Tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDYxbFlkT3g0amVqRk4wWnJXbkFBbjRFNm1wU1BucjNVNnN2djBVakpYcDk3LWNLVXBGQlZXcWJyaWEydzRPRXJ5TlZCVGtlVVFHUDA1TXRINloxR2Vscm1lOE1BUXZ4cUhYQUlNT09kTTVOdkEweG1pcnpSZDR0ODN0Y2REWkVwcWFsS0l3Tmxhb3ZubnFhYnQ3WVdhNWd6ZG9iSFFoOGI3Zw?oc=5",
+        "date": "2026-01-23",
+        "title": "How public housing projects made life worse for the urban poor - Washington Examiner",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDYxbFlkT3g0amVqRk4wWnJXbkFBbjRFNm1wU1BucjNVNnN2djBVakpYcDk3LWNLVXBGQlZXcWJyaWEydzRPRXJ5TlZCVGtlVVFHUDA1TXRINloxR2Vscm1lOE1BUXZ4cUhYQUlNT09kTTVOdkEweG1pcnpSZDR0ODN0Y2REWkVwcWFsS0l3Tmxhb3ZubnFhYnQ3WVdhNWd6ZG9iSFFoOGI3Zw?oc=5\" target=\"_blank\">How public housing projects made life worse for the urban poor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Examiner</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVGU1UDVqR25PTUZaSjQ3V01TNGZiM1h6OWU2eHhJU1ZPUW1FamY5VHV3Y29vNDlxdHZ2U3dPMV9EdUVCRzFYU201WXlXazR6ZG9ldWdDS1VZcnhkeDQtXzEzU2JES3FlSTNHSnl1cWZxelNqdkZCZHViZUJxeU1OeUg3RkJQcUNxRVpMQ3N2bksxNU1QTy1IU2lJS1h4TUxIaERmY2g1VWVXVmFrM0FSaS1WUmJEOTZJcE1oOVlOanNuTmNkbDVVaVhqNkc0S2lkZ0HSAdcBQVVfeXFMT0RRcFhCOUYtUFRyQng2Zk95Z3R6VFlscmJEQmN3c2YxWmtkQ2hSdW9mUEZvU2NOZWxfYUdncVJqa1YwcDNzdmg5Ulc4Nm45eURYYm1XWXkzUkZ1RmpCXzlEbi15TGhpRmM3RmdrcFpHYXgwTjE3OGJaTWN5dTY3ZTU4R29YY2RaUkRyZldrWElDWkFBLU9iblc0U3U4Tko0MzdXeEhDdzNLcXRJbm9uUkpBOElGN2V1RU5BODZOTVVzMDNCY1dKR0F4RWF1UjEtRU1KVzJ2M00?oc=5",
+        "date": "2026-01-23",
+        "title": "Rajkot\u2019s Atal Sarovar emerges as major urban attraction, draws over 1.4 million visitors - thehansindia.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVGU1UDVqR25PTUZaSjQ3V01TNGZiM1h6OWU2eHhJU1ZPUW1FamY5VHV3Y29vNDlxdHZ2U3dPMV9EdUVCRzFYU201WXlXazR6ZG9ldWdDS1VZcnhkeDQtXzEzU2JES3FlSTNHSnl1cWZxelNqdkZCZHViZUJxeU1OeUg3RkJQcUNxRVpMQ3N2bksxNU1QTy1IU2lJS1h4TUxIaERmY2g1VWVXVmFrM0FSaS1WUmJEOTZJcE1oOVlOanNuTmNkbDVVaVhqNkc0S2lkZ0HSAdcBQVVfeXFMT0RRcFhCOUYtUFRyQng2Zk95Z3R6VFlscmJEQmN3c2YxWmtkQ2hSdW9mUEZvU2NOZWxfYUdncVJqa1YwcDNzdmg5Ulc4Nm45eURYYm1XWXkzUkZ1RmpCXzlEbi15TGhpRmM3RmdrcFpHYXgwTjE3OGJaTWN5dTY3ZTU4R29YY2RaUkRyZldrWElDWkFBLU9iblc0U3U4Tko0MzdXeEhDdzNLcXRJbm9uUkpBOElGN2V1RU5BODZOTVVzMDNCY1dKR0F4RWF1UjEtRU1KVzJ2M00?oc=5\" target=\"_blank\">Rajkot\u2019s Atal Sarovar emerges as major urban attraction, draws over 1.4 million visitors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thehansindia.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZVd3ZVZmc3NtVjN5SGtjTGJuQnlZejkzVV9JaDNxX0g1YTJwcF9fVXRJZ004aS1ZMW1IOURGRGo5ZmNUXy01RmlOZnNOTjEzNHl2WGI0VTcxekNaSDRHMGozNHg3N0l1M3ZVbnNsRUZsQmYzZDdOZ01ISVVFMDctb2xUMmpGV1A4cDFyYVAtQUlUYTg4aVQ2QURiMVNiYktXOHhRYWhaV2lOdkk1RmluZmdDZy1kbWhPaDZaX1o0Z1hlRzBuTEF2YWhkNkprTUo5eWlmN3RSdFhScDJvd3l6UlhzUQ?oc=5",
+        "date": "2026-01-23",
+        "title": "EIB invests \u20ac50 million in Amber Dragon, the first-ever infrastructure equity fund for Ukraine\u2019s recovery - EU NEIGHBOURS east",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZVd3ZVZmc3NtVjN5SGtjTGJuQnlZejkzVV9JaDNxX0g1YTJwcF9fVXRJZ004aS1ZMW1IOURGRGo5ZmNUXy01RmlOZnNOTjEzNHl2WGI0VTcxekNaSDRHMGozNHg3N0l1M3ZVbnNsRUZsQmYzZDdOZ01ISVVFMDctb2xUMmpGV1A4cDFyYVAtQUlUYTg4aVQ2QURiMVNiYktXOHhRYWhaV2lOdkk1RmluZmdDZy1kbWhPaDZaX1o0Z1hlRzBuTEF2YWhkNkprTUo5eWlmN3RSdFhScDJvd3l6UlhzUQ?oc=5\" target=\"_blank\">EIB invests \u20ac50 million in Amber Dragon, the first-ever infrastructure equity fund for Ukraine\u2019s recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EU NEIGHBOURS east</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\udde6 NEWS: EIB invests \u20ac50 million in Amber Dragon, the first-ever infrastructure equity fund for Ukraine\u2019s recovery",
+        "type": "news"
     }
 ]
