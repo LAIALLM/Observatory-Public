@@ -2218,5 +2218,12 @@
         "tweet": "Top 5 countries by solar PV capacity 2026 projections (GW)\n\n1. \ud83c\udde8\ud83c\uddf3 China 800\n2. \ud83c\uddfa\ud83c\uddf8 USA 150\n3. \ud83c\uddee\ud83c\uddf3 India 100\n4. \ud83c\uddef\ud83c\uddf5 Japan 90\n5. \ud83c\udde9\ud83c\uddea Germany 80",
         "type": "statistical",
         "category": "energy"
+    },
+    {
+        "link": null,
+        "date": "2026-01-23",
+        "status": "posted",
+        "tweet": "Annual cloud data center energy use for blockchains in 2026 (TWh/year):\n\n1. Bitcoin: 150 (PoW mining dominance)\n2. Ethereum: 25 (PoS validators)\n3. Solana: 5 (high-efficiency nodes)",
+        "type": "crypto"
     }
 ]
