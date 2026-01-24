@@ -2634,5 +2634,32 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Granite Construction secures $157M Tucson project and $66M Nevada County contract $GVA",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3J2YmdnREo4Zl9IVlBSdUd5bkZHOFhLckhuUU4wZmFqTUgxeEFiekNoM1I1TjcxRmhrZjNTT2thQ3F3RWNGeHlJRy1HVUdiYU1zUzRfdEVIUzhRSjJvRjBPWW9ENXRnSndsMGgyUHdCRTFVRVR3UGtrZGxYUmdkTWI5QXB1eEJDckQ4WDN4UGZGc1g5cl9VclJ3?oc=5",
+        "date": "2026-01-24",
+        "title": "Building Finishing Contractors Market to Accelerate Growth with Skanska, Balfour Beatty, Hensel Phelps - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3J2YmdnREo4Zl9IVlBSdUd5bkZHOFhLckhuUU4wZmFqTUgxeEFiekNoM1I1TjcxRmhrZjNTT2thQ3F3RWNGeHlJRy1HVUdiYU1zUzRfdEVIUzhRSjJvRjBPWW9ENXRnSndsMGgyUHdCRTFVRVR3UGtrZGxYUmdkTWI5QXB1eEJDckQ4WDN4UGZGc1g5cl9VclJ3?oc=5\" target=\"_blank\">Building Finishing Contractors Market to Accelerate Growth with Skanska, Balfour Beatty, Hensel Phelps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUEVFWWY1SFFwTkJmQklweXpmQlFEakFtS2RGdkRHeFFQZXdNWWxOc2Z2RkRNWjFZV3VIR2x6UTcxQlZqM3dYd1RRM191bGxWQi01d3VTcUdqUG5kUzhPSEZFNzUwMjBJeThEZlZ1bWdrUTVZZE5CcU5hb1d0SVNraFNJUnFHSFppRTZMYmVvc0VRZS1aRVdEUURQSC1uQnA2RlhrdzJCVHZnczl6S3pIUTFhbEM?oc=5",
+        "date": "2026-01-24",
+        "title": "Weak policies, poor regulation, government neglect push families to homelessness - The Guardian Nigeria News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOUEVFWWY1SFFwTkJmQklweXpmQlFEakFtS2RGdkRHeFFQZXdNWWxOc2Z2RkRNWjFZV3VIR2x6UTcxQlZqM3dYd1RRM191bGxWQi01d3VTcUdqUG5kUzhPSEZFNzUwMjBJeThEZlZ1bWdrUTVZZE5CcU5hb1d0SVNraFNJUnFHSFppRTZMYmVvc0VRZS1aRVdEUURQSC1uQnA2RlhrdzJCVHZnczl6S3pIUTFhbEM?oc=5\" target=\"_blank\">Weak policies, poor regulation, government neglect push families to homelessness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian Nigeria News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-24",
+        "status": "posted",
+        "tweet": "Alphabet's global infrastructure processed 115 petabytes of data daily in 2026, supporting 9 billion searches. $GOOGL",
+        "type": "infrastructure"
     }
 ]
