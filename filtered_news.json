@@ -2661,5 +2661,25 @@
         "status": "posted",
         "tweet": "Alphabet's global infrastructure processed 115 petabytes of data daily in 2026, supporting 9 billion searches. $GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMVZBY2FFdjBMM1JOcFdzX2NuVktpc2p3UjFDdFBUS0UxUjcwcFoyMFJ5aWg0SXh4WnRrWXc0ZWNfcG9qY2hsTXBELTVIaVp1WXZuVFM1MmpsaEJka21SM19wdi1wSl9fWTBJLWVMZDVCRTRlVVlvTGJiNzk4XzN2RVpTZmlkcndhNkRGZmdNcDVSR0U?oc=5",
+        "date": "2026-01-24",
+        "title": "People - the quiet infrastructure behind Vietnam\u2019s growth - hanoitimes.vn",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMVZBY2FFdjBMM1JOcFdzX2NuVktpc2p3UjFDdFBUS0UxUjcwcFoyMFJ5aWg0SXh4WnRrWXc0ZWNfcG9qY2hsTXBELTVIaVp1WXZuVFM1MmpsaEJka21SM19wdi1wSl9fWTBJLWVMZDVCRTRlVVlvTGJiNzk4XzN2RVpTZmlkcndhNkRGZmdNcDVSR0U?oc=5\" target=\"_blank\">People - the quiet infrastructure behind Vietnam\u2019s growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hanoitimes.vn</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeEV5ZmtJOVpjSTVDZjNFazNjc3NyYVlBUGYzZE43clIwWGdKXzFUNlFLc3RxZzJ2NkkyU0x2QzdKdFNKQTdaWEFPdTdhNjVXVmF2cl9MNVNaMTV6OVJuSFJhV3F6UFU1TmpHS3lfb0J5SDNfNjYwQ3hLQlhRalhqYjdSa1lFbkUyNzVybTM0QkZsanFBZW1FRU12cVAzejk4d0kzcTkyOV9KX1E1YTFNdXNHNUF1M1FIMl95b3Z6MUFXMnRPYW1yV3ptaXBHV2NmS0x0MklsU2xXNWF3RnlNR3ZtTnppQXhURC03V0xXcnIyc1NHZVNEemdfY1oxbGxTUnk2a1BlUmJXcmk2N0N5c2w0Z0ZNZW5nODFiTmpmS0N1TS1RVjZqM2h0RmcyMEZwOWVoNXllR3BseGdGLV96YTI2em94c0FEZ3VtWk5DWU5XTTd6VXZmbQ?oc=5",
+        "date": "2026-01-24",
+        "title": "Nigeria\u2019s Makoko Confronts Unprecedented Evictions as Thousands of Residents Face Displacement from World\u2019s Largest Floating Slum, Disrupting Local Travel and Tourism Amid Urgent Urban Development Plans - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeEV5ZmtJOVpjSTVDZjNFazNjc3NyYVlBUGYzZE43clIwWGdKXzFUNlFLc3RxZzJ2NkkyU0x2QzdKdFNKQTdaWEFPdTdhNjVXVmF2cl9MNVNaMTV6OVJuSFJhV3F6UFU1TmpHS3lfb0J5SDNfNjYwQ3hLQlhRalhqYjdSa1lFbkUyNzVybTM0QkZsanFBZW1FRU12cVAzejk4d0kzcTkyOV9KX1E1YTFNdXNHNUF1M1FIMl95b3Z6MUFXMnRPYW1yV3ptaXBHV2NmS0x0MklsU2xXNWF3RnlNR3ZtTnppQXhURC03V0xXcnIyc1NHZVNEemdfY1oxbGxTUnk2a1BlUmJXcmk2N0N5c2w0Z0ZNZW5nODFiTmpmS0N1TS1RVjZqM2h0RmcyMEZwOWVoNXllR3BseGdGLV96YTI2em94c0FEZ3VtWk5DWU5XTTd6VXZmbQ?oc=5\" target=\"_blank\">Nigeria\u2019s Makoko Confronts Unprecedented Evictions as Thousands of Residents Face Displacement from World\u2019s Largest Floating Slum, Disrupting Local Travel and Tourism Amid Urgent Urban Development Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
