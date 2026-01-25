@@ -2381,5 +2381,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-25",
+        "status": "posted",
+        "tweet": "Microsoft Azure's \ud83c\uddfa\ud83c\uddf8 Virginia data center processed 15 petabytes of data daily in 2026, supporting 2.8 billion AI inferences per hour.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
