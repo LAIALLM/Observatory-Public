@@ -2205,5 +2205,15 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcDFRY2F0bVZfMmZFUTRhTFFoelZBNVlia1FadXJFNENqQlNhTlBNMk1SSGdjTHNBRUsxaW1DXzRubi0tMmN6WEZTT1ljNG9SOFVZWkVZWWUxajZWSVRnSWNZYjVKNkZPa1IyYjRSV1JpSWRtaF9PYTVPUUdhc281TXNLMGJCRm1oeE5oLVVsVQ?oc=5",
+        "date": "2026-01-25",
+        "title": "Building Ground Infrastructure for Advanced Air Mobility - Aviation Jeta",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQcDFRY2F0bVZfMmZFUTRhTFFoelZBNVlia1FadXJFNENqQlNhTlBNMk1SSGdjTHNBRUsxaW1DXzRubi0tMmN6WEZTT1ljNG9SOFVZWkVZWWUxajZWSVRnSWNZYjVKNkZPa1IyYjRSV1JpSWRtaF9PYTVPUUdhc281TXNLMGJCRm1oeE5oLVVsVQ?oc=5\" target=\"_blank\">Building Ground Infrastructure for Advanced Air Mobility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aviation Jeta</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
