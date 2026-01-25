@@ -2215,5 +2215,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-25",
+        "status": "posted",
+        "tweet": "2023: 56% of world population urban (4.4 billion people).  \n2026: 58% (4.6 billion) \u2013 200 million more city dwellers in 3 years.",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
