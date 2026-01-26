@@ -2371,5 +2371,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Gujarat Govt allows municipalities free land for public infrastructure projects to boost urban development.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-26",
+        "status": "posted",
+        "tweet": "In 2026, Bitcoin mining hardware capex hits $15 billion globally, with top ASICs costing $5,000 each to sustain 500 EH/s hash rate.",
+        "type": "crypto"
     }
 ]
