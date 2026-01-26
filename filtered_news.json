@@ -2253,5 +2253,12 @@
         "tweet": "\ud83c\udde8\ud83c\uddf3 China: 50,000 km high-speed rail operational in 2026.\n\n\ud83c\uddfa\ud83c\uddf8 USA: 0 km dedicated high-speed rail lines.",
         "type": "statistical",
         "category": "engineering projects"
+    },
+    {
+        "link": null,
+        "date": "2026-01-26",
+        "status": "posted",
+        "tweet": "AWS global data centers processed 1.2 zettabytes of data in 2026, a 40% increase from 2025.\n\n$AMZN",
+        "type": "infrastructure"
     }
 ]
