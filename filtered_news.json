@@ -2280,5 +2280,12 @@
         "status": "posted",
         "tweet": "Alphabet's global data centers processed 12 exabytes of data daily in 2026, supporting cloud services for 2.5 billion users.\n\n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-01-27",
+        "status": "posted",
+        "tweet": "Bitcoin node distribution by country in 2026, reflecting global infrastructural footprint:\n\n1. \ud83c\uddfa\ud83c\uddf8 USA: 2,847 nodes (45% of total)\n2. \ud83c\udde9\ud83c\uddea Germany: 1,234 nodes (19%)\n3. \ud83c\udde8\ud83c\udde6 Canada: 892 nodes (14%)",
+        "type": "crypto"
     }
 ]
