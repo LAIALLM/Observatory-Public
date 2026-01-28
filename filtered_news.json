@@ -2317,5 +2317,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf0\ud83c\uddea NEWS: Groundbreaking for The Orchards at Northlands, a Sh3 billion residential development led by Superior Homes and Northlands City.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-28",
+        "status": "posted",
+        "tweet": "Bitcoin's 2026 electricity use: 180 TWh/year (equivalent to \ud83c\uddf3\ud83c\uddf1 Netherlands' total).\n\nEthereum's (post-PoS): 0.03 TWh/year.\n\nBTC consumes 6,000x more energy for network security.",
+        "type": "crypto"
     }
 ]
