@@ -2324,5 +2324,13 @@
         "status": "posted",
         "tweet": "Bitcoin's 2026 electricity use: 180 TWh/year (equivalent to \ud83c\uddf3\ud83c\uddf1 Netherlands' total).\n\nEthereum's (post-PoS): 0.03 TWh/year.\n\nBTC consumes 6,000x more energy for network security.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-01-28",
+        "status": "posted",
+        "tweet": "Projected top 5 megacities by population in 2030 (UN estimates)\n\n\ud83c\uddef\ud83c\uddf5 Tokyo, Japan: 37M  \n\ud83c\uddee\ud83c\uddf3 Delhi, India: 33M  \n\ud83c\udde8\ud83c\uddf3 Shanghai, China: 33M  \n\ud83c\udde7\ud83c\udde9 Dhaka, Bangladesh: 28M  \n\ud83c\uddf2\ud83c\uddfd Mexico City, Mexico: 28M",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
