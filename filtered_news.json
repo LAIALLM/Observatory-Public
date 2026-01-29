@@ -2215,5 +2215,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddea\ud83c\uddfa NEWS: EU invests \u20ac650 million in cross-border energy infrastructure",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-29",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US infrastructure investment reaches $110 billion annually by 2026, funding 20,000 miles of roads and 1,000 EV charging networks to cut emissions 15% by 2030.",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
