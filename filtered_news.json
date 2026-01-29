@@ -2415,5 +2415,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddef\ud83c\uddf4 NEWS: Jordan launches Aqaba smart city plan with Japanese input to boost infrastructure and sustainability",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-01-29",
+        "status": "posted",
+        "tweet": "2026: Bitcoin's 25,000 nodes are distributed with 55% in \ud83c\uddfa\ud83c\uddf8 and \ud83c\udde9\ud83c\uddea data centers, concentrating infrastructural costs at $1.2B yearly for energy and bandwidth. \n\nDecentralization lags, amplifying regional vulnerabilities.",
+        "type": "crypto"
     }
 ]
