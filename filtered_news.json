@@ -2221,5 +2221,12 @@
         "tweet": "\ud83c\udde8\ud83c\uddf3 China: $1.5T infrastructure investment in 2026.\n\n\ud83c\uddfa\ud83c\uddf8 US: $300B.\n\n5x disparity fuels Asia's edge in global projects.",
         "type": "statistical",
         "category": "infrastructural projects"
+    },
+    {
+        "link": null,
+        "date": "2026-01-30",
+        "status": "posted",
+        "tweet": "Bitcoin: 7 TPS at $18B annual energy cost.\n\nSolana: 2,400 TPS at $45M yearly infrastructure cost.\n\nSolana delivers 343x throughput for 400x lower spend.",
+        "type": "crypto"
     }
 ]
