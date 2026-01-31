@@ -2676,5 +2676,36 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRklaQXVkZlBWU3BrMFE4c3pBZENyUnRLTldLYlJOTUNmeV95VlJUMmdTN19CNlhGN0l2QnUweGpadTZvVXVma2tPbmhIOUFfNFhVY2NzUnBRcXJ3VVNjTTFmVTNqMkdLUl9rR05rSDVyZ1pBZWJ2YzBjV2hYWWg5Z3BpTEsxRHhyNTNGNE9RbHlPQ2FuZnJtOVBCTjFzYjhoZWdRRUpwa3drSGRoeUxKME5zVlpiaDNQWHZjSHlfdjhxN0lUeWJxeHZ4S3NvbnRicTZ4TllsUFg3d0d4cFN6TUdiWVRtVlV1d1N1MkhMTmtzaVJYcThpVThtcVBGdzBKS1AzVGRmNXdrMTJnNmc?oc=5",
+        "date": "2026-01-31",
+        "title": "Anniston closes 2025 with strong growth, infrastructure gains and eye on long-term future - The Anniston Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxNRklaQXVkZlBWU3BrMFE4c3pBZENyUnRLTldLYlJOTUNmeV95VlJUMmdTN19CNlhGN0l2QnUweGpadTZvVXVma2tPbmhIOUFfNFhVY2NzUnBRcXJ3VVNjTTFmVTNqMkdLUl9rR05rSDVyZ1pBZWJ2YzBjV2hYWWg5Z3BpTEsxRHhyNTNGNE9RbHlPQ2FuZnJtOVBCTjFzYjhoZWdRRUpwa3drSGRoeUxKME5zVlpiaDNQWHZjSHlfdjhxN0lUeWJxeHZ4S3NvbnRicTZ4TllsUFg3d0d4cFN6TUdiWVRtVlV1d1N1MkhMTmtzaVJYcThpVThtcVBGdzBKS1AzVGRmNXdrMTJnNmc?oc=5\" target=\"_blank\">Anniston closes 2025 with strong growth, infrastructure gains and eye on long-term future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Anniston Star</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWNBTHBsSTQ4ay1pZ19jYXJBY004LXpGUm55ODBmOHdFVDRzT09paU9BU0piSjBLc2VIUUxCclBEWE5EcW9ud3ZuYURYMHNMN29WQmE3YUFMb2FTRjdqMkZkUzAwVGNxc1lQUE9wbEVQQmpqSkZuN3VEdVhlZTNobjRLVVRGdkw1OUk3ZlJJSFdaRjRvQjk0Umh5RlBCRGoxTEExeElRTklBdjV0NVhFOF81bHlWNzQ?oc=5",
+        "date": "2026-01-31",
+        "title": "Budget 2026 to focus on defence, capex, infrastructure, fiscal discipline - India Tribune - Chicago",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWNBTHBsSTQ4ay1pZ19jYXJBY004LXpGUm55ODBmOHdFVDRzT09paU9BU0piSjBLc2VIUUxCclBEWE5EcW9ud3ZuYURYMHNMN29WQmE3YUFMb2FTRjdqMkZkUzAwVGNxc1lQUE9wbEVQQmpqSkZuN3VEdVhlZTNobjRLVVRGdkw1OUk3ZlJJSFdaRjRvQjk0Umh5RlBCRGoxTEExeElRTklBdjV0NVhFOF81bHlWNzQ?oc=5\" target=\"_blank\">Budget 2026 to focus on defence, capex, infrastructure, fiscal discipline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Tribune - Chicago</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Indias Budget 2026 eyes defence boost, higher capex, infrastructure push, and fiscal discipline."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWNBTHBsSTQ4ay1pZ19jYXJBY004LXpGUm55ODBmOHdFVDRzT09paU9BU0piSjBLc2VIUUxCclBEWE5EcW9ud3ZuYURYMHNMN29WQmE3YUFMb2FTRjdqMkZkUzAwVGNxc1lQUE9wbEVQQmpqSkZuN3VEdVhlZTNobjRLVVRGdkw1OUk3ZlJJSFdaRjRvQjk0Umh5RlBCRGoxTEExeElRTklBdjV0NVhFOF81bHlWNzQ?oc=5",
+        "date": "2026-01-31",
+        "title": "Budget 2026 to focus on defence, capex, infrastructure, fiscal discipline - India Tribune - Chicago",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWNBTHBsSTQ4ay1pZ19jYXJBY004LXpGUm55ODBmOHdFVDRzT09paU9BU0piSjBLc2VIUUxCclBEWE5EcW9ud3ZuYURYMHNMN29WQmE3YUFMb2FTRjdqMkZkUzAwVGNxc1lQUE9wbEVQQmpqSkZuN3VEdVhlZTNobjRLVVRGdkw1OUk3ZlJJSFdaRjRvQjk0Umh5RlBCRGoxTEExeElRTklBdjV0NVhFOF81bHlWNzQ?oc=5\" target=\"_blank\">Budget 2026 to focus on defence, capex, infrastructure, fiscal discipline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Tribune - Chicago</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Indias Budget 2026 to prioritize defence, capital spending, infrastructure, and fiscal discipline.",
+        "type": "news"
     }
 ]
