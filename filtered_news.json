@@ -2478,5 +2478,12 @@
         "tweet": "Projected top 5 cities for urban green space per capita in 2026 (m\u00b2/person):\n\n\ud83c\uddf8\ud83c\uddec Singapore: 75\n\n\ud83c\udde8\ud83c\uddf3 Shanghai: 42\n\n\ud83c\udde9\ud83c\uddea Berlin: 38\n\n\ud83c\uddef\ud83c\uddf5 Tokyo: 35\n\n\ud83c\uddf3\ud83c\uddf1 Amsterdam: 32",
         "type": "statistical",
         "category": "urban planning"
+    },
+    {
+        "link": null,
+        "date": "2026-01-31",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 United States hosts 52% of global Bitcoin hashrate in 2026, concentrating infrastructural costs and exposing the network to regional energy volatility risks.",
+        "type": "crypto"
     }
 ]
