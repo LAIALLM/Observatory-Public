@@ -2532,5 +2532,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Sitharaman\u2019s six-point plan in Budget 2026 aims to drive India\u2019s next economic growth phase.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-01",
+        "status": "posted",
+        "tweet": "Microsoft Azure infrastructure in 2026 processes 1.2 zettabytes of data annually across 116 data centers worldwide.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
