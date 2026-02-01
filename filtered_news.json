@@ -2539,5 +2539,63 @@
         "status": "posted",
         "tweet": "Microsoft Azure infrastructure in 2026 processes 1.2 zettabytes of data annually across 116 data centers worldwide.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-01",
+        "status": "posted",
+        "tweet": "In 2026, \ud83c\udde8\ud83c\uddf3 engineers add 4,000 km of high-speed rail, expanding the network to 45,000 km and linking 93% of cities over 500,000 people.",
+        "type": "statistical",
+        "category": "engineering projects"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa0pvX1AwNHJEeHpkd3B6NUNKejZpaXdUVDl1bUx5Y0IxTzc5Y0cyTDhnM0dva1BmT3V6OXQzLThaTnpyc2RoZGFnWGRXODVtd2dUdzc0enliR3prSV9fb0JTYlJFR2pQYVZVdFU1UzZocFRiN094WkdITXNJUW02OG5TSXg2UFBmOXJ1UC00Vm0?oc=5",
+        "date": "2026-02-01",
+        "title": "Genius Sports Expands BetVision Into Tennis Live Betting Infrastructure - Yahoo! Finance Canada",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPa0pvX1AwNHJEeHpkd3B6NUNKejZpaXdUVDl1bUx5Y0IxTzc5Y0cyTDhnM0dva1BmT3V6OXQzLThaTnpyc2RoZGFnWGRXODVtd2dUdzc0enliR3prSV9fb0JTYlJFR2pQYVZVdFU1UzZocFRiN094WkdITXNJUW02OG5TSXg2UFBmOXJ1UC00Vm0?oc=5\" target=\"_blank\">Genius Sports Expands BetVision Into Tennis Live Betting Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY1NQRFNTb2JkMjNPNzhFMUVySl9jZkNVcV9OM2pDNy0tNVJZRUZYMi1hUEJudTdSUV9yVy1nTGVPcG5hX1NhLTROTnNyWlZ1N3ZwQVp2Q2xid1NUVUxPb1VTNTNyTzdGMXM4Q1V2a25rUlJ4d3k3MS1BclFEbzZDY3NMUGlYV3NOQzhTLWEtYjhGa05sSEw1YnF2Zk50aGJQdm5XSVF3Y0JkRm9zUUNVd0xHR1pnQQ?oc=5",
+        "date": "2026-02-01",
+        "title": "Nato fears Russia may have laid mines on critical European undersea infrastructure points - Energy News Beat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPY1NQRFNTb2JkMjNPNzhFMUVySl9jZkNVcV9OM2pDNy0tNVJZRUZYMi1hUEJudTdSUV9yVy1nTGVPcG5hX1NhLTROTnNyWlZ1N3ZwQVp2Q2xid1NUVUxPb1VTNTNyTzdGMXM4Q1V2a25rUlJ4d3k3MS1BclFEbzZDY3NMUGlYV3NOQzhTLWEtYjhGa05sSEw1YnF2Zk50aGJQdm5XSVF3Y0JkRm9zUUNVd0xHR1pnQQ?oc=5\" target=\"_blank\">Nato fears Russia may have laid mines on critical European undersea infrastructure points</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy News Beat</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFY2RmNGc0MtN0pRQVVYR1JFT29DOExOUnRtN1VyQjk1Z1NlWXM4TzdQd3VQcUdsYjd4cHNFaXdfNE9IYUtwTTZ4bl82NmZqX3pfZmNTb2xMbnhNb1pYdm11MFRZcElKd1pKbGU2R1NPVVpKOVo2Qld1MFlkUEJXOGZiYklkQ0NsS21DVUF5U2NPMGk3eThlYU9LbWJnbmFsMDQ1LQ?oc=5",
+        "date": "2026-02-01",
+        "title": "Beeks \u2013 building the infrastructure behind global markets - MoneyWeek",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFY2RmNGc0MtN0pRQVVYR1JFT29DOExOUnRtN1VyQjk1Z1NlWXM4TzdQd3VQcUdsYjd4cHNFaXdfNE9IYUtwTTZ4bl82NmZqX3pfZmNTb2xMbnhNb1pYdm11MFRZcElKd1pKbGU2R1NPVVpKOVo2Qld1MFlkUEJXOGZiYklkQ0NsS21DVUF5U2NPMGk3eThlYU9LbWJnbmFsMDQ1LQ?oc=5\" target=\"_blank\">Beeks \u2013 building the infrastructure behind global markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MoneyWeek</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWEV4R0FDaGJZSlRxUDYtV0dfb0NGeGh4TDJ2RFBFNDdhWXc1cFlmRi1ueXJiNmwxQzNDQ3pjdWh4Rk1mT1FDYWpYU2NTLTVLcl9tMXhjQ0Y4Wnlad1NhU3RKdkdNQUVBa2tDUzREUW9iTXMwaWdZRmJ6dXIzU3JJU3J4MURfNS1jTk1JVk1Eek0tWmxnWVhVWTdqcElOQ0w3aXdqU0ZfYWo1MU96REJTcHIwVWc0bHFHRUZDT0pfUGpfQQ?oc=5",
+        "date": "2026-02-01",
+        "title": "Budget 2026\u2019s 3 \u2018Kartavyas\u2019: How Growth, Inclusion and Fiscal Discipline Shape India\u2019s Economic Path - The Logical Indian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWEV4R0FDaGJZSlRxUDYtV0dfb0NGeGh4TDJ2RFBFNDdhWXc1cFlmRi1ueXJiNmwxQzNDQ3pjdWh4Rk1mT1FDYWpYU2NTLTVLcl9tMXhjQ0Y4Wnlad1NhU3RKdkdNQUVBa2tDUzREUW9iTXMwaWdZRmJ6dXIzU3JJU3J4MURfNS1jTk1JVk1Eek0tWmxnWVhVWTdqcElOQ0w3aXdqU0ZfYWo1MU96REJTcHIwVWc0bHFHRUZDT0pfUGpfQQ?oc=5\" target=\"_blank\">Budget 2026\u2019s 3 \u2018Kartavyas\u2019: How Growth, Inclusion and Fiscal Discipline Shape India\u2019s Economic Path</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Logical Indian</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1dBVVMycnluNFBtcUljZUVFcGV3OENaU2FFUjVOcDViTW9QQ21peEhXM3VJWEE2VDlRQmlKZV9qdGhNNUZicjlvUUt3d2NsUTRXem1IMm5iSmpGRE0zbWdKYkstVkxUSm9EZHozUWtHcXo0MmszTkZ3VU05ZXBfRHVDREhYRkx1Um4xNDBHMTlDNnkyaW8tdzUzLUs4MnIxT1lRSlJnSXJ1dXkyN3UwU25ITHF3WDdP0gG4AUFVX3lxTE9TRlhobmttbjM5RkNYV0IwMlFZbWphVWQ5eFBIVF9WR1g3bzBSTEVvR0NaNnVfV0ZQSFpRUXlpY2ZyY0JBWnhVc0JZcjc5UHhPTUh1YWhUYTdDRm5VLUV1Vk5RaVE0dE9UQVJmLVpLRkhGdDF4d0VSZEhacXVNeXIxX3c0V2Zjc1o2VTR0SmQ4dEdvU25GOThlRVJyZ01DQzJRUDNneFlwMHFMYlJjLTRqMkZkdFJCNkY?oc=5",
+        "date": "2026-02-01",
+        "title": "Chinese firms are scoping out overseas property. What is catching their eye? - South China Morning Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1dBVVMycnluNFBtcUljZUVFcGV3OENaU2FFUjVOcDViTW9QQ21peEhXM3VJWEE2VDlRQmlKZV9qdGhNNUZicjlvUUt3d2NsUTRXem1IMm5iSmpGRE0zbWdKYkstVkxUSm9EZHozUWtHcXo0MmszTkZ3VU05ZXBfRHVDREhYRkx1Um4xNDBHMTlDNnkyaW8tdzUzLUs4MnIxT1lRSlJnSXJ1dXkyN3UwU25ITHF3WDdP0gG4AUFVX3lxTE9TRlhobmttbjM5RkNYV0IwMlFZbWphVWQ5eFBIVF9WR1g3bzBSTEVvR0NaNnVfV0ZQSFpRUXlpY2ZyY0JBWnhVc0JZcjc5UHhPTUh1YWhUYTdDRm5VLUV1Vk5RaVE0dE9UQVJmLVpLRkhGdDF4d0VSZEhacXVNeXIxX3c0V2Zjc1o2VTR0SmQ4dEdvU25GOThlRVJyZ01DQzJRUDNneFlwMHFMYlJjLTRqMkZkdFJCNkY?oc=5\" target=\"_blank\">Chinese firms are scoping out overseas property. What is catching their eye?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
