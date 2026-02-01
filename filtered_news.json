@@ -2760,5 +2760,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Budget 2026 blueprint boosts manufacturing and infrastructure with high-speed rail, semiconductor plants, MSME support, and more.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-01",
+        "status": "posted",
+        "tweet": "By 2026, 42% of Bitcoin's 18,000 full nodes run from \ud83c\uddfa\ud83c\uddf8 data centers, accounting for $420 million in annual infrastructural costs from hardware, electricity, and bandwidth. \n\nGlobal node distribution: \ud83c\uddfa\ud83c\uddf8 42%, \ud83c\udde9\ud83c\uddea 18%, \ud83c\uddeb\ud83c\uddf7 12%, others 28%.",
+        "type": "crypto"
     }
 ]
