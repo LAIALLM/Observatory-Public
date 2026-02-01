@@ -1,272 +1,5 @@
 [
     {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON092clhzMzNhSGpDcVhCa3duR0dqWnFQT2xCaU9zZl9rbzRxYlc4dDZaMWZfN0VCYTdPVmFkVzhOUDRWUTdQdDNZU1plSWszTzJCbWJmc0U4M09mR1FGcFY3VGxMNGUtdVpoY0lLcW9GY2h0eVJaN0c2NW93ejBwNllLSWI2eVM0RjBoNzU2cDk4QjVMYzFXcXAwaUc0Zw?oc=5",
-        "date": "2026-01-22",
-        "title": "Construction Equipment Market: A Deep Dive into the Industry's Key Applications and Technologies - openPR.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxON092clhzMzNhSGpDcVhCa3duR0dqWnFQT2xCaU9zZl9rbzRxYlc4dDZaMWZfN0VCYTdPVmFkVzhOUDRWUTdQdDNZU1plSWszTzJCbWJmc0U4M09mR1FGcFY3VGxMNGUtdVpoY0lLcW9GY2h0eVJaN0c2NW93ejBwNllLSWI2eVM0RjBoNzU2cDk4QjVMYzFXcXAwaUc0Zw?oc=5\" target=\"_blank\">Construction Equipment Market: A Deep Dive into the Industry's Key Applications and Technologies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQUZaLW1lZGZFQUpVUGZXUVl4LWk0SkhKQlZYZnY1TG8zaXc3Z3Rwd0p5S0NBc3BLX1BXOVZRNmctSjc5MlNKSm9MSDFJZVpvVVZ5b2ViRlhFVGNZNlFfemZYS2g3dWJBQk1ydVBEWFQwMnR1YUJXWnYwTnh4akNzd29JcjBUSV9mYzk2TWhrbkZhQzdFT1R2Uk5kbEtHRF9pTDdJM05oNXRjV3d6cmZlUnQ0djEyWC00?oc=5",
-        "date": "2026-01-22",
-        "title": "Dallas County receives funding to upgrade water and sewer infrastructure in Selma neighborhood - wsfa.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQUZaLW1lZGZFQUpVUGZXUVl4LWk0SkhKQlZYZnY1TG8zaXc3Z3Rwd0p5S0NBc3BLX1BXOVZRNmctSjc5MlNKSm9MSDFJZVpvVVZ5b2ViRlhFVGNZNlFfemZYS2g3dWJBQk1ydVBEWFQwMnR1YUJXWnYwTnh4akNzd29JcjBUSV9mYzk2TWhrbkZhQzdFT1R2Uk5kbEtHRF9pTDdJM05oNXRjV3d6cmZlUnQ0djEyWC00?oc=5\" target=\"_blank\">Dallas County receives funding to upgrade water and sewer infrastructure in Selma neighborhood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wsfa.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdGgyanZEQTBrTVNSOFIyT3Jjd3pZVzZDMmRKVVlXNmNPaWl0QlY3U1UyVHc3UzVwRFVnQzdUYXJtOTRKVHV6NHhBX0gtV08zaUFkY01DMjdVU1cwTG1iUWRSVUxKMG1CZXhYU1RHS0daSjhSdldDWExWUUc0eWpvQm4xczdVaktr?oc=5",
-        "date": "2026-01-22",
-        "title": "NVIDIA CEO: AI is national infrastructure requiring trillions in investment - \uc870\uc120\uc77c\ubcf4",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdGgyanZEQTBrTVNSOFIyT3Jjd3pZVzZDMmRKVVlXNmNPaWl0QlY3U1UyVHc3UzVwRFVnQzdUYXJtOTRKVHV6NHhBX0gtV08zaUFkY01DMjdVU1cwTG1iUWRSVUxKMG1CZXhYU1RHS0daSjhSdldDWExWUUc0eWpvQm4xczdVaktr?oc=5\" target=\"_blank\">NVIDIA CEO: AI is national infrastructure requiring trillions in investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\uc870\uc120\uc77c\ubcf4</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQ1RXcEJJMk0ya0lxejRLbnlSZFlVZEVadUxWb3g2TnBjVUZxQ3VHVmtxLWJ4andTMGc2TUlqZi1QSDFlUmJTLWhLengxbzBfdjlLS0hvOEVxdVAyelFYUXJfNHhBcHFsa0N4b05rWndzd1FqWFJ1NGFhV2Rtc0taQ0RvLTFwWUJNNGtfc20yc0ZLSkduNDk3NVFScmxfZFp2bHFGMjNnWGdwYnYxQ2pxclg3ck5LTmdEaHBlWFJwSVdiYjgwRDRDN01WNklhd2EtbExzUjcwS3ZpOVNPM0E0LVNERlp4Z0duRnNNOXJfZlFOejE1SmpYTFpIV1R4WEliRmFoU0hGTFjSAY4CQVVfeXFMTnNaWTkyZmhHWHNtemxrYmxGYk1HSHlNaGhBQWFycmJGTTRRdldhWGJJYXhYcXBaX0g2c1A5ejZwNzZSVGNEYVZzWXZfU0hWVjNSZ1VEVmZzLVNweGY0bWVWWTNJbFBTTHNUa1ZmY2hMZ3o3Q1RSa19adWpnT3VucmZOQ2pyeUN3LU1UOFdNS2lISTRlZzYzTGozSTRXUUZBbVR3NmJOVFRaaWF5dnNYeVRPdG5sODhYVEpJeWNydEI3N1hpa0JEeHJEUU1uSTViRG9VZjFLdkYteTNzYl9pck5pXzZlMjJ4U2xNNlZrd3l5cVRNNDJySHBKVW5ybFBTWmU2UXhYeE00TF83U3RR?oc=5",
-        "date": "2026-01-22",
-        "title": "If EPS Growth Is Important To You, Retal Urban Development (TADAWUL:4322) Presents An Opportunity - simplywall.st",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQ1RXcEJJMk0ya0lxejRLbnlSZFlVZEVadUxWb3g2TnBjVUZxQ3VHVmtxLWJ4andTMGc2TUlqZi1QSDFlUmJTLWhLengxbzBfdjlLS0hvOEVxdVAyelFYUXJfNHhBcHFsa0N4b05rWndzd1FqWFJ1NGFhV2Rtc0taQ0RvLTFwWUJNNGtfc20yc0ZLSkduNDk3NVFScmxfZFp2bHFGMjNnWGdwYnYxQ2pxclg3ck5LTmdEaHBlWFJwSVdiYjgwRDRDN01WNklhd2EtbExzUjcwS3ZpOVNPM0E0LVNERlp4Z0duRnNNOXJfZlFOejE1SmpYTFpIV1R4WEliRmFoU0hGTFjSAY4CQVVfeXFMTnNaWTkyZmhHWHNtemxrYmxGYk1HSHlNaGhBQWFycmJGTTRRdldhWGJJYXhYcXBaX0g2c1A5ejZwNzZSVGNEYVZzWXZfU0hWVjNSZ1VEVmZzLVNweGY0bWVWWTNJbFBTTHNUa1ZmY2hMZ3o3Q1RSa19adWpnT3VucmZOQ2pyeUN3LU1UOFdNS2lISTRlZzYzTGozSTRXUUZBbVR3NmJOVFRaaWF5dnNYeVRPdG5sODhYVEpJeWNydEI3N1hpa0JEeHJEUU1uSTViRG9VZjFLdkYteTNzYl9pck5pXzZlMjJ4U2xNNlZrd3l5cVRNNDJySHBKVW5ybFBTWmU2UXhYeE00TF83U3RR?oc=5\" target=\"_blank\">If EPS Growth Is Important To You, Retal Urban Development (TADAWUL:4322) Presents An Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWjZLNUdfWWczLUVQVzBtcW5nVmJJLXVYcndKOXIzWkJlcVBFSXdxdkYyTExaMC1NWUVCY192MGNGRFpVSUpLdW9mbkRFMHREVWVVY01aSU9ENUp6MVU4cFNQRnBsLTE4UXBONFo0aG9NbGVsdW81Q2UyeVlOcUplSFVtUGlSTFN1YzYzbjNPeFpPQU5ObWhDczY5NFUwVWM2VzBQVmlyd1ZSM05TS0JRa3gzSmUyNXZsd0d4cGp4VXlMMEJYRmtrODZtbTVwQQ?oc=5",
-        "date": "2026-01-22",
-        "title": "Budget 2026: Real Estate Leaders Call for Balance Between Growth and Affordability - Realty Plus Magazine",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOWjZLNUdfWWczLUVQVzBtcW5nVmJJLXVYcndKOXIzWkJlcVBFSXdxdkYyTExaMC1NWUVCY192MGNGRFpVSUpLdW9mbkRFMHREVWVVY01aSU9ENUp6MVU4cFNQRnBsLTE4UXBONFo0aG9NbGVsdW81Q2UyeVlOcUplSFVtUGlSTFN1YzYzbjNPeFpPQU5ObWhDczY5NFUwVWM2VzBQVmlyd1ZSM05TS0JRa3gzSmUyNXZsd0d4cGp4VXlMMEJYRmtrODZtbTVwQQ?oc=5\" target=\"_blank\">Budget 2026: Real Estate Leaders Call for Balance Between Growth and Affordability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Realty Plus Magazine</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWE85bFhkX2djeTh5WEhNZ053cjBfbWdFM1Zla05ZZ3BTWXMyeWFWQjc0OVFRNDR1ZE1HT2pWaDd2N3FZZG42NmlRSm5hc3RhcVlwNVBhQk5mc01BR185QTZ3MFF6UnRmc3MwcHpnNmh4TWFPQm04YTBWbGlUOGhOdnRuem96enluTDFwYjdmZEtka0w2bjUwbDFjV3hlWnBiS3RyWUN0bTFxdDBVai14V29PbWs2Sk0?oc=5",
-        "date": "2026-01-22",
-        "title": "Real estate M&As remain active, next growth cycle expected: Avison Young Vietnam - B\u00e1o VietNamNet",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOWE85bFhkX2djeTh5WEhNZ053cjBfbWdFM1Zla05ZZ3BTWXMyeWFWQjc0OVFRNDR1ZE1HT2pWaDd2N3FZZG42NmlRSm5hc3RhcVlwNVBhQk5mc01BR185QTZ3MFF6UnRmc3MwcHpnNmh4TWFPQm04YTBWbGlUOGhOdnRuem96enluTDFwYjdmZEtka0w2bjUwbDFjV3hlWnBiS3RyWUN0bTFxdDBVai14V29PbWs2Sk0?oc=5\" target=\"_blank\">Real estate M&amp;As remain active, next growth cycle expected: Avison Young Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">B\u00e1o VietNamNet</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSzJEcGZKdDhRbDZxSUR5S3gxVUJob1NSOGtiVDZjQzJ0UDAySkMxcDFmUkRyVVd5SDFQQndzMVFUaEh5NkRCSWQtZnZxSkhNemJ3RGR2TUgtRFB1cXF6c1dGTVRxU21DdVptN2l6MDQ0dGFjY0VRNHRDa1NuQ2U2bnRoR0FIdzFOajBROFVaVEU1RHpuYjlTVW5QdUFlVThobDB4emNfcmFMeHJUVFFIaWhKRUVfRFJYTkpxYg?oc=5",
-        "date": "2026-01-22",
-        "title": "Selangor gov and MCMC sign an MoU to accelerate the smart city development agenda - TechNave",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQSzJEcGZKdDhRbDZxSUR5S3gxVUJob1NSOGtiVDZjQzJ0UDAySkMxcDFmUkRyVVd5SDFQQndzMVFUaEh5NkRCSWQtZnZxSkhNemJ3RGR2TUgtRFB1cXF6c1dGTVRxU21DdVptN2l6MDQ0dGFjY0VRNHRDa1NuQ2U2bnRoR0FIdzFOajBROFVaVEU1RHpuYjlTVW5QdUFlVThobDB4emNfcmFMeHJUVFFIaWhKRUVfRFJYTkpxYg?oc=5\" target=\"_blank\">Selangor gov and MCMC sign an MoU to accelerate the smart city development agenda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechNave</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-01-22",
-        "status": "posted",
-        "tweet": "Bitcoin's 2026 network security costs $18B annually in mining electricity to maintain hash rate.\n\nSolana's total validator maintenance hits $150M yearly for hardware, bandwidth, and ops across 2,500 nodes.\n\nBitcoin's scale dwarfs Solana's infra burden by 120x.",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcFktLUN2YnZBaWZ5MjJvQ3RUYnVsN2RkSDhHSllkTG45X19nbmIzYW45ZHFINDNJVFRHdHA5WGpnbFR1WHdrNy05N1AwWmJMaEEtWURFUDFCeEVDc0JWRzZVd0w2c1Myb2lKUVNNZU04WFJsbE5EOHE1VHZtNU1Tc0lOdl9rV0RoQ05kcGxRVWg1a3BpMmR4Yjhn?oc=5",
-        "date": "2026-01-22",
-        "title": "EPC Engineering Procurement And Construction Industry Size - openPR.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNcFktLUN2YnZBaWZ5MjJvQ3RUYnVsN2RkSDhHSllkTG45X19nbmIzYW45ZHFINDNJVFRHdHA5WGpnbFR1WHdrNy05N1AwWmJMaEEtWURFUDFCeEVDc0JWRzZVd0w2c1Myb2lKUVNNZU04WFJsbE5EOHE1VHZtNU1Tc0lOdl9rV0RoQ05kcGxRVWg1a3BpMmR4Yjhn?oc=5\" target=\"_blank\">EPC Engineering Procurement And Construction Industry Size</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3RYY0M5S0NWZVF0UEZJb016NDEwUW15c1B0MTJ1VXlFVXpvalJHcFNSRV9COERrS1l5TU5RU2diWHVaem1JODJyTTZmRFBNMklLczVjaWRLTWVBZ0hvYVdvazBfeTdybDhpZktqejRWeGtXS3ZmS2ozMUVIdXRiSnB3VkRqd3hIcE1HTFJoSm53NU14WnRabGk3N1ljbm9Cb2x2YmFjME1PV0RPTEM2NTlHNUx0Z0RfZ1pVY1dVQ2c3enBDaGgwa29vY0RxQ1U?oc=5",
-        "date": "2026-01-22",
-        "title": "Denmark commits $1.2bn to Nigeria\u2019s ports in long-term infrastructure push - Business Insider Africa",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3RYY0M5S0NWZVF0UEZJb016NDEwUW15c1B0MTJ1VXlFVXpvalJHcFNSRV9COERrS1l5TU5RU2diWHVaem1JODJyTTZmRFBNMklLczVjaWRLTWVBZ0hvYVdvazBfeTdybDhpZktqejRWeGtXS3ZmS2ozMUVIdXRiSnB3VkRqd3hIcE1HTFJoSm53NU14WnRabGk3N1ljbm9Cb2x2YmFjME1PV0RPTEM2NTlHNUx0Z0RfZ1pVY1dVQ2c3enBDaGgwa29vY0RxQ1U?oc=5\" target=\"_blank\">Denmark commits $1.2bn to Nigeria\u2019s ports in long-term infrastructure push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Africa</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\udde9\ud83c\uddf0 NEWS: Denmark commits $1.2bn to upgrade Nigeria\u2019s ports as part of long-term infrastructure push"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWJIcThXTGdsLThRRHYwM2sxbVFKWnl2Y2x3aE91Zi1NdW5FeHkxMkJadUNUQm9oWk96X1hJd3I0YmpLOHVLVUtjcVk2bWZpMkFBbXlFWS1ITm1salFKY3hLTFYzN1hFbXktbG82QTkxMm9WNDBvdnpDWFdvWGdhOEpsRlozQlRNRDhOYjNqbDJaVHlvU0xhZnFlT3VOTTA?oc=5",
-        "date": "2026-01-22",
-        "title": "Midrise Scheme Filed for Gold Coast Millionaire\u2019s Row - The Urban Developer",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObWJIcThXTGdsLThRRHYwM2sxbVFKWnl2Y2x3aE91Zi1NdW5FeHkxMkJadUNUQm9oWk96X1hJd3I0YmpLOHVLVUtjcVk2bWZpMkFBbXlFWS1ITm1salFKY3hLTFYzN1hFbXktbG82QTkxMm9WNDBvdnpDWFdvWGdhOEpsRlozQlRNRDhOYjNqbDJaVHlvU0xhZnFlT3VOTTA?oc=5\" target=\"_blank\">Midrise Scheme Filed for Gold Coast Millionaire\u2019s Row</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Urban Developer</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3RYY0M5S0NWZVF0UEZJb016NDEwUW15c1B0MTJ1VXlFVXpvalJHcFNSRV9COERrS1l5TU5RU2diWHVaem1JODJyTTZmRFBNMklLczVjaWRLTWVBZ0hvYVdvazBfeTdybDhpZktqejRWeGtXS3ZmS2ozMUVIdXRiSnB3VkRqd3hIcE1HTFJoSm53NU14WnRabGk3N1ljbm9Cb2x2YmFjME1PV0RPTEM2NTlHNUx0Z0RfZ1pVY1dVQ2c3enBDaGgwa29vY0RxQ1U?oc=5",
-        "date": "2026-01-22",
-        "title": "Denmark commits $1.2bn to Nigeria\u2019s ports in long-term infrastructure push - Business Insider Africa",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3RYY0M5S0NWZVF0UEZJb016NDEwUW15c1B0MTJ1VXlFVXpvalJHcFNSRV9COERrS1l5TU5RU2diWHVaem1JODJyTTZmRFBNMklLczVjaWRLTWVBZ0hvYVdvazBfeTdybDhpZktqejRWeGtXS3ZmS2ozMUVIdXRiSnB3VkRqd3hIcE1HTFJoSm53NU14WnRabGk3N1ljbm9Cb2x2YmFjME1PV0RPTEM2NTlHNUx0Z0RfZ1pVY1dVQ2c3enBDaGgwa29vY0RxQ1U?oc=5\" target=\"_blank\">Denmark commits $1.2bn to Nigeria\u2019s ports in long-term infrastructure push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Africa</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\udde9\ud83c\uddf0\ud83c\uddf3\ud83c\uddec NEWS: Denmark pledges $1.2bn to upgrade Nigeria\u2019s ports as part of a long-term infrastructure drive",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHZNaW41TmlvNmJ1RDRrV0xIOURHWldPYy1paDg1MWxUaUg3RS1hbER5SEoyQzZYbzlWdE1Kck54ckJkQTV4R21yLV90NXg4bzhBemVlbnljdHphWlhGcUJJdlJTcVJMV1VEM3JPam1JcUNjVkJQZE5LUDdQaUItTGwwbkNEdw?oc=5",
-        "date": "2026-01-22",
-        "title": "Can remote-controlled diggers fix construction\u2019s labor gap? - Tech in Asia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHZNaW41TmlvNmJ1RDRrV0xIOURHWldPYy1paDg1MWxUaUg3RS1hbER5SEoyQzZYbzlWdE1Kck54ckJkQTV4R21yLV90NXg4bzhBemVlbnljdHphWlhGcUJJdlJTcVJMV1VEM3JPam1JcUNjVkJQZE5LUDdQaUItTGwwbkNEdw?oc=5\" target=\"_blank\">Can remote-controlled diggers fix construction\u2019s labor gap?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech in Asia</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM1dJQ1Y3TzRFQ1pWd0M2T2x5MjRMYkhZRk9tOHJLOHhkdUt4RnR5dW90U092ZE9zbUtPOGx3YmFTVFpqMXZxY05CQk9kU2ZHbjl1cUxUaEI3b1JORDIzd3FKQ0NUNmZIQWxabTY5Tl9aaDR2UjlUODNQdXBBUEY2bVZEMTl6MTVHZ1F0bzdYQXVXQXBzTjVZS28zQzVfSXotbDlyaElzM3ZtXy1mTHk3UFJQUXhNZVZmakE4a3N6Y3d6QVppU3NGd3hXRmUwaG8wbGtSN2syWHpIUjZDbERQTTFyWkJkMDlUS1VyaWRZdXNleFJCVWV6a2pn?oc=5",
-        "date": "2026-01-22",
-        "title": "City of San Diego receives $4.36M in federal funding to improve stormwater infrastructure - cbs8.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM1dJQ1Y3TzRFQ1pWd0M2T2x5MjRMYkhZRk9tOHJLOHhkdUt4RnR5dW90U092ZE9zbUtPOGx3YmFTVFpqMXZxY05CQk9kU2ZHbjl1cUxUaEI3b1JORDIzd3FKQ0NUNmZIQWxabTY5Tl9aaDR2UjlUODNQdXBBUEY2bVZEMTl6MTVHZ1F0bzdYQXVXQXBzTjVZS28zQzVfSXotbDlyaElzM3ZtXy1mTHk3UFJQUXhNZVZmakE4a3N6Y3d6QVppU3NGd3hXRmUwaG8wbGtSN2syWHpIUjZDbERQTTFyWkJkMDlUS1VyaWRZdXNleFJCVWV6a2pn?oc=5\" target=\"_blank\">City of San Diego receives $4.36M in federal funding to improve stormwater infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbs8.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2JCcUdIdEl0eVVrNnNjSkc4YXByRENmYVpwZTZmQWJCa21IcngwbXZRakE1Mms3VEp0OTljYzQ4Sy11cjNGckRaMlp1bEozelkyODY3MEstOWFONzVrd08tcG5uY2lxVDhyYmJ4djRGdWROcF9vaEpzREdsZU5xRmFxNHI2QW9yY2E5VjJTUXB1R3NWdEVIa3ZvVFNJakNjdF9IUXAxSXNHUk5JbXFWWEZR?oc=5",
-        "date": "2026-01-22",
-        "title": "Tenant Isolation Strategies: Infrastructure Patterns for Multi-Tenant SaaS - Security Boulevard",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2JCcUdIdEl0eVVrNnNjSkc4YXByRENmYVpwZTZmQWJCa21IcngwbXZRakE1Mms3VEp0OTljYzQ4Sy11cjNGckRaMlp1bEozelkyODY3MEstOWFONzVrd08tcG5uY2lxVDhyYmJ4djRGdWROcF9vaEpzREdsZU5xRmFxNHI2QW9yY2E5VjJTUXB1R3NWdEVIa3ZvVFNJakNjdF9IUXAxSXNHUk5JbXFWWEZR?oc=5\" target=\"_blank\">Tenant Isolation Strategies: Infrastructure Patterns for Multi-Tenant SaaS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Security Boulevard</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeEtYT0FHS2xqMHVUbkZoSThLTDd3cnR4SFVXdGdqQXg5UWNyeFBLZ0JmMC1sRDJtT3VJa015cXhLb3JERnJPUjZzVmhwYnJGY29nS21rM0F0WEdMOFJ5cE9IcGs4ZXNsempvZWxDMWVlQ2Fjd1dnejQyZ0Q5dW1Yam10MTQtUElFQlBmaGNaMV8xUFhlb2VoVGVRNnlxWXFHTWRaSDhpWU9JV1gxSFFUaElyaEYtaUw3UmRDbTdFZjZvQ08zaGVDdERUUnVKV25HTUVoaA?oc=5",
-        "date": "2026-01-22",
-        "title": "Saudi Arabia Data Center Colocation Market: Enterprise Outsourcing, Secure Infrastructure & Cost Optimization - vocal.media",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeEtYT0FHS2xqMHVUbkZoSThLTDd3cnR4SFVXdGdqQXg5UWNyeFBLZ0JmMC1sRDJtT3VJa015cXhLb3JERnJPUjZzVmhwYnJGY29nS21rM0F0WEdMOFJ5cE9IcGs4ZXNsempvZWxDMWVlQ2Fjd1dnejQyZ0Q5dW1Yam10MTQtUElFQlBmaGNaMV8xUFhlb2VoVGVRNnlxWXFHTWRaSDhpWU9JV1gxSFFUaElyaEYtaUw3UmRDbTdFZjZvQ08zaGVDdERUUnVKV25HTUVoaA?oc=5\" target=\"_blank\">Saudi Arabia Data Center Colocation Market: Enterprise Outsourcing, Secure Infrastructure & Cost Optimization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vocal.media</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkxGbG4tdWJja1g2RkpmUms2dktRTDNQbTRnOG1HdzUwY0JUUXlISGdLM1lrTjZwR1lRSWRKYW9COUtENDFpMm1XY0w4WGRXSGVCNmZkZDNSR1BPeWVxR0hsVTBYOHAyVy1XWkpNRHhJRHNkR0gxR0ttVlI0Zkh0THExVDBrenUtVjE3bjQ0aDNRZnhac3N6dFpaZw?oc=5",
-        "date": "2026-01-22",
-        "title": "Liaison Dynamics Is Reshaping How Construction Firms Deploy AI-From Practical Automation to Embedded Intelligence - openPR.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkxGbG4tdWJja1g2RkpmUms2dktRTDNQbTRnOG1HdzUwY0JUUXlISGdLM1lrTjZwR1lRSWRKYW9COUtENDFpMm1XY0w4WGRXSGVCNmZkZDNSR1BPeWVxR0hsVTBYOHAyVy1XWkpNRHhJRHNkR0gxR0ttVlI0Zkh0THExVDBrenUtVjE3bjQ0aDNRZnhac3N6dFpaZw?oc=5\" target=\"_blank\">Liaison Dynamics Is Reshaping How Construction Firms Deploy AI-From Practical Automation to Embedded Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcVJHMWJ3NXoyMV9vd3pHdF9PT3FoSy14V2s3bC1Nay16ZndyOW8ySHp1eW0yb0hmM0Z1bmF5WTBGd2ticGZQM25Yald5NGFuRFJRR21LMWcwLWMtMTkyUmhUOGRJNnV0c2RoS2pvSzJsTEZWM2pzZnVmZ0JoSUtBQmZVNHgwVkNEanJYQXZzMA?oc=5",
-        "date": "2026-01-22",
-        "title": "What Investors Look for in AI Infrastructure During Due Diligence - The AI Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPcVJHMWJ3NXoyMV9vd3pHdF9PT3FoSy14V2s3bC1Nay16ZndyOW8ySHp1eW0yb0hmM0Z1bmF5WTBGd2ticGZQM25Yald5NGFuRFJRR21LMWcwLWMtMTkyUmhUOGRJNnV0c2RoS2pvSzJsTEZWM2pzZnVmZ0JoSUtBQmZVNHgwVkNEanJYQXZzMA?oc=5\" target=\"_blank\">What Investors Look for in AI Infrastructure During Due Diligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The AI Journal</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSU5aYkN2ZUNtVjdhejJ2U0thYWVCeE5VSkhGdk85NEhBZ0Jqem5xRTJBeFNwVUprM05YbXdHVGVWSDZHXzlBMW1LY2RmZVF3Y1d3RDlxOEVna0JFcHk2cWluS0plY1V1RGw3bWhqaFl0cTJjNDY3V2V3cUtYb3Uxa21OVHNqTWxXTXJVSW9zSE9WNU8zci15TThvNG91bjUyT0xneE1Mb2FmRjJrdk9oWmRETmk5MWpiNHdRd2U1Q09pWEhPcW4wUzF4WQ?oc=5",
-        "date": "2026-01-22",
-        "title": "China\u2019s \u2018infrastructure first\u2019 effort a major edge in AI arms race: Davos panel - South China Morning Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNSU5aYkN2ZUNtVjdhejJ2U0thYWVCeE5VSkhGdk85NEhBZ0Jqem5xRTJBeFNwVUprM05YbXdHVGVWSDZHXzlBMW1LY2RmZVF3Y1d3RDlxOEVna0JFcHk2cWluS0plY1V1RGw3bWhqaFl0cTJjNDY3V2V3cUtYb3Uxa21OVHNqTWxXTXJVSW9zSE9WNU8zci15TThvNG91bjUyT0xneE1Mb2FmRjJrdk9oWmRETmk5MWpiNHdRd2U1Q09pWEhPcW4wUzF4WQ?oc=5\" target=\"_blank\">China\u2019s \u2018infrastructure first\u2019 effort a major edge in AI arms race: Davos panel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeWNxN2s0VEVzaXFXQ1B3b0ZMNmc2RzZlQ1ppdnBSQ1hORDZZYWdJQjZ6dExsMG1oRjkwV2dvNnY5a3JwTnEtb0dsZ3pLZGxWMDY0eXZaT3kyUGpfVEdhRGk1MnNDOXc0WGFrRVVsTFFnMWZ6UkVlczA1ZGlpcDZXdkxWUDAwQ1g1NjdfcWtfQQ?oc=5",
-        "date": "2026-01-22",
-        "title": "Mekorot\u2013Afikey Mayim agreement to boost water supply to Beit She\u2019an area - jpost.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNeWNxN2s0VEVzaXFXQ1B3b0ZMNmc2RzZlQ1ppdnBSQ1hORDZZYWdJQjZ6dExsMG1oRjkwV2dvNnY5a3JwTnEtb0dsZ3pLZGxWMDY0eXZaT3kyUGpfVEdhRGk1MnNDOXc0WGFrRVVsTFFnMWZ6UkVlczA1ZGlpcDZXdkxWUDAwQ1g1NjdfcWtfQQ?oc=5\" target=\"_blank\">Mekorot\u2013Afikey Mayim agreement to boost water supply to Beit She\u2019an area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jpost.com</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf1 NEWS: Mekorot and Afikey Mayim sign agreement to boost water supply for Beit She\u2019an area"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVld4TTdiSVpjWDB1dDZKSk9VU1hvYjNLcW9zeXU0Nl9TenRzOGdua3ZEaDhkVHd2b2E5VEI2eXp4Wlo4LTlVWHFGdnZwYXhkNWItT3FERGstU2JmSlhyZlVOa01QNVB6QllKYUoyYXZtYjlFbU5lUXRUMXU5Q3FZMTdoWGt2ZXhnbUJvZzFMNjVzaGx1QWlRX2tvQUxHVEUyR2c?oc=5",
-        "date": "2026-01-22",
-        "title": "EBRD commits 60 million euros to Ukraine Infrastructure Fund - ceenergynews",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNVld4TTdiSVpjWDB1dDZKSk9VU1hvYjNLcW9zeXU0Nl9TenRzOGdua3ZEaDhkVHd2b2E5VEI2eXp4Wlo4LTlVWHFGdnZwYXhkNWItT3FERGstU2JmSlhyZlVOa01QNVB6QllKYUoyYXZtYjlFbU5lUXRUMXU5Q3FZMTdoWGt2ZXhnbUJvZzFMNjVzaGx1QWlRX2tvQUxHVEUyR2c?oc=5\" target=\"_blank\">EBRD commits 60 million euros to Ukraine Infrastructure Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ceenergynews</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYjZrbTlYUTNKcV9rQ3V5RXh5VVpEYksxZEl1azNJbWxhbktqemlGQmVxdjBadm5ZUklmVkxMOE5WMEcwUDVUWHI4cDNTLTFRc1NMUTJGTDFENC1PVEdOQ1ljM25MREhqbzZ0cmZ1YlFCTGdIVGNsaUgyZ2VuREh0UUVvQ2FsbVJsQU55d0tXWWhrZw?oc=5",
-        "date": "2026-01-22",
-        "title": "Why GPU Infrastructure Has Become the Backbone of Modern AI Systems - The AI Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNYjZrbTlYUTNKcV9rQ3V5RXh5VVpEYksxZEl1azNJbWxhbktqemlGQmVxdjBadm5ZUklmVkxMOE5WMEcwUDVUWHI4cDNTLTFRc1NMUTJGTDFENC1PVEdOQ1ljM25MREhqbzZ0cmZ1YlFCTGdIVGNsaUgyZ2VuREh0UUVvQ2FsbVJsQU55d0tXWWhrZw?oc=5\" target=\"_blank\">Why GPU Infrastructure Has Become the Backbone of Modern AI Systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The AI Journal</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNVRwOVM3cnNoTC1UQWlNSTdvZEFtX3lUT2NtcUFfNzVXTGY0WmMzdFdfWDdJRkoyeENsY052bUNVRk5nbXlOLXhrNmR0Rk9BS0tCXzF5aUxGMjc5STdlTTl2T1JtVDFGaEZ4UzZfT2tEZ0FyY282U3F2SU81SFlPQjhfa0d1NXU1cXUtVTJuR0kyQkJ3MkFfTlp4ZWFJR2tyQnctcWpn?oc=5",
-        "date": "2026-01-22",
-        "title": "Compassion in Urban Growth: ARE Infra Heights on Animal Welfare - TheCSRUniverse",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNNVRwOVM3cnNoTC1UQWlNSTdvZEFtX3lUT2NtcUFfNzVXTGY0WmMzdFdfWDdJRkoyeENsY052bUNVRk5nbXlOLXhrNmR0Rk9BS0tCXzF5aUxGMjc5STdlTTl2T1JtVDFGaEZ4UzZfT2tEZ0FyY282U3F2SU81SFlPQjhfa0d1NXU1cXUtVTJuR0kyQkJ3MkFfTlp4ZWFJR2tyQnctcWpn?oc=5\" target=\"_blank\">Compassion in Urban Growth: ARE Infra Heights on Animal Welfare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheCSRUniverse</font>",
-        "similarity_excluded": "No",
-        "score": 4,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcWZseDRTRjZEM3FZYnc1OE5QT1huU0t5ZUpMSTBtRTZ4YXNCMzRSRnhSN0s1VlpXNDRyN1RIbTd1bHZTclJ6Q05XVUJmV0RRbWt6Y29RUU05NTVLSEJaZDVqU2ZnTUpmT2xTNE5ocEFpUk5VdGRreGZ3b1VlVWxxUVpSOXl3SlF0elNtLUJkbVZpenB5NDZnTVFVLXMwSUpjWTZjX1RrQzl3NWtaOUtITjc2SV82NWpUb2xTTDRBdUxrNVpDSURLOVAzTHNYeUFaTlNXcDFlbVBzTHJ1MldhNNIB5gFBVV95cUxNSmprSlVZM3RnM0NDN1pXbUlLRFRlV1NpcVZKUFgwZ1lNMm5PUW9welBpVzBFZ1hubDNhWi10SkFsY1c1OUpUdDBkOUdqVlMtczNOX0lldTRFTjEtdTJnZzNDS1VNN0F1M21iNEhFZDR0ajVnYzYxb0twUHJRT2UzM1VrdTdrQ1ZmUlZBUjlnMmhNNkp6bGd4ZnYtb2RzWThmVW5MT1lLb2hLdVFsNThyUVc4X2U3dkRQam93bS1fV3Bhc1N2NllHcGJuVjNoMVRvNERPMkZ3OU10QTdPU2JpNnV3bVozZw?oc=5",
-        "date": "2026-01-22",
-        "title": "New milestone for Hyderabad \u2013 Rs 2,254 crore approved for improving the road infrastructure - thehansindia.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcWZseDRTRjZEM3FZYnc1OE5QT1huU0t5ZUpMSTBtRTZ4YXNCMzRSRnhSN0s1VlpXNDRyN1RIbTd1bHZTclJ6Q05XVUJmV0RRbWt6Y29RUU05NTVLSEJaZDVqU2ZnTUpmT2xTNE5ocEFpUk5VdGRreGZ3b1VlVWxxUVpSOXl3SlF0elNtLUJkbVZpenB5NDZnTVFVLXMwSUpjWTZjX1RrQzl3NWtaOUtITjc2SV82NWpUb2xTTDRBdUxrNVpDSURLOVAzTHNYeUFaTlNXcDFlbVBzTHJ1MldhNNIB5gFBVV95cUxNSmprSlVZM3RnM0NDN1pXbUlLRFRlV1NpcVZKUFgwZ1lNMm5PUW9welBpVzBFZ1hubDNhWi10SkFsY1c1OUpUdDBkOUdqVlMtczNOX0lldTRFTjEtdTJnZzNDS1VNN0F1M21iNEhFZDR0ajVnYzYxb0twUHJRT2UzM1VrdTdrQ1ZmUlZBUjlnMmhNNkp6bGd4ZnYtb2RzWThmVW5MT1lLb2hLdVFsNThyUVc4X2U3dkRQam93bS1fV3Bhc1N2NllHcGJuVjNoMVRvNERPMkZ3OU10QTdPU2JpNnV3bVozZw?oc=5\" target=\"_blank\">New milestone for Hyderabad \u2013 Rs 2,254 crore approved for improving the road infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thehansindia.com</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Rs 2,254 crore approved to improve Hyderabads road infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcWZseDRTRjZEM3FZYnc1OE5QT1huU0t5ZUpMSTBtRTZ4YXNCMzRSRnhSN0s1VlpXNDRyN1RIbTd1bHZTclJ6Q05XVUJmV0RRbWt6Y29RUU05NTVLSEJaZDVqU2ZnTUpmT2xTNE5ocEFpUk5VdGRreGZ3b1VlVWxxUVpSOXl3SlF0elNtLUJkbVZpenB5NDZnTVFVLXMwSUpjWTZjX1RrQzl3NWtaOUtITjc2SV82NWpUb2xTTDRBdUxrNVpDSURLOVAzTHNYeUFaTlNXcDFlbVBzTHJ1MldhNNIB5gFBVV95cUxNSmprSlVZM3RnM0NDN1pXbUlLRFRlV1NpcVZKUFgwZ1lNMm5PUW9welBpVzBFZ1hubDNhWi10SkFsY1c1OUpUdDBkOUdqVlMtczNOX0lldTRFTjEtdTJnZzNDS1VNN0F1M21iNEhFZDR0ajVnYzYxb0twUHJRT2UzM1VrdTdrQ1ZmUlZBUjlnMmhNNkp6bGd4ZnYtb2RzWThmVW5MT1lLb2hLdVFsNThyUVc4X2U3dkRQam93bS1fV3Bhc1N2NllHcGJuVjNoMVRvNERPMkZ3OU10QTdPU2JpNnV3bVozZw?oc=5",
-        "date": "2026-01-22",
-        "title": "New milestone for Hyderabad \u2013 Rs 2,254 crore approved for improving the road infrastructure - thehansindia.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcWZseDRTRjZEM3FZYnc1OE5QT1huU0t5ZUpMSTBtRTZ4YXNCMzRSRnhSN0s1VlpXNDRyN1RIbTd1bHZTclJ6Q05XVUJmV0RRbWt6Y29RUU05NTVLSEJaZDVqU2ZnTUpmT2xTNE5ocEFpUk5VdGRreGZ3b1VlVWxxUVpSOXl3SlF0elNtLUJkbVZpenB5NDZnTVFVLXMwSUpjWTZjX1RrQzl3NWtaOUtITjc2SV82NWpUb2xTTDRBdUxrNVpDSURLOVAzTHNYeUFaTlNXcDFlbVBzTHJ1MldhNNIB5gFBVV95cUxNSmprSlVZM3RnM0NDN1pXbUlLRFRlV1NpcVZKUFgwZ1lNMm5PUW9welBpVzBFZ1hubDNhWi10SkFsY1c1OUpUdDBkOUdqVlMtczNOX0lldTRFTjEtdTJnZzNDS1VNN0F1M21iNEhFZDR0ajVnYzYxb0twUHJRT2UzM1VrdTdrQ1ZmUlZBUjlnMmhNNkp6bGd4ZnYtb2RzWThmVW5MT1lLb2hLdVFsNThyUVc4X2U3dkRQam93bS1fV3Bhc1N2NllHcGJuVjNoMVRvNERPMkZ3OU10QTdPU2JpNnV3bVozZw?oc=5\" target=\"_blank\">New milestone for Hyderabad \u2013 Rs 2,254 crore approved for improving the road infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thehansindia.com</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Milestone for Hyderabad as Rs 2,254 crore approved to boost road infrastructure",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeWNxN2s0VEVzaXFXQ1B3b0ZMNmc2RzZlQ1ppdnBSQ1hORDZZYWdJQjZ6dExsMG1oRjkwV2dvNnY5a3JwTnEtb0dsZ3pLZGxWMDY0eXZaT3kyUGpfVEdhRGk1MnNDOXc0WGFrRVVsTFFnMWZ6UkVlczA1ZGlpcDZXdkxWUDAwQ1g1NjdfcWtfQQ?oc=5",
-        "date": "2026-01-22",
-        "title": "Mekorot\u2013Afikey Mayim agreement to boost water supply to Beit She\u2019an area - jpost.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNeWNxN2s0VEVzaXFXQ1B3b0ZMNmc2RzZlQ1ppdnBSQ1hORDZZYWdJQjZ6dExsMG1oRjkwV2dvNnY5a3JwTnEtb0dsZ3pLZGxWMDY0eXZaT3kyUGpfVEdhRGk1MnNDOXc0WGFrRVVsTFFnMWZ6UkVlczA1ZGlpcDZXdkxWUDAwQ1g1NjdfcWtfQQ?oc=5\" target=\"_blank\">Mekorot\u2013Afikey Mayim agreement to boost water supply to Beit She\u2019an area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jpost.com</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf1 NEWS: Mekorot and Afikey Mayim agree to boost water supply to Beit She\u2019an area $MCTR",
-        "type": "news"
-    },
-    {
-        "link": null,
-        "date": "2026-01-22",
-        "status": "posted",
-        "tweet": "AWS $AMZN data centers in \ud83c\uddfa\ud83c\uddf8Oregon processed 12 exabytes daily in 2026, supporting 2.5 billion global users.",
-        "type": "infrastructure"
-    },
-    {
         "link": null,
         "date": "2026-01-23",
         "status": "posted",
@@ -2707,5 +2440,35 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Indias Budget 2026 to prioritize defence, capital spending, infrastructure, and fiscal discipline.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRGZ5X2pOTXAtV1ZuQTlxY2pJMWp1LXRDeTVUQXhodW5yUWVyQUliTmN4TmF3bk9XODZnNDdRSlhERUdoTmIzcDBoWWZhdm96WGdsUFk4ZzI3a3ZHaEptS3diTENicHhlVGxGYkoyTGN4ajVEQ09DVHRGVy04WElZaTJ0aFBPVE4tZHZJVkJpVFJrRUpJZmM4Y1FQMFpRZkU2U0ZsRllRZnljOHJjRTc2ckFLRk1LYkZKcEpZakliWXh5QUE0N2RzdWh4S09jTkts?oc=5",
+        "date": "2026-02-01",
+        "title": "India's budget - what is expected on debt, military, infrastructure? - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRGZ5X2pOTXAtV1ZuQTlxY2pJMWp1LXRDeTVUQXhodW5yUWVyQUliTmN4TmF3bk9XODZnNDdRSlhERUdoTmIzcDBoWWZhdm96WGdsUFk4ZzI3a3ZHaEptS3diTENicHhlVGxGYkoyTGN4ajVEQ09DVHRGVy04WElZaTJ0aFBPVE4tZHZJVkJpVFJrRUpJZmM4Y1FQMFpRZkU2U0ZsRllRZnljOHJjRTc2ckFLRk1LYkZKcEpZakliWXh5QUE0N2RzdWh4S09jTkts?oc=5\" target=\"_blank\">India's budget - what is expected on debt, military, infrastructure?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEI3N3NHZzlBSWc2eUhPUzE5LVhrM0tyMHZRbzR1dnYtdXZmOGZUS0Zob0I5TGtsNm9ybkQ1YnpYNENyaDBlS2pjRmZIeHJhN2M0SFZLMlNScHNqOWpBX3hYX3AtVGREeXlLamZpTy1lQzl6MHhHemZkRWZhdDE5S1NJOVYwMVl4LUFFTmdHSHhILXg5NGtPLTNjM01faG1NdVdJOHhjeWZCVUdKdHc?oc=5",
+        "date": "2026-02-01",
+        "title": "MaxLinear Earnings Call: Infrastructure Ramps Drive Growth - TipRanks",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEI3N3NHZzlBSWc2eUhPUzE5LVhrM0tyMHZRbzR1dnYtdXZmOGZUS0Zob0I5TGtsNm9ybkQ1YnpYNENyaDBlS2pjRmZIeHJhN2M0SFZLMlNScHNqOWpBX3hYX3AtVGREeXlLamZpTy1lQzl6MHhHemZkRWZhdDE5S1NJOVYwMVl4LUFFTmdHSHhILXg5NGtPLTNjM01faG1NdVdJOHhjeWZCVUdKdHc?oc=5\" target=\"_blank\">MaxLinear Earnings Call: Infrastructure Ramps Drive Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZWk2X2VLVXlKaGUxeC1Kb2hBbFY0SURDa2lHTkU2T3d4NGxPdUVYclpmVFg3VTNSaUhKQUVlZ09ucUlIaU1HUnl0aGJQOFhsZU9Ta1lzWUhVYXl5VDRmYUM4UUJ2dDRCX0hKMURQU2gwSUtXOWd6MzQwUlNPa0g5X01hXzRUTld3eTR4WXdiVThRWHlWbGpXTmhxSnhrOTBuLXFXNzE0alV1TlZQcGVuQlNQSHRoU2kzdFdpcEt4cXHSAcYBQVVfeXFMT2Q2cnJOOTZwSVpkbU52Sm50cmRfN0tFTnV1QzNwUGRjbUZlMV9BMlNINWx6OURGN2pSMGJQUGM4YTJ4VlR3YVhNZWh3UDkzR2FEbDRlU19JS1R5cEM5aWpDbUdoUzdEM3E2aDFjamQwcGFSMzVtYnBpZ19LOHZnTjF1UmVUbVQ0OHozMlNzLWoxUkpJRkV6U3gyaEtIUXEzV3N4c1N6LWt0TzhLWkxCMkd1dkRHNllvQkN1VndWaXBlOEFCaWxn?oc=5",
+        "date": "2026-02-01",
+        "title": "Crut mulls driver training institute in city - Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZWk2X2VLVXlKaGUxeC1Kb2hBbFY0SURDa2lHTkU2T3d4NGxPdUVYclpmVFg3VTNSaUhKQUVlZ09ucUlIaU1HUnl0aGJQOFhsZU9Ta1lzWUhVYXl5VDRmYUM4UUJ2dDRCX0hKMURQU2gwSUtXOWd6MzQwUlNPa0g5X01hXzRUTld3eTR4WXdiVThRWHlWbGpXTmhxSnhrOTBuLXFXNzE0alV1TlZQcGVuQlNQSHRoU2kzdFdpcEt4cXHSAcYBQVVfeXFMT2Q2cnJOOTZwSVpkbU52Sm50cmRfN0tFTnV1QzNwUGRjbUZlMV9BMlNINWx6OURGN2pSMGJQUGM4YTJ4VlR3YVhNZWh3UDkzR2FEbDRlU19JS1R5cEM5aWpDbUdoUzdEM3E2aDFjamQwcGFSMzVtYnBpZ19LOHZnTjF1UmVUbVQ0OHozMlNzLWoxUkpJRkV6U3gyaEtIUXEzV3N4c1N6LWt0TzhLWkxCMkd1dkRHNllvQkN1VndWaXBlOEFCaWxn?oc=5\" target=\"_blank\">Crut mulls driver training institute in city</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
