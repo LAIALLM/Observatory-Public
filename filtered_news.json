@@ -2475,5 +2475,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddea NEWS: Khatib & Alami seals agreement for 17-tower urban development in Ajman",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-02",
+        "status": "posted",
+        "tweet": "Bitcoin processes 7 TPS at $20B annual energy cost (2026 est.).\n\nSolana: 50,000 TPS at $50M.\n\nThroughput 7,000x higher, cost 400x lower.",
+        "type": "crypto"
     }
 ]
