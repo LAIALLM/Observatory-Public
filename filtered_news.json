@@ -1,481 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-01-23",
-        "status": "posted",
-        "tweet": "Top 5 countries by solar PV capacity 2026 projections (GW)\n\n1. \ud83c\udde8\ud83c\uddf3 China 800\n2. \ud83c\uddfa\ud83c\uddf8 USA 150\n3. \ud83c\uddee\ud83c\uddf3 India 100\n4. \ud83c\uddef\ud83c\uddf5 Japan 90\n5. \ud83c\udde9\ud83c\uddea Germany 80",
-        "type": "statistical",
-        "category": "energy"
-    },
-    {
-        "link": null,
-        "date": "2026-01-23",
-        "status": "posted",
-        "tweet": "Annual cloud data center energy use for blockchains in 2026 (TWh/year):\n\n1. Bitcoin: 150 (PoW mining dominance)\n2. Ethereum: 25 (PoS validators)\n3. Solana: 5 (high-efficiency nodes)",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWXVDQ2NSNks4b2VGV3loVURIbkVzS2lfVVR3UVVwNzJMOUg2NDBsMTkwTWlFODJucWtsdi1HMTFMck1mNXZSN2JWdHhDcTJXQ2dSSEltam5jdVBSb1FKWFE5dDdkbXFrazhRdndyck1sUTViVE9hRW1oaGswdWo0VFV0TWNqLUNRZENvTlZ4bGtMVFo5akhxTV9mTk9jZk40M3oza0xwZHdOOGdmS0FnUWl5TVA1ZFpsYjU4Wm10czhmYVF6Z0pFclRZX29TYTRRSXRhXzdYYi0?oc=5",
-        "date": "2026-01-23",
-        "title": "Marlink Cyber exposes ISC BIND flaw that could knock critical infrastructure DNS offline - Industrial Cyber",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWXVDQ2NSNks4b2VGV3loVURIbkVzS2lfVVR3UVVwNzJMOUg2NDBsMTkwTWlFODJucWtsdi1HMTFMck1mNXZSN2JWdHhDcTJXQ2dSSEltam5jdVBSb1FKWFE5dDdkbXFrazhRdndyck1sUTViVE9hRW1oaGswdWo0VFV0TWNqLUNRZENvTlZ4bGtMVFo5akhxTV9mTk9jZk40M3oza0xwZHdOOGdmS0FnUWl5TVA1ZFpsYjU4Wm10czhmYVF6Z0pFclRZX29TYTRRSXRhXzdYYi0?oc=5\" target=\"_blank\">Marlink Cyber exposes ISC BIND flaw that could knock critical infrastructure DNS offline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Industrial Cyber</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczNTZThkUGt5c1R0US1vSkRsaVlaQU1qRHFWdDZFcExHNXVyZ01kMWViT21xZThpNjVJZUJZd1dySDNvVEtPQXR3UEZobzhjSnpyUXBxX3Zmb3BQTmVmeW9tR3JLVS1hZnloc19OWHpoaWlXZDZZcFVSckxzUDcyZWFNbDBxcGx2Q2M1dWpBT0Z4bUJkNTZKQndPMTN5a2dsb2hkUnh4RkJuVm5ITXl3MnJ2QzVYamx5eER6dVBTSWpSQzh2RnJTODhQYw?oc=5",
-        "date": "2026-01-23",
-        "title": "WAPA Board Takes Action to Support Infrastructure Progress and Operational Stability - stthomassource.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPczNTZThkUGt5c1R0US1vSkRsaVlaQU1qRHFWdDZFcExHNXVyZ01kMWViT21xZThpNjVJZUJZd1dySDNvVEtPQXR3UEZobzhjSnpyUXBxX3Zmb3BQTmVmeW9tR3JLVS1hZnloc19OWHpoaWlXZDZZcFVSckxzUDcyZWFNbDBxcGx2Q2M1dWpBT0Z4bUJkNTZKQndPMTN5a2dsb2hkUnh4RkJuVm5ITXl3MnJ2QzVYamx5eER6dVBTSWpSQzh2RnJTODhQYw?oc=5\" target=\"_blank\">WAPA Board Takes Action to Support Infrastructure Progress and Operational Stability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stthomassource.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZVd3ZVZmc3NtVjN5SGtjTGJuQnlZejkzVV9JaDNxX0g1YTJwcF9fVXRJZ004aS1ZMW1IOURGRGo5ZmNUXy01RmlOZnNOTjEzNHl2WGI0VTcxekNaSDRHMGozNHg3N0l1M3ZVbnNsRUZsQmYzZDdOZ01ISVVFMDctb2xUMmpGV1A4cDFyYVAtQUlUYTg4aVQ2QURiMVNiYktXOHhRYWhaV2lOdkk1RmluZmdDZy1kbWhPaDZaX1o0Z1hlRzBuTEF2YWhkNkprTUo5eWlmN3RSdFhScDJvd3l6UlhzUQ?oc=5",
-        "date": "2026-01-23",
-        "title": "EIB invests \u20ac50 million in Amber Dragon, the first-ever infrastructure equity fund for Ukraine\u2019s recovery - EU NEIGHBOURS east",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZVd3ZVZmc3NtVjN5SGtjTGJuQnlZejkzVV9JaDNxX0g1YTJwcF9fVXRJZ004aS1ZMW1IOURGRGo5ZmNUXy01RmlOZnNOTjEzNHl2WGI0VTcxekNaSDRHMGozNHg3N0l1M3ZVbnNsRUZsQmYzZDdOZ01ISVVFMDctb2xUMmpGV1A4cDFyYVAtQUlUYTg4aVQ2QURiMVNiYktXOHhRYWhaV2lOdkk1RmluZmdDZy1kbWhPaDZaX1o0Z1hlRzBuTEF2YWhkNkprTUo5eWlmN3RSdFhScDJvd3l6UlhzUQ?oc=5\" target=\"_blank\">EIB invests \u20ac50 million in Amber Dragon, the first-ever infrastructure equity fund for Ukraine\u2019s recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EU NEIGHBOURS east</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddfa\ud83c\udde6 NEWS: EIB invests \u20ac50 million in Amber Dragon, the first-ever infrastructure equity fund for Ukraine\u2019s recovery"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNWl5bWVUQVk5MEMtQmhtWUNucTViVzdMMGJiWmRmeUxDdkM2d3ZvaGExbkJMdTFwX19wT1JLWmVrek9NblFnOXI3ZjBMVGhpeUVmc2cwY2ItMzhoTHBUbWdiLTVzTFNjN1RMNGFDVU9VYUg4OUlfbUhieV8xcHhNQXluaUZkQUthQmF2bm44eDU4Y0YyaVZpdzlvYWRla0dHbDBMeVkwN1liN09GVDFZeEk2M1pKaXR6MVUtUXFhSG1MdEk?oc=5",
-        "date": "2026-01-23",
-        "title": "Fayetteville takes another swing at Murchison revival | Opinion - fayobserver.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNWl5bWVUQVk5MEMtQmhtWUNucTViVzdMMGJiWmRmeUxDdkM2d3ZvaGExbkJMdTFwX19wT1JLWmVrek9NblFnOXI3ZjBMVGhpeUVmc2cwY2ItMzhoTHBUbWdiLTVzTFNjN1RMNGFDVU9VYUg4OUlfbUhieV8xcHhNQXluaUZkQUthQmF2bm44eDU4Y0YyaVZpdzlvYWRla0dHbDBMeVkwN1liN09GVDFZeEk2M1pKaXR6MVUtUXFhSG1MdEk?oc=5\" target=\"_blank\">Fayetteville takes another swing at Murchison revival | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fayobserver.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVHk4TkU0aUVWSmo0SlVvMDdfVkVlMERGODY1RWUyaFZ6Nm1Qa1BhWWZSSFhLXzhHcGY0aTh0WG45ZFh1QmR4N19qOFRxYzNKLWZSRGxoQWZYV202V3FIN2VGMHBmU1FvQS1kVWhKc2JBYzdyU2lqOUdJUGFLbnhzbUFxLTRlc2dELURndWxESHppeEZLTTgzUVhyeWQ3OGNOeHVRUUtza2dldS10UmY5cGhQQnZ6ejFreUY2VldEWjBmMXRPZnVpQzZtLWF1OV9SbnRHV0d3?oc=5",
-        "date": "2026-01-23",
-        "title": "300+ Registrations for Urban Innovation Challenge; National Jury Convenes Tomorrow - PR Newswire",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVHk4TkU0aUVWSmo0SlVvMDdfVkVlMERGODY1RWUyaFZ6Nm1Qa1BhWWZSSFhLXzhHcGY0aTh0WG45ZFh1QmR4N19qOFRxYzNKLWZSRGxoQWZYV202V3FIN2VGMHBmU1FvQS1kVWhKc2JBYzdyU2lqOUdJUGFLbnhzbUFxLTRlc2dELURndWxESHppeEZLTTgzUVhyeWQ3OGNOeHVRUUtza2dldS10UmY5cGhQQnZ6ejFreUY2VldEWjBmMXRPZnVpQzZtLWF1OV9SbnRHV0d3?oc=5\" target=\"_blank\">300+ Registrations for Urban Innovation Challenge; National Jury Convenes Tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDYxbFlkT3g0amVqRk4wWnJXbkFBbjRFNm1wU1BucjNVNnN2djBVakpYcDk3LWNLVXBGQlZXcWJyaWEydzRPRXJ5TlZCVGtlVVFHUDA1TXRINloxR2Vscm1lOE1BUXZ4cUhYQUlNT09kTTVOdkEweG1pcnpSZDR0ODN0Y2REWkVwcWFsS0l3Tmxhb3ZubnFhYnQ3WVdhNWd6ZG9iSFFoOGI3Zw?oc=5",
-        "date": "2026-01-23",
-        "title": "How public housing projects made life worse for the urban poor - Washington Examiner",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDYxbFlkT3g0amVqRk4wWnJXbkFBbjRFNm1wU1BucjNVNnN2djBVakpYcDk3LWNLVXBGQlZXcWJyaWEydzRPRXJ5TlZCVGtlVVFHUDA1TXRINloxR2Vscm1lOE1BUXZ4cUhYQUlNT09kTTVOdkEweG1pcnpSZDR0ODN0Y2REWkVwcWFsS0l3Tmxhb3ZubnFhYnQ3WVdhNWd6ZG9iSFFoOGI3Zw?oc=5\" target=\"_blank\">How public housing projects made life worse for the urban poor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Examiner</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVGU1UDVqR25PTUZaSjQ3V01TNGZiM1h6OWU2eHhJU1ZPUW1FamY5VHV3Y29vNDlxdHZ2U3dPMV9EdUVCRzFYU201WXlXazR6ZG9ldWdDS1VZcnhkeDQtXzEzU2JES3FlSTNHSnl1cWZxelNqdkZCZHViZUJxeU1OeUg3RkJQcUNxRVpMQ3N2bksxNU1QTy1IU2lJS1h4TUxIaERmY2g1VWVXVmFrM0FSaS1WUmJEOTZJcE1oOVlOanNuTmNkbDVVaVhqNkc0S2lkZ0HSAdcBQVVfeXFMT0RRcFhCOUYtUFRyQng2Zk95Z3R6VFlscmJEQmN3c2YxWmtkQ2hSdW9mUEZvU2NOZWxfYUdncVJqa1YwcDNzdmg5Ulc4Nm45eURYYm1XWXkzUkZ1RmpCXzlEbi15TGhpRmM3RmdrcFpHYXgwTjE3OGJaTWN5dTY3ZTU4R29YY2RaUkRyZldrWElDWkFBLU9iblc0U3U4Tko0MzdXeEhDdzNLcXRJbm9uUkpBOElGN2V1RU5BODZOTVVzMDNCY1dKR0F4RWF1UjEtRU1KVzJ2M00?oc=5",
-        "date": "2026-01-23",
-        "title": "Rajkot\u2019s Atal Sarovar emerges as major urban attraction, draws over 1.4 million visitors - thehansindia.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVGU1UDVqR25PTUZaSjQ3V01TNGZiM1h6OWU2eHhJU1ZPUW1FamY5VHV3Y29vNDlxdHZ2U3dPMV9EdUVCRzFYU201WXlXazR6ZG9ldWdDS1VZcnhkeDQtXzEzU2JES3FlSTNHSnl1cWZxelNqdkZCZHViZUJxeU1OeUg3RkJQcUNxRVpMQ3N2bksxNU1QTy1IU2lJS1h4TUxIaERmY2g1VWVXVmFrM0FSaS1WUmJEOTZJcE1oOVlOanNuTmNkbDVVaVhqNkc0S2lkZ0HSAdcBQVVfeXFMT0RRcFhCOUYtUFRyQng2Zk95Z3R6VFlscmJEQmN3c2YxWmtkQ2hSdW9mUEZvU2NOZWxfYUdncVJqa1YwcDNzdmg5Ulc4Nm45eURYYm1XWXkzUkZ1RmpCXzlEbi15TGhpRmM3RmdrcFpHYXgwTjE3OGJaTWN5dTY3ZTU4R29YY2RaUkRyZldrWElDWkFBLU9iblc0U3U4Tko0MzdXeEhDdzNLcXRJbm9uUkpBOElGN2V1RU5BODZOTVVzMDNCY1dKR0F4RWF1UjEtRU1KVzJ2M00?oc=5\" target=\"_blank\">Rajkot\u2019s Atal Sarovar emerges as major urban attraction, draws over 1.4 million visitors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thehansindia.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZVd3ZVZmc3NtVjN5SGtjTGJuQnlZejkzVV9JaDNxX0g1YTJwcF9fVXRJZ004aS1ZMW1IOURGRGo5ZmNUXy01RmlOZnNOTjEzNHl2WGI0VTcxekNaSDRHMGozNHg3N0l1M3ZVbnNsRUZsQmYzZDdOZ01ISVVFMDctb2xUMmpGV1A4cDFyYVAtQUlUYTg4aVQ2QURiMVNiYktXOHhRYWhaV2lOdkk1RmluZmdDZy1kbWhPaDZaX1o0Z1hlRzBuTEF2YWhkNkprTUo5eWlmN3RSdFhScDJvd3l6UlhzUQ?oc=5",
-        "date": "2026-01-23",
-        "title": "EIB invests \u20ac50 million in Amber Dragon, the first-ever infrastructure equity fund for Ukraine\u2019s recovery - EU NEIGHBOURS east",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZVd3ZVZmc3NtVjN5SGtjTGJuQnlZejkzVV9JaDNxX0g1YTJwcF9fVXRJZ004aS1ZMW1IOURGRGo5ZmNUXy01RmlOZnNOTjEzNHl2WGI0VTcxekNaSDRHMGozNHg3N0l1M3ZVbnNsRUZsQmYzZDdOZ01ISVVFMDctb2xUMmpGV1A4cDFyYVAtQUlUYTg4aVQ2QURiMVNiYktXOHhRYWhaV2lOdkk1RmluZmdDZy1kbWhPaDZaX1o0Z1hlRzBuTEF2YWhkNkprTUo5eWlmN3RSdFhScDJvd3l6UlhzUQ?oc=5\" target=\"_blank\">EIB invests \u20ac50 million in Amber Dragon, the first-ever infrastructure equity fund for Ukraine\u2019s recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EU NEIGHBOURS east</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\udde6 NEWS: EIB invests \u20ac50 million in Amber Dragon, the first-ever infrastructure equity fund for Ukraine\u2019s recovery",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUW85a0xObGlOZ0NCMWk5VFpxUjVWTWxlQ0xSUi1FeGpPWURHV0VLMUE2Yl80LWFIdzJlTkdmMGlrQ0xyYURidktJQzJxT3ZGSFVIVjdNVGg0SW1hYy0zTmNXTWJybDljUTZMYkhjSmltdC1BOThycHExeTJ0MW9TMTBhd29kQldreV9QMlcyN0laT2JKR19qMWl0RVQ0MTkwSEZxNFlfZHRFSjE4ZktqV21jNlhWRUo3OWJLdA?oc=5",
-        "date": "2026-01-23",
-        "title": "Construction industry drives growth in Seek\u2019s New Zealand job ads - Staffing Industry Analysts",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOUW85a0xObGlOZ0NCMWk5VFpxUjVWTWxlQ0xSUi1FeGpPWURHV0VLMUE2Yl80LWFIdzJlTkdmMGlrQ0xyYURidktJQzJxT3ZGSFVIVjdNVGg0SW1hYy0zTmNXTWJybDljUTZMYkhjSmltdC1BOThycHExeTJ0MW9TMTBhd29kQldreV9QMlcyN0laT2JKR19qMWl0RVQ0MTkwSEZxNFlfZHRFSjE4ZktqV21jNlhWRUo3OWJLdA?oc=5\" target=\"_blank\">Construction industry drives growth in Seek\u2019s New Zealand job ads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Staffing Industry Analysts</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOXF5bU5DSWdNY3REcU0xNWFUMVpSWEc5MW1qeXd3cWhiOUVINXc5U18tbWRMX3p4U0xlalhadUkzcFhJaWU4Q2R0TGtGMjlfSmZWbGVTc1hQVjJFZVJVc1hLMkhNSkNkNXVTaEtWN2FOZkw4OUpfVnFlaHVabTZQbGRnNXRIUkVYOUN0RTllRENnTEFUN3VUbU54YzRSX2p0OEMyMzkxT3BNR0FTWlFN?oc=5",
-        "date": "2026-01-23",
-        "title": "Construction jobs showed a drop in late 2025. How are locals impacted in the industry? - ktnv.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNOXF5bU5DSWdNY3REcU0xNWFUMVpSWEc5MW1qeXd3cWhiOUVINXc5U18tbWRMX3p4U0xlalhadUkzcFhJaWU4Q2R0TGtGMjlfSmZWbGVTc1hQVjJFZVJVc1hLMkhNSkNkNXVTaEtWN2FOZkw4OUpfVnFlaHVabTZQbGRnNXRIUkVYOUN0RTllRENnTEFUN3VUbU54YzRSX2p0OEMyMzkxT3BNR0FTWlFN?oc=5\" target=\"_blank\">Construction jobs showed a drop in late 2025. How are locals impacted in the industry?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ktnv.com</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNG16d1BJUE1ibmRoVjVJdHNaaG52aHhHaG1yRlB5VzJXUTM3NHY2TTJtRDlqMFMwWld5SzhRRnRNZE9YTzZOY21uc3JxTXpVZE9zX3ppaEh0MGVKOTFkV2x4aV8xTnlUMXNMRnU4ZERWbGZRaE41TEI4aWV5V3BabG5OQ0xSVXRyWnQ4UjJrUXVHRmRCUmlELUtlWnV4YzRUN19ldFF1MlpRb095?oc=5",
-        "date": "2026-01-23",
-        "title": "Zander Muego: Trends shaping the construction sector in 2026 - Scottish Construction Now",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQNG16d1BJUE1ibmRoVjVJdHNaaG52aHhHaG1yRlB5VzJXUTM3NHY2TTJtRDlqMFMwWld5SzhRRnRNZE9YTzZOY21uc3JxTXpVZE9zX3ppaEh0MGVKOTFkV2x4aV8xTnlUMXNMRnU4ZERWbGZRaE41TEI4aWV5V3BabG5OQ0xSVXRyWnQ4UjJrUXVHRmRCUmlELUtlWnV4YzRUN19ldFF1MlpRb095?oc=5\" target=\"_blank\">Zander Muego: Trends shaping the construction sector in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scottish Construction Now</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaDJUUGhRRmlRVEZFNmFWRU5MbWp4eXBaZENGcllSR3c0SEZBOUxBVDBuQUlZcEQ4eWhMZVJTUFE2THZqLVFRWHN4WkttX3JCWEtlWmRCZGgzRTJQN3VsLS1xSnItWGdXSnhTbnNDUkxwNEJVbF94QlJDYjRlejBQTFlqXzJOdWV2UDFTQ09hLVNvNGZybFpHTGNXbjlIY2huU3dqcUZ6RE5CaEF1bVd6dmFnX3pTY2RqQlZFczU1ekk2R2dlQTlPS0V3TDFkWWhWSDlRUVBNeWlUQ3pGMTE0d084NmFfZ0dseVE?oc=5",
-        "date": "2026-01-23",
-        "title": "Infrastructure Without Politics: The Value of Transparent, Compliance-Driven, Politically Neutral Capital - USA Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaDJUUGhRRmlRVEZFNmFWRU5MbWp4eXBaZENGcllSR3c0SEZBOUxBVDBuQUlZcEQ4eWhMZVJTUFE2THZqLVFRWHN4WkttX3JCWEtlWmRCZGgzRTJQN3VsLS1xSnItWGdXSnhTbnNDUkxwNEJVbF94QlJDYjRlejBQTFlqXzJOdWV2UDFTQ09hLVNvNGZybFpHTGNXbjlIY2huU3dqcUZ6RE5CaEF1bVd6dmFnX3pTY2RqQlZFczU1ekk2R2dlQTlPS0V3TDFkWWhWSDlRUVBNeWlUQ3pGMTE0d084NmFfZ0dseVE?oc=5\" target=\"_blank\">Infrastructure Without Politics: The Value of Transparent, Compliance-Driven, Politically Neutral Capital</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQk44U0VIV1BhZWgzQml0OHpUUEI4OGtMRnlmVzhRa3dLVHhtM1NOU3BOMldUNE1mLUNacEdITC1FNEdseUE2MUprMGZGS3dFbjM1V2M2NnhRdHd6U2VWbm10LVB5ZmNUa2QxUHhhdXdfSnRLTDdxOTcyelAycXFPZg?oc=5",
-        "date": "2026-01-23",
-        "title": "Infrastructure & Incentives Update (Jan. 23, 2026) - Business Facilities",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQQk44U0VIV1BhZWgzQml0OHpUUEI4OGtMRnlmVzhRa3dLVHhtM1NOU3BOMldUNE1mLUNacEdITC1FNEdseUE2MUprMGZGS3dFbjM1V2M2NnhRdHd6U2VWbm10LVB5ZmNUa2QxUHhhdXdfSnRLTDdxOTcyelAycXFPZg?oc=5\" target=\"_blank\">Infrastructure & Incentives Update (Jan. 23, 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Facilities</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOakh2bUMyWGdfcWxFOERuREdwZFFjSXdRYVEtVzJ1RW9wOGFKVW93LU9sWVNSUkRsT3J2WUxLWVdxZENqWWFCWTBucy1EZ043cGo2emUzTWQ2WXhFcWVjUElXSWRwS2dHLVZ3bDRyNTBRWkhuZU9USHBZMHRLdmtJd3lXU2psd1E0ZEpFUVJHNVpPbXlGRjdVUmR1UTJTNVRCbzh5bUJtU2gzREFacjV2YUpsbTdtUGpNaVppMFdjOHVNdnl2dFd5ZmpodFhNZDg1aS1JcHU0b1JRSXcx?oc=5",
-        "date": "2026-01-23",
-        "title": "Warrenton to borrow $22.5 million for infrastructure updates - fauquier.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOakh2bUMyWGdfcWxFOERuREdwZFFjSXdRYVEtVzJ1RW9wOGFKVW93LU9sWVNSUkRsT3J2WUxLWVdxZENqWWFCWTBucy1EZ043cGo2emUzTWQ2WXhFcWVjUElXSWRwS2dHLVZ3bDRyNTBRWkhuZU9USHBZMHRLdmtJd3lXU2psd1E0ZEpFUVJHNVpPbXlGRjdVUmR1UTJTNVRCbzh5bUJtU2gzREFacjV2YUpsbTdtUGpNaVppMFdjOHVNdnl2dFd5ZmpodFhNZDg1aS1JcHU0b1JRSXcx?oc=5\" target=\"_blank\">Warrenton to borrow $22.5 million for infrastructure updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fauquier.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEFaNGVlMUxBbkJPUDIybVBlQlBnaHpJRU5BOEk5bXBuUUlWazFxd05xUGNWSWZoZ1hTcExndHY4eUhPdFNmeTd3UHNnemZ4NWVmTFh4bUJZZEJhOFhvSkw3czZndGNmUzlZUDl4VFlTTTNheWNFeUYwQUR2VUNyZmJQTzVZVzJfZ3Z2cVUweUxKQ2I2MkVMYW1JX0RheWo1RVMwQWttUHE2eHhNaHdTZlcyblBtclZ1bkE?oc=5",
-        "date": "2026-01-23",
-        "title": "Deep33 Emerges With $150 Million to Back Quantum And Hard-Tech Infrastructure - The Quantum Insider",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEFaNGVlMUxBbkJPUDIybVBlQlBnaHpJRU5BOEk5bXBuUUlWazFxd05xUGNWSWZoZ1hTcExndHY4eUhPdFNmeTd3UHNnemZ4NWVmTFh4bUJZZEJhOFhvSkw3czZndGNmUzlZUDl4VFlTTTNheWNFeUYwQUR2VUNyZmJQTzVZVzJfZ3Z2cVUweUxKQ2I2MkVMYW1JX0RheWo1RVMwQWttUHE2eHhNaHdTZlcyblBtclZ1bkE?oc=5\" target=\"_blank\">Deep33 Emerges With $150 Million to Back Quantum And Hard-Tech Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZXNfU2VqdW5mM1pyQTZVWTlVeXJzNm9NRUF4aWlHU1hvWi1IOEk3LTg0NE5NTkFmanRJWUZ6d2tvM25tUC1LS3I5WENEdWhaMGxQc3hkazdGTGc5Tnd0TkdLYXdjQjdfS3hlTmo4cktyTTByZnU4dkZFbkVwY1ZvNFRuTmpPVnNHZjd0NU10bjlmazJLQm5LcXM1Z3l3ZmEzX1pMQlZhYzdJWC1BMm4xeGhCVWtjelZrYlVmYUxxRDFkNW0zSW9DWUQ0M2VCQ2xDM3loN1VrZDVQZlVnVkJrSS1jT2VfY3lreDIwNkZDZWhlMzgyNlItdzhUSWpRdw?oc=5",
-        "date": "2026-01-23",
-        "title": "House Homeland Security hearing probes escalating cyber, drone, AI threats to US transportation, critical infrastructure - Industrial Cyber",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZXNfU2VqdW5mM1pyQTZVWTlVeXJzNm9NRUF4aWlHU1hvWi1IOEk3LTg0NE5NTkFmanRJWUZ6d2tvM25tUC1LS3I5WENEdWhaMGxQc3hkazdGTGc5Tnd0TkdLYXdjQjdfS3hlTmo4cktyTTByZnU4dkZFbkVwY1ZvNFRuTmpPVnNHZjd0NU10bjlmazJLQm5LcXM1Z3l3ZmEzX1pMQlZhYzdJWC1BMm4xeGhCVWtjelZrYlVmYUxxRDFkNW0zSW9DWUQ0M2VCQ2xDM3loN1VrZDVQZlVnVkJrSS1jT2VfY3lreDIwNkZDZWhlMzgyNlItdzhUSWpRdw?oc=5\" target=\"_blank\">House Homeland Security hearing probes escalating cyber, drone, AI threats to US transportation, critical infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Industrial Cyber</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZXdJMUU0bUVzVTk3YlY0dXEyTGNrU1ZISDdkLWlPNDFOZ1dROWNKZjZCamhWeEFrODJxMWkxM0Vvay0tU0JZZ1hiejc3b1RfajNyWld1YjlQWmZ6dHJ3SzBQV29hWjEtQm1CdXZxQy0ybW5sTi01T0RYeDUzQkxLNWtzV0RYT3hWOHl0Qzk2RndoZl9xVG1fbEtLQm1NQkJUNmY3RlRhem9fTmhvZnNKWkg0MjdEcmtTd3UydVozM2pWQmVJM19QbVlYRUpGcmpUUzRfRzFjSlBKU2Q5?oc=5",
-        "date": "2026-01-23",
-        "title": "Robo.ai Partners with The Ghazi Group to Power AI Compute Infrastructure Growth in MENA and Southeast Asia - AI Insider",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZXdJMUU0bUVzVTk3YlY0dXEyTGNrU1ZISDdkLWlPNDFOZ1dROWNKZjZCamhWeEFrODJxMWkxM0Vvay0tU0JZZ1hiejc3b1RfajNyWld1YjlQWmZ6dHJ3SzBQV29hWjEtQm1CdXZxQy0ybW5sTi01T0RYeDUzQkxLNWtzV0RYT3hWOHl0Qzk2RndoZl9xVG1fbEtLQm1NQkJUNmY3RlRhem9fTmhvZnNKWkg0MjdEcmtTd3UydVozM2pWQmVJM19QbVlYRUpGcmpUUzRfRzFjSlBKU2Q5?oc=5\" target=\"_blank\">Robo.ai Partners with The Ghazi Group to Power AI Compute Infrastructure Growth in MENA and Southeast Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Insider</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclQ2aEM4dUlaZ0RwN1pJYWNMakFTaWhpSExaWloyeTIwbnFrS2R0UDZTRVpZOVJRbG5CLTF2MkpwTjVxLTh4eWl5VWw2S0J0aGNaUzVRcm1CTThORFF0ZkU4d2pxT214dWFleHJsdF9USXlidEVzM1RmU1BVUF96UnhjdU9uYVNDbGt4MW9EdW5GU0JtY0JiNWRuMzVhaUhpb3c?oc=5",
-        "date": "2026-01-23",
-        "title": "Emirates builds out infrastructure for Dubai hiring spree - Semafor",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOclQ2aEM4dUlaZ0RwN1pJYWNMakFTaWhpSExaWloyeTIwbnFrS2R0UDZTRVpZOVJRbG5CLTF2MkpwTjVxLTh4eWl5VWw2S0J0aGNaUzVRcm1CTThORFF0ZkU4d2pxT214dWFleHJsdF9USXlidEVzM1RmU1BVUF96UnhjdU9uYVNDbGt4MW9EdW5GU0JtY0JiNWRuMzVhaUhpb3c?oc=5\" target=\"_blank\">Emirates builds out infrastructure for Dubai hiring spree</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Semafor</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcmVrZFRXWllENnNlZDV0Rm1kQXV0SkM2SUNHS3NFRTZrcDN5YnE2M0Qtb0RlYkxjSEYwNC16eXJTVkdRbnZCUDdyRGNWcHNzNmtCQjM0S2VGTGx1by01RXUyazlkOWdzQS12R0Q2NzRoMkxIU2FVMnAwRkI2NVFla3MxV3BFZVc4bS1GU3g0eVVLYktzcjlmWDZuSDI?oc=5",
-        "date": "2026-01-23",
-        "title": "Virtual Urbanism Achieves 81% Accuracy Quantifying Tokyo\u2019s Urban Identity With AI - Quantum Zeitgeist",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPcmVrZFRXWllENnNlZDV0Rm1kQXV0SkM2SUNHS3NFRTZrcDN5YnE2M0Qtb0RlYkxjSEYwNC16eXJTVkdRbnZCUDdyRGNWcHNzNmtCQjM0S2VGTGx1by01RXUyazlkOWdzQS12R0Q2NzRoMkxIU2FVMnAwRkI2NVFla3MxV3BFZVc4bS1GU3g0eVVLYktzcjlmWDZuSDI?oc=5\" target=\"_blank\">Virtual Urbanism Achieves 81% Accuracy Quantifying Tokyo\u2019s Urban Identity With AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-01-23",
-        "status": "posted",
-        "tweet": "NVIDIA's global data centers reached 100 exaflops AI compute capacity in 2026, up 40% from 2025.\n\n$NVDA",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSmhsN3dHYjRDT3VQNE5FOUh0TUhVOEh5WExueml1SHJYcHZOU2NOSm9oV3FBWkl3WWhPNnN5Q0cxT2JNV0RJUTNJRWtXX2lHZGNBa0VMTUNUZEZtZC1ZTXVXckkxNmxaOUJnYmFzVVJPaHgtWjV4bFpxM2doYXllNnR0cVhmMkpVbzJEMU54TXg4d3gtbGphSw?oc=5",
-        "date": "2026-01-23",
-        "title": "RESCON event highlights importance of home construction industry - ReNew Canada",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSmhsN3dHYjRDT3VQNE5FOUh0TUhVOEh5WExueml1SHJYcHZOU2NOSm9oV3FBWkl3WWhPNnN5Q0cxT2JNV0RJUTNJRWtXX2lHZGNBa0VMTUNUZEZtZC1ZTXVXckkxNmxaOUJnYmFzVVJPaHgtWjV4bFpxM2doYXllNnR0cVhmMkpVbzJEMU54TXg4d3gtbGphSw?oc=5\" target=\"_blank\">RESCON event highlights importance of home construction industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ReNew Canada</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUFSanBjd3JjRzUyV0FfRG9ZNzQ2cUhGRVpsSjNCOW51b2VjR2h0U19XcDBob1EweUxrYVpSWHpjcDdhOXgta3d3NThfWHNobXZZNTNXR2JiaDdPU09ueF9naDd4WU4zVnV1MjR1VUhsY3o3dUZJWE1hdGxwQ3FvQVUtbGRVX203NU1nVkVFbkM2S3lGOXN0QWFyaEdjeDJjelh4VVNLTkN0TEFBVnNPblMwQTY4QUpPTWNCbW80TTZnNEZTRVktNDlYNA?oc=5",
-        "date": "2026-01-23",
-        "title": "OneMiners Expands Hosting Infrastructure with Direct-to-Energy Industrial Design - Digital Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUFSanBjd3JjRzUyV0FfRG9ZNzQ2cUhGRVpsSjNCOW51b2VjR2h0U19XcDBob1EweUxrYVpSWHpjcDdhOXgta3d3NThfWHNobXZZNTNXR2JiaDdPU09ueF9naDd4WU4zVnV1MjR1VUhsY3o3dUZJWE1hdGxwQ3FvQVUtbGRVX203NU1nVkVFbkM2S3lGOXN0QWFyaEdjeDJjelh4VVNLTkN0TEFBVnNPblMwQTY4QUpPTWNCbW80TTZnNEZTRVktNDlYNA?oc=5\" target=\"_blank\">OneMiners Expands Hosting Infrastructure with Direct-to-Energy Industrial Design</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Journal</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLXFLbEdKRmc3aU5sY2wtWjRPUEktemdUUmxfSklQcVdkMWdhZmFiNnFraXh5MjB4TkRrUENiSW5FaUNpbGMwakpGZW1mZ2ROcUxLaWJZU1pHNWFPTnpfdF9PU2t0OE1uczg2WWJTR1FvS1poMC1aR2NSN0dLTTZaVWMyTVM4bWc4Q2xLdHdyLVNnMzR3TDNyamZ0T0tydFhna0l6RGpuRUdxeEpOV0NQRlI0bE9GcXk1bVJLMGthcw?oc=5",
-        "date": "2026-01-23",
-        "title": "Polestar Capital suspends fundraising for up to \u20ac1bn infra debt strategy \u2013 exclusive - Infrastructure Investor",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQLXFLbEdKRmc3aU5sY2wtWjRPUEktemdUUmxfSklQcVdkMWdhZmFiNnFraXh5MjB4TkRrUENiSW5FaUNpbGMwakpGZW1mZ2ROcUxLaWJZU1pHNWFPTnpfdF9PU2t0OE1uczg2WWJTR1FvS1poMC1aR2NSN0dLTTZaVWMyTVM4bWc4Q2xLdHdyLVNnMzR3TDNyamZ0T0tydFhna0l6RGpuRUdxeEpOV0NQRlI0bE9GcXk1bVJLMGthcw?oc=5\" target=\"_blank\">Polestar Capital suspends fundraising for up to \u20ac1bn infra debt strategy \u2013 exclusive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infrastructure Investor</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzdUM2VnZmdSenRZazlxM09fY1A3Y2prN2VVaUhjREJMRE1iNDNXQUptV0x4aEUyRWxQOFA4SHFRc0EwNUJLUGhFQ0FKWE9LeVF2eDJ0cnhiTk1GVjQwT0FMRkh4Y0J3SXp6Tzg3NmVwdXVSbTJwczNUTGRsOGFVZjRNQXdPTkh6S0VOcXZreGpicEpVYVFKRzQtSjRpclJDUW9CX0U0VzBNMlVJS1JlRQ?oc=5",
-        "date": "2026-01-23",
-        "title": "Infrastructure Spending Is Exploding And Will Drag This ETF With It - 24/7 Wall St.",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzdUM2VnZmdSenRZazlxM09fY1A3Y2prN2VVaUhjREJMRE1iNDNXQUptV0x4aEUyRWxQOFA4SHFRc0EwNUJLUGhFQ0FKWE9LeVF2eDJ0cnhiTk1GVjQwT0FMRkh4Y0J3SXp6Tzg3NmVwdXVSbTJwczNUTGRsOGFVZjRNQXdPTkh6S0VOcXZreGpicEpVYVFKRzQtSjRpclJDUW9CX0U0VzBNMlVJS1JlRQ?oc=5\" target=\"_blank\">Infrastructure Spending Is Exploding And Will Drag This ETF With It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbWh4aTNVa0ZwU1A3cFg1VVNtVFdQS3FCZnNoMkZPbG5RRFlvZDhJZEFPSDFxaWI0UFFNYlFISGFiQzFhS19TLWstWGVfaGlmMXNUdS14Y3I2QWUtZWhIa0NURGNabld0VW5lRHFWR3VOazJXTFZhX082c04xUkRJQ0xRNDE4TTRYTncxNXEyS3UzcGNMR0VsMzk2YU9JNkhkaVZ4cUNwNnZ5SlVneExYVC1aekhfa0NabDZlWGxMV3k?oc=5",
-        "date": "2026-01-23",
-        "title": "Deep33 Emerges from Stealth With $150M to Back AI Infrastructure, Quantum and Deep Tech - AI Insider",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbWh4aTNVa0ZwU1A3cFg1VVNtVFdQS3FCZnNoMkZPbG5RRFlvZDhJZEFPSDFxaWI0UFFNYlFISGFiQzFhS19TLWstWGVfaGlmMXNUdS14Y3I2QWUtZWhIa0NURGNabld0VW5lRHFWR3VOazJXTFZhX082c04xUkRJQ0xRNDE4TTRYTncxNXEyS3UzcGNMR0VsMzk2YU9JNkhkaVZ4cUNwNnZ5SlVneExYVC1aekhfa0NabDZlWGxMV3k?oc=5\" target=\"_blank\">Deep33 Emerges from Stealth With $150M to Back AI Infrastructure, Quantum and Deep Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Insider</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.constructiondive.com/news/garney-expands-emery-sons-acquisition/810307/",
-        "date": "2026-01-23",
-        "title": "Garney expands west with Emery & Sons acquisition",
-        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Lrfww8yw8Au7HcRUWG3t1QY0TEHyoTzYrdAig-hCzpk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qcm9qZWN0LUZ1bGwtV2lkdGgtVGVtcGxhdGUtMTAuanBlZw==.webp\" /></div></figure><p>The move supports the Kansas City, Missouri-based contractor&rsquo;s long-term vision of becoming a full-service water solutions provider with a presence in the Northwest.</p>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.constructiondive.com/news/roche-genentech-doubles-investment-holly-springs-north-carolina-2-billion/810260/",
-        "date": "2026-01-23",
-        "title": "Roche\u2019s Genentech more than doubles North Carolina facility investment to $2B",
-        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/BDFqfSZeId-OugmF1sz06VXcjUt5s-w70G4FrINKhrY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MTkzMDM1My5qcGc=.webp\" /></div></figure><p>The 700,000-square-foot project broke ground in August and is set to produce weight-loss treatments by 2029 in Holly Springs, a growing biopharmaceutical hub.</p>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Roche\u2019s Genentech doubles North Carolina facility investment to $2B, with groundbreaking in August for 700,000 sq ft plant producing weight-loss treatments by 2029 in Holly Springs $RHHBY"
-    },
-    {
-        "link": "https://www.constructiondive.com/news/roche-genentech-doubles-investment-holly-springs-north-carolina-2-billion/810260/",
-        "date": "2026-01-23",
-        "title": "Roche\u2019s Genentech more than doubles North Carolina facility investment to $2B",
-        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/BDFqfSZeId-OugmF1sz06VXcjUt5s-w70G4FrINKhrY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MTkzMDM1My5qcGc=.webp\" /></div></figure><p>The 700,000-square-foot project broke ground in August and is set to produce weight-loss treatments by 2029 in Holly Springs, a growing biopharmaceutical hub.</p>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Roche\u2019s Genentech more than doubles North Carolina facility investment to $2B for a 700K sq ft plant producing weight-loss treatments by 2029 in Holly Springs",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUpxbWdJWHFqTzZUS1RXdnVHS1BJUFktelZaZEhEOWhnQnRmQkZ0RHU2b2F5MmhjdERvOHFfdWYzTldhTktZYlFuMGdWN3owNUxTN2lBclA2VWFZcnI4UVNnZ0lBbDBEQmh3ZWNmQXZmbTlWMVdQOEs0c2JYV3NvQ05wb0tEY1R6d1RhcVRxT29QaWgyOXBhSllaVDBZdlRqeVozbC0xSFFBOGRkWG8welRFODYxbDc2RlZGb0RIdw?oc=5",
-        "date": "2026-01-23",
-        "title": "Morgan Stanley finds Oracle's AI infrastructure buildout creates risk for EPS targets - Seeking Alpha",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUpxbWdJWHFqTzZUS1RXdnVHS1BJUFktelZaZEhEOWhnQnRmQkZ0RHU2b2F5MmhjdERvOHFfdWYzTldhTktZYlFuMGdWN3owNUxTN2lBclA2VWFZcnI4UVNnZ0lBbDBEQmh3ZWNmQXZmbTlWMVdQOEs0c2JYV3NvQ05wb0tEY1R6d1RhcVRxT29QaWgyOXBhSllaVDBZdlRqeVozbC0xSFFBOGRkWG8welRFODYxbDc2RlZGb0RIdw?oc=5\" target=\"_blank\">Morgan Stanley finds Oracle's AI infrastructure buildout creates risk for EPS targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0NJaTRUNHk3b1l5Nk9ScFJJOXNEMERhZ0ZXNDVNU2FXTlM2VE92empZZE16cDl3NmJaT2Z2MDNtMFhWb0o2OXRSZFhSdDRVWkpDOHFFWFNCT3BucURmOGZZWFZ3Z0Uwank0NFpHN3J6VzQ1a08wWHRndnREaFRIWHY0MVbSAYoBQVVfeXFMUFVVcGw0RVlGWng4eVFEa2J5d2Z2amhocmthNEFNMEpWNGRYUFkybnZmbTJxSjNqcmN4Mk5EaDk4VkwycEJING5rSEgtWEI4VjkteEZ3NGxvLWlQZGQ1OFpiaFpNajhrdHNaOTBkQkdGYVRIeDJ1Q1ROR2M2ZENsTzg5NlRWRW9QalJ3?oc=5",
-        "date": "2026-01-23",
-        "title": "Fox News AI Newsletter: Historic infrastructure buildout for AI - Fox News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0NJaTRUNHk3b1l5Nk9ScFJJOXNEMERhZ0ZXNDVNU2FXTlM2VE92empZZE16cDl3NmJaT2Z2MDNtMFhWb0o2OXRSZFhSdDRVWkpDOHFFWFNCT3BucURmOGZZWFZ3Z0Uwank0NFpHN3J6VzQ1a08wWHRndnREaFRIWHY0MVbSAYoBQVVfeXFMUFVVcGw0RVlGWng4eVFEa2J5d2Z2amhocmthNEFNMEpWNGRYUFkybnZmbTJxSjNqcmN4Mk5EaDk4VkwycEJING5rSEgtWEI4VjkteEZ3NGxvLWlQZGQ1OFpiaFpNajhrdHNaOTBkQkdGYVRIeDJ1Q1ROR2M2ZENsTzg5NlRWRW9QalJ3?oc=5\" target=\"_blank\">Fox News AI Newsletter: Historic infrastructure buildout for AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcFVRTjhCd09nM3Jkb3ctUWo1RmtXU2RIUHVvTXp5eTYzWHBmRko2a05pVHNHT1c2Wi1TNWZqT3I1WnpORnFfMUI4bVRSRG9MckdOUUY5eGZFSW9tY1dpbklQQVh0Zy11SGFyaEh6ZkFhYXluUHphY0J3VGpkQ3J3bWd1aFJBaThEOUVLaU5tUDYwY3Nob2U0cU1VUlhjZkRfRnVxMHI1WExHTVdXWjc3bnZmZHNyRUdzOHR1YndDOUk?oc=5",
-        "date": "2026-01-23",
-        "title": "$1 million in federal funding secured for Oak Grove water infrastructure project - christiancountynow.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcFVRTjhCd09nM3Jkb3ctUWo1RmtXU2RIUHVvTXp5eTYzWHBmRko2a05pVHNHT1c2Wi1TNWZqT3I1WnpORnFfMUI4bVRSRG9MckdOUUY5eGZFSW9tY1dpbklQQVh0Zy11SGFyaEh6ZkFhYXluUHphY0J3VGpkQ3J3bWd1aFJBaThEOUVLaU5tUDYwY3Nob2U0cU1VUlhjZkRfRnVxMHI1WExHTVdXWjc3bnZmZHNyRUdzOHR1YndDOUk?oc=5\" target=\"_blank\">$1 million in federal funding secured for Oak Grove water infrastructure project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">christiancountynow.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYng5NXN3dUluTV90WVVyaktKS25URGhXNHY5YkFnajNRMzJsQW5NR1dVeEJ4dFNnb1lyUHBLQ1ExakZub1I2TVdYLUtFSkF0c2d0WnVob1E3ZFp4T2tGX3RuSUFJdV9qZlYwaWVxSzhKZWJBV2NPSDhFd215VE5meWY3Y1JqSnFMeXJaVWVVbWJyR21zNVloa0twQXRrcmpEMlM5c094SVF0Q3JaT3p4aw?oc=5",
-        "date": "2026-01-23",
-        "title": "Yucatan Bets on Industrial Infrastructure to Attract Investment - Mexico Business News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOYng5NXN3dUluTV90WVVyaktKS25URGhXNHY5YkFnajNRMzJsQW5NR1dVeEJ4dFNnb1lyUHBLQ1ExakZub1I2TVdYLUtFSkF0c2d0WnVob1E3ZFp4T2tGX3RuSUFJdV9qZlYwaWVxSzhKZWJBV2NPSDhFd215VE5meWY3Y1JqSnFMeXJaVWVVbWJyR21zNVloa0twQXRrcmpEMlM5c094SVF0Q3JaT3p4aw?oc=5\" target=\"_blank\">Yucatan Bets on Industrial Infrastructure to Attract Investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mexico Business News</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWGxFZWEtWlkyZjhCMm9tV0FhWWt5cUJMRU84eHliMXlodV9VZTktRHVGNEdNSEg1NEN6c1Vmd3lqU1N2cWdxMlFhb2FHTzhBdDNwVGQ5V19TNGlwVmhrUUdYVFBxYUZSQk9wTm1oSFJUN1ZyUnZKMGVfRUZjRkNsbEFTcUNOM29FcjFJdHlBZURGcFNoVWVSYThDMjVtZTJOMWJVVWRUbEE5UGlvOFE1VkNNbWFHcWpQUVRpNm1yanc?oc=5",
-        "date": "2026-01-23",
-        "title": "Iowa House passes bill undercutting infrastructure critical to ethanol and agriculture - Ethanol Producer Magazine",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWGxFZWEtWlkyZjhCMm9tV0FhWWt5cUJMRU84eHliMXlodV9VZTktRHVGNEdNSEg1NEN6c1Vmd3lqU1N2cWdxMlFhb2FHTzhBdDNwVGQ5V19TNGlwVmhrUUdYVFBxYUZSQk9wTm1oSFJUN1ZyUnZKMGVfRUZjRkNsbEFTcUNOM29FcjFJdHlBZURGcFNoVWVSYThDMjVtZTJOMWJVVWRUbEE5UGlvOFE1VkNNbWFHcWpQUVRpNm1yanc?oc=5\" target=\"_blank\">Iowa House passes bill undercutting infrastructure critical to ethanol and agriculture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ethanol Producer Magazine</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZnM4Mnp3WHpyWVVHbE42TDh5Yko2ckRiN3VBWXd5d1ZXMTFtb29YamdvY3ByemF4eGJrc3FWNTJoVkxHcTVabTdOUGN3NEhSWXVkOGxpRWI3aXhnWmFOX2Foc2FzYUs5eldQT3hhamVHbXFOT21DcjlFdldXcC1TbGVQVjlUV3NzblZ0Vk0zbXhTS3hmQWxSZ0lmeDNraW5pUFRJbGoxV0piOVBoZFlaWnotdGJzN1J1SzNaRTc3YWVIWkNUNE9yOTBpTEdlUktjNDJaY0JkcFFlaWNiamZYX0hiMFU4a2x1Mktn?oc=5",
-        "date": "2026-01-23",
-        "title": "Kaufman County's Infrastructure Spending for 2026, Roads and More Roads - inforney.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZnM4Mnp3WHpyWVVHbE42TDh5Yko2ckRiN3VBWXd5d1ZXMTFtb29YamdvY3ByemF4eGJrc3FWNTJoVkxHcTVabTdOUGN3NEhSWXVkOGxpRWI3aXhnWmFOX2Foc2FzYUs5eldQT3hhamVHbXFOT21DcjlFdldXcC1TbGVQVjlUV3NzblZ0Vk0zbXhTS3hmQWxSZ0lmeDNraW5pUFRJbGoxV0piOVBoZFlaWnotdGJzN1J1SzNaRTc3YWVIWkNUNE9yOTBpTEdlUktjNDJaY0JkcFFlaWNiamZYX0hiMFU4a2x1Mktn?oc=5\" target=\"_blank\">Kaufman County's Infrastructure Spending for 2026, Roads and More Roads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inforney.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcmN6VW4tRmhMNFM4bDdhNldDMTVyV2pzVFd3bVJidkxDcXgya1pRcndETHVYcnVnU3hyZmRzVVYwakFKVVNsc3R0cWxrRjRqWkk5dmUzNlV6TklIWWdWVVlXaEpXWlYyYTRaOHZwWll0NjNsVjVEejJhZ1N1OU1KNXYzQnl4bFJ1c3QyWUxvdXFtaUgzTjNYOGExWGo3ZmN0MEIxcUVMQzdTb0E?oc=5",
-        "date": "2026-01-23",
-        "title": "Bost secures $7 million for Southern Illinois infrastructure, emergency projects - kbsi23.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcmN6VW4tRmhMNFM4bDdhNldDMTVyV2pzVFd3bVJidkxDcXgya1pRcndETHVYcnVnU3hyZmRzVVYwakFKVVNsc3R0cWxrRjRqWkk5dmUzNlV6TklIWWdWVVlXaEpXWlYyYTRaOHZwWll0NjNsVjVEejJhZ1N1OU1KNXYzQnl4bFJ1c3QyWUxvdXFtaUgzTjNYOGExWGo3ZmN0MEIxcUVMQzdTb0E?oc=5\" target=\"_blank\">Bost secures $7 million for Southern Illinois infrastructure, emergency projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kbsi23.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjJjdzdEcUZWT2pOSEIwLWhhVTg2Y0o3cHRrclpuOTAyUExNemxaOGNUZ0twTXYwLTB5T21OcGFNUHFJUDdIam40SllTT0lUbkoxZFFKaWowbEVqOGpWbzdFeFJ6SlBCajhIZzlrTXM0ci1JRHpHUkdpMk9MaTg5d09raENJbkFnaDJWNmhVVi1qRlc2SEJGb3VrZTVlN1E?oc=5",
-        "date": "2026-01-23",
-        "title": "Why Autonomous AI Agents Demand a New Infrastructure Mindset for Data Centres - The AI Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjJjdzdEcUZWT2pOSEIwLWhhVTg2Y0o3cHRrclpuOTAyUExNemxaOGNUZ0twTXYwLTB5T21OcGFNUHFJUDdIam40SllTT0lUbkoxZFFKaWowbEVqOGpWbzdFeFJ6SlBCajhIZzlrTXM0ci1JRHpHUkdpMk9MaTg5d09raENJbkFnaDJWNmhVVi1qRlc2SEJGb3VrZTVlN1E?oc=5\" target=\"_blank\">Why Autonomous AI Agents Demand a New Infrastructure Mindset for Data Centres</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The AI Journal</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR2V0dGFHN3R1ZjdGcDZLbTdTLVBBZnRBYk9vWUt2RnBFbjd4WXRjdWRudUhBdmpQb1V3Nk5qMUM4Y3hydmlGNDJWQzBzMG9HVGVBcml0UGZ6cnN6VTZkbDVqaUU5ZWVwYWNsYUhMMm5ZajQ3NG9FaFdxNEFtdnE1T043Yks2Zm56SDRMdG1iNDQxd1ZXUERrdXFn?oc=5",
-        "date": "2026-01-23",
-        "title": "Lawsuits target EPA rollback of coal plant water pollution standards - Smart Cities Dive",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQR2V0dGFHN3R1ZjdGcDZLbTdTLVBBZnRBYk9vWUt2RnBFbjd4WXRjdWRudUhBdmpQb1V3Nk5qMUM4Y3hydmlGNDJWQzBzMG9HVGVBcml0UGZ6cnN6VTZkbDVqaUU5ZWVwYWNsYUhMMm5ZajQ3NG9FaFdxNEFtdnE1T043Yks2Zm56SDRMdG1iNDQxd1ZXUERrdXFn?oc=5\" target=\"_blank\">Lawsuits target EPA rollback of coal plant water pollution standards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities Dive</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.enr.com/articles/62403-fueled-by-success-kansas-city-streetcar-extends-its-reach",
-        "date": "2026-01-23",
-        "title": "Fueled By Success, Kansas City Streetcar Extends Its Reach",
-        "summary": "<p>A southern extension opened last fall, with a northern extension to open this spring.</p>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.enr.com/articles/62406-virginia-bus-system-boosts-charging-infrastructure",
-        "date": "2026-01-23",
-        "title": "Virginia Bus System Boosts Charging Infrastructure",
-        "summary": "<p><span style=\"font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; display: inline !important; float: none;\">Alexandria Va. is installing in-route pantograph charger and associated infrastructure for its electric bus fleet.&nbsp;</span></p>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.enr.com/articles/62407-vegas-style-sphere-planned-for-maryland-entertainment-complex",
-        "date": "2026-01-23",
-        "title": "Vegas-Style Sphere Planned for Maryland Entertainment Complex",
-        "summary": "<p><span style=\"font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; display: inline !important; float: none;\">No contractor has been named for the estimated $1-billion Sphere project outside Washington, D.C.</span></p>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.smartcitiesdive.com/news/colorado-housing-bills-state-affordability/810362/",
-        "date": "2026-01-23",
-        "title": "Colorado bills take \u2018big swing\u2019 at state\u2019s housing shortage",
-        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/wtkzfbvVRialDk8gs6Cvr-zrxaR3m7XZUkMVQbOovlI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODI3NTYwMjcuanBn.webp\" /></div></figure><p>As the state pushes to ramp up development, a lawsuit from several municipalities accuses it of overstepping its authority.</p>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.smartcitiesdive.com/news/epa-coal-plant-water-pollution-standards-lawsuits/810356/",
-        "date": "2026-01-23",
-        "title": "Lawsuits target EPA rollback of coal plant water pollution standards",
-        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/LXSN40we_rI5HTFO4DMNb4KyDtKmofGdrpBqY3tebKA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE5MTc0OTY1X2FNajFOT1IuanBn.webp\" /></div></figure><p>The plants need flexibility to meet rising electricity demand, the EPA says. Environmental groups argue that undermines Clean Water Act protections for rivers and drinking water sources.</p>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWJ5WVlEdEpldUJheEJTc2ltN1psOXJTd1JqeWhmU0ZEZWp2LWU2ckxyN2hwWi1iWENsS3BaT2FqVDF6NlNhVm9ZLTFKWjhkd2s0d1RuY080bnYxUWVwVTBwRmczaGlJd0ppTjFEQWp6MmtrdTh2T1BOdDJYYmtqa1dKTU1SdXJpQlljWVI1R2tqaUotLTNGOE1pUTBVdw?oc=5",
-        "date": "2026-01-23",
-        "title": "California Forever, Building Trades Sign Record Construction Labor Agreement in Solano - Construction Owners Club",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQYWJ5WVlEdEpldUJheEJTc2ltN1psOXJTd1JqeWhmU0ZEZWp2LWU2ckxyN2hwWi1iWENsS3BaT2FqVDF6NlNhVm9ZLTFKWjhkd2s0d1RuY080bnYxUWVwVTBwRmczaGlJd0ppTjFEQWp6MmtrdTh2T1BOdDJYYmtqa1dKTU1SdXJpQlljWVI1R2tqaUotLTNGOE1pUTBVdw?oc=5\" target=\"_blank\">California Forever, Building Trades Sign Record Construction Labor Agreement in Solano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Owners Club</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: California Forever and Building Trades sign record labor agreement covering 15,000 jobs for new city project in Solano"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRERrSWpDVnlublI0UGxpUDkwYk5iQ0pENm15RjVrNnl1dENhTzhlT2hKNmhGRmdOQVVkZGZXc1pzdk9CU2RiNjRPTTdieFVvX2tDUm41NzNLbFFTOFJsb056MExHMTJyekRwSWdnc0Z1ZEJEQzc3MzExX3drRVRGNG5aR3hTeHRONlhEYU1lRjg1Y0xsMkpuQlA1aVlBaHBIYTBNSFh4Y1I1c2s?oc=5",
-        "date": "2026-01-23",
-        "title": "$1B XRP Treasury Gains Institutional Safeguards With Evernorth\u2019s t54 Infrastructure - Bitcoin.com News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRERrSWpDVnlublI0UGxpUDkwYk5iQ0pENm15RjVrNnl1dENhTzhlT2hKNmhGRmdOQVVkZGZXc1pzdk9CU2RiNjRPTTdieFVvX2tDUm41NzNLbFFTOFJsb056MExHMTJyekRwSWdnc0Z1ZEJEQzc3MzExX3drRVRGNG5aR3hTeHRONlhEYU1lRjg1Y0xsMkpuQlA1aVlBaHBIYTBNSFh4Y1I1c2s?oc=5\" target=\"_blank\">$1B XRP Treasury Gains Institutional Safeguards With Evernorth\u2019s t54 Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin.com News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUNWNGctX2J2NnB1WDBQT25HbmllbjVCUW1SWHFiRXVXbHl4aW1XcWtyQ2hadkdrdHZGVm1lQzU0Vl85YnZzVEVLZGEwdnBGUHVORmVFMnhkdTBlM2FPdmViQ3pDVUdINXlpa2RxQjEyaEZmeXZ0ajNzQVpsQUdHZFYtR3gtZk1vc1ZjQmxaMnowb1lV?oc=5",
-        "date": "2026-01-23",
-        "title": "Construction and Mining Market Overview: Infrastructure Development and Equipment Modernization Trends - openPR.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUNWNGctX2J2NnB1WDBQT25HbmllbjVCUW1SWHFiRXVXbHl4aW1XcWtyQ2hadkdrdHZGVm1lQzU0Vl85YnZzVEVLZGEwdnBGUHVORmVFMnhkdTBlM2FPdmViQ3pDVUdINXlpa2RxQjEyaEZmeXZ0ajNzQVpsQUdHZFYtR3gtZk1vc1ZjQmxaMnowb1lV?oc=5\" target=\"_blank\">Construction and Mining Market Overview: Infrastructure Development and Equipment Modernization Trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWJ5WVlEdEpldUJheEJTc2ltN1psOXJTd1JqeWhmU0ZEZWp2LWU2ckxyN2hwWi1iWENsS3BaT2FqVDF6NlNhVm9ZLTFKWjhkd2s0d1RuY080bnYxUWVwVTBwRmczaGlJd0ppTjFEQWp6MmtrdTh2T1BOdDJYYmtqa1dKTU1SdXJpQlljWVI1R2tqaUotLTNGOE1pUTBVdw?oc=5",
-        "date": "2026-01-23",
-        "title": "California Forever, Building Trades Sign Record Construction Labor Agreement in Solano - Construction Owners Club",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQYWJ5WVlEdEpldUJheEJTc2ltN1psOXJTd1JqeWhmU0ZEZWp2LWU2ckxyN2hwWi1iWENsS3BaT2FqVDF6NlNhVm9ZLTFKWjhkd2s0d1RuY080bnYxUWVwVTBwRmczaGlJd0ppTjFEQWp6MmtrdTh2T1BOdDJYYmtqa1dKTU1SdXJpQlljWVI1R2tqaUotLTNGOE1pUTBVdw?oc=5\" target=\"_blank\">California Forever, Building Trades Sign Record Construction Labor Agreement in Solano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Owners Club</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: California Forever and Building Trades sign record labor agreement for massive housing project in Solano",
-        "type": "news"
-    },
-    {
-        "link": null,
         "date": "2026-01-24",
         "status": "posted",
         "tweet": "Top 5 cities by urban development firm investments, projected for 2026 (in USD billions).\n\n\ud83c\uddf8\ud83c\uddec Singapore: 45\n\ud83c\udde6\ud83c\uddea Dubai: 38\n\ud83c\uddfa\ud83c\uddf8 New York: 35\n\ud83c\udde8\ud83c\uddf3 Shanghai: 32\n\ud83c\uddec\ud83c\udde7 London: 28",
@@ -2767,5 +2292,66 @@
         "status": "posted",
         "tweet": "By 2026, 42% of Bitcoin's 18,000 full nodes run from \ud83c\uddfa\ud83c\uddf8 data centers, accounting for $420 million in annual infrastructural costs from hardware, electricity, and bandwidth. \n\nGlobal node distribution: \ud83c\uddfa\ud83c\uddf8 42%, \ud83c\udde9\ud83c\uddea 18%, \ud83c\uddeb\ud83c\uddf7 12%, others 28%.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnJ2WGFyRVVYd0dZeER6YW1wSGxDZW1nZ1BiaGFoUllGdUlPNEVwLTUzY19CanA4Tndwc245cW1NYmlvb0tUSVh3Z0huNDNXSWxCNktTX01MTko0SVROcE8ycFlTdS0tVHVLemQtSEtvSWRrbTJIS2RwNGVhVEVQbVMxWjl4R1c4clZOc1o2aTZVdTNjT1hUUmZYZEpheWlkSTNvRmpWZFQ1ekdfLTQ5R2Y3Ulh6akY4SGV6Z0I1R3pnejdrN0FUcGFlcjBWVG8?oc=5",
+        "date": "2026-02-02",
+        "title": "SpaceX to align space launch, satellite infrastructure and AI development under a single corporate strategy - space & defense",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnJ2WGFyRVVYd0dZeER6YW1wSGxDZW1nZ1BiaGFoUllGdUlPNEVwLTUzY19CanA4Tndwc245cW1NYmlvb0tUSVh3Z0huNDNXSWxCNktTX01MTko0SVROcE8ycFlTdS0tVHVLemQtSEtvSWRrbTJIS2RwNGVhVEVQbVMxWjl4R1c4clZOc1o2aTZVdTNjT1hUUmZYZEpheWlkSTNvRmpWZFQ1ekdfLTQ5R2Y3Ulh6akY4SGV6Z0I1R3pnejdrN0FUcGFlcjBWVG8?oc=5\" target=\"_blank\">SpaceX to align space launch, satellite infrastructure and AI development under a single corporate strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">space & defense</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkpDeGdRXzZOeXIwUnJoVjM2WDBBMFg0cVZsZWZjZ1hVMTVzNUp2aEpsVGVDYkpMS2pqVXhRUmpyWXNhN1pydzZ3c3R6Y0x0STVNZDgySDB6M19ielR5bVotVnphUXZVTjgtV1BQRi1UYjdaVm9wYWpaeXQyZU12MFJSNkRNdXhkbTNuTzAtNDB3YTZKUFFaSXJHcjBWcGUzZEdudUhOSU1fYVpoZlNTWWR3YkVhTGxZT2NlYTV3QUtUTExIZ095aQ?oc=5",
+        "date": "2026-02-02",
+        "title": "LEGISLATIVE ROUNDUP: DEP fights hunger in PA, invests $4.1M in food recovery infrastructure - Times Leader",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkpDeGdRXzZOeXIwUnJoVjM2WDBBMFg0cVZsZWZjZ1hVMTVzNUp2aEpsVGVDYkpMS2pqVXhRUmpyWXNhN1pydzZ3c3R6Y0x0STVNZDgySDB6M19ielR5bVotVnphUXZVTjgtV1BQRi1UYjdaVm9wYWpaeXQyZU12MFJSNkRNdXhkbTNuTzAtNDB3YTZKUFFaSXJHcjBWcGUzZEdudUhOSU1fYVpoZlNTWWR3YkVhTGxZT2NlYTV3QUtUTExIZ095aQ?oc=5\" target=\"_blank\">LEGISLATIVE ROUNDUP: DEP fights hunger in PA, invests $4.1M in food recovery infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times Leader</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDVFYkQwcFpLbTk2ZmdoVXBwT0FNeXRaUmVlTjJ2YkxpdWh1UldlQmpYMzRTekk2Z2JoNGh2RHNHN0hTZUpOOTVLYS1JS1NKeTVQdE5JamhpVnZnZlAyNDV0ZG44c0MyZE1PcTdvMFFWV0QzU0lBRkxKNm5yT2pNZHRQQWdrRTB3a0FrZzZ6X0staGZCa25xbmRHT0ktTDhXTGlmcw?oc=5",
+        "date": "2026-02-02",
+        "title": "It\u2019s time public toilets are treated as core urban infrastructure in Pakistan - Asia News Network",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDVFYkQwcFpLbTk2ZmdoVXBwT0FNeXRaUmVlTjJ2YkxpdWh1UldlQmpYMzRTekk2Z2JoNGh2RHNHN0hTZUpOOTVLYS1JS1NKeTVQdE5JamhpVnZnZlAyNDV0ZG44c0MyZE1PcTdvMFFWV0QzU0lBRkxKNm5yT2pNZHRQQWdrRTB3a0FrZzZ6X0staGZCa25xbmRHT0ktTDhXTGlmcw?oc=5\" target=\"_blank\">It\u2019s time public toilets are treated as core urban infrastructure in Pakistan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Asia News Network</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTnNvZ1JiYmpHaWw4N2hMVkN1dnA3ZTFRSDBQSElEcmF6NFlhRXFzbFN2dHAxdXBDSHB6VWFyUDdKWTRKSElsaElibFpqTU5vMG9DenpXakdHcExxY1BZVmhOYzhmMl80cEFLZ3VfSE5xMWR3UHV4Q2Y0ZlNkajd0MUlfS0rSAZgBQVVfeXFMTUNpV3BkR1l3M2xIVzR2SkYtQnFOeWpKZ19GeWZPa2E4bkxqYzcxbUM0XzJ5ckdidjlZNkRXSGpzUUpFdHRET2lfMFVFSDg3LXNPUXo3UkttdFlGcjh4V0pObmpMdHN1WUNGbjJad1ZqUHpIQ1dwbUhQSTlRYWNsUEw5M2JKZVdzSnNtR2lmQVc0cUZsWTBOTmU?oc=5",
+        "date": "2026-02-02",
+        "title": "Doosan E&C signs Seoul public redevelopment pact for Hong-eun 1 - CHOSUNBIZ - Chosunbiz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQTnNvZ1JiYmpHaWw4N2hMVkN1dnA3ZTFRSDBQSElEcmF6NFlhRXFzbFN2dHAxdXBDSHB6VWFyUDdKWTRKSElsaElibFpqTU5vMG9DenpXakdHcExxY1BZVmhOYzhmMl80cEFLZ3VfSE5xMWR3UHV4Q2Y0ZlNkajd0MUlfS0rSAZgBQVVfeXFMTUNpV3BkR1l3M2xIVzR2SkYtQnFOeWpKZ19GeWZPa2E4bkxqYzcxbUM0XzJ5ckdidjlZNkRXSGpzUUpFdHRET2lfMFVFSDg3LXNPUXo3UkttdFlGcjh4V0pObmpMdHN1WUNGbjJad1ZqUHpIQ1dwbUhQSTlRYWNsUEw5M2JKZVdzSnNtR2lmQVc0cUZsWTBOTmU?oc=5\" target=\"_blank\">Doosan E&amp;C signs Seoul public redevelopment pact for Hong-eun 1 - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddf0\ud83c\uddf7 NEWS: Doosan E&C signs Seoul public redevelopment pact for Hong-eun 1 district"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0JVdkFzVXpmLVI1NEhPZzk1bXhVZVlnUHFjSXZxZXc0S3haRlRaekl4N21ZTjFkc3FYbVh5dXBkOVV4eGtDOWpVd3RyX3dWa1BVc1JMWUs4eUh2dkJ4YTJUakJWZ1B3Z3h1a3ZWdmtFektjenhoQkVjWjJUR054cnNn?oc=5",
+        "date": "2026-02-02",
+        "title": "Why India needs smarter forests, not just more trees to fight urban heat - Counterview",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0JVdkFzVXpmLVI1NEhPZzk1bXhVZVlnUHFjSXZxZXc0S3haRlRaekl4N21ZTjFkc3FYbVh5dXBkOVV4eGtDOWpVd3RyX3dWa1BVc1JMWUs4eUh2dkJ4YTJUakJWZ1B3Z3h1a3ZWdmtFektjenhoQkVjWjJUR054cnNn?oc=5\" target=\"_blank\">Why India needs smarter forests, not just more trees to fight urban heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Counterview</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTnNvZ1JiYmpHaWw4N2hMVkN1dnA3ZTFRSDBQSElEcmF6NFlhRXFzbFN2dHAxdXBDSHB6VWFyUDdKWTRKSElsaElibFpqTU5vMG9DenpXakdHcExxY1BZVmhOYzhmMl80cEFLZ3VfSE5xMWR3UHV4Q2Y0ZlNkajd0MUlfS0rSAZgBQVVfeXFMTUNpV3BkR1l3M2xIVzR2SkYtQnFOeWpKZ19GeWZPa2E4bkxqYzcxbUM0XzJ5ckdidjlZNkRXSGpzUUpFdHRET2lfMFVFSDg3LXNPUXo3UkttdFlGcjh4V0pObmpMdHN1WUNGbjJad1ZqUHpIQ1dwbUhQSTlRYWNsUEw5M2JKZVdzSnNtR2lmQVc0cUZsWTBOTmU?oc=5",
+        "date": "2026-02-02",
+        "title": "Doosan E&C signs Seoul public redevelopment pact for Hong-eun 1 - CHOSUNBIZ - Chosunbiz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQTnNvZ1JiYmpHaWw4N2hMVkN1dnA3ZTFRSDBQSElEcmF6NFlhRXFzbFN2dHAxdXBDSHB6VWFyUDdKWTRKSElsaElibFpqTU5vMG9DenpXakdHcExxY1BZVmhOYzhmMl80cEFLZ3VfSE5xMWR3UHV4Q2Y0ZlNkajd0MUlfS0rSAZgBQVVfeXFMTUNpV3BkR1l3M2xIVzR2SkYtQnFOeWpKZ19GeWZPa2E4bkxqYzcxbUM0XzJ5ckdidjlZNkRXSGpzUUpFdHRET2lfMFVFSDg3LXNPUXo3UkttdFlGcjh4V0pObmpMdHN1WUNGbjJad1ZqUHpIQ1dwbUhQSTlRYWNsUEw5M2JKZVdzSnNtR2lmQVc0cUZsWTBOTmU?oc=5\" target=\"_blank\">Doosan E&amp;C signs Seoul public redevelopment pact for Hong-eun 1 - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf0\ud83c\uddf7 NEWS: Doosan E&C signs Seoul public redevelopment pact for Hong-eun 1 project",
+        "type": "news"
     }
 ]
