@@ -2373,5 +2373,12 @@
         "status": "posted",
         "tweet": "Bitcoin mining hash rate concentration drives ~$15B annual global energy costs (2026 est.), centered in few nations:\n\n1. \ud83c\uddfa\ud83c\uddf8 US: 38%\n2. \ud83c\uddf7\ud83c\uddfa Russia: 18%\n3. \ud83c\uddf0\ud83c\uddff Kazakhstan: 13%",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-02-03",
+        "status": "posted",
+        "tweet": "NVIDIA's global AI infrastructure hit 5 exaFLOPS peak compute in Q1 2026, powering 1M+ models daily.\n\n$NVDA",
+        "type": "infrastructure"
     }
 ]
