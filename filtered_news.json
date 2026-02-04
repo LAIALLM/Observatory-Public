@@ -2375,5 +2375,148 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddea NEWS: Dubai Municipality partners with Shenzhen\u2019s UPDIS to advance future-ready urban development for WGS 2026",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUzB2YzI4Y1d3cGpweGdrbl9tNmNiSklRYVVKbXhzTTlEal84TlNzY2dwX2tzM2dYY3BfV1FCNllud0FVUGdTOHhQSUdRLVZwM1NKb053cEQySmhEdkViWXgyb0JJUFh4Q3Zfa1NqcDdMV1l1RFk5Mnc3NXZIRGQ2OEozRVEzTEdCUFNLMDJCYi14Q1BmNWdkSkZwZXJzdW95dFc0?oc=5",
+        "date": "2026-02-04",
+        "title": "BUILD INTEC 2026 To Showcase Latest Trends In Construction Industry - afternoonnews.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQUzB2YzI4Y1d3cGpweGdrbl9tNmNiSklRYVVKbXhzTTlEal84TlNzY2dwX2tzM2dYY3BfV1FCNllud0FVUGdTOHhQSUdRLVZwM1NKb053cEQySmhEdkViWXgyb0JJUFh4Q3Zfa1NqcDdMV1l1RFk5Mnc3NXZIRGQ2OEozRVEzTEdCUFNLMDJCYi14Q1BmNWdkSkZwZXJzdW95dFc0?oc=5\" target=\"_blank\">BUILD INTEC 2026 To Showcase Latest Trends In Construction Industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">afternoonnews.in</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZFd6Q2xzRGlMeGNpTHB5eTBUOGJvSk9Xc0otMG1KaFFDcUtxemZ6d25sV0pKVnNEazA3cnc4VUVWajlNdFdYR2NUSHpvenozX0RaR09TdG9Mcld4WXRYOUllTzlCZjhkN3p1VTBra2VDbUtSZWVPSFZNZ0ZYU1dNWG0xUElVTGJ5djBwdkxuYzJzYW8wU0E?oc=5",
+        "date": "2026-02-04",
+        "title": "New Advanced Nuclear Framework to power AI - Planning, Building & Construction Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNZFd6Q2xzRGlMeGNpTHB5eTBUOGJvSk9Xc0otMG1KaFFDcUtxemZ6d25sV0pKVnNEazA3cnc4VUVWajlNdFdYR2NUSHpvenozX0RaR09TdG9Mcld4WXRYOUllTzlCZjhkN3p1VTBra2VDbUtSZWVPSFZNZ0ZYU1dNWG0xUElVTGJ5djBwdkxuYzJzYW8wU0E?oc=5\" target=\"_blank\">New Advanced Nuclear Framework to power AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Planning, Building & Construction Today</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "NEWS: New advanced nuclear framework unveiled to power AI data centers and boost energy efficiency."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYklwZDhkY2MzcDJiZklsdm9jTEctWkFucVdQaU5UT3lDdTZncGZkeWNFaVh6dlR4cjhtVi1ZbTItWmliQTBrbmo3M1RVQmQ3cVpwTzZaVkdxMzBrX0xmdXZqc2VlMVFXc0g3TVA0TUdNT2VlVlBzQnZod2FoendYaGdpR0R2RDZya1JGOGstcExaczBOQ1FZaTNubHU3RG0tbnh5dHZWVWZzSTYz?oc=5",
+        "date": "2026-02-04",
+        "title": "Select Board Supports Waterfront Infrastructure Projects - Cape Cod Chronicle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOYklwZDhkY2MzcDJiZklsdm9jTEctWkFucVdQaU5UT3lDdTZncGZkeWNFaVh6dlR4cjhtVi1ZbTItWmliQTBrbmo3M1RVQmQ3cVpwTzZaVkdxMzBrX0xmdXZqc2VlMVFXc0g3TVA0TUdNT2VlVlBzQnZod2FoendYaGdpR0R2RDZya1JGOGstcExaczBOQ1FZaTNubHU3RG0tbnh5dHZWVWZzSTYz?oc=5\" target=\"_blank\">Select Board Supports Waterfront Infrastructure Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cape Cod Chronicle</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcjh1NU52TUVIMjlDaXRwTnFUc1d4bEJzall1cDJCM0FxMmJpeC1mcEJHRU5HR2VaNlYzQ3lTZDdqd3JkTjd1V1V2R3VtSWl3OVMwWFl2NVRSSkRpSFA5YURGbFduNFBqcHlyVXZ2bndqYWlNdHFRY0R0d19jR2cxNHFIUE1CbnlMM3BQVGhILUpUc1ZQVzJPTFhEN05HS2R5R3E1THpTdFBHdFlyWlNwWXlVTTgwbUk2OFE?oc=5",
+        "date": "2026-02-04",
+        "title": "Power Sustainable closes first infrastructure credit strategy at $1bn - Alternative Credit Investor",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPcjh1NU52TUVIMjlDaXRwTnFUc1d4bEJzall1cDJCM0FxMmJpeC1mcEJHRU5HR2VaNlYzQ3lTZDdqd3JkTjd1V1V2R3VtSWl3OVMwWFl2NVRSSkRpSFA5YURGbFduNFBqcHlyVXZ2bndqYWlNdHFRY0R0d19jR2cxNHFIUE1CbnlMM3BQVGhILUpUc1ZQVzJPTFhEN05HS2R5R3E1THpTdFBHdFlyWlNwWXlVTTgwbUk2OFE?oc=5\" target=\"_blank\">Power Sustainable closes first infrastructure credit strategy at $1bn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alternative Credit Investor</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "NEWS: Power Sustainable closes its debut infrastructure credit strategy at $1bn"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX3hIOFNIVTJsdFZFN0NRX1lSQ0JYc0xDeTNGN3ZsR1h5aXAxSDRvbFI5V3dyQXZkbnJkd0RHc0VvN3V1TmZjWXgxdUl6MjdZOWUyLXBHTVRqN1ZiVmUzeXhpNTdIYnZXNzk1QW94Q1ZlTHkwYWtFZmFtRVJMQWh5UjZROGd0TmxIOFZENS0xQ3hwS3djYy1RbGxwb3E0TVNQSW9qcV84UHQ5RFE5TVRXc3BnekpnaHJlaXVkSVRTSTExYWpDeXhHeQ?oc=5",
+        "date": "2026-02-04",
+        "title": "Increased Marshall water, sewer rates take effect to support infrastructure upgrades - Marshall News Messenger",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX3hIOFNIVTJsdFZFN0NRX1lSQ0JYc0xDeTNGN3ZsR1h5aXAxSDRvbFI5V3dyQXZkbnJkd0RHc0VvN3V1TmZjWXgxdUl6MjdZOWUyLXBHTVRqN1ZiVmUzeXhpNTdIYnZXNzk1QW94Q1ZlTHkwYWtFZmFtRVJMQWh5UjZROGd0TmxIOFZENS0xQ3hwS3djYy1RbGxwb3E0TVNQSW9qcV84UHQ5RFE5TVRXc3BnekpnaHJlaXVkSVRTSTExYWpDeXhHeQ?oc=5\" target=\"_blank\">Increased Marshall water, sewer rates take effect to support infrastructure upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marshall News Messenger</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQenNMaFI2SEZsS2JoZTNpMjcxNnA0d2pvVVZTbFF6eE8teXNYbzRSU2NDUjFJNDNrc2JvQXNoV3pIa21RWjhod25RUi1tTFBHMEF2ejVmZ1UwV1hZaXVVYTYxSFZxWGRVYXVWMC1CQW56Y25JSXBVd2thVjFJZmExRm1GTnlQUVhTSUlqcFd0dmNIaUY0MmZoVmMySnBwRTJ3M01USw?oc=5",
+        "date": "2026-02-04",
+        "title": "First Trust unveils thematic ETF focused on European infrastructure - ETF Stream",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQenNMaFI2SEZsS2JoZTNpMjcxNnA0d2pvVVZTbFF6eE8teXNYbzRSU2NDUjFJNDNrc2JvQXNoV3pIa21RWjhod25RUi1tTFBHMEF2ejVmZ1UwV1hZaXVVYTYxSFZxWGRVYXVWMC1CQW56Y25JSXBVd2thVjFJZmExRm1GTnlQUVhTSUlqcFd0dmNIaUY0MmZoVmMySnBwRTJ3M01USw?oc=5\" target=\"_blank\">First Trust unveils thematic ETF focused on European infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETF Stream</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtdE0xNDFuU0NBcWMwVGNKcjBvN1M0MmpOZUJKYnFacDhWMS1MaE0tR19wQmV2T3cyUkZuMk1iN1ZyQVpZVGpDN0lPakZzTi1QOU04eG1UbHc?oc=5",
+        "date": "2026-02-04",
+        "title": "Hackers Actively Scan Citrix NetScaler Infrastructure to Identify Exposed Login Panels - Cyber Press",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtdE0xNDFuU0NBcWMwVGNKcjBvN1M0MmpOZUJKYnFacDhWMS1MaE0tR19wQmV2T3cyUkZuMk1iN1ZyQVpZVGpDN0lPakZzTi1QOU04eG1UbHc?oc=5\" target=\"_blank\">Hackers Actively Scan Citrix NetScaler Infrastructure to Identify Exposed Login Panels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cyber Press</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQW14SlJlZHdsdEZ4QS1HSDY1QnpvOEd1QUJFVzA2Z2pUUHJNelZRdzhCYUdNaEpXMUg1Tk9ucXQxenM5Mkp2bk1DR3ZjUktGN3l3anZ2NzVVX0NtUC1HQ29Sd25aYnhrV0dNUHMwOFBTeDJxTm1ZNUNsQWs5d185a1hUTncwbHJSYUx4Vk8xTGJsM2xQVXczay1XWjRwWHdwNlJFeXFFWGNfY1cwQW9WRnEzZTIzZ2Jpc3gw?oc=5",
+        "date": "2026-02-04",
+        "title": "UK invests in satellite timing infrastructure to strengthen national resilience - Satellite Evolution",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQW14SlJlZHdsdEZ4QS1HSDY1QnpvOEd1QUJFVzA2Z2pUUHJNelZRdzhCYUdNaEpXMUg1Tk9ucXQxenM5Mkp2bk1DR3ZjUktGN3l3anZ2NzVVX0NtUC1HQ29Sd25aYnhrV0dNUHMwOFBTeDJxTm1ZNUNsQWs5d185a1hUTncwbHJSYUx4Vk8xTGJsM2xQVXczay1XWjRwWHdwNlJFeXFFWGNfY1cwQW9WRnEzZTIzZ2Jpc3gw?oc=5\" target=\"_blank\">UK invests in satellite timing infrastructure to strengthen national resilience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Satellite Evolution</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: UK invests in satellite timing infrastructure to strengthen national resilience"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZEs0S2VFQm1DYnZDUkdtOU42bzhlSnJwWWpLZ3BGOGx5b0p0QlV0SVdrdlNNTlNKencyVFBJbXg1TWVrS2k4cFlMeDdDaFEwZVY3YWNPdy1fTmJZMWJiQlQ2ZGpPenZ1bDhndW05LU1pbkc4TXI5eDJqX0QzU1ZFY3ZUMUhtd0xiMjREbjM0Sy1JR29QTGh6ZTNTdXdmQmFsY0lQelEzUGJpSmFGYzE3R1hMbkhjTVpmajNB?oc=5",
+        "date": "2026-02-04",
+        "title": "Voyager outlines infrastructure-led roadmap for long-term US lunar presence - Space Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZEs0S2VFQm1DYnZDUkdtOU42bzhlSnJwWWpLZ3BGOGx5b0p0QlV0SVdrdlNNTlNKencyVFBJbXg1TWVrS2k4cFlMeDdDaFEwZVY3YWNPdy1fTmJZMWJiQlQ2ZGpPenZ1bDhndW05LU1pbkc4TXI5eDJqX0QzU1ZFY3ZUMUhtd0xiMjREbjM0Sy1JR29QTGh6ZTNTdXdmQmFsY0lQelEzUGJpSmFGYzE3R1hMbkhjTVpmajNB?oc=5\" target=\"_blank\">Voyager outlines infrastructure-led roadmap for long-term US lunar presence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Space Daily</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUVCRUpsMHZmQnZ1NUVGSDN3RFpTZEN6RFRDVEFpWmUzZjBkNFAxdXVPS2FYNDVld2cyUGJjX0xMUXlNVE8zbW83VVM0TDk1UUJqLUZmem9qQktQR2FzMERBRGI4Z2R6UGFTYlVfN0I5OHptQXVwU2ZVVnVob2QzTEtPcEhDWEZTTWJ2VA?oc=5",
+        "date": "2026-02-04",
+        "title": "Ukraine: attacks on energy infrastructure resume - eurotopics.net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUVCRUpsMHZmQnZ1NUVGSDN3RFpTZEN6RFRDVEFpWmUzZjBkNFAxdXVPS2FYNDVld2cyUGJjX0xMUXlNVE8zbW83VVM0TDk1UUJqLUZmem9qQktQR2FzMERBRGI4Z2R6UGFTYlVfN0I5OHptQXVwU2ZVVnVob2QzTEtPcEhDWEZTTWJ2VA?oc=5\" target=\"_blank\">Ukraine: attacks on energy infrastructure resume</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eurotopics.net</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ta1V0T2hhRkt0SHFqeWtFeFI4Z3BPR2hnekJHcnRBLTBDSWQ1Nk9vdzgxV3hGcXpvbUltcTlyRHpFajFCNEV6TjBpWkQyV2pLYlY4YXBFdVhEYm9lNFZFc3pTVHk0X2xxZHdURVJvMUQ?oc=5",
+        "date": "2026-02-04",
+        "title": "How central should religious buildings be to new town planning? - Financial Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ta1V0T2hhRkt0SHFqeWtFeFI4Z3BPR2hnekJHcnRBLTBDSWQ1Nk9vdzgxV3hGcXpvbUltcTlyRHpFajFCNEV6TjBpWkQyV2pLYlY4YXBFdVhEYm9lNFZFc3pTVHk0X2xxZHdURVJvMUQ?oc=5\" target=\"_blank\">How central should religious buildings be to new town planning?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZFd6Q2xzRGlMeGNpTHB5eTBUOGJvSk9Xc0otMG1KaFFDcUtxemZ6d25sV0pKVnNEazA3cnc4VUVWajlNdFdYR2NUSHpvenozX0RaR09TdG9Mcld4WXRYOUllTzlCZjhkN3p1VTBra2VDbUtSZWVPSFZNZ0ZYU1dNWG0xUElVTGJ5djBwdkxuYzJzYW8wU0E?oc=5",
+        "date": "2026-02-04",
+        "title": "New Advanced Nuclear Framework to power AI - Planning, Building & Construction Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNZFd6Q2xzRGlMeGNpTHB5eTBUOGJvSk9Xc0otMG1KaFFDcUtxemZ6d25sV0pKVnNEazA3cnc4VUVWajlNdFdYR2NUSHpvenozX0RaR09TdG9Mcld4WXRYOUllTzlCZjhkN3p1VTBra2VDbUtSZWVPSFZNZ0ZYU1dNWG0xUElVTGJ5djBwdkxuYzJzYW8wU0E?oc=5\" target=\"_blank\">New Advanced Nuclear Framework to power AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Planning, Building & Construction Today</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "NEWS: New advanced nuclear framework to power AI data centers.",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcjh1NU52TUVIMjlDaXRwTnFUc1d4bEJzall1cDJCM0FxMmJpeC1mcEJHRU5HR2VaNlYzQ3lTZDdqd3JkTjd1V1V2R3VtSWl3OVMwWFl2NVRSSkRpSFA5YURGbFduNFBqcHlyVXZ2bndqYWlNdHFRY0R0d19jR2cxNHFIUE1CbnlMM3BQVGhILUpUc1ZQVzJPTFhEN05HS2R5R3E1THpTdFBHdFlyWlNwWXlVTTgwbUk2OFE?oc=5",
+        "date": "2026-02-04",
+        "title": "Power Sustainable closes first infrastructure credit strategy at $1bn - Alternative Credit Investor",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPcjh1NU52TUVIMjlDaXRwTnFUc1d4bEJzall1cDJCM0FxMmJpeC1mcEJHRU5HR2VaNlYzQ3lTZDdqd3JkTjd1V1V2R3VtSWl3OVMwWFl2NVRSSkRpSFA5YURGbFduNFBqcHlyVXZ2bndqYWlNdHFRY0R0d19jR2cxNHFIUE1CbnlMM3BQVGhILUpUc1ZQVzJPTFhEN05HS2R5R3E1THpTdFBHdFlyWlNwWXlVTTgwbUk2OFE?oc=5\" target=\"_blank\">Power Sustainable closes first infrastructure credit strategy at $1bn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alternative Credit Investor</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "NEWS: Power Sustainable closes its debut infrastructure credit strategy at $1bn",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQW14SlJlZHdsdEZ4QS1HSDY1QnpvOEd1QUJFVzA2Z2pUUHJNelZRdzhCYUdNaEpXMUg1Tk9ucXQxenM5Mkp2bk1DR3ZjUktGN3l3anZ2NzVVX0NtUC1HQ29Sd25aYnhrV0dNUHMwOFBTeDJxTm1ZNUNsQWs5d185a1hUTncwbHJSYUx4Vk8xTGJsM2xQVXczay1XWjRwWHdwNlJFeXFFWGNfY1cwQW9WRnEzZTIzZ2Jpc3gw?oc=5",
+        "date": "2026-02-04",
+        "title": "UK invests in satellite timing infrastructure to strengthen national resilience - Satellite Evolution",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQW14SlJlZHdsdEZ4QS1HSDY1QnpvOEd1QUJFVzA2Z2pUUHJNelZRdzhCYUdNaEpXMUg1Tk9ucXQxenM5Mkp2bk1DR3ZjUktGN3l3anZ2NzVVX0NtUC1HQ29Sd25aYnhrV0dNUHMwOFBTeDJxTm1ZNUNsQWs5d185a1hUTncwbHJSYUx4Vk8xTGJsM2xQVXczay1XWjRwWHdwNlJFeXFFWGNfY1cwQW9WRnEzZTIzZ2Jpc3gw?oc=5\" target=\"_blank\">UK invests in satellite timing infrastructure to strengthen national resilience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Satellite Evolution</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: UK invests in satellite timing infrastructure to strengthen national resilience",
+        "type": "news"
     }
 ]
