@@ -2206,5 +2206,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-04",
+        "status": "posted",
+        "tweet": "By 2026, global electric vehicle sales will hit 20 million units annually, making up 35% of new car purchases and displacing 1.5 billion liters of gasoline daily.",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
