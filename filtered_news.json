@@ -2280,5 +2280,13 @@
         "status": "posted",
         "tweet": "Microsoft Azure data centers in \ud83c\uddfa\ud83c\uddf8 consume 2.5 GW of power daily for AI workloads in 2026.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-05",
+        "status": "posted",
+        "tweet": "By 2026, global EV sales will reach 21 million units annually.\n\nInternal combustion engine vehicle sales: 65 million units.\n\nEVs capture 24% market share, driving transport decarbonization.",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
