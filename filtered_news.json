@@ -2273,5 +2273,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: UK invests in satellite timing infrastructure to strengthen national resilience",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-05",
+        "status": "posted",
+        "tweet": "Microsoft Azure data centers in \ud83c\uddfa\ud83c\uddf8 consume 2.5 GW of power daily for AI workloads in 2026.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
