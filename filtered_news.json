@@ -2612,5 +2612,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddea NEWS: Dubai Municipality announces collaboration with architects Santiago Calatrava and Kengo Kuma in presence of Latifa bint Mohammed",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-05",
+        "status": "posted",
+        "tweet": "Bitcoin's annual electricity costs for mining surged from $0.5 billion in 2017 to $12 billion in 2025, a 24x increase driven by hash rate expansion from 5 EH/s to 600 EH/s. \n\nBy 2026, projections estimate $15 billion amid rising global energy prices.",
+        "type": "crypto"
     }
 ]
