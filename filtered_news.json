@@ -2486,5 +2486,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: Australia ramps up investments in Pacific infrastructure to boost regional ties.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-06",
+        "status": "posted",
+        "tweet": "Annual 2026 network scalability costs (USD billions for throughput maintenance):\n\n1. Bitcoin: $4.8 (PoW energy dominance)\n2. Ethereum: $1.5 (PoS validators + L2 infra)\n3. Solana: $0.7 (high-TPS node hardware)",
+        "type": "crypto"
     }
 ]
