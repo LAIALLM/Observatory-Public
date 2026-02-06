@@ -2664,5 +2664,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-06",
+        "status": "posted",
+        "tweet": "Meta's \ud83c\uddfa\ud83c\uddf8 Prineville data center cluster hit 2.5 zettaflops of AI compute capacity in 2026, powering 3.8 billion daily user interactions.\n\n$META",
+        "type": "infrastructure"
     }
 ]
