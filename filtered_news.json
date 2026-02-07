@@ -2655,5 +2655,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-07",
+        "status": "posted",
+        "tweet": "Microsoft's Azure infrastructure processed 12 zettabytes of data daily in 2026, supporting AI workloads across 60 regions.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
