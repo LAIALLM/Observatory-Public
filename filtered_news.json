@@ -2662,5 +2662,13 @@
         "status": "posted",
         "tweet": "Microsoft's Azure infrastructure processed 12 zettabytes of data daily in 2026, supporting AI workloads across 60 regions.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-07",
+        "status": "posted",
+        "tweet": "By 2026, the global smart cities market will reach $1.3 trillion, driven by IoT adoption in urban infrastructure.\n\nThis projection reflects a 15% CAGR from 2023 levels, optimizing traffic, energy, and waste management worldwide.",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
