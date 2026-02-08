@@ -2569,5 +2569,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-08",
+        "status": "posted",
+        "tweet": "Top 5 cities by projected urban population in 2030 (millions)\n\n\ud83c\uddef\ud83c\uddf5 Tokyo, Japan: 37\n\n\ud83c\uddee\ud83c\uddf3 Delhi, India: 36\n\n\ud83c\udde8\ud83c\uddf3 Shanghai, China: 35\n\n\ud83c\udde7\ud83c\udde9 Dhaka, Bangladesh: 27\n\n\ud83c\uddea\ud83c\uddec Cairo, Egypt: 25",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
