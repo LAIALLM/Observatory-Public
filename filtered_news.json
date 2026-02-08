@@ -2655,5 +2655,25 @@
         "status": "posted",
         "tweet": "Regulatory impacts on blockchain infrastructure costs, 2026\n\n1. \ud83c\uddfa\ud83c\uddf8 Bitcoin: EPA emissions rules hike US mining energy costs by 25%, totaling $1.2B annually.\n2. \ud83c\uddea\ud83c\uddfa Ethereum: MiCA data regs add 18% to EU validator compliance, $800M yearly.\n3. \ud83c\uddec\ud83c\udde7 Solana: UK green energy mandates rai",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmlRRnNzVU15SUdMWF9fWFN0bHRNLWQ1LUpZNTFLaEk4QnZqTHJyQnM1Zkw0VUpCbHoyaWJvb192UFZLQmpUdV91aWVSalJ5eE1fZjJ3T3EweXFRYnJjRmwyR0hUV1dYM3RkaE1OcEx4cUF0Wkt0VWVlUERfR0JQWW1OdUVCQUEyQkZFU0FGQmNXRExNQXB1Q3hyaVFETkp1dGY0Wlh2MHIxZw?oc=5",
+        "date": "2026-02-08",
+        "title": "Protecting the Hounspolder: Climate justice must guide De Hem development in Leeuwarden - Democracy in Europe Movement 2025",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmlRRnNzVU15SUdMWF9fWFN0bHRNLWQ1LUpZNTFLaEk4QnZqTHJyQnM1Zkw0VUpCbHoyaWJvb192UFZLQmpUdV91aWVSalJ5eE1fZjJ3T3EweXFRYnJjRmwyR0hUV1dYM3RkaE1OcEx4cUF0Wkt0VWVlUERfR0JQWW1OdUVCQUEyQkZFU0FGQmNXRExNQXB1Q3hyaVFETkp1dGY0Wlh2MHIxZw?oc=5\" target=\"_blank\">Protecting the Hounspolder: Climate justice must guide De Hem development in Leeuwarden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Democracy in Europe Movement 2025</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNFZfTkNWQmtPX3ViRTZQeDVfS0x4aldDb3pmNnpxcXZ6eEJuWU5kcHZKcDJud19KN3dNdGxFLUhZOTAwNE1zZGc0bGZFdkYxbmIzRXI1V0FJUDd6V3pjdXF5NFlRZGJqTUpHWEpXak1sajNvYjFLWGY3aEdQNVE3Vks0Ymdfa1BCWWlQNEJmWHhXenA5V0RkbzB2clQ4OFpUcFVTUXQzdlNTWVhZMU1IUlZR0gG3AUFVX3lxTE92Z09zbFVVa3puSUpkY0FSdElGX2YwTElNZkdTR0dqdEloSHh0YTV3SjViLWxiVmpkQ2hnQ3dWTklSQmpQeVVidm9vRkZmM3R5OE42bkRmZ0EtX3NiWVRRQVlmMkVQMnlvdnZjR0dXN1ZSdDdKUDNHQnBYOXpXbV9LS1A3YkRITzAtbERyVEhkUV9ZSlVQOU14eE4zVjhubTJ6dkc0N3BYMzhLSDZQdDNTTEp1S09HZw?oc=5",
+        "date": "2026-02-08",
+        "title": "TN launches new urban greening policy - Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNFZfTkNWQmtPX3ViRTZQeDVfS0x4aldDb3pmNnpxcXZ6eEJuWU5kcHZKcDJud19KN3dNdGxFLUhZOTAwNE1zZGc0bGZFdkYxbmIzRXI1V0FJUDd6V3pjdXF5NFlRZGJqTUpHWEpXak1sajNvYjFLWGY3aEdQNVE3Vks0Ymdfa1BCWWlQNEJmWHhXenA5V0RkbzB2clQ4OFpUcFVTUXQzdlNTWVhZMU1IUlZR0gG3AUFVX3lxTE92Z09zbFVVa3puSUpkY0FSdElGX2YwTElNZkdTR0dqdEloSHh0YTV3SjViLWxiVmpkQ2hnQ3dWTklSQmpQeVVidm9vRkZmM3R5OE42bkRmZ0EtX3NiWVRRQVlmMkVQMnlvdnZjR0dXN1ZSdDdKUDNHQnBYOXpXbV9LS1A3YkRITzAtbERyVEhkUV9ZSlVQOU14eE4zVjhubTJ6dkc0N3BYMzhLSDZQdDNTTEp1S09HZw?oc=5\" target=\"_blank\">TN launches new urban greening policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
