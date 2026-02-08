@@ -2628,5 +2628,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddff\ud83c\udde6 NEWS: R131 billion infrastructure pipeline in Western Cape set to create thousands of jobs",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVHprOFFaLWJhWlcxMnplWWlsbWZjYlYzZG9kYkx0Skh4M1FFcm5DMjVpR0lBVGE0b3JlbWZRYlhwWXRHdUV3LWtKYnJDSnBHTmxnTEl3XzZyUl9OMF9HcHhlc3JWTzEtRm5zRHFsbi1GOG1CYXcyUE92Znd6UEJFM0lTTFpPRmNjdkhEN0VBZHBWYlNCR2xMWFNKeFRldU9Jay1KaFotcHVKVjM4NG9QY0p2bG40VUxCQmlxcFVUSQ?oc=5",
+        "date": "2026-02-08",
+        "title": "Housing industry opposes plans to halt construction in Brussels' green areas - The Brussels Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQVHprOFFaLWJhWlcxMnplWWlsbWZjYlYzZG9kYkx0Skh4M1FFcm5DMjVpR0lBVGE0b3JlbWZRYlhwWXRHdUV3LWtKYnJDSnBHTmxnTEl3XzZyUl9OMF9HcHhlc3JWTzEtRm5zRHFsbi1GOG1CYXcyUE92Znd6UEJFM0lTTFpPRmNjdkhEN0VBZHBWYlNCR2xMWFNKeFRldU9Jay1KaFotcHVKVjM4NG9QY0p2bG40VUxCQmlxcFVUSQ?oc=5\" target=\"_blank\">Housing industry opposes plans to halt construction in Brussels' green areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Brussels Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FMUpadTZ2anhBUEJyVHlxc2N2TWttN21ILU1kbTJicDVFMC03NDBTUkZ3cEZOVmUxRnN2eGtTeWtqMXNuY3JfTnY4OVprM3lLNGV2VGdUOGpqekE1bl95TURpRl9EeDNtN1JyUERfQW5vTWJwN2NoSQ?oc=5",
+        "date": "2026-02-08",
+        "title": "EQT\u2019s Korea infrastructure chief Suh Sang-jun leaves company in leadership shake-up - KED Global",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1FMUpadTZ2anhBUEJyVHlxc2N2TWttN21ILU1kbTJicDVFMC03NDBTUkZ3cEZOVmUxRnN2eGtTeWtqMXNuY3JfTnY4OVprM3lLNGV2VGdUOGpqekE1bl95TURpRl9EeDNtN1JyUERfQW5vTWJwN2NoSQ?oc=5\" target=\"_blank\">EQT\u2019s Korea infrastructure chief Suh Sang-jun leaves company in leadership shake-up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KED Global</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
