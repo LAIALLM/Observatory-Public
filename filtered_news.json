@@ -2648,5 +2648,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-08",
+        "status": "posted",
+        "tweet": "Regulatory impacts on blockchain infrastructure costs, 2026\n\n1. \ud83c\uddfa\ud83c\uddf8 Bitcoin: EPA emissions rules hike US mining energy costs by 25%, totaling $1.2B annually.\n2. \ud83c\uddea\ud83c\uddfa Ethereum: MiCA data regs add 18% to EU validator compliance, $800M yearly.\n3. \ud83c\uddec\ud83c\udde7 Solana: UK green energy mandates rai",
+        "type": "crypto"
     }
 ]
