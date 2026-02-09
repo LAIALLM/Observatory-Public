@@ -2277,5 +2277,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Bitcoin's PoW infrastructure incurs $4.2B in 2026 regulatory costs for carbon emissions compliance across US data centers.\n\n\ud83c\uddea\ud83c\uddfa Ethereum's PoS network faces $0.8B, a 81% reduction, due to lower energy demands under EU green mandates.\n\nComparison highlights regulatory burden on ",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-02-09",
+        "status": "posted",
+        "tweet": "Meta's global data centers processed 8.5 zettabytes of data in 2026, up 25% from 2025.\n\n$META",
+        "type": "infrastructure"
     }
 ]
