@@ -2253,5 +2253,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfb\ud83c\uddf3 NEWS: G42 partners with Vietnamese consortium to build national AI infrastructure",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-10",
+        "status": "posted",
+        "tweet": "Alphabet's data centers in \ud83c\uddfa\ud83c\uddf8 processed 12 exabytes daily in 2026, supporting 8.5 billion searches.\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
