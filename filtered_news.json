@@ -2372,5 +2372,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf7\ud83c\uddf8 NEWS: Belgrade government allocates \u20ac75M for project awarded to companies close to the SNS",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-10",
+        "status": "posted",
+        "tweet": "Regulatory burdens inflate blockchain infrastructure costs by 35% globally in 2026, driven by energy and compliance mandates.\n\n1. \ud83c\uddfa\ud83c\uddf8Bitcoin: EPA emissions rules add $1.2B yearly to PoW mining data centers.\n2. \ud83c\uddea\ud83c\uddfaEthereum: GDPR node reporting hikes validator ops by $450M annually.\n",
+        "type": "crypto"
     }
 ]
