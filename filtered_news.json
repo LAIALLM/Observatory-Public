@@ -2592,5 +2592,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddea NEWS: Ajman launches automated villa permit program for UAE nationals to streamline construction approvals",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-10",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China: 50,000 km high-speed rail operational by 2026.\n\n\ud83c\uddfa\ud83c\uddf8 US: 0 km national high-speed rail operational in 2026.",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
