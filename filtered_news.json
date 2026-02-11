@@ -2351,5 +2351,12 @@
         "status": "posted",
         "tweet": "Bitcoin's PoW mining hardware costs $4,500 per ASIC unit in 2026, with network-wide capex exceeding $2B annually for upgrades.\n\nEthereum's PoS validator hardware: $1,200 per node, total network spend under $500M yearly.\n\nBTC's energy-intensive rigs drive 4x higher hardware outlay",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-02-11",
+        "status": "posted",
+        "tweet": "Microsoft's global data centers now handle 15 exabytes of AI workloads daily, up 40% from 2025.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
