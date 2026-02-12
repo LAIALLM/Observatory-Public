@@ -2732,5 +2732,12 @@
         "status": "posted",
         "tweet": "By 2026, 65% of Ethereum nodes will cluster in \ud83c\uddfa\ud83c\uddf8 and \ud83c\udde9\ud83c\uddea data centers, driving network infrastructural costs to $1.2B annually in hardware and energy.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-02-12",
+        "status": "posted",
+        "tweet": "NVIDIA's \ud83c\uddfa\ud83c\uddf8 US-based AI data centers achieved 99.8% uptime while processing 15 petabytes of inference data daily in Q2 2026.\n\n$NVDA",
+        "type": "infrastructure"
     }
 ]
