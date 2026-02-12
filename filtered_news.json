@@ -2725,5 +2725,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Gujarat develops 131 urban gardens under AMRUT 2.0 initiative to boost green spaces in cities.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-12",
+        "status": "posted",
+        "tweet": "By 2026, 65% of Ethereum nodes will cluster in \ud83c\uddfa\ud83c\uddf8 and \ud83c\udde9\ud83c\uddea data centers, driving network infrastructural costs to $1.2B annually in hardware and energy.",
+        "type": "crypto"
     }
 ]
