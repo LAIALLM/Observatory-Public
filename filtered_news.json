@@ -2796,5 +2796,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddeb\ud83c\uddf7 NEWS: Reju selects Lacq site for French regeneration hub, advancing Europes circular textile infrastructure",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-13",
+        "status": "posted",
+        "tweet": "World urban population in 2026: 4.5 billion (58% of total).\n\nBy 2050: 6.8 billion (68%), demanding $90 trillion in infrastructure investment.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
