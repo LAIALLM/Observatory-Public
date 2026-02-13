@@ -2674,5 +2674,25 @@
         "status": "posted",
         "tweet": "NVIDIA's \ud83c\uddfa\ud83c\uddf8 US-based AI data centers achieved 99.8% uptime while processing 15 petabytes of inference data daily in Q2 2026.\n\n$NVDA",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdDVFcktqZGxiYndSeWJuSkNyVGtFa3kyZ1JaVmlWekg3a1Zvd005ckFqenpSMENWWmJuWllwZ0dLUGhxblFyLUZBYWRyRWRtdVZsUG9veFo2RUVfdTB2bS14Q1VIVGhWRTFpZkx1Q1dnZlhPQklhdEt6cW9ndHJpNnV1UEJJQ1NkSFNEOFNMUkVlY2tZS1JUVi0wUW5TQ3AyZzZ5d2RwLXZuUzZab3NwUHByZWJ0T2VNOEhtT3Q4dGpxV0IzSXFHMTIzWWE4blBP?oc=5",
+        "date": "2026-02-13",
+        "title": "nVent Electric Expands Infrastructure Focus With Acquisition Pipeline Under Scrutiny - simplywall.st",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdDVFcktqZGxiYndSeWJuSkNyVGtFa3kyZ1JaVmlWekg3a1Zvd005ckFqenpSMENWWmJuWllwZ0dLUGhxblFyLUZBYWRyRWRtdVZsUG9veFo2RUVfdTB2bS14Q1VIVGhWRTFpZkx1Q1dnZlhPQklhdEt6cW9ndHJpNnV1UEJJQ1NkSFNEOFNMUkVlY2tZS1JUVi0wUW5TQ3AyZzZ5d2RwLXZuUzZab3NwUHByZWJ0T2VNOEhtT3Q4dGpxV0IzSXFHMTIzWWE4blBP?oc=5\" target=\"_blank\">nVent Electric Expands Infrastructure Focus With Acquisition Pipeline Under Scrutiny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONlVWSExjdndNVDJGdEk4Vkx4Ml90aWlkTEhLbncwc1dVYmlsWVBQbFRVZTZvUlB2bXczQldGMllsb3dlOS03NzhpUG1xOTdIX2JnX21zM2M2Y2FCUTB3X2JqSTY0ZlY5YUtOSGZzYzVPcV9nVHItbWMteW1Td0o4OEFzRl8wNFgyZk0xdFRXQQ?oc=5",
+        "date": "2026-02-13",
+        "title": "Preparing for the agentic AI infrastructure shift - Frontier Enterprise",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxONlVWSExjdndNVDJGdEk4Vkx4Ml90aWlkTEhLbncwc1dVYmlsWVBQbFRVZTZvUlB2bXczQldGMllsb3dlOS03NzhpUG1xOTdIX2JnX21zM2M2Y2FCUTB3X2JqSTY0ZlY5YUtOSGZzYzVPcV9nVHItbWMteW1Td0o4OEFzRl8wNFgyZk0xdFRXQQ?oc=5\" target=\"_blank\">Preparing for the agentic AI infrastructure shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frontier Enterprise</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
