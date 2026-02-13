@@ -2976,5 +2976,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf4 NEWS: Colombian infrastructure groups secure loan to fund Ecopetrol LNG supply $EC",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-13",
+        "status": "posted",
+        "tweet": "Alphabet's \ud83c\uddfa\ud83c\uddf8 data centers processed 18 exabytes daily in 2026.\n\nEfficiency: 95% renewable energy usage.\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
