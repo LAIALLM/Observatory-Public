@@ -2723,5 +2723,35 @@
         "status": "posted",
         "tweet": "By 2026, 65% of Bitcoin's global hashrate will concentrate in \ud83c\uddfa\ud83c\uddf8US and \ud83c\udde8\ud83c\udde6Canada, driving annual mining infrastructure costs to $18 billion from surging energy and cooling demands.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbG9BNWNjRDEwNi1zTlVUdS04ZS1Bckx2Z1lRTXRsMDFicjhSay1aWGNJcXd0QTBzVDEtaXRSQmUxNTRaRjNXT3lRbWh3b1ZVTTNqWm1UdENVdEVLRG1OUWFaZnh0ZkMyR3ZsclNHX3liZko4TW4tRlBqZTF0LWtZM09hdUFGa2RnZ2hLMzFqUQ?oc=5",
+        "date": "2026-02-14",
+        "title": "Israel's NIS 7b. airport and its infrastructure problem - The Jerusalem Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPbG9BNWNjRDEwNi1zTlVUdS04ZS1Bckx2Z1lRTXRsMDFicjhSay1aWGNJcXd0QTBzVDEtaXRSQmUxNTRaRjNXT3lRbWh3b1ZVTTNqWm1UdENVdEVLRG1OUWFaZnh0ZkMyR3ZsclNHX3liZko4TW4tRlBqZTF0LWtZM09hdUFGa2RnZ2hLMzFqUQ?oc=5\" target=\"_blank\">Israel's NIS 7b. airport and its infrastructure problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMWoxRVNvdm5jS1R5clZ5Z1QyRHluakN6MGFvSFptbmVlVk9lYll3d3JlUXNtTjBWTlhReFR5MFRIVWMxa2I5VzBmN1FmSEtmaW4wRzlKS0xraksyam5NQllPZE9kZk90dlFhU2dJaFB1eDRYbGQwb3BNbnJDbklBUDA4LXpOODNXUjE2RnpmS1dTLW1qUVctMzNVTW9ybWNjdmgwaEFBT2Q4M05DU1NKZndjWTlmbFp3TkZ5MUJTREw5M3lneU9XRTdmYXAybkVXdjg5VUdZNA?oc=5",
+        "date": "2026-02-14",
+        "title": "Thrivent Financial for Lutherans Lowers Holdings in XPLR Infrastructure, LP $XIFR - MarketBeat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMWoxRVNvdm5jS1R5clZ5Z1QyRHluakN6MGFvSFptbmVlVk9lYll3d3JlUXNtTjBWTlhReFR5MFRIVWMxa2I5VzBmN1FmSEtmaW4wRzlKS0xraksyam5NQllPZE9kZk90dlFhU2dJaFB1eDRYbGQwb3BNbnJDbklBUDA4LXpOODNXUjE2RnpmS1dTLW1qUVctMzNVTW9ybWNjdmgwaEFBT2Q4M05DU1NKZndjWTlmbFp3TkZ5MUJTREw5M3lneU9XRTdmYXAybkVXdjg5VUdZNA?oc=5\" target=\"_blank\">Thrivent Financial for Lutherans Lowers Holdings in XPLR Infrastructure, LP $XIFR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEx5b1ZORldZMDFrT1FRTXBZdEIxc1RwbFozY0dVdTlLYlFkbDd0UkNRNXA0TTJWMVAxY0kyNFZRUU0waS16OGVNWTFyamhVZWZZOWN4c2NrV2d0QW9ZYktKT0JwZnBScnFncG1vX1B6RFBIZ21VMTB2TFVnS0V5SDlweDVZdDJQYlNDQXdRUkQ3S2dlTjY2QnZjZXNMdzA0azhDeFRpWDBxd3dWOVJXXzRNVzQ?oc=5",
+        "date": "2026-02-14",
+        "title": "Charging Demand Is Growing, But Charging Infrastructure Isn't Keeping Up - Yahoo Autos",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEx5b1ZORldZMDFrT1FRTXBZdEIxc1RwbFozY0dVdTlLYlFkbDd0UkNRNXA0TTJWMVAxY0kyNFZRUU0waS16OGVNWTFyamhVZWZZOWN4c2NrV2d0QW9ZYktKT0JwZnBScnFncG1vX1B6RFBIZ21VMTB2TFVnS0V5SDlweDVZdDJQYlNDQXdRUkQ3S2dlTjY2QnZjZXNMdzA0azhDeFRpWDBxd3dWOVJXXzRNVzQ?oc=5\" target=\"_blank\">Charging Demand Is Growing, But Charging Infrastructure Isn't Keeping Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Autos</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
