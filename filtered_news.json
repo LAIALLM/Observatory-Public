@@ -2661,5 +2661,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-14",
+        "status": "posted",
+        "tweet": "Meta Platforms' hyperscale data centers in \ud83c\uddfa\ud83c\uddf8Virginia processed 8 exabytes of data per day in 2026, achieving 1.15 PUE efficiency.\n\n$META",
+        "type": "infrastructure"
     }
 ]
