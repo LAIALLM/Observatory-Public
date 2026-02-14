@@ -2708,5 +2708,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-14",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 By 2026, the US will invest $550 billion in infrastructure under the IIJA, including 20,000 miles of new roads and 10,000 bridges repaired or replaced.",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
