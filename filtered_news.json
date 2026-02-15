@@ -2611,5 +2611,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Tripura Chief Minister reviews Agartala Smart City projects, urging faster completion while ensuring quality standards.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-15",
+        "status": "posted",
+        "tweet": "Top 5 cities for infrastructure quality in 2026\n\n1. \ud83c\uddf8\ud83c\uddec Singapore/Singapore\n2. \ud83c\udde8\ud83c\udded Zurich/Switzerland\n3. \ud83c\uddef\ud83c\uddf5 Tokyo/Japan\n4. \ud83c\uddf0\ud83c\uddf7 Seoul/South Korea\n5. \ud83c\uddf3\ud83c\uddf1 Amsterdam/Netherlands",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
