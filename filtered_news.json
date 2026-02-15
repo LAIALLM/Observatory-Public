@@ -2619,5 +2619,45 @@
         "tweet": "Top 5 cities for infrastructure quality in 2026\n\n1. \ud83c\uddf8\ud83c\uddec Singapore/Singapore\n2. \ud83c\udde8\ud83c\udded Zurich/Switzerland\n3. \ud83c\uddef\ud83c\uddf5 Tokyo/Japan\n4. \ud83c\uddf0\ud83c\uddf7 Seoul/South Korea\n5. \ud83c\uddf3\ud83c\uddf1 Amsterdam/Netherlands",
         "type": "statistical",
         "category": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSzJaM1lFN24tRnJiU0E5X0stOG1FX1hBODFtTlAydHRKLXN4OGo0c01zcFdzcUQ2OEwtaWxzVWpTd1diRW5pRmptSTRka1NYb3dtaTd6Rk05VTY1dUR5eGgxU3lPLVd0SmZGNjFSeWhURC03QjhKc1Y1LTB2WVhQNWxrQXh4MkJTSWYycEFkRVUyM3gy?oc=5",
+        "date": "2026-02-15",
+        "title": "Construction Industry Added 33,000 Jobs in January - FloorDaily.net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSzJaM1lFN24tRnJiU0E5X0stOG1FX1hBODFtTlAydHRKLXN4OGo0c01zcFdzcUQ2OEwtaWxzVWpTd1diRW5pRmptSTRka1NYb3dtaTd6Rk05VTY1dUR5eGgxU3lPLVd0SmZGNjFSeWhURC03QjhKc1Y1LTB2WVhQNWxrQXh4MkJTSWYycEFkRVUyM3gy?oc=5\" target=\"_blank\">Construction Industry Added 33,000 Jobs in January</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FloorDaily.net</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3pESkdhVDlNNEdVeGhJMnc2UHBkcHUtUmsyX1NwOVB5VFItZTZWcUszdEVHcnM3QmlNbWZpcUNsNVNRRFNtSkVWdnQyM0ZqbnlaMHZyX0N5bHc4MWh4RVNCNFlnbWVnWDlpV0FUaEFkNlBXSzN3aVc1U1NTUkdIRWltTmsyQkhYODMzUmZ5cVd1ZWprNHBB?oc=5",
+        "date": "2026-02-15",
+        "title": "How Cisco Boosts AI Data Centres with New Infrastructure - Data Centre Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3pESkdhVDlNNEdVeGhJMnc2UHBkcHUtUmsyX1NwOVB5VFItZTZWcUszdEVHcnM3QmlNbWZpcUNsNVNRRFNtSkVWdnQyM0ZqbnlaMHZyX0N5bHc4MWh4RVNCNFlnbWVnWDlpV0FUaEFkNlBXSzN3aVc1U1NTUkdIRWltTmsyQkhYODMzUmZ5cVd1ZWprNHBB?oc=5\" target=\"_blank\">How Cisco Boosts AI Data Centres with New Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Centre Magazine</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb01xRkFDZVZHS0VVV2dQUC1VVEZmU2RKSGs5SHo0NVR0MkhMcjI5M1NFVmRIT0l1dGhzY3FQb056ZUFYWnkta1FPN3EzTE0za2RuMW05cW5EMTNrTG1IWWhfZDBhbC1icVpJcDZXX0lIX2V0ZnBPamczc1JiLUQ1UlNoQm1fNVl5SVNzUUhoNEd2NUZvblo0YjhvUUxYMzg1cWkzVjBvVjhtcHNTRUw1akQ0M2c3SGZfZFdhbzZha1AwaWJzV2tITU5zYnl5cE04YWNCTldiaw?oc=5",
+        "date": "2026-02-15",
+        "title": "AI-Driven Power Demand Highlights Permitting Risks for Infrastructure and Data Center Growth - TipRanks",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb01xRkFDZVZHS0VVV2dQUC1VVEZmU2RKSGs5SHo0NVR0MkhMcjI5M1NFVmRIT0l1dGhzY3FQb056ZUFYWnkta1FPN3EzTE0za2RuMW05cW5EMTNrTG1IWWhfZDBhbC1icVpJcDZXX0lIX2V0ZnBPamczc1JiLUQ1UlNoQm1fNVl5SVNzUUhoNEd2NUZvblo0YjhvUUxYMzg1cWkzVjBvVjhtcHNTRUw1akQ0M2c3SGZfZFdhbzZha1AwaWJzV2tITU5zYnl5cE04YWNCTldiaw?oc=5\" target=\"_blank\">AI-Driven Power Demand Highlights Permitting Risks for Infrastructure and Data Center Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOTzVkOHNXbXVRbE9mV2ZITEw3QzB3QUUyRkZHUlR1R24xYktHRHFLWFc4LTNQVldKYkF1YkNadlJKblpSLVlhN2JZTEpWaG9UZHU2NWItVGFhWEhHVmQ2TWphWHhZa2tDcS1kMU5qY2syQ1haN3hqOGRqdWo4WmdDNGZTVHMwdlI0Qkk0Zkt2aEVuQlBGLUNuZEloSmNRT1BxMHlQOTdIdV96Vk9ucTJKTk11NkRuaEJuNEl6aUFYdUNRUmEtU3Q0OGNaZW5wTmkzUkFDWm1vdnhTNzZDeF9xem56YnJjX2xiQ05NODlWOTVQUHlON1VXM2ZlX0d6U0tXN0xzUEJnN09ycVpUbWc?oc=5",
+        "date": "2026-02-15",
+        "title": "Egypt and Qatar\u2019s Vision for 2030 Collaborative Efforts in Tourism Urban Infrastructure and Transport to Boost Global Competitiveness - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxOTzVkOHNXbXVRbE9mV2ZITEw3QzB3QUUyRkZHUlR1R24xYktHRHFLWFc4LTNQVldKYkF1YkNadlJKblpSLVlhN2JZTEpWaG9UZHU2NWItVGFhWEhHVmQ2TWphWHhZa2tDcS1kMU5qY2syQ1haN3hqOGRqdWo4WmdDNGZTVHMwdlI0Qkk0Zkt2aEVuQlBGLUNuZEloSmNRT1BxMHlQOTdIdV96Vk9ucTJKTk11NkRuaEJuNEl6aUFYdUNRUmEtU3Q0OGNaZW5wTmkzUkFDWm1vdnhTNzZDeF9xem56YnJjX2xiQ05NODlWOTVQUHlON1VXM2ZlX0d6U0tXN0xzUEJnN09ycVpUbWc?oc=5\" target=\"_blank\">Egypt and Qatar\u2019s Vision for 2030 Collaborative Efforts in Tourism Urban Infrastructure and Transport to Boost Global Competitiveness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
