@@ -2767,5 +2767,12 @@
         "status": "posted",
         "tweet": "2026 energy cost per million transactions (USD, at $0.10/kWh):\n\n1. Solana: $0.20  \n2. Ethereum: $2.50  \n3. Bitcoin: $82,000",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-02-15",
+        "status": "posted",
+        "tweet": "Meta's global data centers processed 2.1 exabytes daily in 2026, up 45% from 2025.\n\n$META",
+        "type": "infrastructure"
     }
 ]
