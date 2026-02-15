@@ -2760,5 +2760,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf3\ud83c\uddec NEWS: Federal Government to deliver 4,000 housing units across 15 states.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-15",
+        "status": "posted",
+        "tweet": "2026 energy cost per million transactions (USD, at $0.10/kWh):\n\n1. Solana: $0.20  \n2. Ethereum: $2.50  \n3. Bitcoin: $82,000",
+        "type": "crypto"
     }
 ]
