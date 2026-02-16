@@ -2479,5 +2479,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf5\ud83c\udded NEWS: Marcos announces over 400K housing units delivered since July 2022",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-16",
+        "status": "posted",
+        "tweet": "By 2026, global urban population will reach 4.4 billion,  \n57% of world total\u2014driving 75% of energy use and 70% of CO2 emissions.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
