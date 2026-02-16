@@ -2626,5 +2626,12 @@
         "status": "posted",
         "tweet": "Regulatory costs of blockchain ops hit $X bn in 2026 due to energy & compliance rules, driving infra shifts.\n\n1. \ud83c\udde8\ud83c\uddf3 Bitcoin: $2.5B relocation fees post-2021 ban, 40% global hash rate exodus.\n2. \ud83c\uddfa\ud83c\uddf8 Ethereum: $800M PoS compliance audits under SEC, 25% infra cost hike.\n3. \ud83c\uddfa\ud83c\uddf8 Solana:",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-02-16",
+        "status": "posted",
+        "tweet": "Tesla Gigafactory \ud83c\udde8\ud83c\uddf3Shanghai output: 1.2 million EV battery cells daily in 2026, efficiency at 98% yield. $TSLA",
+        "type": "infrastructure"
     }
 ]
