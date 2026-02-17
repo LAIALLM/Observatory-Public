@@ -1,178 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-02-07",
-        "status": "posted",
-        "tweet": "Microsoft's Azure infrastructure processed 12 zettabytes of data daily in 2026, supporting AI workloads across 60 regions.\n\n$MSFT",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-02-07",
-        "status": "posted",
-        "tweet": "By 2026, the global smart cities market will reach $1.3 trillion, driven by IoT adoption in urban infrastructure.\n\nThis projection reflects a 15% CAGR from 2023 levels, optimizing traffic, energy, and waste management worldwide.",
-        "type": "statistical",
-        "category": "smart cities"
-    },
-    {
-        "link": null,
-        "date": "2026-02-07",
-        "status": "posted",
-        "tweet": "By 2026, Solana's network scalability push to 100,000 TPS will require validators to invest $3.2 billion annually in high-performance hardware and cooling, up 150% from 2023 levels.",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdExoS2JUREpvN3NXNjQ4bW0ydlBCTGdsYUZlVVJ6d1BjbHRJdHp1QXY5ejhjZHpHcG9EZlZuSlI3anlta2ZxQ042OHNVNFNMaXdYTDJtX2ZuZ2F3dXc0ZWtJemZDSjV1cDcxd1NCdmpWT1U1UTgtd255Sm01NTJDU0tFNEhXN0hoV0dJ?oc=5",
-        "date": "2026-02-07",
-        "title": "The AI boom is so huge it\u2019s causing shortages everywhere else - The Washington Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdExoS2JUREpvN3NXNjQ4bW0ydlBCTGdsYUZlVVJ6d1BjbHRJdHp1QXY5ejhjZHpHcG9EZlZuSlI3anlta2ZxQ042OHNVNFNMaXdYTDJtX2ZuZ2F3dXc0ZWtJemZDSjV1cDcxd1NCdmpWT1U1UTgtd255Sm01NTJDU0tFNEhXN0hoV0dJ?oc=5\" target=\"_blank\">The AI boom is so huge it\u2019s causing shortages everywhere else</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUg3MXVEaXlQRWdDbTJ1SDhURDU5d3RWZEQ5cjJQSjF1RUl6N200b25xYkZHejlzRUV0WXVfenVNcExQREJ6dERnR21Fcl95cFpCU01EdEhJakR4RFAxc1lBVEpsN0F2X1NsZWZYbTd4blY5eEgtdFJ6SXV2OHg0QTdOLTNiZ2I2aHRHWEREQ0ZIaTlzVUFXMkplaw?oc=5",
-        "date": "2026-02-07",
-        "title": "Hack-Proofing Our Space Infrastructure - RealClearDefense",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUg3MXVEaXlQRWdDbTJ1SDhURDU5d3RWZEQ5cjJQSjF1RUl6N200b25xYkZHejlzRUV0WXVfenVNcExQREJ6dERnR21Fcl95cFpCU01EdEhJakR4RFAxc1lBVEpsN0F2X1NsZWZYbTd4blY5eEgtdFJ6SXV2OHg0QTdOLTNiZ2I2aHRHWEREQ0ZIaTlzVUFXMkplaw?oc=5\" target=\"_blank\">Hack-Proofing Our Space Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RealClearDefense</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTl95VllYZ3RNVXBkTnlXM0JUejJFblN3bFdidzlIYkdKcTlSRGl3aFRCdWh5bG9uQXlId2pVVk0wU2puMll0UFk5LU12Nk5FbXJubXRydzRnaHdHc3BSYjFjRlBYNEctM0NfMFBneG8zZ3ZiTFhyNTNGVnc0c3A5bGwyWm1hMTFfYzVoNzZjR3BKNTBUNlE?oc=5",
-        "date": "2026-02-07",
-        "title": "Ukraine War, Day 1,444: \"Massive\" Russian Attack on Energy Infrastructure - EA WorldView",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQTl95VllYZ3RNVXBkTnlXM0JUejJFblN3bFdidzlIYkdKcTlSRGl3aFRCdWh5bG9uQXlId2pVVk0wU2puMll0UFk5LU12Nk5FbXJubXRydzRnaHdHc3BSYjFjRlBYNEctM0NfMFBneG8zZ3ZiTFhyNTNGVnc0c3A5bGwyWm1hMTFfYzVoNzZjR3BKNTBUNlE?oc=5\" target=\"_blank\">Ukraine War, Day 1,444: \"Massive\" Russian Attack on Energy Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EA WorldView</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkYzLUE3NklYMWxjVWU3R1d0X0FZX0c2ZU5KRE45S0VwUXNYeVlrcW9wWVRpdTVBOXVhd0doMkVmeTdMOFhncDBtejZqMEoxeV9mU3ZLRW9vMlU0Q3hCWG9UQUtKZkpEVVpGREhVMzhkNE05QjJIdFI5c1JOQjRSWUlVOU4zNGN5OTd6VFJVSnQ5RmRhYjlsSHhZTjBOMzg0eWJvdXl6WUJZZmozSXhBU1JMMW5oVGZrWTRJ?oc=5",
-        "date": "2026-02-07",
-        "title": "Smithsburg Council celebrates grant for infrastructure improvements - Trending Now Infrastructure",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkYzLUE3NklYMWxjVWU3R1d0X0FZX0c2ZU5KRE45S0VwUXNYeVlrcW9wWVRpdTVBOXVhd0doMkVmeTdMOFhncDBtejZqMEoxeV9mU3ZLRW9vMlU0Q3hCWG9UQUtKZkpEVVpGREhVMzhkNE05QjJIdFI5c1JOQjRSWUlVOU4zNGN5OTd6VFJVSnQ5RmRhYjlsSHhZTjBOMzg0eWJvdXl6WUJZZmozSXhBU1JMMW5oVGZrWTRJ?oc=5\" target=\"_blank\">Smithsburg Council celebrates grant for infrastructure improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trending Now Infrastructure</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR1o3eFJOblpiZzJRaE9YLTlsVTN4OUFFclZJTDJZbnN6SmFEQmVIOC00Q1pRakE1Zld2dVhBbldybXdIa29tc1BaLVN5RXdwY1dNNXNVVC1OR0xDbVhWSnlwSDBUd29oZ1MydVNWWlVDQ09YZUJmeWowbkIzSmVRQnFwb2tDZXFZc0puR05WN0hUT1JCZWZQdXFpQ2tGWUFxM0FiVElteVJ1NmZuRnp2TmF6VDludmF0ZDZxRWlTUXpVV0kyX1lHZnB5VlBBMUpCVmZR?oc=5",
-        "date": "2026-02-07",
-        "title": "Infleqtion Demonstrates Picosecond-Class Fiber Timing for Critical Infrastructure Markets - TipRanks",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR1o3eFJOblpiZzJRaE9YLTlsVTN4OUFFclZJTDJZbnN6SmFEQmVIOC00Q1pRakE1Zld2dVhBbldybXdIa29tc1BaLVN5RXdwY1dNNXNVVC1OR0xDbVhWSnlwSDBUd29oZ1MydVNWWlVDQ09YZUJmeWowbkIzSmVRQnFwb2tDZXFZc0puR05WN0hUT1JCZWZQdXFpQ2tGWUFxM0FiVElteVJ1NmZuRnp2TmF6VDludmF0ZDZxRWlTUXpVV0kyX1lHZnB5VlBBMUpCVmZR?oc=5\" target=\"_blank\">Infleqtion Demonstrates Picosecond-Class Fiber Timing for Critical Infrastructure Markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWI1ckJZMWhQbGEwTHI0Y0wzZGNkc0owT2NYUkFHT0RMX1JwcGVsMTFhLVNIOTRxaW1qblhkNjNhTG9DZC1nMTFfNi02VFdBSG83WHY0RjNPUk5Md0VCazNGQU5tYlQ0R1NMVVZxU1ZSb09QT09uTWpiUGtPWHpsc2JFZFE1eFhTRjVZbUptcFNOa2hIcE1vTS1UdDBfdU9GbGRjenBwQmRYajVsc2FwQWoyV1hIbHZoT2VNMEZrYmpMWGJFSU1SNkVvRnVadw?oc=5",
-        "date": "2026-02-07",
-        "title": "Space Capital Highlights Strategic Convergence of Space Infrastructure and AI Compute - TipRanks",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWI1ckJZMWhQbGEwTHI0Y0wzZGNkc0owT2NYUkFHT0RMX1JwcGVsMTFhLVNIOTRxaW1qblhkNjNhTG9DZC1nMTFfNi02VFdBSG83WHY0RjNPUk5Md0VCazNGQU5tYlQ0R1NMVVZxU1ZSb09QT09uTWpiUGtPWHpsc2JFZFE1eFhTRjVZbUptcFNOa2hIcE1vTS1UdDBfdU9GbGRjenBwQmRYajVsc2FwQWoyV1hIbHZoT2VNMEZrYmpMWGJFSU1SNkVvRnVadw?oc=5\" target=\"_blank\">Space Capital Highlights Strategic Convergence of Space Infrastructure and AI Compute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPR1FFZC1URWdnTTd5QW9WVGdRV2tXUWluWUhSRXdRTXJmc000SURES0NoRGZRQ3RDdHJ3U0I0bUFYTGNkNk41TFF3cnZqWGExTl93TktEUXYxNnN4VUZZblVRaUYzclhMRGcyWW1NcW9qZms4UWFZdXFFT2l3bGJEZUJEb0F5cDZISGxjRmFyT2VOMGVFUEY3V19aelVjUFdUU0hUVW9uaWxkYlR3VlY0UHd5TnZLdEw5VWxOOEU0NHNPM0tVQ0xiLXprN0NsU1o5YXZpN2l6aGNvR1JzU3pOczl5MWFqc0pWTldlQVo3OU9IYjlpUmhxZVIza1hzcEk2dGFUbkg5UF8?oc=5",
-        "date": "2026-02-07",
-        "title": "Cleanspark: Strategic Pivot to AI Infrastructure and Power Capacity Underpins Buy Rating Despite Bitcoin-Driven Near-Term Volatility - TipRanks",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxPR1FFZC1URWdnTTd5QW9WVGdRV2tXUWluWUhSRXdRTXJmc000SURES0NoRGZRQ3RDdHJ3U0I0bUFYTGNkNk41TFF3cnZqWGExTl93TktEUXYxNnN4VUZZblVRaUYzclhMRGcyWW1NcW9qZms4UWFZdXFFT2l3bGJEZUJEb0F5cDZISGxjRmFyT2VOMGVFUEY3V19aelVjUFdUU0hUVW9uaWxkYlR3VlY0UHd5TnZLdEw5VWxOOEU0NHNPM0tVQ0xiLXprN0NsU1o5YXZpN2l6aGNvR1JzU3pOczl5MWFqc0pWTldlQVo3OU9IYjlpUmhxZVIza1hzcEk2dGFUbkg5UF8?oc=5\" target=\"_blank\">Cleanspark: Strategic Pivot to AI Infrastructure and Power Capacity Underpins Buy Rating Despite Bitcoin-Driven Near-Term Volatility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdWh0a3JOdXdkNUR5dkwtcmtrQy1yaWVHUWtxcUZMSWdpS3RwQWVHSjg4eld4UC1yZFJQdWJXYUtpSTNBXzRjS2txRTdJeEd1aXJfdFBybHNhNlZvUG9lQkNXNmxhUmUzbWU0SVFsdm5sNzdtSU9YMmJFWjZsdFpSNmFGVzN1THpsYXJVVXRmMGlFd3JlWERiSWM5ci1fcVkxRVlacHkzWlMxN3pPbGkzWTQyVDJ0d2xac1dRWUk3RnY1U1RVOXNZMnM5TkdVUTlMRVZaZnJxYkZoMS04ZHdIV3RB?oc=5",
-        "date": "2026-02-07",
-        "title": "Lithuanian FM calls Putin's energy truce bluff as Russia again freezes Ukrainians with infrastructure strikes - Euromaidan Press",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdWh0a3JOdXdkNUR5dkwtcmtrQy1yaWVHUWtxcUZMSWdpS3RwQWVHSjg4eld4UC1yZFJQdWJXYUtpSTNBXzRjS2txRTdJeEd1aXJfdFBybHNhNlZvUG9lQkNXNmxhUmUzbWU0SVFsdm5sNzdtSU9YMmJFWjZsdFpSNmFGVzN1THpsYXJVVXRmMGlFd3JlWERiSWM5ci1fcVkxRVlacHkzWlMxN3pPbGkzWTQyVDJ0d2xac1dRWUk3RnY1U1RVOXNZMnM5TkdVUTlMRVZaZnJxYkZoMS04ZHdIV3RB?oc=5\" target=\"_blank\">Lithuanian FM calls Putin's energy truce bluff as Russia again freezes Ukrainians with infrastructure strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euromaidan Press</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0lfaGtKbzVfbTZXUlhaQzI3ajBKS3ZGTU1xUkdMM0YwUXY1ZldYdk5jUWFqUFlraXRZVktNSGd5b0FDU0VGVlFjX1ZQdkZrWm9Kem95THV3VzFtdkJIN1FJUEJpQll0R3VTbmhpckRSNEdfc2tqX2p4VUJ6UDlXRXZlbEwyV0NhaEd1MWpGMHFhVW1YYnBDZDlsTjRTNjg?oc=5",
-        "date": "2026-02-07",
-        "title": "Kenyan Government Allocates KSh6.7 Billion For Upgrading 63 Towns - The Kenya Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0lfaGtKbzVfbTZXUlhaQzI3ajBKS3ZGTU1xUkdMM0YwUXY1ZldYdk5jUWFqUFlraXRZVktNSGd5b0FDU0VGVlFjX1ZQdkZrWm9Kem95THV3VzFtdkJIN1FJUEJpQll0R3VTbmhpckRSNEdfc2tqX2p4VUJ6UDlXRXZlbEwyV0NhaEd1MWpGMHFhVW1YYnBDZDlsTjRTNjg?oc=5\" target=\"_blank\">Kenyan Government Allocates KSh6.7 Billion For Upgrading 63 Towns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Kenya Times</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaGhmNXpCT1RPUGxYVnhraFRwekYzdE5vcjQ2M1JSTlRVdUlCa3RSdFhqeWlZLVJXTVhqelNSOWRLVXJXUVBKcFlJQU41Mks4blZwN0dpenpvZTcwWWFMSndTNmVjc3hsNHR3STdOTkpWMF9mUkZOZWViVWplVnFVYmFYWkktaTlUT1did0U0dUI3d3NueEV6OUdSblNyb1RtVm9XNkZ6NnhId283QmwyN3BkeFRpSHducXpadGVfNVRvUVVmc01RM25WNElNOTR2ZWVhVXFMR19EekE?oc=5",
-        "date": "2026-02-07",
-        "title": "Is Solaris Energy Infrastructure (SEI) Quietly Recasting Itself as a Data Center Power Platform? - simplywall.st",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaGhmNXpCT1RPUGxYVnhraFRwekYzdE5vcjQ2M1JSTlRVdUlCa3RSdFhqeWlZLVJXTVhqelNSOWRLVXJXUVBKcFlJQU41Mks4blZwN0dpenpvZTcwWWFMSndTNmVjc3hsNHR3STdOTkpWMF9mUkZOZWViVWplVnFVYmFYWkktaTlUT1did0U0dUI3d3NueEV6OUdSblNyb1RtVm9XNkZ6NnhId283QmwyN3BkeFRpSHducXpadGVfNVRvUVVmc01RM25WNElNOTR2ZWVhVXFMR19EekE?oc=5\" target=\"_blank\">Is Solaris Energy Infrastructure (SEI) Quietly Recasting Itself as a Data Center Power Platform?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaGhXZ3B4R1llSF9PTDkxM1hFY1lUSWVWaElnZzFzcFpObUpEYXZkV2JGWTgydjVSRUZmVEkxUVE4S0hrR3JDZGNoaEpJZExqMUNhVmp0MFFrTWlQRzl4aV80YlU0Q3ZnbHZ2N2gtUVNGc1cxYzdVWGt3NGFzUU84cW9vM0l4dWtHeGFVdUJGYUdYVnVEdG0xemktaHBsODk3UmdFUzFWcmtCSlB5SFZlUUJSR3ZBOGdVS0RTbnRGQVJ0ZEQzb3o3MHZ0bDV1U3htS1E?oc=5",
-        "date": "2026-02-07",
-        "title": "Is Quanta Services (PWR) Quietly Becoming a Core AI Power Infrastructure Play? - simplywall.st",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaGhXZ3B4R1llSF9PTDkxM1hFY1lUSWVWaElnZzFzcFpObUpEYXZkV2JGWTgydjVSRUZmVEkxUVE4S0hrR3JDZGNoaEpJZExqMUNhVmp0MFFrTWlQRzl4aV80YlU0Q3ZnbHZ2N2gtUVNGc1cxYzdVWGt3NGFzUU84cW9vM0l4dWtHeGFVdUJGYUdYVnVEdG0xemktaHBsODk3UmdFUzFWcmtCSlB5SFZlUUJSR3ZBOGdVS0RTbnRGQVJ0ZEQzb3o3MHZ0bDV1U3htS1E?oc=5\" target=\"_blank\">Is Quanta Services (PWR) Quietly Becoming a Core AI Power Infrastructure Play?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ1BDV1NzemdOWVFIZ1Q5dW5URzNnUTdhR25MUkJhMTI5U0VvVjNiVGE0MVNMaTBrOF9kZ1lmbml5TXhydmFXY1JQTjhTdE54cWIyaEJadG0teDRXYXFzOGZkRDM2bzl0Tlo3Zjg1dERwd3pnWWxLQ056SWJPamN1ZWFtNUlPbzdGMjRvb0V3ZnRyTEJaSVNyc0FmcGJuMW9ybnBOdlM1X2NZUFRfdXM3QXVjOHFlREwxWnFrUkFwVFdvdVR1amk0WkxPLWNTVnBHMmk4U3VCTmxUWnFuWEtGR2VpcTdlVldxWm4zeg?oc=5",
-        "date": "2026-02-07",
-        "title": "Omar Warrad Is Building Infrastructure-Driven Companies That Compete on Execution, Not Hype - StreetInsider",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ1BDV1NzemdOWVFIZ1Q5dW5URzNnUTdhR25MUkJhMTI5U0VvVjNiVGE0MVNMaTBrOF9kZ1lmbml5TXhydmFXY1JQTjhTdE54cWIyaEJadG0teDRXYXFzOGZkRDM2bzl0Tlo3Zjg1dERwd3pnWWxLQ056SWJPamN1ZWFtNUlPbzdGMjRvb0V3ZnRyTEJaSVNyc0FmcGJuMW9ybnBOdlM1X2NZUFRfdXM3QXVjOHFlREwxWnFrUkFwVFdvdVR1amk0WkxPLWNTVnBHMmk4U3VCTmxUWnFuWEtGR2VpcTdlVldxWm4zeg?oc=5\" target=\"_blank\">Omar Warrad Is Building Infrastructure-Driven Companies That Compete on Execution, Not Hype</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPam1KVW1RX0dzajhFNHgzNWJrZDh0eW4tSF9tOVZqd2RzZXF0Tld5dWF2WHR5cV93TkliU3oxUHFUWFN3LVRHanZrd0M0M1dueEZjbFJNa1R5M0VuVzAydXNFUk5rSFdRUHh6VERna2hSaTRPUFEyNXZ0cXZVTmpXRUVwbUl3RHFiS0F6MVRVVFlzaTZmeC1ya1BWaHNIc0owWHBrRll3M0o2UHNieF9zbHNod2VWVjZJVzM4amwzSGd4cWJ3NUdLUVYxZUF5d2M?oc=5",
-        "date": "2026-02-07",
-        "title": "New York's Radical Gambit: A Three-Year Freeze on Data Centers That Could Reshape the AI Infrastructure Race - WebProNews",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPam1KVW1RX0dzajhFNHgzNWJrZDh0eW4tSF9tOVZqd2RzZXF0Tld5dWF2WHR5cV93TkliU3oxUHFUWFN3LVRHanZrd0M0M1dueEZjbFJNa1R5M0VuVzAydXNFUk5rSFdRUHh6VERna2hSaTRPUFEyNXZ0cXZVTmpXRUVwbUl3RHFiS0F6MVRVVFlzaTZmeC1ya1BWaHNIc0owWHBrRll3M0o2UHNieF9zbHNod2VWVjZJVzM4amwzSGd4cWJ3NUdLUVYxZUF5d2M?oc=5\" target=\"_blank\">New York's Radical Gambit: A Three-Year Freeze on Data Centers That Could Reshape the AI Infrastructure Race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WebProNews</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUpHMnZYa1psRGNRdUEtVnREUGQ5WXkyS1VNclBmRWlKcUNmcVV2LU5LMG9rcTNBd3lVcTZ2RWladzIxZ016TEVCMFpaV0Z1R2lvVWVnaUFuaFd5X2k1TV9IZUtjNVZOczgzQmVUTGtDR1JvVzU5VHZxQTk5eTlQNFo5RVpOcXNHc2V0aVVsVlVqNnJ6SXBYS3MydnFUWmJHRlBrSXJ4SQ?oc=5",
-        "date": "2026-02-07",
-        "title": "Minnesota's construction industry is feeling the impact of ICE - MPR News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUpHMnZYa1psRGNRdUEtVnREUGQ5WXkyS1VNclBmRWlKcUNmcVV2LU5LMG9rcTNBd3lVcTZ2RWladzIxZ016TEVCMFpaV0Z1R2lvVWVnaUFuaFd5X2k1TV9IZUtjNVZOczgzQmVUTGtDR1JvVzU5VHZxQTk5eTlQNFo5RVpOcXNHc2V0aVVsVlVqNnJ6SXBYS3MydnFUWmJHRlBrSXJ4SQ?oc=5\" target=\"_blank\">Minnesota's construction industry is feeling the impact of ICE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MPR News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeVpYVTN3Tnd5UkxyVEMxRDFPNjF6RTFhcnhQeHFNbkpvY2k0bFdSLUxaQnVRTFdkMDIzcjJWY1drakFCUHExbHdFWFNOS3VpZy00T1Vja0VGVGJ1bkt6N1BlbkJFM0NRU1htZndPbTlCbEpXSnJTRW1NV0hWeGRHbVpUWUhEZ1BTbW13TFlDYjFUd2FOMll3cE1JREt2NzhKVFNUbk1yaTduM01vTTU4dHRVUkVHeGZhWXFIUW1WSzRSZ3FXNTQ0cXZPa0Y5dl8yRmtvS3VYNNIB3AFBVV95cUxOWFkwbzdCVC1ScmZ6WGhKemlxYVRQMjEydldTeDVEMmNTWXFMLVlYTFpBcXZYcUExWm9ZV2RqOHlhaFhldFpUWnZMWEZMR2lmcER4RFcxRGFvcjRod2pCTHhJTG1oQ0t0cUNqWm11UDhuRXVTNUE0QUlfS3RzTmZKUi1nQ3RIcjUtTnM4djhjSjFjUDdCaWQ5WWxHMHlHRDUtaWZHNUR2ckN1UzE5RFJqY2J0UVlYYk5tNXhuc0pYN2psUzk2b0xiUndXSXM0VkN1YjNjWElOdGNfS1ds?oc=5",
-        "date": "2026-02-07",
-        "title": "Revanth playing dangerous game of appeasement politics: Fadnavis - The Times of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeVpYVTN3Tnd5UkxyVEMxRDFPNjF6RTFhcnhQeHFNbkpvY2k0bFdSLUxaQnVRTFdkMDIzcjJWY1drakFCUHExbHdFWFNOS3VpZy00T1Vja0VGVGJ1bkt6N1BlbkJFM0NRU1htZndPbTlCbEpXSnJTRW1NV0hWeGRHbVpUWUhEZ1BTbW13TFlDYjFUd2FOMll3cE1JREt2NzhKVFNUbk1yaTduM01vTTU4dHRVUkVHeGZhWXFIUW1WSzRSZ3FXNTQ0cXZPa0Y5dl8yRmtvS3VYNNIB3AFBVV95cUxOWFkwbzdCVC1ScmZ6WGhKemlxYVRQMjEydldTeDVEMmNTWXFMLVlYTFpBcXZYcUExWm9ZV2RqOHlhaFhldFpUWnZMWEZMR2lmcER4RFcxRGFvcjRod2pCTHhJTG1oQ0t0cUNqWm11UDhuRXVTNUE0QUlfS3RzTmZKUi1nQ3RIcjUtTnM4djhjSjFjUDdCaWQ5WWxHMHlHRDUtaWZHNUR2ckN1UzE5RFJqY2J0UVlYYk5tNXhuc0pYN2psUzk2b0xiUndXSXM0VkN1YjNjWElOdGNfS1ds?oc=5\" target=\"_blank\">Revanth playing dangerous game of appeasement politics: Fadnavis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-02-08",
         "status": "posted",
         "tweet": "Amazon Web Services' \ud83c\uddfa\ud83c\uddf8Northern Virginia data center cluster processed 8 exabytes of data daily in 2026, achieving 99.999% uptime. $AMZN",
@@ -2633,5 +2461,33 @@
         "status": "posted",
         "tweet": "Tesla Gigafactory \ud83c\udde8\ud83c\uddf3Shanghai output: 1.2 million EV battery cells daily in 2026, efficiency at 98% yield. $TSLA",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-17",
+        "status": "posted",
+        "tweet": "Microsoft's \ud83c\uddfa\ud83c\uddf8 Azure infrastructure handled 15 zettabytes of data in 2026, a 25% increase from 2025.\n\n$MSFT",
+        "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZDNPUkZWblFrVFdqaHBTRU1FUG1TLXIyTi1jem9mS1JuUWptbWhWdTJwS1RJMTFvS3BXYXNNdXo4dEdKV3Y1RDBybWxKQ2RnNGQwUXdscGc4Ukc3RnhWcE9Na2l4UF9tTExsSlZWR0o5WWxMUWlBc0FpbUdoTUZVSy01cVZzeEE4WmpxWmxxQlZTMTE5Y2Y1bHM4TXpBendVZF9XNWhQN0tyYWtmVEpuYURzMFpIYWJNNVRvY3FZb0l3cFFINDNZ0gHMAUFVX3lxTE9RQ3R4VEdZMUk1X0xvUWhEaGJUR2hZYzNpaUhQWWtaX1U1X1BKUVVYMUllRnhXdHZ2YUgzTVdtN1hWX2trT2pTSUVRVXJBZkMwaTJJWjR3QVFGUmo3RFE5UXJFZnk5Ukk1YXFfYm1hMkZIT3Y3YXJfbldOa2NYem00OGhSb3cwakhKaDVxdWxLTnNrN2RMN2JlSVlkVWxoNTlCRWN5blNfemZ5X2taSEdNR2NqZmtsdFdycjVEdXg1Yk9XLW00MFU5ck5yYw?oc=5",
+        "date": "2026-02-17",
+        "title": "North Korea's Housing Triumph: Kim Jong Un's 10,000 Homes Vision in Pyongyang - Devdiscourse",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOZDNPUkZWblFrVFdqaHBTRU1FUG1TLXIyTi1jem9mS1JuUWptbWhWdTJwS1RJMTFvS3BXYXNNdXo4dEdKV3Y1RDBybWxKQ2RnNGQwUXdscGc4Ukc3RnhWcE9Na2l4UF9tTExsSlZWR0o5WWxMUWlBc0FpbUdoTUZVSy01cVZzeEE4WmpxWmxxQlZTMTE5Y2Y1bHM4TXpBendVZF9XNWhQN0tyYWtmVEpuYURzMFpIYWJNNVRvY3FZb0l3cFFINDNZ0gHMAUFVX3lxTE9RQ3R4VEdZMUk1X0xvUWhEaGJUR2hZYzNpaUhQWWtaX1U1X1BKUVVYMUllRnhXdHZ2YUgzTVdtN1hWX2trT2pTSUVRVXJBZkMwaTJJWjR3QVFGUmo3RFE5UXJFZnk5Ukk1YXFfYm1hMkZIT3Y3YXJfbldOa2NYem00OGhSb3cwakhKaDVxdWxLTnNrN2RMN2JlSVlkVWxoNTlCRWN5blNfemZ5X2taSEdNR2NqZmtsdFdycjVEdXg1Yk9XLW00MFU5ck5yYw?oc=5\" target=\"_blank\">North Korea's Housing Triumph: Kim Jong Un's 10,000 Homes Vision in Pyongyang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddf0\ud83c\uddf5 NEWS: North Korea hails housing triumph as Kim Jong Un unveils vision for 10,000 new homes in Pyongyang"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZDNPUkZWblFrVFdqaHBTRU1FUG1TLXIyTi1jem9mS1JuUWptbWhWdTJwS1RJMTFvS3BXYXNNdXo4dEdKV3Y1RDBybWxKQ2RnNGQwUXdscGc4Ukc3RnhWcE9Na2l4UF9tTExsSlZWR0o5WWxMUWlBc0FpbUdoTUZVSy01cVZzeEE4WmpxWmxxQlZTMTE5Y2Y1bHM4TXpBendVZF9XNWhQN0tyYWtmVEpuYURzMFpIYWJNNVRvY3FZb0l3cFFINDNZ0gHMAUFVX3lxTE9RQ3R4VEdZMUk1X0xvUWhEaGJUR2hZYzNpaUhQWWtaX1U1X1BKUVVYMUllRnhXdHZ2YUgzTVdtN1hWX2trT2pTSUVRVXJBZkMwaTJJWjR3QVFGUmo3RFE5UXJFZnk5Ukk1YXFfYm1hMkZIT3Y3YXJfbldOa2NYem00OGhSb3cwakhKaDVxdWxLTnNrN2RMN2JlSVlkVWxoNTlCRWN5blNfemZ5X2taSEdNR2NqZmtsdFdycjVEdXg1Yk9XLW00MFU5ck5yYw?oc=5",
+        "date": "2026-02-17",
+        "title": "North Korea's Housing Triumph: Kim Jong Un's 10,000 Homes Vision in Pyongyang - Devdiscourse",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOZDNPUkZWblFrVFdqaHBTRU1FUG1TLXIyTi1jem9mS1JuUWptbWhWdTJwS1RJMTFvS3BXYXNNdXo4dEdKV3Y1RDBybWxKQ2RnNGQwUXdscGc4Ukc3RnhWcE9Na2l4UF9tTExsSlZWR0o5WWxMUWlBc0FpbUdoTUZVSy01cVZzeEE4WmpxWmxxQlZTMTE5Y2Y1bHM4TXpBendVZF9XNWhQN0tyYWtmVEpuYURzMFpIYWJNNVRvY3FZb0l3cFFINDNZ0gHMAUFVX3lxTE9RQ3R4VEdZMUk1X0xvUWhEaGJUR2hZYzNpaUhQWWtaX1U1X1BKUVVYMUllRnhXdHZ2YUgzTVdtN1hWX2trT2pTSUVRVXJBZkMwaTJJWjR3QVFGUmo3RFE5UXJFZnk5Ukk1YXFfYm1hMkZIT3Y3YXJfbldOa2NYem00OGhSb3cwakhKaDVxdWxLTnNrN2RMN2JlSVlkVWxoNTlCRWN5blNfemZ5X2taSEdNR2NqZmtsdFdycjVEdXg1Yk9XLW00MFU5ck5yYw?oc=5\" target=\"_blank\">North Korea's Housing Triumph: Kim Jong Un's 10,000 Homes Vision in Pyongyang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf0\ud83c\uddf5 NEWS: Kim Jong Uns vision for 10,000 new homes in Pyongyang hailed as a major housing triumph",
+        "type": "news"
     }
 ]
