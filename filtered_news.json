@@ -2489,5 +2489,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf0\ud83c\uddf5 NEWS: Kim Jong Uns vision for 10,000 new homes in Pyongyang hailed as a major housing triumph",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-17",
+        "status": "posted",
+        "tweet": "Bitcoin mining's geographic concentration drives uneven infrastructural strain, with 70% of global hash rate in top 3 nations (2026 est.), costing $15B+ in regional energy/grid upgrades.\n\n1. \ud83c\uddfa\ud83c\uddf8 US: 42% share, $6.3B energy costs\n2. \ud83c\uddf0\ud83c\uddff Kazakhstan: 18% share, $2.7B grid investments\n",
+        "type": "crypto"
     }
 ]
