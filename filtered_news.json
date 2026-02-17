@@ -2496,5 +2496,13 @@
         "status": "posted",
         "tweet": "Bitcoin mining's geographic concentration drives uneven infrastructural strain, with 70% of global hash rate in top 3 nations (2026 est.), costing $15B+ in regional energy/grid upgrades.\n\n1. \ud83c\uddfa\ud83c\uddf8 US: 42% share, $6.3B energy costs\n2. \ud83c\uddf0\ud83c\uddff Kazakhstan: 18% share, $2.7B grid investments\n",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-02-17",
+        "status": "posted",
+        "tweet": "By 2026, the global smart cities market will reach $1.3 trillion,  \ndriving 25% reductions in urban energy consumption through AI and IoT integration.",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
