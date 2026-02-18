@@ -2821,5 +2821,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Madhya Pradeshs 2026\u201327 budget pushes urban growth via metro expansion, e-buses, and 10 lakh new homes",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-18",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8US hosts 52% of Bitcoin's global hashrate in 2026, followed by \ud83c\uddf7\ud83c\uddfaRussia at 18% and \ud83c\uddf0\ud83c\uddffKazakhstan at 12%, driving $15B annual energy costs amid concentration risks.\n\nEthereum's PoS validators span 120+ countries, with no single nation exceeding 25%, slashing infrastructural vulne",
+        "type": "crypto"
     }
 ]
