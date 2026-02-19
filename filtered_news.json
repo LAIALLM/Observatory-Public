@@ -2819,5 +2819,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-19",
+        "status": "posted",
+        "tweet": "2026 est. annual validator costs (USD) vs. Nakamoto coefficient for decentralization\n\n1. Ethereum: $5,000, 32  \n2. Solana: $18,000, 20  \n3. Bitcoin (mining): $45,000, 4",
+        "type": "crypto"
     }
 ]
