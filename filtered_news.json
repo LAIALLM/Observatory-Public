@@ -2872,5 +2872,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddea NEWS: MOON Smart City masterplan revealed, UAE among possible locations",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-20",
+        "status": "posted",
+        "tweet": "Bitcoin infrastructure costs (energy for mining) surged from $2.5B in 2018 to $12B in 2025.\n\nSolana validation costs remained low: $50M in 2018, $150M in 2025, thanks to PoS efficiency.\n\nBitcoin's trend: 4x increase; Solana's: 3x.",
+        "type": "crypto"
     }
 ]
