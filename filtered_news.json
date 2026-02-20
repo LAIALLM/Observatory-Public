@@ -3089,5 +3089,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: States sue Energy Department for terminating $8B in clean energy funding, claiming Trump administration unlawfully bypassed Congress for politically motivated cuts to IRA and IIJA programs",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-20",
+        "status": "posted",
+        "tweet": "NVIDIA's global data centers deployed 1.2 million H100 GPUs in Q2 2026, enabling 500 exaFLOPS of AI compute power.\n\n$NVDA",
+        "type": "infrastructure"
     }
 ]
