@@ -2879,5 +2879,13 @@
         "status": "posted",
         "tweet": "Bitcoin infrastructure costs (energy for mining) surged from $2.5B in 2018 to $12B in 2025.\n\nSolana validation costs remained low: $50M in 2018, $150M in 2025, thanks to PoS efficiency.\n\nBitcoin's trend: 4x increase; Solana's: 3x.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-02-20",
+        "status": "posted",
+        "tweet": "Top 5 fastest-growing megacities by projected urban population 2026-2030 (annual % growth):\n\n1. \ud83c\uddf3\ud83c\uddec Lagos: 4.1%\n2. \ud83c\uddee\ud83c\uddf3 Mumbai: 3.8%\n3. \ud83c\uddee\ud83c\udde9 Jakarta: 3.5%\n4. \ud83c\uddf5\ud83c\uddf0 Karachi: 3.3%\n5. \ud83c\uddea\ud83c\uddec Cairo: 3.0%",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
