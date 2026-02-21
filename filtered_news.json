@@ -2748,5 +2748,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Lexington Planning Commission previews zoning overhaul to enforce urban growth master plan",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-21",
+        "status": "posted",
+        "tweet": "Electric vehicles are projected to account for 30% of global new car sales in 2026, rising to 50% by 2030.",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
