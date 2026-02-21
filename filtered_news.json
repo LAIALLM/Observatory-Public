@@ -2807,5 +2807,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf5\ud83c\uddf8 NEWS: FIFA to aid Gaza reconstruction by building football infrastructure",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-21",
+        "status": "posted",
+        "tweet": "Microsoft's \ud83c\uddfa\ud83c\uddf8 US data centers processed 1.8 exabytes of AI workloads daily in 2026, a 40% increase from 2025.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
