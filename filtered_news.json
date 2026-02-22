@@ -2696,5 +2696,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-22",
+        "status": "posted",
+        "tweet": "Annual cloud & data center costs for major blockchains in 2026 (USD billions, est.)\n\n1. Bitcoin: 12.4 (mining ops)\n2. Ethereum: 3.1 (validators)\n3. Solana: 0.9 (nodes)",
+        "type": "crypto"
     }
 ]
