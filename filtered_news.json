@@ -2872,5 +2872,55 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9odGhZZDhuRzZtTHVXQnNxbG0xSVo2eXd3LWlnRHJtZENURWJwY2c3eGxKckNpVDNVWDhIMFhOakQzZEFWSlgwa1h2ZmpUc1d2LXhVR2tPOVp2dEc1bXRaUXc1UVRtS2lDLU1WdDk0YlFPSHc0dWRQMXNWSQ?oc=5",
+        "date": "2026-02-22",
+        "title": "New AI software set to accelerate delivery of vital net-zero infrastructure - Tech Xplore",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9odGhZZDhuRzZtTHVXQnNxbG0xSVo2eXd3LWlnRHJtZENURWJwY2c3eGxKckNpVDNVWDhIMFhOakQzZEFWSlgwa1h2ZmpUc1d2LXhVR2tPOVp2dEc1bXRaUXc1UVRtS2lDLU1WdDk0YlFPSHc0dWRQMXNWSQ?oc=5\" target=\"_blank\">New AI software set to accelerate delivery of vital net-zero infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Xplore</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcGMwc1NlY3VWb2I1aVBOa0REMG1HQUd2WjRiOHR0bnBKQWZBYWJ1VjJheVZGZzhZQlZsRmdLUTJyOVJhaWRCOXoxcnd0ZUtmeE11bmlzSXVCZEl1VldmWnBBdjdHeFMyRkR0eENyU2dZSGRsMEFLMzQ0cUtfVUFyUDc5Nl9kcDFDY1dLUzZNRGotQkFGdmsxZzRObVRDTy1aemJIT0UxLUE1N1ZEYWlEUnlGSWFhSEV4SkZxTnl6YkxvWUQyVHZfVUx4OERoQQ?oc=5",
+        "date": "2026-02-22",
+        "title": "Crypto infrastructure company BitGo named issuer for FYUSD stablecoin - TradingView",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNcGMwc1NlY3VWb2I1aVBOa0REMG1HQUd2WjRiOHR0bnBKQWZBYWJ1VjJheVZGZzhZQlZsRmdLUTJyOVJhaWRCOXoxcnd0ZUtmeE11bmlzSXVCZEl1VldmWnBBdjdHeFMyRkR0eENyU2dZSGRsMEFLMzQ0cUtfVUFyUDc5Nl9kcDFDY1dLUzZNRGotQkFGdmsxZzRObVRDTy1aemJIT0UxLUE1N1ZEYWlEUnlGSWFhSEV4SkZxTnl6YkxvWUQyVHZfVUx4OERoQQ?oc=5\" target=\"_blank\">Crypto infrastructure company BitGo named issuer for FYUSD stablecoin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS05uZlpOUE9uYmd0V256OTdjOGZZMTB3LVJ3YVR3dEVDZnJ0a1hnby1jaXV6dU1SZWp6TlRXaFlvR1N5TzNKX3puQ0Z2TUNnMXY0VGZMeDkyM2FPNDU3Tmg3amhmcnkwaFdFSmFObjh4bHBCNUlGZ2lleXBIOW5DNHU0NnhQVTA1ZmxEaW5PT2VpTXJNLWU4RUlIUFRlN1ZlNlRF?oc=5",
+        "date": "2026-02-22",
+        "title": "UAE Foils Organised Terror-Linked Cyber Attacks on Digital Infrastructure - The Indian Awaaz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNS05uZlpOUE9uYmd0V256OTdjOGZZMTB3LVJ3YVR3dEVDZnJ0a1hnby1jaXV6dU1SZWp6TlRXaFlvR1N5TzNKX3puQ0Z2TUNnMXY0VGZMeDkyM2FPNDU3Tmg3amhmcnkwaFdFSmFObjh4bHBCNUlGZ2lleXBIOW5DNHU0NnhQVTA1ZmxEaW5PT2VpTXJNLWU4RUlIUFRlN1ZlNlRF?oc=5\" target=\"_blank\">UAE Foils Organised Terror-Linked Cyber Attacks on Digital Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Awaaz</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4enpmQlNhcmh1X3NqaWlIQ2ZiR2Q3R2FnYzk1NlZaeGVybk1QbEJmYUNtREVadlNRTGU2QkwtVHpZbFpmUV9oMXl4WUV4aXhITkFSSDcyY05NVDF6akxjMld1WQ?oc=5",
+        "date": "2026-02-22",
+        "title": "Iran\u2019s Roads and Urban Development Minister arrives in Baku (PHOTO) - Trend News Agency",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4enpmQlNhcmh1X3NqaWlIQ2ZiR2Q3R2FnYzk1NlZaeGVybk1QbEJmYUNtREVadlNRTGU2QkwtVHpZbFpmUV9oMXl4WUV4aXhITkFSSDcyY05NVDF6akxjMld1WQ?oc=5\" target=\"_blank\">Iran\u2019s Roads and Urban Development Minister arrives in Baku (PHOTO)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trend News Agency</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORXFQdUNRcHVidDVHT19KMWNqWmZoek92X1ZJUVkxMjB0ZzBnbld1T3laUWp3aTlYcTRWcnpSaHZ6WVo1ZW15MDhiV2g4T091NWFmSzVfd2pucGE2NE9oMDBmeFJ4Zy1kTWtveExuMVhtekpFamNfQjQwSVRsTjItMl9QMUVSdFI5Uk9zQ1pidEppTnFxUmtFd3JFbXJUVElVTDc4YU1ZcFVvM0pQZnBVU3VfbDdlNmVZWURBN3FB?oc=5",
+        "date": "2026-02-22",
+        "title": "Cycling push stalls in Karnataka\u2019s 7 smart cities despite funding - Deccan Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxORXFQdUNRcHVidDVHT19KMWNqWmZoek92X1ZJUVkxMjB0ZzBnbld1T3laUWp3aTlYcTRWcnpSaHZ6WVo1ZW15MDhiV2g4T091NWFmSzVfd2pucGE2NE9oMDBmeFJ4Zy1kTWtveExuMVhtekpFamNfQjQwSVRsTjItMl9QMUVSdFI5Uk9zQ1pidEppTnFxUmtFd3JFbXJUVElVTDc4YU1ZcFVvM0pQZnBVU3VfbDdlNmVZWURBN3FB?oc=5\" target=\"_blank\">Cycling push stalls in Karnataka\u2019s 7 smart cities despite funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
