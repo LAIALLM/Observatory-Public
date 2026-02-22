@@ -2639,5 +2639,62 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: One Big Beautiful Bill Act fuels U.S. construction boom and manufacturing growth",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-22",
+        "status": "posted",
+        "tweet": "NVIDIA's \ud83c\uddfa\ud83c\uddf8 Santa Clara supercomputing cluster reached 2.5 exaFLOPS peak performance in Q3 2026, powering 500,000 AI training runs daily.\n\n$NVDA",
+        "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwYXBva2YxcVNpUUpmN3dTdnV5ckZ6ejZBZTgya19WQWZqRGNkTHNGWl9VbDhEZ1FoRDBYS25xNTlmMnl2a2w3YnZldGEzUUVkS2w1VHlrT0jSAV5BVV95cUxPNlIxYVNQTk9vTXRMYTd0ZWlkczBDcGdaRW9kRl9VTGRkV0w5aWw1T1QwbXNjSi16ckFEaUU2ZEVNaTRodHRpYWktU1BTdnN5N1hyU0U3Z2Q4bGtJWDNR?oc=5",
+        "date": "2026-02-22",
+        "title": "Russia strikes Ukraine's energy infrastructure, Kiev says - TRT World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwYXBva2YxcVNpUUpmN3dTdnV5ckZ6ejZBZTgya19WQWZqRGNkTHNGWl9VbDhEZ1FoRDBYS25xNTlmMnl2a2w3YnZldGEzUUVkS2w1VHlrT0jSAV5BVV95cUxPNlIxYVNQTk9vTXRMYTd0ZWlkczBDcGdaRW9kRl9VTGRkV0w5aWw1T1QwbXNjSi16ckFEaUU2ZEVNaTRodHRpYWktU1BTdnN5N1hyU0U3Z2Q4bGtJWDNR?oc=5\" target=\"_blank\">Russia strikes Ukraine's energy infrastructure, Kiev says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRT World</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xVGRsZ1c2WFNOa1oyMTgydDIxR1ZVSXVrLXNGTS0xWmRpTVFoaEJzQ05iUGViZV9UOUY5cG1qTDUwU0NIMVhhYUE1MTlkQ01SNk01cWt0X18yc1JwTXU1N2ZETUs1SHVyRUhaLUJaSng3bGdFRWxkag?oc=5",
+        "date": "2026-02-22",
+        "title": "Why AI Infrastructure is Becoming a Grid Problem\u2014and How Edge AI Changes Smart Cities - Intelligent Living",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE8xVGRsZ1c2WFNOa1oyMTgydDIxR1ZVSXVrLXNGTS0xWmRpTVFoaEJzQ05iUGViZV9UOUY5cG1qTDUwU0NIMVhhYUE1MTlkQ01SNk01cWt0X18yc1JwTXU1N2ZETUs1SHVyRUhaLUJaSng3bGdFRWxkag?oc=5\" target=\"_blank\">Why AI Infrastructure is Becoming a Grid Problem\u2014and How Edge AI Changes Smart Cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intelligent Living</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSjVlaTd4OW85S1kyRFVNV0VwejI2SW1IZTFKY1Z1OGFGSTdldU1ZaERIRXFvTnpnLU9xVVBkVzkxd196T2VGTjFTZ0tJVW5tN0NJQUJZRW9OV21nRDRha3FCUWRRT3g1Ml82NVNDNmhpTlFiVGtLWFRuWXdJR0lERDVtek1vVWR1QXQ3QlNLZEtFSUVBS3BJRWwyR2cyU2dFQ2tKOE5oX0tLUGtvam5nUU55WQ?oc=5",
+        "date": "2026-02-22",
+        "title": "UAE foils organised cyber attacks targeting digital infrastructure, vital sectors - Geo News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOSjVlaTd4OW85S1kyRFVNV0VwejI2SW1IZTFKY1Z1OGFGSTdldU1ZaERIRXFvTnpnLU9xVVBkVzkxd196T2VGTjFTZ0tJVW5tN0NJQUJZRW9OV21nRDRha3FCUWRRT3g1Ml82NVNDNmhpTlFiVGtLWFRuWXdJR0lERDVtek1vVWR1QXQ3QlNLZEtFSUVBS3BJRWwyR2cyU2dFQ2tKOE5oX0tLUGtvam5nUU55WQ?oc=5\" target=\"_blank\">UAE foils organised cyber attacks targeting digital infrastructure, vital sectors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Geo News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV1NvUGdOclZwaDZjc1IxRG1hMmJLUTF4dWQ3VE9pdS1ETTEzbk5HbjVyTHlTMHlrM29RY0h3bUZJa1hYMG5JbHl2ZmlPSlpwUmdmRXctRWhwX2NVVXRQM2o4bFZ4VFBIUk9Na0xDand6MXVBUjJZMHJiWHBUa0ZTT01VQUZXeHN4bGJraDhuWWtjME1nVi1tZkdVWkwwZWdqQnBZQmtzYkZMdw?oc=5",
+        "date": "2026-02-22",
+        "title": "Intelligent Transport Systems Conference Insights - thedetroitbureau.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV1NvUGdOclZwaDZjc1IxRG1hMmJLUTF4dWQ3VE9pdS1ETTEzbk5HbjVyTHlTMHlrM29RY0h3bUZJa1hYMG5JbHl2ZmlPSlpwUmdmRXctRWhwX2NVVXRQM2o4bFZ4VFBIUk9Na0xDand6MXVBUjJZMHJiWHBUa0ZTT01VQUZXeHN4bGJraDhuWWtjME1nVi1tZkdVWkwwZWdqQnBZQmtzYkZMdw?oc=5\" target=\"_blank\">Intelligent Transport Systems Conference Insights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thedetroitbureau.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY0NNcjlmcmEyREc1LUcyQUxtSlB3QTlCcnhDekRqVkJWRHpnR1RWWWNUZ1l3SF9GOTM0NFFDUUNxeXZMUzRESC1qMGZOSXlWUHlZb0V2Z2xxZHZ0MFl5YlcxN2hmQV9uT0pNcUdJeVJrUDVsbGFpSFhSTllrUlVJeXB0TDZKTUlwZkJqbS11OA?oc=5",
+        "date": "2026-02-22",
+        "title": "Digital literacy must for drivers, says expert - Gulf Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPY0NNcjlmcmEyREc1LUcyQUxtSlB3QTlCcnhDekRqVkJWRHpnR1RWWWNUZ1l3SF9GOTM0NFFDUUNxeXZMUzRESC1qMGZOSXlWUHlZb0V2Z2xxZHZ0MFl5YlcxN2hmQV9uT0pNcUdJeVJrUDVsbGFpSFhSTllrUlVJeXB0TDZKTUlwZkJqbS11OA?oc=5\" target=\"_blank\">Digital literacy must for drivers, says expert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf Today</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
