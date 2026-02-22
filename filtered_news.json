@@ -2794,5 +2794,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf9 NEWS: New infrastructure for 2026 Winter Olympics raises financial and environmental concerns",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-22",
+        "status": "posted",
+        "tweet": "2026 projections: Top 5 cities by public transport share of daily urban trips (%)\n\n\ud83c\udded\ud83c\uddf0 Hong Kong - 90%  \n\ud83c\uddef\ud83c\uddf5 Tokyo - 85%  \n\ud83c\uddf3\ud83c\uddf1 Amsterdam - 80%  \n\ud83c\udde8\ud83c\udded Zurich - 75%  \n\ud83c\uddf8\ud83c\uddea Stockholm - 70%",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
