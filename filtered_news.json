@@ -2703,5 +2703,20 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-23",
+        "status": "posted",
+        "tweet": "NVIDIA $NVDA data centers worldwide deployed 25 million AI GPUs in 2026.\n\nThis supports 15 zettabytes of annual compute processing, a 40% increase from 2025.",
+        "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-23",
+        "status": "posted",
+        "tweet": "By 2026, \ud83c\uddee\ud83c\uddf3 India\u2019s population hits 1.45 billion, overtaking \ud83c\udde8\ud83c\uddf3 China\u2019s declining 1.41 billion as the world\u2019s largest.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
