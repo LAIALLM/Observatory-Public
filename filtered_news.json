@@ -2851,5 +2851,12 @@
         "status": "posted",
         "tweet": "NEWS: Connected Communities initiative has slashed regulatory barriers to speed up construction projects, per new report.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-23",
+        "status": "posted",
+        "tweet": "By 2026, \ud83c\uddfa\ud83c\uddf8 EPA regulations on energy efficiency will add $4.2B to Bitcoin mining infrastructure costs, a 28% increase from 2025 levels due to mandatory renewable retrofits.",
+        "type": "crypto"
     }
 ]
