@@ -3005,5 +3005,13 @@
         "status": "posted",
         "tweet": "NEWS: African cash for African problems: AFC prioritizes local capital to tackle infrastructure gaps across the continent",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-24",
+        "status": "posted",
+        "tweet": "By 2026, the global smart cities market will reach $820 billion, with IoT devices exceeding 25 billion units to enhance urban efficiency.",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
