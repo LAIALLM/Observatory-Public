@@ -2785,5 +2785,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-24",
+        "status": "posted",
+        "tweet": "Microsoft Azure data centers process 12 zettabytes daily in 2026, up 40% from 2025.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
