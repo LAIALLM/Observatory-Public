@@ -2755,5 +2755,35 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Assistant Secretary of the Army for Civil Works launches Building Infrastructure Not Paperwork initiative to streamline the Army\u2019s Civil Works program.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHk1LUJES05RYlpaV0Q4LXlYM0kwQmZTZXRaNjNWZmJWeTRLa29JeDZmY2t6dVY0OThnNVowYW4wdVdYWXlqTmRwLTlOV05lQ2VYT0EtWXNsUkotRU1zNzBDbmQwcV81czhiYjNWbi1TNFhta3Q4UlFoWmMtN2diSk9wMk1qN3JhU0V3LU13?oc=5",
+        "date": "2026-02-24",
+        "title": "Third-Smallest Wage Job Growth as Construction, Manufacturing Slump - \uc870\uc120\uc77c\ubcf4",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHk1LUJES05RYlpaV0Q4LXlYM0kwQmZTZXRaNjNWZmJWeTRLa29JeDZmY2t6dVY0OThnNVowYW4wdVdYWXlqTmRwLTlOV05lQ2VYT0EtWXNsUkotRU1zNzBDbmQwcV81czhiYjNWbi1TNFhta3Q4UlFoWmMtN2diSk9wMk1qN3JhU0V3LU13?oc=5\" target=\"_blank\">Third-Smallest Wage Job Growth as Construction, Manufacturing Slump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\uc870\uc120\uc77c\ubcf4</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnFyWlVqdWFkcFhZVVNtSEV5NFpWbUxjZG5CRGRVMXhnUGlzS0VRMG9oanY1dGdNYlQ2cXh2SmxBaDJic0xyM1g5T0NiZDkzcTV5NzkycWRTMG5rV1Y4LTc5Z1BjVUJpRktiZVZzZ0wyTS1WQ3F6NnVmTHpjVDZqV2ZFYldOQ1BZa0lyY1l3S3dEdEUxMDR6cUVRWU0xMzVEOEYzbnZfcTZucTd0VGhYU0lFNm9xbXUyWno2RURB?oc=5",
+        "date": "2026-02-24",
+        "title": "What's causing water infrastructure issues? - WWLTV.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnFyWlVqdWFkcFhZVVNtSEV5NFpWbUxjZG5CRGRVMXhnUGlzS0VRMG9oanY1dGdNYlQ2cXh2SmxBaDJic0xyM1g5T0NiZDkzcTV5NzkycWRTMG5rV1Y4LTc5Z1BjVUJpRktiZVZzZ0wyTS1WQ3F6NnVmTHpjVDZqV2ZFYldOQ1BZa0lyY1l3S3dEdEUxMDR6cUVRWU0xMzVEOEYzbnZfcTZucTd0VGhYU0lFNm9xbXUyWno2RURB?oc=5\" target=\"_blank\">What's causing water infrastructure issues?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWLTV.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd09zR0Y2bzZGZlVhcE1hTEFDWXlkV2lSODhROGZ6c0w4V0lOR18wdW5QbjVOY1hkQ0VDUWx3VlMzZTZ0cUI1TmlyN09sMDFRNDMzQ2lsV2ZOU0c1VHRyRkRxWGdWZGdMbDdHUG4xVWowUmVnSXFhM3RaZXNEVjZNRHN4TG1SV1pqanNzdEZvOW94YWpGZ2JnNHo1X2FZSjBWMDJDX0dsc0R4bXM?oc=5",
+        "date": "2026-02-24",
+        "title": "Despite policy shifts, battery storage expected to grow in 2026 - marketplace.org",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd09zR0Y2bzZGZlVhcE1hTEFDWXlkV2lSODhROGZ6c0w4V0lOR18wdW5QbjVOY1hkQ0VDUWx3VlMzZTZ0cUI1TmlyN09sMDFRNDMzQ2lsV2ZOU0c1VHRyRkRxWGdWZGdMbDdHUG4xVWowUmVnSXFhM3RaZXNEVjZNRHN4TG1SV1pqanNzdEZvOW94YWpGZ2JnNHo1X2FZSjBWMDJDX0dsc0R4bXM?oc=5\" target=\"_blank\">Despite policy shifts, battery storage expected to grow in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketplace.org</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
