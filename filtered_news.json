@@ -3013,5 +3013,12 @@
         "tweet": "By 2026, the global smart cities market will reach $820 billion, with IoT devices exceeding 25 billion units to enhance urban efficiency.",
         "type": "statistical",
         "category": "smart cities"
+    },
+    {
+        "link": null,
+        "date": "2026-02-24",
+        "status": "posted",
+        "tweet": "Bitcoin's 2026 infrastructure: $12B annual energy cost for 7 TPS ($0.48M per TPS).\n\nSolana: $8M for 2,500 TPS ($3.2K per TPS)\u20143,750x more efficient.",
+        "type": "crypto"
     }
 ]
