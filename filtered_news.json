@@ -2792,5 +2792,218 @@
         "status": "posted",
         "tweet": "Microsoft Azure data centers process 12 zettabytes daily in 2026, up 40% from 2025.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVVlmNHhBeXYzd3ZpV0h4Q3B5bUpLMmFjQTdWOV84emlnVVpxRjA0Q1A0NDBLMzl4eV92MUI4bjgzYnVGY1VPTmZCZXg1U1R5Q2J2bUVHb2lZOTV3SUNHek54bUhvbFR1VVdqS0NvcHFXVjROdjJVcG11NFJKUndCbjRvZGN6UjFJaEhOZnpRTjQ1ek1QZzFOU3dkMWVEUkVfamNadnRGVnJRbUph?oc=5",
+        "date": "2026-02-24",
+        "title": "This South Texas region flipped for Trump. Now it's seeing red over his immigration policies. - NBC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOVVlmNHhBeXYzd3ZpV0h4Q3B5bUpLMmFjQTdWOV84emlnVVpxRjA0Q1A0NDBLMzl4eV92MUI4bjgzYnVGY1VPTmZCZXg1U1R5Q2J2bUVHb2lZOTV3SUNHek54bUhvbFR1VVdqS0NvcHFXVjROdjJVcG11NFJKUndCbjRvZGN6UjFJaEhOZnpRTjQ1ek1QZzFOU3dkMWVEUkVfamNadnRGVnJRbUph?oc=5\" target=\"_blank\">This South Texas region flipped for Trump. Now it's seeing red over his immigration policies.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUJra2MxRksxMnAxTTVxX2lxalpiWEpLMGxPRGg0NVhzSDJocFE4dXVjZFBNNjExVnZyWWlDUENSVHhJcmFaWGpRNHBfdXI0T2RZQy1lb2Juel92VXdFLVVraDRwVW1zNzA5R29lRjNROGoySXp1eVJLUkNOUTdCZzR2ZEF0UzFXajJSWjdDRWJFaU8zOTYyemtMSmhjUVd0S0dnYVprSUNsdw?oc=5",
+        "date": "2026-02-24",
+        "title": "Dante Bini: The Architect Revolutionizing Building - thedetroitbureau.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUJra2MxRksxMnAxTTVxX2lxalpiWEpLMGxPRGg0NVhzSDJocFE4dXVjZFBNNjExVnZyWWlDUENSVHhJcmFaWGpRNHBfdXI0T2RZQy1lb2Juel92VXdFLVVraDRwVW1zNzA5R29lRjNROGoySXp1eVJLUkNOUTdCZzR2ZEF0UzFXajJSWjdDRWJFaU8zOTYyemtMSmhjUVd0S0dnYVprSUNsdw?oc=5\" target=\"_blank\">Dante Bini: The Architect Revolutionizing Building</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thedetroitbureau.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSzdFMFVhdk1tNlZ6bzhJaEU5emlpa25MVHFuR2xxR1NQRDFNYXFyamh2U3VoQlVkOG9Tc1VEUllmVFRMemdaSXpWNUF5X19xRE1SRmI5S2tuTTRZVW1BZENObEpXQnpmSkxpNkFEeGNKTkZVRTFFQUZ1LXhaTHpKc0hseXNINjJaX3gyWl9IZmx0WkxmTnozTHhQa2xsYVNyc01HQXZNS1MzWlJDSC1yS2pISnFfSkVsMUZKV3JNQQ?oc=5",
+        "date": "2026-02-24",
+        "title": "Newest UHI Inverness graduates fast-tracked into civil engineering sector - Scottish Construction Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSzdFMFVhdk1tNlZ6bzhJaEU5emlpa25MVHFuR2xxR1NQRDFNYXFyamh2U3VoQlVkOG9Tc1VEUllmVFRMemdaSXpWNUF5X19xRE1SRmI5S2tuTTRZVW1BZENObEpXQnpmSkxpNkFEeGNKTkZVRTFFQUZ1LXhaTHpKc0hseXNINjJaX3gyWl9IZmx0WkxmTnozTHhQa2xsYVNyc01HQXZNS1MzWlJDSC1yS2pISnFfSkVsMUZKV3JNQQ?oc=5\" target=\"_blank\">Newest UHI Inverness graduates fast-tracked into civil engineering sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scottish Construction Now</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHVFUzRWaXNyY0Mtbm15Y2tjOGhxdmRfckdlR1QzY1V5NW5US1dHQkFYanBtSnRQY0gxdWoxV250TE80NEFtX0lKNzNYWVY5NXhlLUtHT245ZGIyeUl4VFVzamZfb1hzTDlJMXNLY0hCd20yNXo0Nm00RU1YbzRCZGZCTWhDalFoYVc0NzVSMTNieWtsbm91QXhtTHBGYjNmclJINy1qYnBFQVRHUmZobHVXcWVFa2Q1Y0E?oc=5",
+        "date": "2026-02-24",
+        "title": "Detroit's Chinatown getting $2.4 million in infrastructure upgrades - Detroit Free Press",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHVFUzRWaXNyY0Mtbm15Y2tjOGhxdmRfckdlR1QzY1V5NW5US1dHQkFYanBtSnRQY0gxdWoxV250TE80NEFtX0lKNzNYWVY5NXhlLUtHT245ZGIyeUl4VFVzamZfb1hzTDlJMXNLY0hCd20yNXo0Nm00RU1YbzRCZGZCTWhDalFoYVc0NzVSMTNieWtsbm91QXhtTHBGYjNmclJINy1qYnBFQVRHUmZobHVXcWVFa2Q1Y0E?oc=5\" target=\"_blank\">Detroit's Chinatown getting $2.4 million in infrastructure upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Detroit Free Press</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZjNIMGFKTHBId0pCemQ2ZmNZYmhQQlgwNUZTMy1uZlRJZHpZSmpHd2dKT3RyeVZ3NUFaM1pmWGk1bXVDVm9VSGNKOGtObEFfUFlxRGQyWWFGS1FHY1M1OFZiajBGTWhZTXdRRzZESkNkOHZnUThPRm94YlY5dlZPbW9FUlJkaVptZ1pNTXVzV2lvZ0xhWTZaNGl2eS03MkhRT3lwd2tPZjRHbFFteWVvaGRpMnNiUEtIX1oyLXhSOGlMOV9BVDh0eDYzZHVrdGZpdm1jS05feGtXSWwyTHB4TWlVcTY1N0RTaDlSVHREaFF1c2dJQXNpRnpn?oc=5",
+        "date": "2026-02-24",
+        "title": "Israel warns Lebanon it will hit civilian infrastructure, airport if Hezbollah gets involved in any US-Iran war -- officials - The Times of Israel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZjNIMGFKTHBId0pCemQ2ZmNZYmhQQlgwNUZTMy1uZlRJZHpZSmpHd2dKT3RyeVZ3NUFaM1pmWGk1bXVDVm9VSGNKOGtObEFfUFlxRGQyWWFGS1FHY1M1OFZiajBGTWhZTXdRRzZESkNkOHZnUThPRm94YlY5dlZPbW9FUlJkaVptZ1pNTXVzV2lvZ0xhWTZaNGl2eS03MkhRT3lwd2tPZjRHbFFteWVvaGRpMnNiUEtIX1oyLXhSOGlMOV9BVDh0eDYzZHVrdGZpdm1jS05feGtXSWwyTHB4TWlVcTY1N0RTaDlSVHREaFF1c2dJQXNpRnpn?oc=5\" target=\"_blank\">Israel warns Lebanon it will hit civilian infrastructure, airport if Hezbollah gets involved in any US-Iran war -- officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVU1VZjRTeDNHUHhVOEtKdGpWYlViMHltQW4zai1PN05qRUtpVjQ0ZDAzb19ZT3lhX0Y5X2U3cGFhaF84Q04wa2RnQVRFTDZONFNLeUkxZEF1Y1FNOTBCMWx5eDM2M1I2VHM1YUZGaHBNdTNFYW5WUGR6UDN4UjVvVmhOSmN2eExMckI5WkgtYm5mUmVxWmRtU3JhVQ?oc=5",
+        "date": "2026-02-24",
+        "title": "Amazon invests record $340 billion in U.S. infrastructure, jobs, and communities in 2025 - About Amazon",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQVU1VZjRTeDNHUHhVOEtKdGpWYlViMHltQW4zai1PN05qRUtpVjQ0ZDAzb19ZT3lhX0Y5X2U3cGFhaF84Q04wa2RnQVRFTDZONFNLeUkxZEF1Y1FNOTBCMWx5eDM2M1I2VHM1YUZGaHBNdTNFYW5WUGR6UDN4UjVvVmhOSmN2eExMckI5WkgtYm5mUmVxWmRtU3JhVQ?oc=5\" target=\"_blank\">Amazon invests record $340 billion in U.S. infrastructure, jobs, and communities in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon to invest record $340B in US infrastructure, jobs, and communities in 2025 $AMZN"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2tseXcybXNHa0w0aV9ORVptLUx3aFpzblJ6NTNUT0xFbVJVR3lLeEFlN1daemMtN0FfTmFkZlpCTzBMS21qdi13RGJzWnlZU2xsc0dKRGtYck5PUEFwbWpQQ1h4UWRpbmdHM2dCY3FycGNHRjRsZUVtdmdLQ2V2U0tpWFJfaVBUR1E?oc=5",
+        "date": "2026-02-24",
+        "title": "How Amazon is Expanding Global Energy Infrastructure - Construction Digital",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2tseXcybXNHa0w0aV9ORVptLUx3aFpzblJ6NTNUT0xFbVJVR3lLeEFlN1daemMtN0FfTmFkZlpCTzBMS21qdi13RGJzWnlZU2xsc0dKRGtYck5PUEFwbWpQQ1h4UWRpbmdHM2dCY3FycGNHRjRsZUVtdmdLQ2V2U0tpWFJfaVBUR1E?oc=5\" target=\"_blank\">How Amazon is Expanding Global Energy Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Digital</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon expands global energy infrastructure with new data center builds $AMZN"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GSFplWHVCVHZuNEFHYUtfZGZQaldtTlVIRFE0Tld1UVRYTF94clNPMUxnMTkwZ3lXdXllYnJubFVvQ1UxOUVob3R6em1uNENiS3dKVUV0WWVUcmlOTktDbkhuTEpiZUFNeld0c0hBbUFDSUhaOXdOSA?oc=5",
+        "date": "2026-02-24",
+        "title": "Energy Flows and Subsea Infrastructure Risk Update - Windward",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9GSFplWHVCVHZuNEFHYUtfZGZQaldtTlVIRFE0Tld1UVRYTF94clNPMUxnMTkwZ3lXdXllYnJubFVvQ1UxOUVob3R6em1uNENiS3dKVUV0WWVUcmlOTktDbkhuTEpiZUFNeld0c0hBbUFDSUhaOXdOSA?oc=5\" target=\"_blank\">Energy Flows and Subsea Infrastructure Risk Update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windward</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHB5dDBkYllVUFFjWV9QanhOaTFiLWRKTmdoelBVaDhEM0RET1RtdWxkZjdJcWxid1VyYVU1S3A5SXVSN3dBMi0wc2ZwYlJ6REYtZzRHTEV0Z0NmbEFMbFp1UC01ODBhRXo3NV9HaTU0NXk0Sl9QQ2VvdVFhT0JrZTFyYkU3TkJ6RTJTNDB5NFVIN285cE5nLTFPOEw2b0xvRXd3ZzZYQTZXTXpvalVF?oc=5",
+        "date": "2026-02-24",
+        "title": "EU Ambassador: Georgia Shares Infrastructure Data, Sanctions Discussions Ongoing - Caspian Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHB5dDBkYllVUFFjWV9QanhOaTFiLWRKTmdoelBVaDhEM0RET1RtdWxkZjdJcWxid1VyYVU1S3A5SXVSN3dBMi0wc2ZwYlJ6REYtZzRHTEV0Z0NmbEFMbFp1UC01ODBhRXo3NV9HaTU0NXk0Sl9QQ2VvdVFhT0JrZTFyYkU3TkJ6RTJTNDB5NFVIN285cE5nLTFPOEw2b0xvRXd3ZzZYQTZXTXpvalVF?oc=5\" target=\"_blank\">EU Ambassador: Georgia Shares Infrastructure Data, Sanctions Discussions Ongoing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Caspian Post</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd2N3eEl1b0FtblpINVVrSWhiLXZscG1EbmhDNUZzSHNLcGQ5NHBwZEtkOXZWOVNRV0F2ajVSVEpFZ2hhWHRlQWJnTXZjc2tHaTJlbU9Oay1oUUJ2OVhPcTI1QTVyc0w1RUVYMzlRUldydi1SUV9XcnFuSTZRN19iVkVfQlVWUldZTXY3MVVlQk5qY2xQUGVYTWIzZlBocUtHVU1KdTllU2xSQjc2Z1dVWFhHODVVQjI2?oc=5",
+        "date": "2026-02-24",
+        "title": "Pantheon Infrastructure (LON:PINT) Hits New 52-Week High - Here's Why - MarketBeat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd2N3eEl1b0FtblpINVVrSWhiLXZscG1EbmhDNUZzSHNLcGQ5NHBwZEtkOXZWOVNRV0F2ajVSVEpFZ2hhWHRlQWJnTXZjc2tHaTJlbU9Oay1oUUJ2OVhPcTI1QTVyc0w1RUVYMzlRUldydi1SUV9XcnFuSTZRN19iVkVfQlVWUldZTXY3MVVlQk5qY2xQUGVYTWIzZlBocUtHVU1KdTllU2xSQjc2Z1dVWFhHODVVQjI2?oc=5\" target=\"_blank\">Pantheon Infrastructure (LON:PINT) Hits New 52-Week High - Here's Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ29QcWpIZ0wtLTEwbmRrVl9LQl9DQ0JGNjNhMzZWZWdoSmtTNnQ0aXVFSHRGYUJOblJVSUJVSTNhZGtkQ2VzZmI4LU9KamMxUEg1TlpFX1R1Y2QzR3VEeVkwN1R5ZnRHR2luSWxkZUxOWEpWc0hyV0VBRXN0RVpCQmhKTXZYM3Nwb0MtY1BSYXZ3cGx6YkdOVWVfLUExdmZrcUE5SjhXZU1GWjFkYzVRdWJMaEVYNDJVQ2lfa0lqTmIzbDVRbFZFOWlR?oc=5",
+        "date": "2026-02-24",
+        "title": "Carbon County awarded Rural Communities Opportunity Grant to support local infrastructure - etvnews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ29QcWpIZ0wtLTEwbmRrVl9LQl9DQ0JGNjNhMzZWZWdoSmtTNnQ0aXVFSHRGYUJOblJVSUJVSTNhZGtkQ2VzZmI4LU9KamMxUEg1TlpFX1R1Y2QzR3VEeVkwN1R5ZnRHR2luSWxkZUxOWEpWc0hyV0VBRXN0RVpCQmhKTXZYM3Nwb0MtY1BSYXZ3cGx6YkdOVWVfLUExdmZrcUE5SjhXZU1GWjFkYzVRdWJMaEVYNDJVQ2lfa0lqTmIzbDVRbFZFOWlR?oc=5\" target=\"_blank\">Carbon County awarded Rural Communities Opportunity Grant to support local infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">etvnews.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWUs2cWpBTjBITTBiQkxqZ2FZY0NVSjZER2RUOEloT2thdU95aEFwWVJkZTdvaTVmajZpblo0UVAyXy1hMm9WYWtvRzQtQ2JydWxCZk5XNW80cFViZ2ltX3RUUmtveHphSlc1cF9yc1JpY2d1QWxXOHFXZDNDMjRUdXR4QThjdWV5UW9VYWxzV19BUTRnY1RlZzRwazRaLVdVaGxObHIzXzNDQ0hoX1dwZWJDQnVENEhySW9jU2hJZWZWTi0zRjZKTmJlY2dfOEZDeVhwVFVYLWtyVHRyQlJNcTdRd0ViWGY4TzV2U213?oc=5",
+        "date": "2026-02-24",
+        "title": "Sebastian Brokmann: Building Scalable AI Infrastructure and Technology-Driven Real Estate Platforms - StreetInsider",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWUs2cWpBTjBITTBiQkxqZ2FZY0NVSjZER2RUOEloT2thdU95aEFwWVJkZTdvaTVmajZpblo0UVAyXy1hMm9WYWtvRzQtQ2JydWxCZk5XNW80cFViZ2ltX3RUUmtveHphSlc1cF9yc1JpY2d1QWxXOHFXZDNDMjRUdXR4QThjdWV5UW9VYWxzV19BUTRnY1RlZzRwazRaLVdVaGxObHIzXzNDQ0hoX1dwZWJDQnVENEhySW9jU2hJZWZWTi0zRjZKTmJlY2dfOEZDeVhwVFVYLWtyVHRyQlJNcTdRd0ViWGY4TzV2U213?oc=5\" target=\"_blank\">Sebastian Brokmann: Building Scalable AI Infrastructure and Technology-Driven Real Estate Platforms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnpNSWlDRm9jc2pZTVp5M2ZZU3dlc2hjdFZLYzdkUk0xTXdjTmpxei1BY3prYjJrVUtmV0U1YjY4VTJrN3FydnYyMXk3MzVldC1Jd3k1bHBBR3oybkxXVVE0bExjWE1feFFRLWF1U21ET0NBT2pFNjdhNENKeGZUbHNYY0x1RG9EekYtZWdOSnpOekwzVnJGLQ?oc=5",
+        "date": "2026-02-24",
+        "title": "The Residential Proxy Problem: Shared Infrastructure and Rapid Rotation - HackerNoon",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONnpNSWlDRm9jc2pZTVp5M2ZZU3dlc2hjdFZLYzdkUk0xTXdjTmpxei1BY3prYjJrVUtmV0U1YjY4VTJrN3FydnYyMXk3MzVldC1Jd3k1bHBBR3oybkxXVVE0bExjWE1feFFRLWF1U21ET0NBT2pFNjdhNENKeGZUbHNYY0x1RG9EekYtZWdOSnpOekwzVnJGLQ?oc=5\" target=\"_blank\">The Residential Proxy Problem: Shared Infrastructure and Rapid Rotation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HackerNoon</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVGo4Y094RkdrS0tOQjFKU2FqVDJhVm02aXdqMUdTNEFBNURMbkF2VVJoTko0TW85RWJoN1VuWGYtaG42allxTGs2clRBNEQ5MmU4NjY4LTRQZWhIVThvZmpkYnlPcE5WMmlrekowSnBsZ2pDMEkwV3hqX2wxSVljMHVnZkN0NHg0cjZDNHY3aw?oc=5",
+        "date": "2026-02-24",
+        "title": "Fire Testing Market: The Guardian of Infrastructure and E-Mobility - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNVGo4Y094RkdrS0tOQjFKU2FqVDJhVm02aXdqMUdTNEFBNURMbkF2VVJoTko0TW85RWJoN1VuWGYtaG42allxTGs2clRBNEQ5MmU4NjY4LTRQZWhIVThvZmpkYnlPcE5WMmlrekowSnBsZ2pDMEkwV3hqX2wxSVljMHVnZkN0NHg0cjZDNHY3aw?oc=5\" target=\"_blank\">Fire Testing Market: The Guardian of Infrastructure and E-Mobility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNTNYcXNDeXlLQ1dISXUwQjhKdEk1VlVHaU1mc2dsVmtIS25aeE9YdzBoY2hlRW5OOVFJOFlpWWhmSDcyaUFReGJwblhjd0ZvVTB1cWloYXNnSUlrVjM4UTV0cjN1WWxVeWZ4NF9vQ0RJRHFTQm9WbnpyQ1NZVEN0MlJNOTBmbnFZM1FGU0RobFB6bWM3bU93NXBBX29YSmQxN0JJS0pJVDFiQkhRWU55REFEUEVxVDdsTmpN0gHAAUFVX3lxTE9tclp1eFN2LVJENWlVNkJfa2kySnlTejMydzE2OVBWM3VvTUJmNE5ZNF85bUdabU9wcXFsRXVXM1d3YUNtV0JOaEZ2cldzNHFyWXY4TTc1YVp5alB3VTBWNE5ncmhiY0o3Y0h0S1J0b2hPcVBQU0RTUEpNR0RxbzFKU1V3djBxZnZYQ1ZubEVxRHUwWWU0ZERRSXFLSm03WUZpTUJYa1dNMmhuNHY4UFRWd09mcEdZSVFtSERPbjd4VQ?oc=5",
+        "date": "2026-02-24",
+        "title": "Russia-Ukraine war live: Putin failed to achieve goals, says Zelenskyy - Al Jazeera",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNTNYcXNDeXlLQ1dISXUwQjhKdEk1VlVHaU1mc2dsVmtIS25aeE9YdzBoY2hlRW5OOVFJOFlpWWhmSDcyaUFReGJwblhjd0ZvVTB1cWloYXNnSUlrVjM4UTV0cjN1WWxVeWZ4NF9vQ0RJRHFTQm9WbnpyQ1NZVEN0MlJNOTBmbnFZM1FGU0RobFB6bWM3bU93NXBBX29YSmQxN0JJS0pJVDFiQkhRWU55REFEUEVxVDdsTmpN0gHAAUFVX3lxTE9tclp1eFN2LVJENWlVNkJfa2kySnlTejMydzE2OVBWM3VvTUJmNE5ZNF85bUdabU9wcXFsRXVXM1d3YUNtV0JOaEZ2cldzNHFyWXY4TTc1YVp5alB3VTBWNE5ncmhiY0o3Y0h0S1J0b2hPcVBQU0RTUEpNR0RxbzFKU1V3djBxZnZYQ1ZubEVxRHUwWWU0ZERRSXFLSm03WUZpTUJYa1dNMmhuNHY4UFRWd09mcEdZSVFtSERPbjd4VQ?oc=5\" target=\"_blank\">Russia-Ukraine war live: Putin failed to achieve goals, says Zelenskyy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc2dJUjg5TFJhQ2UyRWtabjVOUmlUUVhwSVhBc0JLQmtBMFJPRG5NRXRsRTZBbnFzVTMtUnYzQmZOTE1CWlBKZFhMWFR6aVdwOG9SdVZud183N0I3bURwc1ZmdTZIeWI1YzFLYjNWVXhsRmY4a2NLYlFYbmhZRzdya3htSlRzbVAzUG83TDVHeEkzRmlzUFRCTXkyVHhtV0dpdmpJOXRfbnZINXRwd1RiWVM0TWtyM0RHY0FpQV9iYzFHWkU?oc=5",
+        "date": "2026-02-24",
+        "title": "\u2018African cash for African problems\u2019: AFC prioritises local capital to fix infrastructure - The Africa Report",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc2dJUjg5TFJhQ2UyRWtabjVOUmlUUVhwSVhBc0JLQmtBMFJPRG5NRXRsRTZBbnFzVTMtUnYzQmZOTE1CWlBKZFhMWFR6aVdwOG9SdVZud183N0I3bURwc1ZmdTZIeWI1YzFLYjNWVXhsRmY4a2NLYlFYbmhZRzdya3htSlRzbVAzUG83TDVHeEkzRmlzUFRCTXkyVHhtV0dpdmpJOXRfbnZINXRwd1RiWVM0TWtyM0RHY0FpQV9iYzFHWkU?oc=5\" target=\"_blank\">\u2018African cash for African problems\u2019: AFC prioritises local capital to fix infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Africa Report</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "NEWS: African cash for African problems: AFC prioritizes local capital to fix infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY29kM3RBWFpQbS04OGwzdnMwei1wZG1tbFV3NGxBQThPWGNQemQ0WVQzVllqRFdLVDctMTB6cjVWZC1QNGV6RFFBYlhYZTgyU0VnbXlqMlF2UVE0OUVmUjcydGQzeWV2RFpYQ05WS2dQcUtReGZ2OFlMbmVnS3VreTRzeUotV0VEMmp3RTNpM3cybi1HOE55dDFkTHg1bnFidHNibmZJSTNfS21vTXVFUENR?oc=5",
+        "date": "2026-02-24",
+        "title": "Google spin-off develops optical alternative to fiber optics - Techzine Global",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOY29kM3RBWFpQbS04OGwzdnMwei1wZG1tbFV3NGxBQThPWGNQemQ0WVQzVllqRFdLVDctMTB6cjVWZC1QNGV6RFFBYlhYZTgyU0VnbXlqMlF2UVE0OUVmUjcydGQzeWV2RFpYQ05WS2dQcUtReGZ2OFlMbmVnS3VreTRzeUotV0VEMmp3RTNpM3cybi1HOE55dDFkTHg1bnFidHNibmZJSTNfS21vTXVFUENR?oc=5\" target=\"_blank\">Google spin-off develops optical alternative to fiber optics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Techzine Global</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVJFWERDNVEwY181V25uNDJfSS1jd29ZcWZTaTBkQnQwVE1Nd2pvWmxTUEYtRFh2NW5jcGJjV0N4MzVwb0RyM2dtNE5DTGlWZEFJVXNFTjlfaEV4aUZXSjAyUW0xQVkycUlyNWJlSzJaTFBwMnNnb2NIR2VQSzl2dk9lVDJnWFltZ3JjMTZqaFBoS1QzeEZoR0VzX2tfcVQ0Nzd1ZV82NjFYVGc?oc=5",
+        "date": "2026-02-24",
+        "title": "Marsh lands senior adviser to strengthen digital infrastructure practice - Intelligent Insurer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQVJFWERDNVEwY181V25uNDJfSS1jd29ZcWZTaTBkQnQwVE1Nd2pvWmxTUEYtRFh2NW5jcGJjV0N4MzVwb0RyM2dtNE5DTGlWZEFJVXNFTjlfaEV4aUZXSjAyUW0xQVkycUlyNWJlSzJaTFBwMnNnb2NIR2VQSzl2dk9lVDJnWFltZ3JjMTZqaFBoS1QzeEZoR0VzX2tfcVQ0Nzd1ZV82NjFYVGc?oc=5\" target=\"_blank\">Marsh lands senior adviser to strengthen digital infrastructure practice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intelligent Insurer</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVU1VZjRTeDNHUHhVOEtKdGpWYlViMHltQW4zai1PN05qRUtpVjQ0ZDAzb19ZT3lhX0Y5X2U3cGFhaF84Q04wa2RnQVRFTDZONFNLeUkxZEF1Y1FNOTBCMWx5eDM2M1I2VHM1YUZGaHBNdTNFYW5WUGR6UDN4UjVvVmhOSmN2eExMckI5WkgtYm5mUmVxWmRtU3JhVQ?oc=5",
+        "date": "2026-02-24",
+        "title": "Amazon invests record $340 billion in U.S. infrastructure, jobs, and communities in 2025 - About Amazon",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQVU1VZjRTeDNHUHhVOEtKdGpWYlViMHltQW4zai1PN05qRUtpVjQ0ZDAzb19ZT3lhX0Y5X2U3cGFhaF84Q04wa2RnQVRFTDZONFNLeUkxZEF1Y1FNOTBCMWx5eDM2M1I2VHM1YUZGaHBNdTNFYW5WUGR6UDN4UjVvVmhOSmN2eExMckI5WkgtYm5mUmVxWmRtU3JhVQ?oc=5\" target=\"_blank\">Amazon invests record $340 billion in U.S. infrastructure, jobs, and communities in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">About Amazon</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon invests record $340B in U.S. infrastructure, jobs, and communities in 2025 $AMZN",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2tseXcybXNHa0w0aV9ORVptLUx3aFpzblJ6NTNUT0xFbVJVR3lLeEFlN1daemMtN0FfTmFkZlpCTzBMS21qdi13RGJzWnlZU2xsc0dKRGtYck5PUEFwbWpQQ1h4UWRpbmdHM2dCY3FycGNHRjRsZUVtdmdLQ2V2U0tpWFJfaVBUR1E?oc=5",
+        "date": "2026-02-24",
+        "title": "How Amazon is Expanding Global Energy Infrastructure - Construction Digital",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2tseXcybXNHa0w0aV9ORVptLUx3aFpzblJ6NTNUT0xFbVJVR3lLeEFlN1daemMtN0FfTmFkZlpCTzBMS21qdi13RGJzWnlZU2xsc0dKRGtYck5PUEFwbWpQQ1h4UWRpbmdHM2dCY3FycGNHRjRsZUVtdmdLQ2V2U0tpWFJfaVBUR1E?oc=5\" target=\"_blank\">How Amazon is Expanding Global Energy Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Digital</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Amazon is expanding global energy infrastructure through massive investments in renewable power for data centers. $AMZN",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc2dJUjg5TFJhQ2UyRWtabjVOUmlUUVhwSVhBc0JLQmtBMFJPRG5NRXRsRTZBbnFzVTMtUnYzQmZOTE1CWlBKZFhMWFR6aVdwOG9SdVZud183N0I3bURwc1ZmdTZIeWI1YzFLYjNWVXhsRmY4a2NLYlFYbmhZRzdya3htSlRzbVAzUG83TDVHeEkzRmlzUFRCTXkyVHhtV0dpdmpJOXRfbnZINXRwd1RiWVM0TWtyM0RHY0FpQV9iYzFHWkU?oc=5",
+        "date": "2026-02-24",
+        "title": "\u2018African cash for African problems\u2019: AFC prioritises local capital to fix infrastructure - The Africa Report",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc2dJUjg5TFJhQ2UyRWtabjVOUmlUUVhwSVhBc0JLQmtBMFJPRG5NRXRsRTZBbnFzVTMtUnYzQmZOTE1CWlBKZFhMWFR6aVdwOG9SdVZud183N0I3bURwc1ZmdTZIeWI1YzFLYjNWVXhsRmY4a2NLYlFYbmhZRzdya3htSlRzbVAzUG83TDVHeEkzRmlzUFRCTXkyVHhtV0dpdmpJOXRfbnZINXRwd1RiWVM0TWtyM0RHY0FpQV9iYzFHWkU?oc=5\" target=\"_blank\">\u2018African cash for African problems\u2019: AFC prioritises local capital to fix infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Africa Report</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "NEWS: African cash for African problems: AFC prioritizes local capital to tackle infrastructure gaps across the continent",
+        "type": "news"
     }
 ]
