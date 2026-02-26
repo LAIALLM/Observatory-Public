@@ -3050,5 +3050,12 @@
         "tweet": "By 2026, 58% of the world's population\u20144.7 billion people\u2014will reside in urban areas, up from 56% in 2020, accelerating infrastructure demands globally.",
         "type": "statistical",
         "category": "urban development"
+    },
+    {
+        "link": null,
+        "date": "2026-02-26",
+        "status": "posted",
+        "tweet": "Historical energy costs for running major blockchains (USD billions annually).\n\n1. Bitcoin: Rose from $1.5B in 2017 to $10B in 2025, driven by mining expansion.\n2. Ethereum: Peaked at $4B in 2021 (PoW), dropped to $0.6B in 2025 post-PoS merge.\n3. Solana: Grew from $0.05B in 2020 ",
+        "type": "crypto"
     }
 ]
