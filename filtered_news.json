@@ -3193,5 +3193,12 @@
         "status": "posted",
         "tweet": "In 2026, AWS infrastructure in \ud83c\uddfa\ud83c\uddf8Northern Virginia region processed 150 petabytes of data daily.\n\n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-02-27",
+        "status": "posted",
+        "tweet": "Bitcoin: 25,000+ nodes across 120 countries, est. $500M annual infra costs for decentralization.\n\nEthereum: 18,000 nodes in 90 countries, $350M yearly costs.\n\nSolana lags with 2,500 validators in 20 countries, just $50M\u2014centralization saves but risks resilience.",
+        "type": "crypto"
     }
 ]
