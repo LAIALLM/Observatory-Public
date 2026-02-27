@@ -2964,5 +2964,45 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Delaware Gov. Matt Meyer signs executive order streamlining permitting for critical infrastructure projects",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3hlZmY1NFFmYnMyZmM5TURMRTM3RzA0Y2xwR2Nic0ZuVldQRm5ENlhyNHhQWG1FTHBydW1ab21aYjJfdzdkRDVDVHJXQmZtS01aaVA2ZzJnNW45Z21rNEhiM3c4T0tzSi02SXE4Vk1uTnJmeWNiY1BubmNCM3lLTmtCdVVBdTc5SXp0NVRfZ0oyWFMxVDJaMWF0QVZUU3ZXQzhUYkh6VjVlNjF2SXZPZTNBa0FXTENHYm9xUXlyRW5pd9IB1gFBVV95cUxQb0xZc0NYYm1RT1lKb1JvdzkzUkhxUXJFOWlScVpsanRScUNlVUVNSFpVLVdkRDIyazhCNG5IbS1mSlUxQUc1QTljUVFCWC1tUlhUNGtCZmtYUXYzeUQzYUFBSG9fenBMelNCZEE2MUM0c01jSUpyQ0tnNmRiaF9qZHFIMDdSUGZZdHFVT19VY0NKVkpfNTJHYWxlME1jLVFKbUNvNU5JNnZQUF9mRlZfLVhLcEstd2hsWlRWSmVZLU5ScFVhczluYkw2TVIxWHFGdGJadzlR?oc=5",
+        "date": "2026-02-27",
+        "title": "American Heart Association launches campaign focused on construction workers\u2019 health - Northern News Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3hlZmY1NFFmYnMyZmM5TURMRTM3RzA0Y2xwR2Nic0ZuVldQRm5ENlhyNHhQWG1FTHBydW1ab21aYjJfdzdkRDVDVHJXQmZtS01aaVA2ZzJnNW45Z21rNEhiM3c4T0tzSi02SXE4Vk1uTnJmeWNiY1BubmNCM3lLTmtCdVVBdTc5SXp0NVRfZ0oyWFMxVDJaMWF0QVZUU3ZXQzhUYkh6VjVlNjF2SXZPZTNBa0FXTENHYm9xUXlyRW5pd9IB1gFBVV95cUxQb0xZc0NYYm1RT1lKb1JvdzkzUkhxUXJFOWlScVpsanRScUNlVUVNSFpVLVdkRDIyazhCNG5IbS1mSlUxQUc1QTljUVFCWC1tUlhUNGtCZmtYUXYzeUQzYUFBSG9fenBMelNCZEE2MUM0c01jSUpyQ0tnNmRiaF9qZHFIMDdSUGZZdHFVT19VY0NKVkpfNTJHYWxlME1jLVFKbUNvNU5JNnZQUF9mRlZfLVhLcEstd2hsWlRWSmVZLU5ScFVhczluYkw2TVIxWHFGdGJadzlR?oc=5\" target=\"_blank\">American Heart Association launches campaign focused on construction workers\u2019 health</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northern News Now</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLS1SblBfUm5iam9HckoyWmRrVVZWOGt5b0t6SGd6Yi1oZkhBSFFqeThSa1NsLVBsNWZFQ2tUMzNDVU9rcGVJSThwanJ4Z3ZWOEdIYjVoZzVSSjNIdVlfQWtzZG1QdGk1SS1tNTFwZG4xYk0yaFBlQTVvTTcyVGZyMkJ0OHA1WEo4YlRibEFGaHJoYmlpN3luWEY3Tm5MNnBlX19HaEpEYTItQmRsY1NjWmVLakFjRVBTTlZiYWtwVWdCdm5HM3l3NnkwOWhYeUE?oc=5",
+        "date": "2026-02-27",
+        "title": "Regulators target unlawful practices in major construction sector sweep - hcamag.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQLS1SblBfUm5iam9HckoyWmRrVVZWOGt5b0t6SGd6Yi1oZkhBSFFqeThSa1NsLVBsNWZFQ2tUMzNDVU9rcGVJSThwanJ4Z3ZWOEdIYjVoZzVSSjNIdVlfQWtzZG1QdGk1SS1tNTFwZG4xYk0yaFBlQTVvTTcyVGZyMkJ0OHA1WEo4YlRibEFGaHJoYmlpN3luWEY3Tm5MNnBlX19HaEpEYTItQmRsY1NjWmVLakFjRVBTTlZiYWtwVWdCdm5HM3l3NnkwOWhYeUE?oc=5\" target=\"_blank\">Regulators target unlawful practices in major construction sector sweep</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hcamag.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZWQxeEtZalE5eENKTENKOERTWTZMbE1aOTNqaTE2MjFiQ2d6QVBzQi11SnlVakxwLXBsWWNNSFNMVzNRTjgyenAyVFFUUER3TVJmMWlnZjVlYUpZejZPVlRaQnRDcDExb0lUZlhRSjZpdHdONThVbXllcXdMNzFMRVlHaWdNZ290TGNWYnlUTkhTelpTTkswUUYxbF81a3FJbFZWN0pGWEtLMkpHSEtKOUpxNVVLaUpUenV5QUZ4NjRncjJkbGdNS0hXRVhtOTVjSkhXeEpMbFRLOXJyTVBkQU1iaHhCS3hTV0N4dUVYZWprYWM?oc=5",
+        "date": "2026-02-27",
+        "title": "Powering the Future: Manufacturers Spotlight Energy Leadership and Infrastructure at Schneider Electric, Port of Houston - National Association of Manufacturers - NAM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZWQxeEtZalE5eENKTENKOERTWTZMbE1aOTNqaTE2MjFiQ2d6QVBzQi11SnlVakxwLXBsWWNNSFNMVzNRTjgyenAyVFFUUER3TVJmMWlnZjVlYUpZejZPVlRaQnRDcDExb0lUZlhRSjZpdHdONThVbXllcXdMNzFMRVlHaWdNZ290TGNWYnlUTkhTelpTTkswUUYxbF81a3FJbFZWN0pGWEtLMkpHSEtKOUpxNVVLaUpUenV5QUZ4NjRncjJkbGdNS0hXRVhtOTVjSkhXeEpMbFRLOXJyTVBkQU1iaHhCS3hTV0N4dUVYZWprYWM?oc=5\" target=\"_blank\">Powering the Future: Manufacturers Spotlight Energy Leadership and Infrastructure at Schneider Electric, Port of Houston</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Association of Manufacturers - NAM</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0QtTmdnUGFVTXNsOC0wT0Q4VW5NWldCTEJ5MkRMaFVKcTBvZ2lBR19XVkN6V3dXaUJjMnZSaVpDNVdVWmVKZlBFdW80b1BEQlRlaEZIQWZTWmZGbEJEdTlIczMtbi1fNkpTc1BrMURvQklUV2ZBZnhOTVhUQm9CcTRlUUpmZkFaSUV5dDlwWkN5dWxCWEJFa2ZBRVRuRnFwc09YUDl1YkZSQWZ2Y2w4?oc=5",
+        "date": "2026-02-27",
+        "title": "Mumbai 3.0? Why Third Mumbai May Redefine The Region\u2019s Future - Realty Plus Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0QtTmdnUGFVTXNsOC0wT0Q4VW5NWldCTEJ5MkRMaFVKcTBvZ2lBR19XVkN6V3dXaUJjMnZSaVpDNVdVWmVKZlBFdW80b1BEQlRlaEZIQWZTWmZGbEJEdTlIczMtbi1fNkpTc1BrMURvQklUV2ZBZnhOTVhUQm9CcTRlUUpmZkFaSUV5dDlwWkN5dWxCWEJFa2ZBRVRuRnFwc09YUDl1YkZSQWZ2Y2w4?oc=5\" target=\"_blank\">Mumbai 3.0? Why Third Mumbai May Redefine The Region\u2019s Future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Realty Plus Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
