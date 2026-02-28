@@ -2954,5 +2954,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: PM Modi unveils development projects worth Rs 16,680 crore in Rajasthan",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-02-28",
+        "status": "posted",
+        "tweet": "In 2026, urban development firms in \ud83c\uddfa\ud83c\uddf8 allocated 25% of budgets to smart city tech, totaling $150B.\n\nIn \ud83c\udde8\ud83c\uddf3, allocation reached 45%, fueling $320B in AI-integrated infrastructure.",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
