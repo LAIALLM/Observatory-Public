@@ -2962,5 +2962,12 @@
         "tweet": "In 2026, urban development firms in \ud83c\uddfa\ud83c\uddf8 allocated 25% of budgets to smart city tech, totaling $150B.\n\nIn \ud83c\udde8\ud83c\uddf3, allocation reached 45%, fueling $320B in AI-integrated infrastructure.",
         "type": "statistical",
         "category": "urban development firms"
+    },
+    {
+        "link": null,
+        "date": "2026-02-28",
+        "status": "posted",
+        "tweet": "Bitcoin's PoW scalability demands 150 TWh of electricity yearly, costing $10B+ in infrastructure (2026 est.).\n\nEthereum's PoS scales with 0.5 TWh, under $50M annually\u201415,000x more efficient on energy costs.",
+        "type": "crypto"
     }
 ]
