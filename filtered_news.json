@@ -2969,5 +2969,32 @@
         "status": "posted",
         "tweet": "Bitcoin's PoW scalability demands 150 TWh of electricity yearly, costing $10B+ in infrastructure (2026 est.).\n\nEthereum's PoS scales with 0.5 TWh, under $50M annually\u201415,000x more efficient on energy costs.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-02-28",
+        "status": "posted",
+        "tweet": "Alphabet's \ud83c\uddfa\ud83c\uddf8 data centers processed 18 exabytes daily in 2026, up 20% from 2025.\n\n$GOOGL",
+        "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVlA4NFk5Zl9QR0NFV1dmLXJGMktWeTRubkhNdFpGZ0lfX205NElxWl8tNVFfanJ4R3hZUnJBQmlFVFgzWTBlSUVRMXJCVEhrcmdBT0QwYkt5eHY5Y2drTXRPRTkyNEFEa2xFakJqSGpLX252YUIzRWdld0ZXQ29FTU1Ja0xtb2o1VnlJTWpnb3A3ODBGN2hSbkFtNjh1UHl4RjRoNA?oc=5",
+        "date": "2026-02-28",
+        "title": "Iran's main oil and gas production and infrastructure - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPVlA4NFk5Zl9QR0NFV1dmLXJGMktWeTRubkhNdFpGZ0lfX205NElxWl8tNVFfanJ4R3hZUnJBQmlFVFgzWTBlSUVRMXJCVEhrcmdBT0QwYkt5eHY5Y2drTXRPRTkyNEFEa2xFakJqSGpLX252YUIzRWdld0ZXQ29FTU1Ja0xtb2o1VnlJTWpnb3A3ODBGN2hSbkFtNjh1UHl4RjRoNA?oc=5\" target=\"_blank\">Iran's main oil and gas production and infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaGxXcTE1Q0EtV01IaW1MYkpqa0tXVnNSbTdOQnhzNFRPXzY1Q211QWl1eUwzTEJkUG1pajdOdkFyd3cxZE9IU0NXdnJxcHRYVXUzWFdtWUQySTB6dlVWMy15UU1ma1FUTF80bDZrSjA4V19uU2FSUjFyWUVNbmFESmlHTm1JcjlibGJFS3F5RENSYXlJV2Rhc2dwNEJsQWpUNHF1ckJNYWMxRkp4YXdzaVZGSnZqUFlUNDZWUVdGVmx4cGQzSWswZ0hoWGg?oc=5",
+        "date": "2026-02-28",
+        "title": "Melbourne Closes Out COVID Relief Funds With Final Allocation - TAPinto",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNaGxXcTE1Q0EtV01IaW1MYkpqa0tXVnNSbTdOQnhzNFRPXzY1Q211QWl1eUwzTEJkUG1pajdOdkFyd3cxZE9IU0NXdnJxcHRYVXUzWFdtWUQySTB6dlVWMy15UU1ma1FUTF80bDZrSjA4V19uU2FSUjFyWUVNbmFESmlHTm1JcjlibGJFS3F5RENSYXlJV2Rhc2dwNEJsQWpUNHF1ckJNYWMxRkp4YXdzaVZGSnZqUFlUNDZWUVdGVmx4cGQzSWswZ0hoWGg?oc=5\" target=\"_blank\">Melbourne Closes Out COVID Relief Funds With Final Allocation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TAPinto</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
