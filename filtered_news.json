@@ -2862,5 +2862,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8US EPA regulations in 2026 impose $1.8B annual energy compliance costs on Bitcoin mining infrastructure, driven by carbon emissions caps.\n\nEthereum's proof-of-stake avoids this, limiting regulatory overhead to $120M globally\u2014 a 15x cost advantage for sustainable networks.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbmphWXFtVE1WTG5ybTZqYlhLRGF6Z3hrV0dHUzYyV0t6aUNuazhJNmx0aV9ib0dTTHJzV1hQeVdXNzA1MWdJcXc3UlZnUHlHTjVPYjBjUVhMMXBHc0QwemNtaE16UE1BcHBnYWkxZ0habThwVmVfQzg4UkdVWWRKU0dBSHFod1RLTjZxQ2ZNYWtqdnRTclFF?oc=5",
+        "date": "2026-03-01",
+        "title": "Residents Explore Development Ideas for Lisbon Avenue - Urban Milwaukee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPbmphWXFtVE1WTG5ybTZqYlhLRGF6Z3hrV0dHUzYyV0t6aUNuazhJNmx0aV9ib0dTTHJzV1hQeVdXNzA1MWdJcXc3UlZnUHlHTjVPYjBjUVhMMXBHc0QwemNtaE16UE1BcHBnYWkxZ0habThwVmVfQzg4UkdVWWRKU0dBSHFod1RLTjZxQ2ZNYWtqdnRTclFF?oc=5\" target=\"_blank\">Residents Explore Development Ideas for Lisbon Avenue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urban Milwaukee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://infrastructuremagazine.com.au/ara-welcomes-high-speed-rail-planning-milestone/",
+        "date": "2026-03-01",
+        "title": "ARA welcomes high speed rail planning milestone",
+        "summary": "<figure><img alt=\"\" src=\"https://infrastructuremagazine.com.au/wp-content/uploads/2026/03/AdobeStock_316536939.jpeg\" style=\"float: right; margin: 0 0 10px 10px;\" /><figcaption>Image: Taras Rudenko/stock.adobe.com </figcaption></figure>The Australasian Railway Association (ARA) has welcomed the announcement that Australia\u2019s high speed rail project will move into the detailed planning phase. ARA Chief Executive Officer, Caroline Wilkie, said the [&#8230;]",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: ARA welcomes milestone as Australias high speed rail project advances to detailed planning phase"
     }
 ]
