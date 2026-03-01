@@ -2690,5 +2690,25 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVm50TUdMcHVMR2FLbVV4QnV4RXEtUG5URVZXNWxuWnEzWFRObjNzTFRySnNMVENDUGdNaGlnTDNlN0lLakpzWGtxdEhaTE5UalhCbDUxSEhybjdwUk1JMFFfLTFrT3ZNT0RuUXRBQlNjS3hkSS1PZnJuTHp5WVNIMjJJUzliUlE0d2t2UW1KakRGSnJIbmfSAZsBQVVfeXFMT3BMX0ZJMS1xajRfelRTMWFBTlNEcWw0WDdoVHpicFRUTkwxcUVLSXpfNlVVeG91ZGZOSmxucEkxX1UySExxcDhLcmhPSXVMTjJUTTQzNnJsa0dVNzhncUJIdDhJUUN5V0tZNTZhb2h2blU2WW1CWFV4WE1iSG9mUldLMnR0a3N4MU1NZm8tU2ZjVV9oMnhCMFA0YlU?oc=5",
+        "date": "2026-03-01",
+        "title": "El Paso VA to begin interior renovations, infrastructure upgrades - KTSM 9 News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVm50TUdMcHVMR2FLbVV4QnV4RXEtUG5URVZXNWxuWnEzWFRObjNzTFRySnNMVENDUGdNaGlnTDNlN0lLakpzWGtxdEhaTE5UalhCbDUxSEhybjdwUk1JMFFfLTFrT3ZNT0RuUXRBQlNjS3hkSS1PZnJuTHp5WVNIMjJJUzliUlE0d2t2UW1KakRGSnJIbmfSAZsBQVVfeXFMT3BMX0ZJMS1xajRfelRTMWFBTlNEcWw0WDdoVHpicFRUTkwxcUVLSXpfNlVVeG91ZGZOSmxucEkxX1UySExxcDhLcmhPSXVMTjJUTTQzNnJsa0dVNzhncUJIdDhJUUN5V0tZNTZhb2h2blU2WW1CWFV4WE1iSG9mUldLMnR0a3N4MU1NZm8tU2ZjVV9oMnhCMFA0YlU?oc=5\" target=\"_blank\">El Paso VA to begin interior renovations, infrastructure upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTSM 9 News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTkNZRnJDNjEtNTQybXExV2hWNERoc2RjUXNaUEZoWHBrckNNTmVnWG9wdThQZGJKazdHODktbFd1Wm0xQ2pFRUNQdms4TldpRkpOb0JuZ3VLTmxNODl2RHNQVnYyM2huMGMwX3piS1hLVzBjQXc0dW9uZ1RhSFFEXzZMV3VjTkZmWTFwRDZlbnBJMTYyNmc?oc=5",
+        "date": "2026-03-01",
+        "title": "Different Children Will Be Born - Artforum",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNTkNZRnJDNjEtNTQybXExV2hWNERoc2RjUXNaUEZoWHBrckNNTmVnWG9wdThQZGJKazdHODktbFd1Wm0xQ2pFRUNQdms4TldpRkpOb0JuZ3VLTmxNODl2RHNQVnYyM2huMGMwX3piS1hLVzBjQXc0dW9uZ1RhSFFEXzZMV3VjTkZmWTFwRDZlbnBJMTYyNmc?oc=5\" target=\"_blank\">Different Children Will Be Born</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Artforum</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
