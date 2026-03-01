@@ -2855,5 +2855,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-01",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8US EPA regulations in 2026 impose $1.8B annual energy compliance costs on Bitcoin mining infrastructure, driven by carbon emissions caps.\n\nEthereum's proof-of-stake avoids this, limiting regulatory overhead to $120M globally\u2014 a 15x cost advantage for sustainable networks.",
+        "type": "crypto"
     }
 ]
