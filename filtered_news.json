@@ -2818,5 +2818,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-01",
+        "status": "posted",
+        "tweet": "Alphabet $GOOGL data centers in \ud83c\uddfa\ud83c\uddf8 processed 12 exabytes daily in 2026, supporting global cloud services.",
+        "type": "infrastructure"
     }
 ]
