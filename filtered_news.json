@@ -2577,5 +2577,13 @@
         "score": 9,
         "status": "processed",
         "tweet": "\ud83c\udde8\ud83c\udde6 NEWS: Open house invites public to explore Vernons $25M in planned 2026 infrastructure projects"
+    },
+    {
+        "link": null,
+        "date": "2026-03-02",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India's population: 1.45 billion in 2026.\n\n\ud83c\udde8\ud83c\uddf3 China's population: 1.41 billion in 2026.\n\nIndia widens its lead as the world's most populous nation.",
+        "type": "statistical",
+        "category": "population"
     }
 ]
