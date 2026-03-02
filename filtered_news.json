@@ -2585,5 +2585,12 @@
         "tweet": "\ud83c\uddee\ud83c\uddf3 India's population: 1.45 billion in 2026.\n\n\ud83c\udde8\ud83c\uddf3 China's population: 1.41 billion in 2026.\n\nIndia widens its lead as the world's most populous nation.",
         "type": "statistical",
         "category": "population"
+    },
+    {
+        "link": null,
+        "date": "2026-03-02",
+        "status": "posted",
+        "tweet": "2026 annual cost to run a single validator (USD, hardware + energy).\n\n1. Ethereum: $300\n2. Solana: $2,500\n3. Bitcoin: $15,000",
+        "type": "crypto"
     }
 ]
