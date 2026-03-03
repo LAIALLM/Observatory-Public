@@ -2974,5 +2974,12 @@
         "status": "posted",
         "tweet": "Meta's data centers in \ud83c\uddfa\ud83c\uddf8USA and \ud83c\uddee\ud83c\uddeaIreland handle 15 exabytes of daily data processing in 2026.\n\nEfficiency: 95% renewable energy utilization.\n\n$META",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-03",
+        "status": "posted",
+        "tweet": "Bitcoin node distribution (2026): 18,000 nodes, 52% in \ud83c\uddfa\ud83c\uddf8US and \ud83c\udde9\ud83c\uddeaGermany (avg energy $0.12/kWh, hardware $800/node/yr).\n\nEthereum: 12,000 nodes, 35% in \ud83c\uddfa\ud83c\uddf8US, 28% in \ud83c\uddee\ud83c\uddf3India and \ud83c\udde8\ud83c\uddf3China ($0.07/kWh avg).\n\nTotal infra cost: BTC $14.4M/yr vs ETH $7.2M/yr.",
+        "type": "crypto"
     }
 ]
