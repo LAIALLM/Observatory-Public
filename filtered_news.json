@@ -2967,5 +2967,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-03",
+        "status": "posted",
+        "tweet": "Meta's data centers in \ud83c\uddfa\ud83c\uddf8USA and \ud83c\uddee\ud83c\uddeaIreland handle 15 exabytes of daily data processing in 2026.\n\nEfficiency: 95% renewable energy utilization.\n\n$META",
+        "type": "infrastructure"
     }
 ]
