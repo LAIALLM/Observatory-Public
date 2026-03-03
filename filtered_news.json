@@ -3392,5 +3392,157 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: $13M FL infrastructure grant targets aerospace and maritime projects plus workforce housing",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZ05WRWhqR3JzNm1tcWFxeHdsUkdkWThNUk0xTjFoNjRnTlNieTZ6cmZXUTFVeU91R2ZIQTNFd1ExNkJqSTdhMXI5c1BSYllzdkowWmNsdXZDczh4VWhkcDgxYjNiN1lRSlhyYUhvMUVHQWY3dmRCNElkb3pVZ2ZfaV9wUnItTHNDU0JiSTQ0UmE1N2FLcmVEYnU2TERIRF8wUHZzNU9NbUZnenJfMVhXLUk0RThXQkFCdlpFR3NneldXdnlQOVozSVRPVVRYamVYYmNBWDZ5RFFnUGg4cjVITGd0X2ZjX201bnQwOFNUb1pvRVFIdmFqTkljcjl0VXpZUHpQaGprWTFOZU0?oc=5",
+        "date": "2026-03-03",
+        "title": "See which states lead in National Green Building Standard certifications - LBM Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZ05WRWhqR3JzNm1tcWFxeHdsUkdkWThNUk0xTjFoNjRnTlNieTZ6cmZXUTFVeU91R2ZIQTNFd1ExNkJqSTdhMXI5c1BSYllzdkowWmNsdXZDczh4VWhkcDgxYjNiN1lRSlhyYUhvMUVHQWY3dmRCNElkb3pVZ2ZfaV9wUnItTHNDU0JiSTQ0UmE1N2FLcmVEYnU2TERIRF8wUHZzNU9NbUZnenJfMVhXLUk0RThXQkFCdlpFR3NneldXdnlQOVozSVRPVVRYamVYYmNBWDZ5RFFnUGg4cjVITGd0X2ZjX201bnQwOFNUb1pvRVFIdmFqTkljcjl0VXpZUHpQaGprWTFOZU0?oc=5\" target=\"_blank\">See which states lead in National Green Building Standard certifications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LBM Journal</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVI5c3VpVEN2U3dXMEtSalVnbnd0cHM3dTJmb29nQ2liY0lpeFctTjI5NFA0dTFGNkplMHZQNnFIbWtsWDdtZEdNWXpXM2tYMkZxRTUyUnZSRWdiQm5HZjlMRnJ4eFRTUldDby1aNV9EYnlNS0l5cUhvbV9UcUd5U1lDSVlGdw?oc=5",
+        "date": "2026-03-03",
+        "title": "IMCA Launches New Career Support Network - Marine News Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVI5c3VpVEN2U3dXMEtSalVnbnd0cHM3dTJmb29nQ2liY0lpeFctTjI5NFA0dTFGNkplMHZQNnFIbWtsWDdtZEdNWXpXM2tYMkZxRTUyUnZSRWdiQm5HZjlMRnJ4eFRTUldDby1aNV9EYnlNS0l5cUhvbV9UcUd5U1lDSVlGdw?oc=5\" target=\"_blank\">IMCA Launches New Career Support Network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marine News Magazine</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWEthTk9pTzBMT2hiZ1g4YVpjbHRlTTlBa0prQ2hiTXk3al9NRy1kdHlGazhNTFBPdy1faVJiYUF0RVdwMzdIUllTbS1fTDBtY2g2bkkyTFVra2RVQk1lY1o1TUItUGN4ZDFJZG1YbmFMZ3VtUTJpdExERlB1YUZJSU5EX29seVROMTc1ag?oc=5",
+        "date": "2026-03-03",
+        "title": "Green infrastructure captures stormwater off Milwaukee highways - WUWM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWEthTk9pTzBMT2hiZ1g4YVpjbHRlTTlBa0prQ2hiTXk3al9NRy1kdHlGazhNTFBPdy1faVJiYUF0RVdwMzdIUllTbS1fTDBtY2g2bkkyTFVra2RVQk1lY1o1TUItUGN4ZDFJZG1YbmFMZ3VtUTJpdExERlB1YUZJSU5EX29seVROMTc1ag?oc=5\" target=\"_blank\">Green infrastructure captures stormwater off Milwaukee highways</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WUWM</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObVZvWW50QVpjXzBNb2dnb2NrRU5YNTZKWDNrR05yVC16OUl0cmNSU3ZHUlRpM0txWk82LWxoeHZ1aTRZQkRIMXRDOWxxZm5SZnV2UE9HUllhVUhzRlJQMnZmOVRnMTBqZV91ZGtZbzl5elZicnpIMzJ6TUdaaUdTMlV5Y01ZY2JTZTJEV0Q0cw?oc=5",
+        "date": "2026-03-03",
+        "title": "Quillen VA Medical Center to upgrade infrastructure - Kingsport Times News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxObVZvWW50QVpjXzBNb2dnb2NrRU5YNTZKWDNrR05yVC16OUl0cmNSU3ZHUlRpM0txWk82LWxoeHZ1aTRZQkRIMXRDOWxxZm5SZnV2UE9HUllhVUhzRlJQMnZmOVRnMTBqZV91ZGtZbzl5elZicnpIMzJ6TUdaaUdTMlV5Y01ZY2JTZTJEV0Q0cw?oc=5\" target=\"_blank\">Quillen VA Medical Center to upgrade infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kingsport Times News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wVzJIdnNRUy1BRFd4ZzZYQ3FXNzNiTGpXdlZzXzBsNVpRS3BGTUp5LXFSQmNZcHVlMXpsTjRkZGdnUXZCcnN3QWwyQXpadjEzRm5BNm1Rdm0yUFJTOS1DSGdFd3NMVWNxTUE?oc=5",
+        "date": "2026-03-03",
+        "title": "Open VSX Hits 300 Million Monthly Downloads, and the Quiet Infrastructure Behind AI Coding Tools Gets a Stress Test - ADTmag",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE4wVzJIdnNRUy1BRFd4ZzZYQ3FXNzNiTGpXdlZzXzBsNVpRS3BGTUp5LXFSQmNZcHVlMXpsTjRkZGdnUXZCcnN3QWwyQXpadjEzRm5BNm1Rdm0yUFJTOS1DSGdFd3NMVWNxTUE?oc=5\" target=\"_blank\">Open VSX Hits 300 Million Monthly Downloads, and the Quiet Infrastructure Behind AI Coding Tools Gets a Stress Test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ADTmag</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd1dqVWZ5b3lLVUY3ZTBmYTNCQlBpQjFCblUxci0xOHFJUXZxd2Y4b1YwYU1lVTFRVzQ4ZDdLaXo1eWU5bDJMYmZlQm1ISDFVVXJuaFhXdkhoNlBIMHQtQ2ZUVFBPYjE3M0g4aTZkWXNhXzh6ZzBwQ2hOX05YSmhyamRQZDIyRjlhWVNhazk4ZlgxOTdsWUpUaVNuRFRXM0tQNnV4VVFyUHNXalUxY2xHM0JKTzAxMUxoaEJNQkZyWXBQWXdXVEE?oc=5",
+        "date": "2026-03-03",
+        "title": "GAC 2026: Stablecoins Move From Crypto Fringe To Payments Infrastructure, Credit Unions Told - CUToday",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNd1dqVWZ5b3lLVUY3ZTBmYTNCQlBpQjFCblUxci0xOHFJUXZxd2Y4b1YwYU1lVTFRVzQ4ZDdLaXo1eWU5bDJMYmZlQm1ISDFVVXJuaFhXdkhoNlBIMHQtQ2ZUVFBPYjE3M0g4aTZkWXNhXzh6ZzBwQ2hOX05YSmhyamRQZDIyRjlhWVNhazk4ZlgxOTdsWUpUaVNuRFRXM0tQNnV4VVFyUHNXalUxY2xHM0JKTzAxMUxoaEJNQkZyWXBQWXdXVEE?oc=5\" target=\"_blank\">GAC 2026: Stablecoins Move From Crypto Fringe To Payments Infrastructure, Credit Unions Told</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CUToday</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3lsUFozWGxEU1I2MGFZMXdsdnZjbEdjM3BFYkpKdkdwZFhzcnE0Zy1sRWI3WGNZSzFWS1BrbVR5bXNpZ2s3R3NNTDlQV3FRSjN0UjhJMl94MFBLNFVMSXN4YU5SQmxGRWQzd0ZmeHFGcjhFWXpVN09wbmpfbVd5ZFRGR05ldTZtaVE?oc=5",
+        "date": "2026-03-03",
+        "title": "FiberLight deploying $350 million in West Texas - Midland Reporter-Telegram",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3lsUFozWGxEU1I2MGFZMXdsdnZjbEdjM3BFYkpKdkdwZFhzcnE0Zy1sRWI3WGNZSzFWS1BrbVR5bXNpZ2s3R3NNTDlQV3FRSjN0UjhJMl94MFBLNFVMSXN4YU5SQmxGRWQzd0ZmeHFGcjhFWXpVN09wbmpfbVd5ZFRGR05ldTZtaVE?oc=5\" target=\"_blank\">FiberLight deploying $350 million in West Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Midland Reporter-Telegram</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRG1DWDk5dWNHdFNVOF9hYTc2ZGU5QXZRb3NQM01wNmtHM1lNUk9nZHNrbERtRVE2dVVqZnQtZnNSZ0E1VE5KYUV2dDZ2YWlhS05iSHR0d2JlZ3RUbWxwdFNwUWx6NldfMVVyUFBaMjBaMmUyWHNrS0o5c2VkbHMyclpSbVdGampNWmR6b05hUUdkTGFGZzNZQ0txUFFUYlJ3UERfbEJKbGlqa1ZRV0lNODd3eDFTdVo0cy0xcGN2Y00xb3ZRZE9QeE1WbVFlZWhMVGJRNjJpMVlSdHhkcDdpZjNvNWVoZVIxTFkzOEV0eExVU1YySWxuUFJjbHBvR295MkZCcXJ3Nm8?oc=5",
+        "date": "2026-03-03",
+        "title": "ALAB: Switches, cables, and optical tech drive growth as AI infrastructure demand accelerates - TradingView",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRG1DWDk5dWNHdFNVOF9hYTc2ZGU5QXZRb3NQM01wNmtHM1lNUk9nZHNrbERtRVE2dVVqZnQtZnNSZ0E1VE5KYUV2dDZ2YWlhS05iSHR0d2JlZ3RUbWxwdFNwUWx6NldfMVVyUFBaMjBaMmUyWHNrS0o5c2VkbHMyclpSbVdGampNWmR6b05hUUdkTGFGZzNZQ0txUFFUYlJ3UERfbEJKbGlqa1ZRV0lNODd3eDFTdVo0cy0xcGN2Y00xb3ZRZE9QeE1WbVFlZWhMVGJRNjJpMVlSdHhkcDdpZjNvNWVoZVIxTFkzOEV0eExVU1YySWxuUFJjbHBvR295MkZCcXJ3Nm8?oc=5\" target=\"_blank\">ALAB: Switches, cables, and optical tech drive growth as AI infrastructure demand accelerates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOHRGOFFJNzY0QjZzVXJGbmQyNnJvRzZHTUpxa1l4NVBqUERjeTV2NVFCMzZ1RnJtb2s3MXpNRTZVX3FrNFNadTJtSlpjRm1QbmZRcmg3bHJvV2tSeUxzdGdLOV9PbkNUdXhHelZ0M3RhMGtjbVFZNGJ3c3RkMDBjbVFxbWNlcXMxeTVhMFk5QXJ6eUhFcEIxX2ZQS0FYUDNVdzFGWUxZa2d6d1lPeHEwVUNrYWNHZ0JrVzlUb1F6c0p0VGROdzdHWUVLb1BVNklpX0FvUVB2Ymo4S0ZjTVdwWDlGMXZhejZaYkpGazlrSEJEc1U?oc=5",
+        "date": "2026-03-03",
+        "title": "Press Release: Rep. Young Kim Secures Funding for Public Safety, Water, and Infrastructure in California's 40th District - Quiver Quantitative",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOHRGOFFJNzY0QjZzVXJGbmQyNnJvRzZHTUpxa1l4NVBqUERjeTV2NVFCMzZ1RnJtb2s3MXpNRTZVX3FrNFNadTJtSlpjRm1QbmZRcmg3bHJvV2tSeUxzdGdLOV9PbkNUdXhHelZ0M3RhMGtjbVFZNGJ3c3RkMDBjbVFxbWNlcXMxeTVhMFk5QXJ6eUhFcEIxX2ZQS0FYUDNVdzFGWUxZa2d6d1lPeHEwVUNrYWNHZ0JrVzlUb1F6c0p0VGROdzdHWUVLb1BVNklpX0FvUVB2Ymo4S0ZjTVdwWDlGMXZhejZaYkpGazlrSEJEc1U?oc=5\" target=\"_blank\">Press Release: Rep. Young Kim Secures Funding for Public Safety, Water, and Infrastructure in California's 40th District</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Rep. Young Kim secures funding for public safety, water projects, and infrastructure upgrades in Californias 40th District"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUVxNzFnbC0tVWJFaHFXNjJ5d3BDYzRtdG4wMEVJRk5VMm1NQV9DRlZGRUhteEJKYTVXMTdhNTQyeWhLOVJndHhyRm5aTWVHbzNRWWt5VlBfbmV0YzVtcnY4akl4T3dlTW9sZ2ZvNEZ5Wkp5ekdEbzZRc3ZlQzlaSGpPTXNhZlhqOUJfVFlrbFdVa3VXZFZTV3VxTlNwdnRsdy1QZzJjWnVrS0tWOHpFYURn?oc=5",
+        "date": "2026-03-03",
+        "title": "Advanced Micro Devices, Inc. (AMD) Partners With Meta for AI Infrastructure Expansion - Finviz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUVxNzFnbC0tVWJFaHFXNjJ5d3BDYzRtdG4wMEVJRk5VMm1NQV9DRlZGRUhteEJKYTVXMTdhNTQyeWhLOVJndHhyRm5aTWVHbzNRWWt5VlBfbmV0YzVtcnY4akl4T3dlTW9sZ2ZvNEZ5Wkp5ekdEbzZRc3ZlQzlaSGpPTXNhZlhqOUJfVFlrbFdVa3VXZFZTV3VxTlNwdnRsdy1QZzJjWnVrS0tWOHpFYURn?oc=5\" target=\"_blank\">Advanced Micro Devices, Inc. (AMD) Partners With Meta for AI Infrastructure Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finviz</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSlY1ekFyV0NQRDN4VTR4QXlvLXdwMFRPaDFYQmxHUGpVSUF1LVowbHRwTVJYdWg2YV9Cc0pQaXRYaWFJOGxNQksyc3YyNmw1RC1pODlSSW4yeUlwdE95V1lZY3FHWlhUSEJtQ3VKcjRCcE5veHE1UnVlcC1XWnI0UEtja0FLSkxBcTFWUFpTWm5wRGU2cldzLWxFRnRuX2JTdm1POTZ0TElOdFdvUm1McDh4Q1VfYUtTYzBDemM0NHVTdDFFM3fSAcsBQVVfeXFMT3RSXzBiWHlvUlVwZ1daV0syYjRuXzlXQk9ubGFzaV9aUkxVdFdFQkNTSEtjX2tDNEpPbHZoZnRVTTF5Z2ZJbHlJTmcxVXZvTmJfYWM1Z3BSVWlNMjNSRFBLMlNUNnp3bHBpaHdSbXp1T0xRVnlNT2RxVk9RUl9qM3EzOEw2cUdHc1I5eVYzWFFXODdpanBnNEF3OHlHUWxMRVZQQXZEdDVEcG54OEZSM0VuaGlCZll4U1RfMnNtMUNBYmVuMXBlVkNNZDQ?oc=5",
+        "date": "2026-03-03",
+        "title": "Focus of Ahmedabad development plan shifts to 2041 - The Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQSlY1ekFyV0NQRDN4VTR4QXlvLXdwMFRPaDFYQmxHUGpVSUF1LVowbHRwTVJYdWg2YV9Cc0pQaXRYaWFJOGxNQksyc3YyNmw1RC1pODlSSW4yeUlwdE95V1lZY3FHWlhUSEJtQ3VKcjRCcE5veHE1UnVlcC1XWnI0UEtja0FLSkxBcTFWUFpTWm5wRGU2cldzLWxFRnRuX2JTdm1POTZ0TElOdFdvUm1McDh4Q1VfYUtTYzBDemM0NHVTdDFFM3fSAcsBQVVfeXFMT3RSXzBiWHlvUlVwZ1daV0syYjRuXzlXQk9ubGFzaV9aUkxVdFdFQkNTSEtjX2tDNEpPbHZoZnRVTTF5Z2ZJbHlJTmcxVXZvTmJfYWM1Z3BSVWlNMjNSRFBLMlNUNnp3bHBpaHdSbXp1T0xRVnlNT2RxVk9RUl9qM3EzOEw2cUdHc1I5eVYzWFFXODdpanBnNEF3OHlHUWxMRVZQQXZEdDVEcG54OEZSM0VuaGlCZll4U1RfMnNtMUNBYmVuMXBlVkNNZDQ?oc=5\" target=\"_blank\">Focus of Ahmedabad development plan shifts to 2041</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.constructiondive.com/news/turner-2025-annual-report-data-centers/813694/",
+        "date": "2026-03-03",
+        "title": "Data centers propelled Turner to record $29.2B in revenue in 2025",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/TGk6-u_CNVph6kS_fnzXRNN_DMVIdgHFyEoi75ZJzeU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GaW5hbF9WaWV3XzAxLmpwZw==.webp\" /></div></figure><p>Backlog reached $44.3 billion as hyperscaler data center projects, sports stadiums and healthcare jobs buoyed the contractor&rsquo;s results.</p>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "NEWS: Data centers propelled Turner to record $29.2B revenue in 2025, with backlog surging to $44.3B on hyperscaler projects, stadiums and healthcare jobs"
+    },
+    {
+        "link": "https://www.enr.com/articles/62603-excavator-incident-halts-pa-demolition-project",
+        "date": "2026-03-03",
+        "title": "Excavator Incident Halts Pa. Demolition Project",
+        "summary": "<p>A large excavator tumbled into an excavated pit Tuesday morning, Mar. 3, during demolition of a county government office building complex in Washington, Pa., southwest of Pittsburgh. The operator appears to have been unhurt, according to published reports.</p>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOHRGOFFJNzY0QjZzVXJGbmQyNnJvRzZHTUpxa1l4NVBqUERjeTV2NVFCMzZ1RnJtb2s3MXpNRTZVX3FrNFNadTJtSlpjRm1QbmZRcmg3bHJvV2tSeUxzdGdLOV9PbkNUdXhHelZ0M3RhMGtjbVFZNGJ3c3RkMDBjbVFxbWNlcXMxeTVhMFk5QXJ6eUhFcEIxX2ZQS0FYUDNVdzFGWUxZa2d6d1lPeHEwVUNrYWNHZ0JrVzlUb1F6c0p0VGROdzdHWUVLb1BVNklpX0FvUVB2Ymo4S0ZjTVdwWDlGMXZhejZaYkpGazlrSEJEc1U?oc=5",
+        "date": "2026-03-03",
+        "title": "Press Release: Rep. Young Kim Secures Funding for Public Safety, Water, and Infrastructure in California's 40th District - Quiver Quantitative",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOHRGOFFJNzY0QjZzVXJGbmQyNnJvRzZHTUpxa1l4NVBqUERjeTV2NVFCMzZ1RnJtb2s3MXpNRTZVX3FrNFNadTJtSlpjRm1QbmZRcmg3bHJvV2tSeUxzdGdLOV9PbkNUdXhHelZ0M3RhMGtjbVFZNGJ3c3RkMDBjbVFxbWNlcXMxeTVhMFk5QXJ6eUhFcEIxX2ZQS0FYUDNVdzFGWUxZa2d6d1lPeHEwVUNrYWNHZ0JrVzlUb1F6c0p0VGROdzdHWUVLb1BVNklpX0FvUVB2Ymo4S0ZjTVdwWDlGMXZhejZaYkpGazlrSEJEc1U?oc=5\" target=\"_blank\">Press Release: Rep. Young Kim Secures Funding for Public Safety, Water, and Infrastructure in California's 40th District</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Rep. Young Kim secures funding for public safety, water, and infrastructure in Californias 40th District",
+        "type": "news"
+    },
+    {
+        "link": "https://www.constructiondive.com/news/turner-2025-annual-report-data-centers/813694/",
+        "date": "2026-03-03",
+        "title": "Data centers propelled Turner to record $29.2B in revenue in 2025",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/TGk6-u_CNVph6kS_fnzXRNN_DMVIdgHFyEoi75ZJzeU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GaW5hbF9WaWV3XzAxLmpwZw==.webp\" /></div></figure><p>Backlog reached $44.3 billion as hyperscaler data center projects, sports stadiums and healthcare jobs buoyed the contractor&rsquo;s results.</p>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Data centers propelled Turner to record $29.2B revenue in 2025, with backlog reaching $44.3B from hyperscaler projects, sports stadiums and healthcare jobs.",
+        "type": "news"
     }
 ]
