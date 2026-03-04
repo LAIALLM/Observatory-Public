@@ -3309,5 +3309,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddff\ud83c\udde6 NEWS: South Africa\u2019s R30-billion waterfront smart city project faces serious setbacks.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-04",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US infrastructure projects: 15,000 active in 2026, up 20% from 2023.\n\n\ud83c\udde8\ud83c\uddf3 China: 45,000 active projects, projected to surge 30% by 2030 amid Belt and Road expansion.",
+        "type": "statistical",
+        "category": "construction projects"
     }
 ]
