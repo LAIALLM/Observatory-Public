@@ -3458,5 +3458,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: 3i Infrastructure to sell its stake in an airport business for \u20ac1.14B $3IN",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-05",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US regulations project $2.5B added to Bitcoin mining infrastructure costs in 2026, driven by mandatory carbon offset compliance for data centers.",
+        "type": "crypto"
     }
 ]
