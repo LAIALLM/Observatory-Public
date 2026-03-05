@@ -3227,5 +3227,13 @@
         "status": "posted",
         "tweet": "Microsoft $MSFT data centers in \ud83c\uddfa\ud83c\uddf8 Virginia process 8 exabytes of AI workloads daily in 2026, up 40% from 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-05",
+        "status": "posted",
+        "tweet": "Projected top 5 most populous urban areas in 2026 (UN estimates, metro pop. in millions):\n\n\ud83c\uddef\ud83c\uddf5 Tokyo/Japan - 37.2\n\ud83c\uddee\ud83c\uddf3 Delhi/India - 34.7\n\ud83c\udde8\ud83c\uddf3 Shanghai/China - 30.5\n\ud83c\udde7\ud83c\udde9 Dhaka/Bangladesh - 23.9\n\ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo/Brazil - 22.8",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
