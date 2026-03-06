@@ -3250,5 +3250,12 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-06",
+        "status": "posted",
+        "tweet": "Microsoft's global data centers in 2026 operate at 98% energy efficiency, consuming 15 TWh annually.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
