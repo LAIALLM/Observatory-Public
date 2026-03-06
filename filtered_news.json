@@ -3486,5 +3486,12 @@
         "tweet": "Projected top 5 economies by nominal GDP in 2026 (USD trillions)\n\n1. \ud83c\uddfa\ud83c\uddf8 United States (28.8)\n2. \ud83c\udde8\ud83c\uddf3 China (21.3)\n3. \ud83c\uddef\ud83c\uddf5 Japan (4.3)\n4. \ud83c\udde9\ud83c\uddea Germany (4.7)\n5. \ud83c\uddee\ud83c\uddf3 India (4.3)",
         "type": "statistical",
         "category": "countries"
+    },
+    {
+        "link": null,
+        "date": "2026-03-06",
+        "status": "posted",
+        "tweet": "Total annual infrastructural costs for decentralized validator/miner networks (2026 est., USD billions).\n\n1. Bitcoin: 15 (energy-dominant PoW mining across 100+ countries)\n2. Ethereum: 1.8 (PoS staking hardware and power for 1M+ validators)\n3. Solana: 0.4 (high-spec nodes for 2K+",
+        "type": "crypto"
     }
 ]
