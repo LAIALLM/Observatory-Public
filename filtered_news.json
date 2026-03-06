@@ -3130,5 +3130,55 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Andhra Pradesh Minister Narayana outlines key steps to bolster urban infrastructure statewide.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLVptY1gxNkxtVUE2cG11X2E2ZnQxWUdrQ3BGcFd5aF81TGVFLXUyY256Vm9kbGJvdU0xUGsyZHp4dWljTHRVc3R2TFd5alM4WVIxNUtvR05GSkRVT1R5YWtLQ3ljZEh4QmVFRVRpOGRtQ0pWajkwTUxnSDZ0dV9FREgwbXNRR0FodTFYNGlJR3ZkcUFwWHY0QjFSMFBxQWQzV0V4TnAzQmlNM0RQSXFSMlJTeXVZdmM?oc=5",
+        "date": "2026-03-06",
+        "title": "Women can find new jobs in construction with Hammers for Hope - news3lv.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOLVptY1gxNkxtVUE2cG11X2E2ZnQxWUdrQ3BGcFd5aF81TGVFLXUyY256Vm9kbGJvdU0xUGsyZHp4dWljTHRVc3R2TFd5alM4WVIxNUtvR05GSkRVT1R5YWtLQ3ljZEh4QmVFRVRpOGRtQ0pWajkwTUxnSDZ0dV9FREgwbXNRR0FodTFYNGlJR3ZkcUFwWHY0QjFSMFBxQWQzV0V4TnAzQmlNM0RQSXFSMlJTeXVZdmM?oc=5\" target=\"_blank\">Women can find new jobs in construction with Hammers for Hope</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news3lv.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNak40U2tyclY5R1ZqS3NqWV9pYWxSUDZjaTdHTmNGYXVuMmhjdjlMcG44Y3dLdTVISTZGZjU0MTFZb19LYzNRTXkzbXdjdEhMVVZQZFRobHRwdVBNTTJrbDc3TEpQVzdBaWc4YU9pUE1ib2o4cDNKLXlwSWwxSjZTWEs1ZjFvdTc1c3lLSHU4TlN4V00?oc=5",
+        "date": "2026-03-06",
+        "title": "Devon homebuilder championing women in construction - Yahoo News UK",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNak40U2tyclY5R1ZqS3NqWV9pYWxSUDZjaTdHTmNGYXVuMmhjdjlMcG44Y3dLdTVISTZGZjU0MTFZb19LYzNRTXkzbXdjdEhMVVZQZFRobHRwdVBNTTJrbDc3TEpQVzdBaWc4YU9pUE1ib2o4cDNKLXlwSWwxSjZTWEs1ZjFvdTc1c3lLSHU4TlN4V00?oc=5\" target=\"_blank\">Devon homebuilder championing women in construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRHY2YzRwVXNQWGdWSmZsOXR1SDl0MHJJZlZybEJBazhBMFBnV0RYVHRPX1hqRHR6UTJCTTdKV3R4RndXSGtkeXRQN1JoYWtROWk5NklkSEtydkU1bktyODNzdW5zaVd2ZE9MVEdKaG1rNlNkYmxodURxTFNmYnpxUHlZZGVBQm5SVmtuZGxsbU12U0U?oc=5",
+        "date": "2026-03-06",
+        "title": "Population growth to impact water infrastructure: forum - Coastal Review",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQRHY2YzRwVXNQWGdWSmZsOXR1SDl0MHJJZlZybEJBazhBMFBnV0RYVHRPX1hqRHR6UTJCTTdKV3R4RndXSGtkeXRQN1JoYWtROWk5NklkSEtydkU1bktyODNzdW5zaVd2ZE9MVEdKaG1rNlNkYmxodURxTFNmYnpxUHlZZGVBQm5SVmtuZGxsbU12U0U?oc=5\" target=\"_blank\">Population growth to impact water infrastructure: forum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coastal Review</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTmRuRmlqVWF5NjNid0E4bjZJbldXd0dESjRGV1FuaVlKVjNhYlY2c3UyUk1oX0loRXpteEczSThrYV9WMHZGV0xSbHI3Y3IxX1pzSENJdVRvTFBxX2lHbVZRaW1idVhjdklweFpsdHZOUTJ6UWZDSFNYNUpMOFNmcEtNaDlfUWN2SVlTNllWSG5qakd3U2UzQ2FIMFE5WjN3d3ZxaElma1hyX1NoOXQydTFqdGV5ejFfOFpjXzNWQWt6TjF5a3BVT0ZFbklUQXQwZGlLTg?oc=5",
+        "date": "2026-03-06",
+        "title": "XPLR infrastructure earns relative strength rating upgrade - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTmRuRmlqVWF5NjNid0E4bjZJbldXd0dESjRGV1FuaVlKVjNhYlY2c3UyUk1oX0loRXpteEczSThrYV9WMHZGV0xSbHI3Y3IxX1pzSENJdVRvTFBxX2lHbVZRaW1idVhjdklweFpsdHZOUTJ6UWZDSFNYNUpMOFNmcEtNaDlfUWN2SVlTNllWSG5qakd3U2UzQ2FIMFE5WjN3d3ZxaElma1hyX1NoOXQydTFqdGV5ejFfOFpjXzNWQWt6TjF5a3BVT0ZFbklUQXQwZGlLTg?oc=5\" target=\"_blank\">XPLR infrastructure earns relative strength rating upgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM1FYblFRWUdqcGhHTVVNVkJGcXFEcHJQM1RZZEN0SUFqNUZfVzBlVmM5U1ZxRXZvZk5LQzRxYmNKRm9aRkZEUi1CMERNYkpaUGtiUUc0S2NCZ1RkdEpZRHI1aGJaYlJXYjdoeTVmZDZVUllDajQ3bkFZbVc3d1NtcEN0aUZoNW9Hd2liOWNaSVJwckpzVkhJcjA0R0wxVlp6VHg5UXF3ZmxGOWVCLXRRWnh0UDlOVTdVY3o3SXFmSVZYRWdGcGZ1X25JTEpJU2PSAdQBQVVfeXFMTV93emQ3WFM4UnduQ3IyMGJ5X19HeEhRYWpjOTc2aXdndGNZejhFVFJLUUthM0pGLWx5TllwOHg2UGZJckVKMmdZV0hZNDZwV1hpX2I0VHFDN29rdEI4VXhoZDFCemp6UHEtLW1BZFVUWGE2TGFhbFB1QzlRcUVuQlU0UEhWaHQ1NG1WcWlhLW5CcTl5R2F1X3lCWjhFb1dOYzR1UGRlWUw5c3dQU29nOERqWnVwaC1ReHM0WHdCQWM3VUtBOFhSVzhrbmlNQ1lXak5YT3U?oc=5",
+        "date": "2026-03-06",
+        "title": "UP urban transition after 2017 - A shift to non-agricultural economy - The Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPM1FYblFRWUdqcGhHTVVNVkJGcXFEcHJQM1RZZEN0SUFqNUZfVzBlVmM5U1ZxRXZvZk5LQzRxYmNKRm9aRkZEUi1CMERNYkpaUGtiUUc0S2NCZ1RkdEpZRHI1aGJaYlJXYjdoeTVmZDZVUllDajQ3bkFZbVc3d1NtcEN0aUZoNW9Hd2liOWNaSVJwckpzVkhJcjA0R0wxVlp6VHg5UXF3ZmxGOWVCLXRRWnh0UDlOVTdVY3o3SXFmSVZYRWdGcGZ1X25JTEpJU2PSAdQBQVVfeXFMTV93emQ3WFM4UnduQ3IyMGJ5X19HeEhRYWpjOTc2aXdndGNZejhFVFJLUUthM0pGLWx5TllwOHg2UGZJckVKMmdZV0hZNDZwV1hpX2I0VHFDN29rdEI4VXhoZDFCemp6UHEtLW1BZFVUWGE2TGFhbFB1QzlRcUVuQlU0UEhWaHQ1NG1WcWlhLW5CcTl5R2F1X3lCWjhFb1dOYzR1UGRlWUw5c3dQU29nOERqWnVwaC1ReHM0WHdCQWM3VUtBOFhSVzhrbmlNQ1lXak5YT3U?oc=5\" target=\"_blank\">UP urban transition after 2017 - A shift to non-agricultural economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
