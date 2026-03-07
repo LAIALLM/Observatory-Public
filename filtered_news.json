@@ -3470,5 +3470,22 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOU1DZzBYeG5DOFlLRC1KMERORFpfNVdERlJBdjB1ZWNNSmR0WkF4ZWc0ak9ObkRaZTRYM0JOcS1SbWNsWl9ycDNHSzhsLTJiQnVBWUJCUEJ6U05qaEdwR0pGVXRHZ2dwYU1TaVZhT3prRVBTaUNfOXo2RUppT09QbkRGQTdlREdXYUo4T1JqVlR4a09UVFE1MDVUaVpDMGptdmpOSUVsekZTV1dkN25DWUl30gG3AUFVX3lxTE1xVXVvSFhHX3M5Q0ZrNHpOcEtqSlN4TUtfV0kyWmhfSTR3MnVJb1QtSElCRUlPdjlwa2o3bXZUNl84QTlPdk1QeFJzcmREN1VjempoMGc1YnJIUEl5RmdYRDN4bzhiTHQyQnJ6UmRtZW9Zak9PNndMeV93ZC1yY0hXd0k0am5DSDloT3F6WThNeXhVM2tvXzR2a29YUUs1MXV6M29Jb3BKYVNwT0ZFRlYxOVYtSm9tdw?oc=5",
+        "date": "2026-03-07",
+        "title": "UAE president says prepared to confront \u2018threats\u2019 as Iran attacks continue - Al Jazeera",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPOU1DZzBYeG5DOFlLRC1KMERORFpfNVdERlJBdjB1ZWNNSmR0WkF4ZWc0ak9ObkRaZTRYM0JOcS1SbWNsWl9ycDNHSzhsLTJiQnVBWUJCUEJ6U05qaEdwR0pGVXRHZ2dwYU1TaVZhT3prRVBTaUNfOXo2RUppT09QbkRGQTdlREdXYUo4T1JqVlR4a09UVFE1MDVUaVpDMGptdmpOSUVsekZTV1dkN25DWUl30gG3AUFVX3lxTE1xVXVvSFhHX3M5Q0ZrNHpOcEtqSlN4TUtfV0kyWmhfSTR3MnVJb1QtSElCRUlPdjlwa2o3bXZUNl84QTlPdk1QeFJzcmREN1VjempoMGc1YnJIUEl5RmdYRDN4bzhiTHQyQnJ6UmRtZW9Zak9PNndMeV93ZC1yY0hXd0k0am5DSDloT3F6WThNeXhVM2tvXzR2a29YUUs1MXV6M29Jb3BKYVNwT0ZFRlYxOVYtSm9tdw?oc=5\" target=\"_blank\">UAE president says prepared to confront \u2018threats\u2019 as Iran attacks continue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-07",
+        "status": "posted",
+        "tweet": "Meta's global infrastructure processed 15 exabytes of data daily in 2026, up 40% from 2025.\n\n$ META",
+        "type": "infrastructure"
     }
 ]
