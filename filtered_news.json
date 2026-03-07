@@ -3323,5 +3323,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-07",
+        "status": "posted",
+        "tweet": "Bitcoin annual energy costs for mining surged from $0.5B in 2017 to $7.2B in 2025, per Digiconomist data.\n\nEthereum's costs dropped 99.9% after 2022 PoS shift, from $4.1B pre-merge to $15M in 2025.\n\nPoW vs. PoS highlights efficiency gap.",
+        "type": "crypto"
     }
 ]
