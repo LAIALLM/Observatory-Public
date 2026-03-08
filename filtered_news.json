@@ -3261,5 +3261,12 @@
         "status": "posted",
         "tweet": "NEWS: JFB Construction and XTEND release investor materials for $1.5B business combination.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-08",
+        "status": "posted",
+        "tweet": "Google's global data centers consumed 45 TWh of energy in 2026, with 80% from renewables.\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
