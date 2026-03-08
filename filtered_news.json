@@ -3305,5 +3305,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-08",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US construction firms: 745,000 active in 2026, up 8% from 2025.\n\nGlobal projection: Industry output hits $13.2T, with sustainable projects comprising 35% of total\u2014doubling from 2023 baseline.",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
