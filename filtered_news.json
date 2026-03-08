@@ -3268,5 +3268,12 @@
         "status": "posted",
         "tweet": "Google's global data centers consumed 45 TWh of energy in 2026, with 80% from renewables.\n\n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-08",
+        "status": "posted",
+        "tweet": "Bitcoin's 2026 carbon footprint: 95 million metric tons CO2e annually.\n\nEthereum's: 1,500 metric tons CO2e.\n\nA 63,000x disparity, driven by PoW vs. PoS.",
+        "type": "crypto"
     }
 ]
