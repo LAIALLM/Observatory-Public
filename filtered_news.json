@@ -3137,5 +3137,12 @@
         "tweet": "2026 projection: 4.6 billion people\u201457% of world population\u2014live in urban areas.\n\n\ud83c\udde8\ud83c\uddf3 China hosts 1 billion of them, leading global urbanization.",
         "type": "statistical",
         "category": "cities"
+    },
+    {
+        "link": null,
+        "date": "2026-03-09",
+        "status": "posted",
+        "tweet": "Bitcoin's network: 7 TPS at $12B annual energy cost.\n\nSolana: 4,000 TPS at $50M total infra cost.\n\nThat's 240x more efficient per transaction in 2026.",
+        "type": "crypto"
     }
 ]
