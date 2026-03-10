@@ -3222,5 +3222,12 @@
         "tweet": "Projected EV share in new car sales for 2026\n\n\ud83c\uddf3\ud83c\uddf4 Norway - 95%  \n\ud83c\udde8\ud83c\uddf3 China - 50%  \n\ud83c\uddf8\ud83c\uddea Sweden - 45%  \n\ud83c\uddf3\ud83c\uddf1 Netherlands - 40%  \n\ud83c\udde9\ud83c\uddea Germany - 35%",
         "type": "statistical",
         "category": "transportation"
+    },
+    {
+        "link": null,
+        "date": "2026-03-10",
+        "status": "posted",
+        "tweet": "Microsoft Azure data centers in \ud83c\uddfa\ud83c\uddf8USA processed 4.2 zettabytes daily in 2026, a 35% YoY increase.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
