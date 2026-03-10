@@ -3154,5 +3154,65 @@
         "status": "posted",
         "tweet": "\ud83c\uddf8\ud83c\udde6 NEWS: Mobily unit announces plans for a new smart city in Yanbu",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02X1dwQ2ZHUm9sNk9yVjlESXBSbkJqbk5zNjBTZDc3TnVVVVhIVThhTW96dlpyRy1lNVpWWGVRcmExelN1bUFtYUZxZUNkRXo0ZVVWZnMwcU9xdDB1QVE3M0x6dVA4cFBzTlIxSHdwQQ?oc=5",
+        "date": "2026-03-10",
+        "title": "'More should be done to ensure Wang Fuk security' - \u9999\u6e2f\u96fb\u53f0\u65b0\u805e\u7db2",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE02X1dwQ2ZHUm9sNk9yVjlESXBSbkJqbk5zNjBTZDc3TnVVVVhIVThhTW96dlpyRy1lNVpWWGVRcmExelN1bUFtYUZxZUNkRXo0ZVVWZnMwcU9xdDB1QVE3M0x6dVA4cFBzTlIxSHdwQQ?oc=5\" target=\"_blank\">'More should be done to ensure Wang Fuk security'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u9999\u6e2f\u96fb\u53f0\u65b0\u805e\u7db2</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdnlkbzFzaDRZRnp0bmo4bnRJRkpkR3pIWjl1TWR0MUJFY2pEUlc4TmpHSl94aTF1UC1hNWhWSXpoeHQwdkt0R1ZWeTE5N0UwLXlvQmk0NG5HSXlpczd5M05lZEFia3VrMkVUWmpXS3VoaVFEY3FiVVVOZmZUbkYzOHc0VFRmMmNVV1EzdU1SQ0plWVdQNW9Vem1FdFQ1QQ?oc=5",
+        "date": "2026-03-10",
+        "title": "Iran\u2019s war targets spread into civilian infrastructure - NBC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQdnlkbzFzaDRZRnp0bmo4bnRJRkpkR3pIWjl1TWR0MUJFY2pEUlc4TmpHSl94aTF1UC1hNWhWSXpoeHQwdkt0R1ZWeTE5N0UwLXlvQmk0NG5HSXlpczd5M05lZEFia3VrMkVUWmpXS3VoaVFEY3FiVVVOZmZUbkYzOHc0VFRmMmNVV1EzdU1SQ0plWVdQNW9Vem1FdFQ1QQ?oc=5\" target=\"_blank\">Iran\u2019s war targets spread into civilian infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY3hWR2hWUl93ZmJHVVRlOUdFdWdDS2tsazZhLTdIN2VPTU5nYkZTb1ZQTGVBS2h3Qlpxc1JSaVFXU0ZBbWktMXdXblVoUHpXN1piYktxSUw2SmgzTkJEZDExSk5uZGlsWER6MGR3eEFWMzcxNWp6Mm9RU0VmMzZLdDByVXZfMHRzbkc3V0FfVzk5cjhtU2szZW55S200dnVfQjE3V2xsaklub2hHWWY5TjF3SWdkVHY1a0hGeDJBN2I3TmZ1R21QSndsaVZSeVBoT1F6N2RaTEhqYWc5bGc?oc=5",
+        "date": "2026-03-10",
+        "title": "Shreveport water crisis eases, but infrastructure concerns remain - KTBS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY3hWR2hWUl93ZmJHVVRlOUdFdWdDS2tsazZhLTdIN2VPTU5nYkZTb1ZQTGVBS2h3Qlpxc1JSaVFXU0ZBbWktMXdXblVoUHpXN1piYktxSUw2SmgzTkJEZDExSk5uZGlsWER6MGR3eEFWMzcxNWp6Mm9RU0VmMzZLdDByVXZfMHRzbkc3V0FfVzk5cjhtU2szZW55S200dnVfQjE3V2xsaklub2hHWWY5TjF3SWdkVHY1a0hGeDJBN2I3TmZ1R21QSndsaVZSeVBoT1F6N2RaTEhqYWc5bGc?oc=5\" target=\"_blank\">Shreveport water crisis eases, but infrastructure concerns remain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTBS</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHpqenR2RkFtNVF5RTdoQkJ2OEt6REFlSTFVZjBfUWxHV1NrMG9OblRkcHJPY010c3lhZ1JkRGdheE5QZHU4RmhUVURnY3RFcnRuZk5BY1J0V0ItVmFTeGRPUHVxQnU1U3hJMjl2SGlUTXltOTVxV2stSTZCdDdvN1RtcnBaalFLM0hBak1UUFFlQlFXSjZVbU81OGdVR3B4b3ZYXzFURDdOUQ?oc=5",
+        "date": "2026-03-10",
+        "title": "Maharashtra Budget 2026 elicits positive industry reactions - Construction Week India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHpqenR2RkFtNVF5RTdoQkJ2OEt6REFlSTFVZjBfUWxHV1NrMG9OblRkcHJPY010c3lhZ1JkRGdheE5QZHU4RmhUVURnY3RFcnRuZk5BY1J0V0ItVmFTeGRPUHVxQnU1U3hJMjl2SGlUTXltOTVxV2stSTZCdDdvN1RtcnBaalFLM0hBak1UUFFlQlFXSjZVbU81OGdVR3B4b3ZYXzFURDdOUQ?oc=5\" target=\"_blank\">Maharashtra Budget 2026 elicits positive industry reactions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Week India</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdXVVRUpKcTNwbnoza3BlSnVIWFFoYmZXZldCekRGamtFYTBLcHdzWG13YjNaWmU1VzZuTERCX0luanVwVy1NS3MyTURFUFdqVVdRYXU4em03cjZmbHJhc05jaWJEa3J3S25pLUR6OTMzMjN3RU1VcElCT1JGVGV3T2VBZmtwVlFpU2syWVJOMkdPOEhWVU0zV0hLYVVVa1h2MlBfcnJzV3JMeGdEZ2VXRjM2TjBiSEY5X2tjM3k4LXN6ME1ZOXJhR0haR1lOUGpFUXRJZ2RaWmFZMksydDBkdTlVQ054WElnQk5TRTlnMWtlTlRjUEdISDhrVV9xc2h0T0dVcjBLTGJ4ck8tSV94UWNPeFRpUHB1OTVEdERHWGJZU1NHcUhlTTBxTWR2UEs3WWpGZQ?oc=5",
+        "date": "2026-03-10",
+        "title": "LoRaWAN Market to Surpass USD 164.10 Billion by 2035, - GlobeNewswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxPdXVVRUpKcTNwbnoza3BlSnVIWFFoYmZXZldCekRGamtFYTBLcHdzWG13YjNaWmU1VzZuTERCX0luanVwVy1NS3MyTURFUFdqVVdRYXU4em03cjZmbHJhc05jaWJEa3J3S25pLUR6OTMzMjN3RU1VcElCT1JGVGV3T2VBZmtwVlFpU2syWVJOMkdPOEhWVU0zV0hLYVVVa1h2MlBfcnJzV3JMeGdEZ2VXRjM2TjBiSEY5X2tjM3k4LXN6ME1ZOXJhR0haR1lOUGpFUXRJZ2RaWmFZMksydDBkdTlVQ054WElnQk5TRTlnMWtlTlRjUEdISDhrVV9xc2h0T0dVcjBLTGJ4ck8tSV94UWNPeFRpUHB1OTVEdERHWGJZU1NHcUhlTTBxTWR2UEs3WWpGZQ?oc=5\" target=\"_blank\">LoRaWAN Market to Surpass USD 164.10 Billion by 2035,</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GlobeNewswire</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObGpfTUNpRlNoak1TcGFPU19vTjdYNU9CaXh4VUcwMl9BT0Vzc1JzN3dIUk56NlNOUXJZWGVfNllFMXRHX19mWnBFc0s5cTBZTjJ4UTU2TWMzc2lxbk1oUkE4ZlpBY1ZIQzJ4NDBGS3NBeXctTUNkdGprVHQtelRQMnUxTXVyS2VPQng4VUZ6YnhvUndDN3c?oc=5",
+        "date": "2026-03-10",
+        "title": "Customized Sealed Waterproof Cable Assembly For Outdoor Supplier Solutions for Smart City Infrastructure - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxObGpfTUNpRlNoak1TcGFPU19vTjdYNU9CaXh4VUcwMl9BT0Vzc1JzN3dIUk56NlNOUXJZWGVfNllFMXRHX19mWnBFc0s5cTBZTjJ4UTU2TWMzc2lxbk1oUkE4ZlpBY1ZIQzJ4NDBGS3NBeXctTUNkdGprVHQtelRQMnUxTXVyS2VPQng4VUZ6YnhvUndDN3c?oc=5\" target=\"_blank\">Customized Sealed Waterproof Cable Assembly For Outdoor Supplier Solutions for Smart City Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
