@@ -3839,5 +3839,12 @@
         "tweet": "By 2026, smart cities will integrate 25 billion IoT devices globally, slashing urban energy use by 30%.\n\nTraditional cities rely on 5 billion devices, wasting 15% more energy annually.",
         "type": "statistical",
         "category": "smart cities"
+    },
+    {
+        "link": null,
+        "date": "2026-03-11",
+        "status": "posted",
+        "tweet": "Meta's global data centers processed 12 exabytes of data daily in 2026, a 30% increase from 2025.\n\n$META",
+        "type": "infrastructure"
     }
 ]
