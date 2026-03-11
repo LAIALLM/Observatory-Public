@@ -3471,5 +3471,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddea NEWS: TirNua Capital Partners lands \u20ac140M commitment from ISIF to boost its Climate Action Infrastructure Fund",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-11",
+        "status": "posted",
+        "tweet": "Bitcoin's PoW scalability demands 150 TWh annual energy, costing $12B in infrastructure.\n\nEthereum's PoS uses 0.02 TWh, at $1.6M\u201499.99% less.\n\nSolana validators require $500M yearly in high-end hardware for 65k TPS throughput.",
+        "type": "crypto"
     }
 ]
