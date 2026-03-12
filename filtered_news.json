@@ -3584,5 +3584,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf0\ud83c\uddf7 NEWS: KIND, Hyundai E&C and KIRA unite to advance global urban development initiatives",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-12",
+        "status": "posted",
+        "tweet": "Bitcoin energy costs: $1.2B (2018) \u2192 $5.8B (2025 est.), up 383% amid rising hashrate.\n\nEthereum: $2.5B (2021 pre-PoS) \u2192 $0.005B (2025), down 99.8% post-Merge.\n\nBTC's PoW drives escalation; ETH's PoS slashes it.",
+        "type": "crypto"
     }
 ]
