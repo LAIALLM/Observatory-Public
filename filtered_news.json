@@ -1,379 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-03-02",
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 India's population: 1.45 billion in 2026.\n\n\ud83c\udde8\ud83c\uddf3 China's population: 1.41 billion in 2026.\n\nIndia widens its lead as the world's most populous nation.",
-        "type": "statistical",
-        "category": "population"
-    },
-    {
-        "link": null,
-        "date": "2026-03-02",
-        "status": "posted",
-        "tweet": "2026 annual cost to run a single validator (USD, hardware + energy).\n\n1. Ethereum: $300\n2. Solana: $2,500\n3. Bitcoin: $15,000",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRG1BNjBNVWNJakYtVnlELThXRGRJdTNrSXdtdWFqT2pIWEtkNTdvSjJUekY2em81NW9wMGxSZTVDTkc3NG9LMm9vMVFqdTF5VFd3TlVvX0JUemxHRW1JQmYya3hCYTdCNkxNR2p5TTJSNjlwajJicnRTZFRLZUEyTllMWWtHMFNhTFBibUFKc2ZPb3NSME9CS3g3OHdmc2JuSmg4T0ZmdGdkV1lRREVjLQ?oc=5",
-        "date": "2026-03-02",
-        "title": "New Workforce Leadership Book \u2018You Can Be Here\u2019 Positions Women a - The National Law Review",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQRG1BNjBNVWNJakYtVnlELThXRGRJdTNrSXdtdWFqT2pIWEtkNTdvSjJUekY2em81NW9wMGxSZTVDTkc3NG9LMm9vMVFqdTF5VFd3TlVvX0JUemxHRW1JQmYya3hCYTdCNkxNR2p5TTJSNjlwajJicnRTZFRLZUEyTllMWWtHMFNhTFBibUFKc2ZPb3NSME9CS3g3OHdmc2JuSmg4T0ZmdGdkV1lRREVjLQ?oc=5\" target=\"_blank\">New Workforce Leadership Book \u2018You Can Be Here\u2019 Positions Women a</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Law Review</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQZ0JMVC13TmpvbGljUnpSWGtaRnVZM19BMVBwcy00SmV0QmJnN2JxX1oxRjZLZG5SNlREYXIwd2tVQ0VuVk5uNjV1STZHWUc2RFVQUWlyTzVsd3cxaGZvUlItTV9xSjUxTHdwb1BzVVh2RHFUT0U4ZnRWb0JNejV2eWtyWVlhbkhLdl9yRWdkZzVMSjJZT252cXRJRjVCOHNtcmNmLU5ZSzdJRHRleU5SM0hkLWY5dDIwbXU3RGMtMzM5QWhEQXRwU2ZGUGxyQ3cyUTJObWg0NERMSHZiNXpsUElsMThncWowWkNCUE85WURxRG9sWmFUOUdDTUtrb041ZEJfQ0N1cGJQLV9LaTB3VW5mWmltb1nSAZwCQVVfeXFMTnZDWnlmbmxCdGtmT3lIWmJZTk45X3JwblN0bmFidS1MV2VGSXFhYlBxRm90cW5JZExkZDltZXV2RnF1SThwSDNBbW9Oa2VfUUJVS3ROd2FSMXc0Q0RyVG1uemtjMk1obzlENVNMdU5WWkkwd3lNaFNnWU50ei05SjV5UlBZOGxWWEhlMUhaTnpsdHBVZVBqVVVBUmhya2NHQlNZNXlleHFyOURnMmFpc0dkSWJWb0o4NHR2SFozV1FBOExjRWJQMjF3QVg5WjBrSTREclpoUTQtbUF4SW11eTVTLWtpZ3c3WTBzSGlCc09uWmZjMndTcWM1VjlWRXNLdVpQLWZVcUZ5SnEtRW1oS21Hc1diVERQU19obUI?oc=5",
-        "date": "2026-03-02",
-        "title": "Extreme Steel Inc. Celebrates Women in Construction Week 2026 by Honoring Leaders in Finance and Project Management - The Manila Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxQZ0JMVC13TmpvbGljUnpSWGtaRnVZM19BMVBwcy00SmV0QmJnN2JxX1oxRjZLZG5SNlREYXIwd2tVQ0VuVk5uNjV1STZHWUc2RFVQUWlyTzVsd3cxaGZvUlItTV9xSjUxTHdwb1BzVVh2RHFUT0U4ZnRWb0JNejV2eWtyWVlhbkhLdl9yRWdkZzVMSjJZT252cXRJRjVCOHNtcmNmLU5ZSzdJRHRleU5SM0hkLWY5dDIwbXU3RGMtMzM5QWhEQXRwU2ZGUGxyQ3cyUTJObWg0NERMSHZiNXpsUElsMThncWowWkNCUE85WURxRG9sWmFUOUdDTUtrb041ZEJfQ0N1cGJQLV9LaTB3VW5mWmltb1nSAZwCQVVfeXFMTnZDWnlmbmxCdGtmT3lIWmJZTk45X3JwblN0bmFidS1MV2VGSXFhYlBxRm90cW5JZExkZDltZXV2RnF1SThwSDNBbW9Oa2VfUUJVS3ROd2FSMXc0Q0RyVG1uemtjMk1obzlENVNMdU5WWkkwd3lNaFNnWU50ei05SjV5UlBZOGxWWEhlMUhaTnpsdHBVZVBqVVVBUmhya2NHQlNZNXlleHFyOURnMmFpc0dkSWJWb0o4NHR2SFozV1FBOExjRWJQMjF3QVg5WjBrSTREclpoUTQtbUF4SW11eTVTLWtpZ3c3WTBzSGlCc09uWmZjMndTcWM1VjlWRXNLdVpQLWZVcUZ5SnEtRW1oS21Hc1diVERQU19obUI?oc=5\" target=\"_blank\">Extreme Steel Inc. Celebrates Women in Construction Week 2026 by Honoring Leaders in Finance and Project Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbFZnSllncWFpZDRrQzRjcWl3OTBGdktjY0czcEJTMzZraF9KMzhWV3EtS0J4YTlwck9tXzRLWlY4cTJBNTlRN2VzUGxDVXFpM0pyMzc1RS11M0NTN08zYTh2OHRWMTViSTFyMFRfRjZ3OUJyTGxydS1fbV9qU1FZUWZlWWg0Zw?oc=5",
-        "date": "2026-03-02",
-        "title": "How Strategic Partners will Power new Hospital Buildings - Procurement Magazine",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPbFZnSllncWFpZDRrQzRjcWl3OTBGdktjY0czcEJTMzZraF9KMzhWV3EtS0J4YTlwck9tXzRLWlY4cTJBNTlRN2VzUGxDVXFpM0pyMzc1RS11M0NTN08zYTh2OHRWMTViSTFyMFRfRjZ3OUJyTGxydS1fbV9qU1FZUWZlWWg0Zw?oc=5\" target=\"_blank\">How Strategic Partners will Power new Hospital Buildings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Procurement Magazine</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2EzbFhKS3VVdnZNcTdKOHBOcVJsUlcxakhLemltRFFoUUZsTW9RbmJqakR4RmVMRGhIc3FSdmdpNldXYXZnMUY5bTdYQ0IyVUVNdzVnTU8wVXN6X3VKSW14UWN5eV95T1VTN0RPV2EtQ08yLUFZRl9IMUVPLVpmc3JEMXNvblBHSkZRTU1zaHdsRVBNN2dXcC1UZ0R3VUNQa1EtcGk0b1Z0Z2FYN3B0UUZRenNjaTNVSGc?oc=5",
-        "date": "2026-03-02",
-        "title": "3 Diversified Chemical Stocks to Watch Amid Demand Woes - sharewise.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2EzbFhKS3VVdnZNcTdKOHBOcVJsUlcxakhLemltRFFoUUZsTW9RbmJqakR4RmVMRGhIc3FSdmdpNldXYXZnMUY5bTdYQ0IyVUVNdzVnTU8wVXN6X3VKSW14UWN5eV95T1VTN0RPV2EtQ08yLUFZRl9IMUVPLVpmc3JEMXNvblBHSkZRTU1zaHdsRVBNN2dXcC1UZ0R3VUNQa1EtcGk0b1Z0Z2FYN3B0UUZRenNjaTNVSGc?oc=5\" target=\"_blank\">3 Diversified Chemical Stocks to Watch Amid Demand Woes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sharewise.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeG1kNmt1VWxJTjRaV05UVzlWdzl3T1JfajhLZXM0OGNWMy1Xb2ZHT0dURDBFclNWM3N1R0swRWVObVJpSTRNU1ZjWEotRnNhRWVvSnZER1Z2aGY0YTE5VjNpNVFWZlp1RlhtTjA4eXhZUk5HcHdUaEtQOEV6LVNOQ0ZuVmJMV3d2dnpXc1JR?oc=5",
-        "date": "2026-03-02",
-        "title": "Gulf AI infrastructure faces its first stress test - Yahoo",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQeG1kNmt1VWxJTjRaV05UVzlWdzl3T1JfajhLZXM0OGNWMy1Xb2ZHT0dURDBFclNWM3N1R0swRWVObVJpSTRNU1ZjWEotRnNhRWVvSnZER1Z2aGY0YTE5VjNpNVFWZlp1RlhtTjA4eXhZUk5HcHdUaEtQOEV6LVNOQ0ZuVmJMV3d2dnpXc1JR?oc=5\" target=\"_blank\">Gulf AI infrastructure faces its first stress test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVNlWHpnOVcxcVpiY3UybVZISjlNVnRTUS1XcE1PaHhFRlVtbm15aUg4cFQ5NUp6anZqcUZTaDAwOWx3UjFZbTNTbENNTjNoMm1pUGp0NG9hNWNvTktyRm5DTzBfSlZTeExGdVBjeTBXSjJIQV9EZGZhaXBYNU9ILWJkaEtDVVNSUFNJZ2RkTHAxRmYxYnBiMjhRczdaVnY2MzNZT0ZqWQ?oc=5",
-        "date": "2026-03-02",
-        "title": "PECO to begin 2-month infrastructure upgrade on Radnor streets - Delco Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVNlWHpnOVcxcVpiY3UybVZISjlNVnRTUS1XcE1PaHhFRlVtbm15aUg4cFQ5NUp6anZqcUZTaDAwOWx3UjFZbTNTbENNTjNoMm1pUGp0NG9hNWNvTktyRm5DTzBfSlZTeExGdVBjeTBXSjJIQV9EZGZhaXBYNU9ILWJkaEtDVVNSUFNJZ2RkTHAxRmYxYnBiMjhRczdaVnY2MzNZT0ZqWQ?oc=5\" target=\"_blank\">PECO to begin 2-month infrastructure upgrade on Radnor streets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Delco Times</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MaTJjUTZuUHRVMDU1VkVoMlVJdXdBNWVPMHJyeUpuOU1KLUNHMFJDS2pxMmRldjQzQUFwR3IyUkRCNWJ2bndpdGFNbkNqaTFFNUdvRktxTlo3bXV3RHk4S2htcEZZY0VPYXdCcFNLc0NhUlI2eEZyTW10YXVDdw?oc=5",
-        "date": "2026-03-02",
-        "title": "Modernizing school infrastructure to strengthen community well being - Lehigh Valley Business",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9MaTJjUTZuUHRVMDU1VkVoMlVJdXdBNWVPMHJyeUpuOU1KLUNHMFJDS2pxMmRldjQzQUFwR3IyUkRCNWJ2bndpdGFNbkNqaTFFNUdvRktxTlo3bXV3RHk4S2htcEZZY0VPYXdCcFNLc0NhUlI2eEZyTW10YXVDdw?oc=5\" target=\"_blank\">Modernizing school infrastructure to strengthen community well being</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lehigh Valley Business</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2pTd2ZybjRPbVVaNjZOV2pSckEtODNjTDhQVllSNE16WXEtOWZEWVJVY2lPTU5vT3gtZ3FPYmotZk5wcnZBVmdTMDZRTjBkeDBDRFpwMkJiUnF4eFdxYm9DSjhTYU1oNXBWMzVRc2wtR055bFNpcWhkZUx4bUNabWdRYmRCSzdZSDJjWllpM3N4TWdlRWd6R01n?oc=5",
-        "date": "2026-03-02",
-        "title": "US says strikes on Iran aim to dismantle military infrastructure - Muslim Network TV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2pTd2ZybjRPbVVaNjZOV2pSckEtODNjTDhQVllSNE16WXEtOWZEWVJVY2lPTU5vT3gtZ3FPYmotZk5wcnZBVmdTMDZRTjBkeDBDRFpwMkJiUnF4eFdxYm9DSjhTYU1oNXBWMzVRc2wtR055bFNpcWhkZUx4bUNabWdRYmRCSzdZSDJjWllpM3N4TWdlRWd6R01n?oc=5\" target=\"_blank\">US says strikes on Iran aim to dismantle military infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Muslim Network TV</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMFJjUHNQWGhIenF3S0NDd1o5ZWg2SU1qLU5uXzdINUdEUHl3bzEwYlViQmxJd0lpa0dBd3J6NGVRTElZNEJnamRMbmhkZ2g4bUlvZjZDWUg4cEZCaUhjd3pzN1U4NzVIdjdSUHUzdkJVZGR0SkU3bFZZcy1UYXFWbkw2ZGdFVmtwSjJvWWVSdGkzM05Pc1dVbXNObHJLRDVGbHFnOHRsT0FyeVBEVFFlbnJON2k2anFHZThZMHgzVUxFWWUxZnd5REJULWZlUnM?oc=5",
-        "date": "2026-03-02",
-        "title": "Royce & Associates LP Raises Stock Holdings in NWPX Infrastructure, Inc. $NWPX - MarketBeat",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNMFJjUHNQWGhIenF3S0NDd1o5ZWg2SU1qLU5uXzdINUdEUHl3bzEwYlViQmxJd0lpa0dBd3J6NGVRTElZNEJnamRMbmhkZ2g4bUlvZjZDWUg4cEZCaUhjd3pzN1U4NzVIdjdSUHUzdkJVZGR0SkU3bFZZcy1UYXFWbkw2ZGdFVmtwSjJvWWVSdGkzM05Pc1dVbXNObHJLRDVGbHFnOHRsT0FyeVBEVFFlbnJON2k2anFHZThZMHgzVUxFWWUxZnd5REJULWZlUnM?oc=5\" target=\"_blank\">Royce & Associates LP Raises Stock Holdings in NWPX Infrastructure, Inc. $NWPX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN0NxVXZnQ2N0V2ljSlFMM2RyTHNfYzVqb3FNbVlReGMzYm5ETVdNMEt3b3RPekh1V3k0a2dJOUlJUEZoWFAyM3JIOC16WGVTSE1OSTRZd1ktdFI0WEZXN2FCM3hKbnh5bkN5Q29EUUtmSmFlZXlBRElpOUV2V1dRNDBiNXlJTlJEMVgtOA?oc=5",
-        "date": "2026-03-02",
-        "title": "Benin Military builds infrastructure to boost northern security - APAnews - Agence de Presse Africaine",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNN0NxVXZnQ2N0V2ljSlFMM2RyTHNfYzVqb3FNbVlReGMzYm5ETVdNMEt3b3RPekh1V3k0a2dJOUlJUEZoWFAyM3JIOC16WGVTSE1OSTRZd1ktdFI0WEZXN2FCM3hKbnh5bkN5Q29EUUtmSmFlZXlBRElpOUV2V1dRNDBiNXlJTlJEMVgtOA?oc=5\" target=\"_blank\">Benin Military builds infrastructure to boost northern security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">APAnews - Agence de Presse Africaine</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVRrTlNHcERzZnprbTlSWUNsaWVlSzV6QWs2M2tXWGd6R01ZZ3BBSmNVMnRGZ084S0lUb0RqeTd3OThyRjQxbWoyUTlWbmlQVE00Zi04UnRSZmloRXl4NFhhNmQxRHVhbFN3ZlNKb3UwSjFITkZ3M2ZEMXdKcTBUeEo4RGFHbjBzTHpvZHktZHhKSTFNTjUyd3lUaUxzdmlzNktpWDBvRFhxX09EQ1NNMG5rang2Zjl5c3YxWEV6THQzN29ZUldQUWV4QjVsUG5sVmJqYTh2elJkSTA?oc=5",
-        "date": "2026-03-02",
-        "title": "The Pipeline: Europe drags on OMERS, Quinbrook\u2019s new Australia MD, Norway SWF\u2019s supersized renewable returns - Infrastructure Investor",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVRrTlNHcERzZnprbTlSWUNsaWVlSzV6QWs2M2tXWGd6R01ZZ3BBSmNVMnRGZ084S0lUb0RqeTd3OThyRjQxbWoyUTlWbmlQVE00Zi04UnRSZmloRXl4NFhhNmQxRHVhbFN3ZlNKb3UwSjFITkZ3M2ZEMXdKcTBUeEo4RGFHbjBzTHpvZHktZHhKSTFNTjUyd3lUaUxzdmlzNktpWDBvRFhxX09EQ1NNMG5rang2Zjl5c3YxWEV6THQzN29ZUldQUWV4QjVsUG5sVmJqYTh2elJkSTA?oc=5\" target=\"_blank\">The Pipeline: Europe drags on OMERS, Quinbrook\u2019s new Australia MD, Norway SWF\u2019s supersized renewable returns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infrastructure Investor</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0xGa3RVNW44clZXbHN1TUFsdVJkQmNXeW1FZFREMUVtQzR1REJyUThkNjlUWWZ4bm9oNWRpTnFEYzJQME14QUs2RWthRkZ5ZmNxYTFzYTZ0Z1NrLVozd18wQTZMNm9YOTZsNnRMaHlEdTJITU0tYXg1UDJucWlfSDNrRFBVbVo0NUZYeEpfdFV6NTVmU0o0V0VlRGpVVTV5bWtqLWk4QkRXMjQ1WFZTSjljc2xURkU?oc=5",
-        "date": "2026-03-02",
-        "title": "MTN Group Sets Sights on AI, Digital Infrastructure, and Connectivity Expansion - TechAfrica News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0xGa3RVNW44clZXbHN1TUFsdVJkQmNXeW1FZFREMUVtQzR1REJyUThkNjlUWWZ4bm9oNWRpTnFEYzJQME14QUs2RWthRkZ5ZmNxYTFzYTZ0Z1NrLVozd18wQTZMNm9YOTZsNnRMaHlEdTJITU0tYXg1UDJucWlfSDNrRFBVbVo0NUZYeEpfdFV6NTVmU0o0V0VlRGpVVTV5bWtqLWk4QkRXMjQ1WFZTSjljc2xURkU?oc=5\" target=\"_blank\">MTN Group Sets Sights on AI, Digital Infrastructure, and Connectivity Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechAfrica News</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNKVjlHMEJTNUJRUmdVU0F0MW1kYUk5WFp0eE9JMFlqaVREVEFqLUY2Wm51Um5sX3RmSlYxSHhicE5fcWxiSml1a0otVDhzZUZaY0ZpNWFha29UVVJFNWdlcjd0SUhJNm5oMmFaQXJRb25UOTZRQnlueDUzeWdoV1IyOFNnaWF5MjEwemtJNFVTcUxINjlWeVJreVFpdWFtcTVwN29wVTlPZWo4M3FQTE5Qc0FjcHM3RTI3WGtXSERCTHhLRFpxV29zOHdlWlVqclRLSlR3VmxYTDhWYmFJNQ?oc=5",
-        "date": "2026-03-02",
-        "title": "Kazakh president Tokayev expresses concern over missile attacks on civilian infrastructure in Bahrain - Anadolu Ajans\u0131",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNKVjlHMEJTNUJRUmdVU0F0MW1kYUk5WFp0eE9JMFlqaVREVEFqLUY2Wm51Um5sX3RmSlYxSHhicE5fcWxiSml1a0otVDhzZUZaY0ZpNWFha29UVVJFNWdlcjd0SUhJNm5oMmFaQXJRb25UOTZRQnlueDUzeWdoV1IyOFNnaWF5MjEwemtJNFVTcUxINjlWeVJreVFpdWFtcTVwN29wVTlPZWo4M3FQTE5Qc0FjcHM3RTI3WGtXSERCTHhLRFpxV29zOHdlWlVqclRLSlR3VmxYTDhWYmFJNQ?oc=5\" target=\"_blank\">Kazakh president Tokayev expresses concern over missile attacks on civilian infrastructure in Bahrain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajans\u0131</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbWV1aXNFSGZPUDhtSHp0VUZ2SUVZM0dqem5reVZZbXdLRGVwN0hhWUVaZFUzZkF1UUlnSkIwcC1pd0JzVi1YQXJFaGI5bFBwZmVSTXZPY3UySUkxRnFKR25CSFFyZWREM0c2VHBvd3V4bVJ2WXp6TmZBTXVpemZUMGNackJzamttVkdxVGhYcTczcjhYaHYwVEZ4VEZfSERlMW5uSXpTb2owbUtDOVM2aklKR0JDaVJILUdESFJ6SFFrN01teGo1ME9oNWZmTWVnbDJ2cW9xMlZhLVJrRURvTVlfYw?oc=5",
-        "date": "2026-03-02",
-        "title": "Global Infrastructure Management, LLC, EQT Infrastructure VI Fund, California Public Employees' Retirement System, Qatar Investment Authority and EQT AB (OM:EQT) agreed to acquire The AES Corporation for $10.7 billion. - marketscreener.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbWV1aXNFSGZPUDhtSHp0VUZ2SUVZM0dqem5reVZZbXdLRGVwN0hhWUVaZFUzZkF1UUlnSkIwcC1pd0JzVi1YQXJFaGI5bFBwZmVSTXZPY3UySUkxRnFKR25CSFFyZWREM0c2VHBvd3V4bVJ2WXp6TmZBTXVpemZUMGNackJzamttVkdxVGhYcTczcjhYaHYwVEZ4VEZfSERlMW5uSXpTb2owbUtDOVM2aklKR0JDaVJILUdESFJ6SFFrN01teGo1ME9oNWZmTWVnbDJ2cW9xMlZhLVJrRURvTVlfYw?oc=5\" target=\"_blank\">Global Infrastructure Management, LLC, EQT Infrastructure VI Fund, California Public Employees' Retirement System, Qatar Investment Authority and EQT AB (OM:EQT) agreed to acquire The AES Corporation for $10.7 billion.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Consortium led by EQT, Global Infrastructure Management, CalPERS and Qatar Investment Authority agrees to buy AES for $10.7B $AES $EQT"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUzhLQVZ5ZFRxOTFaR0FxMk44dTN6cHJBM2otUEtBWnVIUmxsMXMyZmFFeEt0TmpBcWM0dXgyUkdmQmhjcHh5UUtCZmNoa2p3ZGdXdUtzTnJzR2w0N2xDYmN6X014a2x1NXhma3FMUU9VaHZFWFdxenlCWVhSVk1PUTNGdWFkOGhDbE5Rck9YZlI3TzhMZWpaMTIzdw?oc=5",
-        "date": "2026-03-02",
-        "title": "Architect Shares Why Structure and MEP Comes First at Tbilisi\u2019s Largest Urban Development - MEP Middle East",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUzhLQVZ5ZFRxOTFaR0FxMk44dTN6cHJBM2otUEtBWnVIUmxsMXMyZmFFeEt0TmpBcWM0dXgyUkdmQmhjcHh5UUtCZmNoa2p3ZGdXdUtzTnJzR2w0N2xDYmN6X014a2x1NXhma3FMUU9VaHZFWFdxenlCWVhSVk1PUTNGdWFkOGhDbE5Rck9YZlI3TzhMZWpaMTIzdw?oc=5\" target=\"_blank\">Architect Shares Why Structure and MEP Comes First at Tbilisi\u2019s Largest Urban Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEP Middle East</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddec\ud83c\uddea NEWS: Architect explains why structure and MEP must come first in Tbilisi\u2019s largest urban development"
-    },
-    {
-        "link": "https://www.enr.com/articles/62598-nonresidential-spending-contracts-06-in-december-as-tariff-exposed-materials-lift-january-input-prices",
-        "date": "2026-03-02",
-        "title": "Nonresidential Spending Contracts 0.6% in December as Tariff-Exposed Materials Lift January Input Prices",
-        "summary": "<p>Factory construction spending is down nearly 16% from its 2024 peak, even as copper and steel drive a January rebound in input prices.</p>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0N3ZXaFN5UVA4NXBpV3VzSzRibmdzYnBwUXNDSG42Z0pzWDdMLWljQnY2c2M2b3hwVFRGcTdvZUs1RHBhUUYzYk51d291QlV2MWVFR09CUVRQbkFHYThXaFRLaXQwbmJkRjl2bnlzd0NpdFZ1YmRjb0U0VXdMQQ?oc=5",
-        "date": "2026-03-02",
-        "title": "Construction Champions 2026 - Construction Dive",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB0N3ZXaFN5UVA4NXBpV3VzSzRibmdzYnBwUXNDSG42Z0pzWDdMLWljQnY2c2M2b3hwVFRGcTdvZUs1RHBhUUYzYk51d291QlV2MWVFR09CUVRQbkFHYThXaFRLaXQwbmJkRjl2bnlzd0NpdFZ1YmRjb0U0VXdMQQ?oc=5\" target=\"_blank\">Construction Champions 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Dive</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObnp5X2xHT09MVG9rRHBmTlBxOHhQN3lOTERmaFI3U2VxTEs4U1NQMklBYnlxUmIzTHVUYjBuN0d3WDI1WnRIS25DMS12b2c5bzNfejVCdXZ3cjByemVYREg5SDZQRjFmaDdKOWpRaDh2RWQxNHZmeFpkdXpFdzUxSkg0MjV5S3pCYWpnd3hzM1BwTTZPVjh2ZzRNNWlkRTZWV0J3YjNmZzliUQ?oc=5",
-        "date": "2026-03-02",
-        "title": "Is the Uniform Keeping Women Out of the Trades? - Builder Magazine",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObnp5X2xHT09MVG9rRHBmTlBxOHhQN3lOTERmaFI3U2VxTEs4U1NQMklBYnlxUmIzTHVUYjBuN0d3WDI1WnRIS25DMS12b2c5bzNfejVCdXZ3cjByemVYREg5SDZQRjFmaDdKOWpRaDh2RWQxNHZmeFpkdXpFdzUxSkg0MjV5S3pCYWpnd3hzM1BwTTZPVjh2ZzRNNWlkRTZWV0J3YjNmZzliUQ?oc=5\" target=\"_blank\">Is the Uniform Keeping Women Out of the Trades?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Builder Magazine</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3FxcGh5blc4Tk5KZDJTRHRwSGJGaGlZZTZralctNmdsaFZReHhMZmw5a1lLUXJQZjd3amN4Tkw3M0tDUTBRX2VGQjVFa1BWdXJDMlhwMzBrZXZTelk5cURKd3JCeDRXdGxLOVlFekkzS25CZmV5eTNXQ3U0RTd0LUE1Wm1PSGh2?oc=5",
-        "date": "2026-03-02",
-        "title": "Industry Urges Clients To Step Up Safety Compliance - TWinFM",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3FxcGh5blc4Tk5KZDJTRHRwSGJGaGlZZTZralctNmdsaFZReHhMZmw5a1lLUXJQZjd3amN4Tkw3M0tDUTBRX2VGQjVFa1BWdXJDMlhwMzBrZXZTelk5cURKd3JCeDRXdGxLOVlFekkzS25CZmV5eTNXQ3U0RTd0LUE1Wm1PSGh2?oc=5\" target=\"_blank\">Industry Urges Clients To Step Up Safety Compliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TWinFM</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGdSUGhvNVBBd0VCdWtybkhfMDV2U253akFVNmZRanJldjBsLVBQZ3RqT0hWVlZrUDlUNU1tZWljTXdCMTAzZnBuTFRTczBZY2pGaUI1STdwcXBER3ZwYXpONGRTX3d1QlJ1WFd5UTc4NXRSWFc5M1VoSy1Xc3RBYlZmRXU?oc=5",
-        "date": "2026-03-02",
-        "title": "ASTHO Members Advocate for $1 Billion Investment in Public Health Infrastructure During Annual Spring Leadership Forum - Yahoo Finance",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxONGdSUGhvNVBBd0VCdWtybkhfMDV2U253akFVNmZRanJldjBsLVBQZ3RqT0hWVlZrUDlUNU1tZWljTXdCMTAzZnBuTFRTczBZY2pGaUI1STdwcXBER3ZwYXpONGRTX3d1QlJ1WFd5UTc4NXRSWFc5M1VoSy1Xc3RBYlZmRXU?oc=5\" target=\"_blank\">ASTHO Members Advocate for $1 Billion Investment in Public Health Infrastructure During Annual Spring Leadership Forum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWW92dXpUVUMzV1ZKS0tUN0xIVk9nbEVqeHk0VG03UmlMTndrSm9xREZDaHozRmlOMzZ0TDVLX0MzdkFlUW1VR1BlVHptWmRyNFpPV0ZsRVE0VE1wU1dPUlZkYm5icHhGZWtOM1ViMjRONmV6RFVnMEVsQ2NwcUdUV2lCXzVTb3prVnRFWEwtbHItaDk3UWc?oc=5",
-        "date": "2026-03-02",
-        "title": "AI Agents and the Next Layer of India\u2019s Digital Infrastructure - Tech Policy Press",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOWW92dXpUVUMzV1ZKS0tUN0xIVk9nbEVqeHk0VG03UmlMTndrSm9xREZDaHozRmlOMzZ0TDVLX0MzdkFlUW1VR1BlVHptWmRyNFpPV0ZsRVE0VE1wU1dPUlZkYm5icHhGZWtOM1ViMjRONmV6RFVnMEVsQ2NwcUdUV2lCXzVTb3prVnRFWEwtbHItaDk3UWc?oc=5\" target=\"_blank\">AI Agents and the Next Layer of India\u2019s Digital Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Policy Press</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZ0F4Q280ZFo0QW0wLVducno3RTkzXzkwV1BJU2l4aUFGSzJvcTNmQXM3dVNFOXZhMkkxZjl3NGZOMDY4ZWU2U1JVbElvMXh1RXR6akNXSllVTl9VS2dpX1U0VDZGeW1hcVNTeGRaVmp4Z3ZmbERZOERFWmVsYUF6N0lYZzJtYmhXRTZzaXBHamppV1owOTZsSFdzd05DTmtfdnh1T2pSTkdhekUyXy1Xdi1oeTBvVGJfckZWdFpKdVl0eU5XOFhRMVRZYm9wa21iNURqYXU4QXFDTHJZeW01OG01YXo4V1JfN012ZmJLTlVGTlFmRGpMQ0ZxdWF6V2s?oc=5",
-        "date": "2026-03-02",
-        "title": "Decatur City Council to discuss infrastructure, traffic, and recreation projects Monday - rocketcitynow.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZ0F4Q280ZFo0QW0wLVducno3RTkzXzkwV1BJU2l4aUFGSzJvcTNmQXM3dVNFOXZhMkkxZjl3NGZOMDY4ZWU2U1JVbElvMXh1RXR6akNXSllVTl9VS2dpX1U0VDZGeW1hcVNTeGRaVmp4Z3ZmbERZOERFWmVsYUF6N0lYZzJtYmhXRTZzaXBHamppV1owOTZsSFdzd05DTmtfdnh1T2pSTkdhekUyXy1Xdi1oeTBvVGJfckZWdFpKdVl0eU5XOFhRMVRZYm9wa21iNURqYXU4QXFDTHJZeW01OG01YXo4V1JfN012ZmJLTlVGTlFmRGpMQ0ZxdWF6V2s?oc=5\" target=\"_blank\">Decatur City Council to discuss infrastructure, traffic, and recreation projects Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rocketcitynow.com</font>",
-        "similarity_excluded": "No",
-        "score": 4,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUVhjdWJTR05JQ3RidWUydVhyM3JLejI0OENTSTFtbEppWG83OUluUk9ucklOS0R6MUNET1lIX3NMSXZFZ1lNckx3T01BVkhXYmE2UkVmeGo3YUJfLXphVUNXOHJET010OFZMX0ZNYzJXcVhsOGtuUGRodXpVODRjRVc4UWZ6TkhMR0U5N2tUYi1XNkttemVkM1dyTnpMd1dDcFBTSklnYS1vMVJHQk4waHhYSm1hX0lsS3RjRkxoSi1uMWo4eWJVbFNJelVZMUZWWFRPUzVlb3dEa2JwNkJ4TjBuR1M1MWgwUHFCeUFpRTZXU2RwazJGbjl0cUdpZnFaemRV?oc=5",
-        "date": "2026-03-02",
-        "title": "ASTHO Members Advocate for $1 Billion Investment in Public Health Infrastructure During Annual Spring Leadership Forum - PR Newswire",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNUVhjdWJTR05JQ3RidWUydVhyM3JLejI0OENTSTFtbEppWG83OUluUk9ucklOS0R6MUNET1lIX3NMSXZFZ1lNckx3T01BVkhXYmE2UkVmeGo3YUJfLXphVUNXOHJET010OFZMX0ZNYzJXcVhsOGtuUGRodXpVODRjRVc4UWZ6TkhMR0U5N2tUYi1XNkttemVkM1dyTnpMd1dDcFBTSklnYS1vMVJHQk4waHhYSm1hX0lsS3RjRkxoSi1uMWo4eWJVbFNJelVZMUZWWFRPUzVlb3dEa2JwNkJ4TjBuR1M1MWgwUHFCeUFpRTZXU2RwazJGbjl0cUdpZnFaemRV?oc=5\" target=\"_blank\">ASTHO Members Advocate for $1 Billion Investment in Public Health Infrastructure During Annual Spring Leadership Forum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPVnhwUG1NaHNIS0dwc3NvOHBILWRxcHhWUVJCcVRZblVrR0pITHZLX25Fai1RLXVyeW9ZSWNHTUZPT01wbndoZGpNNHRZMXpiaWMwTjJQdjVBRUVTZjRmVGlFRzRyUnpJLXZ0cjN1Vjlfc0VwZXFzQ2U4R0ZHRUNxMGdERklwaDNiOGNqa3ZFYTVBbGFlMGd0UTdneG5Pcml4Z0k0eDBrQ3NWUGs4Y2dZNUlGV2ZHVERQUmNoU0d5d2dmUlJxWWFpQTF0R0VyQV9tVkQxc2RPVjNrR3B3cFUwWkxfaTNoOW9VVFhkS0JtRVkwOXZRUkNVUW5TUU5CaFo2VEtMdE81S1F1dHRLYldpWENRbGktNWZBMGk3RDdpdTdEUnk4TW5zaFhmNVduSTU1all0SFVEX3pzUUMtemlidFV1TG9oVFZ5YVZtZ2M4cWV1SzBuWk5lbjBJMHViM0wya0xrQkZWeEZHdkhZT3hWbkpUekVGNmJLRnREcG9pTzVUd25CZmNJaUltTXg3YUxkaXNaeElsS2xGcHU1TVFYRWdVWGpxaXBfSzBsNzA3V3Btd21JbFZ3Y3E5RGQ2MGc?oc=5",
-        "date": "2026-03-02",
-        "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwNBVV95cUxPVnhwUG1NaHNIS0dwc3NvOHBILWRxcHhWUVJCcVRZblVrR0pITHZLX25Fai1RLXVyeW9ZSWNHTUZPT01wbndoZGpNNHRZMXpiaWMwTjJQdjVBRUVTZjRmVGlFRzRyUnpJLXZ0cjN1Vjlfc0VwZXFzQ2U4R0ZHRUNxMGdERklwaDNiOGNqa3ZFYTVBbGFlMGd0UTdneG5Pcml4Z0k0eDBrQ3NWUGs4Y2dZNUlGV2ZHVERQUmNoU0d5d2dmUlJxWWFpQTF0R0VyQV9tVkQxc2RPVjNrR3B3cFUwWkxfaTNoOW9VVFhkS0JtRVkwOXZRUkNVUW5TUU5CaFo2VEtMdE81S1F1dHRLYldpWENRbGktNWZBMGk3RDdpdTdEUnk4TW5zaFhmNVduSTU1all0SFVEX3pzUUMtemlidFV1TG9oVFZ5YVZtZ2M4cWV1SzBuWk5lbjBJMHViM0wya0xrQkZWeEZHdkhZT3hWbkpUekVGNmJLRnREcG9pTzVUd25CZmNJaUltTXg3YUxkaXNaeElsS2xGcHU1TVFYRWdVWGpxaXBfSzBsNzA3V3Btd21JbFZ3Y3E5RGQ2MGc?oc=5\" target=\"_blank\">Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": "\ud83c\uddea\ud83c\uddf8 NEWS: Amazon pledges nearly $40B to expand AI data-center infrastructure in Spain $AMZN"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0s1eEEwYi00b0pMRzFZM1lrNlNNSExvV3hjVXl4OUJpVEpYMmZkSG5UZl93Y0tNSmhUT09MQjltWU9YcEJkZWVzMnYxR3hsZEE0VXI3bTVOcFh5d3dkdUpLQmhreURsMEV3Y1RTRnJFYkZQekJYZ1d6SktKeWliWUZGM3llbVEtdmFsSnhVUU5zNnJCMEtSem1RNElYNW8?oc=5",
-        "date": "2026-03-02",
-        "title": "This energy fund is paying $0.475 a month to investors through May 2026 - Stock Titan",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0s1eEEwYi00b0pMRzFZM1lrNlNNSExvV3hjVXl4OUJpVEpYMmZkSG5UZl93Y0tNSmhUT09MQjltWU9YcEJkZWVzMnYxR3hsZEE0VXI3bTVOcFh5d3dkdUpLQmhreURsMEV3Y1RTRnJFYkZQekJYZ1d6SktKeWliWUZGM3llbVEtdmFsSnhVUU5zNnJCMEtSem1RNElYNW8?oc=5\" target=\"_blank\">This energy fund is paying $0.475 a month to investors through May 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSFNtcmpVVFhEQVZvbnVBMnBGdVpTaUsyeHd2bGp1a2lwMHM4Nk10dXF6UXdlcnhOWWh1TEwyRVdKRVZlamJPZWxxS2d4VWxhZmdZTWt4YXpfQXo0ckZnWE16Y2w3SzZkemxIVFdRQk1UdUI5MHFYZUVMN2xxWWw5X1loRlBydDZIV1IyTUg3VlpEQVVjdnQ5cUxTLXlYdEhoRzFNMVR3ZjBYd3g1eW9lRV85Z3Fzb0QwRkJ6MGlHdm80dEdyQnBnOUxxX2NpMld1MXc?oc=5",
-        "date": "2026-03-02",
-        "title": "Russian Strike Hits Transport Infrastructure in Kryvyi Rih District, One Killed, Seven Wounded - UNITED24 Media",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSFNtcmpVVFhEQVZvbnVBMnBGdVpTaUsyeHd2bGp1a2lwMHM4Nk10dXF6UXdlcnhOWWh1TEwyRVdKRVZlamJPZWxxS2d4VWxhZmdZTWt4YXpfQXo0ckZnWE16Y2w3SzZkemxIVFdRQk1UdUI5MHFYZUVMN2xxWWw5X1loRlBydDZIV1IyTUg3VlpEQVVjdnQ5cUxTLXlYdEhoRzFNMVR3ZjBYd3g1eW9lRV85Z3Fzb0QwRkJ6MGlHdm80dEdyQnBnOUxxX2NpMld1MXc?oc=5\" target=\"_blank\">Russian Strike Hits Transport Infrastructure in Kryvyi Rih District, One Killed, Seven Wounded</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNITED24 Media</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UMEZsVzJPMEpySVktYkpFSXBZU1dLUEZ6d20tcEpzSjNyWkozOXJpM1lqeDRnYlY4Wk1JcU5zcTZtZlZPTEdWQ0NubVBRYnpzb0lqakJuNU84MjJKWXc?oc=5",
-        "date": "2026-03-02",
-        "title": "Powering Romania\u2019s Next-Gen Quantum Infrastructure - AZoQuantum",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UMEZsVzJPMEpySVktYkpFSXBZU1dLUEZ6d20tcEpzSjNyWkozOXJpM1lqeDRnYlY4Wk1JcU5zcTZtZlZPTEdWQ0NubVBRYnpzb0lqakJuNU84MjJKWXc?oc=5\" target=\"_blank\">Powering Romania\u2019s Next-Gen Quantum Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AZoQuantum</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUJlUGpmVGZneTJ6ckpCcGtZQ2VNSEFXWk5xZlRtNVEydHRXYXZ3OG1PLUhOUGZhZFdLc25Qemw3ZUN2Nlp0WEw1UExZR0RZUUNvNjVlNU5kTHFBbExnOEk2ZFl5NHBqTHRQb2JPYlZnZk83NlZFWm1Jd3Z2ODAwaEtydzBIdXhTbkluTm5EVzBVRXpRQ1EwUjNuMmdpWktXRzFBT0FELWtOaXpOaDNWRGVmMXY0OW5vaGU3dnMxZzJYX3o1MTdHTng1Rng0clNlNllnZzN0QWRhSDRPNlFzdXR4Y3VvTXJMOWY4?oc=5",
-        "date": "2026-03-02",
-        "title": "The Infrastructure Renaissance: A Deep Dive into Sterling Infrastructure (STRL) - The Chronicle-Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUJlUGpmVGZneTJ6ckpCcGtZQ2VNSEFXWk5xZlRtNVEydHRXYXZ3OG1PLUhOUGZhZFdLc25Qemw3ZUN2Nlp0WEw1UExZR0RZUUNvNjVlNU5kTHFBbExnOEk2ZFl5NHBqTHRQb2JPYlZnZk83NlZFWm1Jd3Z2ODAwaEtydzBIdXhTbkluTm5EVzBVRXpRQ1EwUjNuMmdpWktXRzFBT0FELWtOaXpOaDNWRGVmMXY0OW5vaGU3dnMxZzJYX3o1MTdHTng1Rng0clNlNllnZzN0QWRhSDRPNlFzdXR4Y3VvTXJMOWY4?oc=5\" target=\"_blank\">The Infrastructure Renaissance: A Deep Dive into Sterling Infrastructure (STRL)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Chronicle-Journal</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTl9kOFVqd3FwRTVEaFlQRG9iR1YtZndVTHp4eXFRaS1aaVp3a2RZN21pUTlwM01BTVhBc2UtUERIVGg4cDl6WUpnNnlvcGZrMHgyYzF3VVpQWUlaZnJSMHZMMExsa3Z3YUc0WHBvbzBDa2hfOE51dm91c254czdYSWdnR1MwZVhUX0tYbXVzQmZFbU4zdXJzdV9FNjZaR0VPclZfdFh6U29ETVlOYVdFRQ?oc=5",
-        "date": "2026-03-02",
-        "title": "Kayne Anderson Energy Infrastructure Fund (KYN) Maintains Monthl - GuruFocus",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOTl9kOFVqd3FwRTVEaFlQRG9iR1YtZndVTHp4eXFRaS1aaVp3a2RZN21pUTlwM01BTVhBc2UtUERIVGg4cDl6WUpnNnlvcGZrMHgyYzF3VVpQWUlaZnJSMHZMMExsa3Z3YUc0WHBvbzBDa2hfOE51dm91c254czdYSWdnR1MwZVhUX0tYbXVzQmZFbU4zdXJzdV9FNjZaR0VPclZfdFh6U29ETVlOYVdFRQ?oc=5\" target=\"_blank\">Kayne Anderson Energy Infrastructure Fund (KYN) Maintains Monthl</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNmxEZmxlMWQ3UEpxN2lyV0RnLXNzX04tR0JoWFR3TzdubVlqZktNbGZtNmVRaC1WeUFjb202ZjJUb2lnVVczMHltZG1yQ3Y4c3MweDZOYzhvWDRBdVZnZ0ZodWtXWmFSZkdNM3Ewb29Vb1lManM1TThRSEJoc2llamtmdHREOVV5VnZHbWpRZTUzeEozd19hTGN6dmJ3bEtacDNyRk4ycENkRmVtb0FhdWt2eHI4VDVielJKekVoSWhOa0JlbmpVdFdZZHN3Zlk1MS1BLUEwQk9wM251QzFfNy1YV1ZwZ9IB6wFBVV95cUxOckVtc0ZoNURGNkdBU3FTZ0cxSnN6Z3VxUkRkbmFwaWR5R2hadkdLR2FfQjRFS0dHU1h6Ry1vMVhjVkQ0R2NtNUh5VS1ZTHU3dmg4RlFveWRNRmxCSkhEQV9mSmRPb0I3RWhDcDZlcWszMDV5cl9UMUYzeEl3UGlVU0lvejZUcVZNNUFuOUhRVDcwdlNrc0VXU3JrZ3VTMFRaeklGRzhrT3BzeTF2MVQxRkRTYy1uWlo5aktwcWFUbnA3cWJNOFJ3WEtHa0Flc25fYVNacWxpeDRlZzJGWUFWeXBtVG4wbVlwYkxZ?oc=5",
-        "date": "2026-03-02",
-        "title": "AIIB President Commends India's Namo Bharat Corridor for Future-Ready Urban Development - Devdiscourse",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNmxEZmxlMWQ3UEpxN2lyV0RnLXNzX04tR0JoWFR3TzdubVlqZktNbGZtNmVRaC1WeUFjb202ZjJUb2lnVVczMHltZG1yQ3Y4c3MweDZOYzhvWDRBdVZnZ0ZodWtXWmFSZkdNM3Ewb29Vb1lManM1TThRSEJoc2llamtmdHREOVV5VnZHbWpRZTUzeEozd19hTGN6dmJ3bEtacDNyRk4ycENkRmVtb0FhdWt2eHI4VDVielJKekVoSWhOa0JlbmpVdFdZZHN3Zlk1MS1BLUEwQk9wM251QzFfNy1YV1ZwZ9IB6wFBVV95cUxOckVtc0ZoNURGNkdBU3FTZ0cxSnN6Z3VxUkRkbmFwaWR5R2hadkdLR2FfQjRFS0dHU1h6Ry1vMVhjVkQ0R2NtNUh5VS1ZTHU3dmg4RlFveWRNRmxCSkhEQV9mSmRPb0I3RWhDcDZlcWszMDV5cl9UMUYzeEl3UGlVU0lvejZUcVZNNUFuOUhRVDcwdlNrc0VXU3JrZ3VTMFRaeklGRzhrT3BzeTF2MVQxRkRTYy1uWlo5aktwcWFUbnA3cWJNOFJ3WEtHa0Flc25fYVNacWxpeDRlZzJGWUFWeXBtVG4wbVlwYkxZ?oc=5\" target=\"_blank\">AIIB President Commends India's Namo Bharat Corridor for Future-Ready Urban Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: AIIB President praises Indias Namo Bharat Corridor as a model for future-ready urban development."
-    },
-    {
-        "link": "https://www.constructiondive.com/news/multifamily-institutional-capital-private-buyers-apartment-sales/813476/",
-        "date": "2026-03-02",
-        "title": "Apartment sales volume fell 25% YOY in January",
-        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/gBj1JmUIekwP5_171CaBkf56Y90viF0pi9cNzc_VIdk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MzkwNDAzNTAuanBn.webp\" /></div></figure><p>Prices fell 0.1% year over year, though they have been rising steadily over the past four months, according to an MSCI report.</p>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.constructiondive.com/news/recruiting-apprentice-women-construction-worker/813407/",
-        "date": "2026-03-02",
-        "title": "The next generation of women builders is out there. They just need a clearer path.",
-        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/MUrqInIBgrIXGMDRu1TqnoMUmtoK4BzVUqLRwJktuTI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODM5MDgzMDQ4LmpwZw==.webp\" /></div></figure><p>Going to college versus seeking an apprenticeship doesn't have to be an either-or choice, writes Scott Taylor, dean of workforce development for Stephens College.</p>",
-        "similarity_excluded": "No",
-        "score": 4,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.constructiondive.com/news/construction-champions-2026/811833/",
-        "date": "2026-03-02",
-        "title": "Construction Champions 2026",
-        "summary": "Construction Champions 2026\n  These women are shaping the industry from the ground up.\n  \n    Published \n    March 2, 2026 \n    &bull;\n    By Construction Dive staff\n  \n\n\n  \n    \n      \n    \n    \n        Photo illustration: Jenni Sohn for Industry Dive\n    ...",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPVnhwUG1NaHNIS0dwc3NvOHBILWRxcHhWUVJCcVRZblVrR0pITHZLX25Fai1RLXVyeW9ZSWNHTUZPT01wbndoZGpNNHRZMXpiaWMwTjJQdjVBRUVTZjRmVGlFRzRyUnpJLXZ0cjN1Vjlfc0VwZXFzQ2U4R0ZHRUNxMGdERklwaDNiOGNqa3ZFYTVBbGFlMGd0UTdneG5Pcml4Z0k0eDBrQ3NWUGs4Y2dZNUlGV2ZHVERQUmNoU0d5d2dmUlJxWWFpQTF0R0VyQV9tVkQxc2RPVjNrR3B3cFUwWkxfaTNoOW9VVFhkS0JtRVkwOXZRUkNVUW5TUU5CaFo2VEtMdE81S1F1dHRLYldpWENRbGktNWZBMGk3RDdpdTdEUnk4TW5zaFhmNVduSTU1all0SFVEX3pzUUMtemlidFV1TG9oVFZ5YVZtZ2M4cWV1SzBuWk5lbjBJMHViM0wya0xrQkZWeEZHdkhZT3hWbkpUekVGNmJLRnREcG9pTzVUd25CZmNJaUltTXg3YUxkaXNaeElsS2xGcHU1TVFYRWdVWGpxaXBfSzBsNzA3V3Btd21JbFZ3Y3E5RGQ2MGc?oc=5",
-        "date": "2026-03-02",
-        "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwNBVV95cUxPVnhwUG1NaHNIS0dwc3NvOHBILWRxcHhWUVJCcVRZblVrR0pITHZLX25Fai1RLXVyeW9ZSWNHTUZPT01wbndoZGpNNHRZMXpiaWMwTjJQdjVBRUVTZjRmVGlFRzRyUnpJLXZ0cjN1Vjlfc0VwZXFzQ2U4R0ZHRUNxMGdERklwaDNiOGNqa3ZFYTVBbGFlMGd0UTdneG5Pcml4Z0k0eDBrQ3NWUGs4Y2dZNUlGV2ZHVERQUmNoU0d5d2dmUlJxWWFpQTF0R0VyQV9tVkQxc2RPVjNrR3B3cFUwWkxfaTNoOW9VVFhkS0JtRVkwOXZRUkNVUW5TUU5CaFo2VEtMdE81S1F1dHRLYldpWENRbGktNWZBMGk3RDdpdTdEUnk4TW5zaFhmNVduSTU1all0SFVEX3pzUUMtemlidFV1TG9oVFZ5YVZtZ2M4cWV1SzBuWk5lbjBJMHViM0wya0xrQkZWeEZHdkhZT3hWbkpUekVGNmJLRnREcG9pTzVUd25CZmNJaUltTXg3YUxkaXNaeElsS2xGcHU1TVFYRWdVWGpxaXBfSzBsNzA3V3Btd21JbFZ3Y3E5RGQ2MGc?oc=5\" target=\"_blank\">Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "posted",
-        "tweet": "\ud83c\uddea\ud83c\uddf8 NEWS: Amazon pledges nearly $40B to expand AI data-center infrastructure in Spain $AMZN",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNmxEZmxlMWQ3UEpxN2lyV0RnLXNzX04tR0JoWFR3TzdubVlqZktNbGZtNmVRaC1WeUFjb202ZjJUb2lnVVczMHltZG1yQ3Y4c3MweDZOYzhvWDRBdVZnZ0ZodWtXWmFSZkdNM3Ewb29Vb1lManM1TThRSEJoc2llamtmdHREOVV5VnZHbWpRZTUzeEozd19hTGN6dmJ3bEtacDNyRk4ycENkRmVtb0FhdWt2eHI4VDVielJKekVoSWhOa0JlbmpVdFdZZHN3Zlk1MS1BLUEwQk9wM251QzFfNy1YV1ZwZ9IB6wFBVV95cUxOckVtc0ZoNURGNkdBU3FTZ0cxSnN6Z3VxUkRkbmFwaWR5R2hadkdLR2FfQjRFS0dHU1h6Ry1vMVhjVkQ0R2NtNUh5VS1ZTHU3dmg4RlFveWRNRmxCSkhEQV9mSmRPb0I3RWhDcDZlcWszMDV5cl9UMUYzeEl3UGlVU0lvejZUcVZNNUFuOUhRVDcwdlNrc0VXU3JrZ3VTMFRaeklGRzhrT3BzeTF2MVQxRkRTYy1uWlo5aktwcWFUbnA3cWJNOFJ3WEtHa0Flc25fYVNacWxpeDRlZzJGWUFWeXBtVG4wbVlwYkxZ?oc=5",
-        "date": "2026-03-02",
-        "title": "AIIB President Commends India's Namo Bharat Corridor for Future-Ready Urban Development - Devdiscourse",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNmxEZmxlMWQ3UEpxN2lyV0RnLXNzX04tR0JoWFR3TzdubVlqZktNbGZtNmVRaC1WeUFjb202ZjJUb2lnVVczMHltZG1yQ3Y4c3MweDZOYzhvWDRBdVZnZ0ZodWtXWmFSZkdNM3Ewb29Vb1lManM1TThRSEJoc2llamtmdHREOVV5VnZHbWpRZTUzeEozd19hTGN6dmJ3bEtacDNyRk4ycENkRmVtb0FhdWt2eHI4VDVielJKekVoSWhOa0JlbmpVdFdZZHN3Zlk1MS1BLUEwQk9wM251QzFfNy1YV1ZwZ9IB6wFBVV95cUxOckVtc0ZoNURGNkdBU3FTZ0cxSnN6Z3VxUkRkbmFwaWR5R2hadkdLR2FfQjRFS0dHU1h6Ry1vMVhjVkQ0R2NtNUh5VS1ZTHU3dmg4RlFveWRNRmxCSkhEQV9mSmRPb0I3RWhDcDZlcWszMDV5cl9UMUYzeEl3UGlVU0lvejZUcVZNNUFuOUhRVDcwdlNrc0VXU3JrZ3VTMFRaeklGRzhrT3BzeTF2MVQxRkRTYy1uWlo5aktwcWFUbnA3cWJNOFJ3WEtHa0Flc25fYVNacWxpeDRlZzJGWUFWeXBtVG4wbVlwYkxZ?oc=5\" target=\"_blank\">AIIB President Commends India's Namo Bharat Corridor for Future-Ready Urban Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: AIIB President praises Indias Namo Bharat Corridor as a model for future-ready urban development.",
-        "type": "news"
-    },
-    {
-        "link": null,
-        "date": "2026-03-02",
-        "status": "posted",
-        "tweet": "Google's data centers in \ud83c\uddfa\ud83c\uddf8California processed 1.2 exabytes of search queries daily in 2026, a 25% increase from 2025.\n\n$GOOGL",
-        "type": "infrastructure"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTE9VRWgzcHhjYTVLaXRnanVyVDBYd05yNjA5UFlKOTIyUkpjcTBjZTN0RWFNRjktWmVmUi04X2dsQ3pydXBweFFsZGFQMDBtZ3czM2R6MVFGeV9JRlFiYjBBT210OUF2eVBkdldKTzdYSlAwOGZZZU9UVEViS1NtSUtjOFY3N0NZaHZaZW53NnZhQ20yYS1SMm9fWWl4WWNWMGlpeVh1U0V2eWEyUG5pSENoM1kwMmtpdnBqeFVPQTROUDFlTkhyX2NPMDNwTEVlN0RhVmdYTllianNRNFhZTFNROF9Ja3dwYUpJWFhoLXBQX2hFYW1sbVdn?oc=5",
         "date": "2026-03-03",
         "title": "Custom Home Builder, Vought Construction, Receives JobTread 2025 \"Home Builder of the Year\" Award - FinancialContent",
@@ -3846,5 +3472,117 @@
         "status": "posted",
         "tweet": "Meta's global data centers processed 12 exabytes of data daily in 2026, a 30% increase from 2025.\n\n$META",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaVhHajhkRzVhWGVTb1ZxOUtmM0t2YnU4di1XWmZuZGpMMVRBVjE1aUo4ZkNiT1Bick5KUUZrdDl1SWJBQkZGdHZzenZ3RHl4N3F2bF9maTVPUjd4QU1YWDBEVlZSMTZweUdLYlFteTlVSk1Mak1KODRLc2ZqcF9aVnFpR2o3ZVFXRU9ORw?oc=5",
+        "date": "2026-03-12",
+        "title": "The Case for Making Good Work Conditions the Baseline - The Good Builder",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPaVhHajhkRzVhWGVTb1ZxOUtmM0t2YnU4di1XWmZuZGpMMVRBVjE1aUo4ZkNiT1Bick5KUUZrdDl1SWJBQkZGdHZzenZ3RHl4N3F2bF9maTVPUjd4QU1YWDBEVlZSMTZweUdLYlFteTlVSk1Mak1KODRLc2ZqcF9aVnFpR2o3ZVFXRU9ORw?oc=5\" target=\"_blank\">The Case for Making Good Work Conditions the Baseline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Good Builder</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZGxJeUZhbUc0ZE1EMGp1MGo2N0Z0N1U3Z0RQQXltQTd5a2FWcHpFMjFDeVF5S2NkRFBLOE1BQTY1RTNqMWhPaWkzbmhKaFFvOWNNQWpVUUk1V0dvSGQzY1RQTUI2MVBsaG9ocENTbm90WGxDUU1CNkIxQzgybm41aFdKYzhLZHZZQUFXMHpXZUhvblV3Z2VmQXNxRVZ1eGNhbTlkMnpudzE0cVhRT0xBT2JxQmZBaUZYS2c1eHhEQy1odGlhUVVkZmdvcE9CekplTVdNM2RFV3dXYTZCV1VFdS1MUXQ?oc=5",
+        "date": "2026-03-12",
+        "title": "Federal funding boosts infrastructure in Western Montana - Leader Publications",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZGxJeUZhbUc0ZE1EMGp1MGo2N0Z0N1U3Z0RQQXltQTd5a2FWcHpFMjFDeVF5S2NkRFBLOE1BQTY1RTNqMWhPaWkzbmhKaFFvOWNNQWpVUUk1V0dvSGQzY1RQTUI2MVBsaG9ocENTbm90WGxDUU1CNkIxQzgybm41aFdKYzhLZHZZQUFXMHpXZUhvblV3Z2VmQXNxRVZ1eGNhbTlkMnpudzE0cVhRT0xBT2JxQmZBaUZYS2c1eHhEQy1odGlhUVVkZmdvcE9CekplTVdNM2RFV3dXYTZCV1VFdS1MUXQ?oc=5\" target=\"_blank\">Federal funding boosts infrastructure in Western Montana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Leader Publications</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Federal funding boosts infrastructure projects across Western Montana"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcHhZZk9TVUlWRXBjM2N0a0QxTEFUYTBBTnZiMldGT2dJZmh1NHkwQkg2WUlLREJ5MnRHVkN4WEZCTkpaUlc5SHk2OFBMZlYwM1NwdXdZdFUzcGFNdUp3a2YwQkwyanU2OVlZaVV5QnJEOUpCM284MXkzdnNhODUwUWpJeGlwOTNSb04wbnhfTXBEZ0NiTWlhTnZCVDFPemhpdGI0OU1HSmNCcEtxckk5RnA0WjYxbmVNQ1Njb21RemdNcHVIUEpFZzJsb1JKVG50ZGk0ZWtlTnYwNzdv?oc=5",
+        "date": "2026-03-12",
+        "title": "Federal funding boosts infrastructure in Western Montana - High Point Enterprise",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcHhZZk9TVUlWRXBjM2N0a0QxTEFUYTBBTnZiMldGT2dJZmh1NHkwQkg2WUlLREJ5MnRHVkN4WEZCTkpaUlc5SHk2OFBMZlYwM1NwdXdZdFUzcGFNdUp3a2YwQkwyanU2OVlZaVV5QnJEOUpCM284MXkzdnNhODUwUWpJeGlwOTNSb04wbnhfTXBEZ0NiTWlhTnZCVDFPemhpdGI0OU1HSmNCcEtxckk5RnA0WjYxbmVNQ1Njb21RemdNcHVIUEpFZzJsb1JKVG50ZGk0ZWtlTnYwNzdv?oc=5\" target=\"_blank\">Federal funding boosts infrastructure in Western Montana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">High Point Enterprise</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdTN6eGVuWHczMlVwVWpXRG5fMUVQVk00RXBpTVJrV0U3ajJNNVJScGQyX194RnpKOUFuSVNrU25EaEVpUzM2ZDhRdU91ZjRub3NNOFEyM1R0MXZ4ZnItVElOVm1uZWZsQnhSdnQyajNrNXFYYkpKbEszdWs3UHN0bUVmUFNhUUR2ZmRNUzZlM3dwMUpMWHRZbHBkZG95WDllbDMwSlA3R2luOGwzSmJhNkdyTEhGcFpGWlprOFUyU2RucEFJVmdTMWJTTnZ5Rk9DVWFRbFN6S2RKc2NDRkE?oc=5",
+        "date": "2026-03-12",
+        "title": "Federal funding boosts infrastructure in Western Montana - Northeast Mississippi Daily Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdTN6eGVuWHczMlVwVWpXRG5fMUVQVk00RXBpTVJrV0U3ajJNNVJScGQyX194RnpKOUFuSVNrU25EaEVpUzM2ZDhRdU91ZjRub3NNOFEyM1R0MXZ4ZnItVElOVm1uZWZsQnhSdnQyajNrNXFYYkpKbEszdWs3UHN0bUVmUFNhUUR2ZmRNUzZlM3dwMUpMWHRZbHBkZG95WDllbDMwSlA3R2luOGwzSmJhNkdyTEhGcFpGWlprOFUyU2RucEFJVmdTMWJTTnZ5Rk9DVWFRbFN6S2RKc2NDRkE?oc=5\" target=\"_blank\">Federal funding boosts infrastructure in Western Montana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northeast Mississippi Daily Journal</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMkNvdDhiUnNrUFRSRGJWaDN3bGYxVUFScDktMDlReVBMT2ppeW1kck5nRTgwSHpMekppVzgzR0V1Y3ZGUUtYeHZEYnVlVnB2WHBjcTEwYlVHZlNQUE5IbUM0SWlTQ256bll4V1ZsenJDUHYxTnA3MHJxekZXUGRRa0lob3NReUVlek9ORDltbEtfR1Y5WGgwclVQWWpkdDhVUm5oQ251dGlSY2EyU0JSY1hQNGtKblVWN0dQS2xMUzNYY0NTdEtWUDdlOXhCZWNodG1Mc0ZhSF85SmstQjMxMWJmcHJrTXVzVDFqcUZUdw?oc=5",
+        "date": "2026-03-12",
+        "title": "Federal funding boosts infrastructure in Western Montana - communitynewspapergroup.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMkNvdDhiUnNrUFRSRGJWaDN3bGYxVUFScDktMDlReVBMT2ppeW1kck5nRTgwSHpMekppVzgzR0V1Y3ZGUUtYeHZEYnVlVnB2WHBjcTEwYlVHZlNQUE5IbUM0SWlTQ256bll4V1ZsenJDUHYxTnA3MHJxekZXUGRRa0lob3NReUVlek9ORDltbEtfR1Y5WGgwclVQWWpkdDhVUm5oQ251dGlSY2EyU0JSY1hQNGtKblVWN0dQS2xMUzNYY0NTdEtWUDdlOXhCZWNodG1Mc0ZhSF85SmstQjMxMWJmcHJrTXVzVDFqcUZUdw?oc=5\" target=\"_blank\">Federal funding boosts infrastructure in Western Montana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">communitynewspapergroup.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVThuOUVGQkJoYjBxTjMyNjlpMEhHTHZjRng0M2FPY1RFcHFJeWNQcGI2NzhTRlpWZXE0YVB5OWRwWWdFcWZfb1JUdGg4bjF3ZTBiNWNEN1Q5WVctXzhNbXJ5clNwS1lWQTB3UWVzaEEzWkg3eXB5NkRCekFlQXRNWFRKUV9qelZZV3lPaWRYZ0prOEhmeEJUQS0yV0VtOTB1azY0Nkt5N0hDUUx0UTdqMm80Z0JQUjFDQlVwSTBCSXFTaE9TOEcxYWIyOHVJa2tzNjA1ZkRDTEdHejBsVno0bdIB5gFBVV95cUxQOEdCaFNGc21NbndKVzdUQ3VtdlBzTEZ3SS00NUpCY2xXSTR6WnlaY1lWTjFTc0dvVW1faHhFRFFxb1RiZEtGckNOYjNPN2k2dDVkTEhuWTItczZaX01ycVBNLTUxb3VGMjNVN2tGRjB4cXYzSEViRGpORmE1b2ItQjVLSkc0NEhhV256S2wtSGtFLVdpNGxQZVlYUy1xOHlVdEhyQzdyNi1PSFNlSHlTTUxKcTRIdEx3MjRWMWxhZm5uM0F6UURsUnBhSjVUOWh1NDdKN2dtZGgzVHpJbGt5aFp5dnhSQQ?oc=5",
+        "date": "2026-03-12",
+        "title": "A Look At Sterling Infrastructure (STRL) Valuation After Conference Spotlight And Free Cash Flow Strength - simplywall.st",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVThuOUVGQkJoYjBxTjMyNjlpMEhHTHZjRng0M2FPY1RFcHFJeWNQcGI2NzhTRlpWZXE0YVB5OWRwWWdFcWZfb1JUdGg4bjF3ZTBiNWNEN1Q5WVctXzhNbXJ5clNwS1lWQTB3UWVzaEEzWkg3eXB5NkRCekFlQXRNWFRKUV9qelZZV3lPaWRYZ0prOEhmeEJUQS0yV0VtOTB1azY0Nkt5N0hDUUx0UTdqMm80Z0JQUjFDQlVwSTBCSXFTaE9TOEcxYWIyOHVJa2tzNjA1ZkRDTEdHejBsVno0bdIB5gFBVV95cUxQOEdCaFNGc21NbndKVzdUQ3VtdlBzTEZ3SS00NUpCY2xXSTR6WnlaY1lWTjFTc0dvVW1faHhFRFFxb1RiZEtGckNOYjNPN2k2dDVkTEhuWTItczZaX01ycVBNLTUxb3VGMjNVN2tGRjB4cXYzSEViRGpORmE1b2ItQjVLSkc0NEhhV256S2wtSGtFLVdpNGxQZVlYUy1xOHlVdEhyQzdyNi1PSFNlSHlTTUxKcTRIdEx3MjRWMWxhZm5uM0F6UURsUnBhSjVUOWh1NDdKN2dtZGgzVHpJbGt5aFp5dnhSQQ?oc=5\" target=\"_blank\">A Look At Sterling Infrastructure (STRL) Valuation After Conference Spotlight And Free Cash Flow Strength</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRHBTY1BMU0JBR0Z0c0hoSHBJbGg0TEZBTHlDZVV4cjYzcVQwWldWbnl1RlMwdDg4ZWZTMXdodHFoWGYtQkYwSzQtRDk2ZDI2Nk9pZ2dTMDFVanVJd0hJOUZSUkYyN1BZQnFEcFJnbnlzUWgzT05sNmdzV2JTcjBueHJuTER5N0ttZlIyNzl0LTQ?oc=5",
+        "date": "2026-03-12",
+        "title": "Federal funding boosts infrastructure in Western Montana - Iosco County News Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNRHBTY1BMU0JBR0Z0c0hoSHBJbGg0TEZBTHlDZVV4cjYzcVQwWldWbnl1RlMwdDg4ZWZTMXdodHFoWGYtQkYwSzQtRDk2ZDI2Nk9pZ2dTMDFVanVJd0hJOUZSUkYyN1BZQnFEcFJnbnlzUWgzT05sNmdzV2JTcjBueHJuTER5N0ttZlIyNzl0LTQ?oc=5\" target=\"_blank\">Federal funding boosts infrastructure in Western Montana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Iosco County News Herald</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHlpakYzV29uWUcta3BPbDdFZnk2cEQ5WlNkZ0FHczdodk9Rb1hNZWEtRXRiQnE5THllenhSYzBlRnMzTU51N0U1d2xqeWx6aWdYek0wblE5NFpuV3NJMGNQdlRBU2phclQ0T3RXcnJlYnRrYTJzTlh4MktmYlF3NW9Fa2YwbXpmNGVzV3pMSGl1cUk2T0ozdV81dVQ2YUFJ?oc=5",
+        "date": "2026-03-12",
+        "title": "Iran targets busiest international airport as top UN body demands halt to attacks on Gulf neighbors - AP News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHlpakYzV29uWUcta3BPbDdFZnk2cEQ5WlNkZ0FHczdodk9Rb1hNZWEtRXRiQnE5THllenhSYzBlRnMzTU51N0U1d2xqeWx6aWdYek0wblE5NFpuV3NJMGNQdlRBU2phclQ0T3RXcnJlYnRrYTJzTlh4MktmYlF3NW9Fa2YwbXpmNGVzV3pMSGl1cUk2T0ozdV81dVQ2YUFJ?oc=5\" target=\"_blank\">Iran targets busiest international airport as top UN body demands halt to attacks on Gulf neighbors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3RHemJEWlFYR25HMHFQRTF1SWlsMmxvZ1ZQdHFZM0prVmNKcTR4TUNHZ3NVN0tCclV2NWxvSGFWdmFoX1pmYzh1WVVNV3V1ZEJLM0ozVHVRWWFYYkZ2b3gwUWxIZGxuNkhoeDU0MVNXUGdKNHVYdXFqRkYzWF9vVUFzanTSAZgBQVVfeXFMTUlOLTI2RHFqVWZlSU91V2k3bTZGVUtWa0tUcUU2ME8wVWVtcXdWY0hmN09vMzF1U2RjSU1jZ0c4dEplY2I2VjQ3dm54ZkU4QmYtNXh1cjAwLVpsUnB0S2xQX3c5dXU0aHY1bFRDM0VwWk0xSXlZUVFFaWpLRkpRTi0yajdDckhveEhLYXFqQThvM25Uc2ZTdFc?oc=5",
+        "date": "2026-03-12",
+        "title": "KIND, Hyundai E&C and KIRA unite to drive global urban development push - CHOSUNBIZ - Chosunbiz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3RHemJEWlFYR25HMHFQRTF1SWlsMmxvZ1ZQdHFZM0prVmNKcTR4TUNHZ3NVN0tCclV2NWxvSGFWdmFoX1pmYzh1WVVNV3V1ZEJLM0ozVHVRWWFYYkZ2b3gwUWxIZGxuNkhoeDU0MVNXUGdKNHVYdXFqRkYzWF9vVUFzanTSAZgBQVVfeXFMTUlOLTI2RHFqVWZlSU91V2k3bTZGVUtWa0tUcUU2ME8wVWVtcXdWY0hmN09vMzF1U2RjSU1jZ0c4dEplY2I2VjQ3dm54ZkU4QmYtNXh1cjAwLVpsUnB0S2xQX3c5dXU0aHY1bFRDM0VwWk0xSXlZUVFFaWpLRkpRTi0yajdDckhveEhLYXFqQThvM25Uc2ZTdFc?oc=5\" target=\"_blank\">KIND, Hyundai E&amp;C and KIRA unite to drive global urban development push - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddf0\ud83c\uddf7 NEWS: KIND, Hyundai E&C and KIRA team up to advance global urban development initiatives."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZGxJeUZhbUc0ZE1EMGp1MGo2N0Z0N1U3Z0RQQXltQTd5a2FWcHpFMjFDeVF5S2NkRFBLOE1BQTY1RTNqMWhPaWkzbmhKaFFvOWNNQWpVUUk1V0dvSGQzY1RQTUI2MVBsaG9ocENTbm90WGxDUU1CNkIxQzgybm41aFdKYzhLZHZZQUFXMHpXZUhvblV3Z2VmQXNxRVZ1eGNhbTlkMnpudzE0cVhRT0xBT2JxQmZBaUZYS2c1eHhEQy1odGlhUVVkZmdvcE9CekplTVdNM2RFV3dXYTZCV1VFdS1MUXQ?oc=5",
+        "date": "2026-03-12",
+        "title": "Federal funding boosts infrastructure in Western Montana - Leader Publications",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZGxJeUZhbUc0ZE1EMGp1MGo2N0Z0N1U3Z0RQQXltQTd5a2FWcHpFMjFDeVF5S2NkRFBLOE1BQTY1RTNqMWhPaWkzbmhKaFFvOWNNQWpVUUk1V0dvSGQzY1RQTUI2MVBsaG9ocENTbm90WGxDUU1CNkIxQzgybm41aFdKYzhLZHZZQUFXMHpXZUhvblV3Z2VmQXNxRVZ1eGNhbTlkMnpudzE0cVhRT0xBT2JxQmZBaUZYS2c1eHhEQy1odGlhUVVkZmdvcE9CekplTVdNM2RFV3dXYTZCV1VFdS1MUXQ?oc=5\" target=\"_blank\">Federal funding boosts infrastructure in Western Montana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Leader Publications</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Federal funding boosts infrastructure in Western Montana",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3RHemJEWlFYR25HMHFQRTF1SWlsMmxvZ1ZQdHFZM0prVmNKcTR4TUNHZ3NVN0tCclV2NWxvSGFWdmFoX1pmYzh1WVVNV3V1ZEJLM0ozVHVRWWFYYkZ2b3gwUWxIZGxuNkhoeDU0MVNXUGdKNHVYdXFqRkYzWF9vVUFzanTSAZgBQVVfeXFMTUlOLTI2RHFqVWZlSU91V2k3bTZGVUtWa0tUcUU2ME8wVWVtcXdWY0hmN09vMzF1U2RjSU1jZ0c4dEplY2I2VjQ3dm54ZkU4QmYtNXh1cjAwLVpsUnB0S2xQX3c5dXU0aHY1bFRDM0VwWk0xSXlZUVFFaWpLRkpRTi0yajdDckhveEhLYXFqQThvM25Uc2ZTdFc?oc=5",
+        "date": "2026-03-12",
+        "title": "KIND, Hyundai E&C and KIRA unite to drive global urban development push - CHOSUNBIZ - Chosunbiz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3RHemJEWlFYR25HMHFQRTF1SWlsMmxvZ1ZQdHFZM0prVmNKcTR4TUNHZ3NVN0tCclV2NWxvSGFWdmFoX1pmYzh1WVVNV3V1ZEJLM0ozVHVRWWFYYkZ2b3gwUWxIZGxuNkhoeDU0MVNXUGdKNHVYdXFqRkYzWF9vVUFzanTSAZgBQVVfeXFMTUlOLTI2RHFqVWZlSU91V2k3bTZGVUtWa0tUcUU2ME8wVWVtcXdWY0hmN09vMzF1U2RjSU1jZ0c4dEplY2I2VjQ3dm54ZkU4QmYtNXh1cjAwLVpsUnB0S2xQX3c5dXU0aHY1bFRDM0VwWk0xSXlZUVFFaWpLRkpRTi0yajdDckhveEhLYXFqQThvM25Uc2ZTdFc?oc=5\" target=\"_blank\">KIND, Hyundai E&amp;C and KIRA unite to drive global urban development push - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf0\ud83c\uddf7 NEWS: KIND, Hyundai E&C and KIRA unite to advance global urban development initiatives",
+        "type": "news"
     }
 ]
