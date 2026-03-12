@@ -3739,5 +3739,13 @@
         "status": "posted",
         "tweet": "Meta's \ud83c\uddfa\ud83c\uddf8 Iowa data center cluster processed 45 petabytes of AI inference data daily in 2026, achieving 98% uptime.\n\n$META",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-12",
+        "status": "posted",
+        "tweet": "By 2026, \ud83c\udde8\ud83c\uddf3 China's urban population will exceed 1 billion, reaching 68% urbanization\u2014demanding resilient infrastructure for 300 million more city dwellers.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
