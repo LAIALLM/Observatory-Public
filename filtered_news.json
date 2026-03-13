@@ -3255,5 +3255,12 @@
         "status": "posted",
         "tweet": "NVIDIA's AI supercomputers in \ud83c\uddfa\ud83c\uddf8 Texas handle 2.5 exaflops of compute daily in 2026.\n\n$NVDA",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-13",
+        "status": "posted",
+        "tweet": "Regulatory burdens on crypto infra: 2026 est. annual costs from energy/compliance rules.\n\n\ud83c\uddfa\ud83c\uddf8Bitcoin: $12B (PoW mining relocations post-SEC audits)\n\n\ud83c\uddea\ud83c\uddfaEthereum: $3.5B (PoS node GDPR data centers)\n\n\ud83c\uddfa\ud83c\uddf8Solana: $800M (validator KYC hardware mandates)",
+        "type": "crypto"
     }
 ]
