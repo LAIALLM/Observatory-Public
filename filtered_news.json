@@ -3449,5 +3449,12 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 Netherlands: 70% of new urban developments bike-friendly by 2026, cutting transport emissions 35% by 2030.\n\n\ud83c\uddfa\ud83c\uddf8 USA: Only 25% of cities with bike infrastructure, emissions projected up 18% by 2030.",
         "type": "statistical",
         "category": "urban planning"
+    },
+    {
+        "link": null,
+        "date": "2026-03-14",
+        "status": "posted",
+        "tweet": "Microsoft Azure data centers processed 450 PB daily in 2026, supporting 60% of global cloud workloads.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
