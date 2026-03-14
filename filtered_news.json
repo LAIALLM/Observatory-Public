@@ -3456,5 +3456,12 @@
         "status": "posted",
         "tweet": "Microsoft Azure data centers processed 450 PB daily in 2026, supporting 60% of global cloud workloads.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-14",
+        "status": "posted",
+        "tweet": "Annual blockchain energy costs (USD billions, network-wide):\n\n1. Bitcoin: Surged from $1B (2017) to $12B (2026)\n2. Ethereum: Dropped from $4B (2021) to $0.2B (2026)\n3. Solana: Stable at $0.05B (2020-2026)",
+        "type": "crypto"
     }
 ]
