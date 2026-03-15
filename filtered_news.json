@@ -3507,5 +3507,12 @@
         "tweet": "By 2026, \ud83c\udde8\ud83c\uddf3 China\u2019s solar capacity will surpass 1 TW\u2014over seven times \ud83c\uddfa\ud83c\uddf8 US total\u2014powering 300 million homes annually.",
         "type": "statistical",
         "category": "energy"
+    },
+    {
+        "link": null,
+        "date": "2026-03-15",
+        "status": "posted",
+        "tweet": "Bitcoin annual carbon footprint: 130 Mt CO2e (equivalent to \ud83c\uddf3\ud83c\uddf1 Netherlands' emissions).\n\nEthereum: 0.15 Mt CO2e (99.9% reduction post-Merge).\n\nBitcoin's Proof-of-Work consumes 800x more energy than Ethereum's Proof-of-Stake.",
+        "type": "crypto"
     }
 ]
