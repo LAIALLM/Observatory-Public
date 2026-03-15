@@ -3499,5 +3499,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: ArcLight to acquire InfraBridge\u2019s 50% stake in a 5.4 GW power portfolio.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-15",
+        "status": "posted",
+        "tweet": "By 2026, \ud83c\udde8\ud83c\uddf3 China\u2019s solar capacity will surpass 1 TW\u2014over seven times \ud83c\uddfa\ud83c\uddf8 US total\u2014powering 300 million homes annually.",
+        "type": "statistical",
+        "category": "energy"
     }
 ]
