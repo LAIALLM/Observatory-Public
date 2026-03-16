@@ -3134,5 +3134,216 @@
         "tweet": "Urban development firms in \ud83c\udde8\ud83c\uddf3 China plan 15,000 km of high-speed rail extensions by 2030,  \ndoubling \ud83c\uddfa\ud83c\uddf8 USA's 7,500 km.",
         "type": "statistical",
         "category": "urban development firms"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUmlaODluUzg2bzJKUnBQTE95dDVGOHNWSjMzUHRNWV9yZWtoeUtid0stOEtUOXRxYU9Va2xMb1RkcFB0bUh2OGUyaGJzb2oxbTl0dU9QVTB4MVVUNk8wMTJST0c0RkRDVVZzazE4eE9pQUpBUENib1VQdjhQWXNSc0hVSXAzeDNvdFhScTBhczI?oc=5",
+        "date": "2026-03-16",
+        "title": "Construction Job Openings at 231,000 in January - FloorDaily.net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPUmlaODluUzg2bzJKUnBQTE95dDVGOHNWSjMzUHRNWV9yZWtoeUtid0stOEtUOXRxYU9Va2xMb1RkcFB0bUh2OGUyaGJzb2oxbTl0dU9QVTB4MVVUNk8wMTJST0c0RkRDVVZzazE4eE9pQUpBUENib1VQdjhQWXNSc0hVSXAzeDNvdFhScTBhczI?oc=5\" target=\"_blank\">Construction Job Openings at 231,000 in January</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FloorDaily.net</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNXzQ0ZWZxTWdpR3RnZ2xKcXU5TXRPME9IcUJYN1FVamMxeWJCbnNla2FYQjRoaldHOHpRVWZHaWVXLWl2eDRoZWFKWUpoRy02b0gwSDhZbXQ1M0pDYUdndXJjTlNodFZoTC1zT1FiZ0wtRjRYcno3dzlWRkpFQnF1aFh0cC1vdlZoMGRLVlU1QVdtQkVhSnZHbFFTQTRhclNMbVhLeQ?oc=5",
+        "date": "2026-03-16",
+        "title": "Building materials giant abandons London stock market - The Telegraph",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNXzQ0ZWZxTWdpR3RnZ2xKcXU5TXRPME9IcUJYN1FVamMxeWJCbnNla2FYQjRoaldHOHpRVWZHaWVXLWl2eDRoZWFKWUpoRy02b0gwSDhZbXQ1M0pDYUdndXJjTlNodFZoTC1zT1FiZ0wtRjRYcno3dzlWRkpFQnF1aFh0cC1vdlZoMGRLVlU1QVdtQkVhSnZHbFFTQTRhclNMbVhLeQ?oc=5\" target=\"_blank\">Building materials giant abandons London stock market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Telegraph</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEJHd2JFNDBacmNQUk9xRkY3R0Z2NlJXa21wUVlXLS1oeFFzcEdGQnlld1VSdkg3ZDBsN2xwQ3pkU2h5azlyaUFLTlhDZUpXSXh1bWlaTHFZYm9fX2JLUHZFRkZMbkdOTklRaWJRNFNybkVuenRZM2ZsT2c3bmIzM19mbVVvQTNseDZDNjJHelZoRHdyWFJuVzJlazlZMXJldHJTZWFEaDRjQ0JXaDdhOXoxUQ?oc=5",
+        "date": "2026-03-16",
+        "title": "FMB backs platform for neurodivergent construction workers - Planning, Building & Construction Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEJHd2JFNDBacmNQUk9xRkY3R0Z2NlJXa21wUVlXLS1oeFFzcEdGQnlld1VSdkg3ZDBsN2xwQ3pkU2h5azlyaUFLTlhDZUpXSXh1bWlaTHFZYm9fX2JLUHZFRkZMbkdOTklRaWJRNFNybkVuenRZM2ZsT2c3bmIzM19mbVVvQTNseDZDNjJHelZoRHdyWFJuVzJlazlZMXJldHJTZWFEaDRjQ0JXaDdhOXoxUQ?oc=5\" target=\"_blank\">FMB backs platform for neurodivergent construction workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Planning, Building & Construction Today</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNZlVkRU4wS2FkbUd2N0pySXBfc0prc3BXRnUyOVhRX3llZE9adklLT3VpYmlWOW1aeXZIQ2sxdnd4VDYta1JwOElITGUxd05KQldEc3U4Uzd5V1JSZUs0RUsxZWlhWHZtSEJ2My1iYnVMNm80SENwbnhSSEhUZzIyaENNVDZDZDdzRHlUQUdtZUx2bk9jWlNYeUIwRk52RFloN2dHNlVkLWJXSjZBOXNyeDFTMGhLSkRnNnNfWWxZQ2p6a3hzblJLUlJpcTh4alZpbGlNLVp3Wlp6cmNIZWhtY25fWmcxN1d0blJlclIxWTZWeUkySXRrMjAxcTh5X1laSFFqV1EzSGpOTFpSc3JQMGYxdDlQM21fXzI1WkNKaXFyU3hCT0pRWUpzRXdSRHRacjh6Y0FZaHZrVy00NmtLZTlHeGYtNFRtWmtCcXpuTUIzeEw4TDFYVkNINGlsYVdRdmZXa0hJVHZfZk1pcVE2cnh3NzlZbDJMbS11VFZHcHlFclZjRWtRb1J3QmptcmpGMnM4M0h3eVNLNGd6ZERnajZyN1g?oc=5",
+        "date": "2026-03-16",
+        "title": "Nebius, Meta Agree to $27 Billion AI Infrastructure Pact - WSJ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipANBVV95cUxNZlVkRU4wS2FkbUd2N0pySXBfc0prc3BXRnUyOVhRX3llZE9adklLT3VpYmlWOW1aeXZIQ2sxdnd4VDYta1JwOElITGUxd05KQldEc3U4Uzd5V1JSZUs0RUsxZWlhWHZtSEJ2My1iYnVMNm80SENwbnhSSEhUZzIyaENNVDZDZDdzRHlUQUdtZUx2bk9jWlNYeUIwRk52RFloN2dHNlVkLWJXSjZBOXNyeDFTMGhLSkRnNnNfWWxZQ2p6a3hzblJLUlJpcTh4alZpbGlNLVp3Wlp6cmNIZWhtY25fWmcxN1d0blJlclIxWTZWeUkySXRrMjAxcTh5X1laSFFqV1EzSGpOTFpSc3JQMGYxdDlQM21fXzI1WkNKaXFyU3hCT0pRWUpzRXdSRHRacjh6Y0FZaHZrVy00NmtLZTlHeGYtNFRtWmtCcXpuTUIzeEw4TDFYVkNINGlsYVdRdmZXa0hJVHZfZk1pcVE2cnh3NzlZbDJMbS11VFZHcHlFclZjRWtRb1J3QmptcmpGMnM4M0h3eVNLNGd6ZERnajZyN1g?oc=5\" target=\"_blank\">Nebius, Meta Agree to $27 Billion AI Infrastructure Pact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Nebius $NBIS and Meta $META agree to $27B AI infrastructure pact"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjY3pfS1M1TWlIT1pDV1JQb0pMb2tsTDBVZ0hBdVdPZ2pzbHFJSVVJRlY4dHl4N2NpcXhOU0JSNTlDT0JuRzA2ZDZMMGJsOVZMbDhkelphRTg1ek9qMGlEMG54VDNiNUJJWGpyWGxMZHMzTmZo0gF6QVVfeXFMUFNpUHZqUlVPcG9VaVBfMll3LVo3NXlReHl1dW5YVTMxR09ucmRCY2ozaC1ORUI3MWd2U3hlWlh2SHRGcWhfM1ZIei1Yc3hkcnc2dklhZXJxM1ZWSFhha3ljNnJ4T1ZjUXFMNHdubzdWZU0xa2hKbGxFTkE?oc=5",
+        "date": "2026-03-16",
+        "title": "Meta signs deal worth up to $27 billion with Nebius for AI infrastructure - CNBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBjY3pfS1M1TWlIT1pDV1JQb0pMb2tsTDBVZ0hBdVdPZ2pzbHFJSVVJRlY4dHl4N2NpcXhOU0JSNTlDT0JuRzA2ZDZMMGJsOVZMbDhkelphRTg1ek9qMGlEMG54VDNiNUJJWGpyWGxMZHMzTmZo0gF6QVVfeXFMUFNpUHZqUlVPcG9VaVBfMll3LVo3NXlReHl1dW5YVTMxR09ucmRCY2ozaC1ORUI3MWd2U3hlWlh2SHRGcWhfM1ZIei1Yc3hkcnc2dklhZXJxM1ZWSFhha3ljNnJ4T1ZjUXFMNHdubzdWZU0xa2hKbGxFTkE?oc=5\" target=\"_blank\">Meta signs deal worth up to $27 billion with Nebius for AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemFlMGt1c0lvNnNxVmhWdXJTVGlQaUZndk80VlRzNGJGbl90VVROZVNrYWc4bXJ1dnNaellFU0ZnTkhEUURxQjhtX0JJSGk2cXdRMmoybWJFZGJTdGFZTmVQdVlOTXJVdks1ZnJ3M2JmR01yMGsycFVuN0dHdS1lVzV4WjVSVjRUUENBdWpBS2N6Vk91TWFWYkw5TXhSTUlmbHVJU1dXWQ?oc=5",
+        "date": "2026-03-16",
+        "title": "$27B Nebius-Meta AI cloud deal leans on NVIDIA Vera Rubin - Stock Titan",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPemFlMGt1c0lvNnNxVmhWdXJTVGlQaUZndk80VlRzNGJGbl90VVROZVNrYWc4bXJ1dnNaellFU0ZnTkhEUURxQjhtX0JJSGk2cXdRMmoybWJFZGJTdGFZTmVQdVlOTXJVdks1ZnJ3M2JmR01yMGsycFVuN0dHdS1lVzV4WjVSVjRUUENBdWpBS2N6Vk91TWFWYkw5TXhSTUlmbHVJU1dXWQ?oc=5\" target=\"_blank\">$27B Nebius-Meta AI cloud deal leans on NVIDIA Vera Rubin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTnRKUTBITmNzY1RHUTFWRGNEVy1MRHdlLThiN0VZVnBsTHlzcWRISVN5U3hDWTVEbUgyMC03bk1adUMxR0ZSSVpuZmtwQk8wWHA2aW0yemN0YXNsZ3RwcjJ3NHV5WFZUd2N3aTJCQ21zV0pOLXJXRHFZMFk1RHg5ZUhQdUJET3lUTVRCbVhjeXRhMGluTWJwTGJzYnlWamhaOUVJUzh6RTZVcW53cnV0ZExCYjVZT1R6ZXFwaTFCQ1B2UHR3djVJ?oc=5",
+        "date": "2026-03-16",
+        "title": "$1M secured for Victor infrastructure improvements - Finger Lakes Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQTnRKUTBITmNzY1RHUTFWRGNEVy1MRHdlLThiN0VZVnBsTHlzcWRISVN5U3hDWTVEbUgyMC03bk1adUMxR0ZSSVpuZmtwQk8wWHA2aW0yemN0YXNsZ3RwcjJ3NHV5WFZUd2N3aTJCQ21zV0pOLXJXRHFZMFk1RHg5ZUhQdUJET3lUTVRCbVhjeXRhMGluTWJwTGJzYnlWamhaOUVJUzh6RTZVcW53cnV0ZExCYjVZT1R6ZXFwaTFCQ1B2UHR3djVJ?oc=5\" target=\"_blank\">$1M secured for Victor infrastructure improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finger Lakes Times</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkaS00dWs2eHVjRVdJUWhUUWVhaEtDYVJfMWYxN1I3MzdrZF9rQUZ1eE12dFJnLU1tUEJhY05hWGlva3JqdXN6dHdXQXpNeGhyZHU1MTlZYzNOYVVfVUhSQ0VycTNxZnM2LVlDV3daYmotZmJ3WGJIczRDcm8?oc=5",
+        "date": "2026-03-16",
+        "title": "Nebius signs major AI infrastructure deal with Meta - Latest news from Azerbaijan",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBkaS00dWs2eHVjRVdJUWhUUWVhaEtDYVJfMWYxN1I3MzdrZF9rQUZ1eE12dFJnLU1tUEJhY05hWGlva3JqdXN6dHdXQXpNeGhyZHU1MTlZYzNOYVVfVUhSQ0VycTNxZnM2LVlDV3daYmotZmJ3WGJIczRDcm8?oc=5\" target=\"_blank\">Nebius signs major AI infrastructure deal with Meta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Latest news from Azerbaijan</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSWZrUUxCQUpURVc1UEt3M3JvUVdqc2RLMUlOT293Mmd1cFppR1hMUlJaaHNXSFlqWjZ6bnlpSWlERzFqZFAtbGx6RmFpc0lwMGhnVzVlZkhrdUtVdm4tTnlWRHFma0xWT2dJNS05XzJVWWZ1MnRlamYtdnFxN09sMFhvel9kOGZ1UUs4R3cwdw?oc=5",
+        "date": "2026-03-16",
+        "title": "Tower Semiconductor Teams up with Oriole to Advance AI Infrastructure and Networking with Nanosecond Optical Circuit Switching - Yahoo Finance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNSWZrUUxCQUpURVc1UEt3M3JvUVdqc2RLMUlOT293Mmd1cFppR1hMUlJaaHNXSFlqWjZ6bnlpSWlERzFqZFAtbGx6RmFpc0lwMGhnVzVlZkhrdUtVdm4tTnlWRHFma0xWT2dJNS05XzJVWWZ1MnRlamYtdnFxN09sMFhvel9kOGZ1UUs4R3cwdw?oc=5\" target=\"_blank\">Tower Semiconductor Teams up with Oriole to Advance AI Infrastructure and Networking with Nanosecond Optical Circuit Switching</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakI2ZllrVjFpQ3J3ZXNfQmtncHJSQlQ1WEJtY1ZYR0kyMGdrcTlhVnpyd3dhTWYtQ282dDV6bW1UblRJeUR6Ymdhb2EteDR4SV90c0RBc3V2VlRFTEN4cUkyNEJNSm1zWkpLaV83QlhzUXRnU0NMbkVHWTRNU3dDWFJTZXFKX2hvZllYYl9OU1pWeG11UXZHMzBYaHRzako4M0ZXVlROMA?oc=5",
+        "date": "2026-03-16",
+        "title": "High-entropy alloy design inspires material for energy infrastructure - IOM3",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOakI2ZllrVjFpQ3J3ZXNfQmtncHJSQlQ1WEJtY1ZYR0kyMGdrcTlhVnpyd3dhTWYtQ282dDV6bW1UblRJeUR6Ymdhb2EteDR4SV90c0RBc3V2VlRFTEN4cUkyNEJNSm1zWkpLaV83QlhzUXRnU0NMbkVHWTRNU3dDWFJTZXFKX2hvZllYYl9OU1pWeG11UXZHMzBYaHRzako4M0ZXVlROMA?oc=5\" target=\"_blank\">High-entropy alloy design inspires material for energy infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IOM3</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOEV1VmVpMFB5M05XX2dfb3FzYkkxeTIzc0VWM2J2bjBTTmJMbHRPdEtqZ2tpSTZNVDdkR1lpMUN3WVc1dDMtNWVCWFNpRm54LUhzVlc3cUxJNmREd3pkMl9XVno4Mm1CZlJsbVJrQlo2MGptVjZaSi1CNF9zbnlIOVVZdUlGbGpHYzdxbjgtLUxUa3h3ZjNOaFRuSzdKY1JCczJBVG5NZmtSLVFqbFRFLXdpZ1RUZ3pVSDlqSG5kUnVnSnNMN3NpRmxR?oc=5",
+        "date": "2026-03-16",
+        "title": "Meta to spend up to USD27b on Nebius\u2019 AI infrastructure - Capital Brief",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPOEV1VmVpMFB5M05XX2dfb3FzYkkxeTIzc0VWM2J2bjBTTmJMbHRPdEtqZ2tpSTZNVDdkR1lpMUN3WVc1dDMtNWVCWFNpRm54LUhzVlc3cUxJNmREd3pkMl9XVno4Mm1CZlJsbVJrQlo2MGptVjZaSi1CNF9zbnlIOVVZdUlGbGpHYzdxbjgtLUxUa3h3ZjNOaFRuSzdKY1JCczJBVG5NZmtSLVFqbFRFLXdpZ1RUZ3pVSDlqSG5kUnVnSnNMN3NpRmxR?oc=5\" target=\"_blank\">Meta to spend up to USD27b on Nebius\u2019 AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital Brief</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUVyaFVhZUItV0d3Rm5qOTg3NGJzN1lzV3R5TXJxT0ltUkZhQk5yUEg0b0lKdUdpc3ZDaGRmZE9OOFNqX1c0anNFMmJPTzBtTmNlNE1IUmxvN2ZXQ1VDY0NNYW9MbUZoMFJLVGJRRmxPNDhhczNscXJJbE9rM0kzTW9iSllYLXI3V085Qmw5RXhzMEUzYnF4X0g0OUotVlpmSHE5UU5FWTV3dWlfSmNMUmVYQV9OSGNSNlpfUlQ3cnUyZG9IOWVB?oc=5",
+        "date": "2026-03-16",
+        "title": "Drone attack in Fujairah raises Security concerns for oil infrastructure - facilitiesmanagement-now.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUVyaFVhZUItV0d3Rm5qOTg3NGJzN1lzV3R5TXJxT0ltUkZhQk5yUEg0b0lKdUdpc3ZDaGRmZE9OOFNqX1c0anNFMmJPTzBtTmNlNE1IUmxvN2ZXQ1VDY0NNYW9MbUZoMFJLVGJRRmxPNDhhczNscXJJbE9rM0kzTW9iSllYLXI3V085Qmw5RXhzMEUzYnF4X0g0OUotVlpmSHE5UU5FWTV3dWlfSmNMUmVYQV9OSGNSNlpfUlQ3cnUyZG9IOWVB?oc=5\" target=\"_blank\">Drone attack in Fujairah raises Security concerns for oil infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facilitiesmanagement-now.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQTMyNGxoLUxvbkVCSE1MNDhhbWRpaFhETUJSMEliYkVDeTRaN05tbXFWZTdUeTBLVVlMcXNwdUNoeFhSb05CMDhwUnhZamZPdlQ4RGRrN0FlMWpoOTAzbDZRNHE1U2p5TTlmN3FPN1pxeFpvQWlic1d0ckdWdkVPaHZoMXR2LTBxcXlBWUJEM1BjYWpHQWVMMWNpM213U0FNTjgxb3BxWUJuNkU?oc=5",
+        "date": "2026-03-16",
+        "title": "Nebius, Meta Agree to $27 Billion AI Infrastructure Pact - marketscreener.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQTMyNGxoLUxvbkVCSE1MNDhhbWRpaFhETUJSMEliYkVDeTRaN05tbXFWZTdUeTBLVVlMcXNwdUNoeFhSb05CMDhwUnhZamZPdlQ4RGRrN0FlMWpoOTAzbDZRNHE1U2p5TTlmN3FPN1pxeFpvQWlic1d0ckdWdkVPaHZoMXR2LTBxcXlBWUJEM1BjYWpHQWVMMWNpM213U0FNTjgxb3BxWUJuNkU?oc=5\" target=\"_blank\">Nebius, Meta Agree to $27 Billion AI Infrastructure Pact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcGZyaF9Pd3FCUHI5dXRYZDViTUhVSXlqeERhX21ERnFzelBDU3pMQjlsR2xGM2tMdnpKMzNzSmhnNDIzSmpQMjFZVEdZaE1YeWNublJDVzRBQWRmOVMzMHdUb1BJTmNrNXJMVmdrbFBFV2VXUnB0YS1hcVNsSWNXUTkyUms1c0JnN2tSVmFXci1EOW1JVEtSODFkY25kZmZSNjBqcVdQY0x3QjljS3dnZTQxNHN2RVpuUV9DcTJLQ1dobDJ4dF9uMHFOXy1ERlFIRUpJdl9kNA?oc=5",
+        "date": "2026-03-16",
+        "title": "Nebius Seals $27 Billion AI Infrastructure Deal With Meta to Power Long-Term Cloud Growth - TipRanks",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcGZyaF9Pd3FCUHI5dXRYZDViTUhVSXlqeERhX21ERnFzelBDU3pMQjlsR2xGM2tMdnpKMzNzSmhnNDIzSmpQMjFZVEdZaE1YeWNublJDVzRBQWRmOVMzMHdUb1BJTmNrNXJMVmdrbFBFV2VXUnB0YS1hcVNsSWNXUTkyUms1c0JnN2tSVmFXci1EOW1JVEtSODFkY25kZmZSNjBqcVdQY0x3QjljS3dnZTQxNHN2RVpuUV9DcTJLQ1dobDJ4dF9uMHFOXy1ERlFIRUpJdl9kNA?oc=5\" target=\"_blank\">Nebius Seals $27 Billion AI Infrastructure Deal With Meta to Power Long-Term Cloud Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2NBZ1BKLTlUb1N6ZkxqWjdoN3I4TjJkbExnLVZrOGZWSFRIbURmQzVVZXVlSUJQM1ZyamVqNUIwWTFvaDFYMDloR2RRNnktWGJvNDdFMnNHM1NrT3RoOElZX2xDOENvT25faTBIYVRFelk2Ym1EV0ZMandYNUlmQ3FFT19jWDhvekVDMEg4QWh2Z2o1RzlVQjhMZzBEenR2YnRYaGl3d05MTmxfTlBVVERoWUpSdw?oc=5",
+        "date": "2026-03-16",
+        "title": "Nebius, Meta Sign 5-Year, $27 Billion AI Infrastructure Agreement - marketscreener.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2NBZ1BKLTlUb1N6ZkxqWjdoN3I4TjJkbExnLVZrOGZWSFRIbURmQzVVZXVlSUJQM1ZyamVqNUIwWTFvaDFYMDloR2RRNnktWGJvNDdFMnNHM1NrT3RoOElZX2xDOENvT25faTBIYVRFelk2Ym1EV0ZMandYNUlmQ3FFT19jWDhvekVDMEg4QWh2Z2o1RzlVQjhMZzBEenR2YnRYaGl3d05MTmxfTlBVVERoWUpSdw?oc=5\" target=\"_blank\">Nebius, Meta Sign 5-Year, $27 Billion AI Infrastructure Agreement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMzFqUDlvMENQMDhOalpjYXlJWmgxcG5nRHJGSE1MYm1UVUI1RElMbG4tajMwZ0ZRQmhXZWEwVGxyWGlfYnNlZDFCUm1TRDFCcnU2VE1WTlRJdk9WaS1hdWxqMzlJZGdFUXZQa2cwMzNIX0NxOFlKRWRwQ2xkRHlxakRjbkYwWGJxLU1RZDdQRE5mdXppTWk2WlFzWlQxMmNVWHJQa2JHS1pmaE9mcnhFOUhLM3hKTzRqZl9aVE1jNTlGV29rMEJCMDE2YVAzX044YkHSAd8BQVVfeXFMTWV5ZmlmMjE0MnA1cU5VLUw2NXUyMGlSY2dDOE54S1RjVXJmQ0xDSzlLT3VfYU1uLVlYOFRiaFRCUjIxU0JvaV96bEFxenZLeHp6TEZyamJvVmhINHJveThPVFExVVc0cVNwelNxUV9hdkVMb2xMM3NOOUROS1R3eEpHY3RGVm9NQzhqMTR3VUJjMlg3X21oWnV2TXIxWmFHTEtiTUdYNkI2Sm5MVzRVVHRKMEdzQ1VoWHBmdkZQSkZJZlkwR3NzVXpBQ0VoNTRSU1pfNV9LRDdRSTZIRnpMTQ?oc=5",
+        "date": "2026-03-16",
+        "title": "Iran vows to target US-linked oil assets if its energy infrastructure under attack - The Sentinel - of this Land, for its People",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMzFqUDlvMENQMDhOalpjYXlJWmgxcG5nRHJGSE1MYm1UVUI1RElMbG4tajMwZ0ZRQmhXZWEwVGxyWGlfYnNlZDFCUm1TRDFCcnU2VE1WTlRJdk9WaS1hdWxqMzlJZGdFUXZQa2cwMzNIX0NxOFlKRWRwQ2xkRHlxakRjbkYwWGJxLU1RZDdQRE5mdXppTWk2WlFzWlQxMmNVWHJQa2JHS1pmaE9mcnhFOUhLM3hKTzRqZl9aVE1jNTlGV29rMEJCMDE2YVAzX044YkHSAd8BQVVfeXFMTWV5ZmlmMjE0MnA1cU5VLUw2NXUyMGlSY2dDOE54S1RjVXJmQ0xDSzlLT3VfYU1uLVlYOFRiaFRCUjIxU0JvaV96bEFxenZLeHp6TEZyamJvVmhINHJveThPVFExVVc0cVNwelNxUV9hdkVMb2xMM3NOOUROS1R3eEpHY3RGVm9NQzhqMTR3VUJjMlg3X21oWnV2TXIxWmFHTEtiTUdYNkI2Sm5MVzRVVHRKMEdzQ1VoWHBmdkZQSkZJZlkwR3NzVXpBQ0VoNTRSU1pfNV9LRDdRSTZIRnpMTQ?oc=5\" target=\"_blank\">Iran vows to target US-linked oil assets if its energy infrastructure under attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Sentinel - of this Land, for its People</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaks4SWRQaEtEb2NPelp6Q1Rqbnk2Zk1Id3ZSeFk5U0hNYW1kdDdjMXVZc3ptN3JTbG1vbkdTSGRWVUdNQjRkMklQVVotb0JoODUwR0VSdVYydzFWREktYlZUQjRMRWRGeUhyOXU0T0dKZllzSVBJYlVaU0Y5aW5Ub2NkQUtJOGNEV1B4YVZrX2Qyc1NqNEt2WFJzcnhxRjhuUHJjWTVuaTVveVVnVlp5WnROV0duVmR3YlZHS01VX25zZEM1dDBueVBxbHo?oc=5",
+        "date": "2026-03-16",
+        "title": "Nebius, Meta Sign Five-Year AI Infrastructure Supply Deal Worth Up to $27 Billion - marketscreener.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPaks4SWRQaEtEb2NPelp6Q1Rqbnk2Zk1Id3ZSeFk5U0hNYW1kdDdjMXVZc3ptN3JTbG1vbkdTSGRWVUdNQjRkMklQVVotb0JoODUwR0VSdVYydzFWREktYlZUQjRMRWRGeUhyOXU0T0dKZllzSVBJYlVaU0Y5aW5Ub2NkQUtJOGNEV1B4YVZrX2Qyc1NqNEt2WFJzcnhxRjhuUHJjWTVuaTVveVVnVlp5WnROV0duVmR3YlZHS01VX25zZEM1dDBueVBxbHo?oc=5\" target=\"_blank\">Nebius, Meta Sign Five-Year AI Infrastructure Supply Deal Worth Up to $27 Billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdHJFWG5KQkcxal9wZVQ1TlEyZk1CTF9rSDRaRnYzSUpxVGxtTTlWWW1DaXpkZDhncmdxb1hOQTJJcE1QRVdGWmYyZ0tQYW5wdkNPbEJFbGR4ekxqbkJrUDNNWFNQTXVXalNuQVk0Z0lSUW96NHloMkdhaGptYzZsNTNFRVR3dmZaWDFMb0g5T2JaOVk4YzBBV0Rkb2cwYlNjUnExMzRNVWpoZF9hRnZ0Y0pSWEY3aDMxY3pwVGlPVHVSYU1P?oc=5",
+        "date": "2026-03-16",
+        "title": "Egypt discusses new infrastructure financing tools with World Bank, AfDB - ZAWYA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdHJFWG5KQkcxal9wZVQ1TlEyZk1CTF9rSDRaRnYzSUpxVGxtTTlWWW1DaXpkZDhncmdxb1hOQTJJcE1QRVdGWmYyZ0tQYW5wdkNPbEJFbGR4ekxqbkJrUDNNWFNQTXVXalNuQVk0Z0lSUW96NHloMkdhaGptYzZsNTNFRVR3dmZaWDFMb0g5T2JaOVk4YzBBV0Rkb2cwYlNjUnExMzRNVWpoZF9hRnZ0Y0pSWEY3aDMxY3pwVGlPVHVSYU1P?oc=5\" target=\"_blank\">Egypt discusses new infrastructure financing tools with World Bank, AfDB</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZAWYA</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlY2czV1MWRrNTViSXN2OTFEM2xVdDlpeXFXOENWakNTUTdHTF9welNIZlQ5bEdIUld1RjV4NFVrWnVidGRkTFhvSUVRNHYzYlZ6Ml9yeEJjRlNDNHFLRVR2bmlINTBMRkhOcTBuSTFDMDhPY1pyVkFuVkZHRUFuYkFsSHI2Z2JlQUhkOXphYW84RGdpeHF1OUFMb3gyYms?oc=5",
+        "date": "2026-03-16",
+        "title": "Smart Cities and Smart Spaces Market: Regaining Its Glory | Cisco Systems, Schneider Electric, Ericsson - openPR.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlY2czV1MWRrNTViSXN2OTFEM2xVdDlpeXFXOENWakNTUTdHTF9welNIZlQ5bEdIUld1RjV4NFVrWnVidGRkTFhvSUVRNHYzYlZ6Ml9yeEJjRlNDNHFLRVR2bmlINTBMRkhOcTBuSTFDMDhPY1pyVkFuVkZHRUFuYkFsSHI2Z2JlQUhkOXphYW84RGdpeHF1OUFMb3gyYms?oc=5\" target=\"_blank\">Smart Cities and Smart Spaces Market: Regaining Its Glory | Cisco Systems, Schneider Electric, Ericsson</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjJ3bVZzZEpUcmEzVW5jdXp3blVkSWFDZFdUMVd5VmQ3R3lJVHJLcHQzLXo4clhGV3pHdWV3VC1udFhrcEtXN1hLNllTOVFHN3RITmM0U1dOemVrVjBDWVZIZ294bEJlaUljZjZFLVI3UW5xTGJlQlFoRHhPSlpGM3BEcWNsUTdSMEtxbWdjbm93eF8xNm5wLVI4d3JYaDd1bE9MSEh30gGrAUFVX3lxTE8wVk5ZQWR4SV9pSTlwOVl3R3FPS3JyVjF3a0VkME5QXzdLZE84NXloTnZuSWRXM09FQVJHRDVhclUzRHY4eTRsRjZ6TFJib3hwY0dRbzRZTWFaS3pqcTI0Z19wTTkxWE0zbXBocnIwWDNia1pzbEdXX1ViSEs0czJ2clE2NXhub3NLYUgxRzZoQ3hBVVZLdVIxTWNZTEVwUWJUb2tVRkg5ZVhGVQ?oc=5",
+        "date": "2026-03-16",
+        "title": "ITMax to handle smart parking system for Johor Bahru - NST Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjJ3bVZzZEpUcmEzVW5jdXp3blVkSWFDZFdUMVd5VmQ3R3lJVHJLcHQzLXo4clhGV3pHdWV3VC1udFhrcEtXN1hLNllTOVFHN3RITmM0U1dOemVrVjBDWVZIZ294bEJlaUljZjZFLVI3UW5xTGJlQlFoRHhPSlpGM3BEcWNsUTdSMEtxbWdjbm93eF8xNm5wLVI4d3JYaDd1bE9MSEh30gGrAUFVX3lxTE8wVk5ZQWR4SV9pSTlwOVl3R3FPS3JyVjF3a0VkME5QXzdLZE84NXloTnZuSWRXM09FQVJHRDVhclUzRHY4eTRsRjZ6TFJib3hwY0dRbzRZTWFaS3pqcTI0Z19wTTkxWE0zbXBocnIwWDNia1pzbEdXX1ViSEs0czJ2clE2NXhub3NLYUgxRzZoQ3hBVVZLdVIxTWNZTEVwUWJUb2tVRkg5ZVhGVQ?oc=5\" target=\"_blank\">ITMax to handle smart parking system for Johor Bahru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NST Online</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNZlVkRU4wS2FkbUd2N0pySXBfc0prc3BXRnUyOVhRX3llZE9adklLT3VpYmlWOW1aeXZIQ2sxdnd4VDYta1JwOElITGUxd05KQldEc3U4Uzd5V1JSZUs0RUsxZWlhWHZtSEJ2My1iYnVMNm80SENwbnhSSEhUZzIyaENNVDZDZDdzRHlUQUdtZUx2bk9jWlNYeUIwRk52RFloN2dHNlVkLWJXSjZBOXNyeDFTMGhLSkRnNnNfWWxZQ2p6a3hzblJLUlJpcTh4alZpbGlNLVp3Wlp6cmNIZWhtY25fWmcxN1d0blJlclIxWTZWeUkySXRrMjAxcTh5X1laSFFqV1EzSGpOTFpSc3JQMGYxdDlQM21fXzI1WkNKaXFyU3hCT0pRWUpzRXdSRHRacjh6Y0FZaHZrVy00NmtLZTlHeGYtNFRtWmtCcXpuTUIzeEw4TDFYVkNINGlsYVdRdmZXa0hJVHZfZk1pcVE2cnh3NzlZbDJMbS11VFZHcHlFclZjRWtRb1J3QmptcmpGMnM4M0h3eVNLNGd6ZERnajZyN1g?oc=5",
+        "date": "2026-03-16",
+        "title": "Nebius, Meta Agree to $27 Billion AI Infrastructure Pact - WSJ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipANBVV95cUxNZlVkRU4wS2FkbUd2N0pySXBfc0prc3BXRnUyOVhRX3llZE9adklLT3VpYmlWOW1aeXZIQ2sxdnd4VDYta1JwOElITGUxd05KQldEc3U4Uzd5V1JSZUs0RUsxZWlhWHZtSEJ2My1iYnVMNm80SENwbnhSSEhUZzIyaENNVDZDZDdzRHlUQUdtZUx2bk9jWlNYeUIwRk52RFloN2dHNlVkLWJXSjZBOXNyeDFTMGhLSkRnNnNfWWxZQ2p6a3hzblJLUlJpcTh4alZpbGlNLVp3Wlp6cmNIZWhtY25fWmcxN1d0blJlclIxWTZWeUkySXRrMjAxcTh5X1laSFFqV1EzSGpOTFpSc3JQMGYxdDlQM21fXzI1WkNKaXFyU3hCT0pRWUpzRXdSRHRacjh6Y0FZaHZrVy00NmtLZTlHeGYtNFRtWmtCcXpuTUIzeEw4TDFYVkNINGlsYVdRdmZXa0hJVHZfZk1pcVE2cnh3NzlZbDJMbS11VFZHcHlFclZjRWtRb1J3QmptcmpGMnM4M0h3eVNLNGd6ZERnajZyN1g?oc=5\" target=\"_blank\">Nebius, Meta Agree to $27 Billion AI Infrastructure Pact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Nebius $NBIS and Meta $META ink $27B pact for AI infrastructure buildout",
+        "type": "news"
     }
 ]
