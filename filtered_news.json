@@ -3345,5 +3345,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Nebius $NBIS and Meta $META ink $27B pact for AI infrastructure buildout",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-16",
+        "status": "posted",
+        "tweet": "Bitcoin's 2026 annual security costs: $18B in mining electricity to maintain hash rate.\n\nSolana: $500M in validator staking rewards for network security.\n\nBitcoin's costs 36x higher, highlighting proof-of-work inefficiency vs. proof-of-stake.",
+        "type": "crypto"
     }
 ]
