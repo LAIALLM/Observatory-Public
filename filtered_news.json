@@ -3126,5 +3126,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\udde6 NEWS: World Cup roadwork limits could delay thousands of Toronto home closings, builders warn",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-16",
+        "status": "posted",
+        "tweet": "Urban development firms in \ud83c\udde8\ud83c\uddf3 China plan 15,000 km of high-speed rail extensions by 2030,  \ndoubling \ud83c\uddfa\ud83c\uddf8 USA's 7,500 km.",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
