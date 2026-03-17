@@ -3209,5 +3209,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-17",
+        "status": "posted",
+        "tweet": "\ud83c\uddea\ud83c\uddfa EU's MiCA regs hiked Bitcoin mining infra costs 35% to \u20ac1.2B in 2026 via carbon taxes on PoW data centers.\n\nEthereum's PoS shift cut similar impacts to \u20ac300M, easing grid strain.\n\n\ud83c\uddfa\ud83c\uddf8 US SEC rules added $800M in compliance for Bitcoin nodes vs. $200M for Ethereum.",
+        "type": "crypto"
     }
 ]
