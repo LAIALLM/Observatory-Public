@@ -3983,5 +3983,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: San Francisco Employees commits $50M to SDC infrastructure fund",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-18",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US urban areas: 84% population in 2026, up 1% from 2023.\n\n\ud83c\udf0d Global average: 58%, with 4.5B urban residents\u2014highlighting infrastructure strain.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
