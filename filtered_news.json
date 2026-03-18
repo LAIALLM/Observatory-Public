@@ -3765,5 +3765,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddea NEWS: Dubai unveils 4,631 residential plots worth Dhs5.3bn for Emirati families",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-18",
+        "status": "posted",
+        "tweet": "Microsoft Azure data centers in \ud83c\uddfa\ud83c\uddf8 Virginia handled 25 EB of storage capacity in Q1 2026, a 40% increase from 2025.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
