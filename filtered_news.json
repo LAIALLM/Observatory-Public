@@ -4307,5 +4307,228 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNHNMZUVELVpOcUI1eW84UlR0T1lxVjQ5cnNNc0VQcWRpY3RtNDRDcFhVRGxveFB2N18yQjkxWEEwblhrNDNURmkzMG9wVWN1VERkOXBqczNHV191SEFDQnE0VXZUeFo4R01GQi10U2RMQUJBUE93UWxERzFOSkZ3RkxUSW5fbDBENVA3Q2V0OUJDZ1R5STdXS2d1VktXcV9TNGlqVzJrRWNqWE5SQWFSX0U2QkY?oc=5",
+        "date": "2026-03-19",
+        "title": "The New York Times. . Two of President Trump\u2019s top priorities, the economy and immigration, are colliding in South Texas as ICE raids upend the construction industry and frustrate workers. Read more. https://nyti.ms/3NCN58W - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNNHNMZUVELVpOcUI1eW84UlR0T1lxVjQ5cnNNc0VQcWRpY3RtNDRDcFhVRGxveFB2N18yQjkxWEEwblhrNDNURmkzMG9wVWN1VERkOXBqczNHV191SEFDQnE0VXZUeFo4R01GQi10U2RMQUJBUE93UWxERzFOSkZ3RkxUSW5fbDBENVA3Q2V0OUJDZ1R5STdXS2d1VktXcV9TNGlqVzJrRWNqWE5SQWFSX0U2QkY?oc=5\" target=\"_blank\">The New York Times. . Two of President Trump\u2019s top priorities, the economy and immigration, are colliding in South Texas as ICE raids upend the construction industry and frustrate workers. Read more. https://nyti.ms/3NCN58W</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUFkY3M5dFBCMll0V1htUVRzM2FXM0haWXBDeEwxX0xSenotbEJEM2o3akV5SmZ5ZFI2ZWp6d1pkVHF4QkVMejdmNHB0NWRVVk9rbFlEcG9FeVpPblVjQnhhUi1zZlZBS0FrWTQ2cHZpZ29rS3R1SFFEcHNXRFpSRlh0Y2dybUh6MnAybURuaTR3c0RDNnlXU3p5SFN2QTBpVlF6S3F0UQ?oc=5",
+        "date": "2026-03-19",
+        "title": "DOL announces members of OSHA construction advisory committee - Safety+Health Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUFkY3M5dFBCMll0V1htUVRzM2FXM0haWXBDeEwxX0xSenotbEJEM2o3akV5SmZ5ZFI2ZWp6d1pkVHF4QkVMejdmNHB0NWRVVk9rbFlEcG9FeVpPblVjQnhhUi1zZlZBS0FrWTQ2cHZpZ29rS3R1SFFEcHNXRFpSRlh0Y2dybUh6MnAybURuaTR3c0RDNnlXU3p5SFN2QTBpVlF6S3F0UQ?oc=5\" target=\"_blank\">DOL announces members of OSHA construction advisory committee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Safety+Health Magazine</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQSDI5ZXlCT3RrY1ZCaERndlJ5aFFjTDIzMEZ6THZHLVhhZy1kSHY5VU9aOFlTcWE5OEl5dVpYYUJuVmlzU2N0RVlWTkFhcTRzZ3hzYmg1QVFNRUR4LUtrcHVwTmM4MXhPcUtsamstX0wwVUZxTk5rUkJvZzVyUjdOUUE5RnhTMko0Smp0UXI0SU5lVF91UWtaX1RQc1ptV0xjR2d6cUgwODVqOW1ScW5mS2d2SlZlTDd2cE9fVWd1eF9kOENzM01aQll0VHUyaXJIdmxfVkdEMTUtaTFyWUsxcVlLZXJBUWdxYl9nT0ZpU2pqZEltdmw4V1d5V3pMZjU1LUNlNWVRbzdpUWF5V211QXloaUxFSDVTamVBOW9nelpacjNLajdQMlZmYk04U3V3NFU2bnJBTHFMdjEzWng4Q3J1UDhUakhnbmFWWERjbzhvNkRXNTBJYV8wZHZtVi1CbHhiUURGUlhNaDRoYUZwNTJWY3FXdTIt?oc=5",
+        "date": "2026-03-19",
+        "title": "BZI Announces Its New ExoClip\u2122, ExoWall\u2122 and EntroDeck\u2122 Products Are Now Available for Architects and Engineers to Integrate Specs Into Early Stages of Building Design to Further Enhance Safety and Efficiency - Business Wire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AJBVV95cUxQSDI5ZXlCT3RrY1ZCaERndlJ5aFFjTDIzMEZ6THZHLVhhZy1kSHY5VU9aOFlTcWE5OEl5dVpYYUJuVmlzU2N0RVlWTkFhcTRzZ3hzYmg1QVFNRUR4LUtrcHVwTmM4MXhPcUtsamstX0wwVUZxTk5rUkJvZzVyUjdOUUE5RnhTMko0Smp0UXI0SU5lVF91UWtaX1RQc1ptV0xjR2d6cUgwODVqOW1ScW5mS2d2SlZlTDd2cE9fVWd1eF9kOENzM01aQll0VHUyaXJIdmxfVkdEMTUtaTFyWUsxcVlLZXJBUWdxYl9nT0ZpU2pqZEltdmw4V1d5V3pMZjU1LUNlNWVRbzdpUWF5V211QXloaUxFSDVTamVBOW9nelpacjNLajdQMlZmYk04U3V3NFU2bnJBTHFMdjEzWng4Q3J1UDhUakhnbmFWWERjbzhvNkRXNTBJYV8wZHZtVi1CbHhiUURGUlhNaDRoYUZwNTJWY3FXdTIt?oc=5\" target=\"_blank\">BZI Announces Its New ExoClip\u2122, ExoWall\u2122 and EntroDeck\u2122 Products Are Now Available for Architects and Engineers to Integrate Specs Into Early Stages of Building Design to Further Enhance Safety and Efficiency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQU1oWDhSYUlIaXh3M1FvNFBSV2RSS3pkSVQyYlhWelFQUG5aeUVOWFRhdHBFaTY4TWdBVHc1WEJsbzU0VkNCM0diWkJJbWE5X1B5aXd5UFoyTE1aWVZGaEV3bkhUc2xJSHJZSG9IUGF2dW9Wc1d3d2NtR3poTGs1UGNZQVNaeDVYUEtvWDk1RjdQTFZRQmV3OUFfS0JPbjJmWmZwS0dZWnBrNWFHT0JpYmlJY3o?oc=5",
+        "date": "2026-03-19",
+        "title": "Glas Expert targets American market and exhibits at New York Build 2026 - Business Review",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQU1oWDhSYUlIaXh3M1FvNFBSV2RSS3pkSVQyYlhWelFQUG5aeUVOWFRhdHBFaTY4TWdBVHc1WEJsbzU0VkNCM0diWkJJbWE5X1B5aXd5UFoyTE1aWVZGaEV3bkhUc2xJSHJZSG9IUGF2dW9Wc1d3d2NtR3poTGs1UGNZQVNaeDVYUEtvWDk1RjdQTFZRQmV3OUFfS0JPbjJmWmZwS0dZWnBrNWFHT0JpYmlJY3o?oc=5\" target=\"_blank\">Glas Expert targets American market and exhibits at New York Build 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Review</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNemVZQXlGSElJUjNObFdFZ2tBVXhscU1ydlBsenRUMGFNUEI2ZEJwRG0zLVVCWnRyWVUxZVNpX3otMjBsWHVRVWU5cVhadEdLY0R0V1J2UUFyakU0M1I2RmViWTVyZkJWMU1SXzZwNXNEWDlTTm4xRjE1ell6cFk4U0NsX3V3NDRrUFdmTTd0dHFfN1NQd3ZLVGtQaVptbDNaSkR1dTJRcnlfcW9JQzhCYjhjaVB6TWNKdWw3aDdiaEZGZjJDb2Z4QVF3N252Zmc?oc=5",
+        "date": "2026-03-19",
+        "title": "ECITB launches new tool to tackle qualifications fraud in engineering construction - Trending Now Infrastructure",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNemVZQXlGSElJUjNObFdFZ2tBVXhscU1ydlBsenRUMGFNUEI2ZEJwRG0zLVVCWnRyWVUxZVNpX3otMjBsWHVRVWU5cVhadEdLY0R0V1J2UUFyakU0M1I2RmViWTVyZkJWMU1SXzZwNXNEWDlTTm4xRjE1ell6cFk4U0NsX3V3NDRrUFdmTTd0dHFfN1NQd3ZLVGtQaVptbDNaSkR1dTJRcnlfcW9JQzhCYjhjaVB6TWNKdWw3aDdiaEZGZjJDb2Z4QVF3N252Zmc?oc=5\" target=\"_blank\">ECITB launches new tool to tackle qualifications fraud in engineering construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trending Now Infrastructure</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWW9Vc1pxWjhjMmc5ZE56OWNZT1ZieXlIcHYwM0J1QVNYc0tuV2VVeE81Ml9QSXQzZzJnSWpvMVM4Rzk2Mkpjc0U1RU1ZQU1pMjZ1MWthdTRHNkZkZkJ6NDRFWmlmdEdLelBLaUt0LW9Bcy1vejZ4aS0wVmhQNWR2YUNWT3NvajFoalVPYVlZalIxSF80Ulp0eVBnTzN0SzJGRFhObA?oc=5",
+        "date": "2026-03-19",
+        "title": "What Does a Truly Ai-Native Patient Access Infrastructure Look Like in 2026? - Pharmaceutical Executive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNWW9Vc1pxWjhjMmc5ZE56OWNZT1ZieXlIcHYwM0J1QVNYc0tuV2VVeE81Ml9QSXQzZzJnSWpvMVM4Rzk2Mkpjc0U1RU1ZQU1pMjZ1MWthdTRHNkZkZkJ6NDRFWmlmdEdLelBLaUt0LW9Bcy1vejZ4aS0wVmhQNWR2YUNWT3NvajFoalVPYVlZalIxSF80Ulp0eVBnTzN0SzJGRFhObA?oc=5\" target=\"_blank\">What Does a Truly Ai-Native Patient Access Infrastructure Look Like in 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pharmaceutical Executive</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPakRaWnZtQzZlVVJybTVaazJwZmk1dG5wOXl2UnJVVnRwQUFVN3R6X280WS1WQzg1YkpxMnUzOE9YQ2VWdW1XeE1oZ2RNeWRsZmx6LS1ueERZUm9waUJjZ1dlUnNMMFE2dFFQLUVZRy1CTldXaElpeE9JVVI1MzByVTJmVS02eU5HOEs0Y09IOWF2QzkyMzRWTDEtR1RhbVpITWdwOHRmQ0ZPRFdVVWln?oc=5",
+        "date": "2026-03-19",
+        "title": "Portland Cybersecurity startup Eclypsium raises $25M to secure AI infrastructure - GeekWire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPakRaWnZtQzZlVVJybTVaazJwZmk1dG5wOXl2UnJVVnRwQUFVN3R6X280WS1WQzg1YkpxMnUzOE9YQ2VWdW1XeE1oZ2RNeWRsZmx6LS1ueERZUm9waUJjZ1dlUnNMMFE2dFFQLUVZRy1CTldXaElpeE9JVVI1MzByVTJmVS02eU5HOEs0Y09IOWF2QzkyMzRWTDEtR1RhbVpITWdwOHRmQ0ZPRFdVVWln?oc=5\" target=\"_blank\">Portland Cybersecurity startup Eclypsium raises $25M to secure AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWFFMUZKaWJNT1lqQ2c3dDU4YkxRY0xSNnlCRVc1N0UzZTFXQWhWZU5NcG9XaUMwdVl2Y3JKX2FXcWFldkZVMmJSMDR0QTR3SS1QNjVXZUw0T1BFOWZ6X1BkV3ZsMlg0WEpucGppYjllRTlTSnZVM3B3UHp5U0YyOWp3amJQN0ZZb2hRSGJQQ25SYWVxS1ZpRXB4MFp4OERTaW9Edy05NEpxUnFCOGVsNVkzMW9XZw?oc=5",
+        "date": "2026-03-19",
+        "title": "500kV grid infrastructure, access sought for Argentina's US$7bn Vicu\u00f1a mine project - BNamericas",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWFFMUZKaWJNT1lqQ2c3dDU4YkxRY0xSNnlCRVc1N0UzZTFXQWhWZU5NcG9XaUMwdVl2Y3JKX2FXcWFldkZVMmJSMDR0QTR3SS1QNjVXZUw0T1BFOWZ6X1BkV3ZsMlg0WEpucGppYjllRTlTSnZVM3B3UHp5U0YyOWp3amJQN0ZZb2hRSGJQQ25SYWVxS1ZpRXB4MFp4OERTaW9Edy05NEpxUnFCOGVsNVkzMW9XZw?oc=5\" target=\"_blank\">500kV grid infrastructure, access sought for Argentina's US$7bn Vicu\u00f1a mine project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNamericas</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde6\ud83c\uddf7 NEWS: Access sought to 500kV grid infrastructure for Argentinas $7bn Vicu\u00f1a mine project"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tNDNnWWd1djNtYWhUNEhMaHVFcEsxT0g1ckZPb0ozNHRfRVI4Ym90YkdtWjE2RzZLZHd6WGJmWTlYNlJlTDRyeVpTUHEwLWRfNnF5Q3BrTUtQWnd6ME16TjhQaXI3N3lyNC1N?oc=5",
+        "date": "2026-03-19",
+        "title": "QCon London 2026: Spritely: Infrastructure for the Future of the Internet - infoq.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE4tNDNnWWd1djNtYWhUNEhMaHVFcEsxT0g1ckZPb0ozNHRfRVI4Ym90YkdtWjE2RzZLZHd6WGJmWTlYNlJlTDRyeVpTUHEwLWRfNnF5Q3BrTUtQWnd6ME16TjhQaXI3N3lyNC1N?oc=5\" target=\"_blank\">QCon London 2026: Spritely: Infrastructure for the Future of the Internet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">infoq.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZzg3Mm9sa01wTWN3T3Bta0xiVzhuRWd2MTFlSVZUX0FMVXR4VXJwNmNpTGxZQkM3M2hZWmZqNGdSZVRZWkg2bWJ2U0lJdDBfcE1SWHM1S19NS3oyM01PT2puM0NMcGJvTHhBVTJFLURfVnR5X056VW1TRWxSUmhZaE5nM2Y1enhXQnAySGVSVzN6Q1NSc3hUc25Qb9IB5gJBVV95cUxQMGZyaU0taXVQRVVZOWxxSVJ2bnAyVGplcjcycHpWU2ttWld5cGg5YnNVVjdmWlBwN21fR3k5ejREbVM5UGpSSy1BVGJ3OTJRWWlmc1FHX0J2TDU2YS1LdTB3VGNacmdRRDNjZVFQb2F6T2VlVTdETHpDaTdCVndNZ0FhUG9QUzJxTTIzT1Z5ZEZfOTZONU43aWpRQ1Nlb0l0NXRSSVExZ0o0Y0FDNU4zM1ozTG5iN0UwY2RUc1lMeFZPcWY0QjVzckd4em12MzJSbWNIbmt4ajg5VjNTMjJDckZIZEhlSUN0YVBoUWNoMmdhemliLTYzbV9uWEJkTW5mY3BtU1BzMGZFTTlhcWdlOTVvb0lYSHQtQ2VOelZ3WVM3MmVjU28wX1MycHY2MXdFZTBMYUJzMDVEYUN1N2FJZVBQa2FyTUdFcEtKLW9NUnNwd0RQTEpQcENjZ3plSkVRMENnTE9R?oc=5",
+        "date": "2026-03-19",
+        "title": "Avtal: $24 Million Raised For Digital Debt Collection Infrastructure Platform - Pulse 2.0",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPZzg3Mm9sa01wTWN3T3Bta0xiVzhuRWd2MTFlSVZUX0FMVXR4VXJwNmNpTGxZQkM3M2hZWmZqNGdSZVRZWkg2bWJ2U0lJdDBfcE1SWHM1S19NS3oyM01PT2puM0NMcGJvTHhBVTJFLURfVnR5X056VW1TRWxSUmhZaE5nM2Y1enhXQnAySGVSVzN6Q1NSc3hUc25Qb9IB5gJBVV95cUxQMGZyaU0taXVQRVVZOWxxSVJ2bnAyVGplcjcycHpWU2ttWld5cGg5YnNVVjdmWlBwN21fR3k5ejREbVM5UGpSSy1BVGJ3OTJRWWlmc1FHX0J2TDU2YS1LdTB3VGNacmdRRDNjZVFQb2F6T2VlVTdETHpDaTdCVndNZ0FhUG9QUzJxTTIzT1Z5ZEZfOTZONU43aWpRQ1Nlb0l0NXRSSVExZ0o0Y0FDNU4zM1ozTG5iN0UwY2RUc1lMeFZPcWY0QjVzckd4em12MzJSbWNIbmt4ajg5VjNTMjJDckZIZEhlSUN0YVBoUWNoMmdhemliLTYzbV9uWEJkTW5mY3BtU1BzMGZFTTlhcWdlOTVvb0lYSHQtQ2VOelZ3WVM3MmVjU28wX1MycHY2MXdFZTBMYUJzMDVEYUN1N2FJZVBQa2FyTUdFcEtKLW9NUnNwd0RQTEpQcENjZ3plSkVRMENnTE9R?oc=5\" target=\"_blank\">Avtal: $24 Million Raised For Digital Debt Collection Infrastructure Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOGZJSXVFX1d2T1FSSGF1WTdCN1dCbW95cmtSd0FxRmh6UTU2NnRhOEZRZHhWQ3ozajNiSWd6eDhDcGdON2ktUEZLUHpHODhKZVBZUi02cVd0dnFwUTRPbkVXT2g3M180NE1lNDI2ejRWU0xnWVltcVBQckFFelhuZXNqXzhWSERCeVA1S0owakJKZzJQWWxyc1VhQ3lsNE92bFV1bDFZQmxVcHFZSGEwc1Y5dHh4MThrZnA2R0h6Y1p3aExRYU1iWHA0UFlwV2JydnBKUdIB2gFBVV95cUxOVW95UlM4dHMybFRTbHhldjhFWXEzcWdiX2J1RXBaOVlIWkVuWHRQUzhsU3ByQkRHTGgxYjUyQWRHTjd5dklLSk9hbkFxdUlmd0xwQW9YS0lvTnZYdjhLNnBIQjlOSUVlb015MzRDU29CR1Jfb0xuUHpreW9LWFBVNjEtUmdNTDRXZlM4OHdvTnRwdVVkRjVqZGlvUW83SW1BT1o4UHJCV2FIX1V6N1NLRWlhaDhQQ0hrN1NodnctQjVfbzh6RG5JLVJlaHdISVdBM3p3Z3lCWjRtdw?oc=5",
+        "date": "2026-03-19",
+        "title": "AECOM: $151 Billion U.S. Missile Defense Agency SHIELD Contract Position Secured For Defense Infrastructure Modernization - Pulse 2.0",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOGZJSXVFX1d2T1FSSGF1WTdCN1dCbW95cmtSd0FxRmh6UTU2NnRhOEZRZHhWQ3ozajNiSWd6eDhDcGdON2ktUEZLUHpHODhKZVBZUi02cVd0dnFwUTRPbkVXT2g3M180NE1lNDI2ejRWU0xnWVltcVBQckFFelhuZXNqXzhWSERCeVA1S0owakJKZzJQWWxyc1VhQ3lsNE92bFV1bDFZQmxVcHFZSGEwc1Y5dHh4MThrZnA2R0h6Y1p3aExRYU1iWHA0UFlwV2JydnBKUdIB2gFBVV95cUxOVW95UlM4dHMybFRTbHhldjhFWXEzcWdiX2J1RXBaOVlIWkVuWHRQUzhsU3ByQkRHTGgxYjUyQWRHTjd5dklLSk9hbkFxdUlmd0xwQW9YS0lvTnZYdjhLNnBIQjlOSUVlb015MzRDU29CR1Jfb0xuUHpreW9LWFBVNjEtUmdNTDRXZlM4OHdvTnRwdVVkRjVqZGlvUW83SW1BT1o4UHJCV2FIX1V6N1NLRWlhaDhQQ0hrN1NodnctQjVfbzh6RG5JLVJlaHdISVdBM3p3Z3lCWjRtdw?oc=5\" target=\"_blank\">AECOM: $151 Billion U.S. Missile Defense Agency SHIELD Contract Position Secured For Defense Infrastructure Modernization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: AECOM secures position in $151B U.S. Missile Defense Agency SHIELD contract for defense infrastructure modernization $ACM"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2E5VmhFd29GclA3bk1wSWQtOTQ0MGdjWEdiZU9NdnVFdGhLMkliM2dyNjl2WXY5eTdXcU91QWJGZExXUmktR2VZd01XeEQtQ3AzOVlWcnNvYkt1NmhkV1hFWmoyUDV3MWd2bkpvMzVxMnkxcFVPWTVoT0NIejloRUs1RTR5eEtqRlRBNWFRZ293UF9ZODBhMVhuZk1lcVpYZGZnR3F5NE00X0FITk9wRk5QSTNya28?oc=5",
+        "date": "2026-03-19",
+        "title": "Lions and Rabbits' Creative Leadership Forum explores focus on infrastructure - FOX 17 West Michigan News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2E5VmhFd29GclA3bk1wSWQtOTQ0MGdjWEdiZU9NdnVFdGhLMkliM2dyNjl2WXY5eTdXcU91QWJGZExXUmktR2VZd01XeEQtQ3AzOVlWcnNvYkt1NmhkV1hFWmoyUDV3MWd2bkpvMzVxMnkxcFVPWTVoT0NIejloRUs1RTR5eEtqRlRBNWFRZ293UF9ZODBhMVhuZk1lcVpYZGZnR3F5NE00X0FITk9wRk5QSTNya28?oc=5\" target=\"_blank\">Lions and Rabbits' Creative Leadership Forum explores focus on infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 17 West Michigan News</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMmVvcXVyREJGR0laWHY1TVNKcDhSSFREdHpfM2hTMjhrUWxUMnM1NEZ5V29zME5PeHZlZFQ3Z3dRRGJDWEo4Nno5b0FPWHF6UENQYVdaWTdkY1c1dF9DdE9qcTFvZFlPbjhVckU5Mzh5T2FZWkFNSWcwcDhxSHZlZDVDMUpKNzNuNjBsdw?oc=5",
+        "date": "2026-03-19",
+        "title": "Early Infrastructure Work Underway for Villains Land at Magic Kingdom - BlogMickey.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNMmVvcXVyREJGR0laWHY1TVNKcDhSSFREdHpfM2hTMjhrUWxUMnM1NEZ5V29zME5PeHZlZFQ3Z3dRRGJDWEo4Nno5b0FPWHF6UENQYVdaWTdkY1c1dF9DdE9qcTFvZFlPbjhVckU5Mzh5T2FZWkFNSWcwcDhxSHZlZDVDMUpKNzNuNjBsdw?oc=5\" target=\"_blank\">Early Infrastructure Work Underway for Villains Land at Magic Kingdom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BlogMickey.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFcwMlFSc1JvODNGdGVBXzJMb01wZ1V4Z1RWOUVJZnVDbnJ1elo5VnBiNHhYUy1FSi1mbnBvYkRORm5rQW83Nm9qN2xmYTVJcVlqZEkwWl8wcGZ3WGQwUWRLZEFHNFJXdXJnNHMxLU02VHZia1JTNnZEVlg1TWE2WGpTQWNFOEc0Umh6TlZCU1UtQURIa01RLVUwR21LZDEyRGprdVNQZ19nLU1ndGNhNmxvSEFQelJ1?oc=5",
+        "date": "2026-03-19",
+        "title": "Iran targets energy infrastructure in across Gulf after Israeli attack on South Pars - Washington Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFcwMlFSc1JvODNGdGVBXzJMb01wZ1V4Z1RWOUVJZnVDbnJ1elo5VnBiNHhYUy1FSi1mbnBvYkRORm5rQW83Nm9qN2xmYTVJcVlqZEkwWl8wcGZ3WGQwUWRLZEFHNFJXdXJnNHMxLU02VHZia1JTNnZEVlg1TWE2WGpTQWNFOEc0Umh6TlZCU1UtQURIa01RLVUwR21LZDEyRGprdVNQZ19nLU1ndGNhNmxvSEFQelJ1?oc=5\" target=\"_blank\">Iran targets energy infrastructure in across Gulf after Israeli attack on South Pars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2Y2MlZUWk1CbW9CRmVQcDJzN1JkajVpcTItRlJITGlRNjU2dTBqZTE2cXBqSkkwQks2MGVJdk4yY0ZmQk9DazFrOXZKT3ZqWTBVZzgweE1TUmRmaDRoT2V2MERXRHZ1OFhLcDFMa3A2SVdsbnNhT2RXQ3k4TDdmaDZDNlN4ZG1LR3VFUGVkeHVuSXNGUFE?oc=5",
+        "date": "2026-03-19",
+        "title": "Idris And Sabrina Elba to Develop Eco-City Project in Sierra Leone - NY Carib News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2Y2MlZUWk1CbW9CRmVQcDJzN1JkajVpcTItRlJITGlRNjU2dTBqZTE2cXBqSkkwQks2MGVJdk4yY0ZmQk9DazFrOXZKT3ZqWTBVZzgweE1TUmRmaDRoT2V2MERXRHZ1OFhLcDFMa3A2SVdsbnNhT2RXQ3k4TDdmaDZDNlN4ZG1LR3VFUGVkeHVuSXNGUFE?oc=5\" target=\"_blank\">Idris And Sabrina Elba to Develop Eco-City Project in Sierra Leone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NY Carib News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddf8\ud83c\uddf1 NEWS: Idris and Sabrina Elba to develop eco-city project in Sierra Leone"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNlhsa243OGwyOUZHX2Z5VmFheDRCbXNiektLS1p6RXk2ci1xc0tLX09ValVkeU5ZWlNIZ1ZZSmNYenZIUjZIaXk2ZTVIcU9Bd1B2QlFxNE05WGVPRGc4S1ZORnVLZld2OHRjcXBLX3dQU19VR2R0aGVManhucTlYbGZqVDQweFYtcVA4VkUtYnFuSEFFOFkzS1AzbWFxYmJnOXViQQ?oc=5",
+        "date": "2026-03-19",
+        "title": "The Power 100: India\u2019s Most Influential Real Estate Leaders - Indian Startup Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNNlhsa243OGwyOUZHX2Z5VmFheDRCbXNiektLS1p6RXk2ci1xc0tLX09ValVkeU5ZWlNIZ1ZZSmNYenZIUjZIaXk2ZTVIcU9Bd1B2QlFxNE05WGVPRGc4S1ZORnVLZld2OHRjcXBLX3dQU19VR2R0aGVManhucTlYbGZqVDQweFYtcVA4VkUtYnFuSEFFOFkzS1AzbWFxYmJnOXViQQ?oc=5\" target=\"_blank\">The Power 100: India\u2019s Most Influential Real Estate Leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Startup Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdXRfbzNoSkRUV3EzT09OMndLRGpseUVja0FiZkRIaktLQUtYYnJIUGlmWGp0WGpuM25FUHdkVFpCVG9sTUdfYW5EMENkVXpzZ0tUejRfeFlQNTBZVTZVZlpkMWY3MGlnN1hWWEpvN3N0SXcxMlJpaU5hZS0yWndLX2lrbWlBZ2dMQ2didFRubU9DM2luUm1TcVdMLXBtRHhzVVZOcGxBdDcyT0k?oc=5",
+        "date": "2026-03-19",
+        "title": "Sukhalu reviews development works in Zunheboto, highlights infrastructure progress - MorungExpress",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdXRfbzNoSkRUV3EzT09OMndLRGpseUVja0FiZkRIaktLQUtYYnJIUGlmWGp0WGpuM25FUHdkVFpCVG9sTUdfYW5EMENkVXpzZ0tUejRfeFlQNTBZVTZVZlpkMWY3MGlnN1hWWEpvN3N0SXcxMlJpaU5hZS0yWndLX2lrbWlBZ2dMQ2didFRubU9DM2luUm1TcVdMLXBtRHhzVVZOcGxBdDcyT0k?oc=5\" target=\"_blank\">Sukhalu reviews development works in Zunheboto, highlights infrastructure progress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MorungExpress</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSWZZdDBsQmkyTWwxNUk0TlRVLWtkTFBSOFU0dldKNHFQU01venNDUHJycUQzSVh5U2Y0LTZTMjZzWXRkSlJ0dWNjN19KNV9OWlloYnJyUTVKczl1SWJ2bUNzQmxaU2F2YmJzRklrREtobUE0aTBLRDZsRm1yLUFYeDczWWFTZ2d0TXRoaUpFTEUtSnpDMUN3SmhRclB5cjNtYjJwcm5JWlpfdG9kV3dxNW1PNEdrTkJzRU54a3pSNDUxaVJ1bDZJcHFfeGlDeWFpU2d5NGpvSjY?oc=5",
+        "date": "2026-03-19",
+        "title": "Taiwan showcases AI robotics at Smart City Summit & Expo - guardonline.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSWZZdDBsQmkyTWwxNUk0TlRVLWtkTFBSOFU0dldKNHFQU01venNDUHJycUQzSVh5U2Y0LTZTMjZzWXRkSlJ0dWNjN19KNV9OWlloYnJyUTVKczl1SWJ2bUNzQmxaU2F2YmJzRklrREtobUE0aTBLRDZsRm1yLUFYeDczWWFTZ2d0TXRoaUpFTEUtSnpDMUN3SmhRclB5cjNtYjJwcm5JWlpfdG9kV3dxNW1PNEdrTkJzRU54a3pSNDUxaVJ1bDZJcHFfeGlDeWFpU2d5NGpvSjY?oc=5\" target=\"_blank\">Taiwan showcases AI robotics at Smart City Summit & Expo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">guardonline.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.smartcitiesdive.com/news/urban-rail-transit-construction/815172/",
+        "date": "2026-03-19",
+        "title": "Urban rail transit construction in the US trails population growth",
+        "summary": "<p>Cities are opting for less costly bus rapid transit projects over subways and light rail.</p>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOGZJSXVFX1d2T1FSSGF1WTdCN1dCbW95cmtSd0FxRmh6UTU2NnRhOEZRZHhWQ3ozajNiSWd6eDhDcGdON2ktUEZLUHpHODhKZVBZUi02cVd0dnFwUTRPbkVXT2g3M180NE1lNDI2ejRWU0xnWVltcVBQckFFelhuZXNqXzhWSERCeVA1S0owakJKZzJQWWxyc1VhQ3lsNE92bFV1bDFZQmxVcHFZSGEwc1Y5dHh4MThrZnA2R0h6Y1p3aExRYU1iWHA0UFlwV2JydnBKUdIB2gFBVV95cUxOVW95UlM4dHMybFRTbHhldjhFWXEzcWdiX2J1RXBaOVlIWkVuWHRQUzhsU3ByQkRHTGgxYjUyQWRHTjd5dklLSk9hbkFxdUlmd0xwQW9YS0lvTnZYdjhLNnBIQjlOSUVlb015MzRDU29CR1Jfb0xuUHpreW9LWFBVNjEtUmdNTDRXZlM4OHdvTnRwdVVkRjVqZGlvUW83SW1BT1o4UHJCV2FIX1V6N1NLRWlhaDhQQ0hrN1NodnctQjVfbzh6RG5JLVJlaHdISVdBM3p3Z3lCWjRtdw?oc=5",
+        "date": "2026-03-19",
+        "title": "AECOM: $151 Billion U.S. Missile Defense Agency SHIELD Contract Position Secured For Defense Infrastructure Modernization - Pulse 2.0",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOGZJSXVFX1d2T1FSSGF1WTdCN1dCbW95cmtSd0FxRmh6UTU2NnRhOEZRZHhWQ3ozajNiSWd6eDhDcGdON2ktUEZLUHpHODhKZVBZUi02cVd0dnFwUTRPbkVXT2g3M180NE1lNDI2ejRWU0xnWVltcVBQckFFelhuZXNqXzhWSERCeVA1S0owakJKZzJQWWxyc1VhQ3lsNE92bFV1bDFZQmxVcHFZSGEwc1Y5dHh4MThrZnA2R0h6Y1p3aExRYU1iWHA0UFlwV2JydnBKUdIB2gFBVV95cUxOVW95UlM4dHMybFRTbHhldjhFWXEzcWdiX2J1RXBaOVlIWkVuWHRQUzhsU3ByQkRHTGgxYjUyQWRHTjd5dklLSk9hbkFxdUlmd0xwQW9YS0lvTnZYdjhLNnBIQjlOSUVlb015MzRDU29CR1Jfb0xuUHpreW9LWFBVNjEtUmdNTDRXZlM4OHdvTnRwdVVkRjVqZGlvUW83SW1BT1o4UHJCV2FIX1V6N1NLRWlhaDhQQ0hrN1NodnctQjVfbzh6RG5JLVJlaHdISVdBM3p3Z3lCWjRtdw?oc=5\" target=\"_blank\">AECOM: $151 Billion U.S. Missile Defense Agency SHIELD Contract Position Secured For Defense Infrastructure Modernization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: AECOM secures position in $151B U.S. Missile Defense Agency SHIELD contract for defense infrastructure modernization $ACM",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWFFMUZKaWJNT1lqQ2c3dDU4YkxRY0xSNnlCRVc1N0UzZTFXQWhWZU5NcG9XaUMwdVl2Y3JKX2FXcWFldkZVMmJSMDR0QTR3SS1QNjVXZUw0T1BFOWZ6X1BkV3ZsMlg0WEpucGppYjllRTlTSnZVM3B3UHp5U0YyOWp3amJQN0ZZb2hRSGJQQ25SYWVxS1ZpRXB4MFp4OERTaW9Edy05NEpxUnFCOGVsNVkzMW9XZw?oc=5",
+        "date": "2026-03-19",
+        "title": "500kV grid infrastructure, access sought for Argentina's US$7bn Vicu\u00f1a mine project - BNamericas",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWFFMUZKaWJNT1lqQ2c3dDU4YkxRY0xSNnlCRVc1N0UzZTFXQWhWZU5NcG9XaUMwdVl2Y3JKX2FXcWFldkZVMmJSMDR0QTR3SS1QNjVXZUw0T1BFOWZ6X1BkV3ZsMlg0WEpucGppYjllRTlTSnZVM3B3UHp5U0YyOWp3amJQN0ZZb2hRSGJQQ25SYWVxS1ZpRXB4MFp4OERTaW9Edy05NEpxUnFCOGVsNVkzMW9XZw?oc=5\" target=\"_blank\">500kV grid infrastructure, access sought for Argentina's US$7bn Vicu\u00f1a mine project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNamericas</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddf7 NEWS: Access sought to 500kV grid infrastructure for Argentinas $7bn Vicu\u00f1a mine project",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2Y2MlZUWk1CbW9CRmVQcDJzN1JkajVpcTItRlJITGlRNjU2dTBqZTE2cXBqSkkwQks2MGVJdk4yY0ZmQk9DazFrOXZKT3ZqWTBVZzgweE1TUmRmaDRoT2V2MERXRHZ1OFhLcDFMa3A2SVdsbnNhT2RXQ3k4TDdmaDZDNlN4ZG1LR3VFUGVkeHVuSXNGUFE?oc=5",
+        "date": "2026-03-19",
+        "title": "Idris And Sabrina Elba to Develop Eco-City Project in Sierra Leone - NY Carib News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2Y2MlZUWk1CbW9CRmVQcDJzN1JkajVpcTItRlJITGlRNjU2dTBqZTE2cXBqSkkwQks2MGVJdk4yY0ZmQk9DazFrOXZKT3ZqWTBVZzgweE1TUmRmaDRoT2V2MERXRHZ1OFhLcDFMa3A2SVdsbnNhT2RXQ3k4TDdmaDZDNlN4ZG1LR3VFUGVkeHVuSXNGUFE?oc=5\" target=\"_blank\">Idris And Sabrina Elba to Develop Eco-City Project in Sierra Leone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NY Carib News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf8\ud83c\uddf1 NEWS: Idris and Sabrina Elba to develop eco-city project in Sierra Leone",
+        "type": "news"
     }
 ]
