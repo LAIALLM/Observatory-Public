@@ -3741,5 +3741,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US construction firms project $2.1T revenue in 2026, up 12% from 2023.\n\n\ud83c\udde8\ud83c\uddf3 China firms face 18% revenue drop to $4.5T amid property crisis.",
         "type": "statistical",
         "category": "construction companies"
+    },
+    {
+        "link": null,
+        "date": "2026-03-19",
+        "status": "posted",
+        "tweet": "Alphabet $GOOGL data centers in 2026:\n\nAnnual energy consumption: 24 TWh\n\nEfficiency rating: 1.1 PUE",
+        "type": "infrastructure"
     }
 ]
