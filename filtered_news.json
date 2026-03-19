@@ -3748,5 +3748,12 @@
         "status": "posted",
         "tweet": "Alphabet $GOOGL data centers in 2026:\n\nAnnual energy consumption: 24 TWh\n\nEfficiency rating: 1.1 PUE",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-19",
+        "status": "posted",
+        "tweet": "Annual electricity consumption of major blockchains in 2026 (TWh equivalent).\n\n1. Bitcoin: 160 TWh (matches \ud83c\uddf3\ud83c\uddf1 Netherlands + \ud83c\udde6\ud83c\uddf9 Austria)\n2. Ethereum: 0.03 TWh (like a small data center)\n3. Solana: 0.01 TWh (negligible)",
+        "type": "crypto"
     }
 ]
