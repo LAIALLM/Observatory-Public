@@ -4435,5 +4435,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Gujarat CM Bhupendra Patel unveils \u20b9413.81 crore development plan for Porbandar featuring 46 key projects",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-20",
+        "status": "posted",
+        "tweet": "By 2026, \ud83c\uddfa\ud83c\uddf8 EPA regulations on energy efficiency will add $4.2B to Bitcoin mining infrastructure costs, up 35% from 2025 levels due to mandatory carbon capture upgrades for data centers.",
+        "type": "crypto"
     }
 ]
