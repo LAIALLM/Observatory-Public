@@ -4449,5 +4449,13 @@
         "status": "posted",
         "tweet": "Microsoft Azure processes 150 PB of data daily in its global infrastructure as of 2026.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-20",
+        "status": "posted",
+        "tweet": "Projected top 5 urban areas by population in 2026 (UN estimates):\n\n\ud83c\uddef\ud83c\uddf5 Tokyo, Japan: 37.2M  \n\ud83c\uddee\ud83c\uddf3 Delhi, India: 34.7M  \n\ud83c\udde8\ud83c\uddf3 Shanghai, China: 32.9M  \n\ud83c\udde7\ud83c\udde9 Dhaka, Bangladesh: 23.9M  \n\ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo, Brazil: 22.8M",
+        "type": "statistical",
+        "category": "population"
     }
 ]
