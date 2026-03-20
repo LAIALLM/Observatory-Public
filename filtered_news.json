@@ -4442,5 +4442,12 @@
         "status": "posted",
         "tweet": "By 2026, \ud83c\uddfa\ud83c\uddf8 EPA regulations on energy efficiency will add $4.2B to Bitcoin mining infrastructure costs, up 35% from 2025 levels due to mandatory carbon capture upgrades for data centers.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-03-20",
+        "status": "posted",
+        "tweet": "Microsoft Azure processes 150 PB of data daily in its global infrastructure as of 2026.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
