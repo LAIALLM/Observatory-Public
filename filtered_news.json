@@ -3958,5 +3958,12 @@
         "status": "posted",
         "tweet": "Bitcoin's 2026 electricity consumption hits 170 TWh annually\u2014\n\nequivalent to powering all households in \ud83c\uddfa\ud83c\uddf8 United States.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-03-21",
+        "status": "posted",
+        "tweet": "Google's data centers in \ud83c\uddfa\ud83c\uddf8 Iowa process 75 exabytes daily in 2026, powering global AI services.\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
