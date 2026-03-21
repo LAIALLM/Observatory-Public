@@ -4027,5 +4027,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf9 NEWS: Pula unveils Santu Perdixeddu urban regeneration project",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-21",
+        "status": "posted",
+        "tweet": "Top 5 countries by projected infrastructure investment in 2026 (USD billions)\n\n1. \ud83c\udde8\ud83c\uddf3 China: 950\n2. \ud83c\uddfa\ud83c\uddf8 USA: 450\n3. \ud83c\uddee\ud83c\uddf3 India: 300\n4. \ud83c\uddef\ud83c\uddf5 Japan: 200\n5. \ud83c\udde9\ud83c\uddea Germany: 150",
+        "type": "statistical",
+        "category": "infrastructure companies"
     }
 ]
