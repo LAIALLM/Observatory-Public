@@ -3882,5 +3882,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfb\ud83c\uddf3 NEWS: Phu Quoc\u2019s transport infrastructure surpasses many island cities ahead of APEC 2027",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-22",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US construction output projected to reach $1.8 trillion in 2026, up 15% from 2025, fueled by infrastructure and renewable energy projects.",
+        "type": "statistical",
+        "category": "construction projects"
     }
 ]
