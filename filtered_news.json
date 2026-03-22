@@ -4139,5 +4139,12 @@
         "status": "posted",
         "tweet": "Annual electricity consumption of major blockchains in 2026 (TWh/year):\n\n1. Bitcoin: 180 TWh (equivalent to \ud83c\uddf3\ud83c\uddf1 Netherlands' usage)\n2. Ethereum: 0.03 TWh (drastically reduced post-merge)\n3. Solana: 0.01 TWh (highly efficient PoS)",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-03-22",
+        "status": "posted",
+        "tweet": "Microsoft Azure data centers in \ud83c\uddfa\ud83c\uddf8 consumed 15 TWh of energy in 2026, up 25% from 2025, powering AI workloads at 98% efficiency.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
