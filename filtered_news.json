@@ -3890,5 +3890,86 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US construction output projected to reach $1.8 trillion in 2026, up 15% from 2025, fueled by infrastructure and renewable energy projects.",
         "type": "statistical",
         "category": "construction projects"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU1BrWmJJQW9MV2t2bnRZUVY2UV90a2lhUFloaEFGeWxiOEY2LVdDeGRmeGRLMkZlVjlwLVFQN2ttNUZnYlpuaXNVRzFqLWswdnJQQ0dVOE9vRnhfS3lmQmFIaDBOX0N4aEcxTzJKMGduX3ZnQkNkaDVkT2VySEVLZ0FELVdnRUZoXzFPRXZub3V6MHN0Z3pQRW0wTTdvb05kYjV4REZsTERfeXcxNFRlZDZOczZXd0dCLTNtQVhGbkVMeTVPYkk0WUZCbzFwUnlPU3lncnpKM2hxNmZa?oc=5",
+        "date": "2026-03-22",
+        "title": "How Pender County's strategic plan could impact you and future growth - Wilmington Star-News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU1BrWmJJQW9MV2t2bnRZUVY2UV90a2lhUFloaEFGeWxiOEY2LVdDeGRmeGRLMkZlVjlwLVFQN2ttNUZnYlpuaXNVRzFqLWswdnJQQ0dVOE9vRnhfS3lmQmFIaDBOX0N4aEcxTzJKMGduX3ZnQkNkaDVkT2VySEVLZ0FELVdnRUZoXzFPRXZub3V6MHN0Z3pQRW0wTTdvb05kYjV4REZsTERfeXcxNFRlZDZOczZXd0dCLTNtQVhGbkVMeTVPYkk0WUZCbzFwUnlPU3lncnpKM2hxNmZa?oc=5\" target=\"_blank\">How Pender County's strategic plan could impact you and future growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wilmington Star-News</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX0FwQlRtS1VtM2YtbFFlNlRLczhaWWNZY3hrcmhPTFk5RWRKYnEyY3RzUU5vbVpqWWVVUTlxTFN1Rzh2c3BkME1naFQ0TlZfdHFPaDNhS2lXWGtrVGJGZm9MdkVZV3FETVJ4dlVjeThNQ2szbzRaTFhWRklPei1qcjlxTUstZ3h3QWNNZDMtMFY4RnJTbjZIZ05xT3drR2J2aFlxdXV2VDRwZU9zckE?oc=5",
+        "date": "2026-03-22",
+        "title": "Iran Threatens to Strike US Regional Infrastructure If Power Plants Are Attacked - Caspian Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNX0FwQlRtS1VtM2YtbFFlNlRLczhaWWNZY3hrcmhPTFk5RWRKYnEyY3RzUU5vbVpqWWVVUTlxTFN1Rzh2c3BkME1naFQ0TlZfdHFPaDNhS2lXWGtrVGJGZm9MdkVZV3FETVJ4dlVjeThNQ2szbzRaTFhWRklPei1qcjlxTUstZ3h3QWNNZDMtMFY4RnJTbjZIZ05xT3drR2J2aFlxdXV2VDRwZU9zckE?oc=5\" target=\"_blank\">Iran Threatens to Strike US Regional Infrastructure If Power Plants Are Attacked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Caspian Post</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hWGRKTVVic0pYR3JLUW1nNXF3elZVVFpnR0dFOWhfUjB6QlhWbU5VUjNpS1p6bWJBM1JydjNoclBIOFR3dldja3ZlU2NRMk5yRjk5eUdqQUh3OGVTS09WX2NrU3c2OWdkUnc?oc=5",
+        "date": "2026-03-22",
+        "title": "CrowdStrike and Nebius: Securing AI Cloud Infrastructure - Cyber Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5hWGRKTVVic0pYR3JLUW1nNXF3elZVVFpnR0dFOWhfUjB6QlhWbU5VUjNpS1p6bWJBM1JydjNoclBIOFR3dldja3ZlU2NRMk5yRjk5eUdqQUh3OGVTS09WX2NrU3c2OWdkUnc?oc=5\" target=\"_blank\">CrowdStrike and Nebius: Securing AI Cloud Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cyber Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV254alhFSnlzQnIwVDdTSldmSEpHdmdYenhmSk14ckdkcFU4QnhVSWZvOEVXbzFhN1VVcERXMDBSR3dmM1JCeDZVYkhURlVvcVRyTmdzbEtMZmVpNHFaR01nZm9UM3VZNXdjV3ZqT0RZUm9hS0dReGxtRDFDa3JJT25rSktxQXZLb1pMb0VWYnU5SUhTbFc4UUpvY29XRF9PTlc5SmlnRzN4d3dHWXN0Qw?oc=5",
+        "date": "2026-03-22",
+        "title": "Why the Grand Paris Express is Europes Biggest Infrastructure Project - Interesting Engineering",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOV254alhFSnlzQnIwVDdTSldmSEpHdmdYenhmSk14ckdkcFU4QnhVSWZvOEVXbzFhN1VVcERXMDBSR3dmM1JCeDZVYkhURlVvcVRyTmdzbEtMZmVpNHFaR01nZm9UM3VZNXdjV3ZqT0RZUm9hS0dReGxtRDFDa3JJT25rSktxQXZLb1pMb0VWYnU5SUhTbFc4UUpvY29XRF9PTlc5SmlnRzN4d3dHWXN0Qw?oc=5\" target=\"_blank\">Why the Grand Paris Express is Europes Biggest Infrastructure Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interesting Engineering</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": "(\ud83c\uddeb\ud83c\uddf7) NEWS: The Grand Paris Express is Europes biggest infrastructure project, a 200km automated metro network set to transform transport for 7 million daily riders."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOVHJDYkduaVl2RmE1cXNnVUdGcWdHOGFORGRVT0F5RnhoSXh4Y2FJWUVtNTU2WVNtaFd2VkMxT3NBajFOR2Z1U3VxeDhKYmNaS19FcDVDUmFDMzNJOG8zcmY1NWlSZlBFYTZPRm1kWEttOGdZQndpZ05hQnM4X3FLVmpMZTZXLURLYlQ0eWxZSW5NcWF3NExZRGJtQmQyaVFndXFGUnlma01iQURQZUdUOFNMMFBydWxuZkVHWGNiNVNZM29pWWZUTzh0Z2hCSnVTX1lONUNtR0lCQjNfQ1NDcW95alVsX1ZNMTZNQnVYRnZlWHNURElBakczS1ZTUl9aQ09LTDNsZGZ0Zm9BRXVQMGxzVmctY0I0MlBycW1PM1NiTTYzX3g4Y1U2NU92UQ?oc=5",
+        "date": "2026-03-22",
+        "title": "Army Black Hawk Crew Documents Storm-Damaged Infrastructure - Trending Now Infrastructure",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxOVHJDYkduaVl2RmE1cXNnVUdGcWdHOGFORGRVT0F5RnhoSXh4Y2FJWUVtNTU2WVNtaFd2VkMxT3NBajFOR2Z1U3VxeDhKYmNaS19FcDVDUmFDMzNJOG8zcmY1NWlSZlBFYTZPRm1kWEttOGdZQndpZ05hQnM4X3FLVmpMZTZXLURLYlQ0eWxZSW5NcWF3NExZRGJtQmQyaVFndXFGUnlma01iQURQZUdUOFNMMFBydWxuZkVHWGNiNVNZM29pWWZUTzh0Z2hCSnVTX1lONUNtR0lCQjNfQ1NDcW95alVsX1ZNMTZNQnVYRnZlWHNURElBakczS1ZTUl9aQ09LTDNsZGZ0Zm9BRXVQMGxzVmctY0I0MlBycW1PM1NiTTYzX3g4Y1U2NU92UQ?oc=5\" target=\"_blank\">Army Black Hawk Crew Documents Storm-Damaged Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trending Now Infrastructure</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEgxZG9EVzhha2dvb0E4SHNJMUdzNWlVeWVkZ3FONGs0Q2Rkaks0bVNQb3BYQThMRF9jSXZfOVVhaDR1QkdWSktIQ2JSQXg3eWhZWHY0M21MeUFSVUZ4bnoyUXJOajk4clRUb05ONlNHQ20tRkt0cUJUWkd4dEJHZS1WRy1QM04xU2hDTjJKYw?oc=5",
+        "date": "2026-03-22",
+        "title": "Iran warns Trump after he gives two-day ultimatum to open Hormuz - The Boston Globe",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEgxZG9EVzhha2dvb0E4SHNJMUdzNWlVeWVkZ3FONGs0Q2Rkaks0bVNQb3BYQThMRF9jSXZfOVVhaDR1QkdWSktIQ2JSQXg3eWhZWHY0M21MeUFSVUZ4bnoyUXJOajk4clRUb05ONlNHQ20tRkt0cUJUWkd4dEJHZS1WRy1QM04xU2hDTjJKYw?oc=5\" target=\"_blank\">Iran warns Trump after he gives two-day ultimatum to open Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Boston Globe</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdlpESVRzLTcyUGxDOXpKbXJnNDdlTEhWd3V6TE1fVm9TSGk1UkFMNGlfNm03QTQ0ZmVyVXZVVV9xTUdMRTBTRzZWSGJOSmJLRkd1NlRha1haOXVYbDhlNmZ3ZUNnbFlLWlVmVkdYa3dQX2pDV2lwaFRvWGVIcU9Qd1hlNDVuVjZHTDk0QlNROTdDQnMtT3VMMkNfcmM5c1hYZ1hHUlhlWlRBNEZIZ2VXT25ibVl0NWpTMnd0bi1Pb2czQVNRRFE?oc=5",
+        "date": "2026-03-22",
+        "title": "Terence Tao says AI drives idea generation cost to near zero but shifts the bottleneck to verification - the-decoder.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPdlpESVRzLTcyUGxDOXpKbXJnNDdlTEhWd3V6TE1fVm9TSGk1UkFMNGlfNm03QTQ0ZmVyVXZVVV9xTUdMRTBTRzZWSGJOSmJLRkd1NlRha1haOXVYbDhlNmZ3ZUNnbFlLWlVmVkdYa3dQX2pDV2lwaFRvWGVIcU9Qd1hlNDVuVjZHTDk0QlNROTdDQnMtT3VMMkNfcmM5c1hYZ1hHUlhlWlRBNEZIZ2VXT25ibVl0NWpTMnd0bi1Pb2czQVNRRFE?oc=5\" target=\"_blank\">Terence Tao says AI drives idea generation cost to near zero but shifts the bottleneck to verification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">the-decoder.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV254alhFSnlzQnIwVDdTSldmSEpHdmdYenhmSk14ckdkcFU4QnhVSWZvOEVXbzFhN1VVcERXMDBSR3dmM1JCeDZVYkhURlVvcVRyTmdzbEtMZmVpNHFaR01nZm9UM3VZNXdjV3ZqT0RZUm9hS0dReGxtRDFDa3JJT25rSktxQXZLb1pMb0VWYnU5SUhTbFc4UUpvY29XRF9PTlc5SmlnRzN4d3dHWXN0Qw?oc=5",
+        "date": "2026-03-22",
+        "title": "Why the Grand Paris Express is Europes Biggest Infrastructure Project - Interesting Engineering",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOV254alhFSnlzQnIwVDdTSldmSEpHdmdYenhmSk14ckdkcFU4QnhVSWZvOEVXbzFhN1VVcERXMDBSR3dmM1JCeDZVYkhURlVvcVRyTmdzbEtMZmVpNHFaR01nZm9UM3VZNXdjV3ZqT0RZUm9hS0dReGxtRDFDa3JJT25rSktxQXZLb1pMb0VWYnU5SUhTbFc4UUpvY29XRF9PTlc5SmlnRzN4d3dHWXN0Qw?oc=5\" target=\"_blank\">Why the Grand Paris Express is Europes Biggest Infrastructure Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interesting Engineering</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "(\ud83c\uddeb\ud83c\uddf7) NEWS: The Grand Paris Express is set to become Europes largest infrastructure project, with 200km of new automated metro lines connecting 130+ stations across the region.",
+        "type": "news"
     }
 ]
