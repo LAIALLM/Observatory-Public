@@ -4132,5 +4132,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Weymouth gears up for major water infrastructure overhaul as MWRA pipeline stays on schedule for 2031 completion.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-22",
+        "status": "posted",
+        "tweet": "Annual electricity consumption of major blockchains in 2026 (TWh/year):\n\n1. Bitcoin: 180 TWh (equivalent to \ud83c\uddf3\ud83c\uddf1 Netherlands' usage)\n2. Ethereum: 0.03 TWh (drastically reduced post-merge)\n3. Solana: 0.01 TWh (highly efficient PoS)",
+        "type": "crypto"
     }
 ]
