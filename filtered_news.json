@@ -3701,5 +3701,97 @@
         "status": "posted",
         "tweet": "Microsoft Azure data centers in \ud83c\uddfa\ud83c\uddf8 consumed 15 TWh of energy in 2026, up 25% from 2025, powering AI workloads at 98% efficiency.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnpUT1o0LTc4MHpzQjZfZ1AxWVJqeWgwVTRvdVViM05QeFJ3c0V2SXlTamRKbjJ6N2c0NE1EbVBsa3dKcndlNm0wNlB0RndZS2diZFFZaEtjYUROeWljTUtIN3Jzc2VxZnBYU3A2ZDYxSTJpVmFrRzd2dE90VHBRaEtZcTBUUTdKTm4yZjh0ZE1XTWoxZTFUazJzcWpEeExNWXJqWDQ1Q0Z1cnVNVWw0enpaVWtOZnp2MnNaQ3ByTGJpOGNIT1hCUjQ4QUJEUkxXWGhWWktOQQ?oc=5",
+        "date": "2026-03-23",
+        "title": "HS2 firm says new steel tariffs will \u2018exacerbate\u2019 cost pressures for UK construction industry - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnpUT1o0LTc4MHpzQjZfZ1AxWVJqeWgwVTRvdVViM05QeFJ3c0V2SXlTamRKbjJ6N2c0NE1EbVBsa3dKcndlNm0wNlB0RndZS2diZFFZaEtjYUROeWljTUtIN3Jzc2VxZnBYU3A2ZDYxSTJpVmFrRzd2dE90VHBRaEtZcTBUUTdKTm4yZjh0ZE1XTWoxZTFUazJzcWpEeExNWXJqWDQ1Q0Z1cnVNVWw0enpaVWtOZnp2MnNaQ3ByTGJpOGNIT1hCUjQ4QUJEUkxXWGhWWktOQQ?oc=5\" target=\"_blank\">HS2 firm says new steel tariffs will \u2018exacerbate\u2019 cost pressures for UK construction industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: HS2 firm warns new steel tariffs will exacerbate cost pressures for UK construction industry"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdVJfM0Etc3FkbWZGbnZzUllXc3lRTTZfSEllaVNGaWRwcDRNTWRXbGpvYlNpWkI1WDFpNkVpdTh3OVduRDEwZlE1cmRaYW5OLTFIRERacnd1YmhVUGk3bTlVUzdQZFZsZDBTeTRrV0dIRkZiVEtFMWpHLVdxOFBicEFLcU9UVjExcExN?oc=5",
+        "date": "2026-03-23",
+        "title": "C.A. Jones Disappears from Belleville Market, Leaving Unfinished Projects - Construction Owners Club",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdVJfM0Etc3FkbWZGbnZzUllXc3lRTTZfSEllaVNGaWRwcDRNTWRXbGpvYlNpWkI1WDFpNkVpdTh3OVduRDEwZlE1cmRaYW5OLTFIRERacnd1YmhVUGk3bTlVUzdQZFZsZDBTeTRrV0dIRkZiVEtFMWpHLVdxOFBicEFLcU9UVjExcExN?oc=5\" target=\"_blank\">C.A. Jones Disappears from Belleville Market, Leaving Unfinished Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Owners Club</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkpIWlBkb29OTDNIbHdWa0l1eERaNGRmSDZkUHJSa2VLRE1oek9CTi1iS25KYWFKS01UUWJXOE4tSHMwQ0x5TUEyQ3ZUcjY0U1JTS2hiNVhtMzgzaU9LeDZBd2cteTZoNmhmQUZRWXZ1ZTk4ejRRQkNOMkl5elBPWDFXUnpjdnpJRF9EQ0hxT2s4MHZOV0NlUlRhWXNJc3RRbU9oQldKbEs?oc=5",
+        "date": "2026-03-23",
+        "title": "Markets Stumble as Washington and Tehran Target Civilian Infrastructure - streamlinefeed.co.ke",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkpIWlBkb29OTDNIbHdWa0l1eERaNGRmSDZkUHJSa2VLRE1oek9CTi1iS25KYWFKS01UUWJXOE4tSHMwQ0x5TUEyQ3ZUcjY0U1JTS2hiNVhtMzgzaU9LeDZBd2cteTZoNmhmQUZRWXZ1ZTk4ejRRQkNOMkl5elBPWDFXUnpjdnpJRF9EQ0hxT2s4MHZOV0NlUlRhWXNJc3RRbU9oQldKbEs?oc=5\" target=\"_blank\">Markets Stumble as Washington and Tehran Target Civilian Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">streamlinefeed.co.ke</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWTIzR0p6YzNYQy03a1JrZTlFam81NUEyVHJTazlmUnFzemE0RG5GVzVMQlUzdEk4TzRjOUdEcFVWWndMZUFUSno1WDFpN0dVOXgtaGdNNVFQVkFfV0pPQUgzTUE3LUZ0V0hjWFpPVGxXTzdDMlNVSE5hclktS1UwZlg3ajdfbXpQZ20yN0RHaVZ5RFN3XzA1b3RFanJISnNaeE5jRHRWTU1oODhXWl9meUpRV1VZUHFDM0JscHE4cWpDVmZROUw3NFNCTmVpMW9VaG1GcWFubDNOakREVGl2WXpLbGxFTjNsT1Nob2F1ekc5eFZVR2I1bWljTkg?oc=5",
+        "date": "2026-03-23",
+        "title": "The latest on the Iran war as Trump threatens to destroy energy infrastructure - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWTIzR0p6YzNYQy03a1JrZTlFam81NUEyVHJTazlmUnFzemE0RG5GVzVMQlUzdEk4TzRjOUdEcFVWWndMZUFUSno1WDFpN0dVOXgtaGdNNVFQVkFfV0pPQUgzTUE3LUZ0V0hjWFpPVGxXTzdDMlNVSE5hclktS1UwZlg3ajdfbXpQZ20yN0RHaVZ5RFN3XzA1b3RFanJISnNaeE5jRHRWTU1oODhXWl9meUpRV1VZUHFDM0JscHE4cWpDVmZROUw3NFNCTmVpMW9VaG1GcWFubDNOakREVGl2WXpLbGxFTjNsT1Nob2F1ekc5eFZVR2I1bWljTkg?oc=5\" target=\"_blank\">The latest on the Iran war as Trump threatens to destroy energy infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbjFNMUpxSnVhMGdMQU9ZTjBlTTl6UlRmbi01aG1nT2JDZmo1aXliM3dQdV90OFVoOVo3aXdBQnpoeGg5LTdmYWdrMWNhQnlFUzV4U2dBTzg4YVc3ODRnY20wTlhrY29sRXNpRlFYMDVxRll3WGk1ZlNmMjFsQU53cEJTTHRJV0E3UmNwemZLZGt1Q3pZcUxXUEZjX0lxeXpDT3hRUE5LVTVsdmRRWm9EaG9XVkF0eVZxYTlOT3FDRTQzYkhYNzM5N29UcFVMRXpHTmg1ZWtn?oc=5",
+        "date": "2026-03-23",
+        "title": "Vi and BSNL start talks on infrastructure and spectrum sharing - Developing Telecoms",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbjFNMUpxSnVhMGdMQU9ZTjBlTTl6UlRmbi01aG1nT2JDZmo1aXliM3dQdV90OFVoOVo3aXdBQnpoeGg5LTdmYWdrMWNhQnlFUzV4U2dBTzg4YVc3ODRnY20wTlhrY29sRXNpRlFYMDVxRll3WGk1ZlNmMjFsQU53cEJTTHRJV0E3UmNwemZLZGt1Q3pZcUxXUEZjX0lxeXpDT3hRUE5LVTVsdmRRWm9EaG9XVkF0eVZxYTlOT3FDRTQzYkhYNzM5N29UcFVMRXpHTmg1ZWtn?oc=5\" target=\"_blank\">Vi and BSNL start talks on infrastructure and spectrum sharing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Developing Telecoms</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNQmwweDdPREwzdDltRENHS2lGOTJaZ2N2ZS1fZW95Z0hseWZ5eHM5TXdJbm5YZU5CMTNVVWVOMmpyeDRqZ0g5LXNlMnhkRkxxTDFzbHFpd1lrUnFUZC1fY3c1dzIyUTBkdHlXLVhKcXUtRTJkdU9DWWszTEFXOU5odE84ckxLb2R1NmtLYjU4WHpTY01WWFFPNVNGQ3pzbXlpU0dJMjBSR0RuWV9jZEJmWUdxd3JlNkRTb1ZSUUVKcGJ1SHQwTmI2d0k0ckl5dHpsZ1dNYmtIMUU2X2tlU0ktamRLZEdJZG5aVVY3b0hUX3pmZkIydG1ydURURmhMdWJ1SzNRSjM4M2dKOTZwZ2JkNHNNYmpLVXBsTXJrYl9vT0JCZw?oc=5",
+        "date": "2026-03-23",
+        "title": "UAE Landscaping Market Set to Expand at a CAGR of 9.97% Amid Growing Construction Activity and Demand for Eco-Friendly Outdoor Spaces | Vyansa Intelligence - The Malaysian Reserve",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxNQmwweDdPREwzdDltRENHS2lGOTJaZ2N2ZS1fZW95Z0hseWZ5eHM5TXdJbm5YZU5CMTNVVWVOMmpyeDRqZ0g5LXNlMnhkRkxxTDFzbHFpd1lrUnFUZC1fY3c1dzIyUTBkdHlXLVhKcXUtRTJkdU9DWWszTEFXOU5odE84ckxLb2R1NmtLYjU4WHpTY01WWFFPNVNGQ3pzbXlpU0dJMjBSR0RuWV9jZEJmWUdxd3JlNkRTb1ZSUUVKcGJ1SHQwTmI2d0k0ckl5dHpsZ1dNYmtIMUU2X2tlU0ktamRLZEdJZG5aVVY3b0hUX3pmZkIydG1ydURURmhMdWJ1SzNRSjM4M2dKOTZwZ2JkNHNNYmpLVXBsTXJrYl9vT0JCZw?oc=5\" target=\"_blank\">UAE Landscaping Market Set to Expand at a CAGR of 9.97% Amid Growing Construction Activity and Demand for Eco-Friendly Outdoor Spaces | Vyansa Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Malaysian Reserve</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSmFoVTJSeEM0NnRfM3pMMXFVUEFaaWdrSlBQaGU3UnRDNnFPNkxLazlXWS1sV1BCQThpblJ6YmFqSHd4OHFWRjd5TTlVeUhpT3VnZUhuSlh2eHBKSTNMM0dXNE9ZdFRGN2lIVHR1Wl9XN3o4ZXdqd2QtVTQtOUoza19XUjN1UkZQVUN3ZGgxXy1obUlqbzhaMU1PMFhrenJuWkJGd3hwbDRvWTh4RnppZURmendtSDB3NHFCRkZ4U011cXZHTjhVcmdvalEyNWVDekpIZDNBd9IB3AFBVV95cUxQSS1hRkdvQW9aVno4U19DNVJEY0hXaXl3OVVaaEsyVmJMMWdsOFhqbTllLWpoaHpjMDN3YUg4MUN4LTU0OUhONFVJRzE1eFpha1RLZzhZaFd5dHJEc2ZuaXRKWHNIUWJtX3hkNGRlOFp0T1MyUDBYNi1Ya296S1p6aW13M1Q1UktxY2VFU3R5aHFpak9ZMEVnUXRJLUV6SFlBblNrSm5BbnFNeTBJc1Q2blJCWHZvTFR3T0pkakNJMV9ZcVM3OFdkTzdpaTJpTFg3bklPX1ZTVjF6RFVO?oc=5",
+        "date": "2026-03-23",
+        "title": "Jaipur Signal-Free Road Project: Plan to Make 2 Busy Roads Signal-Free, 17 U-Turns to Be Built - Patrika News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSmFoVTJSeEM0NnRfM3pMMXFVUEFaaWdrSlBQaGU3UnRDNnFPNkxLazlXWS1sV1BCQThpblJ6YmFqSHd4OHFWRjd5TTlVeUhpT3VnZUhuSlh2eHBKSTNMM0dXNE9ZdFRGN2lIVHR1Wl9XN3o4ZXdqd2QtVTQtOUoza19XUjN1UkZQVUN3ZGgxXy1obUlqbzhaMU1PMFhrenJuWkJGd3hwbDRvWTh4RnppZURmendtSDB3NHFCRkZ4U011cXZHTjhVcmdvalEyNWVDekpIZDNBd9IB3AFBVV95cUxQSS1hRkdvQW9aVno4U19DNVJEY0hXaXl3OVVaaEsyVmJMMWdsOFhqbTllLWpoaHpjMDN3YUg4MUN4LTU0OUhONFVJRzE1eFpha1RLZzhZaFd5dHJEc2ZuaXRKWHNIUWJtX3hkNGRlOFp0T1MyUDBYNi1Ya296S1p6aW13M1Q1UktxY2VFU3R5aHFpak9ZMEVnUXRJLUV6SFlBblNrSm5BbnFNeTBJc1Q2blJCWHZvTFR3T0pkakNJMV9ZcVM3OFdkTzdpaTJpTFg3bklPX1ZTVjF6RFVO?oc=5\" target=\"_blank\">Jaipur Signal-Free Road Project: Plan to Make 2 Busy Roads Signal-Free, 17 U-Turns to Be Built</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patrika News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Jaipurs signal-free road project plans to eliminate signals on 2 busy roads and build 17 U-turns."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnpUT1o0LTc4MHpzQjZfZ1AxWVJqeWgwVTRvdVViM05QeFJ3c0V2SXlTamRKbjJ6N2c0NE1EbVBsa3dKcndlNm0wNlB0RndZS2diZFFZaEtjYUROeWljTUtIN3Jzc2VxZnBYU3A2ZDYxSTJpVmFrRzd2dE90VHBRaEtZcTBUUTdKTm4yZjh0ZE1XTWoxZTFUazJzcWpEeExNWXJqWDQ1Q0Z1cnVNVWw0enpaVWtOZnp2MnNaQ3ByTGJpOGNIT1hCUjQ4QUJEUkxXWGhWWktOQQ?oc=5",
+        "date": "2026-03-23",
+        "title": "HS2 firm says new steel tariffs will \u2018exacerbate\u2019 cost pressures for UK construction industry - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnpUT1o0LTc4MHpzQjZfZ1AxWVJqeWgwVTRvdVViM05QeFJ3c0V2SXlTamRKbjJ6N2c0NE1EbVBsa3dKcndlNm0wNlB0RndZS2diZFFZaEtjYUROeWljTUtIN3Jzc2VxZnBYU3A2ZDYxSTJpVmFrRzd2dE90VHBRaEtZcTBUUTdKTm4yZjh0ZE1XTWoxZTFUazJzcWpEeExNWXJqWDQ1Q0Z1cnVNVWw0enpaVWtOZnp2MnNaQ3ByTGJpOGNIT1hCUjQ4QUJEUkxXWGhWWktOQQ?oc=5\" target=\"_blank\">HS2 firm says new steel tariffs will \u2018exacerbate\u2019 cost pressures for UK construction industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: HS2 firm warns new steel tariffs will exacerbate cost pressures for UK construction industry",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSmFoVTJSeEM0NnRfM3pMMXFVUEFaaWdrSlBQaGU3UnRDNnFPNkxLazlXWS1sV1BCQThpblJ6YmFqSHd4OHFWRjd5TTlVeUhpT3VnZUhuSlh2eHBKSTNMM0dXNE9ZdFRGN2lIVHR1Wl9XN3o4ZXdqd2QtVTQtOUoza19XUjN1UkZQVUN3ZGgxXy1obUlqbzhaMU1PMFhrenJuWkJGd3hwbDRvWTh4RnppZURmendtSDB3NHFCRkZ4U011cXZHTjhVcmdvalEyNWVDekpIZDNBd9IB3AFBVV95cUxQSS1hRkdvQW9aVno4U19DNVJEY0hXaXl3OVVaaEsyVmJMMWdsOFhqbTllLWpoaHpjMDN3YUg4MUN4LTU0OUhONFVJRzE1eFpha1RLZzhZaFd5dHJEc2ZuaXRKWHNIUWJtX3hkNGRlOFp0T1MyUDBYNi1Ya296S1p6aW13M1Q1UktxY2VFU3R5aHFpak9ZMEVnUXRJLUV6SFlBblNrSm5BbnFNeTBJc1Q2blJCWHZvTFR3T0pkakNJMV9ZcVM3OFdkTzdpaTJpTFg3bklPX1ZTVjF6RFVO?oc=5",
+        "date": "2026-03-23",
+        "title": "Jaipur Signal-Free Road Project: Plan to Make 2 Busy Roads Signal-Free, 17 U-Turns to Be Built - Patrika News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSmFoVTJSeEM0NnRfM3pMMXFVUEFaaWdrSlBQaGU3UnRDNnFPNkxLazlXWS1sV1BCQThpblJ6YmFqSHd4OHFWRjd5TTlVeUhpT3VnZUhuSlh2eHBKSTNMM0dXNE9ZdFRGN2lIVHR1Wl9XN3o4ZXdqd2QtVTQtOUoza19XUjN1UkZQVUN3ZGgxXy1obUlqbzhaMU1PMFhrenJuWkJGd3hwbDRvWTh4RnppZURmendtSDB3NHFCRkZ4U011cXZHTjhVcmdvalEyNWVDekpIZDNBd9IB3AFBVV95cUxQSS1hRkdvQW9aVno4U19DNVJEY0hXaXl3OVVaaEsyVmJMMWdsOFhqbTllLWpoaHpjMDN3YUg4MUN4LTU0OUhONFVJRzE1eFpha1RLZzhZaFd5dHJEc2ZuaXRKWHNIUWJtX3hkNGRlOFp0T1MyUDBYNi1Ya296S1p6aW13M1Q1UktxY2VFU3R5aHFpak9ZMEVnUXRJLUV6SFlBblNrSm5BbnFNeTBJc1Q2blJCWHZvTFR3T0pkakNJMV9ZcVM3OFdkTzdpaTJpTFg3bklPX1ZTVjF6RFVO?oc=5\" target=\"_blank\">Jaipur Signal-Free Road Project: Plan to Make 2 Busy Roads Signal-Free, 17 U-Turns to Be Built</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patrika News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Jaipurs Signal-Free Road Project plans to remove signals from 2 busy roads and build 17 U-turns.",
+        "type": "news"
     }
 ]
