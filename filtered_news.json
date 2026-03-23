@@ -3914,5 +3914,12 @@
         "status": "posted",
         "tweet": "(\ud83c\uddfa\ud83c\uddf8) NEWS: DOE, SoftBank and AEP Ohio ($AEP) team up for $33B power and AI infrastructure project to bolster grid electricity in southern Ohio",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-23",
+        "status": "posted",
+        "tweet": "Microsoft Azure data centers process 12 exabytes daily in 2026.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
