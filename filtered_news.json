@@ -3921,5 +3921,12 @@
         "status": "posted",
         "tweet": "Microsoft Azure data centers process 12 exabytes daily in 2026.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-23",
+        "status": "posted",
+        "tweet": "Bitcoin mining data centers consume 180 TWh of electricity annually in 2026, costing $9 billion\u2014equivalent to powering 16 million U.S. households.",
+        "type": "crypto"
     }
 ]
