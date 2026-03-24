@@ -3672,5 +3672,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Indianas SB 76 advances expansion of ICE detention facilities statewide.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-24",
+        "status": "posted",
+        "tweet": "Amazon's AWS infrastructure hit 150 zettabytes of annual data storage in 2026, powering 40% of global cloud workloads.\n\n$AMZN",
+        "type": "infrastructure"
     }
 ]
