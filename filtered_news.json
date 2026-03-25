@@ -3974,5 +3974,12 @@
         "tweet": "In 2026, EVs will comprise 25% of global new vehicle sales, up from 18% in 2023.\n\n\ud83c\udde8\ud83c\uddf3 China leads with 50% EV share, while \ud83c\uddfa\ud83c\uddf8 USA lags at 15%.",
         "type": "statistical",
         "category": "transportation"
+    },
+    {
+        "link": null,
+        "date": "2026-03-25",
+        "status": "posted",
+        "tweet": "2026 blockchain infra costs surge 25% from global regs on energy & compliance.\n\n1. \ud83c\uddfa\ud83c\uddf8Bitcoin: EPA rules force 40% renewable shift, adding $3.2B/yr to mining energy infra.\n2. \ud83c\uddea\ud83c\uddfaEthereum: MiCA mandates KYC for validators, hiking node setup by $1.1B network-wide.\n3. \ud83c\uddf8\ud83c\uddecSolana: Data l",
+        "type": "crypto"
     }
 ]
