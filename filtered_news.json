@@ -3981,5 +3981,12 @@
         "status": "posted",
         "tweet": "2026 blockchain infra costs surge 25% from global regs on energy & compliance.\n\n1. \ud83c\uddfa\ud83c\uddf8Bitcoin: EPA rules force 40% renewable shift, adding $3.2B/yr to mining energy infra.\n2. \ud83c\uddea\ud83c\uddfaEthereum: MiCA mandates KYC for validators, hiking node setup by $1.1B network-wide.\n3. \ud83c\uddf8\ud83c\uddecSolana: Data l",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-03-25",
+        "status": "posted",
+        "tweet": "Microsoft Azure infrastructure processed 18 exabytes of data daily across 60 regions in 2026.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
