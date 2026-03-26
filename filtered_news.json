@@ -3460,5 +3460,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 urban development firms invested $450B in sustainable projects in 2026, up 25% from 2025.\n\n\ud83c\udde8\ud83c\uddf3 firms reached $620B, surpassing by 38% and leading global growth at 18% YoY projection to 2030.",
         "type": "statistical",
         "category": "urban development firms"
+    },
+    {
+        "link": null,
+        "date": "2026-03-26",
+        "status": "posted",
+        "tweet": "Ethereum's 1.2M validators in 2026 average $800 annual infra costs per node, with 45% outside top 5 countries for strong decentralization.\n\nSolana's 2,800 validators average $4,200 per node, but 65% concentrated in \ud83c\uddfa\ud83c\uddf8 and \ud83c\uddf8\ud83c\uddec data centers, raising centralization risks.\n\n(187 chars",
+        "type": "crypto"
     }
 ]
