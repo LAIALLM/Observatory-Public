@@ -3467,5 +3467,12 @@
         "status": "posted",
         "tweet": "Ethereum's 1.2M validators in 2026 average $800 annual infra costs per node, with 45% outside top 5 countries for strong decentralization.\n\nSolana's 2,800 validators average $4,200 per node, but 65% concentrated in \ud83c\uddfa\ud83c\uddf8 and \ud83c\uddf8\ud83c\uddec data centers, raising centralization risks.\n\n(187 chars",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-03-26",
+        "status": "posted",
+        "tweet": "Amazon Web Services expanded to 120 Availability Zones in 2026, handling 15 exabytes of data transfer daily across its global infrastructure.\n\n$AMZN",
+        "type": "infrastructure"
     }
 ]
