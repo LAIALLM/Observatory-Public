@@ -3160,5 +3160,12 @@
         "status": "posted",
         "tweet": "Microsoft Azure data centers in \ud83c\uddfa\ud83c\uddf8 Washington state processed 120 petabytes of data daily in 2026, with a PUE of 1.08.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-28",
+        "status": "posted",
+        "tweet": "Bitcoin mining consumes 150 TWh annually, costing $8B in electricity worldwide.\n\nEthereum staking requires just 0.1 TWh, with infrastructure costs under $50M yearly.\n\nPoS slashes energy use by 99.9%.",
+        "type": "crypto"
     }
 ]
