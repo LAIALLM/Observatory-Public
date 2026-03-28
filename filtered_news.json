@@ -3153,5 +3153,12 @@
         "tweet": "By 2026, global renewable energy engineering projects will add 1,200 GW of capacity, equivalent to powering the EU \ud83c\uddea\ud83c\uddfa and US \ud83c\uddfa\ud83c\uddf8 combined.\n\nThis surge, led by solar and wind initiatives in Asia, accelerates net-zero goals by 2030.",
         "type": "statistical",
         "category": "engineering projects"
+    },
+    {
+        "link": null,
+        "date": "2026-03-28",
+        "status": "posted",
+        "tweet": "Microsoft Azure data centers in \ud83c\uddfa\ud83c\uddf8 Washington state processed 120 petabytes of data daily in 2026, with a PUE of 1.08.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
