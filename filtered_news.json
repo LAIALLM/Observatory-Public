@@ -2422,5 +2422,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Over 1000 flats to be built in city for urban poor under PMAY scheme",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-29",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 infrastructure faces $2.59 trillion funding gap by 2029 to repair aging roads and bridges, per ASCE 2025 report projection. Without action, travel delays could cost $550 billion annually by 2030.",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
