@@ -2540,5 +2540,12 @@
         "status": "posted",
         "tweet": "(\ud83c\uddee\ud83c\uddf3) NEWS: Noida expansion accelerates as DNGIR land acquisition looms soon across 80 villages near Jewar Airport",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-29",
+        "status": "posted",
+        "tweet": "Bitcoin's annual maintenance & security costs hit $15B in 2026, driven by mining hardware and electricity for 1.2M nodes.\n\nSolana's validator ecosystem clocks in at $450M, leveraging efficient PoS with 2,000+ active validators.\n\nThat's 33x cheaper for Solana's security.",
+        "type": "crypto"
     }
 ]
