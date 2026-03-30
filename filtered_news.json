@@ -2701,5 +2701,13 @@
         "status": "posted",
         "tweet": "Tech giant AWS reports its \ud83c\uddfa\ud83c\uddf8 Northern Virginia data center cluster processed 2.1 exabytes of data daily in Q1 2026, up 28% YoY.\n\n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-03-30",
+        "status": "posted",
+        "tweet": "In 2026, world population reaches 8.2 billion.\n\n\ud83c\uddee\ud83c\uddf3 India leads with 1.45 billion residents,\n\nwhile \ud83c\udde8\ud83c\uddf3 China falls to 1.41 billion.",
+        "type": "statistical",
+        "category": "population"
     }
 ]
