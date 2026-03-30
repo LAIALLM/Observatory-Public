@@ -2694,5 +2694,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\udde9 NEWS: Mandalika SEZ boosts investment through strong incentives and enhanced infrastructure",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-03-30",
+        "status": "posted",
+        "tweet": "Tech giant AWS reports its \ud83c\uddfa\ud83c\uddf8 Northern Virginia data center cluster processed 2.1 exabytes of data daily in Q1 2026, up 28% YoY.\n\n$AMZN",
+        "type": "infrastructure"
     }
 ]
