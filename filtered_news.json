@@ -2544,5 +2544,13 @@
         "tweet": "In 2026, world population reaches 8.2 billion.\n\n\ud83c\uddee\ud83c\uddf3 India leads with 1.45 billion residents,\n\nwhile \ud83c\udde8\ud83c\uddf3 China falls to 1.41 billion.",
         "type": "statistical",
         "category": "population"
+    },
+    {
+        "link": null,
+        "date": "2026-03-31",
+        "status": "posted",
+        "tweet": "By 2026, 59% of the world's 8.1 billion people\u20144.75 billion\u2014will live in urban areas, fueling a surge in sustainable planning needs.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
