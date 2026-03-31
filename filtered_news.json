@@ -2552,5 +2552,12 @@
         "tweet": "By 2026, 59% of the world's 8.1 billion people\u20144.75 billion\u2014will live in urban areas, fueling a surge in sustainable planning needs.",
         "type": "statistical",
         "category": "urban planning"
+    },
+    {
+        "link": null,
+        "date": "2026-03-31",
+        "status": "posted",
+        "tweet": "Bitcoin's 2026 data center electricity: 180 TWh, $9B cost at avg $0.05/kWh.\n\nEthereum's PoS nodes: 8 TWh, $400M cost\u201422x less energy via cloud validators.\n\nGlobal cloud providers like AWS host 60% of Ethereum nodes vs 15% for Bitcoin mining rigs.",
+        "type": "crypto"
     }
 ]
