@@ -2310,5 +2310,12 @@
         "status": "posted",
         "tweet": "NVIDIA's global AI infrastructure hit 100 million GPU hours processed daily in 2026.\n\n$NVDA",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-01",
+        "status": "posted",
+        "tweet": "Bitcoin's projected 2026 electricity consumption: 240 TWh annually.\n\nThis exceeds the total usage of \ud83c\uddf3\ud83c\uddf1 Netherlands (110 TWh) and equals roughly 0.6% of global electricity demand.",
+        "type": "crypto"
     }
 ]
