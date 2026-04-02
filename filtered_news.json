@@ -2446,5 +2446,13 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-02",
+        "status": "posted",
+        "tweet": "By 2026, the global smart cities market will exceed $1 trillion, driving 25% reductions in urban energy use through AI and IoT integration.",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
