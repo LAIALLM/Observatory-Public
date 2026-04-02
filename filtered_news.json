@@ -2461,5 +2461,12 @@
         "status": "posted",
         "tweet": "Microsoft Azure data centers processed 8 zettabytes annually in 2026, achieving 1.15 PUE efficiency.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-02",
+        "status": "posted",
+        "tweet": "Bitcoin's 2026 mining security costs: $15.2B in electricity for 145 TWh annual consumption.\n\nEthereum's PoS validation: $4.8B in staking rewards for network security.\n\nBitcoin's energy-driven model costs 3x more to maintain than Ethereum's efficient PoS.",
+        "type": "crypto"
     }
 ]
