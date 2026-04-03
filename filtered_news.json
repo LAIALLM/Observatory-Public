@@ -2164,5 +2164,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-03",
+        "status": "posted",
+        "tweet": "Top 5 megainfrastructure projects by projected investment value, 2026 and beyond\n\n1. \ud83c\uddf8\ud83c\udde6 NEOM, Saudi Arabia - $500B\n2. \ud83c\udde8\ud83c\uddf3 China-Pakistan Economic Corridor, China - $62B\n3. \ud83c\uddeb\ud83c\uddf7 Grand Paris Express, France - $40B\n4. \ud83c\uddfa\ud83c\uddf8 Hudson Tunnel Project, USA - $30B\n5. \ud83c\uddee\ud83c\uddf3 Mumbai-Ahmedabad HSR, Ind",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
