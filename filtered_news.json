@@ -2083,5 +2083,46 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWVc5WHNUaG5Ndm1kU3k1M05HcGFldjNZOWpSZU9ueGROUnJVTTBLODZXdm5EcGxyZDUtWk1rY0tHTWlXcmN2U0QxZFdCTTN5Sy1LdGJXdEUyVnV4SDd6V2h1c1B3cWVqMmNudndPRkF6dzZZWEd1UG1XTzN4OGVHeTEtTkc4REE3RkVrcU81c1BPM1pkQUl3cGhod25jeE4x?oc=5",
+        "date": "2026-04-03",
+        "title": "Table of Experts: Women in construction and design - The Business Journals",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNWVc5WHNUaG5Ndm1kU3k1M05HcGFldjNZOWpSZU9ueGROUnJVTTBLODZXdm5EcGxyZDUtWk1rY0tHTWlXcmN2U0QxZFdCTTN5Sy1LdGJXdEUyVnV4SDd6V2h1c1B3cWVqMmNudndPRkF6dzZZWEd1UG1XTzN4OGVHeTEtTkc4REE3RkVrcU81c1BPM1pkQUl3cGhod25jeE4x?oc=5\" target=\"_blank\">Table of Experts: Women in construction and design</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWFhfQ2tNSXRhc1ltNnEyQkhIQ2oyVks2WDNwTGpFV1hxVjVZSWsxaFd5SXdIN1I5WDB4WjR3SldTT3JzY1ZpX3NRUzZCN09kbV9FeXZ0SWlsX29MVy1TT2xsYkFxTFQ5ZDFoODhPYkltbUxxeGVudUc0ZTNjVHczc3BELTJiRUdYT1liVnV0dmJzRmd2SmFJWHFleXJadFZrUjlNTGhpSkFZaXp6azkxekUtSkFqMV80MlRDYlpVb0l5MFZUMDhqWVNB?oc=5",
+        "date": "2026-04-03",
+        "title": "Homewood proposes $14.1 million capital plan to address $106 million in infrastructure needs - HF Chronicle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPWFhfQ2tNSXRhc1ltNnEyQkhIQ2oyVks2WDNwTGpFV1hxVjVZSWsxaFd5SXdIN1I5WDB4WjR3SldTT3JzY1ZpX3NRUzZCN09kbV9FeXZ0SWlsX29MVy1TT2xsYkFxTFQ5ZDFoODhPYkltbUxxeGVudUc0ZTNjVHczc3BELTJiRUdYT1liVnV0dmJzRmd2SmFJWHFleXJadFZrUjlNTGhpSkFZaXp6azkxekUtSkFqMV80MlRDYlpVb0l5MFZUMDhqWVNB?oc=5\" target=\"_blank\">Homewood proposes $14.1 million capital plan to address $106 million in infrastructure needs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HF Chronicle</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWGNMZDZpQnBfdUdnaVlYckFXT2pOc0t3UlFCS1czWXZVdFFDcVpEN0pxQzcyWWJIbFFEMzNhbUk5YmdIYkdaaHdpZkoyczhHWkY3MmFBT09vTHdIODBNOUo0a1dDX3pTX3N0SUROQXZtTUFfcHlRQ08zUGNCMVo0VTFEUy1GNTZiYWtxUlhOZ0JjcmpKR1dId0RiSk5sTTJjbXlyR3V3WTE?oc=5",
+        "date": "2026-04-03",
+        "title": "World Bank approves Shs2 trillion for 10 cities - Daily Monitor",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWGNMZDZpQnBfdUdnaVlYckFXT2pOc0t3UlFCS1czWXZVdFFDcVpEN0pxQzcyWWJIbFFEMzNhbUk5YmdIYkdaaHdpZkoyczhHWkY3MmFBT09vTHdIODBNOUo0a1dDX3pTX3N0SUROQXZtTUFfcHlRQ08zUGNCMVo0VTFEUy1GNTZiYWtxUlhOZ0JjcmpKR1dId0RiSk5sTTJjbXlyR3V3WTE?oc=5\" target=\"_blank\">World Bank approves Shs2 trillion for 10 cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Monitor</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddec NEWS: World Bank approves Shs2 trillion for 10 cities"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWGNMZDZpQnBfdUdnaVlYckFXT2pOc0t3UlFCS1czWXZVdFFDcVpEN0pxQzcyWWJIbFFEMzNhbUk5YmdIYkdaaHdpZkoyczhHWkY3MmFBT09vTHdIODBNOUo0a1dDX3pTX3N0SUROQXZtTUFfcHlRQ08zUGNCMVo0VTFEUy1GNTZiYWtxUlhOZ0JjcmpKR1dId0RiSk5sTTJjbXlyR3V3WTE?oc=5",
+        "date": "2026-04-03",
+        "title": "World Bank approves Shs2 trillion for 10 cities - Daily Monitor",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWGNMZDZpQnBfdUdnaVlYckFXT2pOc0t3UlFCS1czWXZVdFFDcVpEN0pxQzcyWWJIbFFEMzNhbUk5YmdIYkdaaHdpZkoyczhHWkY3MmFBT09vTHdIODBNOUo0a1dDX3pTX3N0SUROQXZtTUFfcHlRQ08zUGNCMVo0VTFEUy1GNTZiYWtxUlhOZ0JjcmpKR1dId0RiSk5sTTJjbXlyR3V3WTE?oc=5\" target=\"_blank\">World Bank approves Shs2 trillion for 10 cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Monitor</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddec NEWS: World Bank approves Shs2 trillion for 10 cities",
+        "type": "news"
     }
 ]
