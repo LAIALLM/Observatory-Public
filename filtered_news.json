@@ -2431,5 +2431,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Idaho Gov. Little issues disaster declaration to aid flood-damaged infrastructure in North Idaho",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-03",
+        "status": "posted",
+        "tweet": "Microsoft Azure expanded its \ud83c\uddfa\ud83c\uddf8 Virginia data center to handle 3 exabytes of daily cloud storage, with 98% energy efficiency from renewables.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
