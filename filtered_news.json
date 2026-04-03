@@ -2179,5 +2179,75 @@
         "status": "posted",
         "tweet": "Annual hardware costs for major blockchains in 2026, driven by mining/validator gear.\n\n1. Bitcoin: $4.8B (ASIC miners)\n2. Ethereum: $1.9B (GPU/CPU validators)\n3. Solana: $720M (high-end servers)",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWEI2ZG5ieFo1MmhXWVZEZjVfeGdaa1lNdzQwaDdOWjdJV3ZVa3NneGJLUHA2d3VUNUFyRGQyYlJuTjJ4U2Vsb3MyREJVdTV1cnF4bTlsbVU5RWJueXpYeUNPU0g0dVVpX2UtbVBEZTNBNC1fc0FEc2h1Z3lxSnBYTXFGNEVPRUQ3SERiMktfQzFCNERsbFhIWjEyeU5tVTA5ejNoMjVyWEozVVQ4VGc?oc=5",
+        "date": "2026-04-03",
+        "title": "IDF launches wave of strikes on \u2018terror infrastructure\u2019 in Beirut - The Times of Israel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWEI2ZG5ieFo1MmhXWVZEZjVfeGdaa1lNdzQwaDdOWjdJV3ZVa3NneGJLUHA2d3VUNUFyRGQyYlJuTjJ4U2Vsb3MyREJVdTV1cnF4bTlsbVU5RWJueXpYeUNPU0g0dVVpX2UtbVBEZTNBNC1fc0FEc2h1Z3lxSnBYTXFGNEVPRUQ3SERiMktfQzFCNERsbFhIWjEyeU5tVTA5ejNoMjVyWEozVVQ4VGc?oc=5\" target=\"_blank\">IDF launches wave of strikes on \u2018terror infrastructure\u2019 in Beirut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of Israel</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOU85RjRpUEctTmFKaU1HLWJUdXFvcWlvTzlITU4zTFNGWDMyTkplblNGRFpLT3d5X05uVHYydnpnd2lsMTBnYi1pLVVsQ3JUS3VDQ3gtVUJhMXBnX3N2d0ZnNEc1U25JYmpXWnY4Sy1tWXVpak0ycE9hSXZRR0JiMzVJdG9HWHhPamZRb1BxNXRxMVZKUzIyMktkNElLSzU5bndzRG5xVmhrQld4UmN1WVFsMHZYR2pL?oc=5",
+        "date": "2026-04-03",
+        "title": "Trump vows to hit more Iranian infrastructure as nations seek to open Hormuz - CNA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOU85RjRpUEctTmFKaU1HLWJUdXFvcWlvTzlITU4zTFNGWDMyTkplblNGRFpLT3d5X05uVHYydnpnd2lsMTBnYi1pLVVsQ3JUS3VDQ3gtVUJhMXBnX3N2d0ZnNEc1U25JYmpXWnY4Sy1tWXVpak0ycE9hSXZRR0JiMzVJdG9HWHhPamZRb1BxNXRxMVZKUzIyMktkNElLSzU5bndzRG5xVmhrQld4UmN1WVFsMHZYR2pL?oc=5\" target=\"_blank\">Trump vows to hit more Iranian infrastructure as nations seek to open Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNA</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNVNlMG1XUF9PTG40MllMeFN6a0p6cWVwRzh2RndOYWFNalY5dmlNODl6WGFKM0NCQm0ydnhwY1g4UXVKLUpwMFN3N0tuYjF3OHFYWW5sVXFmc056aFowUUdJcDZ3ZmJXSDBHVW5INlJpbGZWYUg5cXN6Q0ZQN0FTdTZUQnRJOW5zOFdzaENyWkZRQzZsanJmOC1STXVvaWtRWWZfaXRIdjVZdzllLU5VLW1PVWxfX3JvMnBUZl9PMGdIYmU3?oc=5",
+        "date": "2026-04-03",
+        "title": "Trump Warns of \u201cMuch More to Follow\u201d as U.S. Bombs Civilian Infrastructure in Iran - Democracy Now!",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNNVNlMG1XUF9PTG40MllMeFN6a0p6cWVwRzh2RndOYWFNalY5dmlNODl6WGFKM0NCQm0ydnhwY1g4UXVKLUpwMFN3N0tuYjF3OHFYWW5sVXFmc056aFowUUdJcDZ3ZmJXSDBHVW5INlJpbGZWYUg5cXN6Q0ZQN0FTdTZUQnRJOW5zOFdzaENyWkZRQzZsanJmOC1STXVvaWtRWWZfaXRIdjVZdzllLU5VLW1PVWxfX3JvMnBUZl9PMGdIYmU3?oc=5\" target=\"_blank\">Trump Warns of \u201cMuch More to Follow\u201d as U.S. Bombs Civilian Infrastructure in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Democracy Now!</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdVNjREZYbUl4S2RSaGNKSjI5d2hyWmJ2TllRbGs5VnVEQXRjQ08zWVJpVmcwU0JfN2tBTzRrQUk5N3VYV204XzNrdEZ0TWZCUDUtb016RXZyWkRERE1qSFpDV013c1BTVG5BbVZ3NnBubUlFNUVkWkZxOHRVdTFueEJreFZseENrZ1R5ZHh3bE56Y1g0aFg0cFplYmpOTlR0d1HSAdoBQVVfeXFMTnUydU1BZmJXZUtVNldwYzFZZFVQdDdQTEJGTEtFUjV0WHhHeVh0UXh6NmttWkViTlRYYlV2a2lhUkFtSHBxVmhDOTcwd1FyeDZSdFpQOW1OWmRNd0hMZUFWRDc1NGJFT0FuaHpDNXFmWlgzQWdVWnROTFI5MGVYQU12MmZndkx5UWxuRG5KQjZJZHJIbUNNTTE3dlYtdGFyVXB2QWk0UWNUSnc2OUViU0xKS2RMamlpand1NExZS2FoeW1YYkh4c3hKaXhFMWJfTnJ4RHk0bHRPOXc?oc=5",
+        "date": "2026-04-03",
+        "title": "DigitalOcean Acquires Katanemo Labs To Expand Agentic AI Infrastructure Platform - Pulse 2.0",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdVNjREZYbUl4S2RSaGNKSjI5d2hyWmJ2TllRbGs5VnVEQXRjQ08zWVJpVmcwU0JfN2tBTzRrQUk5N3VYV204XzNrdEZ0TWZCUDUtb016RXZyWkRERE1qSFpDV013c1BTVG5BbVZ3NnBubUlFNUVkWkZxOHRVdTFueEJreFZseENrZ1R5ZHh3bE56Y1g0aFg0cFplYmpOTlR0d1HSAdoBQVVfeXFMTnUydU1BZmJXZUtVNldwYzFZZFVQdDdQTEJGTEtFUjV0WHhHeVh0UXh6NmttWkViTlRYYlV2a2lhUkFtSHBxVmhDOTcwd1FyeDZSdFpQOW1OWmRNd0hMZUFWRDc1NGJFT0FuaHpDNXFmWlgzQWdVWnROTFI5MGVYQU12MmZndkx5UWxuRG5KQjZJZHJIbUNNTTE3dlYtdGFyVXB2QWk0UWNUSnc2OUViU0xKS2RMamlpand1NExZS2FoeW1YYkh4c3hKaXhFMWJfTnJ4RHk0bHRPOXc?oc=5\" target=\"_blank\">DigitalOcean Acquires Katanemo Labs To Expand Agentic AI Infrastructure Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHlnTklCSFBwRVBJcDJmdmJNWXNVZE5pMEk0ZGVvVTdqb3RWYzhmYUFVdTE5NG1XV2hqa25wVlIyMnR4eVJpa2ZkQjZSTVB6Q182WlBjSUw5OWw3OTlmaXJqV2pUVHhVYXkxSlFRdGMxaU42akdmOC1odW1OQnl2OUV0WUZIRE5LYmV6QUVuMWpZWjFlWTNCNFNmTUgtZFE4aUtndXA4SEQwMEpuTGVRSUYxNkhTNzJnR1dLcnpRcjg5Q1JTUmkwSDZR0gGCAkFVX3lxTE5zR1RmYmx0dG1LUXF6N1FZbzRNWW5nSXEwc2xiMDlkdHhPQWlhWlVzQmRHbHJTUjVPc0F1SnBwMnYxZlhHcE10ZldId0EzM2Y1UHlPNUZVOEh6N09qNS10V3ZUNFdwY2ZwZm1ISnB1ZXJPTGlDeTZPblI2d1VzV1hlTDhCZVZmQkYza3U3V0JVcTlLdktTZlNKWUE3NUdJdERYcVpHbmpXOUZGRG93NzRsTUswSWZzdUFTYWUycWFFY0RPak52VncwclJoeUtTaDYtMVRRQnZMNGdUaUtuZ1JqTGNybTVnMWJfRGctQXIzbjR6RmgtYm5BMUNlbGpxenR0QQ?oc=5",
+        "date": "2026-04-03",
+        "title": "Soluna Holdings: $53 Million Wind Farm Acquisition Advances Vertical Integration And AI Infrastructure Expansion - Pulse 2.0",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHlnTklCSFBwRVBJcDJmdmJNWXNVZE5pMEk0ZGVvVTdqb3RWYzhmYUFVdTE5NG1XV2hqa25wVlIyMnR4eVJpa2ZkQjZSTVB6Q182WlBjSUw5OWw3OTlmaXJqV2pUVHhVYXkxSlFRdGMxaU42akdmOC1odW1OQnl2OUV0WUZIRE5LYmV6QUVuMWpZWjFlWTNCNFNmTUgtZFE4aUtndXA4SEQwMEpuTGVRSUYxNkhTNzJnR1dLcnpRcjg5Q1JTUmkwSDZR0gGCAkFVX3lxTE5zR1RmYmx0dG1LUXF6N1FZbzRNWW5nSXEwc2xiMDlkdHhPQWlhWlVzQmRHbHJTUjVPc0F1SnBwMnYxZlhHcE10ZldId0EzM2Y1UHlPNUZVOEh6N09qNS10V3ZUNFdwY2ZwZm1ISnB1ZXJPTGlDeTZPblI2d1VzV1hlTDhCZVZmQkYza3U3V0JVcTlLdktTZlNKWUE3NUdJdERYcVpHbmpXOUZGRG93NzRsTUswSWZzdUFTYWUycWFFY0RPak52VncwclJoeUtTaDYtMVRRQnZMNGdUaUtuZ1JqTGNybTVnMWJfRGctQXIzbjR6RmgtYm5BMUNlbGpxenR0QQ?oc=5\" target=\"_blank\">Soluna Holdings: $53 Million Wind Farm Acquisition Advances Vertical Integration And AI Infrastructure Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajUwamZwbVRYNXJhb1lCZW1YOVRlRGxPZzlKTHZ6U25LSUNsamtDQnJna1puOTBGb3dqSUIxVlN2VF96M1UzY25XelFLcjdnbW5zRDdUZ25WNFJVTnp0YUlkOXhUd1Vram9WNG5VMzJmRzFmSktnUXBQQkowLTJxZmV4eEdXSC1EcVBlcHZHdGw4VnBNR29iQlpfVExib29CSFhUc201VW4ycGlrcldjcmxIY3o3QjU20gG-AUFVX3lxTE8zWGpQbFkzeDlkajhPYzk3Nl9oaHRyN3FUTkxRT1pDaEdMa0diVEtiMTdveVhlUWJYVmljQ2o5WTVtcE9BU0JrVk1nNWNKN0RJNDBySWoya1diTHBMS1kzcDFEVTZXNVNqb0J2Ylh5ZUFfZzdWRDRzYktMb3BXMzVHOUpzRm51U3JING0tZi1sUjhsQzhDbkFrRkVteHBRenZfWFNHYVBKcnJnWHlwLUV6Q1o2WVpiWXhLUTYwZUE?oc=5",
+        "date": "2026-04-03",
+        "title": "US-Iran War: US Military Begins Targeting Civilian Infrastructure in Iran - WION",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajUwamZwbVRYNXJhb1lCZW1YOVRlRGxPZzlKTHZ6U25LSUNsamtDQnJna1puOTBGb3dqSUIxVlN2VF96M1UzY25XelFLcjdnbW5zRDdUZ25WNFJVTnp0YUlkOXhUd1Vram9WNG5VMzJmRzFmSktnUXBQQkowLTJxZmV4eEdXSC1EcVBlcHZHdGw4VnBNR29iQlpfVExib29CSFhUc201VW4ycGlrcldjcmxIY3o3QjU20gG-AUFVX3lxTE8zWGpQbFkzeDlkajhPYzk3Nl9oaHRyN3FUTkxRT1pDaEdMa0diVEtiMTdveVhlUWJYVmljQ2o5WTVtcE9BU0JrVk1nNWNKN0RJNDBySWoya1diTHBMS1kzcDFEVTZXNVNqb0J2Ylh5ZUFfZzdWRDRzYktMb3BXMzVHOUpzRm51U3JING0tZi1sUjhsQzhDbkFrRkVteHBRenZfWFNHYVBKcnJnWHlwLUV6Q1o2WVpiWXhLUTYwZUE?oc=5\" target=\"_blank\">US-Iran War: US Military Begins Targeting Civilian Infrastructure in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WION</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.smartcitiesdive.com/news/ftc-seeks-public-input-junk-fee-rule-rental-housing/816570/",
+        "date": "2026-04-03",
+        "title": "FTC seeks public input on junk fee rule for rental housing",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Oh_AWN-gqOowzcr4cBaidwMpf5szoG4xtvSZel6Xti8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GVENfMi5qcGc=.webp\" /></div></figure><p>The agency is continuing to crack down on unfair or deceptive advertising in the rental housing industry.</p>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
