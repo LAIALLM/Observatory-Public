@@ -2389,5 +2389,15 @@
         "status": "posted",
         "tweet": "Alphabet $GOOGL data centers in \ud83c\uddfa\ud83c\uddf8 consumed 18 TWh of renewable energy in 2026, supporting 2.5 billion daily user queries.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN0hVb2w0Q0FUNzR2TTB2TTNJc3YxX0JxVUFnd1JKcVlEY1lyR3U2RWhCTjluU3lDcV9WXzdnLXMtelFWME55NUE3ZEFIREpKRGFTUXVVRkJqN1hXZzZ2cnRMZjRXM2xVMm10VkQ3RXVYdFR6UG0waVFYUk1Dc2JlTWNPT3BSakZpemt1b2lFUzFLS0hiYTRnY0RQdGVmWWM2MXZIRnR5RXl2TWxWMTE5SkdPWXgtbWQ0cG1QTkFpZ1YyVUtrdUwtMzJnUdIBywFBVV95cUxQaE5kNEpQbnZSelNsUXUzbE40LXhadXRlczY1YkJIQWdhT0FlSnpfQnU3d0VjdkVGbDVzQ2hCUkNWeFd0VE40WXQ3YTVqXzZFNUtycTJhUVk2aXA3MnhlcjdNM053OGxFT3dwXzl3eDMzOXpITVRiQ2UzR2o5TjZaSWRtWXd2R0JaZW9aLUR6TVVIUGVHRjVYOU9HUU9ULWpzTFh5ZmYxc3YzTUJCSHJTMm1ERm9od1BEMjdVaDEyaHpxU0tRT3FEMEx4RQ?oc=5",
+        "date": "2026-04-04",
+        "title": "Chinese surveillance rolled out in Africa: ZTE, Hikvision, Huawei at the helm - South China Morning Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQN0hVb2w0Q0FUNzR2TTB2TTNJc3YxX0JxVUFnd1JKcVlEY1lyR3U2RWhCTjluU3lDcV9WXzdnLXMtelFWME55NUE3ZEFIREpKRGFTUXVVRkJqN1hXZzZ2cnRMZjRXM2xVMm10VkQ3RXVYdFR6UG0waVFYUk1Dc2JlTWNPT3BSakZpemt1b2lFUzFLS0hiYTRnY0RQdGVmWWM2MXZIRnR5RXl2TWxWMTE5SkdPWXgtbWQ0cG1QTkFpZ1YyVUtrdUwtMzJnUdIBywFBVV95cUxQaE5kNEpQbnZSelNsUXUzbE40LXhadXRlczY1YkJIQWdhT0FlSnpfQnU3d0VjdkVGbDVzQ2hCUkNWeFd0VE40WXQ3YTVqXzZFNUtycTJhUVk2aXA3MnhlcjdNM053OGxFT3dwXzl3eDMzOXpITVRiQ2UzR2o5TjZaSWRtWXd2R0JaZW9aLUR6TVVIUGVHRjVYOU9HUU9ULWpzTFh5ZmYxc3YzTUJCSHJTMm1ERm9od1BEMjdVaDEyaHpxU0tRT3FEMEx4RQ?oc=5\" target=\"_blank\">Chinese surveillance rolled out in Africa: ZTE, Hikvision, Huawei at the helm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
