@@ -2477,5 +2477,46 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Delhi\u2019s new slum policy expands access to rehabilitation, adds amenities like water and sanitation, and redefines urban living for residents.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbXBwdlJjWTQzWEFRaFBwR1kwRDFnZUMzbUZsbzN3bVU1cGhyS2ZldVVtUnJzN3ZMS252UkIxNERCUm9OR3lxeHdEQUhsMlpFUXBSNlp3aFlCWWQtR0F0UkpsTURNN04tZTVFZjlhT09sUzl1UE16VG83OWI?oc=5",
+        "date": "2026-04-04",
+        "title": "Iranian commander vows \"devastating, continuous\" retaliations if U.S., Israel target infrastructure - Xinhua",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9TbXBwdlJjWTQzWEFRaFBwR1kwRDFnZUMzbUZsbzN3bVU1cGhyS2ZldVVtUnJzN3ZMS252UkIxNERCUm9OR3lxeHdEQUhsMlpFUXBSNlp3aFlCWWQtR0F0UkpsTURNN04tZTVFZjlhT09sUzl1UE16VG83OWI?oc=5\" target=\"_blank\">Iranian commander vows \"devastating, continuous\" retaliations if U.S., Israel target infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Xinhua</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmR1QnBsYm1GSUFUdGhJaGFFVlZLdEViWlJhM2ZLMmdrVHVvZVV4Yk1relFzYjZNWGZJYUVVcEdYQ2llWHBrYlFnUC1FNlFySVNyM2k5R0RRUnRDRkJ2M044bG5ZZlE5cHFCV0l6dW50NWw1cGdLbjg1WVpuYWRuclRMZXd3M3lpeHlrVTJ3QUdiZmM?oc=5",
+        "date": "2026-04-04",
+        "title": "Intensifying Competition Among AI Infrastructure Giants - intellectia.ai",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmR1QnBsYm1GSUFUdGhJaGFFVlZLdEViWlJhM2ZLMmdrVHVvZVV4Yk1relFzYjZNWGZJYUVVcEdYQ2llWHBrYlFnUC1FNlFySVNyM2k5R0RRUnRDRkJ2M044bG5ZZlE5cHFCV0l6dW50NWw1cGdLbjg1WVpuYWRuclRMZXd3M3lpeHlrVTJ3QUdiZmM?oc=5\" target=\"_blank\">Intensifying Competition Among AI Infrastructure Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intellectia.ai</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbGJWcDBSazdzSGY2VU84T0QwcGpkb3pCQWY4SzYxLTZPT29LaVJKVm9hRVdVNXhZeFBiWXVjSUk1RGkweFo3YldBSno4YlRBMUF1N2ZuNklrUm9xYVBoNUhYajhzSkdQR2xDanVLcjY3ZF9EMzdHYm5nRmwwRk5qRzFWOUgtcFFDZ0k5bnNBcHItT0ZVQU5vME1rYTNCbmtQMkxMTVB3OA?oc=5",
+        "date": "2026-04-04",
+        "title": "Ahmedabad-Dholera Expressway Inaugurated, Cutting Travel Time and Boosting Gujarat\u2019s Smart City Development - indianmasterminds.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPbGJWcDBSazdzSGY2VU84T0QwcGpkb3pCQWY4SzYxLTZPT29LaVJKVm9hRVdVNXhZeFBiWXVjSUk1RGkweFo3YldBSno4YlRBMUF1N2ZuNklrUm9xYVBoNUhYajhzSkdQR2xDanVLcjY3ZF9EMzdHYm5nRmwwRk5qRzFWOUgtcFFDZ0k5bnNBcHItT0ZVQU5vME1rYTNCbmtQMkxMTVB3OA?oc=5\" target=\"_blank\">Ahmedabad-Dholera Expressway Inaugurated, Cutting Travel Time and Boosting Gujarat\u2019s Smart City Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">indianmasterminds.com</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Ahmedabad-Dholera Expressway inaugurated, cutting travel time in half and accelerating Gujarats smart city growth."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbGJWcDBSazdzSGY2VU84T0QwcGpkb3pCQWY4SzYxLTZPT29LaVJKVm9hRVdVNXhZeFBiWXVjSUk1RGkweFo3YldBSno4YlRBMUF1N2ZuNklrUm9xYVBoNUhYajhzSkdQR2xDanVLcjY3ZF9EMzdHYm5nRmwwRk5qRzFWOUgtcFFDZ0k5bnNBcHItT0ZVQU5vME1rYTNCbmtQMkxMTVB3OA?oc=5",
+        "date": "2026-04-04",
+        "title": "Ahmedabad-Dholera Expressway Inaugurated, Cutting Travel Time and Boosting Gujarat\u2019s Smart City Development - indianmasterminds.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPbGJWcDBSazdzSGY2VU84T0QwcGpkb3pCQWY4SzYxLTZPT29LaVJKVm9hRVdVNXhZeFBiWXVjSUk1RGkweFo3YldBSno4YlRBMUF1N2ZuNklrUm9xYVBoNUhYajhzSkdQR2xDanVLcjY3ZF9EMzdHYm5nRmwwRk5qRzFWOUgtcFFDZ0k5bnNBcHItT0ZVQU5vME1rYTNCbmtQMkxMTVB3OA?oc=5\" target=\"_blank\">Ahmedabad-Dholera Expressway Inaugurated, Cutting Travel Time and Boosting Gujarat\u2019s Smart City Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">indianmasterminds.com</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Ahmedabad-Dholera Expressway inaugurated, slashing travel time between cities and accelerating Gujarats smart city growth.",
+        "type": "news"
     }
 ]
