@@ -2399,5 +2399,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-04",
+        "status": "posted",
+        "tweet": "Bitcoin's 2026 carbon footprint: 60 million metric tons of CO2e.\n\nEquivalent to \ud83c\uddec\ud83c\uddf7 Greece's annual emissions.",
+        "type": "crypto"
     }
 ]
