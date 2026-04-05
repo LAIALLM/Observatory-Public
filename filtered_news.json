@@ -2229,5 +2229,12 @@
         "status": "posted",
         "tweet": "Microsoft Azure infrastructure hit 20 exabytes daily data processing in 2026, up 25% from 2025.\n\nGlobal footprint includes new \ud83c\uddf8\ud83c\uddec Singapore hub for APAC latency under 50ms.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-05",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 dominates Bitcoin mining with 45% of global hash rate in 2026, up 10% from 2024.\n\nThis concentration drives $6B in annual U.S. energy costs for mining infrastructure, equivalent to powering 500,000 homes.",
+        "type": "crypto"
     }
 ]
