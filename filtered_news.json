@@ -2202,5 +2202,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Ahmedabad-Dholera Expressway inaugurated, slashing travel time between cities and accelerating Gujarats smart city growth.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM3Y1d1NKaXZRNTZnd0tObnN5TmpCYTZBOHFmTW5RUzBSWmlSNDZBd1RUN01wWk9uSjNQWVpVdVY4M1BjN0VrN195UEVvdnF6bVFOUUVDZktVY3hLWlo1REhhQW1EY2ZuandjNmJHSDljRkNUWHNVUTBfLWhhSVBtQ2NKeHlxRVZzMF9UeHhkNDdncld6c2tnUVNtTkg0WFNEMnEtMzZWSEhEVFBiZ2NFZGgybmliOVlrZ3FB?oc=5",
+        "date": "2026-04-05",
+        "title": "Construction & Infrastructure Updates: AI, Drones, Sustainability & Policy - News and Statistics - IndexBox",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM3Y1d1NKaXZRNTZnd0tObnN5TmpCYTZBOHFmTW5RUzBSWmlSNDZBd1RUN01wWk9uSjNQWVpVdVY4M1BjN0VrN195UEVvdnF6bVFOUUVDZktVY3hLWlo1REhhQW1EY2ZuandjNmJHSDljRkNUWHNVUTBfLWhhSVBtQ2NKeHlxRVZzMF9UeHhkNDdncld6c2tnUVNtTkg0WFNEMnEtMzZWSEhEVFBiZ2NFZGgybmliOVlrZ3FB?oc=5\" target=\"_blank\">Construction & Infrastructure Updates: AI, Drones, Sustainability & Policy - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KdmpJZVQ0NTR5QktDMWh0Y2xscF95WE5GSDNDTUZLbHFyZnRXNFlyLU1IWWlOU1R3VkN6NTRRbUZlSEllZExlbEZVWHVmcXlHMXg2TFR4VUxZdXZReUktS21oMGRtQQ?oc=5",
+        "date": "2026-04-05",
+        "title": "Israel prepares strikes on Iran energy infrastructure, awaits US approval - mezha.net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KdmpJZVQ0NTR5QktDMWh0Y2xscF95WE5GSDNDTUZLbHFyZnRXNFlyLU1IWWlOU1R3VkN6NTRRbUZlSEllZExlbEZVWHVmcXlHMXg2TFR4VUxZdXZReUktS21oMGRtQQ?oc=5\" target=\"_blank\">Israel prepares strikes on Iran energy infrastructure, awaits US approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mezha.net</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
