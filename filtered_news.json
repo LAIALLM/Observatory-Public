@@ -2900,5 +2900,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf5\ud83c\uddf0 NEWS: Islamabad Safe City to be upgraded to Capital Smart City",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-06",
+        "status": "posted",
+        "tweet": "Bitcoin node distribution (2026): 35% \ud83c\uddfa\ud83c\uddf8, 13% \ud83c\udde9\ud83c\uddea, 6% \ud83c\uddeb\ud83c\uddf7, 5% \ud83c\uddf3\ud83c\uddf1\u2014spans 100+ countries, total annual infra cost ~$88M for 22,000 nodes.\n\nEthereum: 43% \ud83c\uddfa\ud83c\uddf8, 8% \ud83c\udde9\ud83c\uddea, 6% \ud83c\uddec\ud83c\udde7\u201480% in top 5 nations, ~$42M for 14,000 nodes.\n\nBTC's spread raises resilience costs 110%.",
+        "type": "crypto"
     }
 ]
