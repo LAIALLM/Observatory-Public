@@ -3283,5 +3283,13 @@
         "status": "posted",
         "tweet": "Bitcoin mining electricity costs:\n\n2010: $10M annually\n\n2020: $3B\n\n2025: $7.5B projected\n\nExpenditure rose 750x in 15 years amid hashrate growth from 1 EH/s to 500 EH/s.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-04-07",
+        "status": "posted",
+        "tweet": "Top 5 cities by projected infrastructure investment in 2026 (USD billions)\n\n\ud83c\uddf8\ud83c\udde6 NEOM, Saudi Arabia - 100 (NEOM megacity phase)\n\n\ud83c\udde8\ud83c\uddf3 Shanghai, China - 85 (Yangtze Delta rail hub)\n\n\ud83c\uddee\ud83c\uddf3 Mumbai, India - 60 (coastal road & metro expansion)\n\n\ud83c\uddfa\ud83c\uddf8 New York, USA - 50 (Gateway tunnel rebuild)\n",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
