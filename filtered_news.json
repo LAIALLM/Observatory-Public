@@ -3276,5 +3276,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf2\ud83c\uddfd NEWS: Sheinbaum pledges 350 billion pesos for school construction by 2030",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-07",
+        "status": "posted",
+        "tweet": "Bitcoin mining electricity costs:\n\n2010: $10M annually\n\n2020: $3B\n\n2025: $7.5B projected\n\nExpenditure rose 750x in 15 years amid hashrate growth from 1 EH/s to 500 EH/s.",
+        "type": "crypto"
     }
 ]
