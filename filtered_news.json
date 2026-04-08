@@ -3442,5 +3442,165 @@
         "tweet": "In 2026, global urban population hits 5.2 billion, up 7% from 2023's 4.85 billion\u2014equivalent to adding \ud83c\uddfa\ud83c\uddf8 Los Angeles' size every 10 days to cities worldwide.",
         "type": "statistical",
         "category": "urban development"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmFGTHY2blk5Z094Q3VRVDFIekN6MkdpZG9mVGlRSzdIWC1kSGZaLV9OVUhXN2V5Zk5GTk51NXdiVFA0RkdweUdzVkZveDRvTXJDdkx0SF81U3FlVkt5NXJsUFJWZEo5N3FXSm9MM0xOb1RJZkVKQXg2RWpnVDVtZXZwMUlZcjQySzRZWEU4eG1rTGZxUzU2eUdtNWRxQQ?oc=5",
+        "date": "2026-04-08",
+        "title": "Startups are everywhere in construction. Builders want them to meet the moment. - Construction Dive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTmFGTHY2blk5Z094Q3VRVDFIekN6MkdpZG9mVGlRSzdIWC1kSGZaLV9OVUhXN2V5Zk5GTk51NXdiVFA0RkdweUdzVkZveDRvTXJDdkx0SF81U3FlVkt5NXJsUFJWZEo5N3FXSm9MM0xOb1RJZkVKQXg2RWpnVDVtZXZwMUlZcjQySzRZWEU4eG1rTGZxUzU2eUdtNWRxQQ?oc=5\" target=\"_blank\">Startups are everywhere in construction. Builders want them to meet the moment.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Dive</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNDRhdFBvVDJqUGI2Nlo2em90MjFCZmxQQ2xSelpMZDAzN1B6aG1XNEZNazRyY25lWlYzTG1kTFhDbmgtN3BfYVBKNFktUVg1YkZWS2tOS3JzR0VlLUVQM2FmdmxOSWlmRWFSZVByQk1rR3F0dzFYbjNfT1lYaGJmc2trV18?oc=5",
+        "date": "2026-04-08",
+        "title": "Top 10: Construction Technology Companies - Construction Digital",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNNDRhdFBvVDJqUGI2Nlo2em90MjFCZmxQQ2xSelpMZDAzN1B6aG1XNEZNazRyY25lWlYzTG1kTFhDbmgtN3BfYVBKNFktUVg1YkZWS2tOS3JzR0VlLUVQM2FmdmxOSWlmRWFSZVByQk1rR3F0dzFYbjNfT1lYaGJmc2trV18?oc=5\" target=\"_blank\">Top 10: Construction Technology Companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Digital</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNTEdZUmg5S3ZYc3ZKWUNfNDhCRDVYY2FyTUpZYm5aRUZrY1B0blhGWEdoZnl2UzlaTkRSZHlsaDhIcllsMlpTZXVWaXB1cklhUEhXWXZkWjhOSjdfMV92VUd1cGRWSHc1Vk5ZdFQyMU9VQlEtbHRvZC1GMDIyZXlqRnlSXzBXamR3RXhhQTFHdGtYbHJqdVhpT2JzVHBFSDk5MTdCY29rc3p3UEY2UFBZRWlPazYtMjlicHpUbWo4UFVHM3JkZ2pxQUZSbmNmclhTWHVWX2NFdU9NbThoRF9QdVptREFHTWdGbjVYY24tVHFqZW1LNkNuRXM5VmFwOU8yTk0zZS1yRGhXOHJFb0plLXpIZzc?oc=5",
+        "date": "2026-04-08",
+        "title": "Industry Report Finds AI Adoption Accelerating Across Commercial Construction - For Construction Pros",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNTEdZUmg5S3ZYc3ZKWUNfNDhCRDVYY2FyTUpZYm5aRUZrY1B0blhGWEdoZnl2UzlaTkRSZHlsaDhIcllsMlpTZXVWaXB1cklhUEhXWXZkWjhOSjdfMV92VUd1cGRWSHc1Vk5ZdFQyMU9VQlEtbHRvZC1GMDIyZXlqRnlSXzBXamR3RXhhQTFHdGtYbHJqdVhpT2JzVHBFSDk5MTdCY29rc3p3UEY2UFBZRWlPazYtMjlicHpUbWo4UFVHM3JkZ2pxQUZSbmNmclhTWHVWX2NFdU9NbThoRF9QdVptREFHTWdGbjVYY24tVHFqZW1LNkNuRXM5VmFwOU8yTk0zZS1yRGhXOHJFb0plLXpIZzc?oc=5\" target=\"_blank\">Industry Report Finds AI Adoption Accelerating Across Commercial Construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">For Construction Pros</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQTR4U1h0VGZjbTFKZmI2OFdmMkZuMDdoVE1kMUV6bTlhOTBieDhtQW9ydWlObVY5blM5N28wWllsb1N0enkwanNDMzd2SWRTYm9oWl9sWnVKX284dGptcy02ci1lYlkyakVENjBadENPbTQxWVRlczhib1poTkhCOVpvOXB1djJPZnFreFIxWTVkcEtYUDQ5MkF0cw?oc=5",
+        "date": "2026-04-08",
+        "title": "Lowe\u2019s is spending $250 million to train blue collar workers - Fast Company",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNQTR4U1h0VGZjbTFKZmI2OFdmMkZuMDdoVE1kMUV6bTlhOTBieDhtQW9ydWlObVY5blM5N28wWllsb1N0enkwanNDMzd2SWRTYm9oWl9sWnVKX284dGptcy02ci1lYlkyakVENjBadENPbTQxWVRlczhib1poTkhCOVpvOXB1djJPZnFreFIxWTVkcEtYUDQ5MkF0cw?oc=5\" target=\"_blank\">Lowe\u2019s is spending $250 million to train blue collar workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdExxNlI1a0xBbXZqd0tmV0gzR3g1M3V2YXN5QlVDdHVwTXg3N3pjRFZzVzh2eUI1OXFCQTZFQVQ5ZTJWM0xQM3RpNzVRZjQzSWt0OC1FSmNac1RuVGRHRm95NjN6T1RQVUtKS2ZEenp0bTlCNmVfc2g3WnRGSVlySGtuZWs?oc=5",
+        "date": "2026-04-08",
+        "title": "Edge A.I. Infrastructure and the Limits of Hyperscale Thinking - observer.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdExxNlI1a0xBbXZqd0tmV0gzR3g1M3V2YXN5QlVDdHVwTXg3N3pjRFZzVzh2eUI1OXFCQTZFQVQ5ZTJWM0xQM3RpNzVRZjQzSWt0OC1FSmNac1RuVGRHRm95NjN6T1RQVUtKS2ZEenp0bTlCNmVfc2g3WnRGSVlySGtuZWs?oc=5\" target=\"_blank\">Edge A.I. Infrastructure and the Limits of Hyperscale Thinking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">observer.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTNfRG83Z08wdzJBLU5kUmJxcFpkZTByMmRibmx0U3VuZ3psMkMxRTBnWElZQnFob1U1bG1tcWlPNk1uVDNldGE3bVZpMXhwQVE5QTIwZmlnZ3l4ZElnanFuQ25aNkxhZXpNcEFsVnBlM0pETUxpU1BRTUtrVy15bzlWdk1vd21Qd0hTbmdRYVlSWmJORFJCR21MNDVJZnY4N0gzNm1wNA?oc=5",
+        "date": "2026-04-08",
+        "title": "Clearing Infrastructure Firm Lorum Seeks Trust Bank Charter - PYMNTS.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTNfRG83Z08wdzJBLU5kUmJxcFpkZTByMmRibmx0U3VuZ3psMkMxRTBnWElZQnFob1U1bG1tcWlPNk1uVDNldGE3bVZpMXhwQVE5QTIwZmlnZ3l4ZElnanFuQ25aNkxhZXpNcEFsVnBlM0pETUxpU1BRTUtrVy15bzlWdk1vd21Qd0hTbmdRYVlSWmJORFJCR21MNDVJZnY4N0gzNm1wNA?oc=5\" target=\"_blank\">Clearing Infrastructure Firm Lorum Seeks Trust Bank Charter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFhJcDQxd09tb1JIZFd3cHoydGU1aEdFa0NLT0R6Nnp3cUhOdzV4TUozQlpuZmlRZXZmMGQ0a2ZSVHJqaHlQSWlIRlB6dHRFLWx6QzNsMFo1aTEyTDV2TGo5YkdZRzhlWWlreHZWN0trdzZYTnZTN2VSQi1ZT1NrRG12dU4ydFo2?oc=5",
+        "date": "2026-04-08",
+        "title": "Hidalgo invests more than US$179 million in infrastructure - MEXICONOW",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFhJcDQxd09tb1JIZFd3cHoydGU1aEdFa0NLT0R6Nnp3cUhOdzV4TUozQlpuZmlRZXZmMGQ0a2ZSVHJqaHlQSWlIRlB6dHRFLWx6QzNsMFo1aTEyTDV2TGo5YkdZRzhlWWlreHZWN0trdzZYTnZTN2VSQi1ZT1NrRG12dU4ydFo2?oc=5\" target=\"_blank\">Hidalgo invests more than US$179 million in infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXICONOW</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkk3REhjck4xT01zZi1LWkhhVHYzTkhpTWdFT2dFMVEtUmdkYS1xSjZmc1pyTl9jR0o3M3ZFVGNRYzZqRkRKLWhOS3dKWVdLSGdVWnUxM3VtamM2a0twNXZxbm11UVRWNl8ybVRsbHp4cW5pajI5ODZqaFRIUlZFbnphVVd0aFFSYU4ycXY2WjRFNHBuQXd2dQ?oc=5",
+        "date": "2026-04-08",
+        "title": "Aon expands digital infrastructure team amid rising data center demand - Coverager",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkk3REhjck4xT01zZi1LWkhhVHYzTkhpTWdFT2dFMVEtUmdkYS1xSjZmc1pyTl9jR0o3M3ZFVGNRYzZqRkRKLWhOS3dKWVdLSGdVWnUxM3VtamM2a0twNXZxbm11UVRWNl8ybVRsbHp4cW5pajI5ODZqaFRIUlZFbnphVVd0aFFSYU4ycXY2WjRFNHBuQXd2dQ?oc=5\" target=\"_blank\">Aon expands digital infrastructure team amid rising data center demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coverager</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3p4YUN3MXZVUllieWVnNW1BZnh1R01NNldYSklTTWlBN2d0VGZjTW5EN0t5VVc5Vm4tcm8yQmlJYjctc1VhZnUxOVpvM3hyTWQxR1VpVm5GSExVeVV2RjRMbUUydGp2dDFNRm5NV3pEa2dVbENIdjJSR1hhc0dEZzFpQmFHWVExbVdGZEk4WVNkRnpkUkdDaGVBX3hIRzBMSjNZdDhiTWFzX3hC?oc=5",
+        "date": "2026-04-08",
+        "title": "Research Warrant and the New Infrastructure of Entertainment Attention - Variety",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3p4YUN3MXZVUllieWVnNW1BZnh1R01NNldYSklTTWlBN2d0VGZjTW5EN0t5VVc5Vm4tcm8yQmlJYjctc1VhZnUxOVpvM3hyTWQxR1VpVm5GSExVeVV2RjRMbUUydGp2dDFNRm5NV3pEa2dVbENIdjJSR1hhc0dEZzFpQmFHWVExbVdGZEk4WVNkRnpkUkdDaGVBX3hIRzBMSjNZdDhiTWFzX3hC?oc=5\" target=\"_blank\">Research Warrant and the New Infrastructure of Entertainment Attention</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXc3UzJQSHhnc1BHLWg0NTVkZjJjazFDMHM1Q2ttekdjZmVVWTZRUFBpclhSTFZXamhUVmNPb3JnekJSclpqeERsLUFqU0NITnFXS1JUNTF4VFY0OEJTbjYyYWhKNnhBX3ZOWHZVUWdFVE0xbm9OemtKbk5SMFg3Sjgway1uZ1VZYXNMTVFHTQ?oc=5",
+        "date": "2026-04-08",
+        "title": "New infrastructure boosts Peru LNG transport growth - BNamericas",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXc3UzJQSHhnc1BHLWg0NTVkZjJjazFDMHM1Q2ttekdjZmVVWTZRUFBpclhSTFZXamhUVmNPb3JnekJSclpqeERsLUFqU0NITnFXS1JUNTF4VFY0OEJTbjYyYWhKNnhBX3ZOWHZVUWdFVE0xbm9OemtKbk5SMFg3Sjgway1uZ1VZYXNMTVFHTQ?oc=5\" target=\"_blank\">New infrastructure boosts Peru LNG transport growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNamericas</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaWdzZkozZHF5ZVZJYVNNMXhhQjI4UVdBc3hOZS0ybG1mcDlrbG9GdDN6NmxBVUlQQzBtamlxanhseXJLMlBjZkpFTGVGUExxYldaUUlmZi1nLVRDSk02RkRYQjBXLXFTSk1McWo4QUI0UlpuY290VmJhZ0h1Y0RqeDBDdlFWMTRxMDFYN2s3cE1PWDFKaGhLUmVBZXc0QWVYbF9hQ0FTb3k?oc=5",
+        "date": "2026-04-08",
+        "title": "US: Iranian-linked actors are actively exploiting our critical infrastructure | news | SC Media - SC Media",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaWdzZkozZHF5ZVZJYVNNMXhhQjI4UVdBc3hOZS0ybG1mcDlrbG9GdDN6NmxBVUlQQzBtamlxanhseXJLMlBjZkpFTGVGUExxYldaUUlmZi1nLVRDSk02RkRYQjBXLXFTSk1McWo4QUI0UlpuY290VmJhZ0h1Y0RqeDBDdlFWMTRxMDFYN2s3cE1PWDFKaGhLUmVBZXc0QWVYbF9hQ0FTb3k?oc=5\" target=\"_blank\">US: Iranian-linked actors are actively exploiting our critical infrastructure | news | SC Media</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SC Media</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTzNTMFB0Qzk5UV8xblhmb1EwMko0VWxucjFyTldROVFJTEZfM3FKbnNLMl81cFU3YkxsOXVENVVWTHBLX1YzM2RpZXJfZ0x1OTNocHRwNTNmR0JMN2pmV0NDSnAwWHpkT2tQb21EUEZqUkc0ak8zUE0xdHZzXzItcGRWaGtfOW9kTExpd0FNeDJqbGJUY0ktRXpyWE9paHUyQzhvRA?oc=5",
+        "date": "2026-04-08",
+        "title": "Visa Rolls Out AI Agent Shopping Infrastructure Globally - thedefiant.io",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQTzNTMFB0Qzk5UV8xblhmb1EwMko0VWxucjFyTldROVFJTEZfM3FKbnNLMl81cFU3YkxsOXVENVVWTHBLX1YzM2RpZXJfZ0x1OTNocHRwNTNmR0JMN2pmV0NDSnAwWHpkT2tQb21EUEZqUkc0ak8zUE0xdHZzXzItcGRWaGtfOW9kTExpd0FNeDJqbGJUY0ktRXpyWE9paHUyQzhvRA?oc=5\" target=\"_blank\">Visa Rolls Out AI Agent Shopping Infrastructure Globally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thedefiant.io</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0g4WUxJRi15cnQ5bWp0LTZaVzdyOG0xMzZacGJuS1plM3dSbjF3dHRud3NEa1dwdGVlNWJPUTlfaGw4eWs3dkYyX1lJRDZRTGQwNEVFbTFrS2Y0NDdka0F1anZhX3ZrVklGN0N5T2NwVU15aWd0cDY2RHpaNmVUTDZRV25OWThHSk1MbTM0MEZUcGxUVlBiOTZWdVRzUkhJVVlpdElsOWlsQkpyUzBnNkJOZWM?oc=5",
+        "date": "2026-04-08",
+        "title": "Stablecoin Infrastructure Fintech INXY Secures Additional Funding - Crowdfund Insider",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0g4WUxJRi15cnQ5bWp0LTZaVzdyOG0xMzZacGJuS1plM3dSbjF3dHRud3NEa1dwdGVlNWJPUTlfaGw4eWs3dkYyX1lJRDZRTGQwNEVFbTFrS2Y0NDdka0F1anZhX3ZrVklGN0N5T2NwVU15aWd0cDY2RHpaNmVUTDZRV25OWThHSk1MbTM0MEZUcGxUVlBiOTZWdVRzUkhJVVlpdElsOWlsQkpyUzBnNkJOZWM?oc=5\" target=\"_blank\">Stablecoin Infrastructure Fintech INXY Secures Additional Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crowdfund Insider</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjZEJHdkhPdmpCdDRXc0JJbTZ5MXBxZTVhVTdzTE1vb2JxdVRicU4wS0l5UHFraV9NV2M1LWQwNHB4RUp6aTR1NVQxSEYzNjNtQXhrcFUxVkoyY2hTeDBxc2RqbDhjWFJHSmVVLTJWVmUtZw?oc=5",
+        "date": "2026-04-08",
+        "title": "Opinion | Con Edison shocks city\u2019s sewer repairs: The Bronx is drowning in red tape - Bronx Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBjZEJHdkhPdmpCdDRXc0JJbTZ5MXBxZTVhVTdzTE1vb2JxdVRicU4wS0l5UHFraV9NV2M1LWQwNHB4RUp6aTR1NVQxSEYzNjNtQXhrcFUxVkoyY2hTeDBxc2RqbDhjWFJHSmVVLTJWVmUtZw?oc=5\" target=\"_blank\">Opinion | Con Edison shocks city\u2019s sewer repairs: The Bronx is drowning in red tape</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bronx Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNck9DQzJZeGRJV0pJRHhPS182TFVPMGF5U09ZQ1NqQTZvM0gtLTJqZnY3NUNPZ3pmVG9oTkR5S0kwLXQ2QVJxLUxOMTBEN2d3azBNY1psb1RLcFdOMTl3aXdZZlNjX2x0SnR3cXJoN0s1aE9KLWY4ckx3SFdqaVg0M1l0eDFwcU5hMU5V?oc=5",
+        "date": "2026-04-08",
+        "title": "CT&D eyes expansion in Hanoi with urban redevelopment - Vietnam Investment Review - VIR",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNck9DQzJZeGRJV0pJRHhPS182TFVPMGF5U09ZQ1NqQTZvM0gtLTJqZnY3NUNPZ3pmVG9oTkR5S0kwLXQ2QVJxLUxOMTBEN2d3azBNY1psb1RLcFdOMTl3aXdZZlNjX2x0SnR3cXJoN0s1aE9KLWY4ckx3SFdqaVg0M1l0eDFwcU5hMU5V?oc=5\" target=\"_blank\">CT&amp;D eyes expansion in Hanoi with urban redevelopment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam Investment Review - VIR</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1R20xT1RrWXFJRGVLSjh2cVdRU3dIOXljSXdOMEcyLVlBYlNad2JIX1ZldkhPazBYWFU3VWdlTVNzNlZSa3E4RDBabGk0Z0tRam9wWGlYX0hTaXpra1hBLS1vXzdfa3dNWkZ1WFJkUFNuMktz?oc=5",
+        "date": "2026-04-08",
+        "title": "Muslim Town Lahore: Informal Work and SDG 8 Decent Jobs - Pakistan Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB1R20xT1RrWXFJRGVLSjh2cVdRU3dIOXljSXdOMEcyLVlBYlNad2JIX1ZldkhPazBYWFU3VWdlTVNzNlZSa3E4RDBabGk0Z0tRam9wWGlYX0hTaXpra1hBLS1vXzdfa3dNWkZ1WFJkUFNuMktz?oc=5\" target=\"_blank\">Muslim Town Lahore: Informal Work and SDG 8 Decent Jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pakistan Today</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
