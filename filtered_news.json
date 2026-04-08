@@ -3602,5 +3602,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-08",
+        "status": "posted",
+        "tweet": "Annual data center electricity costs for blockchains in 2026 (est.):\n\n1. Bitcoin: $18.2B (PoW mining, 165 TWh)\n2. Ethereum: $2.1B (PoS validation, 19 TWh)\n3. Solana: $0.3B (high-throughput, 2.7 TWh)",
+        "type": "crypto"
     }
 ]
