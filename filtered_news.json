@@ -3434,5 +3434,13 @@
         "status": "posted",
         "tweet": "NVIDIA's \ud83c\uddfa\ud83c\uddf8 data centers hit 1.2 exaFLOPS of AI compute capacity in Q1 2026, up 40% YoY.\n\n$NVDA",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-08",
+        "status": "posted",
+        "tweet": "In 2026, global urban population hits 5.2 billion, up 7% from 2023's 4.85 billion\u2014equivalent to adding \ud83c\uddfa\ud83c\uddf8 Los Angeles' size every 10 days to cities worldwide.",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
