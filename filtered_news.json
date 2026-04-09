@@ -3250,5 +3250,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US hosts 65% of global Bitcoin mining hashrate in 2026, driving $15B in annual infrastructure costs\u2014equivalent to powering 7 million households with fossil fuels and renewables. \n\nGlobal total: $23B.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-04-09",
+        "status": "posted",
+        "tweet": "By 2026, \ud83c\udde8\ud83c\uddf3 China's high-speed rail network will span 50,000 km, enabling 3 billion passenger trips annually and cutting travel times by 40% on key routes.",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
