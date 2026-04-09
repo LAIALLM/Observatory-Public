@@ -3621,5 +3621,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Centuri secures over $345M in new infrastructure contracts $CTRI",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-09",
+        "status": "posted",
+        "tweet": "Meta's \ud83c\uddfa\ud83c\uddf8California data centers processed 8 petabytes of user data daily in Q1 2026.\n\n$META",
+        "type": "infrastructure"
     }
 ]
