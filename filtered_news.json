@@ -3731,5 +3731,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: VinGroup $VIC to invest $6.5B in Maharashtra for urban development, EVs and renewable energy",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-10",
+        "status": "posted",
+        "tweet": "AWS global data centers process 150 exabytes daily across 105 facilities.\n\n$AMZN",
+        "type": "infrastructure"
     }
 ]
