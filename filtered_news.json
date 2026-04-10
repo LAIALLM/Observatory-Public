@@ -3613,5 +3613,12 @@
         "status": "posted",
         "tweet": "Meta's \ud83c\uddfa\ud83c\uddf8California data centers processed 8 petabytes of user data daily in Q1 2026.\n\n$META",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-10",
+        "status": "posted",
+        "tweet": "Bitcoin's projected 2026 energy cost: $15 billion annually for just 7 TPS.\n\nSolana delivers 2,400 TPS at under $100 million.",
+        "type": "crypto"
     }
 ]
