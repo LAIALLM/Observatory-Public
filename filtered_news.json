@@ -3739,5 +3739,13 @@
         "status": "posted",
         "tweet": "(\ud83c\uddee\ud83c\uddf3) NEWS: Delhi Govt approves urban welfare overhaul including EWS housing projects, gig worker centers, and Atal canteen expansion.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-11",
+        "status": "posted",
+        "tweet": "By 2026, global solar PV capacity hits 2,000 GW, doubling from 2023's 1,000 GW.\n\n\ud83c\udde8\ud83c\uddf3 China installs 600 GW, outpacing the rest of the world's 1,400 GW combined.",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
