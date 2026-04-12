@@ -3653,5 +3653,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbmViVHlwSWpaLTZNd2ZTM3drb1JWdlNtYms3aXJGN1kwNGd2RHF5U0p0ZjBnNWF0U245RDhzVzROeTNvVDRxU2ZhaFBuZG1sQkRLNklPMUtURkR3Zlh5V2lHa3JiYllOcHVkcWZIdk4yMGJMTHkwNC1vYXpZc3BKdHgyM0NRSHR3TElDWXV0RXFJN3pDblF5WklfUnZvNDFOR3d4czR4TUdaQjYtRFNrQ1BUN1pmOWdlME1RaVdHY1FhNXZmRlJuNWRTZ3dnX25QdUFHYThPdWlfRmZPN19wMGFMTUpCZl8xUEIwei1jMkx3RXczMXMxYS03cEJmQkdYRElz?oc=5",
+        "date": "2026-04-12",
+        "title": "Ramp replacements continue along Hancock Road, among other city infrastructure projects - Mohave Valley News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPbmViVHlwSWpaLTZNd2ZTM3drb1JWdlNtYms3aXJGN1kwNGd2RHF5U0p0ZjBnNWF0U245RDhzVzROeTNvVDRxU2ZhaFBuZG1sQkRLNklPMUtURkR3Zlh5V2lHa3JiYllOcHVkcWZIdk4yMGJMTHkwNC1vYXpZc3BKdHgyM0NRSHR3TElDWXV0RXFJN3pDblF5WklfUnZvNDFOR3d4czR4TUdaQjYtRFNrQ1BUN1pmOWdlME1RaVdHY1FhNXZmRlJuNWRTZ3dnX25QdUFHYThPdWlfRmZPN19wMGFMTUpCZl8xUEIwei1jMkx3RXczMXMxYS03cEJmQkdYRElz?oc=5\" target=\"_blank\">Ramp replacements continue along Hancock Road, among other city infrastructure projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mohave Valley News</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORHloR005NlpBdXJTNThlQTBLZ1ZuZEc0ZWIwM3o5MFJFMkoxRDFLejU4Z0xzRXhBWkFFODctcU9CNzFMQUktSTdHbUtuWXF6LWxsZlFjbzdQSHJYS0Z6VzVLc1BkZDlRTlRpZXlUYXRHRnpOWEE3OV9NVG82MlprbWZuNWtabTJqUzVpbl9Rcmh5UXAyYy1jV19VODNPMWp5eUlr?oc=5",
+        "date": "2026-04-12",
+        "title": "Handala carries out unprecedented cyberattack against critical UAE Infrastructure - PressTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxORHloR005NlpBdXJTNThlQTBLZ1ZuZEc0ZWIwM3o5MFJFMkoxRDFLejU4Z0xzRXhBWkFFODctcU9CNzFMQUktSTdHbUtuWXF6LWxsZlFjbzdQSHJYS0Z6VzVLc1BkZDlRTlRpZXlUYXRHRnpOWEE3OV9NVG82MlprbWZuNWtabTJqUzVpbl9Rcmh5UXAyYy1jV19VODNPMWp5eUlr?oc=5\" target=\"_blank\">Handala carries out unprecedented cyberattack against critical UAE Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PressTV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
