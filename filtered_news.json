@@ -3643,5 +3643,15 @@
         "status": "posted",
         "tweet": "Microsoft Azure's \ud83c\uddfa\ud83c\uddf8US data centers processed 300 petabytes of data daily in Q1 2026, up 25% YoY.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFhfdkI1N2tSUnAtTDlQU3pfcFIyUXVOUUYzVktzZGxBajQzSFZfckZfQUJVbnhDVXItVnpncl9tYmdVWlJja2tNeDVkSlRJOEV4blVyby15S1FPNlRRNThrQl9LZUVyN0p1SEF1MlNwS3ZGY2tPLXZFci1FUVNROHNHY3RWeEx1YnY3cHctOUxhOVVCNjFfYlpFVTJlRGtyWGh2bWxzaUh3WmU3VjltcHRsLXREb2tlaXpz0gHDAUFVX3lxTE1NQlNJQmNBV09GQy1Cc0xrRnFYWmxhVW8wZjlLelB3aVBkM01YN3o3RWFfMS1QV2EybnV4ZmZTZDVTRFh6WjZ3XzVRekxQVkNkYjZZaF9KT2VCOElsWUJXcjFqTXR2TGpEc0xfM0pzYlhFS1kxdkxjQ1JKWlkyRmRlaTNaNTQ3TmE0Q1Z4am05Tm1CZzBZS2o4eFZicjNObWNVVzV3blVtNElhZjNlRGEtVVVmLWFXRGhkckdDd0dZd2lQWQ?oc=5",
+        "date": "2026-04-12",
+        "title": "Willis Towers Watson (WTW) Launches Digital Infrastructure Protector Solution - Insider Monkey",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFhfdkI1N2tSUnAtTDlQU3pfcFIyUXVOUUYzVktzZGxBajQzSFZfckZfQUJVbnhDVXItVnpncl9tYmdVWlJja2tNeDVkSlRJOEV4blVyby15S1FPNlRRNThrQl9LZUVyN0p1SEF1MlNwS3ZGY2tPLXZFci1FUVNROHNHY3RWeEx1YnY3cHctOUxhOVVCNjFfYlpFVTJlRGtyWGh2bWxzaUh3WmU3VjltcHRsLXREb2tlaXpz0gHDAUFVX3lxTE1NQlNJQmNBV09GQy1Cc0xrRnFYWmxhVW8wZjlLelB3aVBkM01YN3o3RWFfMS1QV2EybnV4ZmZTZDVTRFh6WjZ3XzVRekxQVkNkYjZZaF9KT2VCOElsWUJXcjFqTXR2TGpEc0xfM0pzYlhFS1kxdkxjQ1JKWlkyRmRlaTNaNTQ3TmE0Q1Z4am05Tm1CZzBZS2o4eFZicjNObWNVVzV3blVtNElhZjNlRGEtVVVmLWFXRGhkckdDd0dZd2lQWQ?oc=5\" target=\"_blank\">Willis Towers Watson (WTW) Launches Digital Infrastructure Protector Solution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
