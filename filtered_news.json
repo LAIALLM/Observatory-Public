@@ -3636,5 +3636,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-12",
+        "status": "posted",
+        "tweet": "Microsoft Azure's \ud83c\uddfa\ud83c\uddf8US data centers processed 300 petabytes of data daily in Q1 2026, up 25% YoY.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
