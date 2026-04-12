@@ -3558,5 +3558,13 @@
         "status": "posted",
         "tweet": "Bitcoin mining in 2026 demands data center power equivalent to 120,000 AWS EC2 large instances yearly, costing $2.5B in infrastructure.\n\nEthereum validators, post-merge, use just 35,000 EC2 equivalents, at $700M\u2014 a 70% efficiency gain over BTC's proof-of-work.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-04-12",
+        "status": "posted",
+        "tweet": "Top 5 cities for infrastructure quality score (out of 100) in 2026\n\n1. \ud83c\uddf8\ud83c\uddec Singapore\n2. \ud83c\uddef\ud83c\uddf5 Tokyo, Japan\n3. \ud83c\udde8\ud83c\udded Zurich, Switzerland\n4. \ud83c\udde9\ud83c\uddf0 Copenhagen, Denmark\n5. \ud83c\uddf3\ud83c\uddf1 Amsterdam, Netherlands",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
