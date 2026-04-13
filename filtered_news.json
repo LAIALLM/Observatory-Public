@@ -3258,5 +3258,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-13",
+        "status": "posted",
+        "tweet": "2026 validator infrastructure costs (USD/year: hardware + energy), lower enables broader decentralization.\n\n1. Solana: $420\n2. Ethereum: $1,650\n3. Bitcoin: $7,200",
+        "type": "crypto"
     }
 ]
