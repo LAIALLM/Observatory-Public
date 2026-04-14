@@ -3171,5 +3171,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: American Waters $48B infrastructure pledge may be shifting the investment case for $AWK",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-14",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China: 52,000 km high-speed rail operational in 2026.\n\n\ud83c\uddfa\ud83c\uddf8 US: 200 km high-speed rail operational in 2026.\n\nChina's network connects 93% of major cities; US covers <1%.",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
