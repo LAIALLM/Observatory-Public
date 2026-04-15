@@ -2761,5 +2761,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 EPA regulations on energy use will drive Bitcoin mining infrastructural costs up 35% to $7.2B annually by end of 2026.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-04-15",
+        "status": "posted",
+        "tweet": "Projected top 5 cities by urban development firm investments in 2026 (USD billions)\n\n\ud83c\udde8\ud83c\uddf3 Shanghai, China: 250  \n\ud83c\uddee\ud83c\uddf3 Mumbai, India: 180  \n\ud83c\uddfa\ud83c\uddf8 New York, USA: 150  \n\ud83c\uddf8\ud83c\udde6 Riyadh, Saudi Arabia: 140  \n\ud83c\uddf8\ud83c\uddec Singapore: 120",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
