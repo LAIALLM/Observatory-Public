@@ -2769,5 +2769,12 @@
         "tweet": "Projected top 5 cities by urban development firm investments in 2026 (USD billions)\n\n\ud83c\udde8\ud83c\uddf3 Shanghai, China: 250  \n\ud83c\uddee\ud83c\uddf3 Mumbai, India: 180  \n\ud83c\uddfa\ud83c\uddf8 New York, USA: 150  \n\ud83c\uddf8\ud83c\udde6 Riyadh, Saudi Arabia: 140  \n\ud83c\uddf8\ud83c\uddec Singapore: 120",
         "type": "statistical",
         "category": "urban development firms"
+    },
+    {
+        "link": null,
+        "date": "2026-04-15",
+        "status": "posted",
+        "tweet": "Alphabet $GOOGL data centers in \ud83c\uddfa\ud83c\uddf8 consume 2.5 TWh annually for AI training in 2026.",
+        "type": "infrastructure"
     }
 ]
