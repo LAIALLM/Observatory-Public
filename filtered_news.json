@@ -2531,5 +2531,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-16",
+        "status": "posted",
+        "tweet": "Projected top 5 infrastructure companies by 2026 revenue (USD billions)\n\n1. \ud83c\udde8\ud83c\uddf3 Beijing/China - CSCEC, 342\n2. \ud83c\udde8\ud83c\uddf3 Beijing/China - CRCC, 210\n3. \ud83c\udde8\ud83c\uddf3 Beijing/China - CCCC, 195\n4. \ud83c\uddeb\ud83c\uddf7 Nanterre/France - Vinci, 82\n5. \ud83c\uddea\ud83c\uddf8 Madrid/Spain - ACS, 48",
+        "type": "statistical",
+        "category": "infrastructure companies"
     }
 ]
