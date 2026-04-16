@@ -2546,5 +2546,12 @@
         "status": "posted",
         "tweet": "Bitcoin network scalability incurs steep infrastructural costs: by 2026, annual electricity for mining and nodes projected at $18 billion to maintain security at just 7 TPS.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-04-16",
+        "status": "posted",
+        "tweet": "NVIDIA's data centers in \ud83c\uddfa\ud83c\uddf8 California processed 8.5 zettabytes of AI workloads in 2026.\n\n$NVDA",
+        "type": "infrastructure"
     }
 ]
