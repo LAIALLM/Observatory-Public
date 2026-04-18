@@ -2460,5 +2460,13 @@
         "status": "posted",
         "tweet": "Annual infrastructure costs for blockchain scalability in 2026 (USD billions):\n\n1. Bitcoin: $18.2 (mining energy/hardware)\n2. Ethereum: $6.5 (staking nodes/L2 infra)\n3. Solana: $0.8 (validator efficiency)",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-04-18",
+        "status": "posted",
+        "tweet": "Top 5 cities by active megaprojects in 2026 (projected count)\n\n1. \ud83c\udde8\ud83c\uddf3 Shanghai, China - 45\n2. \ud83c\uddf8\ud83c\uddec Singapore - 32\n3. \ud83c\udde6\ud83c\uddea Dubai, UAE - 28\n4. \ud83c\uddfa\ud83c\uddf8 New York, USA - 25\n5. \ud83c\uddee\ud83c\uddf3 Mumbai, India - 22",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
