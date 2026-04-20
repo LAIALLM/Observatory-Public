@@ -2273,5 +2273,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Adani Enterprises $ADANIENT in focus after announcing airport city expansion plans",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-20",
+        "status": "posted",
+        "tweet": "Bitcoin's annual electricity consumption: 180 TWh.\n\nEthereum's (post-Merge): 0.003 TWh.\n\nThat's a 60,000x difference in energy use for the world's top blockchains.",
+        "type": "crypto"
     }
 ]
