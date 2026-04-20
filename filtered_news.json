@@ -2344,5 +2344,36 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObFZxU2ZJODgyTmFIYUNhSlpXSkgyX2FoNnpyZkdXcjUzTDV5OXZYT3pmdW1qRUxiTFlMekNQamJyanMzZWlqdGhtOUFCWWRtQ1h3UnNvWUZrR1g1c09iajFaMHBzeV9qeXV1aFhtRERYVXI4bEZYaVlQOWV2WDF6VVh1SFgxbExQMUxXcmFqU2xNQnc?oc=5",
+        "date": "2026-04-19",
+        "title": "Channel Infrastructure NZ finalises major diesel deal - grafa.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxObFZxU2ZJODgyTmFIYUNhSlpXSkgyX2FoNnpyZkdXcjUzTDV5OXZYT3pmdW1qRUxiTFlMekNQamJyanMzZWlqdGhtOUFCWWRtQ1h3UnNvWUZrR1g1c09iajFaMHBzeV9qeXV1aFhtRERYVXI4bEZYaVlQOWV2WDF6VVh1SFgxbExQMUxXcmFqU2xNQnc?oc=5\" target=\"_blank\">Channel Infrastructure NZ finalises major diesel deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">grafa.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3JOWnllMlp0dFdqSFYyUmZoOVllYk9nZldLZEJpQ0pMVjdWY3pUYnZjdXlrckhBVjhLcnJhdnFadlctUkJPem5mOVFNZzZDbkVoc0tiZWZVcklyWUVqcXcwYmxBbXZWUE5Na3dpQ3dSVkNtT1dBNG96eEtIa3o2NUJuZFJJWXA1TWE2dWFlTjFDNW9ZN0toandibUJWSHBEUG5pcEZjcl8yMHRYeGhvY0Nn?oc=5",
+        "date": "2026-04-19",
+        "title": "Planning Proposal for a new Liverpool Local Environmental Plan - NSW Government",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3JOWnllMlp0dFdqSFYyUmZoOVllYk9nZldLZEJpQ0pMVjdWY3pUYnZjdXlrckhBVjhLcnJhdnFadlctUkJPem5mOVFNZzZDbkVoc0tiZWZVcklyWUVqcXcwYmxBbXZWUE5Na3dpQ3dSVkNtT1dBNG96eEtIa3o2NUJuZFJJWXA1TWE2dWFlTjFDNW9ZN0toandibUJWSHBEUG5pcEZjcl8yMHRYeGhvY0Nn?oc=5\" target=\"_blank\">Planning Proposal for a new Liverpool Local Environmental Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NSW Government</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: NSW Government unveils planning proposal for a new Liverpool Local Environmental Plan"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3JOWnllMlp0dFdqSFYyUmZoOVllYk9nZldLZEJpQ0pMVjdWY3pUYnZjdXlrckhBVjhLcnJhdnFadlctUkJPem5mOVFNZzZDbkVoc0tiZWZVcklyWUVqcXcwYmxBbXZWUE5Na3dpQ3dSVkNtT1dBNG96eEtIa3o2NUJuZFJJWXA1TWE2dWFlTjFDNW9ZN0toandibUJWSHBEUG5pcEZjcl8yMHRYeGhvY0Nn?oc=5",
+        "date": "2026-04-19",
+        "title": "Planning Proposal for a new Liverpool Local Environmental Plan - NSW Government",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3JOWnllMlp0dFdqSFYyUmZoOVllYk9nZldLZEJpQ0pMVjdWY3pUYnZjdXlrckhBVjhLcnJhdnFadlctUkJPem5mOVFNZzZDbkVoc0tiZWZVcklyWUVqcXcwYmxBbXZWUE5Na3dpQ3dSVkNtT1dBNG96eEtIa3o2NUJuZFJJWXA1TWE2dWFlTjFDNW9ZN0toandibUJWSHBEUG5pcEZjcl8yMHRYeGhvY0Nn?oc=5\" target=\"_blank\">Planning Proposal for a new Liverpool Local Environmental Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NSW Government</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: NSW Government unveils planning proposal for new Liverpool Local Environmental Plan",
+        "type": "news"
     }
 ]
