@@ -2290,5 +2290,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfb\ud83c\uddf3 NEWS: Hanoi unveils 100-year urban plan for a multi-centered, connected city.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-21",
+        "status": "posted",
+        "tweet": "By 2026, global renewable energy projects will add 510 GW of capacity, powering 510 million households and cutting CO2 emissions by 1.8 Gt annually.",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
