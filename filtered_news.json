@@ -2298,5 +2298,12 @@
         "tweet": "By 2026, global renewable energy projects will add 510 GW of capacity, powering 510 million households and cutting CO2 emissions by 1.8 Gt annually.",
         "type": "statistical",
         "category": "engineering projects"
+    },
+    {
+        "link": null,
+        "date": "2026-04-21",
+        "status": "posted",
+        "tweet": "Microsoft's \ud83c\uddfa\ud83c\uddf8 data centers processed 8.2 exabytes of data daily in 2026, up 25% from 2025.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
