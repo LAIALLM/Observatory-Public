@@ -1,128 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-04-12",
-        "status": "posted",
-        "tweet": "Bitcoin mining in 2026 demands data center power equivalent to 120,000 AWS EC2 large instances yearly, costing $2.5B in infrastructure.\n\nEthereum validators, post-merge, use just 35,000 EC2 equivalents, at $700M\u2014 a 70% efficiency gain over BTC's proof-of-work.",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2026-04-12",
-        "status": "posted",
-        "tweet": "Top 5 cities for infrastructure quality score (out of 100) in 2026\n\n1. \ud83c\uddf8\ud83c\uddec Singapore\n2. \ud83c\uddef\ud83c\uddf5 Tokyo, Japan\n3. \ud83c\udde8\ud83c\udded Zurich, Switzerland\n4. \ud83c\udde9\ud83c\uddf0 Copenhagen, Denmark\n5. \ud83c\uddf3\ud83c\uddf1 Amsterdam, Netherlands",
-        "type": "statistical",
-        "category": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQcmxyRVRtMVJ6MEJoYkFJdWRVYklZV3E5NmNpcTRWTTY0ZDdlaE8wVXVSZ0RhLW5wazQxYkE0TnZ2WVg1bTlHSjRaWnV3eHhFWFRSTEJRMWdHLTZ4aS1UeVRZbVVRNlptX2s0eXFzZ3U3NkZvYnVhQ3N2SDRPZTNHVlJvZXVQMkR4aTYtMHhCM29XZW82QWw1aXZvU3RuUmo1b3NnUzllZXVZNkJNM2RjeW5wSkt1cFo3c3NUWjVIcTNrM1h3WC1lLUtTZElUSUlDOXJxcWRUZHhKUnE3bDRVMjE2RFhYM3duYUN4RzZ5eUdVQUtBc0I0SWdCNXBoUXlmaTFycEZB?oc=5",
-        "date": "2026-04-12",
-        "title": "Israeli energy minister calls for bombing Lebanese civilian infrastructure - Middle East Eye",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQcmxyRVRtMVJ6MEJoYkFJdWRVYklZV3E5NmNpcTRWTTY0ZDdlaE8wVXVSZ0RhLW5wazQxYkE0TnZ2WVg1bTlHSjRaWnV3eHhFWFRSTEJRMWdHLTZ4aS1UeVRZbVVRNlptX2s0eXFzZ3U3NkZvYnVhQ3N2SDRPZTNHVlJvZXVQMkR4aTYtMHhCM29XZW82QWw1aXZvU3RuUmo1b3NnUzllZXVZNkJNM2RjeW5wSkt1cFo3c3NUWjVIcTNrM1h3WC1lLUtTZElUSUlDOXJxcWRUZHhKUnE3bDRVMjE2RFhYM3duYUN4RzZ5eUdVQUtBc0I0SWdCNXBoUXlmaTFycEZB?oc=5\" target=\"_blank\">Israeli energy minister calls for bombing Lebanese civilian infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Middle East Eye</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlRXdUI5R2JFYzVPQUV4VHNLNHZMRERnc3I1dGd3WnhRLUhNZmdEeUFZd09oMUhMY185VEhzMzhRMnZMeERxVWwtZXc1UDVXcFBRcmtvTDQ5M1ZJdnJQcDExWlVRVDUwY2ItSTdaYXlOUU12RTdJQzJQbWJQWWlOQ1pBSVhSZng2djRvaTBaSU81VUJwRmlhQzFCek9iUjA?oc=5",
-        "date": "2026-04-12",
-        "title": "Claude Cowork is becoming shared workplace infrastructure - Digital Trends",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlRXdUI5R2JFYzVPQUV4VHNLNHZMRERnc3I1dGd3WnhRLUhNZmdEeUFZd09oMUhMY185VEhzMzhRMnZMeERxVWwtZXc1UDVXcFBRcmtvTDQ5M1ZJdnJQcDExWlVRVDUwY2ItSTdaYXlOUU12RTdJQzJQbWJQWWlOQ1pBSVhSZng2djRvaTBaSU81VUJwRmlhQzFCek9iUjA?oc=5\" target=\"_blank\">Claude Cowork is becoming shared workplace infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Trends</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTV81N2FOaWMxSHlTTUdIOWpUNE9mUFVwc0RHdG5VVktzNHBfbV9ZRGlHRWxtc0VQNWRzUk0xRzNjX3YxbFZ2Ql9FRVJpNTNpMWlPZjFmYWpvSlN4SmFNcUpoM3BqS09QcEZ2cmVyMnR6WDhaVVNNMEpzeDhmeThPOVB6ZnAtREdMdXFRRGREQUtvbmtQQjFXcw?oc=5",
-        "date": "2026-04-12",
-        "title": "Regional development, urban planning key to boost Africa\u2019s economy - tanzaniainsight.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQTV81N2FOaWMxSHlTTUdIOWpUNE9mUFVwc0RHdG5VVktzNHBfbV9ZRGlHRWxtc0VQNWRzUk0xRzNjX3YxbFZ2Ql9FRVJpNTNpMWlPZjFmYWpvSlN4SmFNcUpoM3BqS09QcEZ2cmVyMnR6WDhaVVNNMEpzeDhmeThPOVB6ZnAtREdMdXFRRGREQUtvbmtQQjFXcw?oc=5\" target=\"_blank\">Regional development, urban planning key to boost Africa\u2019s economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tanzaniainsight.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMjdIc0U2TkVoQ3RreU5UQUloZXMzODRtaU5ZZG52UmliQTMzVENQVHpHckdfbS1mZENnYUJRYjB1anJhVjlsMFpURmdMZ1ZQeDN2bmNIWkpCX3pQM1Y5SUVuSDdxQlpDWHllYldqSDI5RnRYNGJNT0x4VDkwUndaVFFBbU9VSnpmSk5ISldlNzFyV09mRDFj?oc=5",
-        "date": "2026-04-12",
-        "title": "Work Undertakings : Urban development and security check-point - Myanmar International TV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMjdIc0U2TkVoQ3RreU5UQUloZXMzODRtaU5ZZG52UmliQTMzVENQVHpHckdfbS1mZENnYUJRYjB1anJhVjlsMFpURmdMZ1ZQeDN2bmNIWkpCX3pQM1Y5SUVuSDdxQlpDWHllYldqSDI5RnRYNGJNT0x4VDkwUndaVFFBbU9VSnpmSk5ISldlNzFyV09mRDFj?oc=5\" target=\"_blank\">Work Undertakings : Urban development and security check-point</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Myanmar International TV</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGxBcHNGbmZKaWk2QXZhVjk1bEFWcVBXclJ0YXNxdml2WDdYSG01VmctaEpqb2I4eXVpY1JhYklNdUpIU0ZWTUk5MW8tYm1EeG95ek5ySzU4dm9mbGsyeDRwVnBRTTJ0eDkxRWhrZmNYZkZMMHRaSHR6SFJDUGRKNVVSWTZCampJOUNzN2l5MDFXSDdoNTlLcG5TQ01WQU9wWmtqcHg3Z05EMlBfeGR6TnRPMEHSAbwBQVVfeXFMTUo1TmRTc2Z3bnVMMk5EMHdWVEdsQmQwTm1PWXQ2MldfVTluY1RPTkFkM2NPUDFKSVN5SVRkaF9PbFg1TnFQUngwd2p6WndraHVNSTVneWRDbXJGaWVDaUlkSHBnRE9QSU51WXVfWEdoR251bDFvMHllUlNzWFZTMk1hNXdhb2JJSGdDckh3LU95NXlQN0hIc09TdVVaT25CNk5wakY0RFJTRFpWdVh6RVQ0UmFKMGlBdkVHWUc?oc=5",
-        "date": "2026-04-12",
-        "title": "HUDCO, NBCC sign MoUs for Delhi redevelopment, asset monetisation - ANI News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGxBcHNGbmZKaWk2QXZhVjk1bEFWcVBXclJ0YXNxdml2WDdYSG01VmctaEpqb2I4eXVpY1JhYklNdUpIU0ZWTUk5MW8tYm1EeG95ek5ySzU4dm9mbGsyeDRwVnBRTTJ0eDkxRWhrZmNYZkZMMHRaSHR6SFJDUGRKNVVSWTZCampJOUNzN2l5MDFXSDdoNTlLcG5TQ01WQU9wWmtqcHg3Z05EMlBfeGR6TnRPMEHSAbwBQVVfeXFMTUo1TmRTc2Z3bnVMMk5EMHdWVEdsQmQwTm1PWXQ2MldfVTluY1RPTkFkM2NPUDFKSVN5SVRkaF9PbFg1TnFQUngwd2p6WndraHVNSTVneWRDbXJGaWVDaUlkSHBnRE9QSU51WXVfWEdoR251bDFvMHllUlNzWFZTMk1hNXdhb2JJSGdDckh3LU95NXlQN0hIc09TdVVaT25CNk5wakY0RFJTRFpWdVh6RVQ0UmFKMGlBdkVHWUc?oc=5\" target=\"_blank\">HUDCO, NBCC sign MoUs for Delhi redevelopment, asset monetisation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: HUDCO and NBCC sign MoUs for Delhi redevelopment projects and asset monetisation $HUDCO $NBCC"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamFjR29NOUY5MmR2TXh3dGRBMlN2UkM4WExmZDlaQ2RrUFlPbU9TcDM2eF83UF8wV3hhM3ljZXJrODlnN2luSHNkUGtfWm5CWnBMQ1BLVl9DRWl3bG9uelAtQk5hYmN0VVNjeWpwY00wd29YTlhaclhSemFsalR4WUFPY3F1OTZGcTV2U2dLWmVLeEItUkVoOS1MbnJLaXVKMXhHdl9tRUhudTg?oc=5",
-        "date": "2026-04-12",
-        "title": "Architects in Local Assemblies Could Unlock Ghana\u2019s Urban Investment Potential - NewsGhana",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamFjR29NOUY5MmR2TXh3dGRBMlN2UkM4WExmZDlaQ2RrUFlPbU9TcDM2eF83UF8wV3hhM3ljZXJrODlnN2luSHNkUGtfWm5CWnBMQ1BLVl9DRWl3bG9uelAtQk5hYmN0VVNjeWpwY00wd29YTlhaclhSemFsalR4WUFPY3F1OTZGcTV2U2dLWmVLeEItUkVoOS1MbnJLaXVKMXhHdl9tRUhudTg?oc=5\" target=\"_blank\">Architects in Local Assemblies Could Unlock Ghana\u2019s Urban Investment Potential</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsGhana</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRXk4enJ2cjM0M3JJalNvLWdidW56N3pCSjliWEc3SU9hNV9qX3VqZVlpdmFXcThXMXdTdllOWUlzWk9wN1hhRXR6WU5NRzF2LVhSS0ZRTGJ4R1hCREkyOGxRa3J5dUd5dy1kMGxNUlBUUnVMWlpNSkstX2VobWJvbVhvY2NnUHRidUxOQnpCZmhvNTBONDBKNkU0Z0d0dmhQWmlrUFhzY1p2OGxHVXRDbjdKTzhyS0NyMzFGSlNCTFpEUDhOdWozb0VKeHBHVjVxN3VYU2l3X1V2T1hCUnVjZEc3R0VHcG8?oc=5",
-        "date": "2026-04-12",
-        "title": "Industrial expansion, urban evolution, maturing property landscape highlight Batu Kawan\u2019s growth potential - EdgeProp",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRXk4enJ2cjM0M3JJalNvLWdidW56N3pCSjliWEc3SU9hNV9qX3VqZVlpdmFXcThXMXdTdllOWUlzWk9wN1hhRXR6WU5NRzF2LVhSS0ZRTGJ4R1hCREkyOGxRa3J5dUd5dy1kMGxNUlBUUnVMWlpNSkstX2VobWJvbVhvY2NnUHRidUxOQnpCZmhvNTBONDBKNkU0Z0d0dmhQWmlrUFhzY1p2OGxHVXRDbjdKTzhyS0NyMzFGSlNCTFpEUDhOdWozb0VKeHBHVjVxN3VYU2l3X1V2T1hCUnVjZEc3R0VHcG8?oc=5\" target=\"_blank\">Industrial expansion, urban evolution, maturing property landscape highlight Batu Kawan\u2019s growth potential</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EdgeProp</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-04-12",
-        "status": "posted",
-        "tweet": "Microsoft Azure's \ud83c\uddfa\ud83c\uddf8US data centers processed 300 petabytes of data daily in Q1 2026, up 25% YoY.\n\n$MSFT",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFhfdkI1N2tSUnAtTDlQU3pfcFIyUXVOUUYzVktzZGxBajQzSFZfckZfQUJVbnhDVXItVnpncl9tYmdVWlJja2tNeDVkSlRJOEV4blVyby15S1FPNlRRNThrQl9LZUVyN0p1SEF1MlNwS3ZGY2tPLXZFci1FUVNROHNHY3RWeEx1YnY3cHctOUxhOVVCNjFfYlpFVTJlRGtyWGh2bWxzaUh3WmU3VjltcHRsLXREb2tlaXpz0gHDAUFVX3lxTE1NQlNJQmNBV09GQy1Cc0xrRnFYWmxhVW8wZjlLelB3aVBkM01YN3o3RWFfMS1QV2EybnV4ZmZTZDVTRFh6WjZ3XzVRekxQVkNkYjZZaF9KT2VCOElsWUJXcjFqTXR2TGpEc0xfM0pzYlhFS1kxdkxjQ1JKWlkyRmRlaTNaNTQ3TmE0Q1Z4am05Tm1CZzBZS2o4eFZicjNObWNVVzV3blVtNElhZjNlRGEtVVVmLWFXRGhkckdDd0dZd2lQWQ?oc=5",
-        "date": "2026-04-12",
-        "title": "Willis Towers Watson (WTW) Launches Digital Infrastructure Protector Solution - Insider Monkey",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFhfdkI1N2tSUnAtTDlQU3pfcFIyUXVOUUYzVktzZGxBajQzSFZfckZfQUJVbnhDVXItVnpncl9tYmdVWlJja2tNeDVkSlRJOEV4blVyby15S1FPNlRRNThrQl9LZUVyN0p1SEF1MlNwS3ZGY2tPLXZFci1FUVNROHNHY3RWeEx1YnY3cHctOUxhOVVCNjFfYlpFVTJlRGtyWGh2bWxzaUh3WmU3VjltcHRsLXREb2tlaXpz0gHDAUFVX3lxTE1NQlNJQmNBV09GQy1Cc0xrRnFYWmxhVW8wZjlLelB3aVBkM01YN3o3RWFfMS1QV2EybnV4ZmZTZDVTRFh6WjZ3XzVRekxQVkNkYjZZaF9KT2VCOElsWUJXcjFqTXR2TGpEc0xfM0pzYlhFS1kxdkxjQ1JKWlkyRmRlaTNaNTQ3TmE0Q1Z4am05Tm1CZzBZS2o4eFZicjNObWNVVzV3blVtNElhZjNlRGEtVVVmLWFXRGhkckdDd0dZd2lQWQ?oc=5\" target=\"_blank\">Willis Towers Watson (WTW) Launches Digital Infrastructure Protector Solution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbmViVHlwSWpaLTZNd2ZTM3drb1JWdlNtYms3aXJGN1kwNGd2RHF5U0p0ZjBnNWF0U245RDhzVzROeTNvVDRxU2ZhaFBuZG1sQkRLNklPMUtURkR3Zlh5V2lHa3JiYllOcHVkcWZIdk4yMGJMTHkwNC1vYXpZc3BKdHgyM0NRSHR3TElDWXV0RXFJN3pDblF5WklfUnZvNDFOR3d4czR4TUdaQjYtRFNrQ1BUN1pmOWdlME1RaVdHY1FhNXZmRlJuNWRTZ3dnX25QdUFHYThPdWlfRmZPN19wMGFMTUpCZl8xUEIwei1jMkx3RXczMXMxYS03cEJmQkdYRElz?oc=5",
-        "date": "2026-04-12",
-        "title": "Ramp replacements continue along Hancock Road, among other city infrastructure projects - Mohave Valley News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPbmViVHlwSWpaLTZNd2ZTM3drb1JWdlNtYms3aXJGN1kwNGd2RHF5U0p0ZjBnNWF0U245RDhzVzROeTNvVDRxU2ZhaFBuZG1sQkRLNklPMUtURkR3Zlh5V2lHa3JiYllOcHVkcWZIdk4yMGJMTHkwNC1vYXpZc3BKdHgyM0NRSHR3TElDWXV0RXFJN3pDblF5WklfUnZvNDFOR3d4czR4TUdaQjYtRFNrQ1BUN1pmOWdlME1RaVdHY1FhNXZmRlJuNWRTZ3dnX25QdUFHYThPdWlfRmZPN19wMGFMTUpCZl8xUEIwei1jMkx3RXczMXMxYS03cEJmQkdYRElz?oc=5\" target=\"_blank\">Ramp replacements continue along Hancock Road, among other city infrastructure projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mohave Valley News</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORHloR005NlpBdXJTNThlQTBLZ1ZuZEc0ZWIwM3o5MFJFMkoxRDFLejU4Z0xzRXhBWkFFODctcU9CNzFMQUktSTdHbUtuWXF6LWxsZlFjbzdQSHJYS0Z6VzVLc1BkZDlRTlRpZXlUYXRHRnpOWEE3OV9NVG82MlprbWZuNWtabTJqUzVpbl9Rcmh5UXAyYy1jV19VODNPMWp5eUlr?oc=5",
-        "date": "2026-04-12",
-        "title": "Handala carries out unprecedented cyberattack against critical UAE Infrastructure - PressTV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxORHloR005NlpBdXJTNThlQTBLZ1ZuZEc0ZWIwM3o5MFJFMkoxRDFLejU4Z0xzRXhBWkFFODctcU9CNzFMQUktSTdHbUtuWXF6LWxsZlFjbzdQSHJYS0Z6VzVLc1BkZDlRTlRpZXlUYXRHRnpOWEE3OV9NVG82MlprbWZuNWtabTJqUzVpbl9Rcmh5UXAyYy1jV19VODNPMWp5eUlr?oc=5\" target=\"_blank\">Handala carries out unprecedented cyberattack against critical UAE Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PressTV</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-04-13",
         "status": "posted",
         "tweet": "2026 validator infrastructure costs (USD/year: hardware + energy), lower enables broader decentralization.\n\n1. Solana: $420\n2. Ethereum: $1,650\n3. Bitcoin: $7,200",
@@ -2305,5 +2183,13 @@
         "status": "posted",
         "tweet": "Microsoft's \ud83c\uddfa\ud83c\uddf8 data centers processed 8.2 exabytes of data daily in 2026, up 25% from 2025.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-22",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 Delhi's 2026 metro population: 33 million  \n\ud83c\uddef\ud83c\uddf5 Tokyo's: 37 million  \n\nDelhi grows at 2.5% annually; Tokyo shrinks 0.2%.",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
