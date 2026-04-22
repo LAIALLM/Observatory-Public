@@ -2652,5 +2652,12 @@
         "status": "posted",
         "tweet": "Alphabet's data centers in \ud83c\uddfa\ud83c\uddf8USA processed 15 exabytes daily in 2026.\n\n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-22",
+        "status": "posted",
+        "tweet": "Annual blockchain consensus costs (2026 est., USD billions, infra incl. energy/hardware):\n\n1. Bitcoin mining: 12.5\n2. Ethereum staking: 1.2\n3. Solana staking: 0.3",
+        "type": "crypto"
     }
 ]
