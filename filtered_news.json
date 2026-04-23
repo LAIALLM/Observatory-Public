@@ -2579,5 +2579,13 @@
         "status": "posted",
         "tweet": "2026 annual data center electricity costs for blockchains (global, USD billions):\n\n1. Bitcoin: $12.5B (150 TWh)\n2. Ethereum: $1.8B (22 TWh)\n3. Solana: $0.5B (6 TWh)",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-04-23",
+        "status": "posted",
+        "tweet": "Top 5 projected nominal GDPs in 2026 (trillions USD)\n\n1. \ud83c\uddfa\ud83c\uddf8 United States: 28.8\n2. \ud83c\udde8\ud83c\uddf3 China: 21.6\n3. \ud83c\uddef\ud83c\uddf5 Japan: 4.9\n4. \ud83c\udde9\ud83c\uddea Germany: 4.7\n5. \ud83c\uddee\ud83c\uddf3 India: 4.3",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
