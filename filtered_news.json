@@ -2819,5 +2819,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddea\ud83c\uddec NEWS: Miran Hills and Palm Hills launch coastal project within Ras El Hekma Urban Development Company $PHDC",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-23",
+        "status": "posted",
+        "tweet": "Alphabet's global data centers consumed 24 TWh of energy in 2026, a 15% increase from 2025 driven by AI workloads.\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
