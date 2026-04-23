@@ -1,92 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-04-13",
-        "status": "posted",
-        "tweet": "2026 validator infrastructure costs (USD/year: hardware + energy), lower enables broader decentralization.\n\n1. Solana: $420\n2. Ethereum: $1,650\n3. Bitcoin: $7,200",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbnl3WmVuQnNwa1NQRGlfb0hOSFo1eXNYSUozVlBkOG5uSEg3TDRGNmZEZ3NoODd0OWxPY3VUWng1S1V1YXBkODNldlgwdnppaHdKUFo1REhFLUJCX05JaEFvdGRqdTZkNXB1OTBuWlN3bGpqOVFCa1p0X1pCeHBUYWNTaXFrSmhrWGpOZ1NHa2ZHSXI4bU1sY2tpUXE4WDZqYzJxTm1pa0VRV2F0UTNaSF9EMnUxdWVXSXcwMlFEOGg3MTZYSVc3NdIByAFBVV95cUxNbnl3WmVuQnNwa1NQRGlfb0hOSFo1eXNYSUozVlBkOG5uSEg3TDRGNmZEZ3NoODd0OWxPY3VUWng1S1V1YXBkODNldlgwdnppaHdKUFo1REhFLUJCX05JaEFvdGRqdTZkNXB1OTBuWlN3bGpqOVFCa1p0X1pCeHBUYWNTaXFrSmhrWGpOZ1NHa2ZHSXI4bU1sY2tpUXE4WDZqYzJxTm1pa0VRV2F0UTNaSF9EMnUxdWVXSXcwMlFEOGg3MTZYSVc3NQ?oc=5",
-        "date": "2026-04-13",
-        "title": "How Neighborhood Amenities and Infrastructure May Slow Cognitive Decline Among Older Immigrants | Newswise - Newswise",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbnl3WmVuQnNwa1NQRGlfb0hOSFo1eXNYSUozVlBkOG5uSEg3TDRGNmZEZ3NoODd0OWxPY3VUWng1S1V1YXBkODNldlgwdnppaHdKUFo1REhFLUJCX05JaEFvdGRqdTZkNXB1OTBuWlN3bGpqOVFCa1p0X1pCeHBUYWNTaXFrSmhrWGpOZ1NHa2ZHSXI4bU1sY2tpUXE4WDZqYzJxTm1pa0VRV2F0UTNaSF9EMnUxdWVXSXcwMlFEOGg3MTZYSVc3NdIByAFBVV95cUxNbnl3WmVuQnNwa1NQRGlfb0hOSFo1eXNYSUozVlBkOG5uSEg3TDRGNmZEZ3NoODd0OWxPY3VUWng1S1V1YXBkODNldlgwdnppaHdKUFo1REhFLUJCX05JaEFvdGRqdTZkNXB1OTBuWlN3bGpqOVFCa1p0X1pCeHBUYWNTaXFrSmhrWGpOZ1NHa2ZHSXI4bU1sY2tpUXE4WDZqYzJxTm1pa0VRV2F0UTNaSF9EMnUxdWVXSXcwMlFEOGg3MTZYSVc3NQ?oc=5\" target=\"_blank\">How Neighborhood Amenities and Infrastructure May Slow Cognitive Decline Among Older Immigrants | Newswise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newswise</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZzl4UVBTVVhDUmVVa2U1ZzhXRlRNYW56bW5oWlZzVDZRS0tac2MyQzB6a2lreC1OMW9FU1ZZVnE0ZHBlb2JrQjNiemlHd3ZjX2NVVkVWbHhwYzV4NDdsZDQtVExiU3loWjRRVGowY2xiMUpnSnJxV3h5UFlkSnFpUDctRWtBSGJuMzc3NjFVMWc5RFE1NGhEcno2NA?oc=5",
-        "date": "2026-04-13",
-        "title": "Midland officials lay out road and sewer projects as city grows - Midland Reporter-Telegram",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPZzl4UVBTVVhDUmVVa2U1ZzhXRlRNYW56bW5oWlZzVDZRS0tac2MyQzB6a2lreC1OMW9FU1ZZVnE0ZHBlb2JrQjNiemlHd3ZjX2NVVkVWbHhwYzV4NDdsZDQtVExiU3loWjRRVGowY2xiMUpnSnJxV3h5UFlkSnFpUDctRWtBSGJuMzc3NjFVMWc5RFE1NGhEcno2NA?oc=5\" target=\"_blank\">Midland officials lay out road and sewer projects as city grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Midland Reporter-Telegram</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYVRJM25zQ0p6VVozQ2k1VmdST0NmaGF3Vm5Nc1FITWtMVFBra01fYkxqTDV1c2lfY2JlMXZPNXpVelk1WkE5Wmw1OUxPeWxMX2pHVS1jQUdfVGMteHNGOUt6ZnVuODFXTHVvQUFGUHhIZzNwRXhSNFdnaXRLOW1pb0xUSHZlclVDMTh3ZWVaWHF4MlhtbktBRkwzRTl0UndHbTVhOGpkWGtlU1Zublk3Z0hYOHY?oc=5",
-        "date": "2026-04-13",
-        "title": "HA Sustainable Infrastructure Capital, Inc. ($HASI) CEO 2025 Pay Revealed - Quiver Quantitative",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQYVRJM25zQ0p6VVozQ2k1VmdST0NmaGF3Vm5Nc1FITWtMVFBra01fYkxqTDV1c2lfY2JlMXZPNXpVelk1WkE5Wmw1OUxPeWxMX2pHVS1jQUdfVGMteHNGOUt6ZnVuODFXTHVvQUFGUHhIZzNwRXhSNFdnaXRLOW1pb0xUSHZlclVDMTh3ZWVaWHF4MlhtbktBRkwzRTl0UndHbTVhOGpkWGtlU1Zublk3Z0hYOHY?oc=5\" target=\"_blank\">HA Sustainable Infrastructure Capital, Inc. ($HASI) CEO 2025 Pay Revealed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNckxSQjM2UlVHaU01YzhxREc1QlkybktQWXNVd3ptWXk0cEVQVzFIWkFsNnNnSFBfX1lmN0xiVVpxZmlUZkRtbEVRa2g2eFpnMkV2QjF6UjRIM1pPdnR6bE9UZ2tlWjc2bTgxRWhHZFBKbFJNcVR0bEZ4eHFZN1RtQ3JtUUQtcktIVnk4VUotb2FfWHJIdHBOcTdjaEliN0VqYlNyQnR6WWhoNXVSdGplbnA5ZUVMLWRtdXNuVHN6VQ?oc=5",
-        "date": "2026-04-13",
-        "title": "SAGE Integration Appoints Matthew LaRue to Lead Critical Infrastructure - Security Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNckxSQjM2UlVHaU01YzhxREc1QlkybktQWXNVd3ptWXk0cEVQVzFIWkFsNnNnSFBfX1lmN0xiVVpxZmlUZkRtbEVRa2g2eFpnMkV2QjF6UjRIM1pPdnR6bE9UZ2tlWjc2bTgxRWhHZFBKbFJNcVR0bEZ4eHFZN1RtQ3JtUUQtcktIVnk4VUotb2FfWHJIdHBOcTdjaEliN0VqYlNyQnR6WWhoNXVSdGplbnA5ZUVMLWRtdXNuVHN6VQ?oc=5\" target=\"_blank\">SAGE Integration Appoints Matthew LaRue to Lead Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Security Today</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN0NlamFwNUY3U0lNVmEtSHhVYVBOMnJuU1EyVjVMRE1LV3BDSnZtcGRwNV9Cd2JKdV9CaFJuYzAwM3p2Q2d6cDBUUWR6YnBrM3dpOExlbWhvcUtBdk1Nb0tVc0dFUGxkTmZiYV9GcU9DVUV3aE1IUklraWo2ZVlKMzkzcE5QNUhFT3VoVFctZWI3V0VTYUZQbGtidzI2dVF6NXB5dzRiS0pwc1ktVkJPU0gzQjlGbTVCamJEMWo3dFRqbHJ5LWtITzNIRGpJM1ZCZzhzZWplcWMyeUd6?oc=5",
-        "date": "2026-04-13",
-        "title": "SECURE Waste Infrastructure Corp. (SES:CA) GFL Environmental Inc., - M&A Call - Slideshow - Seeking Alpha",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN0NlamFwNUY3U0lNVmEtSHhVYVBOMnJuU1EyVjVMRE1LV3BDSnZtcGRwNV9Cd2JKdV9CaFJuYzAwM3p2Q2d6cDBUUWR6YnBrM3dpOExlbWhvcUtBdk1Nb0tVc0dFUGxkTmZiYV9GcU9DVUV3aE1IUklraWo2ZVlKMzkzcE5QNUhFT3VoVFctZWI3V0VTYUZQbGtidzI2dVF6NXB5dzRiS0pwc1ktVkJPU0gzQjlGbTVCamJEMWo3dFRqbHJ5LWtITzNIRGpJM1ZCZzhzZWplcWMyeUd6?oc=5\" target=\"_blank\">SECURE Waste Infrastructure Corp. (SES:CA) GFL Environmental Inc., - M&amp;A Call - Slideshow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOem40TE1RSVEzbS1ZRXJyYVJSbklINWVKTzFHbkp2dVNjM0N4WG9tUzBwaUZWbG83akcxdmpYTy0za1c4eTJVT0NSY2lwQmVtMjVzbTczWnR4eGk1cDRNOXdHTTZMRmhVMEc4R1N2N2ZSbUktVkN6ZmRBaWp3UmRqZUh1NjVTRENnd0pUNGZqb3JPamtwQmpfM0dNMlZ3d25paTRUYzdwcUNwUXRKNUZpSko3RWhLSHZJbllQU2ZNRWNRT3dUckhSQzBla0dfZERqamJ3d2IwcE5IX28yRXcwMHdHTEUydmlzanRfbWJpd09IeXpUc0haOGw5VENaWGdXek9QSHFicHVpZFVmVHNMbGo5T05tZlp4eUM0aGRua25KLTY3N2lCTnlWR2VtaTFkNXMxYjYzdEExQkd3N0pLZg?oc=5",
-        "date": "2026-04-13",
-        "title": "TGI Solar Power Group Launches Sovereign National Carbon Registry for Angola via AXINA Platform; Integrates Environmental Assets into National Digital Infrastructure - Morningstar",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxOem40TE1RSVEzbS1ZRXJyYVJSbklINWVKTzFHbkp2dVNjM0N4WG9tUzBwaUZWbG83akcxdmpYTy0za1c4eTJVT0NSY2lwQmVtMjVzbTczWnR4eGk1cDRNOXdHTTZMRmhVMEc4R1N2N2ZSbUktVkN6ZmRBaWp3UmRqZUh1NjVTRENnd0pUNGZqb3JPamtwQmpfM0dNMlZ3d25paTRUYzdwcUNwUXRKNUZpSko3RWhLSHZJbllQU2ZNRWNRT3dUckhSQzBla0dfZERqamJ3d2IwcE5IX28yRXcwMHdHTEUydmlzanRfbWJpd09IeXpUc0haOGw5VENaWGdXek9QSHFicHVpZFVmVHNMbGo5T05tZlp4eUM0aGRua25KLTY3N2lCTnlWR2VtaTFkNXMxYjYzdEExQkd3N0pLZg?oc=5\" target=\"_blank\">TGI Solar Power Group Launches Sovereign National Carbon Registry for Angola via AXINA Platform; Integrates Environmental Assets into National Digital Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdlJaSHMwNDVnbUJNS3BvRm5CeHpaZ0o5WHZJX05HNS1UR0Y5X0tza1dRSnhOemZTVExjdEc4VVViWXRQXzJiS0ZKVE1QdTRVak9jVU1DUmY1MkRwWkhfa3M2Qi1pRWdNTVhuV1lWcTFrYTBPQWtrN2VsdjJzMzgyTWxncG4tMFAzRnRvMF9xR0t6ZFpRSVh0c29DMHRPVWx4eVctUEJzYmdDMlNjUTZseHV0MlJrLUI2OElKek1GQU5fUC1JQWpPS0psQlVTdU9FaGVWSEUzRG1UUGdpRlRLSF9DOUFxUVk?oc=5",
-        "date": "2026-04-13",
-        "title": "The case for more energy redundancy - Semafor",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdlJaSHMwNDVnbUJNS3BvRm5CeHpaZ0o5WHZJX05HNS1UR0Y5X0tza1dRSnhOemZTVExjdEc4VVViWXRQXzJiS0ZKVE1QdTRVak9jVU1DUmY1MkRwWkhfa3M2Qi1pRWdNTVhuV1lWcTFrYTBPQWtrN2VsdjJzMzgyTWxncG4tMFAzRnRvMF9xR0t6ZFpRSVh0c29DMHRPVWx4eVctUEJzYmdDMlNjUTZseHV0MlJrLUI2OElKek1GQU5fUC1JQWpPS0psQlVTdU9FaGVWSEUzRG1UUGdpRlRLSF9DOUFxUVk?oc=5\" target=\"_blank\">The case for more energy redundancy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Semafor</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVjBZbk9IOGJKblpDVkJnRFl6STMxQzAtYWlSNERGYXVEXzJaTkRXb2t2R1lmYXNXV1QwTjV0bF96LTh6SU5rTks3RVNUa2lCRkFXNmx0ZGZObXhlMmpvbHc4aVRQLTZWTHRjbzM2T1U4TFFrSUk0c2NVVlktSi1EWFlfMUR3Q19xSTJGUXNrVU5PZWEtUWs0LXRYTVd2TXVyTTdVMmQ2WEF4Rk1JWDhZVUtERQ?oc=5",
-        "date": "2026-04-13",
-        "title": "Hackers claim breach of Venice flood system | brief | SC Media - SC Media",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNVjBZbk9IOGJKblpDVkJnRFl6STMxQzAtYWlSNERGYXVEXzJaTkRXb2t2R1lmYXNXV1QwTjV0bF96LTh6SU5rTks3RVNUa2lCRkFXNmx0ZGZObXhlMmpvbHc4aVRQLTZWTHRjbzM2T1U4TFFrSUk0c2NVVlktSi1EWFlfMUR3Q19xSTJGUXNrVU5PZWEtUWs0LXRYTVd2TXVyTTdVMmQ2WEF4Rk1JWDhZVUtERQ?oc=5\" target=\"_blank\">Hackers claim breach of Venice flood system | brief | SC Media</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SC Media</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQm45cDBraWZRdEFZdFc5c1JRaUM4b1ZqTmZZVUlxd2lCX0xMNGVTOW1BeTRSdkViTzUwQmh3Y0drejFfR3ptLTl0cjFLR0lqcnQtMXM1MXZvQWFqUlBEcENXQ0FadVN6bEtQSmxuSUh0YVdER0FncF93OV9WcWpHZnlCeHZUVm9ndDA5eW9FekVZdF91T0ZyX0NLbUV4b28zU1FFaHluRmxMSEIwRDItSmdqMHl0NmpkZjRPYkx1Q1VwZVh4azY1b2I2cWY5Xy1iRHdJ0gHYAUFVX3lxTE85TXZYekxvWExBeVY3OExEUDYtbGFvX3VOV1d1RmxBaGxkNWZLUUk4VFBYWG41ZkdqUWI2UW1OVEk4Qm5jR0lGcUpjZkdjbmVLRjNDdEFoOXYwT3lkX012YkhmU21zbXhESTlPUEZRdXI0ZW9VUUVTdmxjaTZlMDJYRGZXSU1QU3ZhdFJlU1l1UjVtbkVPUXFfdXFZZ1BMS1FiU1hkUkJRbk8ydi0wLWd3TFlrVTdfLV8wU2JTVU5ibmZROHJBajR1Y19sN1h6SkdsMTQ3cnl6Ug?oc=5",
         "date": "2026-04-14",
         "title": "Is American Water\u2019s US$48 Billion Infrastructure Pledge Altering The Investment Case For American Water Works (AWK)? - simplywall.st",
@@ -2658,6 +2571,13 @@
         "date": "2026-04-22",
         "status": "posted",
         "tweet": "Annual blockchain consensus costs (2026 est., USD billions, infra incl. energy/hardware):\n\n1. Bitcoin mining: 12.5\n2. Ethereum staking: 1.2\n3. Solana staking: 0.3",
+        "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-04-23",
+        "status": "posted",
+        "tweet": "2026 annual data center electricity costs for blockchains (global, USD billions):\n\n1. Bitcoin: $12.5B (150 TWh)\n2. Ethereum: $1.8B (22 TWh)\n3. Solana: $0.5B (6 TWh)",
         "type": "crypto"
     }
 ]
