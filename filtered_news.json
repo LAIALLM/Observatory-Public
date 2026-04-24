@@ -2929,5 +2929,12 @@
         "tweet": "By 2026,  \n\ud83c\uddf8\ud83c\uddec Singapore's smart grids cut energy consumption by 25%.  \n\ud83c\uddfa\ud83c\uddf8 Los Angeles sees just 10% reduction without full IoT integration.",
         "type": "statistical",
         "category": "smart cities"
+    },
+    {
+        "link": null,
+        "date": "2026-04-24",
+        "status": "posted",
+        "tweet": "Bitcoin's 28,000 nodes in 2026: 45% \ud83c\uddfa\ud83c\uddf8, 20% \ud83c\udde9\ud83c\uddea, 10% \ud83c\udde8\ud83c\udde6\u2014geographic concentration adds $1.2B yearly in US bandwidth/energy costs.\n\nEthereum's 15,000 nodes: 28% \ud83c\uddfa\ud83c\uddf8, 18% \ud83c\uddef\ud83c\uddf5, 15% \ud83c\uddf0\ud83c\uddf7, 12% \ud83c\udde9\ud83c\uddea\u2014broader spread cuts global infrastructural costs by 35%.",
+        "type": "crypto"
     }
 ]
