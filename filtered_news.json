@@ -2921,5 +2921,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddea NEWS: Dubais 2040 urban revolution aims for a 20-minute city, transforming travel and daily life across the UAE.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-24",
+        "status": "posted",
+        "tweet": "By 2026,  \n\ud83c\uddf8\ud83c\uddec Singapore's smart grids cut energy consumption by 25%.  \n\ud83c\uddfa\ud83c\uddf8 Los Angeles sees just 10% reduction without full IoT integration.",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
