@@ -2627,5 +2627,12 @@
         "tweet": "\ud83c\udde8\ud83c\uddf3 China\u2019s population: 1.41 billion in 2026.\n\nProjected to decline to 1.31 billion by 2050.\n\n100 million drop in 24 years.",
         "type": "statistical",
         "category": "population"
+    },
+    {
+        "link": null,
+        "date": "2026-04-25",
+        "status": "posted",
+        "tweet": "Alphabet's \ud83c\uddfa\ud83c\uddf8 data centers processed 18 exabytes daily in 2026, powering AI workloads with 99.99% uptime.\n\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
