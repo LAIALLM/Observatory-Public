@@ -2619,5 +2619,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddff NEWS: Pragues 2026 transport plan features new Dvoreck\u00fd Bridge and Metro Line D expansion to improve city connectivity",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-25",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China\u2019s population: 1.41 billion in 2026.\n\nProjected to decline to 1.31 billion by 2050.\n\n100 million drop in 24 years.",
+        "type": "statistical",
+        "category": "population"
     }
 ]
