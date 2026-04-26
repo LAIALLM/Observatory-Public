@@ -2288,5 +2288,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddeb\ud83c\uddee NEWS: Finland\u2019s Kruunuvuorensilta Bridge sets new world record, boosting Helsinkis push for eco-friendly urban mobility.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-26",
+        "status": "posted",
+        "tweet": "Bitcoin's PoW scalability in 2026 requires 200 TWh annual energy, costing $20B globally at $0.10/kWh.\n\nEthereum's PoS cuts this to 0.02 TWh, under $2M\u201499.99% efficiency gain for validators.",
+        "type": "crypto"
     }
 ]
