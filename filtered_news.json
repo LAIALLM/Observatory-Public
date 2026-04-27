@@ -2175,5 +2175,12 @@
         "status": "posted",
         "tweet": "Microsoft's \ud83c\uddfa\ud83c\uddf8 Virginia data center cluster processed 12 exabytes of AI workloads daily in 2026, up 40% from 2025.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-04-27",
+        "status": "posted",
+        "tweet": "Estimated annual data center electricity costs for major blockchains in 2026:\n\n1. Bitcoin: $2.1B (global mining ops)\n2. Ethereum: $450M (validators & nodes)\n3. Solana: $120M (high-throughput clusters)",
+        "type": "crypto"
     }
 ]
