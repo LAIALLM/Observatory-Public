@@ -1,173 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-04-17",
-        "status": "posted",
-        "tweet": "Top 5 Smart Cities by IoT Devices per Capita (2026 Projection: 500M+ global urban IoT surge)\n\n1. \ud83c\uddf8\ud83c\uddec Singapore (45K devices/person)\n2. \ud83c\udde8\ud83c\udded Zurich (38K)\n3. \ud83c\uddf3\ud83c\uddf4 Oslo (35K)\n4. \ud83c\udde9\ud83c\uddf0 Copenhagen (32K)\n5. \ud83c\uddeb\ud83c\uddee Helsinki (30K)",
-        "type": "statistical",
-        "category": "smart cities"
-    },
-    {
-        "link": null,
-        "date": "2026-04-17",
-        "status": "posted",
-        "tweet": "Annual network scalability costs in 2026: Total USD spent on hardware, energy, and validators to handle transaction growth.\n\n1. Bitcoin: $15.2B (mining rigs and global energy for 7 TPS limit)\n2. Ethereum: $8.7B (staking infrastructure post-Dencun upgrade)\n3. Solana: $4.1B (high-t",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOLUxjNTI1aF9uc256eWJodWtOV2FSSE14M29mbTdlbWxsTHR1SkQ0MzdpZ0hlSnAxZDNwZ3IzRHFUTjhzVkVMOGdpbUJEUTFBMEpQaGlsWWRRT1Jsb0pDMjlEY1FxTGVDZkloYmtkX2dQaUVRUzdfYXlINDhiNXpsbXI4QmEyVzRiZllNWTBJVWVCdEVjRURwbWVRTHJhNGtwWF9NZTFaV0ZBSXowZmVQeXZkRzNVNlJBM2psUzU1U3AxdERFb3hianJMWFZMVHc5bzg4UlUxRC1mQ2NkejJYbzRDU2k5VG56OVNOdldVN19vbkNVVHZWX2Uzb0hxRHBrS1E1bUJtMkZxNjdLSVZkdDQ1TUJBWlI4MjlXZUtyWnc1akdUSkpKYTlSNnFNN1dVcVR3WDBQcVFKb2c?oc=5",
-        "date": "2026-04-17",
-        "title": "RMI bucks the trend of construction industry contraction - facilitiesmanagement-now.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwJBVV95cUxOLUxjNTI1aF9uc256eWJodWtOV2FSSE14M29mbTdlbWxsTHR1SkQ0MzdpZ0hlSnAxZDNwZ3IzRHFUTjhzVkVMOGdpbUJEUTFBMEpQaGlsWWRRT1Jsb0pDMjlEY1FxTGVDZkloYmtkX2dQaUVRUzdfYXlINDhiNXpsbXI4QmEyVzRiZllNWTBJVWVCdEVjRURwbWVRTHJhNGtwWF9NZTFaV0ZBSXowZmVQeXZkRzNVNlJBM2psUzU1U3AxdERFb3hianJMWFZMVHc5bzg4UlUxRC1mQ2NkejJYbzRDU2k5VG56OVNOdldVN19vbkNVVHZWX2Uzb0hxRHBrS1E1bUJtMkZxNjdLSVZkdDQ1TUJBWlI4MjlXZUtyWnc1akdUSkpKYTlSNnFNN1dVcVR3WDBQcVFKb2c?oc=5\" target=\"_blank\">RMI bucks the trend of construction industry contraction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facilitiesmanagement-now.com</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdDgzYjZkU3JseGpqdHpOX2MzZG80d2dWZnV5bldHVEI5NEprWXJHcmFvSnQ0eWxTd1ZPRFpVNzVNdEYyT2E1VVJseFZITGkwVWxwY1JkZmFiQ3pWUUtXT29SSW5sSVpFeWM0M3Fsbm1ld3l6RDVWNE5RY05pRHdHRS0xZ3otQi1LdTRXZ1A4TnhyY1AwOE1odFFhMmstRDBLZ1BNZ0R3?oc=5",
-        "date": "2026-04-17",
-        "title": "Persimmon decorator reaches national apprentice finals - Scottish Construction Now",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQdDgzYjZkU3JseGpqdHpOX2MzZG80d2dWZnV5bldHVEI5NEprWXJHcmFvSnQ0eWxTd1ZPRFpVNzVNdEYyT2E1VVJseFZITGkwVWxwY1JkZmFiQ3pWUUtXT29SSW5sSVpFeWM0M3Fsbm1ld3l6RDVWNE5RY05pRHdHRS0xZ3otQi1LdTRXZ1A4TnhyY1AwOE1odFFhMmstRDBLZ1BNZ0R3?oc=5\" target=\"_blank\">Persimmon decorator reaches national apprentice finals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scottish Construction Now</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGh6Tk14dTI3SGFFNG9PbDhIVkhYNGp5V18tWDdjRXEzaDFDTlZtc2dEWTdBcHNSM1ZJNURfZVV1NHY4MG1sdFh4MjVmX193OU1KdElfVHU5NTl5QlVsV0VNQTVOR2lEOEoySTQ4V1I3emwwZ1lkc2ExazlJdXBBZ19Wdks?oc=5",
-        "date": "2026-04-17",
-        "title": "Infrastructure & Incentives Update (April 17, 2026) - Business Facilities",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGh6Tk14dTI3SGFFNG9PbDhIVkhYNGp5V18tWDdjRXEzaDFDTlZtc2dEWTdBcHNSM1ZJNURfZVV1NHY4MG1sdFh4MjVmX193OU1KdElfVHU5NTl5QlVsV0VNQTVOR2lEOEoySTQ4V1I3emwwZ1lkc2ExazlJdXBBZ19Wdks?oc=5\" target=\"_blank\">Infrastructure & Incentives Update (April 17, 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Facilities</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeUJGd08yeVpMZ1YwbzQwOFVSZUhoQlN0TkRQTHV1aGQzRUxnMFUySlVsQmdIaDFsVGJSNzNPVWZfWHN6R0RSUU1rR095aS13WGJHVGJYR1l1RTQ0N0k4ZW53N04yTVlva3FtX2ktbjVOdWlSZHItSmNOWmZyVVBYaE5OVW5sTk5WRW5MX2JkZUNZRTlrNTRyanlZcnM1cEFlcmUxOGZCVm82WC04R3lhZmFOeUp5ZkJ5a0NDbA?oc=5",
-        "date": "2026-04-17",
-        "title": "Why Techstrong is Heading to Prague for SUSECON: Sovereignty, Open Infrastructure and the Future of AI - DevOps.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPeUJGd08yeVpMZ1YwbzQwOFVSZUhoQlN0TkRQTHV1aGQzRUxnMFUySlVsQmdIaDFsVGJSNzNPVWZfWHN6R0RSUU1rR095aS13WGJHVGJYR1l1RTQ0N0k4ZW53N04yTVlva3FtX2ktbjVOdWlSZHItSmNOWmZyVVBYaE5OVW5sTk5WRW5MX2JkZUNZRTlrNTRyanlZcnM1cEFlcmUxOGZCVm82WC04R3lhZmFOeUp5ZkJ5a0NDbA?oc=5\" target=\"_blank\">Why Techstrong is Heading to Prague for SUSECON: Sovereignty, Open Infrastructure and the Future of AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DevOps.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQW1CNldiYTlZTTZ0Tkp5SXZRV3BtajlHa3o3ZkV1b0hkdDNvRm8wWExKMXgtY283MmxyU1U4c3N1X1VCekFCcXZVcDVHOWoxRHZ6dWdTQWFidzA2SjZkd281ajFxUnBVTVZCaVFtaGVRd1g5MTdESjRZUGJKdTRQVEZubHQ1Q0ZLcEJYX085ZTNRaDJUdlFQUEpGeDhOLUlENEdLdzEyR2xBanZrakNkS2k4dy1jdlBMbDNhWnVXRTR6WEQ2VXRYMi1vdkkwQmgtMk5rVEhVb2VTeTJtSi1V?oc=5",
-        "date": "2026-04-17",
-        "title": "News | Clarity and early action needed as Biodiversity Net Gain rules tighten for major infrastructure projects - CoStar",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQW1CNldiYTlZTTZ0Tkp5SXZRV3BtajlHa3o3ZkV1b0hkdDNvRm8wWExKMXgtY283MmxyU1U4c3N1X1VCekFCcXZVcDVHOWoxRHZ6dWdTQWFidzA2SjZkd281ajFxUnBVTVZCaVFtaGVRd1g5MTdESjRZUGJKdTRQVEZubHQ1Q0ZLcEJYX085ZTNRaDJUdlFQUEpGeDhOLUlENEdLdzEyR2xBanZrakNkS2k4dy1jdlBMbDNhWnVXRTR6WEQ2VXRYMi1vdkkwQmgtMk5rVEhVb2VTeTJtSi1V?oc=5\" target=\"_blank\">News | Clarity and early action needed as Biodiversity Net Gain rules tighten for major infrastructure projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoStar</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: Clarity and early action needed as Biodiversity Net Gain rules tighten for major infrastructure projects"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbnhva3NYcUJMSU1Od2hId0xQRWhWWkxXVTFSZHhWbmh1SEJXNEVqTDNkaFh2MUpKOF82eFdPX0p6OEtxR1kwNTJfRVdaaU1IUG9ZQXpodTVQM05SUTluazVvMndCc29OcFhsaUE3cnVKcFZPbXNmSl90YklwN1VWTkNrWHBKNWFkWmZmS1FtMnJPUlJXLTFNdEZMZzE1UU13UDFUY1NRY2RXeFI0b25MWHZPMnRYWDdXdmlQaEw0amJGREdDelF0RVBoREhHOHFRejk0?oc=5",
-        "date": "2026-04-17",
-        "title": "UAE launches nationwide infrastructure projects worth billions across key sectors - facilitiesmanagement-now.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbnhva3NYcUJMSU1Od2hId0xQRWhWWkxXVTFSZHhWbmh1SEJXNEVqTDNkaFh2MUpKOF82eFdPX0p6OEtxR1kwNTJfRVdaaU1IUG9ZQXpodTVQM05SUTluazVvMndCc29OcFhsaUE3cnVKcFZPbXNmSl90YklwN1VWTkNrWHBKNWFkWmZmS1FtMnJPUlJXLTFNdEZMZzE1UU13UDFUY1NRY2RXeFI0b25MWHZPMnRYWDdXdmlQaEw0amJGREdDelF0RVBoREhHOHFRejk0?oc=5\" target=\"_blank\">UAE launches nationwide infrastructure projects worth billions across key sectors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facilitiesmanagement-now.com</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": "\ud83c\udde6\ud83c\uddea NEWS: UAE launches nationwide infrastructure projects worth billions across key sectors"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN196V01KQzkyWG1Fa3psUWs1QXpxQkxJVnhHa3JBeEJscDNHY2pBeklHYTMwZGwyRm5NNWNkVEVOQ2NMcFdSU3NYX3drWXk2ejFmdzVhcU9FWHdqUEk1cEpleTRxSGR6d05nSHlKS1VDZ3NWcTZFTE5kdTZKdERZV1REeUFfTmdNNHpwejhmWnB2ek9qeE1tdGR0YjRER0NoOXNVTFhWU0VwQQ?oc=5",
-        "date": "2026-04-17",
-        "title": "Together We Build: War creates boost in global renewable infrastructure - Estes Park Trail-Gazette",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN196V01KQzkyWG1Fa3psUWs1QXpxQkxJVnhHa3JBeEJscDNHY2pBeklHYTMwZGwyRm5NNWNkVEVOQ2NMcFdSU3NYX3drWXk2ejFmdzVhcU9FWHdqUEk1cEpleTRxSGR6d05nSHlKS1VDZ3NWcTZFTE5kdTZKdERZV1REeUFfTmdNNHpwejhmWnB2ek9qeE1tdGR0YjRER0NoOXNVTFhWU0VwQQ?oc=5\" target=\"_blank\">Together We Build: War creates boost in global renewable infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Estes Park Trail-Gazette</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLTJvM0N3Z0JSbGpNZTZ2Uk1HNmZ0dUNpYU5EdzdSY3FIa2F3SDlHeHdYTDlDSWVicjd3cng0aTJNUlBrQ25NTTNPV3hINjlkVDQ0U1hfNFNySHk4Wk9HZms1WldSTmZIc084YmI0UHpPZEpfdnhnbEdWdVlJY2xmS0h5a2ZZbTNMNWNVT3owLWN0dw?oc=5",
-        "date": "2026-04-17",
-        "title": "Huntsville bets on greenways to help fuel growth - Axios",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQLTJvM0N3Z0JSbGpNZTZ2Uk1HNmZ0dUNpYU5EdzdSY3FIa2F3SDlHeHdYTDlDSWVicjd3cng0aTJNUlBrQ25NTTNPV3hINjlkVDQ0U1hfNFNySHk4Wk9HZms1WldSTmZIc084YmI0UHpPZEpfdnhnbEdWdVlJY2xmS0h5a2ZZbTNMNWNVT3owLWN0dw?oc=5\" target=\"_blank\">Huntsville bets on greenways to help fuel growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeTRjVjZJQjY2VmF5Z1hXOWJydmNidGpTU0dkNi13Y041N0VDTGdSRlRtTVd2RFRjblVrOEhHdWh4bk9tcHl4WGZZN1pyMzdaV0RPbVpKbmw2aHByM2VSSzRDNnhvNmdqU0p2UGtHUXRnODdTcGRYbGZncUloLWRUNmVQUUFGN3hHUFZmSm0tdm9LbEliWjBxU3MyNXVQZWVVcHNCd3N1Vkp3S2MyanB4SWJkcGxLaVEzdThCd3RjcWdDY0FGaUc5eFI2UjgyamVDTEEybg?oc=5",
-        "date": "2026-04-17",
-        "title": "UAE accelerates 2026 infrastructure projects: Energy, water, transport, roads, urban development nationwide - Economy Middle East",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeTRjVjZJQjY2VmF5Z1hXOWJydmNidGpTU0dkNi13Y041N0VDTGdSRlRtTVd2RFRjblVrOEhHdWh4bk9tcHl4WGZZN1pyMzdaV0RPbVpKbmw2aHByM2VSSzRDNnhvNmdqU0p2UGtHUXRnODdTcGRYbGZncUloLWRUNmVQUUFGN3hHUFZmSm0tdm9LbEliWjBxU3MyNXVQZWVVcHNCd3N1Vkp3S2MyanB4SWJkcGxLaVEzdThCd3RjcWdDY0FGaUc5eFI2UjgyamVDTEEybg?oc=5\" target=\"_blank\">UAE accelerates 2026 infrastructure projects: Energy, water, transport, roads, urban development nationwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economy Middle East</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": "(\ud83c\udde6\ud83c\uddea) NEWS: UAE accelerates 2026 infrastructure projects nationwide, focusing on energy, water, transport, roads, and urban development"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZXd0WUxtN1Z1cDRCektPYktfVGZwMHhSOFNHRV9BM29NQWJNS3VwcjhXbC1ORE4xdlRUOFpISzdqMjhfNG1nZmRSQndXTWpEbkxEdHdNd3N5QkdqVlFoRnlLZk1uWHp5RTZtaEFGempkWC1KY25mYTNmM2hzMERXczVHWjE3TENHb0x0MHNHV0lfRnhKOWc5N2RpLTFvLUxwb3czY1ppMU1rRWFBNmxvYjZzUjdKM1h4RGFuQWhlZUktczNpalBtR0d0LXcza3lUbUc2MjVoMnhPeFU?oc=5",
-        "date": "2026-04-17",
-        "title": "'Department of Municipalities and Transport', Aldar to deliver 9,000 housing rental units in Abu Dhabi - Gulf Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZXd0WUxtN1Z1cDRCektPYktfVGZwMHhSOFNHRV9BM29NQWJNS3VwcjhXbC1ORE4xdlRUOFpISzdqMjhfNG1nZmRSQndXTWpEbkxEdHdNd3N5QkdqVlFoRnlLZk1uWHp5RTZtaEFGempkWC1KY25mYTNmM2hzMERXczVHWjE3TENHb0x0MHNHV0lfRnhKOWc5N2RpLTFvLUxwb3czY1ppMU1rRWFBNmxvYjZzUjdKM1h4RGFuQWhlZUktczNpalBtR0d0LXcza3lUbUc2MjVoMnhPeFU?oc=5\" target=\"_blank\">'Department of Municipalities and Transport', Aldar to deliver 9,000 housing rental units in Abu Dhabi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf Today</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\udde6\ud83c\uddea NEWS: Aldar to deliver 9,000 housing rental units in Abu Dhabi for Department of Municipalities and Transport $ALDAR"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS0Rmb2xibVZRd01NVExyS2xseWpHMGtraXh2SlgtY1JQYnNfRGVUU0JhQmk3M05HeWtnQWs1emdjS05NN1dteVJMcklEOHZueDB2N2VXQjVRQTdtbHFCWFc3WWw1X3U1bmpJWlJwSUtPWUhwZUtBclVVdXh6NS1iYkZYVE02dGwxWmYzN3FuZnMwSkRmbXNZVEczY0YyRVI2UXpsejd6Z3E4YW5kSnZYemFpZEk?oc=5",
-        "date": "2026-04-17",
-        "title": "Punjab CM Bhagwant Mann Announces \u20b9177 Crore Development Projects to Transform Historic Batala City - Indian Masterminds",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQS0Rmb2xibVZRd01NVExyS2xseWpHMGtraXh2SlgtY1JQYnNfRGVUU0JhQmk3M05HeWtnQWs1emdjS05NN1dteVJMcklEOHZueDB2N2VXQjVRQTdtbHFCWFc3WWw1X3U1bmpJWlJwSUtPWUhwZUtBclVVdXh6NS1iYkZYVE02dGwxWmYzN3FuZnMwSkRmbXNZVEczY0YyRVI2UXpsejd6Z3E4YW5kSnZYemFpZEk?oc=5\" target=\"_blank\">Punjab CM Bhagwant Mann Announces \u20b9177 Crore Development Projects to Transform Historic Batala City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Masterminds</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Punjab CM Bhagwant Mann announces \u20b9177 crore development projects to transform historic Batala City"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWG1RdG9oem9XTmNUcGVnN2xZN0hXODBFam1KQ3pOcDlxUUI0WWI4M0pmX2Roa2JHSUhKQVVnNFhLNnpzXy1tT0tUSUxFc0FzZzhhRUxPQS00ZzZzMlZ1OWFaWlJHb09IRGJwN1RfUV83NS1Kbjdoc3pDUVVUakpVNEUyc003cFhDQUhteVk4ZjNDaWRTRW9ZY3R5QQ?oc=5",
-        "date": "2026-04-17",
-        "title": "Tallinn opens second circular economy centre - Smart Cities World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQWG1RdG9oem9XTmNUcGVnN2xZN0hXODBFam1KQ3pOcDlxUUI0WWI4M0pmX2Roa2JHSUhKQVVnNFhLNnpzXy1tT0tUSUxFc0FzZzhhRUxPQS00ZzZzMlZ1OWFaWlJHb09IRGJwN1RfUV83NS1Kbjdoc3pDUVVUakpVNEUyc003cFhDQUhteVk4ZjNDaWRTRW9ZY3R5QQ?oc=5\" target=\"_blank\">Tallinn opens second circular economy centre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbnhva3NYcUJMSU1Od2hId0xQRWhWWkxXVTFSZHhWbmh1SEJXNEVqTDNkaFh2MUpKOF82eFdPX0p6OEtxR1kwNTJfRVdaaU1IUG9ZQXpodTVQM05SUTluazVvMndCc29OcFhsaUE3cnVKcFZPbXNmSl90YklwN1VWTkNrWHBKNWFkWmZmS1FtMnJPUlJXLTFNdEZMZzE1UU13UDFUY1NRY2RXeFI0b25MWHZPMnRYWDdXdmlQaEw0amJGREdDelF0RVBoREhHOHFRejk0?oc=5",
-        "date": "2026-04-17",
-        "title": "UAE launches nationwide infrastructure projects worth billions across key sectors - facilitiesmanagement-now.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbnhva3NYcUJMSU1Od2hId0xQRWhWWkxXVTFSZHhWbmh1SEJXNEVqTDNkaFh2MUpKOF82eFdPX0p6OEtxR1kwNTJfRVdaaU1IUG9ZQXpodTVQM05SUTluazVvMndCc29OcFhsaUE3cnVKcFZPbXNmSl90YklwN1VWTkNrWHBKNWFkWmZmS1FtMnJPUlJXLTFNdEZMZzE1UU13UDFUY1NRY2RXeFI0b25MWHZPMnRYWDdXdmlQaEw0amJGREdDelF0RVBoREhHOHFRejk0?oc=5\" target=\"_blank\">UAE launches nationwide infrastructure projects worth billions across key sectors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facilitiesmanagement-now.com</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "posted",
-        "tweet": "\ud83c\udde6\ud83c\uddea NEWS: UAE launches nationwide infrastructure projects worth billions across key sectors",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeTRjVjZJQjY2VmF5Z1hXOWJydmNidGpTU0dkNi13Y041N0VDTGdSRlRtTVd2RFRjblVrOEhHdWh4bk9tcHl4WGZZN1pyMzdaV0RPbVpKbmw2aHByM2VSSzRDNnhvNmdqU0p2UGtHUXRnODdTcGRYbGZncUloLWRUNmVQUUFGN3hHUFZmSm0tdm9LbEliWjBxU3MyNXVQZWVVcHNCd3N1Vkp3S2MyanB4SWJkcGxLaVEzdThCd3RjcWdDY0FGaUc5eFI2UjgyamVDTEEybg?oc=5",
-        "date": "2026-04-17",
-        "title": "UAE accelerates 2026 infrastructure projects: Energy, water, transport, roads, urban development nationwide - Economy Middle East",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeTRjVjZJQjY2VmF5Z1hXOWJydmNidGpTU0dkNi13Y041N0VDTGdSRlRtTVd2RFRjblVrOEhHdWh4bk9tcHl4WGZZN1pyMzdaV0RPbVpKbmw2aHByM2VSSzRDNnhvNmdqU0p2UGtHUXRnODdTcGRYbGZncUloLWRUNmVQUUFGN3hHUFZmSm0tdm9LbEliWjBxU3MyNXVQZWVVcHNCd3N1Vkp3S2MyanB4SWJkcGxLaVEzdThCd3RjcWdDY0FGaUc5eFI2UjgyamVDTEEybg?oc=5\" target=\"_blank\">UAE accelerates 2026 infrastructure projects: Energy, water, transport, roads, urban development nationwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economy Middle East</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "posted",
-        "tweet": "\ud83c\udde6\ud83c\uddea NEWS: UAE speeds up 2026 infrastructure push in energy, water, transport, roads and urban development across the nation",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQW1CNldiYTlZTTZ0Tkp5SXZRV3BtajlHa3o3ZkV1b0hkdDNvRm8wWExKMXgtY283MmxyU1U4c3N1X1VCekFCcXZVcDVHOWoxRHZ6dWdTQWFidzA2SjZkd281ajFxUnBVTVZCaVFtaGVRd1g5MTdESjRZUGJKdTRQVEZubHQ1Q0ZLcEJYX085ZTNRaDJUdlFQUEpGeDhOLUlENEdLdzEyR2xBanZrakNkS2k4dy1jdlBMbDNhWnVXRTR6WEQ2VXRYMi1vdkkwQmgtMk5rVEhVb2VTeTJtSi1V?oc=5",
-        "date": "2026-04-17",
-        "title": "News | Clarity and early action needed as Biodiversity Net Gain rules tighten for major infrastructure projects - CoStar",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQW1CNldiYTlZTTZ0Tkp5SXZRV3BtajlHa3o3ZkV1b0hkdDNvRm8wWExKMXgtY283MmxyU1U4c3N1X1VCekFCcXZVcDVHOWoxRHZ6dWdTQWFidzA2SjZkd281ajFxUnBVTVZCaVFtaGVRd1g5MTdESjRZUGJKdTRQVEZubHQ1Q0ZLcEJYX085ZTNRaDJUdlFQUEpGeDhOLUlENEdLdzEyR2xBanZrakNkS2k4dy1jdlBMbDNhWnVXRTR6WEQ2VXRYMi1vdkkwQmgtMk5rVEhVb2VTeTJtSi1V?oc=5\" target=\"_blank\">News | Clarity and early action needed as Biodiversity Net Gain rules tighten for major infrastructure projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoStar</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "NEWS: Clarity and early action needed as Biodiversity Net Gain rules tighten for major infrastructure projects",
-        "type": "news"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2ZXVlZMekZIVWtuVXd2YVR0WGRuam5GckgzSFBvMnZ2cGRRVWRKdTlNTlYzbUdNUjllYzdRcEt2N1BqdHhaLURwdTNzYWNMMUpjNmR6Z3IxNE1NSERYQUdybkZtd0lXUlY2RWhEdzdiVjJwaks3Q0w3ZWllWmlscTNzZw?oc=5",
         "date": "2026-04-18",
         "title": "Building Practical MLOps on OCI: From Training to Serving with Confidence - Oracle Blogs",
@@ -2336,5 +2168,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Karnataka submits 1,082 urban development projects worth \u20b91.25 lakh crore to the Centre",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-27",
+        "status": "posted",
+        "tweet": "Microsoft's \ud83c\uddfa\ud83c\uddf8 Virginia data center cluster processed 12 exabytes of AI workloads daily in 2026, up 40% from 2025.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
