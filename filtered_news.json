@@ -2067,5 +2067,12 @@
         "tweet": "By 2026, 58% of the world's population\u20144.7 billion people\u2014will live in urban areas, projected to surge to 68% by 2050.",
         "type": "statistical",
         "category": "urban planning"
+    },
+    {
+        "link": null,
+        "date": "2026-04-28",
+        "status": "posted",
+        "tweet": "Bitcoin's 2026 data center energy use: 160 TWh/year ($8B cost at avg rates).\n\nSolana's: 0.2 TWh/year ($10M cost).\n\n800x difference in infrastructural footprint.",
+        "type": "crypto"
     }
 ]
