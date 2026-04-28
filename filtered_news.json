@@ -1,128 +1,5 @@
 [
     {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2ZXVlZMekZIVWtuVXd2YVR0WGRuam5GckgzSFBvMnZ2cGRRVWRKdTlNTlYzbUdNUjllYzdRcEt2N1BqdHhaLURwdTNzYWNMMUpjNmR6Z3IxNE1NSERYQUdybkZtd0lXUlY2RWhEdzdiVjJwaks3Q0w3ZWllWmlscTNzZw?oc=5",
-        "date": "2026-04-18",
-        "title": "Building Practical MLOps on OCI: From Training to Serving with Confidence - Oracle Blogs",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2ZXVlZMekZIVWtuVXd2YVR0WGRuam5GckgzSFBvMnZ2cGRRVWRKdTlNTlYzbUdNUjllYzdRcEt2N1BqdHhaLURwdTNzYWNMMUpjNmR6Z3IxNE1NSERYQUdybkZtd0lXUlY2RWhEdzdiVjJwaks3Q0w3ZWllWmlscTNzZw?oc=5\" target=\"_blank\">Building Practical MLOps on OCI: From Training to Serving with Confidence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oracle Blogs</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUwybUhTTWJ4dk9wbF9oUlZfMENTU2pvNWc3RWlTMF9nWmdMTjJPSGNBX2FkVFdjZ190OGpsN1JIaUp5X0hndENwNTVwcFI4WkNyQkRRakt1bWR2VlJ1eDdIV04zQm9iUU1JcFY1MWhCcjZsUk0xRGtxYzNmVUliRzhkS1ltZXJyR2JfZ05VZnVuUnprSHYtbkdZRU5jd3o4b253SjJBcjlCZzdtSkV2ZGFn?oc=5",
-        "date": "2026-04-18",
-        "title": "AI Just Became Core Infrastructure: Why Businesses Can\u2019t Treat It as a Side Project Anymore - Times Square Chronicles",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUwybUhTTWJ4dk9wbF9oUlZfMENTU2pvNWc3RWlTMF9nWmdMTjJPSGNBX2FkVFdjZ190OGpsN1JIaUp5X0hndENwNTVwcFI4WkNyQkRRakt1bWR2VlJ1eDdIV04zQm9iUU1JcFY1MWhCcjZsUk0xRGtxYzNmVUliRzhkS1ltZXJyR2JfZ05VZnVuUnprSHYtbkdZRU5jd3o4b253SjJBcjlCZzdtSkV2ZGFn?oc=5\" target=\"_blank\">AI Just Became Core Infrastructure: Why Businesses Can\u2019t Treat It as a Side Project Anymore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times Square Chronicles</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRFVKSmhVSGVwMlNvZUd6akEyOGVkRV9RMjAyMVNuNnpNQktDTkJCY1cxSmEtMUFWUDlYNUFZY0U0ajlubkxJTmtDM2EtZ2x0ZEZreDU1dlhnRl8xNVlwWmxaRnZKOXp4NGlWY1ZXYVg0ai1lQWlSdlJQcDB4VnFaRldpVGpBOU0wRlFxajlwQnYwLVViNWp4ejAzdmY2MmlYTXJnekxsUG83cUFHWVA4U183Q04yNFhfSXJNeGlTUjFwY0E?oc=5",
-        "date": "2026-04-18",
-        "title": "UAE official says opening Hormuz integral to any Iran deal, describes infrastructure damage 'manageable' - Al-Monitor",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRFVKSmhVSGVwMlNvZUd6akEyOGVkRV9RMjAyMVNuNnpNQktDTkJCY1cxSmEtMUFWUDlYNUFZY0U0ajlubkxJTmtDM2EtZ2x0ZEZreDU1dlhnRl8xNVlwWmxaRnZKOXp4NGlWY1ZXYVg0ai1lQWlSdlJQcDB4VnFaRldpVGpBOU0wRlFxajlwQnYwLVViNWp4ejAzdmY2MmlYTXJnekxsUG83cUFHWVA4U183Q04yNFhfSXJNeGlTUjFwY0E?oc=5\" target=\"_blank\">UAE official says opening Hormuz integral to any Iran deal, describes infrastructure damage 'manageable'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al-Monitor</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObHljWG43eG9TYmJYZ0dESXFVVFlfZ3RjQzZldG1mRDA1QnFxTHhXVEtfYWF5WGJpWVVEN1pVaE5FWWltSlM5RXE4aS1uUjZvTFpYTnFxWmlLYUxUdHBGYWIydlJKVDI3dVNjZmd2Nm9qUVFLcUFKUlBqNmFqa3NzTWZ5TkdKcEdueXVHS3dkUUQ2REtXdEN5eWdkd25GNzNCb1dKeXd5WUdqdzRaTVVTddIBtgFBVV95cUxPR1pmTVdYTVl5NWc1dVltQnNOVlNGVUktOXkzNU1HZUxQN0ppbU85UUwtTFZuZXJDc3RFeldKLWJidExFYTZKQ242OXd5TjZONTY3ODBLU3h1bWF3aXl5eXFIRENVNnhyLWx4LVhDeUZjLW1sSlFkUGJfSEJmSzhsX19ORVZJd3ZWUUV1SHd1VTU4dDg1cm1sY0stQS1NOFVCNlZVUm82OUNvbU84ajR5bDNIeXJDZw?oc=5",
-        "date": "2026-04-18",
-        "title": "Despite rise in costs, construction market to grow 6.9% through 2034 - The Hans India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxObHljWG43eG9TYmJYZ0dESXFVVFlfZ3RjQzZldG1mRDA1QnFxTHhXVEtfYWF5WGJpWVVEN1pVaE5FWWltSlM5RXE4aS1uUjZvTFpYTnFxWmlLYUxUdHBGYWIydlJKVDI3dVNjZmd2Nm9qUVFLcUFKUlBqNmFqa3NzTWZ5TkdKcEdueXVHS3dkUUQ2REtXdEN5eWdkd25GNzNCb1dKeXd5WUdqdzRaTVVTddIBtgFBVV95cUxPR1pmTVdYTVl5NWc1dVltQnNOVlNGVUktOXkzNU1HZUxQN0ppbU85UUwtTFZuZXJDc3RFeldKLWJidExFYTZKQ242OXd5TjZONTY3ODBLU3h1bWF3aXl5eXFIRENVNnhyLWx4LVhDeUZjLW1sSlFkUGJfSEJmSzhsX19ORVZJd3ZWUUV1SHd1VTU4dDg1cm1sY0stQS1NOFVCNlZVUm82OUNvbU84ajR5bDNIeXJDZw?oc=5\" target=\"_blank\">Despite rise in costs, construction market to grow 6.9% through 2034</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hans India</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGNEd3dIUTY1LUM0ZUNZLTBZX1drQnVrV2NBajRudlpmUHNZYTIyTjlHWFZ4SFczQXVMMVAxaVhZWG1MY04yYzVMS0xETTV2b1U1N1JHUm1pMGVRbDc3cGZPU1BxMVBITVpqSHpVLXkwZFFHS214VGFzM2w4NnBudXg0dFExWHF0X05PRG8wajVaWHBqWjdqb0p3?oc=5",
-        "date": "2026-04-18",
-        "title": "CONSULTATIVE MEETING ON URBANIZATION STRATEGY HELD AT CHUMOUKEDIMA - DIPR Nagaland",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGNEd3dIUTY1LUM0ZUNZLTBZX1drQnVrV2NBajRudlpmUHNZYTIyTjlHWFZ4SFczQXVMMVAxaVhZWG1MY04yYzVMS0xETTV2b1U1N1JHUm1pMGVRbDc3cGZPU1BxMVBITVpqSHpVLXkwZFFHS214VGFzM2w4NnBudXg0dFExWHF0X05PRG8wajVaWHBqWjdqb0p3?oc=5\" target=\"_blank\">CONSULTATIVE MEETING ON URBANIZATION STRATEGY HELD AT CHUMOUKEDIMA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIPR Nagaland</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNnB1b3VMWXdpaGJTWkRSRTV4UVlTaThGRGlhSVF4aW9Yb2h1UUFmZm9FYWtxTFo4Q1Y4QXh0NmNiZ3lKNlJLOFlyclMtbU5fdlo2TDhRX0laV19qTGVPUVEwSDRZLV93QUVWWVFlcXA2UHQ2ejdubGFjRFVHWjRCTzZ3Q3JINmxGMng1MnBncDItZ3I0QlhidG1FeVNpRW94NkdfdGx5UTFIUGxHaVNvUjRqTzhsVkhmeVJwTnNR?oc=5",
-        "date": "2026-04-18",
-        "title": "Why Gulf's smart cities must build public safety into their foundations - The National",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQNnB1b3VMWXdpaGJTWkRSRTV4UVlTaThGRGlhSVF4aW9Yb2h1UUFmZm9FYWtxTFo4Q1Y4QXh0NmNiZ3lKNlJLOFlyclMtbU5fdlo2TDhRX0laV19qTGVPUVEwSDRZLV93QUVWWVFlcXA2UHQ2ejdubGFjRFVHWjRCTzZ3Q3JINmxGMng1MnBncDItZ3I0QlhidG1FeVNpRW94NkdfdGx5UTFIUGxHaVNvUjRqTzhsVkhmeVJwTnNR?oc=5\" target=\"_blank\">Why Gulf's smart cities must build public safety into their foundations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNW1qTjNNZXdxU21pcjZJTk1MQkdMbS1mVXhXcWVHX0Y2OURzQkFvU0Z2MXRIRWhoT2J6ZlI1NE9ETC1KeXRMdzItX21yZW4wOXp4RzZvQml1WlM5dmdoRHFQdm4yQ3BtWlFUR0MyVl9YTmlkNGNxUjVXT1drT3V5a3h1UGpKRTI4eTJvczA4WXAzaVBPcmpoNjQ4djlrdzNvX01TQzF0emFDU1ZtQ1BmU3hBT2kwX3fSAbwBQVVfeXFMTWI5eURKSUoyRVQxMThsSERwVEg3b3VyMmRFRU1nUkVsYVZpZDFfcFo5dHJqTHdFcVJlMlRfc2tkbnFpRXN0blVZSi14SDAzU09uVTBDT0VMVTRFQW55dzBZNmtlaE1zN3h3X1R6V2VTSEJnN1hoVHN2OUdmSy16YnBmR0pOdjIzRmEtYWpmVTY4MnZpMHdwcFhjUmd5UzduUGh5dVl5N1BMQzJnNVJmbzRWMDdlcHQtTVdTa0I?oc=5",
-        "date": "2026-04-18",
-        "title": "Rs 120 crore ICCC hub to boost safety and sanitation inaugurated - The Hans India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPNW1qTjNNZXdxU21pcjZJTk1MQkdMbS1mVXhXcWVHX0Y2OURzQkFvU0Z2MXRIRWhoT2J6ZlI1NE9ETC1KeXRMdzItX21yZW4wOXp4RzZvQml1WlM5dmdoRHFQdm4yQ3BtWlFUR0MyVl9YTmlkNGNxUjVXT1drT3V5a3h1UGpKRTI4eTJvczA4WXAzaVBPcmpoNjQ4djlrdzNvX01TQzF0emFDU1ZtQ1BmU3hBT2kwX3fSAbwBQVVfeXFMTWI5eURKSUoyRVQxMThsSERwVEg3b3VyMmRFRU1nUkVsYVZpZDFfcFo5dHJqTHdFcVJlMlRfc2tkbnFpRXN0blVZSi14SDAzU09uVTBDT0VMVTRFQW55dzBZNmtlaE1zN3h3X1R6V2VTSEJnN1hoVHN2OUdmSy16YnBmR0pOdjIzRmEtYWpmVTY4MnZpMHdwcFhjUmd5UzduUGh5dVl5N1BMQzJnNVJmbzRWMDdlcHQtTVdTa0I?oc=5\" target=\"_blank\">Rs 120 crore ICCC hub to boost safety and sanitation inaugurated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hans India</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-04-18",
-        "status": "posted",
-        "tweet": "Annual infrastructure costs for blockchain scalability in 2026 (USD billions):\n\n1. Bitcoin: $18.2 (mining energy/hardware)\n2. Ethereum: $6.5 (staking nodes/L2 infra)\n3. Solana: $0.8 (validator efficiency)",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2026-04-18",
-        "status": "posted",
-        "tweet": "Top 5 cities by active megaprojects in 2026 (projected count)\n\n1. \ud83c\udde8\ud83c\uddf3 Shanghai, China - 45\n2. \ud83c\uddf8\ud83c\uddec Singapore - 32\n3. \ud83c\udde6\ud83c\uddea Dubai, UAE - 28\n4. \ud83c\uddfa\ud83c\uddf8 New York, USA - 25\n5. \ud83c\uddee\ud83c\uddf3 Mumbai, India - 22",
-        "type": "statistical",
-        "category": "engineering projects"
-    },
-    {
-        "link": null,
-        "date": "2026-04-18",
-        "status": "posted",
-        "tweet": "Microsoft $MSFT Azure data centers in \ud83c\uddfa\ud83c\uddf8 processed 15 exabytes daily in 2026, achieving 99.999% uptime across 60 global regions.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmx1X2tBVG80UFhyaEE1Smhva2hqS2Z1UzJtNF9wcm1LQlVZMk9XRUt4VEZSUGxRcVAwU0RHbklRM0x2NlVxVEN1NXhuNmJncXRSVnd0ek1uWVEyV29WQ1NOdk1vWDNMRW1taVNRUjVaNHhDR1VpeGRUXzNtbWF1bnNISU4tMUVkQ2NockJnMFZzMWRsMkx2UDl3SEU5VlJVZHFhZWNyYzg?oc=5",
-        "date": "2026-04-18",
-        "title": "Best Infrastructure Stocks To Follow Now - April 18th - MarketBeat",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmx1X2tBVG80UFhyaEE1Smhva2hqS2Z1UzJtNF9wcm1LQlVZMk9XRUt4VEZSUGxRcVAwU0RHbklRM0x2NlVxVEN1NXhuNmJncXRSVnd0ek1uWVEyV29WQ1NOdk1vWDNMRW1taVNRUjVaNHhDR1VpeGRUXzNtbWF1bnNISU4tMUVkQ2NockJnMFZzMWRsMkx2UDl3SEU5VlJVZHFhZWNyYzg?oc=5\" target=\"_blank\">Best Infrastructure Stocks To Follow Now - April 18th</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQy1SeUFsOXVxQm9EekNXN1Mwd0Voa0ZVTDNSelJGM3h0ZFJha3I2a010S08zZWxYNTJ5NThhNF84QmVVZy1XVnFsSkZTeTFacnR0a3lqaV9kbUJxWVk3WURudldSallFRWNtaVVHTi12Q1NHb1JUWGVLd2xqSEM0OHhhenBHRWtEWldrY9IBlAFBVV95cUxQRXY5eGNNVDdrX0tRUE9iVkh0WE1OME1JUWMtSWpZSHJrc0ZNUDh1Sm0wUUN1dEQwVXNUYk03bThNS1lZUmNyRWhKNjM5SHJYakRWMkJnaGVpUjJIdldWaERKN2xzclQxNDFnNmwxNnprZnI5WlJkOG5Kdm15UlZGMno3M1VVbmJXU25QTnJ1WUQzNUZt?oc=5",
-        "date": "2026-04-18",
-        "title": "ADP to focus on irrigation, water infrastructure - The Express Tribune",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNQy1SeUFsOXVxQm9EekNXN1Mwd0Voa0ZVTDNSelJGM3h0ZFJha3I2a010S08zZWxYNTJ5NThhNF84QmVVZy1XVnFsSkZTeTFacnR0a3lqaV9kbUJxWVk3WURudldSallFRWNtaVVHTi12Q1NHb1JUWGVLd2xqSEM0OHhhenBHRWtEWldrY9IBlAFBVV95cUxQRXY5eGNNVDdrX0tRUE9iVkh0WE1OME1JUWMtSWpZSHJrc0ZNUDh1Sm0wUUN1dEQwVXNUYk03bThNS1lZUmNyRWhKNjM5SHJYakRWMkJnaGVpUjJIdldWaERKN2xzclQxNDFnNmwxNnprZnI5WlJkOG5Kdm15UlZGMno3M1VVbmJXU25QTnJ1WUQzNUZt?oc=5\" target=\"_blank\">ADP to focus on irrigation, water infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddf5\ud83c\uddf0 NEWS: ADP shifts focus to irrigation and water infrastructure projects"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQy1SeUFsOXVxQm9EekNXN1Mwd0Voa0ZVTDNSelJGM3h0ZFJha3I2a010S08zZWxYNTJ5NThhNF84QmVVZy1XVnFsSkZTeTFacnR0a3lqaV9kbUJxWVk3WURudldSallFRWNtaVVHTi12Q1NHb1JUWGVLd2xqSEM0OHhhenBHRWtEWldrY9IBlAFBVV95cUxQRXY5eGNNVDdrX0tRUE9iVkh0WE1OME1JUWMtSWpZSHJrc0ZNUDh1Sm0wUUN1dEQwVXNUYk03bThNS1lZUmNyRWhKNjM5SHJYakRWMkJnaGVpUjJIdldWaERKN2xzclQxNDFnNmwxNnprZnI5WlJkOG5Kdm15UlZGMno3M1VVbmJXU25QTnJ1WUQzNUZt?oc=5",
-        "date": "2026-04-18",
-        "title": "ADP to focus on irrigation, water infrastructure - The Express Tribune",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNQy1SeUFsOXVxQm9EekNXN1Mwd0Voa0ZVTDNSelJGM3h0ZFJha3I2a010S08zZWxYNTJ5NThhNF84QmVVZy1XVnFsSkZTeTFacnR0a3lqaV9kbUJxWVk3WURudldSallFRWNtaVVHTi12Q1NHb1JUWGVLd2xqSEM0OHhhenBHRWtEWldrY9IBlAFBVV95cUxQRXY5eGNNVDdrX0tRUE9iVkh0WE1OME1JUWMtSWpZSHJrc0ZNUDh1Sm0wUUN1dEQwVXNUYk03bThNS1lZUmNyRWhKNjM5SHJYakRWMkJnaGVpUjJIdldWaERKN2xzclQxNDFnNmwxNnprZnI5WlJkOG5Kdm15UlZGMno3M1VVbmJXU25QTnJ1WUQzNUZt?oc=5\" target=\"_blank\">ADP to focus on irrigation, water infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddf5\ud83c\uddf0 NEWS: ADP shifts focus to irrigation and water infrastructure projects",
-        "type": "news"
-    },
-    {
         "link": null,
         "date": "2026-04-19",
         "status": "posted",
@@ -2182,5 +2059,13 @@
         "status": "posted",
         "tweet": "Estimated annual data center electricity costs for major blockchains in 2026:\n\n1. Bitcoin: $2.1B (global mining ops)\n2. Ethereum: $450M (validators & nodes)\n3. Solana: $120M (high-throughput clusters)",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-04-28",
+        "status": "posted",
+        "tweet": "By 2026, 58% of the world's population\u20144.7 billion people\u2014will live in urban areas, projected to surge to 68% by 2050.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
