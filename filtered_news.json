@@ -1949,5 +1949,235 @@
         "status": "posted",
         "tweet": "Google's data centers processed 15 zettabytes daily in 2026, powering AI workloads across 25 global sites.\n\n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaTNtSGxyU25SWlBSblgwTEE2XzlyYUh2b3lYcElKWElqNzRGOGZZUlBXUVlRRzJPN2FyM2VONDh4OUdtZWRwQ2t2MFpTWUFybVYwMEU2TVBFZlZFd3laM3JaZVdfdmtZTjFfczNibmFpcG5wby1PYWhnSU1mRFhCWlY2RmRTOFM3V2I5R3VYeEtYUk1JYzR2VmRn?oc=5",
+        "date": "2026-04-29",
+        "title": "Article: Ex-partner returns to Bicalho Navarro to launch infrastructure group - Latin Lawyer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNaTNtSGxyU25SWlBSblgwTEE2XzlyYUh2b3lYcElKWElqNzRGOGZZUlBXUVlRRzJPN2FyM2VONDh4OUdtZWRwQ2t2MFpTWUFybVYwMEU2TVBFZlZFd3laM3JaZVdfdmtZTjFfczNibmFpcG5wby1PYWhnSU1mRFhCWlY2RmRTOFM3V2I5R3VYeEtYUk1JYzR2VmRn?oc=5\" target=\"_blank\">Article: Ex-partner returns to Bicalho Navarro to launch infrastructure group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Latin Lawyer</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGNyY0EzQ0VpTVdoUTZNT1VZRlo5QWk1ejJ3WlEzLVhyamVxM3ZVUkVhVmp6Y0xvTXlEcDlsVDdxTXR1N09xck1mMmljM0VjSFM1eEFkV2djcFJPdHh5cWl4dmpfMzlOLU9BTUEwV1JvdkxtLUZNOVozZGlmcldNeG51ZUJaTF9NdGVsOU1PQnRQQkdGekVpZmRuWk1tc0tWM2dmSTRxRWRGcllsUWhDcDdYM0paZw?oc=5",
+        "date": "2026-04-29",
+        "title": "KeyBanc Initiates Coverage of Sterling Infrastructure (STRL) with Overweight - Yahoo Finance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGNyY0EzQ0VpTVdoUTZNT1VZRlo5QWk1ejJ3WlEzLVhyamVxM3ZVUkVhVmp6Y0xvTXlEcDlsVDdxTXR1N09xck1mMmljM0VjSFM1eEFkV2djcFJPdHh5cWl4dmpfMzlOLU9BTUEwV1JvdkxtLUZNOVozZGlmcldNeG51ZUJaTF9NdGVsOU1PQnRQQkdGekVpZmRuWk1tc0tWM2dmSTRxRWRGcllsUWhDcDdYM0paZw?oc=5\" target=\"_blank\">KeyBanc Initiates Coverage of Sterling Infrastructure (STRL) with Overweight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcUdDWWFucVpwLUVES0J4ZE43cWI2RkRKMVZtc2xvaVNqZDZLSzY4cWNyU3F2OWZEbXlwNExheHhIWVNuaW04QmZzc0ZpSkp0R2lTYWVQaUhBdGpoQlI5ckk4dTduNG1qYVRnNHFueE9NN1NoeVE1YXJxdFM1cjM0cE1NSmcyNmhaUUxMSmF4WGZ4WDNNRTRDSHFQeTY1LUs1dWU0NmRZX0NKaXBzdFNjc214NGFKS0lTNjhEcE1URmxOek54RWRRYmMwbjUxbExaWTVIWmx1T2Y2UQ?oc=5",
+        "date": "2026-04-29",
+        "title": "Another bridge disaster in RI. It's d\u00e9j\u00e0 vu all over again. - The Providence Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcUdDWWFucVpwLUVES0J4ZE43cWI2RkRKMVZtc2xvaVNqZDZLSzY4cWNyU3F2OWZEbXlwNExheHhIWVNuaW04QmZzc0ZpSkp0R2lTYWVQaUhBdGpoQlI5ckk4dTduNG1qYVRnNHFueE9NN1NoeVE1YXJxdFM1cjM0cE1NSmcyNmhaUUxMSmF4WGZ4WDNNRTRDSHFQeTY1LUs1dWU0NmRZX0NKaXBzdFNjc214NGFKS0lTNjhEcE1URmxOek54RWRRYmMwbjUxbExaWTVIWmx1T2Y2UQ?oc=5\" target=\"_blank\">Another bridge disaster in RI. It's d\u00e9j\u00e0 vu all over again.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Providence Journal</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3VjhNUFhqd294Y1lueXY2ek1jUUIxNkhybndWekYxOUJJQnhMUElrM1FPZzFwVWJlemNNTGhWYUNnVzBLS3B6Sm54QktBTklTQThYTERUQTE5eDRNakttTERJSmJOdw?oc=5",
+        "date": "2026-04-29",
+        "title": "AMAN - HINA - US energy secretary calls for natural gas infrastructure development - Alliance of Mediterranean News Agencies",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3VjhNUFhqd294Y1lueXY2ek1jUUIxNkhybndWekYxOUJJQnhMUElrM1FPZzFwVWJlemNNTGhWYUNnVzBLS3B6Sm54QktBTklTQThYTERUQTE5eDRNakttTERJSmJOdw?oc=5\" target=\"_blank\">AMAN - HINA - US energy secretary calls for natural gas infrastructure development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alliance of Mediterranean News Agencies</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmQtS1ZlOEE4Q3ROZW1tOV9YQ05CUV9fLWFxVDcydUFuYkxfMy1zX1lJRkJWbnVNd1g5am4yU1FxOFRUeW9oUUwzU1I2cGViMVJ6Q21QdjNrVTZjaEJhYlMyUlJBU3o4YUpOVDc1SzctY2ZJbWlOZGhpTW1kSUtpWHZTWVpwUFZhYjhVUkFreDNpckk4Qm56Sy1rM1h0U2labm5DWFdrSTJsTGZNY0HSAbYBQVVfeXFMT2dGRWUzTzRyeHRNNnhrTzdIMFpFQTNqam5xN1BES05tU1R0RGlWeDJsX3dZLWpwZHFJNmt0TWhWRGY4V2xPN1hobjhwaE5QOXE1aVBjRjBpY0VEWnItbDczby1SWjlyOXB0aDRVOGRDaTBSSGVUOGpyQlNaVUF5ZXZwOElVZzFycFNDUndKcjBhdTBpOHR4UFoyVlM1Q1VzOFhvUExPSTVCb2IyOU5TQTNidndWdmc?oc=5",
+        "date": "2026-04-29",
+        "title": "8 Best Infrastructure Stocks to Buy with Highest Upside Potential - Insider Monkey",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmQtS1ZlOEE4Q3ROZW1tOV9YQ05CUV9fLWFxVDcydUFuYkxfMy1zX1lJRkJWbnVNd1g5am4yU1FxOFRUeW9oUUwzU1I2cGViMVJ6Q21QdjNrVTZjaEJhYlMyUlJBU3o4YUpOVDc1SzctY2ZJbWlOZGhpTW1kSUtpWHZTWVpwUFZhYjhVUkFreDNpckk4Qm56Sy1rM1h0U2labm5DWFdrSTJsTGZNY0HSAbYBQVVfeXFMT2dGRWUzTzRyeHRNNnhrTzdIMFpFQTNqam5xN1BES05tU1R0RGlWeDJsX3dZLWpwZHFJNmt0TWhWRGY4V2xPN1hobjhwaE5QOXE1aVBjRjBpY0VEWnItbDczby1SWjlyOXB0aDRVOGRDaTBSSGVUOGpyQlNaVUF5ZXZwOElVZzFycFNDUndKcjBhdTBpOHR4UFoyVlM1Q1VzOFhvUExPSTVCb2IyOU5TQTNidndWdmc?oc=5\" target=\"_blank\">8 Best Infrastructure Stocks to Buy with Highest Upside Potential</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSVZxaG9mN0Q4WVJQZmRqMkk2S1RVeEt1amIyeEhXcXZCMk1EZ3k4WFRpWUg2MFBraURXNUdhWjlmMFc3TGI3ZGR6cGNkVEMwTEpxV0RNMVE5aXM2RGMxVllscnNaYnd3dG54MlM4R1hyNVFYLU02NktxSHhHWlZxbWNDNVFNVzJfX1pNLWJsRmNqNmJQc1cyLU1fTGJ3QUl0WFFIcWNqX09yZW9DQ2fSAbYBQVVfeXFMT1A2OVVvYTBGalBMQTlGeDBEbTZFRnotZlVVR2VlNnctckMyZHlRTXFIMk4yVG8ydEFXTzFBMlRSTGxkZmQ2UkhwNVlRSC1FbHJGQUR6WUl2cW1nUzVqQW5HZUFLZXBfM3d0VHBBVlU4VEpWdDJvZWpvSXZPMHlTaTNxNHpvYWhCX3lOWjdUV0oyS2tteE1zdGNSU21ZSW9QaDRCVUZGSWNac05IMWlnaEtyWHdOdVE?oc=5",
+        "date": "2026-04-29",
+        "title": "5 Best Infrastructure Stocks to Buy with Highest Upside Potential - Insider Monkey",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNSVZxaG9mN0Q4WVJQZmRqMkk2S1RVeEt1amIyeEhXcXZCMk1EZ3k4WFRpWUg2MFBraURXNUdhWjlmMFc3TGI3ZGR6cGNkVEMwTEpxV0RNMVE5aXM2RGMxVllscnNaYnd3dG54MlM4R1hyNVFYLU02NktxSHhHWlZxbWNDNVFNVzJfX1pNLWJsRmNqNmJQc1cyLU1fTGJ3QUl0WFFIcWNqX09yZW9DQ2fSAbYBQVVfeXFMT1A2OVVvYTBGalBMQTlGeDBEbTZFRnotZlVVR2VlNnctckMyZHlRTXFIMk4yVG8ydEFXTzFBMlRSTGxkZmQ2UkhwNVlRSC1FbHJGQUR6WUl2cW1nUzVqQW5HZUFLZXBfM3d0VHBBVlU4VEpWdDJvZWpvSXZPMHlTaTNxNHpvYWhCX3lOWjdUV0oyS2tteE1zdGNSU21ZSW9QaDRCVUZGSWNac05IMWlnaEtyWHdOdVE?oc=5\" target=\"_blank\">5 Best Infrastructure Stocks to Buy with Highest Upside Potential</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN1VNWHA4ejF3SmlZUEJXLUFISFBxOWZtVUE2WUJBOURXTlFwQXZ4MzNPQ1JDS1E2MlZXWmZKWnQ2elBqY1IwRThKb3d6SDNyaEJad1UxbmZTdUpKNWVVNHVCeDVNTmhpdDRmQkI1VWtrVUwxWklxdHR4d3JpT1lJaFVZVVF4TGM?oc=5",
+        "date": "2026-04-29",
+        "title": "Cognizant Buys Astreya To Beef Up AI Infrastructure - Finimize",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPN1VNWHA4ejF3SmlZUEJXLUFISFBxOWZtVUE2WUJBOURXTlFwQXZ4MzNPQ1JDS1E2MlZXWmZKWnQ2elBqY1IwRThKb3d6SDNyaEJad1UxbmZTdUpKNWVVNHVCeDVNTmhpdDRmQkI1VWtrVUwxWklxdHR4d3JpT1lJaFVZVVF4TGM?oc=5\" target=\"_blank\">Cognizant Buys Astreya To Beef Up AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finimize</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTWJkblgwbUJsRzdqeEJTSmdOSVRRYk40VzVZS2x4WF8xYW1IYWM4eVl2X01lbzhONHRsZkUtM3UzT0d6M296UnlHUDZ2d2g5THFOZTZOdk1zb0tYUWRaYUV5eTIydGo1Mm9rbGIwV0plVXFiVVU2QXA5Y3FTSmNjUi1nS194NVp5RklZMzlVQVVkb2VsNnVDY3JkQkR0VFhBWXRQLTB5NkRGeDZRTWxWeTFmUE9XUzRMWTNlMFNMWlVKTUxyMFlOamllWjh4QQ?oc=5",
+        "date": "2026-04-29",
+        "title": "Insurance as infrastructure: How risk structuring shapes renewable and storage projects in CEE - Renewables Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOTWJkblgwbUJsRzdqeEJTSmdOSVRRYk40VzVZS2x4WF8xYW1IYWM4eVl2X01lbzhONHRsZkUtM3UzT0d6M296UnlHUDZ2d2g5THFOZTZOdk1zb0tYUWRaYUV5eTIydGo1Mm9rbGIwV0plVXFiVVU2QXA5Y3FTSmNjUi1nS194NVp5RklZMzlVQVVkb2VsNnVDY3JkQkR0VFhBWXRQLTB5NkRGeDZRTWxWeTFmUE9XUzRMWTNlMFNMWlVKTUxyMFlOamllWjh4QQ?oc=5\" target=\"_blank\">Insurance as infrastructure: How risk structuring shapes renewable and storage projects in CEE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Renewables Now</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMTRJblJad2pLNjVqZXMzTU9KdmhDSjRLaHNDSTlWdXhWd0VJeFdaQmRGbFBuc3NranFBNnFRNkFrRV9menZHUmtrVmVsVGY0M1NydmZfU3VTOTV6WWFiOWh2Y01CVm9fTmdBbE1UWWhEYXIxNWhUUkItLXI3YkEwa25lT1AydXZ0RHFBcXZvMkFRZmRjdlNPV2xUYWlNcngyVzN5TGdvUXN6ZjJJNVhVYzBqZGJUUUJWZVA2dA?oc=5",
+        "date": "2026-04-29",
+        "title": "Google AI hub to scale India\u2019s AI infrastructure and community impact - The American Bazaar",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMTRJblJad2pLNjVqZXMzTU9KdmhDSjRLaHNDSTlWdXhWd0VJeFdaQmRGbFBuc3NranFBNnFRNkFrRV9menZHUmtrVmVsVGY0M1NydmZfU3VTOTV6WWFiOWh2Y01CVm9fTmdBbE1UWWhEYXIxNWhUUkItLXI3YkEwa25lT1AydXZ0RHFBcXZvMkFRZmRjdlNPV2xUYWlNcngyVzN5TGdvUXN6ZjJJNVhVYzBqZGJUUUJWZVA2dA?oc=5\" target=\"_blank\">Google AI hub to scale India\u2019s AI infrastructure and community impact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The American Bazaar</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR25HYnZBM3lzZkxNWHFfbkZvbU93bkdwcXhuQXlfWUtUTHNJTzZHRmFnSTRFb3BSeEo0SFRHQnYtRl9BWU9FUFpMQ3VNSXJFRHUzOE5GbXZnZzcxZkt6MF9QeXl2NXlRaHZjUTZlUEVOM2g3ZE9ieUc0VXhleHpaZjBnQ2pQY3Znb01wLXd4Wk84TUFnWUprcXZYR0U?oc=5",
+        "date": "2026-04-29",
+        "title": "Smart Infrastructure Market Forecast to Expand at 18.30% CAGR Through 2034 - vocal.media",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQR25HYnZBM3lzZkxNWHFfbkZvbU93bkdwcXhuQXlfWUtUTHNJTzZHRmFnSTRFb3BSeEo0SFRHQnYtRl9BWU9FUFpMQ3VNSXJFRHUzOE5GbXZnZzcxZkt6MF9QeXl2NXlRaHZjUTZlUEVOM2g3ZE9ieUc0VXhleHpaZjBnQ2pQY3Znb01wLXd4Wk84TUFnWUprcXZYR0U?oc=5\" target=\"_blank\">Smart Infrastructure Market Forecast to Expand at 18.30% CAGR Through 2034</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vocal.media</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVVdwQ3VoSmRDenFjS3MzanRjWFB1ZVRSQU52aHZyWVJtX3FfVnlQMWwxbTdXWnJXWUpwaW4tUThjcHhxSzI3TkF4bGViMXVFeVlIQkNyU1lETzJtWC10bHM2R1d0dlhUdndOZ1hMa2MwX3QyTzBQTWJYdF8yLVpwZW1aME1qZGRaQ0xqNndaVlVZVjJTLXFfZVpKUVA0TVNoOE9pYm5RLXhRRm1CcjY2UnFkRnliWHFSVG9jZ0ZVMW9YWk5LWllTTThFRnVwZFhvbjVRZQ?oc=5",
+        "date": "2026-04-29",
+        "title": "Standard Chartered secures $2.3 billion for Tanzania rail project in major Africa trade push - Business Insider Africa",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVVdwQ3VoSmRDenFjS3MzanRjWFB1ZVRSQU52aHZyWVJtX3FfVnlQMWwxbTdXWnJXWUpwaW4tUThjcHhxSzI3TkF4bGViMXVFeVlIQkNyU1lETzJtWC10bHM2R1d0dlhUdndOZ1hMa2MwX3QyTzBQTWJYdF8yLVpwZW1aME1qZGRaQ0xqNndaVlVZVjJTLXFfZVpKUVA0TVNoOE9pYm5RLXhRRm1CcjY2UnFkRnliWHFSVG9jZ0ZVMW9YWk5LWllTTThFRnVwZFhvbjVRZQ?oc=5\" target=\"_blank\">Standard Chartered secures $2.3 billion for Tanzania rail project in major Africa trade push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Africa</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": "\ud83c\uddf9\ud83c\uddff NEWS: Standard Chartered $STAN secures $2.3B for Tanzania rail project in major Africa trade push"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEI2VTBzX1ptWXB5S2N5a2c4UGxBUzFnMTRpRnJLTVpubVEzYXBZdmJOQlA0UHBoMHdIMGVkMzg3c3ZhbmhCRUk3blNEeTVRXzJRaENsdnE2LXRpUTludFBfYjdhWjBlZjZRY09OYk9SdE1PT1IwcmdiWFRkWEdGN1oxV3dGVlN4MnJETjAzVHZINmppbkVweVphYkJJZWxOYUVmek9jcGlSUQ?oc=5",
+        "date": "2026-04-29",
+        "title": "Era Raises $11M to Build AI Infrastructure for Next-Gen Smart Devices - AI Insider",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEI2VTBzX1ptWXB5S2N5a2c4UGxBUzFnMTRpRnJLTVpubVEzYXBZdmJOQlA0UHBoMHdIMGVkMzg3c3ZhbmhCRUk3blNEeTVRXzJRaENsdnE2LXRpUTludFBfYjdhWjBlZjZRY09OYk9SdE1PT1IwcmdiWFRkWEdGN1oxV3dGVlN4MnJETjAzVHZINmppbkVweVphYkJJZWxOYUVmek9jcGlSUQ?oc=5\" target=\"_blank\">Era Raises $11M to Build AI Infrastructure for Next-Gen Smart Devices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Insider</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSnVyZkhTVUN1M1AtUDVjeDZnQlVwZlAwbC0yb09OTXB5ZmZjRllyRDhwcUJJbWs2VEtGWWtRRTB4TkpQQzZxeFFqRzRVT2JyQ1pIREJ1SmV5OVc3VmNBSV96NHAwbU1iNzNFZjdrRXM4RnJ4dVNmMlh1Wk82S0JDTDJRdjJOazNOM1U3VzhwVTNWeWxZcU81dnRfcmxZY1h2QnNWdUkzQXQ4aDE3cWMybG5vOFFPcUdtQnJVUkQxOTgtQVlVLVhKRkw4VWtmbVN6NE1TNWh6enZja3VqRWc?oc=5",
+        "date": "2026-04-29",
+        "title": "Savannah Council approves $600k support for Feiler Park housing - Savannah Morning News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSnVyZkhTVUN1M1AtUDVjeDZnQlVwZlAwbC0yb09OTXB5ZmZjRllyRDhwcUJJbWs2VEtGWWtRRTB4TkpQQzZxeFFqRzRVT2JyQ1pIREJ1SmV5OVc3VmNBSV96NHAwbU1iNzNFZjdrRXM4RnJ4dVNmMlh1Wk82S0JDTDJRdjJOazNOM1U3VzhwVTNWeWxZcU81dnRfcmxZY1h2QnNWdUkzQXQ4aDE3cWMybG5vOFFPcUdtQnJVUkQxOTgtQVlVLVhKRkw4VWtmbVN6NE1TNWh6enZja3VqRWc?oc=5\" target=\"_blank\">Savannah Council approves $600k support for Feiler Park housing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Savannah Morning News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMVVENzdTRFY3RHNZTmVwVGd3YlVVSVdaR05PU2xTWUVpemJwT2NnVXlUaXJ6TDZBNUlyTldIdlJyaUw3MDJXd2NFeE9VS1dBTzZXZXc3ZFFNb1J1MUlKNmtHN2tadnJmTXBEeTFsTDhoUTl1TlBkMnRkMVJvbkprVzlad21VTUhVcjQ1YTQtVlRkQUVvbGtJZjJIUllVU2Z3UGZsdE5qeDdUVHN0UjRZeU4xNUUwRFI2T3A4eHd2QTAxUkxhZzNldzRoQm5GTEFNbDk3a0FOYkN4a05EZWh2bEhEZw?oc=5",
+        "date": "2026-04-29",
+        "title": "Xi\u2019an Sets Example for Silk Road Cities: Sustainable Urban Development Through Technology and Heritage - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMVVENzdTRFY3RHNZTmVwVGd3YlVVSVdaR05PU2xTWUVpemJwT2NnVXlUaXJ6TDZBNUlyTldIdlJyaUw3MDJXd2NFeE9VS1dBTzZXZXc3ZFFNb1J1MUlKNmtHN2tadnJmTXBEeTFsTDhoUTl1TlBkMnRkMVJvbkprVzlad21VTUhVcjQ1YTQtVlRkQUVvbGtJZjJIUllVU2Z3UGZsdE5qeDdUVHN0UjRZeU4xNUUwRFI2T3A4eHd2QTAxUkxhZzNldzRoQm5GTEFNbDk3a0FOYkN4a05EZWh2bEhEZw?oc=5\" target=\"_blank\">Xi\u2019an Sets Example for Silk Road Cities: Sustainable Urban Development Through Technology and Heritage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZkxYTkoxOFNYRm5NdmJhQTJUNWtDTnpOYXp5TmYyQ1U4RkNNZXY4cnhUbmQtZHFHRERkSkU2TWxPZDZLQUxCZmZXVUFORkVlSW9qVngzRW5lNzJjLW5DMFB2Wnk5eDcxOUprTDJBY3BTUTBjY2xwV2hXVGRYZnV2T3MyQkpHNmlNMjc0Sy1VMmw5MGlrcXFkWkUzekVjcHNBMFo2Q2ZGTlpBS19TWVNqWVdtUkZyZzFGMmY2SVNZdXA3STFVUGRNVGdMbjdhQjdxbWtCT2hZMVNQaFBabE9kbDR1TzNPN3ItZ2FrdDVTT0R4OEJHX3hWWXFHWVdnUHM?oc=5",
+        "date": "2026-04-29",
+        "title": "In Xi'an, Mayors from Around the World Explore Pathways for Silk Road Cities to Balance Ancient Heritage with Modern Industry - Thailand Business News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZkxYTkoxOFNYRm5NdmJhQTJUNWtDTnpOYXp5TmYyQ1U4RkNNZXY4cnhUbmQtZHFHRERkSkU2TWxPZDZLQUxCZmZXVUFORkVlSW9qVngzRW5lNzJjLW5DMFB2Wnk5eDcxOUprTDJBY3BTUTBjY2xwV2hXVGRYZnV2T3MyQkpHNmlNMjc0Sy1VMmw5MGlrcXFkWkUzekVjcHNBMFo2Q2ZGTlpBS19TWVNqWVdtUkZyZzFGMmY2SVNZdXA3STFVUGRNVGdMbjdhQjdxbWtCT2hZMVNQaFBabE9kbDR1TzNPN3ItZ2FrdDVTT0R4OEJHX3hWWXFHWVdnUHM?oc=5\" target=\"_blank\">In Xi'an, Mayors from Around the World Explore Pathways for Silk Road Cities to Balance Ancient Heritage with Modern Industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Thailand Business News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXplU2pmcEM5MTRNTS1GdlItWm5hanVHZDdzWDc5UXNiVG1KLTBYUUIySnNxd3ZyRU04M1JKMFBTSkhTSEJqVVlsTThFUGNnemZxS0VjaFFlNHF4b1pmSnBISUQxSTh2eFEyb0MxcU1aeDlOUTktMXRBV1l6OHNOdk45VlM0cnFWdEFEVUxBQ1dmYjVNSTZxSG50eDRFZEHSAaYBQVVfeXFMTXBpRm1iS19KNjhISkRXTzdyMUt2eV9CbkdoM0dFTWowVXhqUkd2TFhKazFlT1NtS1BLZU9MaG9UOWJuX0MtMEo4UUg3cVdkYUpOdzBleE03SlUzaXhCRDAzSi14bWwyNzhiWlB6NHBRQk5qTG53STJTeXFsOUJMZFhIcUl2amFuQUhqNlJUekJjYmVweTAtZTN0Q3ltb2lIUzdFR244Zw?oc=5",
+        "date": "2026-04-29",
+        "title": "Why Punjab withdrew Unified Building Rules over concerns of \u2018urban slums\u2019 - The Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXplU2pmcEM5MTRNTS1GdlItWm5hanVHZDdzWDc5UXNiVG1KLTBYUUIySnNxd3ZyRU04M1JKMFBTSkhTSEJqVVlsTThFUGNnemZxS0VjaFFlNHF4b1pmSnBISUQxSTh2eFEyb0MxcU1aeDlOUTktMXRBV1l6OHNOdk45VlM0cnFWdEFEVUxBQ1dmYjVNSTZxSG50eDRFZEHSAaYBQVVfeXFMTXBpRm1iS19KNjhISkRXTzdyMUt2eV9CbkdoM0dFTWowVXhqUkd2TFhKazFlT1NtS1BLZU9MaG9UOWJuX0MtMEo4UUg3cVdkYUpOdzBleE03SlUzaXhCRDAzSi14bWwyNzhiWlB6NHBRQk5qTG53STJTeXFsOUJMZFhIcUl2amFuQUhqNlJUekJjYmVweTAtZTN0Q3ltb2lIUzdFR244Zw?oc=5\" target=\"_blank\">Why Punjab withdrew Unified Building Rules over concerns of \u2018urban slums\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Punjab withdraws Unified Building Rules amid fears of creating urban slums"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQekxLRXozaDNKOFdQa1hpeVBLTnVfS2Q4anhzWGV5NjFrZHcwRmNkb2pwUm5XTl9md29jMEpTNllxS0pQLWxZYnJncU9uazVOSWVVNHZiaFVSRVFfZEJOZ21iZ2lTRjN1MUdDcjJsS211NzB5aTA1R2hUQ1NtVzBKbkRZZWRDMk1uMHJFRVRVd1pHa1dsNVVPSWh1S0xveVdiUUZ2VzZfS3cyeUI5ZnZpeDN0TlBYVnlaYV80eXZaaDhXUkJ4QU9hejEya2x3YXZES3BRX1ppUkZQN3UyRWNOZFhkWdIB6AFBVV95cUxOZks1N21JV3RYLWgzTmhaQ1NUQnRvVmdnTnM5MDVqQ2J3V0U4dm5JV3k0Zms0Y01UdjRsS0hCRG84LVJzZ2plOGgyQ0NEcVYzQ2ZtSEZyZDRjWm1zRmdyNU12U0stX0JaMzlPREVHemF0OE11YklidUIyWDV0Um5ZNUk0d1JlMmRUOWlvaDN1V0RrRGg4NEVFVlp1cjlUSjRkRlhNeXM1Nld6Mi1ocUx3VmxsVDZDYWNKSWhldGhpbWktSmFWcTFhR1dmdmo1bzBwRU1CS3d0V1RzT1h4T01Ec1lDNzZ0NDlw?oc=5",
+        "date": "2026-04-29",
+        "title": "World Bank Approves $250M \u2018Kin la Belle\u2019 Programme to Tackle Waste Crisis and Create Jobs in Kinshasa - Devdiscourse",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQekxLRXozaDNKOFdQa1hpeVBLTnVfS2Q4anhzWGV5NjFrZHcwRmNkb2pwUm5XTl9md29jMEpTNllxS0pQLWxZYnJncU9uazVOSWVVNHZiaFVSRVFfZEJOZ21iZ2lTRjN1MUdDcjJsS211NzB5aTA1R2hUQ1NtVzBKbkRZZWRDMk1uMHJFRVRVd1pHa1dsNVVPSWh1S0xveVdiUUZ2VzZfS3cyeUI5ZnZpeDN0TlBYVnlaYV80eXZaaDhXUkJ4QU9hejEya2x3YXZES3BRX1ppUkZQN3UyRWNOZFhkWdIB6AFBVV95cUxOZks1N21JV3RYLWgzTmhaQ1NUQnRvVmdnTnM5MDVqQ2J3V0U4dm5JV3k0Zms0Y01UdjRsS0hCRG84LVJzZ2plOGgyQ0NEcVYzQ2ZtSEZyZDRjWm1zRmdyNU12U0stX0JaMzlPREVHemF0OE11YklidUIyWDV0Um5ZNUk0d1JlMmRUOWlvaDN1V0RrRGg4NEVFVlp1cjlUSjRkRlhNeXM1Nld6Mi1ocUx3VmxsVDZDYWNKSWhldGhpbWktSmFWcTFhR1dmdmo1bzBwRU1CS3d0V1RzT1h4T01Ec1lDNzZ0NDlw?oc=5\" target=\"_blank\">World Bank Approves $250M \u2018Kin la Belle\u2019 Programme to Tackle Waste Crisis and Create Jobs in Kinshasa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde8\ud83c\udde9 NEWS: World Bank approves $250M Kin la Belle program to tackle Kinshasas waste crisis and create jobs"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNi1pUVRVbXZJcHY0NExZZERJd2p5bUwwX2hGNm5XenU3TDQzSmNBNFl3aTc1LWMyME54NUFtM2RNUTBORzd2STYyS1FwMGVEUHd4QjJZbTBXbXFDSVVvZFJmQnJFY0FsNW44SWZrMzRSUlZWeEV2eERyQVozYlN5R2Nndy1OaURlb2Z0MzlPOWxsMlFPQkpFRnQwY1dBcGlE?oc=5",
+        "date": "2026-04-29",
+        "title": "Cybersecurity Challenges in Dubai\u2019s AI-Driven Urban Infrastructure - Indian Television Dot Com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNi1pUVRVbXZJcHY0NExZZERJd2p5bUwwX2hGNm5XenU3TDQzSmNBNFl3aTc1LWMyME54NUFtM2RNUTBORzd2STYyS1FwMGVEUHd4QjJZbTBXbXFDSVVvZFJmQnJFY0FsNW44SWZrMzRSUlZWeEV2eERyQVozYlN5R2Nndy1OaURlb2Z0MzlPOWxsMlFPQkpFRnQwY1dBcGlE?oc=5\" target=\"_blank\">Cybersecurity Challenges in Dubai\u2019s AI-Driven Urban Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Television Dot Com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWmI4S1JteGpoR0V3Tml2bk02T2xEeFBjMS0wN213U3kycV9VWHNzTi1NcUVPZkRIbDBPUmZwSG1mNVBQNFJfV2daTGg0ak9sRDlEeUl5MndiOEdHOXFORWtyQ0lPZkFVemhNdU9VaV9zNXdVMlNEVU5BMUFTdk5weVIzZE1Vc0h5bGdr0gGQAUFVX3lxTE5TWkRLQkZ2bjAwbjFoR0ZITzYwbkpCYXBla18wb1pHQjlBeU9WdGFoWmh1SmgtblFOV1FwYTBZMnJYWXBHZUJKaVVNNXJqVjg3VUJmS3gzTnRVUDRuSXdld2x4ek13bkpaMEhHUHhIWHdBZVhmR2hXUFp5NUJtLURsM0UtREV2ZTVnY1BJYlZ0Mw?oc=5",
+        "date": "2026-04-29",
+        "title": "SMART ROADS: THE MISSING LINK IN LAGOS\u2019 MEGA CITY PLAN - The Nation Newspaper",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWmI4S1JteGpoR0V3Tml2bk02T2xEeFBjMS0wN213U3kycV9VWHNzTi1NcUVPZkRIbDBPUmZwSG1mNVBQNFJfV2daTGg0ak9sRDlEeUl5MndiOEdHOXFORWtyQ0lPZkFVemhNdU9VaV9zNXdVMlNEVU5BMUFTdk5weVIzZE1Vc0h5bGdr0gGQAUFVX3lxTE5TWkRLQkZ2bjAwbjFoR0ZITzYwbkpCYXBla18wb1pHQjlBeU9WdGFoWmh1SmgtblFOV1FwYTBZMnJYWXBHZUJKaVVNNXJqVjg3VUJmS3gzTnRVUDRuSXdld2x4ek13bkpaMEhHUHhIWHdBZVhmR2hXUFp5NUJtLURsM0UtREV2ZTVnY1BJYlZ0Mw?oc=5\" target=\"_blank\">SMART ROADS: THE MISSING LINK IN LAGOS\u2019 MEGA CITY PLAN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Nation Newspaper</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVVdwQ3VoSmRDenFjS3MzanRjWFB1ZVRSQU52aHZyWVJtX3FfVnlQMWwxbTdXWnJXWUpwaW4tUThjcHhxSzI3TkF4bGViMXVFeVlIQkNyU1lETzJtWC10bHM2R1d0dlhUdndOZ1hMa2MwX3QyTzBQTWJYdF8yLVpwZW1aME1qZGRaQ0xqNndaVlVZVjJTLXFfZVpKUVA0TVNoOE9pYm5RLXhRRm1CcjY2UnFkRnliWHFSVG9jZ0ZVMW9YWk5LWllTTThFRnVwZFhvbjVRZQ?oc=5",
+        "date": "2026-04-29",
+        "title": "Standard Chartered secures $2.3 billion for Tanzania rail project in major Africa trade push - Business Insider Africa",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVVdwQ3VoSmRDenFjS3MzanRjWFB1ZVRSQU52aHZyWVJtX3FfVnlQMWwxbTdXWnJXWUpwaW4tUThjcHhxSzI3TkF4bGViMXVFeVlIQkNyU1lETzJtWC10bHM2R1d0dlhUdndOZ1hMa2MwX3QyTzBQTWJYdF8yLVpwZW1aME1qZGRaQ0xqNndaVlVZVjJTLXFfZVpKUVA0TVNoOE9pYm5RLXhRRm1CcjY2UnFkRnliWHFSVG9jZ0ZVMW9YWk5LWllTTThFRnVwZFhvbjVRZQ?oc=5\" target=\"_blank\">Standard Chartered secures $2.3 billion for Tanzania rail project in major Africa trade push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Africa</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddf9\ud83c\uddff NEWS: Standard Chartered secures $2.3B for Tanzania rail project in major Africa trade push $STAN",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXplU2pmcEM5MTRNTS1GdlItWm5hanVHZDdzWDc5UXNiVG1KLTBYUUIySnNxd3ZyRU04M1JKMFBTSkhTSEJqVVlsTThFUGNnemZxS0VjaFFlNHF4b1pmSnBISUQxSTh2eFEyb0MxcU1aeDlOUTktMXRBV1l6OHNOdk45VlM0cnFWdEFEVUxBQ1dmYjVNSTZxSG50eDRFZEHSAaYBQVVfeXFMTXBpRm1iS19KNjhISkRXTzdyMUt2eV9CbkdoM0dFTWowVXhqUkd2TFhKazFlT1NtS1BLZU9MaG9UOWJuX0MtMEo4UUg3cVdkYUpOdzBleE03SlUzaXhCRDAzSi14bWwyNzhiWlB6NHBRQk5qTG53STJTeXFsOUJMZFhIcUl2amFuQUhqNlJUekJjYmVweTAtZTN0Q3ltb2lIUzdFR244Zw?oc=5",
+        "date": "2026-04-29",
+        "title": "Why Punjab withdrew Unified Building Rules over concerns of \u2018urban slums\u2019 - The Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXplU2pmcEM5MTRNTS1GdlItWm5hanVHZDdzWDc5UXNiVG1KLTBYUUIySnNxd3ZyRU04M1JKMFBTSkhTSEJqVVlsTThFUGNnemZxS0VjaFFlNHF4b1pmSnBISUQxSTh2eFEyb0MxcU1aeDlOUTktMXRBV1l6OHNOdk45VlM0cnFWdEFEVUxBQ1dmYjVNSTZxSG50eDRFZEHSAaYBQVVfeXFMTXBpRm1iS19KNjhISkRXTzdyMUt2eV9CbkdoM0dFTWowVXhqUkd2TFhKazFlT1NtS1BLZU9MaG9UOWJuX0MtMEo4UUg3cVdkYUpOdzBleE03SlUzaXhCRDAzSi14bWwyNzhiWlB6NHBRQk5qTG53STJTeXFsOUJMZFhIcUl2amFuQUhqNlJUekJjYmVweTAtZTN0Q3ltb2lIUzdFR244Zw?oc=5\" target=\"_blank\">Why Punjab withdrew Unified Building Rules over concerns of \u2018urban slums\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Punjab pulls back Unified Building Rules over fears of spawning urban slums",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQekxLRXozaDNKOFdQa1hpeVBLTnVfS2Q4anhzWGV5NjFrZHcwRmNkb2pwUm5XTl9md29jMEpTNllxS0pQLWxZYnJncU9uazVOSWVVNHZiaFVSRVFfZEJOZ21iZ2lTRjN1MUdDcjJsS211NzB5aTA1R2hUQ1NtVzBKbkRZZWRDMk1uMHJFRVRVd1pHa1dsNVVPSWh1S0xveVdiUUZ2VzZfS3cyeUI5ZnZpeDN0TlBYVnlaYV80eXZaaDhXUkJ4QU9hejEya2x3YXZES3BRX1ppUkZQN3UyRWNOZFhkWdIB6AFBVV95cUxOZks1N21JV3RYLWgzTmhaQ1NUQnRvVmdnTnM5MDVqQ2J3V0U4dm5JV3k0Zms0Y01UdjRsS0hCRG84LVJzZ2plOGgyQ0NEcVYzQ2ZtSEZyZDRjWm1zRmdyNU12U0stX0JaMzlPREVHemF0OE11YklidUIyWDV0Um5ZNUk0d1JlMmRUOWlvaDN1V0RrRGg4NEVFVlp1cjlUSjRkRlhNeXM1Nld6Mi1ocUx3VmxsVDZDYWNKSWhldGhpbWktSmFWcTFhR1dmdmo1bzBwRU1CS3d0V1RzT1h4T01Ec1lDNzZ0NDlw?oc=5",
+        "date": "2026-04-29",
+        "title": "World Bank Approves $250M \u2018Kin la Belle\u2019 Programme to Tackle Waste Crisis and Create Jobs in Kinshasa - Devdiscourse",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQekxLRXozaDNKOFdQa1hpeVBLTnVfS2Q4anhzWGV5NjFrZHcwRmNkb2pwUm5XTl9md29jMEpTNllxS0pQLWxZYnJncU9uazVOSWVVNHZiaFVSRVFfZEJOZ21iZ2lTRjN1MUdDcjJsS211NzB5aTA1R2hUQ1NtVzBKbkRZZWRDMk1uMHJFRVRVd1pHa1dsNVVPSWh1S0xveVdiUUZ2VzZfS3cyeUI5ZnZpeDN0TlBYVnlaYV80eXZaaDhXUkJ4QU9hejEya2x3YXZES3BRX1ppUkZQN3UyRWNOZFhkWdIB6AFBVV95cUxOZks1N21JV3RYLWgzTmhaQ1NUQnRvVmdnTnM5MDVqQ2J3V0U4dm5JV3k0Zms0Y01UdjRsS0hCRG84LVJzZ2plOGgyQ0NEcVYzQ2ZtSEZyZDRjWm1zRmdyNU12U0stX0JaMzlPREVHemF0OE11YklidUIyWDV0Um5ZNUk0d1JlMmRUOWlvaDN1V0RrRGg4NEVFVlp1cjlUSjRkRlhNeXM1Nld6Mi1ocUx3VmxsVDZDYWNKSWhldGhpbWktSmFWcTFhR1dmdmo1bzBwRU1CS3d0V1RzT1h4T01Ec1lDNzZ0NDlw?oc=5\" target=\"_blank\">World Bank Approves $250M \u2018Kin la Belle\u2019 Programme to Tackle Waste Crisis and Create Jobs in Kinshasa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\udde9 NEWS: World Bank approves $250M Kin la Belle program to tackle Kinshasas waste crisis and create jobs",
+        "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-29",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 hosts 45% of Bitcoin's hash rate in 2026, driving $6.2B annual energy costs at $0.08/kWh avg.\n\n\ud83c\uddfa\ud83c\uddf8 & \ud83c\udde9\ud83c\uddea hold 70% of Ethereum validators, with infra costs at $450M yearly\u201475% less energy-intensive than BTC mining.",
+        "type": "crypto"
     }
 ]
