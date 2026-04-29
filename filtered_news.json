@@ -1,259 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-04-19",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 US infrastructure companies project $800B in revenue for 2026.\n\n\ud83c\udde8\ud83c\uddf3 Chinese firms forecast $1.1T, driven by Belt and Road expansions.",
-        "type": "statistical",
-        "category": "infrastructure companies"
-    },
-    {
-        "link": null,
-        "date": "2026-04-19",
-        "status": "posted",
-        "tweet": "Bitcoin: 7 TPS, annual energy cost $12B (~$80 per tx at $0.10/kWh).\n\nSolana: 2,000 TPS (avg), annual energy cost $2M (~$0.00003 per tx).\n\nCost per tx: Bitcoin 2.6M x higher.",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOXRKb3o4SlNuaGNBdjk3b1pkc01hcWV5UnZ6THgyUFpsY1FJSEc3aFJxV0N6b0hmSk1Tak9DbjNLdzE5aXVVZ3htSTBBY0tXS0g2bk14cW9GMTZuMHRwNGE1RVZrNUxOaGRGbzZ0c0RWN0dDb0lrbWRlMExWUHNoNDJXb0djV0lzYmFwZXJkeXc2OHJINV9CQ1g5bmRfdlJCSWh3b2Vtd0dVR1B3Rm5lZA?oc=5",
-        "date": "2026-04-19",
-        "title": "Denver City Council eyes millions for infrastructure, airport spending - Denver Gazette",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQOXRKb3o4SlNuaGNBdjk3b1pkc01hcWV5UnZ6THgyUFpsY1FJSEc3aFJxV0N6b0hmSk1Tak9DbjNLdzE5aXVVZ3htSTBBY0tXS0g2bk14cW9GMTZuMHRwNGE1RVZrNUxOaGRGbzZ0c0RWN0dDb0lrbWRlMExWUHNoNDJXb0djV0lzYmFwZXJkeXc2OHJINV9CQ1g5bmRfdlJCSWh3b2Vtd0dVR1B3Rm5lZA?oc=5\" target=\"_blank\">Denver City Council eyes millions for infrastructure, airport spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Denver Gazette</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPclZhVURvamZGZkJKeTUtRkJobkJTUkMwYjVmV2xOVG16cGlBcy1pcU9XbDBVakZRZ000dThObmgyNGVrOEhrXzRxT1RlSTFUMEpJSjNmN0I0LUFGTXZpc2psd1dDTWdtcUJUdVdnVkdpR2hqVjQzd3ItT3Q3a3dwQTJaOVd4LWotY1puRzhRWW13S0loZW0yR2ZXNTVyMWlUS29IS1M4Vk5rYlBGMHVhdXFLeEx4ZDBQQUJJWWVabGdsUk5KZkxKek1TM1ZERFRMQV9kYm1pVGd2RmpfY2lHUmxndWlXLTVCUWJ6UzVBc3F6cUJkeTl5SmF5TWg4T1lUQ2Jv?oc=5",
-        "date": "2026-04-19",
-        "title": "Trump again threatens Iran infrastructure as he orders negotiators to Pakistan - The Mountaineer",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPclZhVURvamZGZkJKeTUtRkJobkJTUkMwYjVmV2xOVG16cGlBcy1pcU9XbDBVakZRZ000dThObmgyNGVrOEhrXzRxT1RlSTFUMEpJSjNmN0I0LUFGTXZpc2psd1dDTWdtcUJUdVdnVkdpR2hqVjQzd3ItT3Q3a3dwQTJaOVd4LWotY1puRzhRWW13S0loZW0yR2ZXNTVyMWlUS29IS1M4Vk5rYlBGMHVhdXFLeEx4ZDBQQUJJWWVabGdsUk5KZkxKek1TM1ZERFRMQV9kYm1pVGd2RmpfY2lHUmxndWlXLTVCUWJ6UzVBc3F6cUJkeTl5SmF5TWg4T1lUQ2Jv?oc=5\" target=\"_blank\">Trump again threatens Iran infrastructure as he orders negotiators to Pakistan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mountaineer</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcjBoTUY5Y0tvS0kxOVpBazRsWjZ0ZEdsNlJoUmd4VUdqV0t3SHRTLVBBTFJMN1RxeEE4bk1QaUtSZVlLTXFNcDhtNVJUWVotbXdOdDI1Rl84Y2R3aS1jblRrRkxwdGc5N3Jwcms3NXJ4X2hkOFAzNlJqOFN3QVcyemRVcXRiRk05dzQ5NTNZZ2NZTF84RElzZDhXTWpjV2pJdl9QVUl1cDZtWTdyaWZ2SXRHQzRjU1JwUy1qeHBMcUp5N1JuX0tPekk0c3V3cXp6X0ViX0dXNlhCWGYyUVY5bDhXcE8xVmV2SS1qUm0xYXdDYUdtajBGa0VGQQ?oc=5",
-        "date": "2026-04-19",
-        "title": "Trump again threatens Iran infrastructure as he orders negotiators to Pakistan - Northeast Mississippi Daily Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcjBoTUY5Y0tvS0kxOVpBazRsWjZ0ZEdsNlJoUmd4VUdqV0t3SHRTLVBBTFJMN1RxeEE4bk1QaUtSZVlLTXFNcDhtNVJUWVotbXdOdDI1Rl84Y2R3aS1jblRrRkxwdGc5N3Jwcms3NXJ4X2hkOFAzNlJqOFN3QVcyemRVcXRiRk05dzQ5NTNZZ2NZTF84RElzZDhXTWpjV2pJdl9QVUl1cDZtWTdyaWZ2SXRHQzRjU1JwUy1qeHBMcUp5N1JuX0tPekk0c3V3cXp6X0ViX0dXNlhCWGYyUVY5bDhXcE8xVmV2SS1qUm0xYXdDYUdtajBGa0VGQQ?oc=5\" target=\"_blank\">Trump again threatens Iran infrastructure as he orders negotiators to Pakistan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northeast Mississippi Daily Journal</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVBqYk1Ec1JvXzVUU0c5aUhnVmthUU16dXBiOE1qdnAyZDRFQlVRemM5bG83OFo2Z1ZhZGdKMGZoMU92dlBpVHd5QVFGZlJPNm10YUk4NlhCQUQ1WDBxQnBmT0pBQnh2VVVwUi1YRTV0RTZsNVU4ZkExVkRlU1VTY2p0cWcyS1ZvUV85RmY0TWt3VzQ?oc=5",
-        "date": "2026-04-19",
-        "title": "Trump threatens to destroy Iran\u2019s infrastructure if talks fail - Crypto Briefing",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVBqYk1Ec1JvXzVUU0c5aUhnVmthUU16dXBiOE1qdnAyZDRFQlVRemM5bG83OFo2Z1ZhZGdKMGZoMU92dlBpVHd5QVFGZlJPNm10YUk4NlhCQUQ1WDBxQnBmT0pBQnh2VVVwUi1YRTV0RTZsNVU4ZkExVkRlU1VTY2p0cWcyS1ZvUV85RmY0TWt3VzQ?oc=5\" target=\"_blank\">Trump threatens to destroy Iran\u2019s infrastructure if talks fail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQzgzbm5sU2F4TFNXeWxsNFpNalRiNW1CaTFGQ09CdEFnSDFSRFhIQTJIWkdSWGdZUy1WRk5XOVRQNi1GRE9zTk95R0E1T294R3FWU2hRTVMtX3RtamY2M01YZ2NrYlNTQlMzMnJkRTdRN0s5cE9DZ3BUcXpMTW9vYktLdWhUT3AwLWMtZTFHa0lxNkZlNWg0cnpjWFA0bXE4WGc?oc=5",
-        "date": "2026-04-19",
-        "title": "Trump Sends Representatives to Islamabad; Issues Infrastructure Ultimatum to Iran - WANA News Agency",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPQzgzbm5sU2F4TFNXeWxsNFpNalRiNW1CaTFGQ09CdEFnSDFSRFhIQTJIWkdSWGdZUy1WRk5XOVRQNi1GRE9zTk95R0E1T294R3FWU2hRTVMtX3RtamY2M01YZ2NrYlNTQlMzMnJkRTdRN0s5cE9DZ3BUcXpMTW9vYktLdWhUT3AwLWMtZTFHa0lxNkZlNWg0cnpjWFA0bXE4WGc?oc=5\" target=\"_blank\">Trump Sends Representatives to Islamabad; Issues Infrastructure Ultimatum to Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WANA News Agency</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aZ1BVSFcyY2JERjRpWEo2TWdYVGVvR2tmdG9NVnN0NXg3SlBLQzZUYnozWWFSN0RuTjhUVGRyLVJCNWFXc0d6NTl2UjRiSC1LNExjWnFLQzU0aHBlZWc?oc=5",
-        "date": "2026-04-19",
-        "title": "Trump threatens to disable Iran infrastructure and sends mediators to Pakistan - mezha.net",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aZ1BVSFcyY2JERjRpWEo2TWdYVGVvR2tmdG9NVnN0NXg3SlBLQzZUYnozWWFSN0RuTjhUVGRyLVJCNWFXc0d6NTl2UjRiSC1LNExjWnFLQzU0aHBlZWc?oc=5\" target=\"_blank\">Trump threatens to disable Iran infrastructure and sends mediators to Pakistan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mezha.net</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUUlmQ0hLZ0FLQk5hSWZPYndVa3dMSmU3b3lIY1poV2loTUFVbHRqekRhMDRDVlRSYnZKZGc0SV9FTzZCWVc4X0phSlpNc005c3hSMDJTSlFCOGN3aDRWNWRkcm00YVg5M0tIMnhnOHJJbFhVN1NCTmRlVzh2NWhnZXhhRjF6UlEtRXc?oc=5",
-        "date": "2026-04-19",
-        "title": "Trump again threatens Iran infrastructure as he orders negotiators to Pakistan - Yahoo",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNUUlmQ0hLZ0FLQk5hSWZPYndVa3dMSmU3b3lIY1poV2loTUFVbHRqekRhMDRDVlRSYnZKZGc0SV9FTzZCWVc4X0phSlpNc005c3hSMDJTSlFCOGN3aDRWNWRkcm00YVg5M0tIMnhnOHJJbFhVN1NCTmRlVzh2NWhnZXhhRjF6UlEtRXc?oc=5\" target=\"_blank\">Trump again threatens Iran infrastructure as he orders negotiators to Pakistan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcDlMdTZSU1RLcHRzLXlqU016NFZLZnJ6LU1mdURoUV9qdVpaRFdMamRyT19McndqNXJsWUgzLXF2eGtuWUl6MmNyTXlwMmpPaG1VVWcwc3FWRHVueV91SFBmV28wZmhsOEZ0WDR0SHBUVy1fdktnYVgzQmtQc2NJYmdEekRVN2t0dS1oN0hMaw?oc=5",
-        "date": "2026-04-19",
-        "title": "Alphabet's AI Infrastructure Spending Raises Concerns - Intellectia AI",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQcDlMdTZSU1RLcHRzLXlqU016NFZLZnJ6LU1mdURoUV9qdVpaRFdMamRyT19McndqNXJsWUgzLXF2eGtuWUl6MmNyTXlwMmpPaG1VVWcwc3FWRHVueV91SFBmV28wZmhsOEZ0WDR0SHBUVy1fdktnYVgzQmtQc2NJYmdEekRVN2t0dS1oN0hMaw?oc=5\" target=\"_blank\">Alphabet's AI Infrastructure Spending Raises Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intellectia AI</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZnZmWnc2X2pwZ1hZN2dsQ3VGMTk4VVdwWUY3bnA5QWhSQl9fZ0x3NXRxNGxEUjJpcWkxVGtXbE00VE9UMVlwNzJNbGFIMVNiX013QktOY2RRc29NSmd6UGs5bm0zdjJ2S0UyZG5tLXZlYm9RRXE3T3dGUUxINjRZNDQ4NFNhNDFLRGNLSWl2LUd4Uk5lUWhPREJkc1B1YmswNGNTaE1TWXFiQndlX1dPVEVYVUc3U2hFUlREaWtYaWxYdDFyempZYzlTcS1ZOGxxeUVXUTZKNmtYUWdJU2lRbm5wbjFvRTFycHcwR3hEc3FwanhfU2RHdDB6Qm1lZw?oc=5",
-        "date": "2026-04-19",
-        "title": "Trump again threatens Iran infrastructure as he orders negotiators to Pakistan - Shelby News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZnZmWnc2X2pwZ1hZN2dsQ3VGMTk4VVdwWUY3bnA5QWhSQl9fZ0x3NXRxNGxEUjJpcWkxVGtXbE00VE9UMVlwNzJNbGFIMVNiX013QktOY2RRc29NSmd6UGs5bm0zdjJ2S0UyZG5tLXZlYm9RRXE3T3dGUUxINjRZNDQ4NFNhNDFLRGNLSWl2LUd4Uk5lUWhPREJkc1B1YmswNGNTaE1TWXFiQndlX1dPVEVYVUc3U2hFUlREaWtYaWxYdDFyempZYzlTcS1ZOGxxeUVXUTZKNmtYUWdJU2lRbm5wbjFvRTFycHcwR3hEc3FwanhfU2RHdDB6Qm1lZw?oc=5\" target=\"_blank\">Trump again threatens Iran infrastructure as he orders negotiators to Pakistan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shelby News</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTHhIZ0VHRDg0THcxaUdPQXlQSkJ2TTdVVFdIeGdwQUtwbndSUmFNYkVGX01FMjRJN09kU1BNT29YZm5SV0dBd3RtY2d2Sk5JRl9tOEVvTjRZc09FVmxpZExCWFQxNTNLcjFpYjdWV2drUWhxRm5mM0d3LW1OQ1BrQk40bU10X2h0RGtEUmJDaHRGc0dZUXFr?oc=5",
-        "date": "2026-04-19",
-        "title": "MoneyHash Partners Visa to Boost MENA Payment Infrastructure - CairoScene",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOTHhIZ0VHRDg0THcxaUdPQXlQSkJ2TTdVVFdIeGdwQUtwbndSUmFNYkVGX01FMjRJN09kU1BNT29YZm5SV0dBd3RtY2d2Sk5JRl9tOEVvTjRZc09FVmxpZExCWFQxNTNLcjFpYjdWV2drUWhxRm5mM0d3LW1OQ1BrQk40bU10X2h0RGtEUmJDaHRGc0dZUXFr?oc=5\" target=\"_blank\">MoneyHash Partners Visa to Boost MENA Payment Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CairoScene</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaW8yNDBnTWVUY0ZQQjlPWFZSaHdYQ3l0dmkzZzlXRGQ0aGs1c1lacjI5Y2FIYm84WjN4WUdjUlozVnR6Tk5TeDN2bklFZUZSd29HMkUzcElHZGFVOXBBQndKV0ZYZHZWTS05Yk5jSXZkZ08zNmJmQWFlSHk5Tjlib2R3OTBlTDByc2FlY0VnbVp3NXNoVGpOODZoVjFhaGFCV05OeFQtbFVoaDhCWnYyYkx6cEMyZHBKS1JYcXdwTk94UlhPVGtZVnpqRUVFM1hWdV9fSS1NS2JKd3BCQ1hvTG9kdjg0LW5FRWg1NkZUUXRiektEWnl2WGVITnczZ0Y3Znc?oc=5",
-        "date": "2026-04-19",
-        "title": "Trump again threatens Iran infrastructure as he orders negotiators to Pakistan - Omak-Okanogan County Chronicle",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxOaW8yNDBnTWVUY0ZQQjlPWFZSaHdYQ3l0dmkzZzlXRGQ0aGs1c1lacjI5Y2FIYm84WjN4WUdjUlozVnR6Tk5TeDN2bklFZUZSd29HMkUzcElHZGFVOXBBQndKV0ZYZHZWTS05Yk5jSXZkZ08zNmJmQWFlSHk5Tjlib2R3OTBlTDByc2FlY0VnbVp3NXNoVGpOODZoVjFhaGFCV05OeFQtbFVoaDhCWnYyYkx6cEMyZHBKS1JYcXdwTk94UlhPVGtZVnpqRUVFM1hWdV9fSS1NS2JKd3BCQ1hvTG9kdjg0LW5FRWg1NkZUUXRiektEWnl2WGVITnczZ0Y3Znc?oc=5\" target=\"_blank\">Trump again threatens Iran infrastructure as he orders negotiators to Pakistan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Omak-Okanogan County Chronicle</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU3R1dkthbUFKLUZnSzFoOEYyN2hyekJDTXhhM3NuTVFqaVNrZ1NmTUkwb2Y5QVZYNEMxOXFpbEw0OWUzenhxUExWdVYtbmkyWXRHTG1BNFJfcDRqaUtOcEpIX2F5ZGg5dUhNaXF1MlQ1d0VKV2NDX1JhS3ZuZVNCZXBsVEo1bHk2UFRrSEltT3JvSWxadERHMEVhWnltdmRxQ0dsQnh6OFh2XzN0MTFZOVhURGIxOGhjYlRkYmVUdDlqcmtiMVA3NkRLYW5Idw?oc=5",
-        "date": "2026-04-19",
-        "title": "Egypt PM outlines plan to develop North Sinai into key investment, development hub - Urban & Transport - Egypt - Ahram Online",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNU3R1dkthbUFKLUZnSzFoOEYyN2hyekJDTXhhM3NuTVFqaVNrZ1NmTUkwb2Y5QVZYNEMxOXFpbEw0OWUzenhxUExWdVYtbmkyWXRHTG1BNFJfcDRqaUtOcEpIX2F5ZGg5dUhNaXF1MlQ1d0VKV2NDX1JhS3ZuZVNCZXBsVEo1bHk2UFRrSEltT3JvSWxadERHMEVhWnltdmRxQ0dsQnh6OFh2XzN0MTFZOVhURGIxOGhjYlRkYmVUdDlqcmtiMVA3NkRLYW5Idw?oc=5\" target=\"_blank\">Egypt PM outlines plan to develop North Sinai into key investment, development hub - Urban & Transport - Egypt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ahram Online</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddea\ud83c\uddec NEWS: Egypts PM outlines plan to develop North Sinai into a key investment and development hub."
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTWxQVWZIWFBBR3BzT2NQRTk3Y2k3RWh3MFZqblU2MUh1QWZZWGxKckxhenM5WlRlbjNFMjg5MFFFTnRvZjNuOGJyNE12N2k1Tkh3dmxJQ3pHV0VwZ2FCQ1lZa1hjZDlqcVhBWUdHUHJtQndEN2Znc25ydk5BTC1TYWRsQnFnMWZidGFfaTZfYzZLUlFaNDF6RFZKS1VmX1hJVTFsYXowdjZ3aGhwd3fSAbMBQVVfeXFMTmpiOFowUHNfXzV3ODhGOXRyX1lodEtpS1J0RnpjLTJVbUpNVmpXVUxDTjJyOTVmRG9mU2RYVTZ6eHBQaVJveGwzTW90QUtTZU5qSHUyMDB1UjBpdmQxWFVsTDcycUJtUUFqRmh2VUF1NW4tMXVQVVZqamxiZHJ3cHZaQ0IzR19HNlRXcGJYTGFtSDMxT2xWdDVPcGdJd2pMeXdKVGZ4dGZGWVd5TUJzb2hETEk?oc=5",
-        "date": "2026-04-19",
-        "title": "Owner Resource Group: Investment In Smart City Locating Expands Property Services Platform - Pulse 2.0",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOTWxQVWZIWFBBR3BzT2NQRTk3Y2k3RWh3MFZqblU2MUh1QWZZWGxKckxhenM5WlRlbjNFMjg5MFFFTnRvZjNuOGJyNE12N2k1Tkh3dmxJQ3pHV0VwZ2FCQ1lZa1hjZDlqcVhBWUdHUHJtQndEN2Znc25ydk5BTC1TYWRsQnFnMWZidGFfaTZfYzZLUlFaNDF6RFZKS1VmX1hJVTFsYXowdjZ3aGhwd3fSAbMBQVVfeXFMTmpiOFowUHNfXzV3ODhGOXRyX1lodEtpS1J0RnpjLTJVbUpNVmpXVUxDTjJyOTVmRG9mU2RYVTZ6eHBQaVJveGwzTW90QUtTZU5qSHUyMDB1UjBpdmQxWFVsTDcycUJtUUFqRmh2VUF1NW4tMXVQVVZqamxiZHJ3cHZaQ0IzR19HNlRXcGJYTGFtSDMxT2xWdDVPcGdJd2pMeXdKVGZ4dGZGWVd5TUJzb2hETEk?oc=5\" target=\"_blank\">Owner Resource Group: Investment In Smart City Locating Expands Property Services Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU3R1dkthbUFKLUZnSzFoOEYyN2hyekJDTXhhM3NuTVFqaVNrZ1NmTUkwb2Y5QVZYNEMxOXFpbEw0OWUzenhxUExWdVYtbmkyWXRHTG1BNFJfcDRqaUtOcEpIX2F5ZGg5dUhNaXF1MlQ1d0VKV2NDX1JhS3ZuZVNCZXBsVEo1bHk2UFRrSEltT3JvSWxadERHMEVhWnltdmRxQ0dsQnh6OFh2XzN0MTFZOVhURGIxOGhjYlRkYmVUdDlqcmtiMVA3NkRLYW5Idw?oc=5",
-        "date": "2026-04-19",
-        "title": "Egypt PM outlines plan to develop North Sinai into key investment, development hub - Urban & Transport - Egypt - Ahram Online",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNU3R1dkthbUFKLUZnSzFoOEYyN2hyekJDTXhhM3NuTVFqaVNrZ1NmTUkwb2Y5QVZYNEMxOXFpbEw0OWUzenhxUExWdVYtbmkyWXRHTG1BNFJfcDRqaUtOcEpIX2F5ZGg5dUhNaXF1MlQ1d0VKV2NDX1JhS3ZuZVNCZXBsVEo1bHk2UFRrSEltT3JvSWxadERHMEVhWnltdmRxQ0dsQnh6OFh2XzN0MTFZOVhURGIxOGhjYlRkYmVUdDlqcmtiMVA3NkRLYW5Idw?oc=5\" target=\"_blank\">Egypt PM outlines plan to develop North Sinai into key investment, development hub - Urban & Transport - Egypt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ahram Online</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddea\ud83c\uddec NEWS: Egypts PM outlines plan to transform North Sinai into a major investment and development hub",
-        "type": "news"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV3NOd3ZsTTIzSkRHUlBLWEpvZEF0TE9UcThiU3hrVWZvRzhucmlUM0dIV2l5c3loQnlxdnRFOEtDZVFUWDJ2clpjeWFQN2hYSDRWTmotLVVwQjlVMnZoeDVMWUZFN1VMWVNZanFDYld1MjRHWm9sQlpsNDd4Q1pBY3lXazN3dGFaWU1ZN2tsMGk0MXBHX2ZsNC1GU2tVMHo0UVE?oc=5",
-        "date": "2026-04-19",
-        "title": "Schreiber Council Focuses on Growth, Infrastructure, and Healthcare. - frequencynews.ca",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNV3NOd3ZsTTIzSkRHUlBLWEpvZEF0TE9UcThiU3hrVWZvRzhucmlUM0dIV2l5c3loQnlxdnRFOEtDZVFUWDJ2clpjeWFQN2hYSDRWTmotLVVwQjlVMnZoeDVMWUZFN1VMWVNZanFDYld1MjRHWm9sQlpsNDd4Q1pBY3lXazN3dGFaWU1ZN2tsMGk0MXBHX2ZsNC1GU2tVMHo0UVE?oc=5\" target=\"_blank\">Schreiber Council Focuses on Growth, Infrastructure, and Healthcare.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">frequencynews.ca</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORDNHbko5OFFTcFRHYW92c2RFb2FvRmk5SjZrSWc5dVRPZEdVbkNpLVlNTFpQSW00R2t3OFZKVVBmb0ZTSTIyR3dhVXl4dG1YeW9QWlhhS2lJTk5iYlRDT3FlSGVLWk1VZkxObVYza0FicTFWRGFMQlJ5TkZZT1hGSW5yRUllbDhyUXdjX1pSNUQxZjlscVp6cQ?oc=5",
-        "date": "2026-04-19",
-        "title": "Global AI Data Center Infrastructure for High-Performance - openPR.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxORDNHbko5OFFTcFRHYW92c2RFb2FvRmk5SjZrSWc5dVRPZEdVbkNpLVlNTFpQSW00R2t3OFZKVVBmb0ZTSTIyR3dhVXl4dG1YeW9QWlhhS2lJTk5iYlRDT3FlSGVLWk1VZkxObVYza0FicTFWRGFMQlJ5TkZZT1hGSW5yRUllbDhyUXdjX1pSNUQxZjlscVp6cQ?oc=5\" target=\"_blank\">Global AI Data Center Infrastructure for High-Performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzJIeHJnYWY0MEQ3WTA3WHZLS2R6X3BBdjM4NEdMUGxzWHB4djhmNUxvUGdRSEZidTNvM0VLWlcyTllIQVF4TG1ZNDVFT0xsbGl2aHRmUTBBYjZfeGs1c3NkaWxJQmxDTURhVUl5ZjFyZldoRWJNNW0zNTNnNmhPUWhneW82MHdZRmotR2xMa2ZHdzJZUEtpSnRKOGhRYzBQT0dQZTdGM3A5VVlzblRBQ3hR0gG3AUFVX3lxTE9nNnhrTVl3XzctWWo4cFR4OVQwQnVuejM3WUhFVjV4VXNMOUNtRWJDdENrcnFVYnlfU1NQUXFFR3RmcV9QN2ZYWU5ram9BM2RRUHE4SDR3RWhLaFFrQW15ZVRhbXFORXFGNFZ0VEc1YkFaeUpxS2Vta1pMRUpBSjdOWTg5aDUzbWRkSVJxXzl6TExmTGZzWXJnUWJiWWFFbnliZ1Y5OWZYSENsMkhMWW1hTFYyMzBLSQ?oc=5",
-        "date": "2026-04-19",
-        "title": "Lagos permanent secretary Oki bows out, earns praise for urban development strides - The Nation Newspaper",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzJIeHJnYWY0MEQ3WTA3WHZLS2R6X3BBdjM4NEdMUGxzWHB4djhmNUxvUGdRSEZidTNvM0VLWlcyTllIQVF4TG1ZNDVFT0xsbGl2aHRmUTBBYjZfeGs1c3NkaWxJQmxDTURhVUl5ZjFyZldoRWJNNW0zNTNnNmhPUWhneW82MHdZRmotR2xMa2ZHdzJZUEtpSnRKOGhRYzBQT0dQZTdGM3A5VVlzblRBQ3hR0gG3AUFVX3lxTE9nNnhrTVl3XzctWWo4cFR4OVQwQnVuejM3WUhFVjV4VXNMOUNtRWJDdENrcnFVYnlfU1NQUXFFR3RmcV9QN2ZYWU5ram9BM2RRUHE4SDR3RWhLaFFrQW15ZVRhbXFORXFGNFZ0VEc1YkFaeUpxS2Vta1pMRUpBSjdOWTg5aDUzbWRkSVJxXzl6TExmTGZzWXJnUWJiWWFFbnliZ1Y5OWZYSENsMkhMWW1hTFYyMzBLSQ?oc=5\" target=\"_blank\">Lagos permanent secretary Oki bows out, earns praise for urban development strides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Nation Newspaper</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-04-19",
-        "status": "posted",
-        "tweet": "Google's global data centers processed 100 exabytes daily in 2026, supporting AI and cloud services.\n\n$GOOGL",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPclF3MmxoYXJ6TGYtcFlra20tR0hJZWFLWlNidDF3THl1RkEwaUZfLWhMUTluQzk0ektCVnlhbkk1MUFiSHd5cUxxNkdMVU5RWEdNcXBuQXdtSTBOaVNnOTNxNVNEOXZ6dGlXaEttUTJHZ1RBaGdtV1hUd1ZOT3VvUmwyY1BFYmFKclRlX0MwYXRhZWJqOFVaUnNrZVE2UXZPUWlsV094dk4wZkhDNi1mVTdjNDQ5ekNfNllBWG9BY9IBxAFBVV95cUxNdUp5ZlBaQno0SzRUTkVWNHdGNDRfZFl1OXVJcmp0VWt1dDY5MEEtc1g0T3JPRndFQVVsWldkVEIyOUJCbDVId0lGeGs3SE1nbVUzZEtfSl9wVEptU0dCNTgtT0dnekJ2clBtd05BekpMeUliWGQyaE1ydUZyMDJHVGhoaWt1WmV4blJCbmx5MnR4NkwxNWdCRDNQMnU2Rno3SXZUT3Q3cFRRRlZzczg2ZGRKdTVJdkxYYmdJdW5Hcjcya2Rp?oc=5",
-        "date": "2026-04-19",
-        "title": "RedCloud: $30 Million Saudi Licensing Deal Expands AI Trade Infrastructure Across $68 Billion FMCG Market - Pulse 2.0",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPclF3MmxoYXJ6TGYtcFlra20tR0hJZWFLWlNidDF3THl1RkEwaUZfLWhMUTluQzk0ektCVnlhbkk1MUFiSHd5cUxxNkdMVU5RWEdNcXBuQXdtSTBOaVNnOTNxNVNEOXZ6dGlXaEttUTJHZ1RBaGdtV1hUd1ZOT3VvUmwyY1BFYmFKclRlX0MwYXRhZWJqOFVaUnNrZVE2UXZPUWlsV094dk4wZkhDNi1mVTdjNDQ5ekNfNllBWG9BY9IBxAFBVV95cUxNdUp5ZlBaQno0SzRUTkVWNHdGNDRfZFl1OXVJcmp0VWt1dDY5MEEtc1g0T3JPRndFQVVsWldkVEIyOUJCbDVId0lGeGs3SE1nbVUzZEtfSl9wVEptU0dCNTgtT0dnekJ2clBtd05BekpMeUliWGQyaE1ydUZyMDJHVGhoaWt1WmV4blJCbmx5MnR4NkwxNWdCRDNQMnU2Rno3SXZUT3Q3cFRRRlZzczg2ZGRKdTVJdkxYYmdJdW5Hcjcya2Rp?oc=5\" target=\"_blank\">RedCloud: $30 Million Saudi Licensing Deal Expands AI Trade Infrastructure Across $68 Billion FMCG Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jTlZtN1pydVRXNW9zNFYtenpYU0xmOVV6cXZwS0pjQjVKSmUwRFJqWHBjYmpSVTBWblFwUTNReDZRNTBFN1pGTXRzWTE1QnZFTm1SM055bWRFWHFCZE9ocXlyOXJfWnBwcHdyZGhCTDY4eHF2OFhYN1d5WQ?oc=5",
-        "date": "2026-04-19",
-        "title": "AccuWeather moves to Amagi for broadcast, streaming infrastructure - TheDesk.net",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1jTlZtN1pydVRXNW9zNFYtenpYU0xmOVV6cXZwS0pjQjVKSmUwRFJqWHBjYmpSVTBWblFwUTNReDZRNTBFN1pGTXRzWTE1QnZFTm1SM055bWRFWHFCZE9ocXlyOXJfWnBwcHdyZGhCTDY4eHF2OFhYN1d5WQ?oc=5\" target=\"_blank\">AccuWeather moves to Amagi for broadcast, streaming infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheDesk.net</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXZualdYWXhseVNKWVltRm1SVE5ETGZFaDNBcElwWU5hR25Ka2hUUUo5ejUxSW10eUdGckJkbW9MNklzdERCeG1wdXp2MEUyRXdqN3B6dHFvWjExcTlyU2RMV3ptODh4UXJwbWhwaWRpSVlNc19MSHRaalUzZU1Xd0daTzBVa3M4WjVyUDZPdTFDMm1rczlqRHFmZHVwck9VNkpQRFdLTQ?oc=5",
-        "date": "2026-04-19",
-        "title": "Top Infrastructure Stocks To Follow Now - April 19th - MarketBeat",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXZualdYWXhseVNKWVltRm1SVE5ETGZFaDNBcElwWU5hR25Ka2hUUUo5ejUxSW10eUdGckJkbW9MNklzdERCeG1wdXp2MEUyRXdqN3B6dHFvWjExcTlyU2RMV3ptODh4UXJwbWhwaWRpSVlNc19MSHRaalUzZU1Xd0daTzBVa3M4WjVyUDZPdTFDMm1rczlqRHFmZHVwck9VNkpQRFdLTQ?oc=5\" target=\"_blank\">Top Infrastructure Stocks To Follow Now - April 19th</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObFZxU2ZJODgyTmFIYUNhSlpXSkgyX2FoNnpyZkdXcjUzTDV5OXZYT3pmdW1qRUxiTFlMekNQamJyanMzZWlqdGhtOUFCWWRtQ1h3UnNvWUZrR1g1c09iajFaMHBzeV9qeXV1aFhtRERYVXI4bEZYaVlQOWV2WDF6VVh1SFgxbExQMUxXcmFqU2xNQnc?oc=5",
-        "date": "2026-04-19",
-        "title": "Channel Infrastructure NZ finalises major diesel deal - grafa.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxObFZxU2ZJODgyTmFIYUNhSlpXSkgyX2FoNnpyZkdXcjUzTDV5OXZYT3pmdW1qRUxiTFlMekNQamJyanMzZWlqdGhtOUFCWWRtQ1h3UnNvWUZrR1g1c09iajFaMHBzeV9qeXV1aFhtRERYVXI4bEZYaVlQOWV2WDF6VVh1SFgxbExQMUxXcmFqU2xNQnc?oc=5\" target=\"_blank\">Channel Infrastructure NZ finalises major diesel deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">grafa.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3JOWnllMlp0dFdqSFYyUmZoOVllYk9nZldLZEJpQ0pMVjdWY3pUYnZjdXlrckhBVjhLcnJhdnFadlctUkJPem5mOVFNZzZDbkVoc0tiZWZVcklyWUVqcXcwYmxBbXZWUE5Na3dpQ3dSVkNtT1dBNG96eEtIa3o2NUJuZFJJWXA1TWE2dWFlTjFDNW9ZN0toandibUJWSHBEUG5pcEZjcl8yMHRYeGhvY0Nn?oc=5",
-        "date": "2026-04-19",
-        "title": "Planning Proposal for a new Liverpool Local Environmental Plan - NSW Government",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3JOWnllMlp0dFdqSFYyUmZoOVllYk9nZldLZEJpQ0pMVjdWY3pUYnZjdXlrckhBVjhLcnJhdnFadlctUkJPem5mOVFNZzZDbkVoc0tiZWZVcklyWUVqcXcwYmxBbXZWUE5Na3dpQ3dSVkNtT1dBNG96eEtIa3o2NUJuZFJJWXA1TWE2dWFlTjFDNW9ZN0toandibUJWSHBEUG5pcEZjcl8yMHRYeGhvY0Nn?oc=5\" target=\"_blank\">Planning Proposal for a new Liverpool Local Environmental Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NSW Government</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: NSW Government unveils planning proposal for a new Liverpool Local Environmental Plan"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3JOWnllMlp0dFdqSFYyUmZoOVllYk9nZldLZEJpQ0pMVjdWY3pUYnZjdXlrckhBVjhLcnJhdnFadlctUkJPem5mOVFNZzZDbkVoc0tiZWZVcklyWUVqcXcwYmxBbXZWUE5Na3dpQ3dSVkNtT1dBNG96eEtIa3o2NUJuZFJJWXA1TWE2dWFlTjFDNW9ZN0toandibUJWSHBEUG5pcEZjcl8yMHRYeGhvY0Nn?oc=5",
-        "date": "2026-04-19",
-        "title": "Planning Proposal for a new Liverpool Local Environmental Plan - NSW Government",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3JOWnllMlp0dFdqSFYyUmZoOVllYk9nZldLZEJpQ0pMVjdWY3pUYnZjdXlrckhBVjhLcnJhdnFadlctUkJPem5mOVFNZzZDbkVoc0tiZWZVcklyWUVqcXcwYmxBbXZWUE5Na3dpQ3dSVkNtT1dBNG96eEtIa3o2NUJuZFJJWXA1TWE2dWFlTjFDNW9ZN0toandibUJWSHBEUG5pcEZjcl8yMHRYeGhvY0Nn?oc=5\" target=\"_blank\">Planning Proposal for a new Liverpool Local Environmental Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NSW Government</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\udde6\ud83c\uddfa NEWS: NSW Government unveils planning proposal for new Liverpool Local Environmental Plan",
-        "type": "news"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTWRsVlZkMmhUSFZHTE42SGdLTHp2M1R5MlNCbjFhaTZub2ltYjhkYi1wVW1Pa1lRa0R5T1VSbTBpcGN5T24zR1hidDU1MlNHbm95aE1laTBsREMtYmNHZmowMkZkSlg4aVE4RldKR3h4SldJVHpJSS1qSVBFODhaaWV1WVlhaHU5c05hUkg1VnM3bHQ3dmtQbTlyYTNBQW1kVDRqWlZGdG1uZE9tNDZMdWVGWlB3RUQ0VnFUUjcxUHFKMFFIdHktWXJHWWtrNzZmaFZfclgzNE1oN0FLMTJkVXZoSFZZVU0?oc=5",
         "date": "2026-04-20",
         "title": "New Atlantic Construction Alliance seeks immigration reform to address labour shortage - constructconnect.com",
@@ -2074,5 +1820,86 @@
         "status": "posted",
         "tweet": "Bitcoin's 2026 data center energy use: 160 TWh/year ($8B cost at avg rates).\n\nSolana's: 0.2 TWh/year ($10M cost).\n\n800x difference in infrastructural footprint.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92VUZjUzJ1cWtfMzd5VF9hZFVEODVHMUpyejdXVUh2dG1TU2JEYUlZdXllNmtJY1NmVmJYRkdmUzk3WjNBYXVzc0NGVjVkclZMTXE5TlgwZl9Qdk14VHgwaVhhVjAtUQ?oc=5",
+        "date": "2026-04-29",
+        "title": "SL\u2019s construction labour crisis - The Morning",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE92VUZjUzJ1cWtfMzd5VF9hZFVEODVHMUpyejdXVUh2dG1TU2JEYUlZdXllNmtJY1NmVmJYRkdmUzk3WjNBYXVzc0NGVjVkclZMTXE5TlgwZl9Qdk14VHgwaVhhVjAtUQ?oc=5\" target=\"_blank\">SL\u2019s construction labour crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Morning</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjNxSVRrbWFZLXhIQXBSX083Qm9BLXliQ29JMGZZaHNlcE12enFGQW1lSXNkSC1sVzZ4R2JxeEl4NmtlOUpUYnFYSS1ya1NnLUNMTWdfMEZRWWVqalRGREJ4NHVDdWl5eDlFUnhLd0NpQmVpTEFGc2ZXRE1wcWNCbjVhX1N3aEFySFFJUHU0aEpaNUhTZnRscnZR?oc=5",
+        "date": "2026-04-29",
+        "title": "The frontline of resilience: Critical infrastructure as sovereign capability - PwC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjNxSVRrbWFZLXhIQXBSX083Qm9BLXliQ29JMGZZaHNlcE12enFGQW1lSXNkSC1sVzZ4R2JxeEl4NmtlOUpUYnFYSS1ya1NnLUNMTWdfMEZRWWVqalRGREJ4NHVDdWl5eDlFUnhLd0NpQmVpTEFGc2ZXRE1wcWNCbjVhX1N3aEFySFFJUHU0aEpaNUhTZnRscnZR?oc=5\" target=\"_blank\">The frontline of resilience: Critical infrastructure as sovereign capability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PwC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcFpHVEhuQ3BIeXdrNzc5bnBjTkdpZHlMMTl0NlBEdDMxbzh6X0luQ3llMTNpNnpJdkd4SzBMRWF0Y2U4QTVqVnJBNEdLNkhNRHNJOG16cngzUzgydG1Lbno4VkJwUGtscm80WENTZkZJTHFmQTBkT1NIWU1oY3dCWDBIMW9GRUxveUJoNUhIRFNRd1lOZkRhRjBrVGdfUm1jaldVMWlPSkPSAa4BQVVfeXFMTTUtV1R2cVpfSGQtUG9LRXB0OXYtRC1lY05nVlU5N1VsNXNtdXh0eUUyc3FncnlRdEdtNU4zZzdjQnlkVEJuRm53MjVwTWMwMGZIdHhlTlhmNTZGUm5fWl9pSDFDYnNzalpoZXdRNEZtNDBCT1VCVVhQeUtlNDdBOFNMVGlBMmVuZEtaYnFCMzgtZXRlMU13empabExjY3pwRTh4dzZmVFAwZlBMLWhn?oc=5",
+        "date": "2026-04-29",
+        "title": "AllianzGI Holds First Close of Asia Pacific Infrastructure Credit Fund At $270 Million - Pulse 2.0",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcFpHVEhuQ3BIeXdrNzc5bnBjTkdpZHlMMTl0NlBEdDMxbzh6X0luQ3llMTNpNnpJdkd4SzBMRWF0Y2U4QTVqVnJBNEdLNkhNRHNJOG16cngzUzgydG1Lbno4VkJwUGtscm80WENTZkZJTHFmQTBkT1NIWU1oY3dCWDBIMW9GRUxveUJoNUhIRFNRd1lOZkRhRjBrVGdfUm1jaldVMWlPSkPSAa4BQVVfeXFMTTUtV1R2cVpfSGQtUG9LRXB0OXYtRC1lY05nVlU5N1VsNXNtdXh0eUUyc3FncnlRdEdtNU4zZzdjQnlkVEJuRm53MjVwTWMwMGZIdHhlTlhmNTZGUm5fWl9pSDFDYnNzalpoZXdRNEZtNDBCT1VCVVhQeUtlNDdBOFNMVGlBMmVuZEtaYnFCMzgtZXRlMU13empabExjY3pwRTh4dzZmVFAwZlBMLWhn?oc=5\" target=\"_blank\">AllianzGI Holds First Close of Asia Pacific Infrastructure Credit Fund At $270 Million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde9\ud83c\uddea NEWS: AllianzGI reaches first close on Asia Pacific Infrastructure Credit Fund at $270M"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2JqQmNzMjZQakpLY2dHUEJ1eG42Y3hTUlJtUnhYeTlHVDVERXFwQ1lmd2QzUXhCRHdFTWM2TlVHMXAwZlVkLWF2UWNWeTJ3S1pERHRlTHJfUXFTV0d3eE5SWVVJZHBkTGhRZzZIM3pRWFV4ZUdOc1Q4MzJUVkE5cmJQbS1BLXk2cTBMQjBqSEY4UWhzZDkzOE5IMGxtWVNNZUNXVjhCdTZmeHJCMUVlVWY2RlQ4bjQ?oc=5",
+        "date": "2026-04-29",
+        "title": "Opinion | It\u2019s not racist to ask about a neighborhood\u2019s safety - The Washington Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2JqQmNzMjZQakpLY2dHUEJ1eG42Y3hTUlJtUnhYeTlHVDVERXFwQ1lmd2QzUXhCRHdFTWM2TlVHMXAwZlVkLWF2UWNWeTJ3S1pERHRlTHJfUXFTV0d3eE5SWVVJZHBkTGhRZzZIM3pRWFV4ZUdOc1Q4MzJUVkE5cmJQbS1BLXk2cTBMQjBqSEY4UWhzZDkzOE5IMGxtWVNNZUNXVjhCdTZmeHJCMUVlVWY2RlQ4bjQ?oc=5\" target=\"_blank\">Opinion | It\u2019s not racist to ask about a neighborhood\u2019s safety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdDFwTkV4LXhFbXV1VDZ6elJBU2x1U0dCcG1HRklrTWhQWWd3MnIxT0hCaGVVMlEtRGVRMGpnc2FxY29Td2xOYTJCMTdKVVVqSjJsVzk4dEticFdfQVkwRDRibjZHVVAzU2VyTnZ3UFRuNTJGZEQ0bnMxQkZfS1lHTWZmd25McHIyX0RnNlRKRlVDa3p0OHZ0NTF6d29OVDBubVN5eDNjNmZGZUI4NzhmdmN0REFOdV8wY1E?oc=5",
+        "date": "2026-04-29",
+        "title": "Global city leaders and mayors to attend World Cities Summit 2026 in Singapore - GovInsider",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdDFwTkV4LXhFbXV1VDZ6elJBU2x1U0dCcG1HRklrTWhQWWd3MnIxT0hCaGVVMlEtRGVRMGpnc2FxY29Td2xOYTJCMTdKVVVqSjJsVzk4dEticFdfQVkwRDRibjZHVVAzU2VyTnZ3UFRuNTJGZEQ0bnMxQkZfS1lHTWZmd25McHIyX0RnNlRKRlVDa3p0OHZ0NTF6d29OVDBubVN5eDNjNmZGZUI4NzhmdmN0REFOdV8wY1E?oc=5\" target=\"_blank\">Global city leaders and mayors to attend World Cities Summit 2026 in Singapore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GovInsider</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6TXVQQmlHQUx3V0kwSWh0ZjZHdzVFbHg2enktVVJTbzR5QlZ4OF9HOURpNUt6Mm51VEd0aGx4OUNNMnI3R1p1V0tUMkx2RDBIb2FtSmxXOHdabVM1MG1VUWJHbTZUN0o0Uy11M01B?oc=5",
+        "date": "2026-04-29",
+        "title": "GH Tops 847 Public Institutions Nationwide in 'SME Product Purchase Rate' at 94.8% - \uc544\uc2dc\uc544\uacbd\uc81c",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB6TXVQQmlHQUx3V0kwSWh0ZjZHdzVFbHg2enktVVJTbzR5QlZ4OF9HOURpNUt6Mm51VEd0aGx4OUNNMnI3R1p1V0tUMkx2RDBIb2FtSmxXOHdabVM1MG1VUWJHbTZUN0o0Uy11M01B?oc=5\" target=\"_blank\">GH Tops 847 Public Institutions Nationwide in 'SME Product Purchase Rate' at 94.8%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\uc544\uc2dc\uc544\uacbd\uc81c</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTG9nLVRiYnZjZFg1QXRqVXRmWkJoMUJhVUt4U1pvWVIyTnl0TW1tOU9tdVhKTzZSWl8zSUt1RkZsMmpnQnlwUUFEcWJ4ZkMweUVWNll4a284RS1wdFVIeVVrcTJpUkpvWUpsU19STS00VG0tY3F3bUtGYnJCaXlYWWthemFjX2dOSnItWWt5V2R2SzFqd1RqQ1g4V2l5aGRYTnV0a0d5elp5T193Uk5lZVZFeHpPV0U3M09BdHRKUWhDckFScWFjOQ?oc=5",
+        "date": "2026-04-29",
+        "title": "Pattaya upgrades 1337 complaint system with AI-driven CRM push toward smart city services - Pattaya Mail",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTG9nLVRiYnZjZFg1QXRqVXRmWkJoMUJhVUt4U1pvWVIyTnl0TW1tOU9tdVhKTzZSWl8zSUt1RkZsMmpnQnlwUUFEcWJ4ZkMweUVWNll4a284RS1wdFVIeVVrcTJpUkpvWUpsU19STS00VG0tY3F3bUtGYnJCaXlYWWthemFjX2dOSnItWWt5V2R2SzFqd1RqQ1g4V2l5aGRYTnV0a0d5elp5T193Uk5lZVZFeHpPV0U3M09BdHRKUWhDckFScWFjOQ?oc=5\" target=\"_blank\">Pattaya upgrades 1337 complaint system with AI-driven CRM push toward smart city services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pattaya Mail</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcFpHVEhuQ3BIeXdrNzc5bnBjTkdpZHlMMTl0NlBEdDMxbzh6X0luQ3llMTNpNnpJdkd4SzBMRWF0Y2U4QTVqVnJBNEdLNkhNRHNJOG16cngzUzgydG1Lbno4VkJwUGtscm80WENTZkZJTHFmQTBkT1NIWU1oY3dCWDBIMW9GRUxveUJoNUhIRFNRd1lOZkRhRjBrVGdfUm1jaldVMWlPSkPSAa4BQVVfeXFMTTUtV1R2cVpfSGQtUG9LRXB0OXYtRC1lY05nVlU5N1VsNXNtdXh0eUUyc3FncnlRdEdtNU4zZzdjQnlkVEJuRm53MjVwTWMwMGZIdHhlTlhmNTZGUm5fWl9pSDFDYnNzalpoZXdRNEZtNDBCT1VCVVhQeUtlNDdBOFNMVGlBMmVuZEtaYnFCMzgtZXRlMU13empabExjY3pwRTh4dzZmVFAwZlBMLWhn?oc=5",
+        "date": "2026-04-29",
+        "title": "AllianzGI Holds First Close of Asia Pacific Infrastructure Credit Fund At $270 Million - Pulse 2.0",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcFpHVEhuQ3BIeXdrNzc5bnBjTkdpZHlMMTl0NlBEdDMxbzh6X0luQ3llMTNpNnpJdkd4SzBMRWF0Y2U4QTVqVnJBNEdLNkhNRHNJOG16cngzUzgydG1Lbno4VkJwUGtscm80WENTZkZJTHFmQTBkT1NIWU1oY3dCWDBIMW9GRUxveUJoNUhIRFNRd1lOZkRhRjBrVGdfUm1jaldVMWlPSkPSAa4BQVVfeXFMTTUtV1R2cVpfSGQtUG9LRXB0OXYtRC1lY05nVlU5N1VsNXNtdXh0eUUyc3FncnlRdEdtNU4zZzdjQnlkVEJuRm53MjVwTWMwMGZIdHhlTlhmNTZGUm5fWl9pSDFDYnNzalpoZXdRNEZtNDBCT1VCVVhQeUtlNDdBOFNMVGlBMmVuZEtaYnFCMzgtZXRlMU13empabExjY3pwRTh4dzZmVFAwZlBMLWhn?oc=5\" target=\"_blank\">AllianzGI Holds First Close of Asia Pacific Infrastructure Credit Fund At $270 Million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "NEWS: AllianzGI hits first close on Asia Pacific Infrastructure Credit Fund at $270M",
+        "type": "news"
     }
 ]
