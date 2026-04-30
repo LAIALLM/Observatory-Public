@@ -2056,5 +2056,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf0\ud83c\udded NEWS: Tonle Sap Environmental Management Project in Banteay Meanchey nears 100% completion",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-04-30",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China\u2019s high-speed rail network hits 50,000 km in 2026, carrying 2.5 billion passengers yearly.\n\n\ud83c\uddfa\ud83c\uddf8 US high-speed rail: 0 km operational.",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
