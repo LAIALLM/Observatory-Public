@@ -2044,5 +2044,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Long Beach Airport breaks ground on passenger concourse enhancement project to improve traveler experience",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-05-01",
+        "status": "posted",
+        "tweet": "By 2030, 60% of the world's population\u20145 billion people\u2014will live in urban areas, up from 56% in 2020.\n\n\ud83c\udde8\ud83c\uddf3 China and \ud83c\uddee\ud83c\uddf3 India will account for 35% of this growth.",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
