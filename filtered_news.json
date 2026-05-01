@@ -2315,5 +2315,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Port of Gulfport awarded $11M federal grant for infrastructure upgrades",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-05-01",
+        "status": "posted",
+        "tweet": "AWS global data centers processed 75 exabytes daily in 2026, powering 40% of internet traffic.\n\n$AMZN",
+        "type": "infrastructure"
     }
 ]
