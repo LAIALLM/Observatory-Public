@@ -1933,5 +1933,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-02",
+        "status": "posted",
+        "tweet": "Global wind power capacity projected to reach 1,200 GW by 2026.\n\nThis will generate enough electricity to power 400 million households annually.",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
