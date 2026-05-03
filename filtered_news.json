@@ -1513,5 +1513,15 @@
         "tweet": "Projected top 5 cities by construction project value in 2026 (USD billions)\n\n\ud83c\udde8\ud83c\uddf3 Shanghai: 280\n\ud83c\uddfa\ud83c\uddf8 New York: 200\n\ud83c\uddee\ud83c\uddf3 Mumbai: 150\n\ud83c\uddf8\ud83c\udde6 Riyadh: 120\n\ud83c\udde6\ud83c\uddea Dubai: 100",
         "type": "statistical",
         "category": "construction projects"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHBwUGFvUjlZTVJLWTc3MFNaOXI0LS1jeDB5Vm1EZlJoMzl5ZVYyeC15S1RodGFMbk9MR0kxajdQQ3AzUlpjQVJSRmw5dFFCYl9CVkcyWE1VTmZwbi1LSjB6UmI4VXVlNl9xY1l3dnhGU2NYNWc4SGJTdklacEQ2c19pZV9ZYVc1eWpHTS03MTdNLXpWRnEyX2M1SHJzaVFFZU5RcVpUaHM?oc=5",
+        "date": "2026-05-03",
+        "title": "Cipher Digital Shifts From Bitcoin Mining To AI Infrastructure With Tech Giants - Yahoo Finance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHBwUGFvUjlZTVJLWTc3MFNaOXI0LS1jeDB5Vm1EZlJoMzl5ZVYyeC15S1RodGFMbk9MR0kxajdQQ3AzUlpjQVJSRmw5dFFCYl9CVkcyWE1VTmZwbi1LSjB6UmI4VXVlNl9xY1l3dnhGU2NYNWc4SGJTdklacEQ2c19pZV9ZYVc1eWpHTS03MTdNLXpWRnEyX2M1SHJzaVFFZU5RcVpUaHM?oc=5\" target=\"_blank\">Cipher Digital Shifts From Bitcoin Mining To AI Infrastructure With Tech Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
