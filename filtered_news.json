@@ -1573,5 +1573,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-03",
+        "status": "posted",
+        "tweet": "2026 validator infra costs: Annual avg. hardware + energy per node, ranked by decentralization barrier (lower cost = broader access).\n\n1. Ethereum: $420 (32 ETH stake, consumer PC viable; 1M+ validators)\n2. Bitcoin: $12K (ASIC miner setup; 15K+ pools, top 3 control 51%)\n3. Solana",
+        "type": "crypto"
     }
 ]
