@@ -1732,5 +1732,12 @@
         "status": "posted",
         "tweet": "(\ud83c\uddf0\ud83c\uddff) NEWS: Presight CEO honored with Dostyk Order for key role in advancing Kazakhstans Smart City project",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-05-04",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8Microsoft's Azure data centers processed 3.2 zettabytes of data in Q1 2026.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
