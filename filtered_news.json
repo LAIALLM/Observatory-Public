@@ -1739,5 +1739,75 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8Microsoft's Azure data centers processed 3.2 zettabytes of data in Q1 2026.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUjZ1NHJ2Y083QnFQcjF4VW43SDFXLU9sME45eUs4cnlfSmYtRHpzMzBob09LbUpCMm9RTGQ2UV96X0tuaVpURFZId3JuYkxWOVVkRGJnRHhwZ180RFRId1dOSTlHUDlHYV9QUm4yUTNXejZyeHBpd2M5dFp1UjBkUUZCT1BFejU3d085ckpvOUVrc210OTRGX25pVkdwS3RHeFU4SnlKYW1NSGQ0ZndvekY5VldEOXBaQ1lRM3NSQTVTUlVCaURCaFVaaWMzbThFZnBJ?oc=5",
+        "date": "2026-05-04",
+        "title": "Colorado Democrats Introduce Bill to Offset Road Funding Initiative 175 - Construction Owners Club",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUjZ1NHJ2Y083QnFQcjF4VW43SDFXLU9sME45eUs4cnlfSmYtRHpzMzBob09LbUpCMm9RTGQ2UV96X0tuaVpURFZId3JuYkxWOVVkRGJnRHhwZ180RFRId1dOSTlHUDlHYV9QUm4yUTNXejZyeHBpd2M5dFp1UjBkUUZCT1BFejU3d085ckpvOUVrc210OTRGX25pVkdwS3RHeFU4SnlKYW1NSGQ0ZndvekY5VldEOXBaQ1lRM3NSQTVTUlVCaURCaFVaaWMzbThFZnBJ?oc=5\" target=\"_blank\">Colorado Democrats Introduce Bill to Offset Road Funding Initiative 175</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Owners Club</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mMmcwOVNnaVo4c1huVTFSTHBYcTVYTmxvdnhtSlcySWlTb3JaN2NmZDdBa2NoQ2tuLUhwY1VlVGNLNWxIY25KX0N3STJOSElSVjRrLWw5dzNJR3E5TzJ2SkZHVDM4NVMtRnBjZA?oc=5",
+        "date": "2026-05-04",
+        "title": "Mack Doubles Battery-Electric Infrastructure Program Size - Transport Topics",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9mMmcwOVNnaVo4c1huVTFSTHBYcTVYTmxvdnhtSlcySWlTb3JaN2NmZDdBa2NoQ2tuLUhwY1VlVGNLNWxIY25KX0N3STJOSElSVjRrLWw5dzNJR3E5TzJ2SkZHVDM4NVMtRnBjZA?oc=5\" target=\"_blank\">Mack Doubles Battery-Electric Infrastructure Program Size</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Transport Topics</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQjZRQVNHQnpKNEJfdkNZTm1IQkRFNVh6NmRaUk5BaWd1b2JoV3BsWFExbzlCUG54ZUVXby1Wc0FwSjRFeHlCT2liQUp4ZFpHLTY2a2pmcEN5MGZtWWNld1RFanRXYWU5blRfMlJQRUtBQlRhVUdYR29yUldSYmVSTmJxSjdwdkJ5MDAzSXBTVVNycllDV1dQdGllMTlSVlpEVkxr?oc=5",
+        "date": "2026-05-04",
+        "title": "Infrastructure upgrades coming to busy Myrtletown corridor - Times-Standard",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOQjZRQVNHQnpKNEJfdkNZTm1IQkRFNVh6NmRaUk5BaWd1b2JoV3BsWFExbzlCUG54ZUVXby1Wc0FwSjRFeHlCT2liQUp4ZFpHLTY2a2pmcEN5MGZtWWNld1RFanRXYWU5blRfMlJQRUtBQlRhVUdYR29yUldSYmVSTmJxSjdwdkJ5MDAzSXBTVVNycllDV1dQdGllMTlSVlpEVkxr?oc=5\" target=\"_blank\">Infrastructure upgrades coming to busy Myrtletown corridor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times-Standard</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORnVNRlhULW16Y2NvcXJRakdtcUpFUFhlYTh0SVBEQW4tZEhFemVZVTRzcnFwaFpydDhYR1VTdmtDM2ZjS21iSHVRRERPOGd5ZUJBYnpabndTMWs3TUJsUlpkZ1AwREtvc1VBNER0eVJtN3ZDYVBwOUdpNng1aW8wQ0hmNXM?oc=5",
+        "date": "2026-05-04",
+        "title": "Agentic AI infrastructure takes center stage at Google Cloud Next - SiliconANGLE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxORnVNRlhULW16Y2NvcXJRakdtcUpFUFhlYTh0SVBEQW4tZEhFemVZVTRzcnFwaFpydDhYR1VTdmtDM2ZjS21iSHVRRERPOGd5ZUJBYnpabndTMWs3TUJsUlpkZ1AwREtvc1VBNER0eVJtN3ZDYVBwOUdpNng1aW8wQ0hmNXM?oc=5\" target=\"_blank\">Agentic AI infrastructure takes center stage at Google Cloud Next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbjVLMmJxeFNkbXAzTzFKdThadUt1M3JSVjVuMDVpWnFjbXY3ZEZqS3hwcE5yZjlfRWdQN1NJbWljdGdhbnJKZWttNmNqUlFwT1huNXFrNWNZNFdTRllnWGMzTldsSHFpZUxQeVhCWWRFdTNNdkdIX3B6TGtjbTZYTmEwc3gxYVcwWHRhWmV0TUM0ZVRyNFRWUXJKRU9PcDdtYzdrRnM2bDh3aUV2NlJlMnJHeVFmeVBVd2REX1Rn?oc=5",
+        "date": "2026-05-04",
+        "title": "Sterling Infrastructure (NASDAQ:STRL) Issues FY 2026 Earnings Guidance - MarketBeat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNbjVLMmJxeFNkbXAzTzFKdThadUt1M3JSVjVuMDVpWnFjbXY3ZEZqS3hwcE5yZjlfRWdQN1NJbWljdGdhbnJKZWttNmNqUlFwT1huNXFrNWNZNFdTRllnWGMzTldsSHFpZUxQeVhCWWRFdTNNdkdIX3B6TGtjbTZYTmEwc3gxYVcwWHRhWmV0TUM0ZVRyNFRWUXJKRU9PcDdtYzdrRnM2bDh3aUV2NlJlMnJHeVFmeVBVd2REX1Rn?oc=5\" target=\"_blank\">Sterling Infrastructure (NASDAQ:STRL) Issues FY 2026 Earnings Guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdVpDNnYtTVlnU2kzd3JPbURKYVJGVlhYcjZER2NDNVN6eHg5cGpxTWRTaTRPSjdwNzljcTM4ZTZGLVlCNENxb1VzTzZvZDZhVmpXQ3RBRmRES0RTeHE5M3ozaG1UNFFleUJwRkFrYWw3WkkxanNaNXFYZUhZU1BMTm1ZSmdWeklLRW40S2RhbHNCWjlkNTAwZHpCRnM5ZTNVMlJ0M2puZllaVWNSNGpocTZGSExQQnVKMTBPdDc0RmhRZ0dKaVNycHg5alJ5X1dzbk4zY3lFQkN5aTNjaXd0dlBR?oc=5",
+        "date": "2026-05-04",
+        "title": "Ktr Management Company, Llc Sells 2,000,000 Shares of Solaris Energy Infrastructure (NYSE:SEI) Stock - MarketBeat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdVpDNnYtTVlnU2kzd3JPbURKYVJGVlhYcjZER2NDNVN6eHg5cGpxTWRTaTRPSjdwNzljcTM4ZTZGLVlCNENxb1VzTzZvZDZhVmpXQ3RBRmRES0RTeHE5M3ozaG1UNFFleUJwRkFrYWw3WkkxanNaNXFYZUhZU1BMTm1ZSmdWeklLRW40S2RhbHNCWjlkNTAwZHpCRnM5ZTNVMlJ0M2puZllaVWNSNGpocTZGSExQQnVKMTBPdDc0RmhRZ0dKaVNycHg5alJ5X1dzbk4zY3lFQkN5aTNjaXd0dlBR?oc=5\" target=\"_blank\">Ktr Management Company, Llc Sells 2,000,000 Shares of Solaris Energy Infrastructure (NYSE:SEI) Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3ZVWEVid3ItbFAzd0FLRDFHMGlKY0RXY2N6WTQyei1EbmZVaGtxQks2OEFIakxaTjNvZ3pmTC1INnNRd3VONHQ0em5WMzgxak85UjUzdzIxNm9fVzhQRHdodWNpcERmLXdzSmFfX01scFk0YlZfb3J2RXdTTzIyeGNkQm5oWnVLek9MaDNRVWxoX0VQZkhWVXk2MVYwbW5jdkExNVVONUNabTNydkN6RUFCREpub2c2MDdnMmNIOA?oc=5",
+        "date": "2026-05-04",
+        "title": "Build Summit to highlight development opportunities - Royal Gazette | Bermuda",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3ZVWEVid3ItbFAzd0FLRDFHMGlKY0RXY2N6WTQyei1EbmZVaGtxQks2OEFIakxaTjNvZ3pmTC1INnNRd3VONHQ0em5WMzgxak85UjUzdzIxNm9fVzhQRHdodWNpcERmLXdzSmFfX01scFk0YlZfb3J2RXdTTzIyeGNkQm5oWnVLek9MaDNRVWxoX0VQZkhWVXk2MVYwbW5jdkExNVVONUNabTNydkN6RUFCREpub2c2MDdnMmNIOA?oc=5\" target=\"_blank\">Build Summit to highlight development opportunities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Royal Gazette | Bermuda</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
