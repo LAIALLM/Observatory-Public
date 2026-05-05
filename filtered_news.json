@@ -1651,5 +1651,13 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-05",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 50% of new vehicle sales electric in 2026.\n\n\ud83c\uddfa\ud83c\uddf8 15%.\n\nGlobal EV sales projected to reach 25 million units, overtaking Europe\u2019s 4 million.",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
