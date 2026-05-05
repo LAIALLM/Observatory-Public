@@ -1659,5 +1659,147 @@
         "tweet": "\ud83c\udde8\ud83c\uddf3 50% of new vehicle sales electric in 2026.\n\n\ud83c\uddfa\ud83c\uddf8 15%.\n\nGlobal EV sales projected to reach 25 million units, overtaking Europe\u2019s 4 million.",
         "type": "statistical",
         "category": "transportation"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR1ZLZWFQUm4wSVZoV3hlckl6U09BV0phMm04MURYcldlR3FOVXhQc1ZlTVNXaWpicmwyeDB4U25OTThsVnRaZXRGMVlfaUNWRjU3X0xjMURzVUFSTm41WmQ1QTZtcEZQVmF0SGwxRU1YM2JuY29URGVjU0JQdlpXc29BOFBRTHNkcV94WVozSG5aaGp4X20waUVENA?oc=5",
+        "date": "2026-05-05",
+        "title": "Building the Next Generation of Nevada\u2019s Healthcare Industry - Nevada Business Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNR1ZLZWFQUm4wSVZoV3hlckl6U09BV0phMm04MURYcldlR3FOVXhQc1ZlTVNXaWpicmwyeDB4U25OTThsVnRaZXRGMVlfaUNWRjU3X0xjMURzVUFSTm41WmQ1QTZtcEZQVmF0SGwxRU1YM2JuY29URGVjU0JQdlpXc29BOFBRTHNkcV94WVozSG5aaGp4X20waUVENA?oc=5\" target=\"_blank\">Building the Next Generation of Nevada\u2019s Healthcare Industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nevada Business Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVVR0NjRXNE9pU0FYZ0FWNXZmeFI3TUNZZC1xb2lPX09DUGc1WTZveFhaaFRYd2VDNmY0OXJCeXJRNS1HTW52Unc3d1NJTERYcHpHejlzalFnNlBQNThlLVAzTHB4TVdwY0tvVTlLYmdrUHFXVkI4bXlUejIzcWFnSWtyZ1hDTnRVa0ZFYkJjbFUxQ0dZSkE?oc=5",
+        "date": "2026-05-05",
+        "title": "The hidden cost of rapid infrastructure growth in Texas - Construction Dive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNVVR0NjRXNE9pU0FYZ0FWNXZmeFI3TUNZZC1xb2lPX09DUGc1WTZveFhaaFRYd2VDNmY0OXJCeXJRNS1HTW52Unc3d1NJTERYcHpHejlzalFnNlBQNThlLVAzTHB4TVdwY0tvVTlLYmdrUHFXVkI4bXlUejIzcWFnSWtyZ1hDTnRVa0ZFYkJjbFUxQ0dZSkE?oc=5\" target=\"_blank\">The hidden cost of rapid infrastructure growth in Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Dive</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa09Udk9QQ1hPY28zbjk0c3RUZUxVeXBIX1Q2WTVkbmEyR1JIaU1Sb1dqVnY1Y0Z6WTlTS0JUSHdlaGJmcUNwWXFucUxYOGI4MEJfekxmU2RXTjhRbUlUZ1dWYTRBQV9KVno2UlJsLVhtU1JaZ2pMdHpyZTNSZ1BjeGNyal9XNVFIemFmZFJ5c1V6b1F2Zjk4b0lBazlyNlFaTXpCa1pqdw?oc=5",
+        "date": "2026-05-05",
+        "title": "FMB warns builders\u2019 fears confirmed as construction forecast deepens - FMB, Federation of Master Builders",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQa09Udk9QQ1hPY28zbjk0c3RUZUxVeXBIX1Q2WTVkbmEyR1JIaU1Sb1dqVnY1Y0Z6WTlTS0JUSHdlaGJmcUNwWXFucUxYOGI4MEJfekxmU2RXTjhRbUlUZ1dWYTRBQV9KVno2UlJsLVhtU1JaZ2pMdHpyZTNSZ1BjeGNyal9XNVFIemFmZFJ5c1V6b1F2Zjk4b0lBazlyNlFaTXpCa1pqdw?oc=5\" target=\"_blank\">FMB warns builders\u2019 fears confirmed as construction forecast deepens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FMB, Federation of Master Builders</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNnBiUHpQSW9VQXNsUVhaaDMtWm1TeWpDRUhqdWd2TE9LSTZoNG81cWxKRWVGeEZCZEdKS1FyVm14WkNHVUJwR2trOWhJY244UzVOLXJmY1NBaWF6eE9SZVlCeFRwZEgwLWxSaTZrUUNkalBodVhORUpaT3hzbzEzTU5YVU1zdm1pLU1sdmY0UnI1Qm9HWEdIbHFtYnAzMUMwZGJnTFZDNGlPekpvUm5NZFRCNU1WNG00RTNIOWF2b3l3NGtJZ2tvaWNEYU1OdkI1YnFlVUVpQ2dvV2tWankzMlpnMlpsaFlX?oc=5",
+        "date": "2026-05-05",
+        "title": "CISA unveils CI Fortify to help secure critical infrastructure during conflicts - Nextgov/FCW",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNnBiUHpQSW9VQXNsUVhaaDMtWm1TeWpDRUhqdWd2TE9LSTZoNG81cWxKRWVGeEZCZEdKS1FyVm14WkNHVUJwR2trOWhJY244UzVOLXJmY1NBaWF6eE9SZVlCeFRwZEgwLWxSaTZrUUNkalBodVhORUpaT3hzbzEzTU5YVU1zdm1pLU1sdmY0UnI1Qm9HWEdIbHFtYnAzMUMwZGJnTFZDNGlPekpvUm5NZFRCNU1WNG00RTNIOWF2b3l3NGtJZ2tvaWNEYU1OdkI1YnFlVUVpQ2dvV2tWankzMlpnMlpsaFlX?oc=5\" target=\"_blank\">CISA unveils CI Fortify to help secure critical infrastructure during conflicts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nextgov/FCW</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORm9fVW5YTEFLNklGM0wzX2ZzbTY1MXdLTmt4SjloeElDU251bFZiM3FSRDVFTlB1OUlfd3FUbERDMU9XRmR2Sl82bUQtY0l0UWQ1QnZfclJQTzNuTXlPN3ZnVlFJS3FkUElaOGNjRjNvazc0WkZzUGZ5N0NkUG14cDdNSmhZal9Wdy1DQTRZLTVRUVE?oc=5",
+        "date": "2026-05-05",
+        "title": "Reimagining Border Infrastructure: Lessons from CBX - KPBS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxORm9fVW5YTEFLNklGM0wzX2ZzbTY1MXdLTmt4SjloeElDU251bFZiM3FSRDVFTlB1OUlfd3FUbERDMU9XRmR2Sl82bUQtY0l0UWQ1QnZfclJQTzNuTXlPN3ZnVlFJS3FkUElaOGNjRjNvazc0WkZzUGZ5N0NkUG14cDdNSmhZal9Wdy1DQTRZLTVRUVE?oc=5\" target=\"_blank\">Reimagining Border Infrastructure: Lessons from CBX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KPBS</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR244QU82a0NXMmZiTlNXdVd0eWE5RF8xVWJRQzJ0aXdHLXpPTHk5bEpWYkx4SmtMU0pSb0hHa0Q5SllPUTJKNktVcVdBVXYtS3JWYS00MFpDd3JDWmFMc1FWV3lkM0g0NlVWa3JaZExCTWVoTjBqbXpaMXlpSkpoUTlGVzEyYlVtLWlFcXBEV0EtZTAxSG5RT1Q2X0ZrRnVadzJsVzZLS0lsMXJyUVA4Q0Nfa3VvS0xYenBB?oc=5",
+        "date": "2026-05-05",
+        "title": "EPA Announces Funding for Sewer and Stormwater Infrastructure Projects - Maryland Association of Counties",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR244QU82a0NXMmZiTlNXdVd0eWE5RF8xVWJRQzJ0aXdHLXpPTHk5bEpWYkx4SmtMU0pSb0hHa0Q5SllPUTJKNktVcVdBVXYtS3JWYS00MFpDd3JDWmFMc1FWV3lkM0g0NlVWa3JaZExCTWVoTjBqbXpaMXlpSkpoUTlGVzEyYlVtLWlFcXBEV0EtZTAxSG5RT1Q2X0ZrRnVadzJsVzZLS0lsMXJyUVA4Q0Nfa3VvS0xYenBB?oc=5\" target=\"_blank\">EPA Announces Funding for Sewer and Stormwater Infrastructure Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maryland Association of Counties</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: EPA announces $50M in funding for sewer and stormwater infrastructure projects across Maryland."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaEFmc1QyZlVpVWVTUFplbllMd0p3TXZ5OC1KblpCYlQ4ZTAwTmVKUXhTRXBCelZ5Z0xtOTBYdXY0VHY0TWpYN2NfdG5fbk1ocFRIMnEyR2F2SkRPa3Y0ZkV3TUlYS0hybWxmTlVzLThNckVlQ284S1dMTXliNE9UZDhTSUJiSUZJNFp5dV9UNTI3aUhMMXBQd0VCbml2ZlRTOUt6N1FaSTg4SWFseWIxOVc2OEtNTHhjM2x3Szk2RjdpUUk?oc=5",
+        "date": "2026-05-05",
+        "title": "Investing in Clean Energy and Infrastructure ETFs - Wealth Management",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaEFmc1QyZlVpVWVTUFplbllMd0p3TXZ5OC1KblpCYlQ4ZTAwTmVKUXhTRXBCelZ5Z0xtOTBYdXY0VHY0TWpYN2NfdG5fbk1ocFRIMnEyR2F2SkRPa3Y0ZkV3TUlYS0hybWxmTlVzLThNckVlQ284S1dMTXliNE9UZDhTSUJiSUZJNFp5dV9UNTI3aUhMMXBQd0VCbml2ZlRTOUt6N1FaSTg4SWFseWIxOVc2OEtNTHhjM2x3Szk2RjdpUUk?oc=5\" target=\"_blank\">Investing in Clean Energy and Infrastructure ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wealth Management</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUVo5Q2RiNDlJNHh2dlppa2NGWU9hWmRQTFZ5UkNRZ3F0X0h2UHg5VGJZNGQtdnhtbWxyOVlScEhsc0txV0EyejNDSnR5YUJHaFhUM2ZLYXRXVlBzMVNYOFBNWEpLYWx0Qjk5U2ozX2pETzZxLTVETHFab1pMQkg5SnZFYjF6QnZLLVR1Zk9RWXFLSGZrcWI4djhYbXhxNEVVc1JMSTVUTG51ckFMNC1SVkNGbGU3Q0VpMDVNWnVQRDFrVDE3R1JUX0RfcTRmSl9oNFBNZTB5dWhoV0JESGpkc0w1cm9uQXZfeUdFVE04X21DdkRHXzF4MGhVWjNXSVRZQnJNaTV1Zmg5UQ?oc=5",
+        "date": "2026-05-05",
+        "title": "Florence Water Rates Rising: What You Need to Know - rocketcitynow.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPUVo5Q2RiNDlJNHh2dlppa2NGWU9hWmRQTFZ5UkNRZ3F0X0h2UHg5VGJZNGQtdnhtbWxyOVlScEhsc0txV0EyejNDSnR5YUJHaFhUM2ZLYXRXVlBzMVNYOFBNWEpLYWx0Qjk5U2ozX2pETzZxLTVETHFab1pMQkg5SnZFYjF6QnZLLVR1Zk9RWXFLSGZrcWI4djhYbXhxNEVVc1JMSTVUTG51ckFMNC1SVkNGbGU3Q0VpMDVNWnVQRDFrVDE3R1JUX0RfcTRmSl9oNFBNZTB5dWhoV0JESGpkc0w1cm9uQXZfeUdFVE04X21DdkRHXzF4MGhVWjNXSVRZQnJNaTV1Zmg5UQ?oc=5\" target=\"_blank\">Florence Water Rates Rising: What You Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rocketcitynow.com</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdTRDNDZ4T3Z2NWJSVy16b3lrVFpQOEhLR0F6OUM2WHZ1V0ZTTlVxY2E1NE9pdjZBek1MQXVVWWJWeGJBdWR4WGlhcEFmNmxLZV9QOG41Z2VEaURrMnd6U1M3U3gtV0Jadktha0hZdzg2cEpGcFoxUDBkbDBHMVFKY1dtaTJjVTJiNFNpb2tZSVYtalpReGhhaTA3NTBiQQ?oc=5",
+        "date": "2026-05-05",
+        "title": "HUD regulators take over Little Rock housing authority and dissolve its board - Northwest Arkansas Democrat-Gazette",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOdTRDNDZ4T3Z2NWJSVy16b3lrVFpQOEhLR0F6OUM2WHZ1V0ZTTlVxY2E1NE9pdjZBek1MQXVVWWJWeGJBdWR4WGlhcEFmNmxLZV9QOG41Z2VEaURrMnd6U1M3U3gtV0Jadktha0hZdzg2cEpGcFoxUDBkbDBHMVFKY1dtaTJjVTJiNFNpb2tZSVYtalpReGhhaTA3NTBiQQ?oc=5\" target=\"_blank\">HUD regulators take over Little Rock housing authority and dissolve its board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northwest Arkansas Democrat-Gazette</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeVhBZk1UUTFuM3NVYUVmakV6dWVsajFaTzdtNEZxd3A5SG1vajFBMzFoX1dNR1Z5V2dWUS1TVGJJMUpoREVoMlZTZVhVb0xRLTZia1JpdEdoS1ZNLTFvX3hDR3pLMjVWYzhiREVqcENZbGlJcll0aGl4VWx4NHo3SUh3aTd5QVVOM0NTN2tDNjNPRk4zUXZTYzFlQnZfcUE?oc=5",
+        "date": "2026-05-05",
+        "title": "Odisha Forms High-Level Panel to Tackle Twin City Traffic Woes - Ommcom News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQeVhBZk1UUTFuM3NVYUVmakV6dWVsajFaTzdtNEZxd3A5SG1vajFBMzFoX1dNR1Z5V2dWUS1TVGJJMUpoREVoMlZTZVhVb0xRLTZia1JpdEdoS1ZNLTFvX3hDR3pLMjVWYzhiREVqcENZbGlJcll0aGl4VWx4NHo3SUh3aTd5QVVOM0NTN2tDNjNPRk4zUXZTYzFlQnZfcUE?oc=5\" target=\"_blank\">Odisha Forms High-Level Panel to Tackle Twin City Traffic Woes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ommcom News</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXgtSmxrbWF6ME9Fd0FhcmllZmxOZ1BjcFhPdFBWdmlsWTNzUXZWR21GZXpETnMtOGZTN25zQkRXTlBVT1p2UmQ4RlNLeUp5dGsxYUxOV2FSMy05WlduLVExSEJ0TWxHVzJxVFFWU3VxTlYyeDR6QjM0U2lSNDhucngtejYycS1MMXllN2YxcS1ua1NReHZoYw?oc=5",
+        "date": "2026-05-05",
+        "title": "Karnal DC inspects Smart City works, sets deadlines - The Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXgtSmxrbWF6ME9Fd0FhcmllZmxOZ1BjcFhPdFBWdmlsWTNzUXZWR21GZXpETnMtOGZTN25zQkRXTlBVT1p2UmQ4RlNLeUp5dGsxYUxOV2FSMy05WlduLVExSEJ0TWxHVzJxVFFWU3VxTlYyeDR6QjM0U2lSNDhucngtejYycS1MMXllN2YxcS1ua1NReHZoYw?oc=5\" target=\"_blank\">Karnal DC inspects Smart City works, sets deadlines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Karnal DC inspects Smart City works and sets strict deadlines for completion."
+    },
+    {
+        "link": "https://www.constructiondive.com/news/hidden-cost-rapid-infrastructure-growth-texas/819342/",
+        "date": "2026-05-05",
+        "title": "The hidden cost of rapid infrastructure growth in Texas",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/RzFDVsqWW88vY1F3OfuXa2NVpLtJAaYlb4npije9eXk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcxMzMwNzk5LmpwZw==.webp\" /></div></figure><p>As billions flow into transportation, water and public works, the push to build faster may be putting construction quality at risk, an infrastructure builder writes.</p>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR244QU82a0NXMmZiTlNXdVd0eWE5RF8xVWJRQzJ0aXdHLXpPTHk5bEpWYkx4SmtMU0pSb0hHa0Q5SllPUTJKNktVcVdBVXYtS3JWYS00MFpDd3JDWmFMc1FWV3lkM0g0NlVWa3JaZExCTWVoTjBqbXpaMXlpSkpoUTlGVzEyYlVtLWlFcXBEV0EtZTAxSG5RT1Q2X0ZrRnVadzJsVzZLS0lsMXJyUVA4Q0Nfa3VvS0xYenBB?oc=5",
+        "date": "2026-05-05",
+        "title": "EPA Announces Funding for Sewer and Stormwater Infrastructure Projects - Maryland Association of Counties",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR244QU82a0NXMmZiTlNXdVd0eWE5RF8xVWJRQzJ0aXdHLXpPTHk5bEpWYkx4SmtMU0pSb0hHa0Q5SllPUTJKNktVcVdBVXYtS3JWYS00MFpDd3JDWmFMc1FWV3lkM0g0NlVWa3JaZExCTWVoTjBqbXpaMXlpSkpoUTlGVzEyYlVtLWlFcXBEV0EtZTAxSG5RT1Q2X0ZrRnVadzJsVzZLS0lsMXJyUVA4Q0Nfa3VvS0xYenBB?oc=5\" target=\"_blank\">EPA Announces Funding for Sewer and Stormwater Infrastructure Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maryland Association of Counties</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: EPA announces funding for sewer and stormwater infrastructure projects benefiting Maryland counties",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXgtSmxrbWF6ME9Fd0FhcmllZmxOZ1BjcFhPdFBWdmlsWTNzUXZWR21GZXpETnMtOGZTN25zQkRXTlBVT1p2UmQ4RlNLeUp5dGsxYUxOV2FSMy05WlduLVExSEJ0TWxHVzJxVFFWU3VxTlYyeDR6QjM0U2lSNDhucngtejYycS1MMXllN2YxcS1ua1NReHZoYw?oc=5",
+        "date": "2026-05-05",
+        "title": "Karnal DC inspects Smart City works, sets deadlines - The Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXgtSmxrbWF6ME9Fd0FhcmllZmxOZ1BjcFhPdFBWdmlsWTNzUXZWR21GZXpETnMtOGZTN25zQkRXTlBVT1p2UmQ4RlNLeUp5dGsxYUxOV2FSMy05WlduLVExSEJ0TWxHVzJxVFFWU3VxTlYyeDR6QjM0U2lSNDhucngtejYycS1MMXllN2YxcS1ua1NReHZoYw?oc=5\" target=\"_blank\">Karnal DC inspects Smart City works, sets deadlines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Karnal DC inspects Smart City works and sets deadlines for completion",
+        "type": "news"
     }
 ]
