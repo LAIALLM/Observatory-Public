@@ -2234,5 +2234,12 @@
         "status": "posted",
         "tweet": "Microsoft Azure's \ud83c\uddfa\ud83c\uddf8US data centers processed 3.2 petabytes daily in 2026, achieving 99.99% uptime.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-06",
+        "status": "posted",
+        "tweet": "Bitcoin network's annual electricity costs for mining have surged with hashrate growth.\n\n1. 2016: $0.5B\n2. 2021: $4.3B\n3. 2025: $12B (projected)",
+        "type": "crypto"
     }
 ]
