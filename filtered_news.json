@@ -1,20 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-04-27",
-        "status": "posted",
-        "tweet": "Microsoft's \ud83c\uddfa\ud83c\uddf8 Virginia data center cluster processed 12 exabytes of AI workloads daily in 2026, up 40% from 2025.\n\n$MSFT",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-04-27",
-        "status": "posted",
-        "tweet": "Estimated annual data center electricity costs for major blockchains in 2026:\n\n1. Bitcoin: $2.1B (global mining ops)\n2. Ethereum: $450M (validators & nodes)\n3. Solana: $120M (high-throughput clusters)",
-        "type": "crypto"
-    },
-    {
-        "link": null,
         "date": "2026-04-28",
         "status": "posted",
         "tweet": "By 2026, 58% of the world's population\u20144.7 billion people\u2014will live in urban areas, projected to surge to 68% by 2050.",
@@ -2240,6 +2226,13 @@
         "date": "2026-05-06",
         "status": "posted",
         "tweet": "Bitcoin network's annual electricity costs for mining have surged with hashrate growth.\n\n1. 2016: $0.5B\n2. 2021: $4.3B\n3. 2025: $12B (projected)",
+        "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-05-07",
+        "status": "posted",
+        "tweet": "Bitcoin energy costs for mining: $1.2B in 2020, peaking at $4.8B in 2022, stabilizing at $3.9B in 2025.\n\nEthereum shifted to PoS: $1.8B in 2020, $0.4B post-2022 Merge, down to $0.2B in 2025.\n\nBitcoin's costs 19.5x higher than Ethereum's in 2025.",
         "type": "crypto"
     }
 ]
