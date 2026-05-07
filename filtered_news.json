@@ -2417,5 +2417,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\udde6 NEWS: Subsea 7 in JV wins FEED award for $10.25B Bay du Nord oil project off Newfoundland as Saipem merger awaits close",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-05-07",
+        "status": "posted",
+        "tweet": "NVIDIA's AI data center in \ud83c\uddfa\ud83c\uddf8 California achieved 99.8% uptime in Q1 2026, handling 5.2 petabytes of compute workloads per hour.\n\n$NVDA",
+        "type": "infrastructure"
     }
 ]
