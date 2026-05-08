@@ -1,20 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-04-28",
-        "status": "posted",
-        "tweet": "By 2026, 58% of the world's population\u20144.7 billion people\u2014will live in urban areas, projected to surge to 68% by 2050.",
-        "type": "statistical",
-        "category": "urban planning"
-    },
-    {
-        "link": null,
-        "date": "2026-04-28",
-        "status": "posted",
-        "tweet": "Bitcoin's 2026 data center energy use: 160 TWh/year ($8B cost at avg rates).\n\nSolana's: 0.2 TWh/year ($10M cost).\n\n800x difference in infrastructural footprint.",
-        "type": "crypto"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92VUZjUzJ1cWtfMzd5VF9hZFVEODVHMUpyejdXVUh2dG1TU2JEYUlZdXllNmtJY1NmVmJYRkdmUzk3WjNBYXVzc0NGVjVkclZMTXE5TlgwZl9Qdk14VHgwaVhhVjAtUQ?oc=5",
         "date": "2026-04-29",
         "title": "SL\u2019s construction labour crisis - The Morning",
@@ -2424,5 +2409,13 @@
         "status": "posted",
         "tweet": "NVIDIA's AI data center in \ud83c\uddfa\ud83c\uddf8 California achieved 99.8% uptime in Q1 2026, handling 5.2 petabytes of compute workloads per hour.\n\n$NVDA",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-08",
+        "status": "posted",
+        "tweet": "Projected top 5 most populous urban areas in 2026 (UN estimates)\n\n\ud83c\uddef\ud83c\uddf5 Tokyo: 37.2M  \n\ud83c\uddee\ud83c\uddf3 Delhi: 32.9M  \n\ud83c\udde8\ud83c\uddf3 Shanghai: 29.6M  \n\ud83c\udde7\ud83c\udde9 Dhaka: 23.2M  \n\ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo: 22.8M",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
