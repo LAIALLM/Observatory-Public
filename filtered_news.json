@@ -2306,5 +2306,13 @@
         "status": "posted",
         "tweet": "Alphabet's data centers in \ud83c\uddfa\ud83c\uddf8 US and \ud83c\uddea\ud83c\uddfa EU regions processed 4.2 zettabytes of data daily in 2026, up 28% from 2025.\n\n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-09",
+        "status": "posted",
+        "tweet": "Projected top 5 cities for urban development firm projects by investment volume in 2026: $450B global total.\n\n\ud83c\uddf8\ud83c\uddec Singapore\n\ud83c\udde6\ud83c\uddea Dubai\n\ud83c\uddfa\ud83c\uddf8 New York\n\ud83c\uddef\ud83c\uddf5 Tokyo\n\ud83c\udde8\ud83c\uddf3 Shanghai",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
