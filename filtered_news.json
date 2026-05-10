@@ -2201,5 +2201,12 @@
         "tweet": "By 2030, 60% of the world's population\u20145 billion people\u2014will live in urban areas, up from 57% in 2026.",
         "type": "statistical",
         "category": "urban development"
+    },
+    {
+        "link": null,
+        "date": "2026-05-10",
+        "status": "posted",
+        "tweet": "Bitcoin mining data centers will consume 180 TWh of electricity in 2026, costing $9 billion annually at global average rates.",
+        "type": "crypto"
     }
 ]
