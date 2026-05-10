@@ -2321,5 +2321,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde6\ud83c\uddea NEWS: Dubai unveils high-tech smart bus station revolutionizing public transport with real-time services, AI security, and sustainable energy for commuters and tourists.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-05-10",
+        "status": "posted",
+        "tweet": "Amazon's AWS data centers in \ud83c\uddfa\ud83c\uddf8Northern Virginia processed 1.2 zettabytes of data in 2025, up 45% from 2024.\n\n$AMZN",
+        "type": "infrastructure"
     }
 ]
