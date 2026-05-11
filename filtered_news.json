@@ -2113,5 +2113,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddef\ud83c\uddf5 NEWS: SoftBank launches large-scale battery business in Japan to build AI-era power infrastructure $SFTBY",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-05-11",
+        "status": "posted",
+        "tweet": "Bitcoin's proof-of-work mining emitted 102 million metric tons of CO2 in 2025, equivalent to the annual emissions of \ud83c\uddf0\ud83c\uddff Kazakhstan.\n\nProjections for 2026 forecast a 15% rise to 117 million tons amid growing hashrate.",
+        "type": "crypto"
     }
 ]
