@@ -2300,5 +2300,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddf4 NEWS: EU and Latin America strengthen regional and urban cooperation in Cali",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-05-12",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India's urban population grows by 30 million from 2023-2026.\n\n\ud83c\uddfa\ud83c\uddf8 USA's by 5 million.",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
