@@ -2308,5 +2308,12 @@
         "tweet": "\ud83c\uddee\ud83c\uddf3 India's urban population grows by 30 million from 2023-2026.\n\n\ud83c\uddfa\ud83c\uddf8 USA's by 5 million.",
         "type": "statistical",
         "category": "urban development"
+    },
+    {
+        "link": null,
+        "date": "2026-05-12",
+        "status": "posted",
+        "tweet": "Microsoft Azure's global data centers in 2026 process 3 zettabytes of data daily, supporting AI and cloud services across 200 facilities. $MSFT",
+        "type": "infrastructure"
     }
 ]
