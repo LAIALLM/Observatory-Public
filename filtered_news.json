@@ -1,101 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-05-02",
-        "status": "posted",
-        "tweet": "In 2026, \ud83c\uddfa\ud83c\uddf8 Microsoft's Virginia data center processes 12 exabytes of AI workloads daily.\n\n$MSFT",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnN2szekJEem5VOHIzZFcyTjJUUHN3dFJYcFhVYzNPa3hEUHdUWWJ4X0tRS0p1ZnVJUUlLTGlVWjRzM1AwVTloclRhVU1EOVo3WV91Zkxmam41ZmRxVDFzb2FONjd3UE5WdWEzbnhKNzdTcTg?oc=5",
-        "date": "2026-05-02",
-        "title": "RIPWA Ocean State Construction Equipment Show 2026 Rhode Island Event Details - Construction Owners Club",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBnN2szekJEem5VOHIzZFcyTjJUUHN3dFJYcFhVYzNPa3hEUHdUWWJ4X0tRS0p1ZnVJUUlLTGlVWjRzM1AwVTloclRhVU1EOVo3WV91Zkxmam41ZmRxVDFzb2FONjd3UE5WdWEzbnhKNzdTcTg?oc=5\" target=\"_blank\">RIPWA Ocean State Construction Equipment Show 2026 Rhode Island Event Details</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Owners Club</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcXQ2eTFtcWlFRzFMRGdPWDdRYjhFdjlvT29yc2xiZjFnZGEzaEZrY01wVDFFTzdVSlU1TjI2ZlpJZkFWYlp3ZEdOUTdOdkpzNWx5NnhsYjlMT3Q2RHFTckRCQU16dldTSFBMdEVrOXZza2laWEY4bFI1RU8zS3ZOV0RSVF92SUFuRS1CX1d1R1hTYjhfZlRhWDdJMVdiSEdtTVdUV09pWQ?oc=5",
-        "date": "2026-05-02",
-        "title": "The left wastes time weaponizing everything, from policing to immigration, and it\u2019s rotting our infrastructure - New York Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQcXQ2eTFtcWlFRzFMRGdPWDdRYjhFdjlvT29yc2xiZjFnZGEzaEZrY01wVDFFTzdVSlU1TjI2ZlpJZkFWYlp3ZEdOUTdOdkpzNWx5NnhsYjlMT3Q2RHFTckRCQU16dldTSFBMdEVrOXZza2laWEY4bFI1RU8zS3ZOV0RSVF92SUFuRS1CX1d1R1hTYjhfZlRhWDdJMVdiSEdtTVdUV09pWQ?oc=5\" target=\"_blank\">The left wastes time weaponizing everything, from policing to immigration, and it\u2019s rotting our infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzI5X0hZZnlaWUNqVWxLSWxFTndaVElQQ3hITFgtM3YzbjJ6ZFFySXRwZVNyZndFeHhZT041VHNQZFIyNzM5NVQwQ0sySmZ2QV9sNjdBOVQyVzBFWXJFWEtady1nZXhkaVBOc2ZSMFQ0V2tPal9EZEF1bVNvSG42LTB3cGtmeXUzMUhqSFNaN2ktSE4tMU9pQTEyWTRCWG1QaWQzT1FrRDJvcENr?oc=5",
-        "date": "2026-05-02",
-        "title": "Brookfield Infrastructure: 5% Yield Is Not Enough For Me Here (NYSE:BIP) - Seeking Alpha",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzI5X0hZZnlaWUNqVWxLSWxFTndaVElQQ3hITFgtM3YzbjJ6ZFFySXRwZVNyZndFeHhZT041VHNQZFIyNzM5NVQwQ0sySmZ2QV9sNjdBOVQyVzBFWXJFWEtady1nZXhkaVBOc2ZSMFQ0V2tPal9EZEF1bVNvSG42LTB3cGtmeXUzMUhqSFNaN2ktSE4tMU9pQTEyWTRCWG1QaWQzT1FrRDJvcENr?oc=5\" target=\"_blank\">Brookfield Infrastructure: 5% Yield Is Not Enough For Me Here (NYSE:BIP)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYjNLT3RQblpnSGFmUllXMERHM1FQdlM2OWFqRmoxN2tjZUlUS0txLTNEcG1aLVFIaXN1VzNlOEpOeWlpRjh3QkdjTDQ4Z3RrRHlqZmE4c0xmSTFNaDFjWkhsNFNfSHE2aGx2WmxIa1ZPOGprU2ZHanNzLUFiaERUc1hwSlpXM0lFRHExOHhzdFhfWEUwNjNpa21xdTBqODNGYVVj?oc=5",
-        "date": "2026-05-02",
-        "title": "Results: NWPX Infrastructure, Inc. Beat Earnings Expectations And Analysts Now Have New Forecasts - Yahoo Finance",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPYjNLT3RQblpnSGFmUllXMERHM1FQdlM2OWFqRmoxN2tjZUlUS0txLTNEcG1aLVFIaXN1VzNlOEpOeWlpRjh3QkdjTDQ4Z3RrRHlqZmE4c0xmSTFNaDFjWkhsNFNfSHE2aGx2WmxIa1ZPOGprU2ZHanNzLUFiaERUc1hwSlpXM0lFRHExOHhzdFhfWEUwNjNpa21xdTBqODNGYVVj?oc=5\" target=\"_blank\">Results: NWPX Infrastructure, Inc. Beat Earnings Expectations And Analysts Now Have New Forecasts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZUlSTEFpQzJDV29OLUtKWnljMVpuenozNUhqYmRNaVZZcVRtRVEyc3A1ZFU0NHdfcndUbDFjUWlXUTJ0MU94VHRGdE1JcGgwTFJSNTVlb1JrUTZIenFTbmJZVzRZc3JrS0dveW94Z3VLVGJ2LUlfekpaTjRVUHNmelMtOGwyQWQya2F2Mk5JNXVkeVA0Ukk1TjNhMjJ1UE1JVG93X292YkRNLUk?oc=5",
-        "date": "2026-05-02",
-        "title": "Neysa Highlights Digital Public Infrastructure Design Focus - TipRanks",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZUlSTEFpQzJDV29OLUtKWnljMVpuenozNUhqYmRNaVZZcVRtRVEyc3A1ZFU0NHdfcndUbDFjUWlXUTJ0MU94VHRGdE1JcGgwTFJSNTVlb1JrUTZIenFTbmJZVzRZc3JrS0dveW94Z3VLVGJ2LUlfekpaTjRVUHNmelMtOGwyQWQya2F2Mk5JNXVkeVA0Ukk1TjNhMjJ1UE1JVG93X292YkRNLUk?oc=5\" target=\"_blank\">Neysa Highlights Digital Public Infrastructure Design Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU051UU5hUjl2MURUZGhQOHdfT0w0OEtoM3drYXhOOXJ5aXFYTDFwUTNaRk1tSG9rQW1NbjJwN29oUnRaSFlLemJVM29KR1NsNWMyVkNpdWYtSEw3d0NVWWNXdTBtUElwWGlucVV4bVJoT1N2Q0JkZGw1c0RJMjdTeTdUOVZjRDhwMkRQUTVBeXNIRGhDcDVjcENKQW9SNjdhY3k3b25LY2EwNDVoYVI4VXd1X2lBTVI3cklBTG53?oc=5",
-        "date": "2026-05-02",
-        "title": "Alaska Secures Over $115 Million in Federal Port Infrastructure Grants - Trending Now Infrastructure",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPU051UU5hUjl2MURUZGhQOHdfT0w0OEtoM3drYXhOOXJ5aXFYTDFwUTNaRk1tSG9rQW1NbjJwN29oUnRaSFlLemJVM29KR1NsNWMyVkNpdWYtSEw3d0NVWWNXdTBtUElwWGlucVV4bVJoT1N2Q0JkZGw1c0RJMjdTeTdUOVZjRDhwMkRQUTVBeXNIRGhDcDVjcENKQW9SNjdhY3k3b25LY2EwNDVoYVI4VXd1X2lBTVI3cklBTG53?oc=5\" target=\"_blank\">Alaska Secures Over $115 Million in Federal Port Infrastructure Grants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trending Now Infrastructure</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb2s4OXVRNmIzQnRmMml3QXpySE9aZUZwMTMyQzU2YmJNa0MzVC0yN2ZIZ3EwQzZfZlpQcDRBU3RMYThWMGpSRUlYNDdEbnUwQzc0Zk9FREZ5ci1XSnB4NTZZUnAxZXNWTi10UjNvSDAzME93ZFE5NDdiR2JiWW1uQndRNEFBVUZ1V2J1c1dZdTI1YnBackVMbGxzR3A?oc=5",
-        "date": "2026-05-02",
-        "title": "Infrastructure Stocks To Watch Now - May 2nd - MarketBeat",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQb2s4OXVRNmIzQnRmMml3QXpySE9aZUZwMTMyQzU2YmJNa0MzVC0yN2ZIZ3EwQzZfZlpQcDRBU3RMYThWMGpSRUlYNDdEbnUwQzc0Zk9FREZ5ci1XSnB4NTZZUnAxZXNWTi10UjNvSDAzME93ZFE5NDdiR2JiWW1uQndRNEFBVUZ1V2J1c1dZdTI1YnBackVMbGxzR3A?oc=5\" target=\"_blank\">Infrastructure Stocks To Watch Now - May 2nd</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTFVHQUlqMkpnTFdVTTg3R25DbldQWVVIUHNheVkwdVhWZ2owTXpLS05ZUmFMTnBkZUx1ZlZuQWhPWWJ2M1N3M3FTQmlLZ0YzNG5TdlFMMm5hR3Bsa3p1ekpsbVlZWXlPV25aWjZwUW12R3Nwc2NuNU1TSkl4UF9JOS1RY1p3VjI1STVoVFRqTmdxOVE2WHc4TnJJOUQtaXFqQmhBLXBVQW5JUnhaWGdzdlhnRjRsb0lBS2hXOVM1dzZPSWNicmFRMF95SV9OLWpnN1JFSTJzN2ZERmF3dDVMNHdKci1SbnY0OXdhTmdtbDlTdExuMVlxcjEyQnJfTGFMdk8xYzlnNkxsd9IBjwJBVV95cUxOeXRTbFNsUWlxeUxnSElOMVJnTDBCQ3FlY2ItdVJ2V1R2SVZUUkgwR3htUm1FVnVBaUItYW0zYVVNS1dfamtBSVZCZGctYWNVcnNTSVlaTnVZY0xoajNQcGVUS3dlQjJDdkpoU3drZzJoMXJRUWVQdFdsN3pFOEdtM1ZYOENpUU1Ld0NDVHBGNm5uOWNCN0NTd1V3Y0IweGtJYXNLSloyUlhpQ3NrWlpBZVBGTjdtWUlrNHJDVlVWc05LY0dicFB6LUdkZWYySTdfeTU1Vi1zWXpYOENRMVVfa0hMdzU4MzFaOHJySU00cnQxTXhCTkhFVXh3eWdWUFFPcFhHMzBFb2ZrMHVWNkhB?oc=5",
-        "date": "2026-05-02",
-        "title": "Silicon Valley 101 and Power HF Host AI Infrastructure Forum, Spotlighting Power as the Next Battleground - The Manila Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxNTFVHQUlqMkpnTFdVTTg3R25DbldQWVVIUHNheVkwdVhWZ2owTXpLS05ZUmFMTnBkZUx1ZlZuQWhPWWJ2M1N3M3FTQmlLZ0YzNG5TdlFMMm5hR3Bsa3p1ekpsbVlZWXlPV25aWjZwUW12R3Nwc2NuNU1TSkl4UF9JOS1RY1p3VjI1STVoVFRqTmdxOVE2WHc4TnJJOUQtaXFqQmhBLXBVQW5JUnhaWGdzdlhnRjRsb0lBS2hXOVM1dzZPSWNicmFRMF95SV9OLWpnN1JFSTJzN2ZERmF3dDVMNHdKci1SbnY0OXdhTmdtbDlTdExuMVlxcjEyQnJfTGFMdk8xYzlnNkxsd9IBjwJBVV95cUxOeXRTbFNsUWlxeUxnSElOMVJnTDBCQ3FlY2ItdVJ2V1R2SVZUUkgwR3htUm1FVnVBaUItYW0zYVVNS1dfamtBSVZCZGctYWNVcnNTSVlaTnVZY0xoajNQcGVUS3dlQjJDdkpoU3drZzJoMXJRUWVQdFdsN3pFOEdtM1ZYOENpUU1Ld0NDVHBGNm5uOWNCN0NTd1V3Y0IweGtJYXNLSloyUlhpQ3NrWlpBZVBGTjdtWUlrNHJDVlVWc05LY0dicFB6LUdkZWYySTdfeTU1Vi1zWXpYOENRMVVfa0hMdzU4MzFaOHJySU00cnQxTXhCTkhFVXh3eWdWUFFPcFhHMzBFb2ZrMHVWNkhB?oc=5\" target=\"_blank\">Silicon Valley 101 and Power HF Host AI Infrastructure Forum, Spotlighting Power as the Next Battleground</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-05-02",
-        "status": "posted",
-        "tweet": "Global wind power capacity projected to reach 1,200 GW by 2026.\n\nThis will generate enough electricity to power 400 million households annually.",
-        "type": "statistical",
-        "category": "engineering projects"
-    },
-    {
-        "link": null,
         "date": "2026-05-03",
         "status": "posted",
         "tweet": "Projected top 5 cities by construction project value in 2026 (USD billions)\n\n\ud83c\udde8\ud83c\uddf3 Shanghai: 280\n\ud83c\uddfa\ud83c\uddf8 New York: 200\n\ud83c\uddee\ud83c\uddf3 Mumbai: 150\n\ud83c\uddf8\ud83c\udde6 Riyadh: 120\n\ud83c\udde6\ud83c\uddea Dubai: 100",
@@ -2120,5 +2025,67 @@
         "status": "posted",
         "tweet": "Bitcoin's proof-of-work mining emitted 102 million metric tons of CO2 in 2025, equivalent to the annual emissions of \ud83c\uddf0\ud83c\uddff Kazakhstan.\n\nProjections for 2026 forecast a 15% rise to 117 million tons amid growing hashrate.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTjR2S21JeG1wRjJRV1Y1QUhhS2N3b0tNYzEzMFgxaWVDaGdwMGxzU1E5aDJDR0JtQ2NWaGRmVWMzRUc0OC1FU3NxUGEydUdQOGNXalZVMVR5N1lkSElGRXFZa3dqWFpURHlTQnhpbm96WXRNZGFhZjNaeVVvMWh0US13?oc=5",
+        "date": "2026-05-12",
+        "title": "Sustainable Energy & Infrastructure Connections \u2014 May 2026 - JD Supra",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOTjR2S21JeG1wRjJRV1Y1QUhhS2N3b0tNYzEzMFgxaWVDaGdwMGxzU1E5aDJDR0JtQ2NWaGRmVWMzRUc0OC1FU3NxUGEydUdQOGNXalZVMVR5N1lkSElGRXFZa3dqWFpURHlTQnhpbm96WXRNZGFhZjNaeVVvMWh0US13?oc=5\" target=\"_blank\">Sustainable Energy & Infrastructure Connections \u2014 May 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JD Supra</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVi1hQTFfT2hlZjVnaWJNelRMX2RxckwyREtJdnZWRkdCOTlRZ0tkR2JSNElYNEtFRmZRNnRjOEJObkdlekU5MUswVHZPRTktR1B0U2dDbjdzN3ZyNkw0NW50SHVOdWRjdDloSUptT0FaLTAybGNMTk5LSFh3c2hCcUVWU295U1U0cVVDMkIzdmdWOW5US2twQlpsRkVvQdIBowFBVV95cUxPTUYyRWNNeHNDLVVmTnJNUTgtTlJuZ0tuVmpkRlUydkNYMjJOUUt5bzBQY2lEeDJ3SURyUHJyaVZiTW5yZjNRYk9OY2xmMXpXUWpnLXU2emI1NEFBVl9PQWQ1eGtGbWlxQnN5ck5ob0twenpnd3d2b3N0OC1Ya2VNdmlwU3JxNG52Nk1ibTFYanczalEtRThHQ25tTDI2TF96SWRN?oc=5",
+        "date": "2026-05-12",
+        "title": "Planned power outage in Trinidad to replace infrastructure - FOX21 News Colorado",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNVi1hQTFfT2hlZjVnaWJNelRMX2RxckwyREtJdnZWRkdCOTlRZ0tkR2JSNElYNEtFRmZRNnRjOEJObkdlekU5MUswVHZPRTktR1B0U2dDbjdzN3ZyNkw0NW50SHVOdWRjdDloSUptT0FaLTAybGNMTk5LSFh3c2hCcUVWU295U1U0cVVDMkIzdmdWOW5US2twQlpsRkVvQdIBowFBVV95cUxPTUYyRWNNeHNDLVVmTnJNUTgtTlJuZ0tuVmpkRlUydkNYMjJOUUt5bzBQY2lEeDJ3SURyUHJyaVZiTW5yZjNRYk9OY2xmMXpXUWpnLXU2emI1NEFBVl9PQWQ1eGtGbWlxQnN5ck5ob0twenpnd3d2b3N0OC1Ya2VNdmlwU3JxNG52Nk1ibTFYanczalEtRThHQ25tTDI2TF96SWRN?oc=5\" target=\"_blank\">Planned power outage in Trinidad to replace infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX21 News Colorado</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdW82YXlQSnhxaEpUTXctQmppVFE5bGtPdFU3bGE2eEZHUWVONGxVcGI1VklvNEZFYk1LZ3BqODgwQ2R1QzRRM2RYdkhfMDdmQWlsSDB6Z0hUQnZlQUZHdnlfbGFaU1FfU2pmTXhDWm5YMjJ2ZmpqQ3VvUGU0QmdJRktBSnZEcUNXYUQtLXdHdWJGMmgxY0xXdzlzUkxpZENBd0FDTmE5SGhQUVpnS0HSAbMBQVVfeXFMUFIxclZsNmpwb1g1Zk1OektGYjJya1V6UnhqSFNvUkZORGNiU1Y3UmFZVWpjT0t3RjI3Tm4xMWd2T0JfWGFLM2NZbE0zcHRLdVRxVEZRN2RLVEtfR1BIQjFKSW5udHE4b3Fkam02bURPTUxsajhnblBSaUJtNV9xVmZmUHpVN2tfOW9na3FyNWdET1ROU0dydHFJd2JFRE5memVESHd4MDh1eTgwc0N3Qkp5ZVE?oc=5",
+        "date": "2026-05-12",
+        "title": "Amaravati will get S\u2019pore-style integrated township: Lokesh - The Hans India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNdW82YXlQSnhxaEpUTXctQmppVFE5bGtPdFU3bGE2eEZHUWVONGxVcGI1VklvNEZFYk1LZ3BqODgwQ2R1QzRRM2RYdkhfMDdmQWlsSDB6Z0hUQnZlQUZHdnlfbGFaU1FfU2pmTXhDWm5YMjJ2ZmpqQ3VvUGU0QmdJRktBSnZEcUNXYUQtLXdHdWJGMmgxY0xXdzlzUkxpZENBd0FDTmE5SGhQUVpnS0HSAbMBQVVfeXFMUFIxclZsNmpwb1g1Zk1OektGYjJya1V6UnhqSFNvUkZORGNiU1Y3UmFZVWpjT0t3RjI3Tm4xMWd2T0JfWGFLM2NZbE0zcHRLdVRxVEZRN2RLVEtfR1BIQjFKSW5udHE4b3Fkam02bURPTUxsajhnblBSaUJtNV9xVmZmUHpVN2tfOW9na3FyNWdET1ROU0dydHFJd2JFRE5memVESHd4MDh1eTgwc0N3Qkp5ZVE?oc=5\" target=\"_blank\">Amaravati will get S\u2019pore-style integrated township: Lokesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hans India</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Amaravati set for Singapore-style integrated township development, says Lokesh"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUQwdnFCc1BNT1Fkd1JlZWhrNzAxWmpiSWtiVms2TDRkNXZkS1ZjRkd4QUNBYnpNUW96Y2lfU1piQlYwdDVUQ2JBaGFia0VBd3hwLXlaVFljdDlkZkI4djEwWmZKS08xSWcwVndlcm5tYkcwdEc2MVFJUUU4WHJ2QzVMNnIxVEU2dGd2eDRGbndnQzFienhCcTBxTXZoMTBMSVdHYVlXdVFsNjJGSHpQYzFhTU_SAboBQVVfeXFMTk9WcE9vWTNXMHlkcTZkTGxqQ0dObDhGeG1ocGVNWHctNHhWaFNwR09VT3QxUGNrWllaVkMwX3VvYjNQQkJMRWFaWGhHWVNTUk13UWRKTVJEdjVlWS1FUUtBa3kyb25TNWpYcENLRktpSktVamM0YV9Nb1UxWVpSRUU0LXFHNkdwSlZKZC0yMDNnemJWR1cxYWhjZXBfaGNfcGZGUWl4OUdEeFpaYWZIQ0RtbUpaU2hKMkFB?oc=5",
+        "date": "2026-05-12",
+        "title": "Parliamentary panel inspects riverfront, Lal Chowk smart city projects - Greater Kashmir",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUQwdnFCc1BNT1Fkd1JlZWhrNzAxWmpiSWtiVms2TDRkNXZkS1ZjRkd4QUNBYnpNUW96Y2lfU1piQlYwdDVUQ2JBaGFia0VBd3hwLXlaVFljdDlkZkI4djEwWmZKS08xSWcwVndlcm5tYkcwdEc2MVFJUUU4WHJ2QzVMNnIxVEU2dGd2eDRGbndnQzFienhCcTBxTXZoMTBMSVdHYVlXdVFsNjJGSHpQYzFhTU_SAboBQVVfeXFMTk9WcE9vWTNXMHlkcTZkTGxqQ0dObDhGeG1ocGVNWHctNHhWaFNwR09VT3QxUGNrWllaVkMwX3VvYjNQQkJMRWFaWGhHWVNTUk13UWRKTVJEdjVlWS1FUUtBa3kyb25TNWpYcENLRktpSktVamM0YV9Nb1UxWVpSRUU0LXFHNkdwSlZKZC0yMDNnemJWR1cxYWhjZXBfaGNfcGZGUWl4OUdEeFpaYWZIQ0RtbUpaU2hKMkFB?oc=5\" target=\"_blank\">Parliamentary panel inspects riverfront, Lal Chowk smart city projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Greater Kashmir</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Parliamentary panel inspects riverfront and Lal Chowk smart city projects in Srinagar"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdW82YXlQSnhxaEpUTXctQmppVFE5bGtPdFU3bGE2eEZHUWVONGxVcGI1VklvNEZFYk1LZ3BqODgwQ2R1QzRRM2RYdkhfMDdmQWlsSDB6Z0hUQnZlQUZHdnlfbGFaU1FfU2pmTXhDWm5YMjJ2ZmpqQ3VvUGU0QmdJRktBSnZEcUNXYUQtLXdHdWJGMmgxY0xXdzlzUkxpZENBd0FDTmE5SGhQUVpnS0HSAbMBQVVfeXFMUFIxclZsNmpwb1g1Zk1OektGYjJya1V6UnhqSFNvUkZORGNiU1Y3UmFZVWpjT0t3RjI3Tm4xMWd2T0JfWGFLM2NZbE0zcHRLdVRxVEZRN2RLVEtfR1BIQjFKSW5udHE4b3Fkam02bURPTUxsajhnblBSaUJtNV9xVmZmUHpVN2tfOW9na3FyNWdET1ROU0dydHFJd2JFRE5memVESHd4MDh1eTgwc0N3Qkp5ZVE?oc=5",
+        "date": "2026-05-12",
+        "title": "Amaravati will get S\u2019pore-style integrated township: Lokesh - The Hans India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNdW82YXlQSnhxaEpUTXctQmppVFE5bGtPdFU3bGE2eEZHUWVONGxVcGI1VklvNEZFYk1LZ3BqODgwQ2R1QzRRM2RYdkhfMDdmQWlsSDB6Z0hUQnZlQUZHdnlfbGFaU1FfU2pmTXhDWm5YMjJ2ZmpqQ3VvUGU0QmdJRktBSnZEcUNXYUQtLXdHdWJGMmgxY0xXdzlzUkxpZENBd0FDTmE5SGhQUVpnS0HSAbMBQVVfeXFMUFIxclZsNmpwb1g1Zk1OektGYjJya1V6UnhqSFNvUkZORGNiU1Y3UmFZVWpjT0t3RjI3Tm4xMWd2T0JfWGFLM2NZbE0zcHRLdVRxVEZRN2RLVEtfR1BIQjFKSW5udHE4b3Fkam02bURPTUxsajhnblBSaUJtNV9xVmZmUHpVN2tfOW9na3FyNWdET1ROU0dydHFJd2JFRE5memVESHd4MDh1eTgwc0N3Qkp5ZVE?oc=5\" target=\"_blank\">Amaravati will get S\u2019pore-style integrated township: Lokesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hans India</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Amaravati set for Singapore-style integrated township development, announces Lokesh",
+        "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUQwdnFCc1BNT1Fkd1JlZWhrNzAxWmpiSWtiVms2TDRkNXZkS1ZjRkd4QUNBYnpNUW96Y2lfU1piQlYwdDVUQ2JBaGFia0VBd3hwLXlaVFljdDlkZkI4djEwWmZKS08xSWcwVndlcm5tYkcwdEc2MVFJUUU4WHJ2QzVMNnIxVEU2dGd2eDRGbndnQzFienhCcTBxTXZoMTBMSVdHYVlXdVFsNjJGSHpQYzFhTU_SAboBQVVfeXFMTk9WcE9vWTNXMHlkcTZkTGxqQ0dObDhGeG1ocGVNWHctNHhWaFNwR09VT3QxUGNrWllaVkMwX3VvYjNQQkJMRWFaWGhHWVNTUk13UWRKTVJEdjVlWS1FUUtBa3kyb25TNWpYcENLRktpSktVamM0YV9Nb1UxWVpSRUU0LXFHNkdwSlZKZC0yMDNnemJWR1cxYWhjZXBfaGNfcGZGUWl4OUdEeFpaYWZIQ0RtbUpaU2hKMkFB?oc=5",
+        "date": "2026-05-12",
+        "title": "Parliamentary panel inspects riverfront, Lal Chowk smart city projects - Greater Kashmir",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUQwdnFCc1BNT1Fkd1JlZWhrNzAxWmpiSWtiVms2TDRkNXZkS1ZjRkd4QUNBYnpNUW96Y2lfU1piQlYwdDVUQ2JBaGFia0VBd3hwLXlaVFljdDlkZkI4djEwWmZKS08xSWcwVndlcm5tYkcwdEc2MVFJUUU4WHJ2QzVMNnIxVEU2dGd2eDRGbndnQzFienhCcTBxTXZoMTBMSVdHYVlXdVFsNjJGSHpQYzFhTU_SAboBQVVfeXFMTk9WcE9vWTNXMHlkcTZkTGxqQ0dObDhGeG1ocGVNWHctNHhWaFNwR09VT3QxUGNrWllaVkMwX3VvYjNQQkJMRWFaWGhHWVNTUk13UWRKTVJEdjVlWS1FUUtBa3kyb25TNWpYcENLRktpSktVamM0YV9Nb1UxWVpSRUU0LXFHNkdwSlZKZC0yMDNnemJWR1cxYWhjZXBfaGNfcGZGUWl4OUdEeFpaYWZIQ0RtbUpaU2hKMkFB?oc=5\" target=\"_blank\">Parliamentary panel inspects riverfront, Lal Chowk smart city projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Greater Kashmir</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Parliamentary panel inspects riverfront and Lal Chowk smart city projects in Srinagar.",
+        "type": "news"
     }
 ]
