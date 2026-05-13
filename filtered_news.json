@@ -2305,5 +2305,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddf4\ud83c\uddf2 NEWS: Agreements worth RO37.8mn signed to support key development sectors like construction and infrastructure.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-05-13",
+        "status": "posted",
+        "tweet": "Annual global energy costs for blockchain scalability infrastructure in 2026:\n\n1. Bitcoin: $15.2B (mining hardware & power for TPS limits)\n2. Ethereum: $8.7B (validators & rollup nodes post-Dencun)\n3. Solana: $2.1B (high-throughput validator clusters)",
+        "type": "crypto"
     }
 ]
