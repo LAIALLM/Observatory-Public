@@ -2312,5 +2312,12 @@
         "status": "posted",
         "tweet": "Annual global energy costs for blockchain scalability infrastructure in 2026:\n\n1. Bitcoin: $15.2B (mining hardware & power for TPS limits)\n2. Ethereum: $8.7B (validators & rollup nodes post-Dencun)\n3. Solana: $2.1B (high-throughput validator clusters)",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-05-13",
+        "status": "posted",
+        "tweet": "Microsoft's Azure data centers processed 8 exabytes of data daily in 2026.\n\n$MSFT",
+        "type": "infrastructure"
     }
 ]
