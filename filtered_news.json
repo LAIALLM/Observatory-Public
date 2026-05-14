@@ -1949,5 +1949,12 @@
         "status": "posted",
         "tweet": "Amazon's AWS infrastructure processed 3.2 zettabytes of data in 2026, a 28% increase from 2025.\n\n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-14",
+        "status": "posted",
+        "tweet": "Blockchain energy cost trends (annual USD billions, electricity only):\n\n1. Bitcoin: 2017: 1B \u2192 2025: 7.5B (+650%)\n2. Ethereum: 2019: 0.8B \u2192 2022: 4B (pre-PoS peak); 2025: 0.05B (-99%)\n3. Solana: 2020: 0.02B \u2192 2025: 0.1B (+400%)",
+        "type": "crypto"
     }
 ]
