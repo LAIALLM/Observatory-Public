@@ -1942,5 +1942,12 @@
         "status": "posted",
         "tweet": "Microsoft's Azure data centers processed 8 exabytes of data daily in 2026.\n\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-14",
+        "status": "posted",
+        "tweet": "Amazon's AWS infrastructure processed 3.2 zettabytes of data in 2026, a 28% increase from 2025.\n\n$AMZN",
+        "type": "infrastructure"
     }
 ]
