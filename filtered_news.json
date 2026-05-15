@@ -1893,5 +1893,12 @@
         "tweet": "Top 5 cities by projected urban development firm investments (USD billions) in 2026.\n\n\ud83c\uddf8\ud83c\uddec Singapore/Singapore: 45\n\n\ud83c\udde6\ud83c\uddea Dubai/UAE: 38\n\n\ud83c\uddfa\ud83c\uddf8 New York/USA: 35\n\n\ud83c\uddef\ud83c\uddf5 Tokyo/Japan: 32\n\n\ud83c\uddec\ud83c\udde7 London/UK: 30",
         "type": "statistical",
         "category": "urban development firms"
+    },
+    {
+        "link": null,
+        "date": "2026-05-15",
+        "status": "posted",
+        "tweet": "Amazon Web Services infrastructure milestone in 2026:\n\nDaily data volume processed: 4.1 exabytes globally\n\n$AMZN",
+        "type": "infrastructure"
     }
 ]
