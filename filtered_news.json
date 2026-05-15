@@ -1885,5 +1885,13 @@
         "tweet": "By 2026, over 1,000 cities worldwide will adopt AI-driven smart grids, cutting urban energy waste by 25% and saving $200 billion annually.",
         "type": "statistical",
         "category": "smart cities"
+    },
+    {
+        "link": null,
+        "date": "2026-05-15",
+        "status": "posted",
+        "tweet": "Top 5 cities by projected urban development firm investments (USD billions) in 2026.\n\n\ud83c\uddf8\ud83c\uddec Singapore/Singapore: 45\n\n\ud83c\udde6\ud83c\uddea Dubai/UAE: 38\n\n\ud83c\uddfa\ud83c\uddf8 New York/USA: 35\n\n\ud83c\uddef\ud83c\uddf5 Tokyo/Japan: 32\n\n\ud83c\uddec\ud83c\udde7 London/UK: 30",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
