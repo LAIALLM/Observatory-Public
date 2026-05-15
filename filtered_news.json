@@ -2107,5 +2107,35 @@
         "status": "posted",
         "tweet": "Ethereum: 1.2M validators span 90 countries at $110 monthly infra cost per node.  \nSolana: 62% of 4200 validators in \ud83c\uddfa\ud83c\uddf8 United States at $950 monthly.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3BOOVZmaElyYWVGZTVLZ0pmVmIzWW1TY2hCemNkTkhMUWlnOFJJWXc2T25ZMU0tMzd3NlgyZmk3aDhlSGVqdlIyR2U4SVVMMS1Uc2FYZlVBRC1QN3U3b2hXYmpUSHVqVEZOZ3Y1MXN6VEpfeHpjaVZ2cUFQc1lPXzdXT2VGUnlYWHNQMW5ZZk12dzk2dFIxUUxvQ0x6Z0tXS1JZcVZuOA?oc=5",
+        "date": "2026-05-15",
+        "title": "Louisville mayor highlights $1B in state budget for infrastructure, public safety, and more - WLKY",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3BOOVZmaElyYWVGZTVLZ0pmVmIzWW1TY2hCemNkTkhMUWlnOFJJWXc2T25ZMU0tMzd3NlgyZmk3aDhlSGVqdlIyR2U4SVVMMS1Uc2FYZlVBRC1QN3U3b2hXYmpUSHVqVEZOZ3Y1MXN6VEpfeHpjaVZ2cUFQc1lPXzdXT2VGUnlYWHNQMW5ZZk12dzk2dFIxUUxvQ0x6Z0tXS1JZcVZuOA?oc=5\" target=\"_blank\">Louisville mayor highlights $1B in state budget for infrastructure, public safety, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLKY</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObEE5dTFqZ0s1dTQ1ZGxoN2JqRjU3VF8xNGhhSkVqaElzU1pNcHpzUjlhZWlXVTczT2x2bURHNUZwdlZCMThIZlotaDNHY084Nks0MVhIVE1URWJDWnAtZURCMS1CemxMdjVlZUFLMjNJRl8taWxick81LWNxMWozRlBWZw?oc=5",
+        "date": "2026-05-15",
+        "title": "Pural Water: Powering Invisible Infrastructure - Hawaii Business Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxObEE5dTFqZ0s1dTQ1ZGxoN2JqRjU3VF8xNGhhSkVqaElzU1pNcHpzUjlhZWlXVTczT2x2bURHNUZwdlZCMThIZlotaDNHY084Nks0MVhIVE1URWJDWnAtZURCMS1CemxMdjVlZUFLMjNJRl8taWxick81LWNxMWozRlBWZw?oc=5\" target=\"_blank\">Pural Water: Powering Invisible Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hawaii Business Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xb2ZReWZIZEp6Y3BYTlhxZVZJYm5GSl81a0VSYl9LV04tVXA1bnpHU0ExMkxLZjdXVmZaNk0yLWNkcHcwbFM1MVZDb0JQM0VDYmlPZllsUVFBRnFPTFo0cmZ3SU10UnJzZnFPcVEtUWpLNW5WR2p3RXRSU1NZdw?oc=5",
+        "date": "2026-05-15",
+        "title": "Intl cities keen to build deep ties with Chengdu - China Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE8xb2ZReWZIZEp6Y3BYTlhxZVZJYm5GSl81a0VSYl9LV04tVXA1bnpHU0ExMkxLZjdXVmZaNk0yLWNkcHcwbFM1MVZDb0JQM0VDYmlPZllsUVFBRnFPTFo0cmZ3SU10UnJzZnFPcVEtUWpLNW5WR2p3RXRSU1NZdw?oc=5\" target=\"_blank\">Intl cities keen to build deep ties with Chengdu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">China Daily</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
