@@ -2100,5 +2100,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-15",
+        "status": "posted",
+        "tweet": "Ethereum: 1.2M validators span 90 countries at $110 monthly infra cost per node.  \nSolana: 62% of 4200 validators in \ud83c\uddfa\ud83c\uddf8 United States at $950 monthly.",
+        "type": "crypto"
     }
 ]
