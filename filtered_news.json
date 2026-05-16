@@ -1688,5 +1688,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft data centers achieved fleet-wide PUE of 1.07. \n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-16",
+        "status": "posted",
+        "tweet": "Bitcoin energy use hit 145 TWh in 2025, up 35% from 2021.  \nEthereum stayed at 0.01 TWh yearly after 2022, down 99.95%.",
+        "type": "crypto"
     }
 ]
