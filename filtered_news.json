@@ -1746,5 +1746,12 @@
         "tweet": "Projected nominal GDP 2026 (trillion USD)\n\n1. \ud83c\uddfa\ud83c\uddf8 United States\n2. \ud83c\udde8\ud83c\uddf3 China\n3. \ud83c\udde9\ud83c\uddea Germany\n4. \ud83c\uddef\ud83c\uddf5 Japan\n5. \ud83c\uddee\ud83c\uddf3 India",
         "type": "statistical",
         "category": "countries"
+    },
+    {
+        "link": null,
+        "date": "2026-05-17",
+        "status": "posted",
+        "tweet": "Bitcoin: 7 TPS at 707 kWh per transaction.  \nSolana: 2,400 TPS at 0.00051 kWh per transaction.",
+        "type": "crypto"
     }
 ]
