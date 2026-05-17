@@ -1990,5 +1990,13 @@
         "status": "posted",
         "tweet": "Microsoft Azure processed 3.8 exabytes of data daily in \ud83c\udde9\ud83c\uddea Germany data centers last year.\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-17",
+        "status": "posted",
+        "tweet": "EV adoption rate projections 2026\n1. \ud83c\uddf3\ud83c\uddf4 Norway 92%\n2. \ud83c\uddee\ud83c\uddf8 Iceland 85%\n3. \ud83c\uddf8\ud83c\uddea Sweden 78%\n4. \ud83c\uddf3\ud83c\uddf1 Netherlands 72%\n5. \ud83c\udde9\ud83c\uddf0 Denmark 68%",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
