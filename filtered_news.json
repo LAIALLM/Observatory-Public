@@ -2182,5 +2182,155 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHEtc0lrcTU3LW5jeTBUTFJBSjdGc0Q3QllnQW91cW4wc2g1ODBwNDRaYVJ6VGNHaFlaOGNmeFFmaF9Da28yUS1vWE9iS0tUd3JLU1k3aGlwSGFqS3NrOVVyV1QxbkJjN2VaZDhNV3lyX3JWaFBfQzZzVVB2dk10dGRhbmFybkIzTm9qYmdEa2tFMGVpRU5hdEJ5WWFUVjdqQXpKNzBEakJpYUU?oc=5",
+        "date": "2026-05-18",
+        "title": "P+Ex Names Construction Industry Veteran Lesley Ko Executive Director - citybiz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHEtc0lrcTU3LW5jeTBUTFJBSjdGc0Q3QllnQW91cW4wc2g1ODBwNDRaYVJ6VGNHaFlaOGNmeFFmaF9Da28yUS1vWE9iS0tUd3JLU1k3aGlwSGFqS3NrOVVyV1QxbkJjN2VaZDhNV3lyX3JWaFBfQzZzVVB2dk10dGRhbmFybkIzTm9qYmdEa2tFMGVpRU5hdEJ5WWFUVjdqQXpKNzBEakJpYUU?oc=5\" target=\"_blank\">P+Ex Names Construction Industry Veteran Lesley Ko Executive Director</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citybiz</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbUozX0FNTnpOT1BQX3N3MWRJLUZtLTVDRVhKUU1UWkdmaWpFbWdzY2J1Y2l4NXF4Z051ZktUaVhaRFlxOVB1LXg2bHp5S0J6VDhhYWNhOUJBcHlheFhyMmxWX01TbVAxcjVIVHN3ZUx1Tzg1dlQxTWpndWZiVUxoRzg0UHZkZjl2YW52TlFYbHVhZFZKV3BCUnEyWS1zSVBheGszb0tVcThST3RMRmlBZWVSN0JzTUJudnVQdklEQQ?oc=5",
+        "date": "2026-05-18",
+        "title": "Batson-Cook Promotes Nancy Black to Chief People Officer to Strengthen Workforce Systems - Construction Owners Club",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbUozX0FNTnpOT1BQX3N3MWRJLUZtLTVDRVhKUU1UWkdmaWpFbWdzY2J1Y2l4NXF4Z051ZktUaVhaRFlxOVB1LXg2bHp5S0J6VDhhYWNhOUJBcHlheFhyMmxWX01TbVAxcjVIVHN3ZUx1Tzg1dlQxTWpndWZiVUxoRzg0UHZkZjl2YW52TlFYbHVhZFZKV3BCUnEyWS1zSVBheGszb0tVcThST3RMRmlBZWVSN0JzTUJudnVQdklEQQ?oc=5\" target=\"_blank\">Batson-Cook Promotes Nancy Black to Chief People Officer to Strengthen Workforce Systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Owners Club</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNzRCNmxQNmxtdVVjZFFqSG5ZMGJGdldXTUx3SWtYcUhpSTV6Mk1NTC0zSjJKM0RxM2F0Vl9iSnY4VVRLRXdIcnZ3X1RycnA1S0JnWEloemhSaW5QZTQwcVFrWVNDWWNJX2tuOURRTUR1aHJReUVIaUFSenBuZVY5aVJNeU92a1hvZW9GazIxdGxsTF85?oc=5",
+        "date": "2026-05-18",
+        "title": "Verizon CEO Eyes Billions in AI Infrastructure Opportunity - Broadband Breakfast",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNzRCNmxQNmxtdVVjZFFqSG5ZMGJGdldXTUx3SWtYcUhpSTV6Mk1NTC0zSjJKM0RxM2F0Vl9iSnY4VVRLRXdIcnZ3X1RycnA1S0JnWEloemhSaW5QZTQwcVFrWVNDWWNJX2tuOURRTUR1aHJReUVIaUFSenBuZVY5aVJNeU92a1hvZW9GazIxdGxsTF85?oc=5\" target=\"_blank\">Verizon CEO Eyes Billions in AI Infrastructure Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Broadband Breakfast</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEV5TnJfckxHTGs3T3F2SDN4UDVfb0J5OXp3bHpHTzU2RF9zNmZtUC1ZS3o1RUtKRk9sSHhWLV9HVENTeDdUWk1CTWM0SWFITURaaUpVeWJNVXo3N0ZhLXFDbzNlOGZ1TlUtSXNxLWdmQUFoWHAtd0JOYkVpOWtyaW04d0hwc1hsQVY4NWFycVNoVjFGOWFB?oc=5",
+        "date": "2026-05-18",
+        "title": "Is AI Infrastructure Spending Heading for an Even Bigger Boom? What ARM, Shift4, SpaceX, and Anthropic Just Told Us - The Motley Fool",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEV5TnJfckxHTGs3T3F2SDN4UDVfb0J5OXp3bHpHTzU2RF9zNmZtUC1ZS3o1RUtKRk9sSHhWLV9HVENTeDdUWk1CTWM0SWFITURaaUpVeWJNVXo3N0ZhLXFDbzNlOGZ1TlUtSXNxLWdmQUFoWHAtd0JOYkVpOWtyaW04d0hwc1hsQVY4NWFycVNoVjFGOWFB?oc=5\" target=\"_blank\">Is AI Infrastructure Spending Heading for an Even Bigger Boom? What ARM, Shift4, SpaceX, and Anthropic Just Told Us</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWdRWEk0c1RJaUpYRlZkMWlKV04tekZvSXJ0QnVuaTVTbmJkT2NvTXotWF8ydnNfdlFydXk4UjhTb1JoLWFuNTg4YzE2bTVGUmhweHJybUJqeEhSTThLcGdFcUpQWUF0bzdtcFVWYmlORUZGa1o1TTRlb1JSbVhVTUcyem5SVkM4RHVTekpR?oc=5",
+        "date": "2026-05-18",
+        "title": "West Texas VA is bringing major upgrades to its Big Spring hospital - Midland Reporter-Telegram",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWdRWEk0c1RJaUpYRlZkMWlKV04tekZvSXJ0QnVuaTVTbmJkT2NvTXotWF8ydnNfdlFydXk4UjhTb1JoLWFuNTg4YzE2bTVGUmhweHJybUJqeEhSTThLcGdFcUpQWUF0bzdtcFVWYmlORUZGa1o1TTRlb1JSbVhVTUcyem5SVkM4RHVTekpR?oc=5\" target=\"_blank\">West Texas VA is bringing major upgrades to its Big Spring hospital</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Midland Reporter-Telegram</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZnpyTUt5eklUOTU2U2FyZjNiQWk0dDBJZXVDM19rU3BYOUQ5ZkRGUkpab3BjUTVpR0NnVVIybVhIaG9QRmFFYXdNQzVUcGlKbjF3S0pWRk5jczBvRy1qeHVlUGNsOVF5c0RHek9wdHVyanpWMkx6QmN5dnBIYWJwc21yYnBpZ3pMTEpjdUtoV2tPbDROYXFTZW9GLWdjRzBSakl5Z3AxY2ZoZFlRZVdsNDFMNFVDQU0yYU0yQzF0Z2JOVlhMYjNxQdIBzgFBVV95cUxQYWxoTzR4d3lkMXU3N2lBdGJJakt1Z0hzQjU4U2xYcGZfSmZrTWFhYUViTXJsNEMyQTg5NnUyNlVjN2pmZy1PaVZwbWZCa2tkYVVwLWRqbEJ3NkZJX1VLYlE5d1oyZWxkVUtNUFlqVEJLbHpKeGlYSWtfeXBFanVYZWVPWTVXY2N2S1NEVFk1SS1ZRUZNLWRCWEJxYlRCbXJId2I4T2k3UEIyNm1LZlI0ZzZyek1uUXVsZWxYa05uT3JjUzV0TTJvY3gzR0t1QQ?oc=5",
+        "date": "2026-05-18",
+        "title": "Gradiant: $2 Billion Valuation Reached With Series E Financing To Expand AI And Industrial Water Infrastructure - Pulse 2.0",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZnpyTUt5eklUOTU2U2FyZjNiQWk0dDBJZXVDM19rU3BYOUQ5ZkRGUkpab3BjUTVpR0NnVVIybVhIaG9QRmFFYXdNQzVUcGlKbjF3S0pWRk5jczBvRy1qeHVlUGNsOVF5c0RHek9wdHVyanpWMkx6QmN5dnBIYWJwc21yYnBpZ3pMTEpjdUtoV2tPbDROYXFTZW9GLWdjRzBSakl5Z3AxY2ZoZFlRZVdsNDFMNFVDQU0yYU0yQzF0Z2JOVlhMYjNxQdIBzgFBVV95cUxQYWxoTzR4d3lkMXU3N2lBdGJJakt1Z0hzQjU4U2xYcGZfSmZrTWFhYUViTXJsNEMyQTg5NnUyNlVjN2pmZy1PaVZwbWZCa2tkYVVwLWRqbEJ3NkZJX1VLYlE5d1oyZWxkVUtNUFlqVEJLbHpKeGlYSWtfeXBFanVYZWVPWTVXY2N2S1NEVFk1SS1ZRUZNLWRCWEJxYlRCbXJId2I4T2k3UEIyNm1LZlI0ZzZyek1uUXVsZWxYa05uT3JjUzV0TTJvY3gzR0t1QQ?oc=5\" target=\"_blank\">Gradiant: $2 Billion Valuation Reached With Series E Financing To Expand AI And Industrial Water Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbHpNQzlGMHphS2RxNVJLMTE2ZVZRV3ZKU1JKZmJBYzQxRmdBa1JYMk54MWVwNTBGTGV4NjZ1SU9mTnRpelhKRFlITEJFcDNGNUNTdlJ1OFhRRHZJWmhOOUNFVVppdEhCT18xNi1CaFlGbUhOZ2Exb1JkMEtBUUV4dVlXX0syQWh5S0lkOXYwUE9HYXRuRkMyUURKbmlGXzlveDFfOG04WDBBd0YzZmFXb1dZODhyOHBHanVXbGUwY3AwdGd3aTVNVEdyN3JrSmF5MjVPQjQ5QjhDWk5YajIwdWtOazNUVFl2dlpSRmFDdTAtZmhLM3NSdkxTMA?oc=5",
+        "date": "2026-05-18",
+        "title": "Tennessee American Water Highlights Over $40 Million in Planned Investments in 2026 During Infrastructure Week - StreetInsider",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbHpNQzlGMHphS2RxNVJLMTE2ZVZRV3ZKU1JKZmJBYzQxRmdBa1JYMk54MWVwNTBGTGV4NjZ1SU9mTnRpelhKRFlITEJFcDNGNUNTdlJ1OFhRRHZJWmhOOUNFVVppdEhCT18xNi1CaFlGbUhOZ2Exb1JkMEtBUUV4dVlXX0syQWh5S0lkOXYwUE9HYXRuRkMyUURKbmlGXzlveDFfOG04WDBBd0YzZmFXb1dZODhyOHBHanVXbGUwY3AwdGd3aTVNVEdyN3JrSmF5MjVPQjQ5QjhDWk5YajIwdWtOazNUVFl2dlpSRmFDdTAtZmhLM3NSdkxTMA?oc=5\" target=\"_blank\">Tennessee American Water Highlights Over $40 Million in Planned Investments in 2026 During Infrastructure Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRERQTGVkdzRadGt2UVp1RnNTczBmYlR6NEE2Nm02YVJ1ZUh5bWUtVEllNThLa0U5VG9ra1RBWFF1amVjd2lTMnhhRHd5WmFNbXViQk1EQkc4VURQbGFSdDMtSlpzekVOZlpNa0l6TGNBS2E2UWtiZk5tY2lac3hjdFBzbFltdEY1LVkyUnNVTklsYnpQSmtfQUJ0UzV5OVpuVGVKMVBtUk9YUm43bmllcXBmY2ZyeXpUdGR3VWR6aDA0SGY1Q0ZkWVlJYw?oc=5",
+        "date": "2026-05-18",
+        "title": "Dell targets enterprise AI execution gap with local agentic AI systems and integrated AI infrastructure - SiliconANGLE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNRERQTGVkdzRadGt2UVp1RnNTczBmYlR6NEE2Nm02YVJ1ZUh5bWUtVEllNThLa0U5VG9ra1RBWFF1amVjd2lTMnhhRHd5WmFNbXViQk1EQkc4VURQbGFSdDMtSlpzekVOZlpNa0l6TGNBS2E2UWtiZk5tY2lac3hjdFBzbFltdEY1LVkyUnNVTklsYnpQSmtfQUJ0UzV5OVpuVGVKMVBtUk9YUm43bmllcXBmY2ZyeXpUdGR3VWR6aDA0SGY1Q0ZkWVlJYw?oc=5\" target=\"_blank\">Dell targets enterprise AI execution gap with local agentic AI systems and integrated AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BVUNUR0VNNkZfRnlLVm52STg1eFFWelJKQVVfOVNmMm9OUjRncnZ4VTZFeG9xbEFuNFljR1dKM0RIS2M3TlNYbDBHOVVxU2VzU1AzMVM2bTFmck1CbDJfRGhzbHh0M2Y2aXNRek82ckR4a2FYTG41Q0ZIdV9Vbk0?oc=5",
+        "date": "2026-05-18",
+        "title": "WUF13 Highlights Urgent Need for Sustainable Housing Solutions - nigeriahousingmarket.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5BVUNUR0VNNkZfRnlLVm52STg1eFFWelJKQVVfOVNmMm9OUjRncnZ4VTZFeG9xbEFuNFljR1dKM0RIS2M3TlNYbDBHOVVxU2VzU1AzMVM2bTFmck1CbDJfRGhzbHh0M2Y2aXNRek82ckR4a2FYTG41Q0ZIdV9Vbk0?oc=5\" target=\"_blank\">WUF13 Highlights Urgent Need for Sustainable Housing Solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nigeriahousingmarket.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU0N0MWRnMVZrRmxYNVhIRFVzUVlUeEViczAtcXdXN0I3NHNuclltanJxa3lxbzVOcjlKZUNWdV9HM1dqNkdoMUsxQngwUWkzM21rbTRUWURKMUJ3TTgyTHZ0MnhZUVlFc3FqaVVOZWdIbUJXbFhCV1B2Z2czRnhnS3QxVURLZi1EUFRqSUJJNzdoV1JoTzE0dUJnckRPTklhdHZCMldjaTBNSVR3Smt5NFVYekFmd3Jidm1sTUpIWk5MOE1ZNXlsSWVibGpYZ0hPc2MwYldqTEpEOHRCOFRWUHl0cHU3bXlhaTdz?oc=5",
+        "date": "2026-05-18",
+        "title": "Expert: Reconstruction of territories such as Garabagh presents a rare opportunity to rethink very structure of urbanism - Az\u0259rtac",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU0N0MWRnMVZrRmxYNVhIRFVzUVlUeEViczAtcXdXN0I3NHNuclltanJxa3lxbzVOcjlKZUNWdV9HM1dqNkdoMUsxQngwUWkzM21rbTRUWURKMUJ3TTgyTHZ0MnhZUVlFc3FqaVVOZWdIbUJXbFhCV1B2Z2czRnhnS3QxVURLZi1EUFRqSUJJNzdoV1JoTzE0dUJnckRPTklhdHZCMldjaTBNSVR3Smt5NFVYekFmd3Jidm1sTUpIWk5MOE1ZNXlsSWVibGpYZ0hPc2MwYldqTEpEOHRCOFRWUHl0cHU3bXlhaTdz?oc=5\" target=\"_blank\">Expert: Reconstruction of territories such as Garabagh presents a rare opportunity to rethink very structure of urbanism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Az\u0259rtac</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2pWeFhNLXFWNWtYV2hFbmZIMjk1cnFNLVJHVEZTTUhVRUpKbjNpWmJBQmJCaVhiWUpINWtiMHc5dFVwMmg2aXhxOTJLYVhCenBZam8zLWpMd09vallYTS1JYXhORzB0anBjbU85YnJvZE1zcWFab253UVZlWFNnekl6NDFBb2tqMWZKaA?oc=5",
+        "date": "2026-05-18",
+        "title": "Global media continues to focus on WUF13 in Baku - Az\u0259rtac",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2pWeFhNLXFWNWtYV2hFbmZIMjk1cnFNLVJHVEZTTUhVRUpKbjNpWmJBQmJCaVhiWUpINWtiMHc5dFVwMmg2aXhxOTJLYVhCenBZam8zLWpMd09vallYTS1JYXhORzB0anBjbU85YnJvZE1zcWFab253UVZlWFNnekl6NDFBb2tqMWZKaA?oc=5\" target=\"_blank\">Global media continues to focus on WUF13 in Baku</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Az\u0259rtac</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2tUYldJTnFrcTdjck1HdVhYeWVGSzVpUWRtbEhRQ2dkOVk5SHJYTnpUY2RZNldGeUk4VnNTZTZ6VEJvckZONmZjOFFhbUItNTM5YUxVZ3ZnbnN0RGxETnhLMEpJLTN3Q3FfRHRSVUNZcHVTT1ZETHpBTjl3Q1BDdzB1NURJZ0xNdURLb1JqUzJrN3Ftb1FFNWtLZzlGaU5WRDJ0MkFsVzZPaEcyem9wZS1KRUl2X2EzVjdqRUFCMA?oc=5",
+        "date": "2026-05-18",
+        "title": "MINURVI session of Latin America and Caribbean Ministerial Forum held as part of WUF13 - Az\u0259rtac",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2tUYldJTnFrcTdjck1HdVhYeWVGSzVpUWRtbEhRQ2dkOVk5SHJYTnpUY2RZNldGeUk4VnNTZTZ6VEJvckZONmZjOFFhbUItNTM5YUxVZ3ZnbnN0RGxETnhLMEpJLTN3Q3FfRHRSVUNZcHVTT1ZETHpBTjl3Q1BDdzB1NURJZ0xNdURLb1JqUzJrN3Ftb1FFNWtLZzlGaU5WRDJ0MkFsVzZPaEcyem9wZS1KRUl2X2EzVjdqRUFCMA?oc=5\" target=\"_blank\">MINURVI session of Latin America and Caribbean Ministerial Forum held as part of WUF13</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Az\u0259rtac</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUx2aGx1NjNHbnA2ZGw0RmR5aG94RXFmVk9GeUZDeXlTOVM4dTQxNG5YWDNSSjRyb0FRaUxOMnhCMFZmUVprb0NPVlRPRkFtajVhS3RoM3VmLUQwYmFrSVdhNDRQQVRfanRPdTVwOTV4WWp1NGJBREVOdVRpZXpHcTZCcUxHelJWXzhkekdRb3QyN2ZJWk92b3djQnBIeTV6VUgwRnhIeGFVTTA?oc=5",
+        "date": "2026-05-18",
+        "title": "Qatar participates in 13th World Urban Forum in Azerbaijan - The Peninsula Qatar",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUx2aGx1NjNHbnA2ZGw0RmR5aG94RXFmVk9GeUZDeXlTOVM4dTQxNG5YWDNSSjRyb0FRaUxOMnhCMFZmUVprb0NPVlRPRkFtajVhS3RoM3VmLUQwYmFrSVdhNDRQQVRfanRPdTVwOTV4WWp1NGJBREVOdVRpZXpHcTZCcUxHelJWXzhkekdRb3QyN2ZJWk92b3djQnBIeTV6VUgwRnhIeGFVTTA?oc=5\" target=\"_blank\">Qatar participates in 13th World Urban Forum in Azerbaijan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Peninsula Qatar</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://www.constructiondive.com/news/construction-earnings-report-data-centers-ai/820224/",
+        "date": "2026-05-18",
+        "title": "Major general contractors bullish on data center, AI boom",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/4YZtmHl0D-v__q0yPngut0cPpdxeZ98UxM8TNw0Sdk4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MjU0MjU3LmpwZw==.webp\" /></div></figure><p>During the most recent batch of earnings calls, publicly traded firms remained confident on the data center build out, with one civil firm indicating it would pursue the sector for the first time.&nbsp;</p>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/63012-construction-hiring-slows-but-contractors-keep-workers",
+        "date": "2026-05-18",
+        "title": "Construction Hiring Slows, but Contractors Keep Workers",
+        "summary": "<p>Construction unemployment rose in 44 states, but hiring, backlog and labor data suggest contractors are preserving crews rather than broadly cutting workers.</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
