@@ -2840,5 +2840,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-19",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India's 2026 population hits 1.45 billion.  \n\ud83c\udde8\ud83c\uddf3 China falls to 1.40 billion.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
