@@ -3433,5 +3433,12 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-21",
+        "status": "posted",
+        "tweet": "Bitcoin runs 17,500 nodes in 2026. 42% cluster in \ud83c\uddfa\ud83c\uddf8 United States and \ud83c\udde9\ud83c\uddea Germany data centers, driving $280 million in combined hosting and power infrastructure costs.",
+        "type": "crypto"
     }
 ]
