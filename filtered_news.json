@@ -3186,5 +3186,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfb\ud83c\uddf3 NEWS: Hanoi plans a future city with AI, transit-oriented development, a 1,153 km metro network and smart urban transformation.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-05-21",
+        "status": "posted",
+        "tweet": "Amazon $AMZN infrastructure in \ud83c\uddfa\ud83c\uddf8 United States processed 18.4 zettabytes of data in 2025.",
+        "type": "infrastructure"
     }
 ]
