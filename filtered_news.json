@@ -3300,5 +3300,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-22",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China construction output reaches $2.8 trillion in 2026\n\ud83c\uddfa\ud83c\uddf8 US totals $1.9 trillion, a 47% difference in scale.",
+        "type": "statistical",
+        "category": "construction projects"
     }
 ]
