@@ -3536,5 +3536,25 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNem43NENHUkZDXzJyYzN4WGc1WjZ0Y3ZxZEpKUS1Mby04amFKcFFTWnBVNFpfdWc0QzRobHloQUVLZnhaczJpNDcxSTdfVGxKc2VmVW9sTEZudHVJNHNLWWVjQlpUNlQ3cGpGMVY3UEcwSDdQZVh4ZjN6eVBSUXZYSlp1M182aFI2X1FvTXE2SmZwVEZBSnZsSUZVYjAtUXpOMi01eEl6cTlTRFFIWGo0YjFxM1JTX2lQT3c?oc=5",
+        "date": "2026-05-23",
+        "title": "Opinion | Americans are numb to infrastructure dysfunction - The Washington Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNem43NENHUkZDXzJyYzN4WGc1WjZ0Y3ZxZEpKUS1Mby04amFKcFFTWnBVNFpfdWc0QzRobHloQUVLZnhaczJpNDcxSTdfVGxKc2VmVW9sTEZudHVJNHNLWWVjQlpUNlQ3cGpGMVY3UEcwSDdQZVh4ZjN6eVBSUXZYSlp1M182aFI2X1FvTXE2SmZwVEZBSnZsSUZVYjAtUXpOMi01eEl6cTlTRFFIWGo0YjFxM1JTX2lQT3c?oc=5\" target=\"_blank\">Opinion | Americans are numb to infrastructure dysfunction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWDctZmhKME5wRzVOelVZeHJPT2djZEt2R3FHQmFEWnlNWmZlZE5oZmNTVFNIV0Uybnd5WUJsZ01DVkd2M0NGYzBNUElHMTk4QVh2Nk9ybXNyQ003V1ZybEl0WTNTc3Z4aW1iT2hnal80bFgxcEo0Z1VRSmItSnIydHRreW80Mi1DUHNpQkpvQ2RsRHV2?oc=5",
+        "date": "2026-05-23",
+        "title": "Weekly Briefing: Building Cultural Infrastructure - Global Atlanta",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPWDctZmhKME5wRzVOelVZeHJPT2djZEt2R3FHQmFEWnlNWmZlZE5oZmNTVFNIV0Uybnd5WUJsZ01DVkd2M0NGYzBNUElHMTk4QVh2Nk9ybXNyQ003V1ZybEl0WTNTc3Z4aW1iT2hnal80bFgxcEo0Z1VRSmItSnIydHRreW80Mi1DUHNpQkpvQ2RsRHV2?oc=5\" target=\"_blank\">Weekly Briefing: Building Cultural Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Atlanta</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
