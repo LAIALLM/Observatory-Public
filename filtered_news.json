@@ -3338,5 +3338,42 @@
         "status": "posted",
         "tweet": "Microsoft $MSFT Azure sites in \ud83c\uddfa\ud83c\uddf8 United States consumed 14.7 TWh of electricity in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-05-24",
+        "status": "posted",
+        "tweet": "2026 hardware costs per node\n1. Bitcoin: $9500 ASIC\n2. Solana: $6200 server\n3. Ethereum: $1800 PC",
+        "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY1hNbVpsYzNkU1pWaHV2LTJLUlpHTnY0T0hlOC13YXMxcFkwQ1hWYndpNXdJYjBERnkxdllLVzZmcDBJWnJBQklfenFNUE5GelR2UHV6bnRuc3ZlZWY2TmZLNDliUWR1b2RTN3JQUU9mTi1JT3JXT2NJVzJISmxuWVVzVQ?oc=5",
+        "date": "2026-05-24",
+        "title": "The Reliability Crisis Hiding Inside AI Infrastructure - HackerNoon",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQY1hNbVpsYzNkU1pWaHV2LTJLUlpHTnY0T0hlOC13YXMxcFkwQ1hWYndpNXdJYjBERnkxdllLVzZmcDBJWnJBQklfenFNUE5GelR2UHV6bnRuc3ZlZWY2TmZLNDliUWR1b2RTN3JQUU9mTi1JT3JXT2NJVzJISmxuWVVzVQ?oc=5\" target=\"_blank\">The Reliability Crisis Hiding Inside AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HackerNoon</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM2g3S2dTZWNMb3A5azZ0M281bU8yVWp0YWhwOE5KTk04SnlyT2hNRWVrNXBwS2Q2SHkxcW5mWjNtZGMzS3Q2Qnd5YktLMTNTQWE1OXUtN1hwM19CLUJ0SURIRE91QS1USzhob0M0ZWc0MkN1V2oydTVyY3E2YVJ5VWtuNldlTkZsYndrUzAxWGpSajlSNU10ZmlqN2lhRExHRUFrMVFpLWwxUURKNWM0ekpqSnR4ZjB5YzRPWVI1QVRDcjlxSF83dGhDRGNaNTRVbUdfRjF6UDRMVkFrMWdN?oc=5",
+        "date": "2026-05-24",
+        "title": "AI Agent Business Models Split Four Ways: Open-Source Infrastructure, Token Distribution, SaaS, Acquisition - Tech Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM2g3S2dTZWNMb3A5azZ0M281bU8yVWp0YWhwOE5KTk04SnlyT2hNRWVrNXBwS2Q2SHkxcW5mWjNtZGMzS3Q2Qnd5YktLMTNTQWE1OXUtN1hwM19CLUJ0SURIRE91QS1USzhob0M0ZWc0MkN1V2oydTVyY3E2YVJ5VWtuNldlTkZsYndrUzAxWGpSajlSNU10ZmlqN2lhRExHRUFrMVFpLWwxUURKNWM0ekpqSnR4ZjB5YzRPWVI1QVRDcjlxSF83dGhDRGNaNTRVbUdfRjF6UDRMVkFrMWdN?oc=5\" target=\"_blank\">AI Agent Business Models Split Four Ways: Open-Source Infrastructure, Token Distribution, SaaS, Acquisition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWhTUlZ3RGVfNkEtNlRQVFp4RjV2RHNsTnA2QjBDc0Y1UVBDa2QwcmhOOWRBdng4bjByRGdTM1NsSTdNeEFIdTdRalJ4ZHJhMFFVU1NVTHBHbzlqbDZxWnZSamd4T1Y1dmVrRkNkblI2X2RCdzl2cEhnQldvdGhnZGFDS1c0UkM3UFFjdzZZX1VrenVNUFd3ZUxVSVc1N1QtaWJaMkxHamJMeXY2QlJneHd3?oc=5",
+        "date": "2026-05-24",
+        "title": "Turkish expert: WUF13 demonstrated Baku\u2019s growing role in the global urban dialogue - Apa.az",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWhTUlZ3RGVfNkEtNlRQVFp4RjV2RHNsTnA2QjBDc0Y1UVBDa2QwcmhOOWRBdng4bjByRGdTM1NsSTdNeEFIdTdRalJ4ZHJhMFFVU1NVTHBHbzlqbDZxWnZSamd4T1Y1dmVrRkNkblI2X2RCdzl2cEhnQldvdGhnZGFDS1c0UkM3UFFjdzZZX1VrenVNUFd3ZUxVSVc1N1QtaWJaMkxHamJMeXY2QlJneHd3?oc=5\" target=\"_blank\">Turkish expert: WUF13 demonstrated Baku\u2019s growing role in the global urban dialogue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apa.az</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
