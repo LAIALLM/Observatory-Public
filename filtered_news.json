@@ -3150,5 +3150,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-27",
+        "status": "posted",
+        "tweet": "Microsoft \ud83c\uddee\ud83c\uddea Ireland data centers processed 4.8 exabytes daily.",
+        "type": "infrastructure"
     }
 ]
