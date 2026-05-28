@@ -2294,5 +2294,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US construction firms project modular methods will deliver 18% of new commercial builds in 2026, cutting timelines by 25%. \nGlobal spending on these techniques reaches $185 billion by 2028.",
         "type": "statistical",
         "category": "construction companies"
+    },
+    {
+        "link": null,
+        "date": "2026-05-28",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 AWS data centers processed 1.4 zettabytes daily in 2025. \n$AMZN",
+        "type": "infrastructure"
     }
 ]
