@@ -2110,5 +2110,13 @@
         "status": "posted",
         "tweet": "Bitcoin mining infrastructure consumes 140 TWh of electricity in 2026. Ethereum and Solana staking combined require under 0.005 TWh, cutting energy costs by 99.99 percent.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-05-29",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 Chinese urban development firms completed 1.2 million housing units in 2026 projects\n\ud83c\uddfa\ud83c\uddf8 US firms completed 750,000",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
