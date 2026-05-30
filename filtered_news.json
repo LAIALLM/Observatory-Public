@@ -1656,5 +1656,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-30",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India population projected at 1.46 billion in 2026\n\ud83c\udde8\ud83c\uddf3 China at 1.41 billion\nIndia remains the world's most populous nation.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
