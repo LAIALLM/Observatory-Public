@@ -1579,5 +1579,12 @@
         "tweet": "\ud83c\udde8\ud83c\uddf3 Chinese urban development firms completed 1.2 million housing units in 2026 projects\n\ud83c\uddfa\ud83c\uddf8 US firms completed 750,000",
         "type": "statistical",
         "category": "urban development firms"
+    },
+    {
+        "link": null,
+        "date": "2026-05-30",
+        "status": "posted",
+        "tweet": "Microsoft $MSFT Azure infrastructure routed 12 exabytes of data daily during 2025.",
+        "type": "infrastructure"
     }
 ]
