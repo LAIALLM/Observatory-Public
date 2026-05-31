@@ -1365,5 +1365,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-31",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddea Ireland\nGoogle data centers processed 5.2 exabytes daily in Dublin facilities. $GOOGL",
+        "type": "infrastructure"
     }
 ]
