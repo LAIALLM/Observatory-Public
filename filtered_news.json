@@ -1345,5 +1345,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-01",
+        "status": "posted",
+        "tweet": "Validator operator concentration 2026\n1. Solana: top 4 control 52%\n2. Ethereum: top 5 control 29%\n3. Bitcoin pools: top 3 control 48%",
+        "type": "crypto"
     }
 ]
