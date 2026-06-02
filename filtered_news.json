@@ -1,44 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-05-23",
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 China reaches 52,000 km of high-speed rail in 2026\nProjecting 5 billion annual passenger trips by 2030",
-        "type": "statistical",
-        "category": "infrastructural projects"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdjVMWEpHMWlIbjFNX0paQjdqNHpuaFdBaGFCQmdtZk5oNkpQeExuY09ILUExdUtsQzhHM3hYa0ludnpVMHN0VFRWUVNqYW0wZHgzVkd0cDRqZExFU0dBRm1oREctSzZGejA4bmZNSFRPV1BBOWVLdFY2YmhudGNjRGpUODVCYUdUM2hmVlhHVzZfemdtaElKcll1cGRGNk9KdjA4clhkdVA?oc=5",
-        "date": "2026-05-23",
-        "title": "D-8 Secretary-General Calls for Integrated Urban, Energy Planning at WUF13 - The Diplomatic Insight",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdjVMWEpHMWlIbjFNX0paQjdqNHpuaFdBaGFCQmdtZk5oNkpQeExuY09ILUExdUtsQzhHM3hYa0ludnpVMHN0VFRWUVNqYW0wZHgzVkd0cDRqZExFU0dBRm1oREctSzZGejA4bmZNSFRPV1BBOWVLdFY2YmhudGNjRGpUODVCYUdUM2hmVlhHVzZfemdtaElKcll1cGRGNk9KdjA4clhkdVA?oc=5\" target=\"_blank\">D-8 Secretary-General Calls for Integrated Urban, Energy Planning at WUF13</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Diplomatic Insight</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNem43NENHUkZDXzJyYzN4WGc1WjZ0Y3ZxZEpKUS1Mby04amFKcFFTWnBVNFpfdWc0QzRobHloQUVLZnhaczJpNDcxSTdfVGxKc2VmVW9sTEZudHVJNHNLWWVjQlpUNlQ3cGpGMVY3UEcwSDdQZVh4ZjN6eVBSUXZYSlp1M182aFI2X1FvTXE2SmZwVEZBSnZsSUZVYjAtUXpOMi01eEl6cTlTRFFIWGo0YjFxM1JTX2lQT3c?oc=5",
-        "date": "2026-05-23",
-        "title": "Opinion | Americans are numb to infrastructure dysfunction - The Washington Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNem43NENHUkZDXzJyYzN4WGc1WjZ0Y3ZxZEpKUS1Mby04amFKcFFTWnBVNFpfdWc0QzRobHloQUVLZnhaczJpNDcxSTdfVGxKc2VmVW9sTEZudHVJNHNLWWVjQlpUNlQ3cGpGMVY3UEcwSDdQZVh4ZjN6eVBSUXZYSlp1M182aFI2X1FvTXE2SmZwVEZBSnZsSUZVYjAtUXpOMi01eEl6cTlTRFFIWGo0YjFxM1JTX2lQT3c?oc=5\" target=\"_blank\">Opinion | Americans are numb to infrastructure dysfunction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWDctZmhKME5wRzVOelVZeHJPT2djZEt2R3FHQmFEWnlNWmZlZE5oZmNTVFNIV0Uybnd5WUJsZ01DVkd2M0NGYzBNUElHMTk4QVh2Nk9ybXNyQ003V1ZybEl0WTNTc3Z4aW1iT2hnal80bFgxcEo0Z1VRSmItSnIydHRreW80Mi1DUHNpQkpvQ2RsRHV2?oc=5",
-        "date": "2026-05-23",
-        "title": "Weekly Briefing: Building Cultural Infrastructure - Global Atlanta",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPWDctZmhKME5wRzVOelVZeHJPT2djZEt2R3FHQmFEWnlNWmZlZE5oZmNTVFNIV0Uybnd5WUJsZ01DVkd2M0NGYzBNUElHMTk4QVh2Nk9ybXNyQ003V1ZybEl0WTNTc3Z4aW1iT2hnal80bFgxcEo0Z1VRSmItSnIydHRreW80Mi1DUHNpQkpvQ2RsRHV2?oc=5\" target=\"_blank\">Weekly Briefing: Building Cultural Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Atlanta</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-05-24",
         "status": "posted",
         "tweet": "Microsoft $MSFT Azure sites in \ud83c\uddfa\ud83c\uddf8 United States consumed 14.7 TWh of electricity in 2025.",
@@ -1352,5 +1314,12 @@
         "status": "posted",
         "tweet": "Validator operator concentration 2026\n1. Solana: top 4 control 52%\n2. Ethereum: top 5 control 29%\n3. Bitcoin pools: top 3 control 48%",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-06-02",
+        "status": "posted",
+        "tweet": "Amazon data centers in \ud83c\uddfa\ud83c\uddf8 Virginia used 4.8 TWh electricity in 2025.\n$AMZN",
+        "type": "infrastructure"
     }
 ]
