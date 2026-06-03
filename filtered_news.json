@@ -1603,5 +1603,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-03",
+        "status": "posted",
+        "tweet": "Bitcoin: 7 TPS at 950 kWh per transaction. \nSolana: 2,400 TPS at 0.0005 kWh per transaction.",
+        "type": "crypto"
     }
 ]
