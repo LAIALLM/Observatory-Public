@@ -1506,5 +1506,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-04",
+        "status": "posted",
+        "tweet": "Ethereum: 1.1M validators\nSolana: 2.9K validators\n42% of Solana nodes hosted in \ud83c\uddfa\ud83c\uddf8 United States\n\nAnnual infra cost per Solana validator averages 4x higher due to concentration.",
+        "type": "crypto"
     }
 ]
