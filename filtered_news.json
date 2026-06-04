@@ -1513,5 +1513,12 @@
         "status": "posted",
         "tweet": "Ethereum: 1.1M validators\nSolana: 2.9K validators\n42% of Solana nodes hosted in \ud83c\uddfa\ud83c\uddf8 United States\n\nAnnual infra cost per Solana validator averages 4x higher due to concentration.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-06-04",
+        "status": "posted",
+        "tweet": "Microsoft Azure processed 2.8 exabytes of daily traffic across \ud83c\uddfa\ud83c\uddf8 United States regions in 2026.\n$MSFT",
+        "type": "infrastructure"
     }
 ]
