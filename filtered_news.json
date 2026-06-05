@@ -1373,5 +1373,12 @@
         "status": "posted",
         "tweet": "Microsoft Azure processed 2.8 exabytes of daily traffic across \ud83c\uddfa\ud83c\uddf8 United States regions in 2026.\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-06-05",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Google data centers processed 1.5 zettabytes of data in 2025.",
+        "type": "infrastructure"
     }
 ]
