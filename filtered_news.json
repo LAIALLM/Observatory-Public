@@ -1389,5 +1389,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US data center construction spending reaches $82 billion in 2026 to support AI expansion, adding 4.8 million square meters of new facilities. \n\nBy 2028 total capacity doubles.",
         "type": "statistical",
         "category": "construction projects"
+    },
+    {
+        "link": null,
+        "date": "2026-06-06",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Amazon Web Services Virginia region handled 2.1 billion daily API requests in 2025.\n$AMZN",
+        "type": "infrastructure"
     }
 ]
