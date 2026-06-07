@@ -1396,5 +1396,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Amazon Web Services Virginia region handled 2.1 billion daily API requests in 2025.\n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdG1KNk1LV01PejhqQVIwSTMzZlhQMW5qOVhKQy1UMzRqbGg0cFBJVDVTZXdpeDFrRDRUY3EyekFhYWI2VU9aOGJhX0htQS1PMVprNzBFa0hZT2dLWnRyRG0xWkc1SndMWThPVXNTSXFJa1hRTUNxbW8wR25kNkxFVV9WNUV6RWVnQTF1MG9lWVlhOFVjeTUyU2N0UkNuTlQweVdwWGZKbE54Z2hvSzhqSDl0YTNVWFZVZDU2eHM5c2MzMmxaTW5J?oc=5",
+        "date": "2026-06-06",
+        "title": "Bicyclist killed in Bridgeport crash was CDOT employee devoted to bike infrastructure - Chicago Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNdG1KNk1LV01PejhqQVIwSTMzZlhQMW5qOVhKQy1UMzRqbGg0cFBJVDVTZXdpeDFrRDRUY3EyekFhYWI2VU9aOGJhX0htQS1PMVprNzBFa0hZT2dLWnRyRG0xWkc1SndMWThPVXNTSXFJa1hRTUNxbW8wR25kNkxFVV9WNUV6RWVnQTF1MG9lWVlhOFVjeTUyU2N0UkNuTlQweVdwWGZKbE54Z2hvSzhqSDl0YTNVWFZVZDU2eHM5c2MzMmxaTW5J?oc=5\" target=\"_blank\">Bicyclist killed in Bridgeport crash was CDOT employee devoted to bike infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chicago Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
