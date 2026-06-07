@@ -1,20 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-05-28",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 US construction firms project modular methods will deliver 18% of new commercial builds in 2026, cutting timelines by 25%. \nGlobal spending on these techniques reaches $185 billion by 2028.",
-        "type": "statistical",
-        "category": "construction companies"
-    },
-    {
-        "link": null,
-        "date": "2026-05-28",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 AWS data centers processed 1.4 zettabytes daily in 2025. \n$AMZN",
-        "type": "infrastructure"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM01Zak5NOGVyaE5KMzE1ZXpIYkprWlBXOWEzQ2xJQm5LRjRVczlOQXlveUxCbEhONmFkZ2ZESkhHNXNzLXpiMlFZb183Y25BRVN6VUF5YlFMREhsRE12dVVwcFNwbHZBY0FSSHNMblpxWXhsNEtZWnZWekNBamFneklLQkp5ekdSeU1ZTGRCcFA2bFl5eXdjWFp5OU93Ulh2aWt3T0FVZUY?oc=5",
         "date": "2026-05-29",
         "title": "More federal funds secured for sinking Friant-Kern Canal; other water infrastructure - SJV Water",
@@ -1406,5 +1391,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-07",
+        "status": "posted",
+        "tweet": "Validator countries hosted\n1. Bitcoin 102\n2. Ethereum 78\n3. Solana 29",
+        "type": "crypto"
     }
 ]
