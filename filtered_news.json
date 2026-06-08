@@ -1498,5 +1498,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-08",
+        "status": "posted",
+        "tweet": "Projected 2026 cycling modal share (%)\n1. \ud83c\uddf3\ud83c\uddf1 Utrecht 52\n2. \ud83c\uddf3\ud83c\uddf1 Amsterdam 48\n3. \ud83c\udde9\ud83c\uddf0 Copenhagen 45\n4. \ud83c\udde7\ud83c\uddea Antwerp 32\n5. \ud83c\udde9\ud83c\uddea M\u00fcnster 30",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
