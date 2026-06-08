@@ -1405,5 +1405,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Virginia data centers processed 9.8 zettabytes daily in 2025. \n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-06-07",
+        "status": "posted",
+        "tweet": "2026 megaproject starts by volume\n\n1. \ud83c\udde8\ud83c\uddf3 Shanghai\n2. \ud83c\udde8\ud83c\uddf3 Beijing\n3. \ud83c\udde6\ud83c\uddea Dubai\n4. \ud83c\uddee\ud83c\uddf3 Mumbai\n5. \ud83c\uddf8\ud83c\uddec Singapore",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
