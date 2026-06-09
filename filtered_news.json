@@ -1509,5 +1509,12 @@
         "tweet": "Projected largest cities 2026 (millions)\n\n1. \ud83c\uddef\ud83c\uddf5 Tokyo 37.3\n2. \ud83c\uddee\ud83c\uddf3 Delhi 36.8\n3. \ud83c\udde8\ud83c\uddf3 Shanghai 29.7\n4. \ud83c\uddf2\ud83c\uddfd Mexico City 23.9\n5. \ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo 22.8",
         "type": "statistical",
         "category": "urban development"
+    },
+    {
+        "link": null,
+        "date": "2026-06-09",
+        "status": "posted",
+        "tweet": "2026 tx energy cost\n1. Solana 0.0005 kWh\n2. Ethereum 0.008 kWh\n3. Bitcoin 830 kWh",
+        "type": "crypto"
     }
 ]
