@@ -1301,5 +1301,12 @@
         "status": "posted",
         "tweet": "2026 tx energy cost\n1. Solana 0.0005 kWh\n2. Ethereum 0.008 kWh\n3. Bitcoin 830 kWh",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-06-10",
+        "status": "posted",
+        "tweet": "Bitcoin: 37% hashrate in \ud83c\uddfa\ud83c\uddf8 US, 18% in \ud83c\uddf0\ud83c\uddff Kazakhstan.  \nSolana validators: top share \ud83c\uddfa\ud83c\uddf8 US at 12%, across 40+ countries.",
+        "type": "crypto"
     }
 ]
