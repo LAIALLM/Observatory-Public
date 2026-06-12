@@ -1,241 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-06-02",
-        "status": "posted",
-        "tweet": "Amazon data centers in \ud83c\uddfa\ud83c\uddf8 Virginia used 4.8 TWh electricity in 2025.\n$AMZN",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-06-02",
-        "status": "posted",
-        "tweet": "2026 infrastructure firm project hubs by value\n1. \ud83c\udde8\ud83c\uddf3 Shanghai\n2. \ud83c\uddee\ud83c\uddf3 Mumbai\n3. \ud83c\uddfa\ud83c\uddf8 Houston\n4. \ud83c\udde6\ud83c\uddea Dubai\n5. \ud83c\uddf8\ud83c\uddec Singapore",
-        "type": "statistical",
-        "category": "infrastructure companies"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSjdxMi1xMGdkMkpQdFAyU0lHT3Y2cG5sdHphU3g5SWRYYUthU2Jra05EQkdaVTljVU5ac1kyblVnSktya1I0eHRZNFlqWjdDQ05CUWNrcnV0RkhGYmpYd1ZMTVdJbnBQOWd4eU5KbHJZdHZDdDVwTVp0ekpWYl9hUGVVNk9reTVpT2c?oc=5",
-        "date": "2026-06-02",
-        "title": "EPA Proposes to Loosen NSR \u201cBegin Actual Construction\u201d Limits: What It Could Mean for Data Centers and Other Capital Projects - JD Supra",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNSjdxMi1xMGdkMkpQdFAyU0lHT3Y2cG5sdHphU3g5SWRYYUthU2Jra05EQkdaVTljVU5ac1kyblVnSktya1I0eHRZNFlqWjdDQ05CUWNrcnV0RkhGYmpYd1ZMTVdJbnBQOWd4eU5KbHJZdHZDdDVwTVp0ekpWYl9hUGVVNk9reTVpT2c?oc=5\" target=\"_blank\">EPA Proposes to Loosen NSR \u201cBegin Actual Construction\u201d Limits: What It Could Mean for Data Centers and Other Capital Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JD Supra</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV092T2xRQzNaenBhcWtqVzNVWGVBb29CUUZTdFBHREkxNmVWYzdGTHhaenR1aFVUNHVuWnNpWGg3b2h1a1JQc1V4amVhaHBnX3p4VTdCZkw3d0c2WWRnN3B4eWYxRnZaMXdfX2VKemt2V3gtYTNrZ1NOcjZZVUR0b09TblQweWJ2aW5pS3MyZll4dnJ5LXdrelIzSUFaM0N6RnpxSHBDRDVxc0dMSV9EWnpqZw?oc=5",
-        "date": "2026-06-02",
-        "title": "LL\u016aM Partners with Adaptive to Expand AI-Powered Construction Accounting Services - The National Law Review",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQV092T2xRQzNaenBhcWtqVzNVWGVBb29CUUZTdFBHREkxNmVWYzdGTHhaenR1aFVUNHVuWnNpWGg3b2h1a1JQc1V4amVhaHBnX3p4VTdCZkw3d0c2WWRnN3B4eWYxRnZaMXdfX2VKemt2V3gtYTNrZ1NOcjZZVUR0b09TblQweWJ2aW5pS3MyZll4dnJ5LXdrelIzSUFaM0N6RnpxSHBDRDVxc0dMSV9EWnpqZw?oc=5\" target=\"_blank\">LL\u016aM Partners with Adaptive to Expand AI-Powered Construction Accounting Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Law Review</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd3JjQnNkTG5udmY3TmZidUxQQ1dWSnFXTW9laHhRMThTeE5JYnU1RDRST21pcnRQRk1teDVfR3NPTlM4NEpQOTRwVm84UTVaTG5QRTBkZnBwbEpxNkxCQ3hCY1RVRW9UekhfUEhRc0ZDZ2ZFdUNEczM0dE9pQ1pzbXppUDEzYVVnSU96bkowcDIwNkRtSXVYX1d3U0hIRTh6anJBSEVvZVdiOUpON2Q5T0h0bVVXdDRubTJmM1VINHc4UngxZzBzOXI4dVF2MlV0ZVh3WmhQOFRsZFV6ZHc?oc=5",
-        "date": "2026-06-02",
-        "title": "EMCOR Rises 36% in 6 Months: Should Investors Buy the Stock Now? - The Globe and Mail",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd3JjQnNkTG5udmY3TmZidUxQQ1dWSnFXTW9laHhRMThTeE5JYnU1RDRST21pcnRQRk1teDVfR3NPTlM4NEpQOTRwVm84UTVaTG5QRTBkZnBwbEpxNkxCQ3hCY1RVRW9UekhfUEhRc0ZDZ2ZFdUNEczM0dE9pQ1pzbXppUDEzYVVnSU96bkowcDIwNkRtSXVYX1d3U0hIRTh6anJBSEVvZVdiOUpON2Q5T0h0bVVXdDRubTJmM1VINHc4UngxZzBzOXI4dVF2MlV0ZVh3WmhQOFRsZFV6ZHc?oc=5\" target=\"_blank\">EMCOR Rises 36% in 6 Months: Should Investors Buy the Stock Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVGk2VUdvRTk1c2c4aF9WdWlyV0Zyei1NQnlVTGY0b0g5eHRUM21EUzlhZ1N1RWlaMnIyb3E0T3dlZ3dnQlRLMXlrUGNhZXdVWkJFTElzQkFtN2plTmVaUFFwUEI0dEdmaUI4dTM4aUdqZGhlSjBwY1plaGlrZjVWZC1nREc4SXhwcmdYc1lxUDlTRDB2OEhISmV3X1Z3MmgyZXg4Znh4UkVZRDNDa0JYTlpNNnhzSVh1ODNMNHVXM1VNb2hSTnFOZC12aTlIWGV5UDF6WDhSV2VHdFk?oc=5",
-        "date": "2026-06-02",
-        "title": "Will MasTec's Turnkey Strategy Unlock More Data Center Deals? - The Globe and Mail",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVGk2VUdvRTk1c2c4aF9WdWlyV0Zyei1NQnlVTGY0b0g5eHRUM21EUzlhZ1N1RWlaMnIyb3E0T3dlZ3dnQlRLMXlrUGNhZXdVWkJFTElzQkFtN2plTmVaUFFwUEI0dEdmaUI4dTM4aUdqZGhlSjBwY1plaGlrZjVWZC1nREc4SXhwcmdYc1lxUDlTRDB2OEhISmV3X1Z3MmgyZXg4Znh4UkVZRDNDa0JYTlpNNnhzSVh1ODNMNHVXM1VNb2hSTnFOZC12aTlIWGV5UDF6WDhSV2VHdFk?oc=5\" target=\"_blank\">Will MasTec's Turnkey Strategy Unlock More Data Center Deals?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTENsNjM4TTU0MWRmeENMbVV1RGxDZkFYYjVXNVhoeEZFUVl5X0oyTmRuWVN5aHVKNkNvUGt4OUo0ODRnZER1UGJ0eFF4ZnZCdG1IZ3lHNFZKM2M3U3lld0JWbnZNaXJab1oxOUNOLU1odU5UV21rcTdZMW9TajhITjlaeVZqLXY0R01CR0lHZk1VYTdxNFo5WWNpWmpBVG5VVDd0TG5rUElGZTQ2RVZweW5WeWNIRVVWM2NKeFlpTmNlRnRUU2RlTGpTQzBCMldIaUlDeVlDeVN4UlXSAeABQVVfeXFMUFo5Y1hERXBUQ1MxMEJTY25IS0IyMEw1QmlsR0xpUm9yYTUyVzVJYmRRRmJXUndDbXh0U3pWVmRXSFFvMkVsUVBhQzRDZnF4R0xRSGp1MU5KLV92ZUdBcUdnSG45Q0E5QjNpc05pOGdSZkJMek9qVmhiTFdBd3RIdTZPTXh1Z25JMTNsNnFTbWN6QUx0NUZqMDZhcEloWms3dHpFdDM5ak5xeDhOeEJKYnpWa285cDU4MnlQRjdtY3hLcHZKNExLSUxSOUtSQ1dfUmEyelZwNTY4NWhmTElQNmw?oc=5",
-        "date": "2026-06-02",
-        "title": "A Look At Solaris Energy Infrastructure (SEI) Valuation As Mobile Power Deployments And Investor Repositioning Draw Interest - simplywall.st",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTENsNjM4TTU0MWRmeENMbVV1RGxDZkFYYjVXNVhoeEZFUVl5X0oyTmRuWVN5aHVKNkNvUGt4OUo0ODRnZER1UGJ0eFF4ZnZCdG1IZ3lHNFZKM2M3U3lld0JWbnZNaXJab1oxOUNOLU1odU5UV21rcTdZMW9TajhITjlaeVZqLXY0R01CR0lHZk1VYTdxNFo5WWNpWmpBVG5VVDd0TG5rUElGZTQ2RVZweW5WeWNIRVVWM2NKeFlpTmNlRnRUU2RlTGpTQzBCMldIaUlDeVlDeVN4UlXSAeABQVVfeXFMUFo5Y1hERXBUQ1MxMEJTY25IS0IyMEw1QmlsR0xpUm9yYTUyVzVJYmRRRmJXUndDbXh0U3pWVmRXSFFvMkVsUVBhQzRDZnF4R0xRSGp1MU5KLV92ZUdBcUdnSG45Q0E5QjNpc05pOGdSZkJMek9qVmhiTFdBd3RIdTZPTXh1Z25JMTNsNnFTbWN6QUx0NUZqMDZhcEloWms3dHpFdDM5ak5xeDhOeEJKYnpWa285cDU4MnlQRjdtY3hLcHZKNExLSUxSOUtSQ1dfUmEyelZwNTY4NWhmTElQNmw?oc=5\" target=\"_blank\">A Look At Solaris Energy Infrastructure (SEI) Valuation As Mobile Power Deployments And Investor Repositioning Draw Interest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUGZ6X3NDam4yaTJsQzE4aW5jbEZZcnJybzJHdW92Qm02UGxJejFPSWluekozTFlnQjFKazBMRXl4QzZLVmhYQkxmUU93RlBhekZxQkdlZUg2NzNZTVdwcjk4WkhDckFBaU1EWGVpM04xYTRBbUdNM0lIMUMxQ0ljaE8wRHZBMFBnVVNnVTJ5X1lyMElQekM4bnMwNXRUY2k4QnRRN1M4OGZiQi0yemZRUGE0X0NjZDBOWklNZmhxdkJvNURIYTZSTjdZZEdxUERr?oc=5",
-        "date": "2026-06-02",
-        "title": "Buy, Hold, or Sell: Is CoreWeave a Multibagger in the Making, or an AI Infrastructure Debt Trap? - 24/7 Wall St.",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUGZ6X3NDam4yaTJsQzE4aW5jbEZZcnJybzJHdW92Qm02UGxJejFPSWluekozTFlnQjFKazBMRXl4QzZLVmhYQkxmUU93RlBhekZxQkdlZUg2NzNZTVdwcjk4WkhDckFBaU1EWGVpM04xYTRBbUdNM0lIMUMxQ0ljaE8wRHZBMFBnVVNnVTJ5X1lyMElQekM4bnMwNXRUY2k4QnRRN1M4OGZiQi0yemZRUGE0X0NjZDBOWklNZmhxdkJvNURIYTZSTjdZZEdxUERr?oc=5\" target=\"_blank\">Buy, Hold, or Sell: Is CoreWeave a Multibagger in the Making, or an AI Infrastructure Debt Trap?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZUNMVWpMaTBhTlUzOFd3d2ZMTjZsMTBvSWVzb19KMTB1TzdfRnRZRDl0Q18yVWllNkxIc1Y0Y0Q3SlpxMzZRSzY5cERnNFZ6Y0dPYllYd0JUV0hVNG9qNi1iWGJfMTNWdFhxbFpvVmVFaFhkV2tGbXhmbmd3eVVTdFMwbWxHUVpmamZPdU1ubHc4cDBTc1hV?oc=5",
-        "date": "2026-06-02",
-        "title": "Computex 2026: ASUS Bets Big on AI Factory Infrastructure - Data Centre Magazine",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNZUNMVWpMaTBhTlUzOFd3d2ZMTjZsMTBvSWVzb19KMTB1TzdfRnRZRDl0Q18yVWllNkxIc1Y0Y0Q3SlpxMzZRSzY5cERnNFZ6Y0dPYllYd0JUV0hVNG9qNi1iWGJfMTNWdFhxbFpvVmVFaFhkV2tGbXhmbmd3eVVTdFMwbWxHUVpmamZPdU1ubHc4cDBTc1hV?oc=5\" target=\"_blank\">Computex 2026: ASUS Bets Big on AI Factory Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Centre Magazine</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYTY4YU5UaEVUNDNwUWZxVXdldU5IWXVfaTFtRUNWSy1INF9rNng4ckktRk1fdUkzNV9iSktRZVRoV1pWdjFsNXFjMzJWQWdsMWFUamhwZVBVYW1DVm1PMkRVeHVKMlpZTC00WElVQVI0SUU5SzU0WDFDZ3hQUzIxZ05lQkkySV9pM1pfQnE3Q1lnZUpQdjBkUFliOHlueHVJRmdsODJVSjlhdE5WOFhUdTZn?oc=5",
-        "date": "2026-06-02",
-        "title": "Cisco Unveils Agentic Platform for Operating and Defending Critical IT Infrastructure - Investing News Network",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNYTY4YU5UaEVUNDNwUWZxVXdldU5IWXVfaTFtRUNWSy1INF9rNng4ckktRk1fdUkzNV9iSktRZVRoV1pWdjFsNXFjMzJWQWdsMWFUamhwZVBVYW1DVm1PMkRVeHVKMlpZTC00WElVQVI0SUU5SzU0WDFDZ3hQUzIxZ05lQkkySV9pM1pfQnE3Q1lnZUpQdjBkUFliOHlueHVJRmdsODJVSjlhdE5WOFhUdTZn?oc=5\" target=\"_blank\">Cisco Unveils Agentic Platform for Operating and Defending Critical IT Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing News Network</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0cxaTdLblU0a04xYy03UmROOXpXQmgtbFhWd3VEV0RxZXI4Q1l4ZWlTamRoS2RsS3dlTV95aFN3M3RSeWs5ZG11U0d3RnRrNVk4R09ycnp6S2FsUVpHV0x3VkJfbTlTeWZiNlE1MjlqdFpJaTctX1lySmlfa3U5VDVnS24xRmxORU8xUm1HY28wYVFwazVza2VLYjhoai1naEw2b0lwbEwyYW55amNNa0Z3cFE2Z3Fa?oc=5",
-        "date": "2026-06-02",
-        "title": "Hewlett Packard Enterprise: The AI Infrastructure Trade Is Finally Showing Up (NYSE:HPE) - Seeking Alpha",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0cxaTdLblU0a04xYy03UmROOXpXQmgtbFhWd3VEV0RxZXI4Q1l4ZWlTamRoS2RsS3dlTV95aFN3M3RSeWs5ZG11U0d3RnRrNVk4R09ycnp6S2FsUVpHV0x3VkJfbTlTeWZiNlE1MjlqdFpJaTctX1lySmlfa3U5VDVnS24xRmxORU8xUm1HY28wYVFwazVza2VLYjhoai1naEw2b0lwbEwyYW55amNNa0Z3cFE2Z3Fa?oc=5\" target=\"_blank\">Hewlett Packard Enterprise: The AI Infrastructure Trade Is Finally Showing Up (NYSE:HPE)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTi1lalZZdlhueWNQZnFZNTY4anVOLW1aOGhiYTRMMzFoMmE4NEduWjZvX0J6d2M2b0RBRjlwOUgyNTZHancxRS02eG9FX3dEQUxsSVlYN2UxQThfbnNRQzRoRmVjekYxUHpaVVZEbExUQk5hTC1ZRURnN2VrSDJCYWdSX0Z3TGk5TFNVN1VzaVRCZkk?oc=5",
-        "date": "2026-06-02",
-        "title": "Mexico City raises requirements for urban projects - BNamericas",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQTi1lalZZdlhueWNQZnFZNTY4anVOLW1aOGhiYTRMMzFoMmE4NEduWjZvX0J6d2M2b0RBRjlwOUgyNTZHancxRS02eG9FX3dEQUxsSVlYN2UxQThfbnNRQzRoRmVjekYxUHpaVVZEbExUQk5hTC1ZRURnN2VrSDJCYWdSX0Z3TGk5TFNVN1VzaVRCZkk?oc=5\" target=\"_blank\">Mexico City raises requirements for urban projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNamericas</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQalBBNFNIa1lVWUxfUjhJMXhtTUw4YkJoZFBRckF0dXRaVDFPVDd4bkZxYXl2VUJnNlNvYnRwRHhqVDZ1b3BwRzJObk1vNVJuQmkzdHlJSGZncncwd29JVmJzVEFaLVNxS0dtM1E1eG5QUXJBTnFvQlgxNmxtMHo3V0wtQkkyRjdVUUFZc1BzSnpTT0U0a3BReUN3bVZfUFdxTk55SmRzdlpscG5ITVZqVg?oc=5",
-        "date": "2026-06-02",
-        "title": "Smart City Networks Completes Core Network Upgrade at the San Diego Convention Center - The National Law Review",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQalBBNFNIa1lVWUxfUjhJMXhtTUw4YkJoZFBRckF0dXRaVDFPVDd4bkZxYXl2VUJnNlNvYnRwRHhqVDZ1b3BwRzJObk1vNVJuQmkzdHlJSGZncncwd29JVmJzVEFaLVNxS0dtM1E1eG5QUXJBTnFvQlgxNmxtMHo3V0wtQkkyRjdVUUFZc1BzSnpTT0U0a3BReUN3bVZfUFdxTk55SmRzdlpscG5ITVZqVg?oc=5\" target=\"_blank\">Smart City Networks Completes Core Network Upgrade at the San Diego Convention Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Law Review</font>",
-        "similarity_excluded": "No",
-        "score": 4,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYklkaHhSemhROHhEeE5QbkxwN2V4RHQtcVZ1WHB5MWw0VGFzY3UtZ2Y5c184R2dPRC1STWpBdXBnVjA2WHlZZGVyUWlRZGxNbG1YUzhSQzZZUy12cDVZTjRDTFlyT0RaN09GZFNiOTJrUl9GTGNxaFd4VnlUNTBQWE5rNFAtcXFnYU9Lanh1TEo0dXNIbTdWWWZDaW1hQmppNjRRWkozS0hFN2VUMFVNX2FqWFdsWVE4U29GQi1RZlBvMkJPcklwcmJhY3otRUU?oc=5",
-        "date": "2026-06-02",
-        "title": "The balanced flywheel: 21st-century cities must balance growth with liveability - ZAWYA",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOYklkaHhSemhROHhEeE5QbkxwN2V4RHQtcVZ1WHB5MWw0VGFzY3UtZ2Y5c184R2dPRC1STWpBdXBnVjA2WHlZZGVyUWlRZGxNbG1YUzhSQzZZUy12cDVZTjRDTFlyT0RaN09GZFNiOTJrUl9GTGNxaFd4VnlUNTBQWE5rNFAtcXFnYU9Lanh1TEo0dXNIbTdWWWZDaW1hQmppNjRRWkozS0hFN2VUMFVNX2FqWFdsWVE4U29GQi1RZlBvMkJPcklwcmJhY3otRUU?oc=5\" target=\"_blank\">The balanced flywheel: 21st-century cities must balance growth with liveability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZAWYA</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.constructiondive.com/news/seattle-sound-transit-new-st3-plan-funding-gap/821747/",
-        "date": "2026-06-02",
-        "title": "Seattle\u2019s Sound Transit adopts new ST3 plan despite $34.5B funding gap",
-        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/W9nJBo2Uen0ok3O11bCqviSbH3_zcGAPVvA2SbX7_ZA/g:nowe:0:566/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDk1Mjc0NDQ0LmpwZw==.webp\" /></div></figure><p>The revised plan fully funds construction of several major transit projects in Washington state, though other projects now face deferral.</p>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.constructiondive.com/news/gdc-awards-hudson-tunnel-project-contract/821742/",
-        "date": "2026-06-02",
-        "title": "GDC awards $711M Hudson Tunnel Project contract",
-        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/OFPUnEiLAWxAKo2MN2KV04eVKhu33t3o8v6v6GL3oIQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQxNjg3MjQzLTIuanBn.webp\" /></div></figure><p>A Skanska Creamer Sanzari NJSA joint venture expects to begin construction on the seventh of the Hudson Tunnel Project&rsquo;s 10 construction packages later this year.</p>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.enr.com/articles/63087-record-16b-data-center-project-advances-in-michigan",
-        "date": "2026-06-02",
-        "title": "Record $16B Data Center Project Advances in Michigan",
-        "summary": "<p>What did Sam Altman, founder and CEO of OpenAI, say about the future of AI and a controversial $16-billion data campus under construction in Michigan?</p>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHc2aTZwQ1BPWENlNjVGWWdmaW1BbExGQUxMOUZVV2NCRVhBZ3lNQ2hSaVRLbkpTd094ZDJQdE1WMVNXSjQzUXJtaURXZzFRbE1uaTRaZk5MQm4xZU1memIzdkFnajdIR0R0VlhnMV9GZHJZNHhvaU9md0pwRmlvWVY1ak1YcG5Wb2J3YmtXRDJGWVUzTEduWk45dnB0TlVfN09VOU8wX0FocHAyM3RDcjhkLVMxX3Yxc3pjbG42YU1hRWY5NjB1OGh2ZGlBWlVBV2c?oc=5",
-        "date": "2026-06-02",
-        "title": "Hawai\u02bbi\u2019s construction market records fast start in Q1, but a drop in housing activity raises concern - Maui Now",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHc2aTZwQ1BPWENlNjVGWWdmaW1BbExGQUxMOUZVV2NCRVhBZ3lNQ2hSaVRLbkpTd094ZDJQdE1WMVNXSjQzUXJtaURXZzFRbE1uaTRaZk5MQm4xZU1memIzdkFnajdIR0R0VlhnMV9GZHJZNHhvaU9md0pwRmlvWVY1ak1YcG5Wb2J3YmtXRDJGWVUzTEduWk45dnB0TlVfN09VOU8wX0FocHAyM3RDcjhkLVMxX3Yxc3pjbG42YU1hRWY5NjB1OGh2ZGlBWlVBV2c?oc=5\" target=\"_blank\">Hawai\u02bbi\u2019s construction market records fast start in Q1, but a drop in housing activity raises concern</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maui Now</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcm9YNFh0TFNSWjlqZGxFUkpUVFVrNGJDYU5hblJYOEFOdERIelltTjhfZEJKYnhHUTBwUWhNTDVHSGpiS25JWkRYa3dJTFBpRFpFSEFTUVdIaDhGYkVGY2JYWjlEekw5QzV4aGhIN1hvVG5pZl9admd5SHZPODNpdDN2cFNUbHFJTUlMS0M0QmZSc01FQk04YS13aXUxQ3NmOTFSY1kyeHAwQmJPeU1NSFl2Z2hYb1JlUzBKS3V2eUVfYkVkckk0T29HeExBTlRjV0I2dk9MYUxnaWl5MXZQV0Z2R1VKVlk?oc=5",
-        "date": "2026-06-02",
-        "title": "Ohio lawmakers consider $3.7 billion capital budget for schools, parks, infrastructure - 10TV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcm9YNFh0TFNSWjlqZGxFUkpUVFVrNGJDYU5hblJYOEFOdERIelltTjhfZEJKYnhHUTBwUWhNTDVHSGpiS25JWkRYa3dJTFBpRFpFSEFTUVdIaDhGYkVGY2JYWjlEekw5QzV4aGhIN1hvVG5pZl9admd5SHZPODNpdDN2cFNUbHFJTUlMS0M0QmZSc01FQk04YS13aXUxQ3NmOTFSY1kyeHAwQmJPeU1NSFl2Z2hYb1JlUzBKS3V2eUVfYkVkckk0T29HeExBTlRjV0I2dk9MYUxnaWl5MXZQV0Z2R1VKVlk?oc=5\" target=\"_blank\">Ohio lawmakers consider $3.7 billion capital budget for schools, parks, infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">10TV</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQk5uUG5jVEZ2ZWFkZGtGc1loaVZGUEtIU09CS3hKdzBXWXJjcGNJTzhyVnFEVkNwUmJ2LXVXUXYwWktDODd0UDdVYm5oSGF0RnRFVzBMZWR4Z0dwanU1V0dRODNycFBsa2FYV25lNk11SzlOOTlzZGlWek42UlljQ2tqcUFSX1Y1Uml2ai1HSUJXTTlpLW1BZ1FJaGxvQ0gtMTUwQVAyQmQxNkFhVDBncTIyNldmbDA0UE9HSjRWdzI3Mnp1TjFWeg?oc=5",
-        "date": "2026-06-02",
-        "title": "Australia's Megaport secures four new AI infrastructure contracts, to raise $594 million - Reuters",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQk5uUG5jVEZ2ZWFkZGtGc1loaVZGUEtIU09CS3hKdzBXWXJjcGNJTzhyVnFEVkNwUmJ2LXVXUXYwWktDODd0UDdVYm5oSGF0RnRFVzBMZWR4Z0dwanU1V0dRODNycFBsa2FYV25lNk11SzlOOTlzZGlWek42UlljQ2tqcUFSX1Y1Uml2ai1HSUJXTTlpLW1BZ1FJaGxvQ0gtMTUwQVAyQmQxNkFhVDBncTIyNldmbDA0UE9HSjRWdzI3Mnp1TjFWeg?oc=5\" target=\"_blank\">Australia's Megaport secures four new AI infrastructure contracts, to raise $594 million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNG15S2o3ajlvY1RvRDZ5ODhnbWQ4WmZTcklYa1VISEhNdzVaeEFQbGwzN1hzcmpsckZUZ2p6VldneHJkaER6Q1RhSFhTZVJxa01MTTBEUTh1NFl4OWdia0xFa0Y3OGUyV1RPYmdYRW9rMTlKMHQ2dGtQbVUwLU03YkxWZFBEVllrcjVUbFdPZlNLUU0tUGV1dzVSNlpnWklmY3AzQnYycnJLUlhCeFNSRkkxNnpIQ0dIRUoxMHdWSk9GUFVLY1h4ZDNfNWp5OUd0VndtY3hYd1YtYmfSAeABQVVfeXFMTXphQUFzWFQ3RDFsVXNCUUZBLXRyeGY1VnZzenhkMTlHVk1NRzJ3cERlNUFKX2piY0xjRVBIRy1RN0QtZ1VVeVo3a19lNjEyNFNzOFpFSVdjMnA2dmZjQmZGYVRERmxQenB1XzFiTDh4U3lRcGVqOGFpVnRHZWE2ZDFTUFl3N0kyWnBVV2tpeVFMLW5yU1hSLWYwR3ZvaFRlMTlteF93SEZGeUN4N0xOeGtsUUNDcWJnQnVfNW9FNUctVjJUX25CYUZ0U09SMGRXSG9EUnp0WlQ3SC11UElLM04?oc=5",
-        "date": "2026-06-02",
-        "title": "How Earnings Growth and Buybacks Will Impact NWPX Infrastructure (NWPX) Investors - simplywall.st",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNG15S2o3ajlvY1RvRDZ5ODhnbWQ4WmZTcklYa1VISEhNdzVaeEFQbGwzN1hzcmpsckZUZ2p6VldneHJkaER6Q1RhSFhTZVJxa01MTTBEUTh1NFl4OWdia0xFa0Y3OGUyV1RPYmdYRW9rMTlKMHQ2dGtQbVUwLU03YkxWZFBEVllrcjVUbFdPZlNLUU0tUGV1dzVSNlpnWklmY3AzQnYycnJLUlhCeFNSRkkxNnpIQ0dIRUoxMHdWSk9GUFVLY1h4ZDNfNWp5OUd0VndtY3hYd1YtYmfSAeABQVVfeXFMTXphQUFzWFQ3RDFsVXNCUUZBLXRyeGY1VnZzenhkMTlHVk1NRzJ3cERlNUFKX2piY0xjRVBIRy1RN0QtZ1VVeVo3a19lNjEyNFNzOFpFSVdjMnA2dmZjQmZGYVRERmxQenB1XzFiTDh4U3lRcGVqOGFpVnRHZWE2ZDFTUFl3N0kyWnBVV2tpeVFMLW5yU1hSLWYwR3ZvaFRlMTlteF93SEZGeUN4N0xOeGtsUUNDcWJnQnVfNW9FNUctVjJUX25CYUZ0U09SMGRXSG9EUnp0WlQ3SC11UElLM04?oc=5\" target=\"_blank\">How Earnings Growth and Buybacks Will Impact NWPX Infrastructure (NWPX) Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmlHeG9HdnlCaG9iT3BYN1F2NWg4Qm94NTlISlUtTzEwMVpxcWNHRVJCbHZFcE5RcVNSODVEUjdzbmdKX3pRd29MNW9FMXlBVFhnRmdsbXlKWklLYzZ6amlBR29hSjZYN3RpbURwM3pPYzNLN3JUc3ZrdnZKUklRaDlzMldGblBwdUFsVnFDbElESl9ZYkM4?oc=5",
-        "date": "2026-06-02",
-        "title": "This Healthcare Infrastructure Stock Is Risky, But the Upside Looks Huge - The Motley Fool",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmlHeG9HdnlCaG9iT3BYN1F2NWg4Qm94NTlISlUtTzEwMVpxcWNHRVJCbHZFcE5RcVNSODVEUjdzbmdKX3pRd29MNW9FMXlBVFhnRmdsbXlKWklLYzZ6amlBR29hSjZYN3RpbURwM3pPYzNLN3JUc3ZrdnZKUklRaDlzMldGblBwdUFsVnFDbElESl9ZYkM4?oc=5\" target=\"_blank\">This Healthcare Infrastructure Stock Is Risky, But the Upside Looks Huge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQblpYTjhLT0ZDREM2bEdnMTZ6YVBEc3loSUlUd2dKZjd5T0NuQWgxa3c0TEFRdV9EQ1FKUTZEZjJCbXFoQnR1M201eS03M3YyeElyT0huTmF6RTFUOGlMSnZ2SUZxTUtZZDU0T2lDbmhETU1hdTk1MW9IV3RlLWFpRUVwdnZBN2tBVUVtakhRZmR2LTVSZldJbzB6YXlGVnA5dGt1a0REUzl4dnpDOWNKSUs4VDJvZVZUYlpzSU9DYnJuRXc1N0EtckJuRmxpeDFDbEdVY1FUN3hFa0xxRjIzOHY4bU5pcnV3T1ZQbjBZN3NhMTJhRjdzXzlGU2RXTTR6dFJMbkQ3WVdYZw?oc=5",
-        "date": "2026-06-02",
-        "title": "Megaport: A$827.3M entitlement offer funds global AI infrastructure growth and new GPU contracts - TradingView",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQblpYTjhLT0ZDREM2bEdnMTZ6YVBEc3loSUlUd2dKZjd5T0NuQWgxa3c0TEFRdV9EQ1FKUTZEZjJCbXFoQnR1M201eS03M3YyeElyT0huTmF6RTFUOGlMSnZ2SUZxTUtZZDU0T2lDbmhETU1hdTk1MW9IV3RlLWFpRUVwdnZBN2tBVUVtakhRZmR2LTVSZldJbzB6YXlGVnA5dGt1a0REUzl4dnpDOWNKSUs4VDJvZVZUYlpzSU9DYnJuRXc1N0EtckJuRmxpeDFDbEdVY1FUN3hFa0xxRjIzOHY4bU5pcnV3T1ZQbjBZN3NhMTJhRjdzXzlGU2RXTTR6dFJMbkQ3WVdYZw?oc=5\" target=\"_blank\">Megaport: A$827.3M entitlement offer funds global AI infrastructure growth and new GPU contracts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS0s0MHR0UXQydEpZcGtiS3llZVpOZlllajdRbjAzalVvejhCV1FLYTVrMVJiNXJuTWwyODFlMWRKTlRFTnNaSDVnOWwzbFZYX3I5Q2lHTUlyYlN1a2pwN0NsYVdmNmt3WHQtbnEybUlISEhVUVZLUk9NV0ZrUjdYcUc2aFZvdFo5LTFmQjhyU1FtUTE2U1dLWENjTjU0TU9yS3p0Z1dMWEROZ1R1Mk9neEVsS2lVb09qOV9Za3JXZkJjY29URlJ1RjdTRWowb0dYbFhCRzZ3?oc=5",
-        "date": "2026-06-02",
-        "title": "City of Sherman receives $300,000 federal development grant - KTEN",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS0s0MHR0UXQydEpZcGtiS3llZVpOZlllajdRbjAzalVvejhCV1FLYTVrMVJiNXJuTWwyODFlMWRKTlRFTnNaSDVnOWwzbFZYX3I5Q2lHTUlyYlN1a2pwN0NsYVdmNmt3WHQtbnEybUlISEhVUVZLUk9NV0ZrUjdYcUc2aFZvdFo5LTFmQjhyU1FtUTE2U1dLWENjTjU0TU9yS3p0Z1dMWEROZ1R1Mk9neEVsS2lVb09qOV9Za3JXZkJjY29URlJ1RjdTRWowb0dYbFhCRzZ3?oc=5\" target=\"_blank\">City of Sherman receives $300,000 federal development grant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTEN</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-06-03",
         "status": "posted",
         "tweet": "In 2026, \ud83c\uddee\ud83c\uddf3 India reaches 1.46 billion people while \ud83c\udde8\ud83c\uddf3 China falls to 1.41 billion.",
@@ -1325,5 +1090,35 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Virginia AWS regions processed 240 exabytes daily in 2025.\n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkVrOXRSaXdTdDY1UkNwOWtpYl9FMjVhN2stcGVvWFVsb3hCRUlSSHp0U0YtMEtmeWJkajRJMWVkdmM4OTZZZUp4TXY5NXJxWkpSc0tXbFVmeDBkTnAxVWVUNTd5VnhWeks5bjVHa1Y5NFhZelpSOFE2ZkhKa0U5YXFJVXFmRjZ1a014NHhkcC0zaFhBbzJNX01SYTBVUWEwc1l1LV9xRXNiWEk2bmRjWmhDOGc3UFplYnhYMA?oc=5",
+        "date": "2026-06-12",
+        "title": "Maps \u2013 From Producing Basins to Export Facilities, Our New NGL Infrastructure Map Lays It All Out - RBN Energy",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkVrOXRSaXdTdDY1UkNwOWtpYl9FMjVhN2stcGVvWFVsb3hCRUlSSHp0U0YtMEtmeWJkajRJMWVkdmM4OTZZZUp4TXY5NXJxWkpSc0tXbFVmeDBkTnAxVWVUNTd5VnhWeks5bjVHa1Y5NFhZelpSOFE2ZkhKa0U5YXFJVXFmRjZ1a014NHhkcC0zaFhBbzJNX01SYTBVUWEwc1l1LV9xRXNiWEk2bmRjWmhDOGc3UFplYnhYMA?oc=5\" target=\"_blank\">Maps \u2013 From Producing Basins to Export Facilities, Our New NGL Infrastructure Map Lays It All Out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RBN Energy</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRndWczFLNzM1X2hOU2ZqTWdQTDdET0tfcWJfY2c2OVhidmxVVkhESW9QUHVBYm4xZjVqLWI0TXA5X0hudFVWdkZzN3lSSnJaZlg4dm5Jb2NiM2VmLXhibG9wN3FaZUxZNDVCWkxuc0stTXJweE9PdUVPVnM1b1NQdm9lbkVSdm5QenlBcmQtQWw5bm9sckNqQVVCck0wVUFyYWlsOA?oc=5",
+        "date": "2026-06-12",
+        "title": "Beijing and Chongqing: China\u2019s Cities of Memory and Green Dreams - THISDAYLIVE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQRndWczFLNzM1X2hOU2ZqTWdQTDdET0tfcWJfY2c2OVhidmxVVkhESW9QUHVBYm4xZjVqLWI0TXA5X0hudFVWdkZzN3lSSnJaZlg4dm5Jb2NiM2VmLXhibG9wN3FaZUxZNDVCWkxuc0stTXJweE9PdUVPVnM1b1NQdm9lbkVSdm5QenlBcmQtQWw5bm9sckNqQVVCck0wVUFyYWlsOA?oc=5\" target=\"_blank\">Beijing and Chongqing: China\u2019s Cities of Memory and Green Dreams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">THISDAYLIVE</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNblZsS3RVSThpMlRNQV95U0prUWhXX0NZWnhyOXRPUHZzWHhpUFVQWUI3TXBmSV9ZS3N5V1RKcFdKZl8zaFlBRDJBM1JTRjNJajhQSzI3NUU3TC1zWUtiVV91LXJtLU1XQVRFTWRHNWdEUkNBZjFUY3MzRG5IcFRJZ3hwSk5GWHc?oc=5",
+        "date": "2026-06-12",
+        "title": "Sessions, Speakers, Experiences: First Look Urbanity-26 Program Revealed - The Urban Developer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNblZsS3RVSThpMlRNQV95U0prUWhXX0NZWnhyOXRPUHZzWHhpUFVQWUI3TXBmSV9ZS3N5V1RKcFdKZl8zaFlBRDJBM1JTRjNJajhQSzI3NUU3TC1zWUtiVV91LXJtLU1XQVRFTWRHNWdEUkNBZjFUY3MzRG5IcFRJZ3hwSk5GWHc?oc=5\" target=\"_blank\">Sessions, Speakers, Experiences: First Look Urbanity-26 Program Revealed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Urban Developer</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
