@@ -1038,5 +1038,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US commercial construction starts surge 22% in 2026, reaching 850 million sq ft. \nBy 2028 annual spend hits $1.3 trillion.",
         "type": "statistical",
         "category": "construction projects"
+    },
+    {
+        "link": null,
+        "date": "2026-06-13",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 United States\nMicrosoft Azure processed 4.2 trillion transactions daily in 2025\n$MSFT",
+        "type": "infrastructure"
     }
 ]
