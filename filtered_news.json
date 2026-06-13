@@ -1030,5 +1030,13 @@
         "status": "posted",
         "tweet": "Solana validator hardware: $1100/month\nEthereum: $250/month\n\n\ud83c\uddfa\ud83c\uddf8 US share: 48% Solana vs 22% Ethereum",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-06-13",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US commercial construction starts surge 22% in 2026, reaching 850 million sq ft. \nBy 2028 annual spend hits $1.3 trillion.",
+        "type": "statistical",
+        "category": "construction projects"
     }
 ]
