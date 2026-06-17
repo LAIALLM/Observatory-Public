@@ -1,27 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-06-07",
-        "status": "posted",
-        "tweet": "Validator countries hosted\n1. Bitcoin 102\n2. Ethereum 78\n3. Solana 29",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2026-06-07",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Virginia data centers processed 9.8 zettabytes daily in 2025. \n$AMZN",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-06-07",
-        "status": "posted",
-        "tweet": "2026 megaproject starts by volume\n\n1. \ud83c\udde8\ud83c\uddf3 Shanghai\n2. \ud83c\udde8\ud83c\uddf3 Beijing\n3. \ud83c\udde6\ud83c\uddea Dubai\n4. \ud83c\uddee\ud83c\uddf3 Mumbai\n5. \ud83c\uddf8\ud83c\uddec Singapore",
-        "type": "statistical",
-        "category": "engineering projects"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZEQ5bEgyZU1DSy1TOFVSOTNFUlFwVmZmVGN6MUxla1dLd1dWeEMwa29EWWM2ckIzSTlyNUJLaExpc2JUODR4MElYS1pJX1VwZ2xyY0pCZGtxeFNEUW5yeVktREVNVWRHV3VHYXhCWmMwZnZqRnk2UkZwOTJQSl83aVVnckZWX3ZjeTdDVE9WYWlSVFJ1Um11cy1QYjEzVTVkd0NzcDJQVFVyVmtDR3h6SldwVDQwRU5RcU9ROHE2V0hXTWRDdlZ1dw?oc=5",
         "date": "2026-06-08",
         "title": "O&G Industries is ENR New England 2026 Contractor of the Year - Engineering News-Record (ENR)",
@@ -1343,5 +1321,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-17",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Meta data centers maintained an average PUE of 1.15 in 2025\n$META",
+        "type": "infrastructure"
     }
 ]
