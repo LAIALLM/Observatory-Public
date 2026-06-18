@@ -1190,5 +1190,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-18",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 AWS data centers transferred 1.8 zettabytes in January 2026.\n$AMZN",
+        "type": "infrastructure"
     }
 ]
