@@ -1357,5 +1357,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-18",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India is projected to reach 1.46 billion people in 2026, remaining the world's most populous country ahead of \ud83c\udde8\ud83c\uddf3 China at 1.41 billion.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
