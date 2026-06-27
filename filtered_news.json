@@ -1,43 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-06-17",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Meta data centers maintained an average PUE of 1.15 in 2025\n$META",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0lLNTJ4VTN6bDRORTNRdUZtSHEzWTNnSGt0TkVZMThQWXM5RE9tNlJRaDg5cUljbTNZZy1vTWdSS3dZYmJmbkE0VzQ0UTQ1OFM4NW1valJ2dFZFdEZkeW9XSUtLOFQ3ek53YmRfRW5UVlQwQnJDcGlOVlJ6Y2RzNmU5UmJEX1VvSmowSG9yRDBCTDhGUTZSNXV0NDBUVlJZTDlmNEJneTkwbmh5SlU1TzdnVE5yeVMtZHc?oc=5",
-        "date": "2026-06-17",
-        "title": "As Singapore\u2019s construction sector goes green, portable \u2018power banks\u2019 are leading the charge - The Business Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0lLNTJ4VTN6bDRORTNRdUZtSHEzWTNnSGt0TkVZMThQWXM5RE9tNlJRaDg5cUljbTNZZy1vTWdSS3dZYmJmbkE0VzQ0UTQ1OFM4NW1valJ2dFZFdEZkeW9XSUtLOFQ3ek53YmRfRW5UVlQwQnJDcGlOVlJ6Y2RzNmU5UmJEX1VvSmowSG9yRDBCTDhGUTZSNXV0NDBUVlJZTDlmNEJneTkwbmh5SlU1TzdnVE5yeVMtZHc?oc=5\" target=\"_blank\">As Singapore\u2019s construction sector goes green, portable \u2018power banks\u2019 are leading the charge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Times</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GMFpjcXp4UF9ZUDN3VEh4d3FYYmhBZ2ViRDBlYU43ZzFSUVZ5NUZxZWM0TFFGRmF0T2Fzc1kxVFRBSzBiOFA3M3g3amFWeUVibGd5Z0FqX2dGcXdoTzRj?oc=5",
-        "date": "2026-06-17",
-        "title": "The Case for City Repair - Urban Land Magazine",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GMFpjcXp4UF9ZUDN3VEh4d3FYYmhBZ2ViRDBlYU43ZzFSUVZ5NUZxZWM0TFFGRmF0T2Fzc1kxVFRBSzBiOFA3M3g3amFWeUVibGd5Z0FqX2dGcXdoTzRj?oc=5\" target=\"_blank\">The Case for City Repair</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urban Land Magazine</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEhFUm9DM3l2bV9HbHl3Qko0S1g0c3ZDR3lvT0pQYXJEMEE5Q19neFUtZ0lLUjF4LVJZU3RDZEZUdVl2NGNsYVh6T0JrdUdvdHVER0Y2Z0NyZFdpNS1XQnpXR21yQ0pLNGlETFc2c0p6S3MtcEZmSmdqWVdmREdNTkl1TU9oMkgwV3BoNHJVdXBmal9teUFheHJJelRmMDN4ZHp6RXFuWDl6ajBmQnpZcg?oc=5",
-        "date": "2026-06-17",
-        "title": "Electric vehicles - Companies team to use EV batteries to support the grid - Smart Cities World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEhFUm9DM3l2bV9HbHl3Qko0S1g0c3ZDR3lvT0pQYXJEMEE5Q19neFUtZ0lLUjF4LVJZU3RDZEZUdVl2NGNsYVh6T0JrdUdvdHVER0Y2Z0NyZFdpNS1XQnpXR21yQ0pLNGlETFc2c0p6S3MtcEZmSmdqWVdmREdNTkl1TU9oMkgwV3BoNHJVdXBmal9teUFheHJJelRmMDN4ZHp6RXFuWDl6ajBmQnpZcg?oc=5\" target=\"_blank\">Electric vehicles - Companies team to use EV batteries to support the grid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-06-18",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 AWS data centers transferred 1.8 zettabytes in January 2026.\n$AMZN",
