@@ -1258,5 +1258,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-29",
+        "status": "posted",
+        "tweet": "Bitcoin ASIC hardware investments reached $25B by 2026, with 5M+ units deployed at average $5,000 each to sustain 600 EH/s hashrate.",
+        "type": "crypto"
     }
 ]
