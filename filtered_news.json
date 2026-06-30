@@ -1579,5 +1579,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-30",
+        "status": "posted",
+        "tweet": "Projected 2026 megaproject scale\n1. \ud83c\uddf8\ud83c\udde6 Riyadh\n2. \ud83c\udde8\ud83c\uddf3 Shanghai\n3. \ud83c\uddee\ud83c\uddf3 Mumbai\n4. \ud83c\uddfa\ud83c\uddf8 New York\n5. \ud83c\uddea\ud83c\uddec Cairo",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
