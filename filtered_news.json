@@ -1442,5 +1442,12 @@
         "status": "posted",
         "tweet": "Bitcoin emits 95 MtCO2e annually. Ethereum emits 0.03 MtCO2e annually after its proof-of-stake shift.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-06-30",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft data centers processed 1.4 zettabytes daily in 2026 with 1.12 PUE. \n$MSFT",
+        "type": "infrastructure"
     }
 ]
