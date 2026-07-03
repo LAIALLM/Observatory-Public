@@ -1444,5 +1444,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddea\ud83c\uddfa EU 2026 energy regulations will add \u20ac950 million to Bitcoin infrastructure costs, forcing 35% of miners to upgrade facilities.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-07-03",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Amazon handled 2.4 exabytes of data daily via AWS infrastructure in Q4 2025.\n$AMZN",
+        "type": "infrastructure"
     }
 ]
