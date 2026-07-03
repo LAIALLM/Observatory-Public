@@ -1437,5 +1437,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US construction firms project $2.3 trillion output in 2026 as AI adoption lifts productivity 18% across 120000 companies",
         "type": "statistical",
         "category": "construction companies"
+    },
+    {
+        "link": null,
+        "date": "2026-07-03",
+        "status": "posted",
+        "tweet": "\ud83c\uddea\ud83c\uddfa EU 2026 energy regulations will add \u20ac950 million to Bitcoin infrastructure costs, forcing 35% of miners to upgrade facilities.",
+        "type": "crypto"
     }
 ]
