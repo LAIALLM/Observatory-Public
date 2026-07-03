@@ -1571,5 +1571,13 @@
         "status": "posted",
         "tweet": "Bitcoin: $4000 ASIC per miner\nEthereum: $400 server per validator",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-07-02",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 2026 projection: $2.15 trillion in US construction starts, with semiconductors and data centers driving 24% of total value.",
+        "type": "statistical",
+        "category": "construction projects"
     }
 ]
