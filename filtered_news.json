@@ -1641,5 +1641,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-04",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China projects 8 million battery electric cars sold in 2026 versus \ud83c\uddfa\ud83c\uddf8 US at 1.2 million. \nThis gap widens through 2030 as production scales.",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
