@@ -1649,5 +1649,25 @@
         "tweet": "\ud83c\udde8\ud83c\uddf3 China projects 8 million battery electric cars sold in 2026 versus \ud83c\uddfa\ud83c\uddf8 US at 1.2 million. \nThis gap widens through 2030 as production scales.",
         "type": "statistical",
         "category": "transportation"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXJMUXRESXlrOGxMaG40YTctX0JMQTdoX2hYMG1yMnF6YjFWbVNyamlkVmVOdS1hT2VZZ25wUkU1VjI3TDllN2RLTG1FMG4tWnlWQkZGTlB3d0NIRTcyT0ExWEJtYVpibEYtQV94NHpzSi05b2Z0VHpaZEJsZ2tRbHU2VFpodHFu?oc=5",
+        "date": "2026-07-04",
+        "title": "Ukraine strikes oil infrastructure sites near Saint Petersburg, Zelenskyy says - Yahoo News Singapore",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXJMUXRESXlrOGxMaG40YTctX0JMQTdoX2hYMG1yMnF6YjFWbVNyamlkVmVOdS1hT2VZZ25wUkU1VjI3TDllN2RLTG1FMG4tWnlWQkZGTlB3d0NIRTcyT0ExWEJtYVpibEYtQV94NHpzSi05b2Z0VHpaZEJsZ2tRbHU2VFpodHFu?oc=5\" target=\"_blank\">Ukraine strikes oil infrastructure sites near Saint Petersburg, Zelenskyy says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Singapore</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS2dzZHhTdlZiZnVfTy1UTWtMVExURm1rTDhXMlM0VTAtU3otaFNPNm5WdVluNWVJNDROeGZrYm9LMUhvR1JyRzVVNG8zcXVYbElOWm83STFPcTFOUkR0Q1JJYzQtaXBXYTZtMXYxcE9YNm1mNGVwS3JmQ2s0RV9vWll1emZBY1B0SlR1dWF6OTVVbjlISmRBbGFsZWMwcEt1ekgtTzZ4N21zeTdr?oc=5",
+        "date": "2026-07-04",
+        "title": "B.C. developers say they don\u2019t want a buyout for empty condos - Times Colonist",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQS2dzZHhTdlZiZnVfTy1UTWtMVExURm1rTDhXMlM0VTAtU3otaFNPNm5WdVluNWVJNDROeGZrYm9LMUhvR1JyRzVVNG8zcXVYbElOWm83STFPcTFOUkR0Q1JJYzQtaXBXYTZtMXYxcE9YNm1mNGVwS3JmQ2s0RV9vWll1emZBY1B0SlR1dWF6OTVVbjlISmRBbGFsZWMwcEt1ekgtTzZ4N21zeTdr?oc=5\" target=\"_blank\">B.C. developers say they don\u2019t want a buyout for empty condos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times Colonist</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
