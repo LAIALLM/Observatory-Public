@@ -1689,5 +1689,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-04",
+        "status": "posted",
+        "tweet": "Bitcoin uses 150 TWh electricity per year. Ethereum uses 0.01 TWh. \nDifference: 15,000x.",
+        "type": "crypto"
     }
 ]
