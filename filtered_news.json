@@ -1961,5 +1961,12 @@
         "tweet": "Projected 2026 top countries by renewable electricity share (%)\n\n1. \ud83c\uddf3\ud83c\uddf4 Norway 97\n2. \ud83c\uddee\ud83c\uddf8 Iceland 95\n3. \ud83c\udde8\ud83c\uddf7 Costa Rica 93\n4. \ud83c\udde9\ud83c\uddf0 Denmark 82\n5. \ud83c\uddfa\ud83c\uddfe Uruguay 81",
         "type": "statistical",
         "category": "energy"
+    },
+    {
+        "link": null,
+        "date": "2026-07-06",
+        "status": "posted",
+        "tweet": "Bitcoin data centers are projected to consume 190 TWh in 2026, matching Sweden's total annual electricity use.",
+        "type": "crypto"
     }
 ]
