@@ -2125,5 +2125,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-07",
+        "status": "posted",
+        "tweet": "Scalability infra costs 2026 TWh/yr\n1. Bitcoin 118\n2. Ethereum 0.012\n3. Solana 0.003",
+        "type": "crypto"
     }
 ]
