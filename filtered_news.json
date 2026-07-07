@@ -2132,5 +2132,12 @@
         "status": "posted",
         "tweet": "Scalability infra costs 2026 TWh/yr\n1. Bitcoin 118\n2. Ethereum 0.012\n3. Solana 0.003",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-07-07",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Meta data centers consumed 15 TWh of electricity in 2025.\n$META",
+        "type": "infrastructure"
     }
 ]
