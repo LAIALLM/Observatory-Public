@@ -2116,5 +2116,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-08",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 Shenzhen's metro population reaches 18 million in 2026, with 92% EV adoption in new vehicle registrations.",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
