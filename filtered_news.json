@@ -2051,5 +2051,13 @@
         "status": "posted",
         "tweet": "Meta $META handled 4.8 exabytes of daily data across its \ud83c\uddfa\ud83c\uddf8 US infrastructure in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-09",
+        "status": "posted",
+        "tweet": "Projected top construction markets 2026 (USD tn)\n1. \ud83c\udde8\ud83c\uddf3 China 2.9\n2. \ud83c\uddfa\ud83c\uddf8 United States 1.8\n3. \ud83c\uddee\ud83c\uddf3 India 0.9\n4. \ud83c\uddef\ud83c\uddf5 Japan 0.7\n5. \ud83c\udde9\ud83c\uddea Germany 0.5",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
