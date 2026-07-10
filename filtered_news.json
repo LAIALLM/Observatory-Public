@@ -1,157 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-06-30",
-        "status": "posted",
-        "tweet": "Bitcoin emits 95 MtCO2e annually. Ethereum emits 0.03 MtCO2e annually after its proof-of-stake shift.",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2026-06-30",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft data centers processed 1.4 zettabytes daily in 2026 with 1.12 PUE. \n$MSFT",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0Y0b2ZJLUZYek1JT3U0dkItVTRxWnVZeDVnbnYxVVVtR0wwMzQwTXlLNlNpRjdRSXZEb2M2WVctM0M1NG9YSlpPV1FUNlRqRzBOTXRhajZLTUhMY1QyM1A2em9YZWdlaEE5ZEpJMG05WDBfWFAwa1ZDOUl2UUtGVmxKVjZrX2s2OUdFQmhqdlVNbTFDdmtnVGxJYUdsaDNWTUROS1dFSDk0OXUyUEwxQjYwYw?oc=5",
-        "date": "2026-06-30",
-        "title": "Mace report lays bare construction\u2019s lost productivity - Construction News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0Y0b2ZJLUZYek1JT3U0dkItVTRxWnVZeDVnbnYxVVVtR0wwMzQwTXlLNlNpRjdRSXZEb2M2WVctM0M1NG9YSlpPV1FUNlRqRzBOTXRhajZLTUhMY1QyM1A2em9YZWdlaEE5ZEpJMG05WDBfWFAwa1ZDOUl2UUtGVmxKVjZrX2s2OUdFQmhqdlVNbTFDdmtnVGxJYUdsaDNWTUROS1dFSDk0OXUyUEwxQjYwYw?oc=5\" target=\"_blank\">Mace report lays bare construction\u2019s lost productivity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction News</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNm0wWExWMTlDT0tLZjhhalh3dDBDdkgzbDdLT2o1UjczSVR4V2hpQUU3aEZjV3ZmZ200T2tnWDVsdVFpNWF6WVVXMzNhMHp1SUl4UW1PQmdpYmMtMWFUMFFZTWNqekVkRXRHZml6RFNZQ2E2UGJzRUdzaXdSR21UVFVuZU9ZN29udUowOW1vb3psUlUydmVsamZsNWQxUFhZdS02R3FRcmMwbXFfOHpsbF9kZ0JNWmNfQl9mT0kwNG0?oc=5",
-        "date": "2026-06-30",
-        "title": "Knauf Gips Romania targets 2027 opening for EUR 88 mln Huedin factory - Business Review",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNm0wWExWMTlDT0tLZjhhalh3dDBDdkgzbDdLT2o1UjczSVR4V2hpQUU3aEZjV3ZmZ200T2tnWDVsdVFpNWF6WVVXMzNhMHp1SUl4UW1PQmdpYmMtMWFUMFFZTWNqekVkRXRHZml6RFNZQ2E2UGJzRUdzaXdSR21UVFVuZU9ZN29udUowOW1vb3psUlUydmVsamZsNWQxUFhZdS02R3FRcmMwbXFfOHpsbF9kZ0JNWmNfQl9mT0kwNG0?oc=5\" target=\"_blank\">Knauf Gips Romania targets 2027 opening for EUR 88 mln Huedin factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Review</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQenVQMlZkWkozTUtoZkVBYm5TQkJ1Q0NGWkZOSlVVdU8xSU45andlbmw1YlJzSmVRWmVzQXV2ZE50akNxM3c5d2x3ZFpVZUF0bWIyRWNNdmpzRzdhLVdnZWktM1VyWTcyclN2TXM5Z3ZCNkFpNll2d2t2QVBhcm1CYVFucWFjeUNCbnA4VVJoN1hpcVRIbi1wNDloTWZnUnNJVGR5bGZ4VENMRmtCeUtkMGxhSEU0cktJZEhnZUZWNGFWM0dkUHhXcHhLVmRsSzBRU0k3c1hrWWd6RjYzczJidlhJT2xUdXE0?oc=5",
-        "date": "2026-06-30",
-        "title": "Sterling Infrastructure Inc (NASDAQ:STRL) Shows Strong Minervini Trend Template and High Growth Momentum - ChartMill",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQenVQMlZkWkozTUtoZkVBYm5TQkJ1Q0NGWkZOSlVVdU8xSU45andlbmw1YlJzSmVRWmVzQXV2ZE50akNxM3c5d2x3ZFpVZUF0bWIyRWNNdmpzRzdhLVdnZWktM1VyWTcyclN2TXM5Z3ZCNkFpNll2d2t2QVBhcm1CYVFucWFjeUNCbnA4VVJoN1hpcVRIbi1wNDloTWZnUnNJVGR5bGZ4VENMRmtCeUtkMGxhSEU0cktJZEhnZUZWNGFWM0dkUHhXcHhLVmRsSzBRU0k3c1hrWWd6RjYzczJidlhJT2xUdXE0?oc=5\" target=\"_blank\">Sterling Infrastructure Inc (NASDAQ:STRL) Shows Strong Minervini Trend Template and High Growth Momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ChartMill</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTdqd1kxVE1FR1hmOXE5ZWdQQ1N2S2NLVVhmV0JZNHdCMmZZOExGX3lLTjlRYlJLcUNTTjZaQ3QxTFVkSVpOT2haR1RMdnJxZ1FzUFdHRlIyajE4TWFTaWV1TEdoTDcwZUswVUtBLVBGUlVoSkhEQ3JrcWdRUU1iYWc3NEVtcXZUS2RKWS1QOTQxTWNUSEN0S2thMVMtNXBLT1diZ091OW9OZFY1LVhUbw?oc=5",
-        "date": "2026-06-30",
-        "title": "How LTMG Supports Global Infrastructure Growth as a Leading China Heavy-Duty Machinery Manufacturer - The National Law Review",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTdqd1kxVE1FR1hmOXE5ZWdQQ1N2S2NLVVhmV0JZNHdCMmZZOExGX3lLTjlRYlJLcUNTTjZaQ3QxTFVkSVpOT2haR1RMdnJxZ1FzUFdHRlIyajE4TWFTaWV1TEdoTDcwZUswVUtBLVBGUlVoSkhEQ3JrcWdRUU1iYWc3NEVtcXZUS2RKWS1QOTQxTWNUSEN0S2thMVMtNXBLT1diZ091OW9OZFY1LVhUbw?oc=5\" target=\"_blank\">How LTMG Supports Global Infrastructure Growth as a Leading China Heavy-Duty Machinery Manufacturer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Law Review</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWG9YVlpPdUdWMVdjM0pSOVpVSWpyMUJyWXhGQmRoSEh0dnh3ZzFOY1VuZkNxWUo3cElyQ0w2OURzWUxCMkFOSllETWxzRGg5YnU1eE9zNC1rdmliRWV6eDVPMmNDbWx6TGtMUks5V3JOMzlYNUpnd21qeG1OWDh0VS1TRjZKcjUtTEREUVItQQ?oc=5",
-        "date": "2026-06-30",
-        "title": "CIBC Global Asset Management launches private infrastructure fund with J.P. Morgan Asset Management - Yahoo! Finance Canada",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQWG9YVlpPdUdWMVdjM0pSOVpVSWpyMUJyWXhGQmRoSEh0dnh3ZzFOY1VuZkNxWUo3cElyQ0w2OURzWUxCMkFOSllETWxzRGg5YnU1eE9zNC1rdmliRWV6eDVPMmNDbWx6TGtMUks5V3JOMzlYNUpnd21qeG1OWDh0VS1TRjZKcjUtTEREUVItQQ?oc=5\" target=\"_blank\">CIBC Global Asset Management launches private infrastructure fund with J.P. Morgan Asset Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0R2UTdLbUxxZHVPamtEeHVNLVlJT0tXVWduVllWeTl3NEN1djMxOGxMOVFaN3dldUpiVTVlVmJGaWM3THBLUmRnZ0tPajhkeHRhZVJqQktyUmpEQjBEd0JHYWVsMlRxd1hUQnNoaGw3eTRYZ1drcUdhT2tabHJhalVuMUNSQndqVlFLT19HamxNdw?oc=5",
-        "date": "2026-06-30",
-        "title": "Google restricts Meta\u2019s use of Gemini - Techzine Global",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0R2UTdLbUxxZHVPamtEeHVNLVlJT0tXVWduVllWeTl3NEN1djMxOGxMOVFaN3dldUpiVTVlVmJGaWM3THBLUmRnZ0tPajhkeHRhZVJqQktyUmpEQjBEd0JHYWVsMlRxd1hUQnNoaGw3eTRYZ1drcUdhT2tabHJhalVuMUNSQndqVlFLT19HamxNdw?oc=5\" target=\"_blank\">Google restricts Meta\u2019s use of Gemini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Techzine Global</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEIzMTZkQ2NmUWdDbDRPQ0gyNjhWTE1RcEZxLWFYeHJHQ1pOZzBIMnZoVmZmSTRkR3kyMFJPLVVORElLNTAzQTdwdllyN1RLTDRRM2laTEJwSDhjd0dTMWt1b0h4TjlQRWR5WUliZ0ZMaUZyellaelhVM1ZHRkJwc1VrMk5qVWtEUURfOWVid2dTV0pBeHlkamVzbmdiRndyNUhVUUZGQQ?oc=5",
-        "date": "2026-06-30",
-        "title": "UN says transport infrastructure must adapt to climate - RFI",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEIzMTZkQ2NmUWdDbDRPQ0gyNjhWTE1RcEZxLWFYeHJHQ1pOZzBIMnZoVmZmSTRkR3kyMFJPLVVORElLNTAzQTdwdllyN1RLTDRRM2laTEJwSDhjd0dTMWt1b0h4TjlQRWR5WUliZ0ZMaUZyellaelhVM1ZHRkJwc1VrMk5qVWtEUURfOWVid2dTV0pBeHlkamVzbmdiRndyNUhVUUZGQQ?oc=5\" target=\"_blank\">UN says transport infrastructure must adapt to climate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RFI</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11UTE4V25tT2VyY3hnUWZFdnNOcGhYSkpIWUFzaXhxaUhVWHpCNFVqbWtNSUJpOVlhMDJZUEZUZFpsT1duTmdNcnQ3LVNKdktFVTFqNUJpcG5EN1RGdkhkdHI4Q0FxOC1zNlBFYmlFcHEtZ1RjUDV2RkdRRQ?oc=5",
-        "date": "2026-06-30",
-        "title": "Pi Network\u2019s pivot: from mobile mining to infrastructure for AI and identity - crypto.news",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE11UTE4V25tT2VyY3hnUWZFdnNOcGhYSkpIWUFzaXhxaUhVWHpCNFVqbWtNSUJpOVlhMDJZUEZUZFpsT1duTmdNcnQ3LVNKdktFVTFqNUJpcG5EN1RGdkhkdHI4Q0FxOC1zNlBFYmlFcHEtZ1RjUDV2RkdRRQ?oc=5\" target=\"_blank\">Pi Network\u2019s pivot: from mobile mining to infrastructure for AI and identity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQzM4U2R4amhzc0FQdDRQbDNmYmRoYnlVdDE4VkdvQmVEdm5oTG5SWXE2dG9jUGpDYm5GNFlpbmdMc0xfc0ZvdkNmcFBhbVJhNkx0Rk5NMkppeUhQa0tJeDF3YUx0TzlNLU8xT2hfTVI2NFNaNjJSbXlHQmxnYkttcDg1QTN5YnUzRXNuSU1pT2Y5bXlpQW1mSWJ5UVRtYUNISGdnQXhKTGZtWUJHY0E?oc=5",
-        "date": "2026-06-30",
-        "title": "Tech Giants Face Market Pressure Amid Infrastructure Spending Co - GuruFocus",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPQzM4U2R4amhzc0FQdDRQbDNmYmRoYnlVdDE4VkdvQmVEdm5oTG5SWXE2dG9jUGpDYm5GNFlpbmdMc0xfc0ZvdkNmcFBhbVJhNkx0Rk5NMkppeUhQa0tJeDF3YUx0TzlNLU8xT2hfTVI2NFNaNjJSbXlHQmxnYkttcDg1QTN5YnUzRXNuSU1pT2Y5bXlpQW1mSWJ5UVRtYUNISGdnQXhKTGZtWUJHY0E?oc=5\" target=\"_blank\">Tech Giants Face Market Pressure Amid Infrastructure Spending Co</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GuruFocus</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMUpJamNBYVhHVTBzWktsSUZBYlhBX0xOOXFzalFOeEREbll1Um1wMnRIbnNtblUyVHZzeGVzV0NNRkF5SERBWGp2WWJoaDNBQktfcmhhQW9vQm1oRVQ0TGxtNGVDU3B4blRocFhVOTVibUQ1aWlxUHBkRFJ6eDB4X2xGWk0tbTYyb2RScGxpVXVQcUxNQ2c?oc=5",
-        "date": "2026-06-30",
-        "title": "CIBC Global Asset Management launches private infrastructure fund with J.P. Morgan Asset Management - Financial Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPMUpJamNBYVhHVTBzWktsSUZBYlhBX0xOOXFzalFOeEREbll1Um1wMnRIbnNtblUyVHZzeGVzV0NNRkF5SERBWGp2WWJoaDNBQktfcmhhQW9vQm1oRVQ0TGxtNGVDU3B4blRocFhVOTVibUQ1aWlxUHBkRFJ6eDB4X2xGWk0tbTYyb2RScGxpVXVQcUxNQ2c?oc=5\" target=\"_blank\">CIBC Global Asset Management launches private infrastructure fund with J.P. Morgan Asset Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWpVSkk0RDBZQmVtMTdRVmFISnc0eG15ME5mYVlfZVlzZlBuR0hFTzk1eS1uRl9fMlY3UGR4d0hoVHFIX0dVUzZMU19nTUxXd3JfVWhvNmZteHdZZHlNWll4YXFmWTJOQ3ZOQ3c0RXlzYzNyQlpiSmFLRkNjUWhMeWoxMmFvU2tGMENBT19mWjdrc3UwX3BWSXg2ZnAzaWM?oc=5",
-        "date": "2026-06-30",
-        "title": "Alto Infrastructure breaks ground on 70MW AI campus in Granada, Spain - BeBeez International",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWpVSkk0RDBZQmVtMTdRVmFISnc0eG15ME5mYVlfZVlzZlBuR0hFTzk1eS1uRl9fMlY3UGR4d0hoVHFIX0dVUzZMU19nTUxXd3JfVWhvNmZteHdZZHlNWll4YXFmWTJOQ3ZOQ3c0RXlzYzNyQlpiSmFLRkNjUWhMeWoxMmFvU2tGMENBT19mWjdrc3UwX3BWSXg2ZnAzaWM?oc=5\" target=\"_blank\">Alto Infrastructure breaks ground on 70MW AI campus in Granada, Spain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeBeez International</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BLUd0b1ptNC1sc3pkbjg0SDQ3QVljR1JyYUxDdWI4cm55TFg4UTlIWGpoYXJUaHFzb2JMZmxwbzlTQlZxZFJmcjRZTDQwM1VmMFVhSjNqRTRFUjVXUWhKakQ0eDJIdw?oc=5",
-        "date": "2026-06-30",
-        "title": "More than 65,000 homes planned as Israel advances major housing deals - Ynetnews",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BLUd0b1ptNC1sc3pkbjg0SDQ3QVljR1JyYUxDdWI4cm55TFg4UTlIWGpoYXJUaHFzb2JMZmxwbzlTQlZxZFJmcjRZTDQwM1VmMFVhSjNqRTRFUjVXUWhKakQ0eDJIdw?oc=5\" target=\"_blank\">More than 65,000 homes planned as Israel advances major housing deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ynetnews</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3Byb0pBb1NEcEx2Y2tYSlhJbGxnaWhaOFlHNzZ1Zk1NU2VKdFQ2cnQzemRqb1pqX2p3WTQ3Smp5cXBISEtiOERmZFRIUkpYR1J3Zm0waFNKVkJsZzQzMlR5MlNydER1bW9zZUh5ejZXLU15clF2cGtmS3MxWW8tRWFXWGZqMXFRSHNUazRxQTEyMkp4UjZIaWMwalBKUG9KdFJGSzJXYw?oc=5",
-        "date": "2026-06-30",
-        "title": "Housing and Community-Led Planning Take Centre Stage at Nairobi Climate Summit - Capital FM Kenya",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3Byb0pBb1NEcEx2Y2tYSlhJbGxnaWhaOFlHNzZ1Zk1NU2VKdFQ2cnQzemRqb1pqX2p3WTQ3Smp5cXBISEtiOERmZFRIUkpYR1J3Zm0waFNKVkJsZzQzMlR5MlNydER1bW9zZUh5ejZXLU15clF2cGtmS3MxWW8tRWFXWGZqMXFRSHNUazRxQTEyMkp4UjZIaWMwalBKUG9KdFJGSzJXYw?oc=5\" target=\"_blank\">Housing and Community-Led Planning Take Centre Stage at Nairobi Climate Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital FM Kenya</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-06-30",
-        "status": "posted",
-        "tweet": "Projected 2026 megaproject scale\n1. \ud83c\uddf8\ud83c\udde6 Riyadh\n2. \ud83c\udde8\ud83c\uddf3 Shanghai\n3. \ud83c\uddee\ud83c\uddf3 Mumbai\n4. \ud83c\uddfa\ud83c\uddf8 New York\n5. \ud83c\uddea\ud83c\uddec Cairo",
-        "type": "statistical",
-        "category": "engineering projects"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUp3c1ZvRWRITTJId1NfWnNTdTNqRlZjN3VuTFRCWXdUX3J3NFhJY1ZIcGlqanNEcUQ0aW0wODg1TmNsampvWVBvWGt5QUN5dUtyN3Jid1hsekN1MDRqVjBvcTNZQTRJVElpellpcXJLaFVkWlJicFpOY2I0akpaQkFWREY?oc=5",
         "date": "2026-07-01",
         "title": "Green lime: Reducing carbon emissions in the construction materials industry - Tech Xplore",
@@ -2185,6 +2033,66 @@
         "date": "2026-07-09",
         "title": "$1.73B for roads, bridges, transit and other projects allocated in USDOT awards",
         "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/k4M2BBeEMTL-vLoJcS0OPhRTu9TXxFD37baTuU7cgzE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc3MTc2NzAwLmpwZw==.webp\" /></div></figure><p>More than three-quarters of grants went to road and bridge projects, while public transit received less than 10% of total award funds.</p>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMlNWUHRyUzdvRjhmaWZPSzE2LVFSWUpyT214TU1xc3Z1SmpLTHlFTGRjamtCNS14ZTNDY29CbnZ1ZGloUWRscC1ZTWFKZ3UwaElpbElIMHd4NGc5UDZsVDdEclFyX0w5QkpvRXBLVmE3czktbE9IaEM1NHROZDVkQlpMRy1XNW04STlON1BUd3RCS2h1cHlQcWFGSXBaZkNYZW1IMV9zVkE0dm5CRDR5ZDNYdFVkSkdEUkFsQ3lR?oc=5",
+        "date": "2026-07-10",
+        "title": "Web data scraping infrastructure startup Oxylabs reels in $130M in its first ever funding round - SiliconANGLE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOMlNWUHRyUzdvRjhmaWZPSzE2LVFSWUpyT214TU1xc3Z1SmpLTHlFTGRjamtCNS14ZTNDY29CbnZ1ZGloUWRscC1ZTWFKZ3UwaElpbElIMHd4NGc5UDZsVDdEclFyX0w5QkpvRXBLVmE3czktbE9IaEM1NHROZDVkQlpMRy1XNW04STlON1BUd3RCS2h1cHlQcWFGSXBaZkNYZW1IMV9zVkE0dm5CRDR5ZDNYdFVkSkdEUkFsQ3lR?oc=5\" target=\"_blank\">Web data scraping infrastructure startup Oxylabs reels in $130M in its first ever funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKRUhhZXRGV29nRzVpVjdwTk5KeE9oOWRGbk1BMWU0Tjd4Z25LdXhZRWtFa3FkSFBsQk9INlJmX1ZuYlhDbHRDNHBaOE1Ock9WeG5kTVdQei1neEJaZW41Q3lnUGpINGwzWmpNUw?oc=5",
+        "date": "2026-07-10",
+        "title": "The Gateway to Digital Asset: On-Chain Data Infrastructure - Tiger Research Reports",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBKRUhhZXRGV29nRzVpVjdwTk5KeE9oOWRGbk1BMWU0Tjd4Z25LdXhZRWtFa3FkSFBsQk9INlJmX1ZuYlhDbHRDNHBaOE1Ock9WeG5kTVdQei1neEJaZW41Q3lnUGpINGwzWmpNUw?oc=5\" target=\"_blank\">The Gateway to Digital Asset: On-Chain Data Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tiger Research Reports</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUtsNzNoNWQxVWV2RHhNYm5pX0o2dUhhM2ZjN1JTS0hWZFkzLVlqQjNaZ1RwMHBBeGs5dWNyS1ZMY1FWUmlzRHhoUnVveV9aMDE0bk15c1lYWm1nOFNVZktReWpTamJfU2UxRUJWTjBpTGpuLXM4cXJ2bldQWVl6QXktYjdiNURFaDFPMDdvZ1kxbW1vcEVTSWM3QWZoelRLVW96TWdGWQ?oc=5",
+        "date": "2026-07-10",
+        "title": "Defense infrastructure: A boost for investment in Europe\u2019s economy - Table.Briefings",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUtsNzNoNWQxVWV2RHhNYm5pX0o2dUhhM2ZjN1JTS0hWZFkzLVlqQjNaZ1RwMHBBeGs5dWNyS1ZMY1FWUmlzRHhoUnVveV9aMDE0bk15c1lYWm1nOFNVZktReWpTamJfU2UxRUJWTjBpTGpuLXM4cXJ2bldQWVl6QXktYjdiNURFaDFPMDdvZ1kxbW1vcEVTSWM3QWZoelRLVW96TWdGWQ?oc=5\" target=\"_blank\">Defense infrastructure: A boost for investment in Europe\u2019s economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Table.Briefings</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQi11RFJqYUV2b1BOb3gyaV83OEZFTXJtS291WVJIeXI0ZW01RkFBTE9SeEhiT3ZWb21jcHVYMWhsdXdTSElrSFdIUHVmX3d0VngyQk44U0NwYlR0cExWckxMVnhtT09jMkp3RENtR0Y2R1R5eFBHdk1nYkg3TUNoQ0tMbW1rMV80YjdwM1JwV0oyUENwX1hQRmlsZ2toVTdXVWtsSlg4ZDJCdEMzR2VEOFUwV292T3p4Nnk2eXM1R0lGOGJLUEhj?oc=5",
+        "date": "2026-07-10",
+        "title": "Lviv Urban Forum gathers more than 1,000 participants to discuss architecture and communities - The Ukrainian Weekly",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNQi11RFJqYUV2b1BOb3gyaV83OEZFTXJtS291WVJIeXI0ZW01RkFBTE9SeEhiT3ZWb21jcHVYMWhsdXdTSElrSFdIUHVmX3d0VngyQk44U0NwYlR0cExWckxMVnhtT09jMkp3RENtR0Y2R1R5eFBHdk1nYkg3TUNoQ0tMbW1rMV80YjdwM1JwV0oyUENwX1hQRmlsZ2toVTdXVWtsSlg4ZDJCdEMzR2VEOFUwV292T3p4Nnk2eXM1R0lGOGJLUEhj?oc=5\" target=\"_blank\">Lviv Urban Forum gathers more than 1,000 participants to discuss architecture and communities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Ukrainian Weekly</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkN4dWRHZ1YyTW5Cd3BVWUVRWGZsSlhuZUVDR1lwSUgzTV92MFdFM3dwalJibU1YdUlKekhfeW1mRHlzSEtJdHJCNmFrV2JkenFVanJJb3dwZHFNeGpNRHRlcld3VFl0TlBFLWJOUFlETmRGWVlKeXVqWXFHUGE5cmdSbm1LbHh5alZjR1RfZHhtbDhERTFlYkpPR1VWTHRJcDVoX1FWY2dFQm05ZGZ1UHBwek9HM1VQQmVjbFdWbw?oc=5",
+        "date": "2026-07-10",
+        "title": "Vienna eyes stronger cooperative ties in various fields with Vietnam - Th\u00f4ng t\u1ea5n x\u00e3 Vi\u1ec7t Nam (TTXVN)",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObkN4dWRHZ1YyTW5Cd3BVWUVRWGZsSlhuZUVDR1lwSUgzTV92MFdFM3dwalJibU1YdUlKekhfeW1mRHlzSEtJdHJCNmFrV2JkenFVanJJb3dwZHFNeGpNRHRlcld3VFl0TlBFLWJOUFlETmRGWVlKeXVqWXFHUGE5cmdSbm1LbHh5alZjR1RfZHhtbDhERTFlYkpPR1VWTHRJcDVoX1FWY2dFQm05ZGZ1UHBwek9HM1VQQmVjbFdWbw?oc=5\" target=\"_blank\">Vienna eyes stronger cooperative ties in various fields with Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Th\u00f4ng t\u1ea5n x\u00e3 Vi\u1ec7t Nam (TTXVN)</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa3RRZm14UHdPY0hCSkM1Q3JhdktVa0w5bUNVcEN5RXFvR05ITUlQdHB1WThzVm4yWHFLUWVGeml3U0I3SEFBTGMtUFllaDM5ZWltYXg3RU1pdjQ4OHFpNHFiVEN4N2xSV3l0VXNQb0NqYXJZT2xmMXVPZkJNc05hdXlXWnF5YVFaUFRQdm5mWUIwT0RmNWZnVWF3QUN3RUp6OXFQRDZMdGl5eWJrWldXMmhjWUh3UXdnRnZJdVhyWlM5M0p4QU1wVHkxNTBnUdIB2wFBVV95cUxNUlAtZFNId0VRNGpzcnlGM1pCY2RmRjluVXkybnczdm9fWHI5b29RNEJfM3dDTzlPNmFMXzVfUUYtenlLVGhQNmhBQUg1Vk84SXI2SlRXNmd4Z3E3dS0wTFFwNk9pd2dqd3BCWDk3NE9PeVpyaEo5bFYzUlVfRHpnWVNLUnlPV0tLSU5IcHZFeWc1VmhwZkI1QlBBQXEtWUM3V1J6SDBReEt3OTVoa2cxUjdJdDlGeWNBZnZzRE1Rck05eE1sWjA1cEl6YXhIcjZ3bkdRazFHZ1VNNXc?oc=5",
+        "date": "2026-07-10",
+        "title": "Tirupati gets climate-resilient project to mitigate urban flooding - The New Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNa3RRZm14UHdPY0hCSkM1Q3JhdktVa0w5bUNVcEN5RXFvR05ITUlQdHB1WThzVm4yWHFLUWVGeml3U0I3SEFBTGMtUFllaDM5ZWltYXg3RU1pdjQ4OHFpNHFiVEN4N2xSV3l0VXNQb0NqYXJZT2xmMXVPZkJNc05hdXlXWnF5YVFaUFRQdm5mWUIwT0RmNWZnVWF3QUN3RUp6OXFQRDZMdGl5eWJrWldXMmhjWUh3UXdnRnZJdVhyWlM5M0p4QU1wVHkxNTBnUdIB2wFBVV95cUxNUlAtZFNId0VRNGpzcnlGM1pCY2RmRjluVXkybnczdm9fWHI5b29RNEJfM3dDTzlPNmFMXzVfUUYtenlLVGhQNmhBQUg1Vk84SXI2SlRXNmd4Z3E3dS0wTFFwNk9pd2dqd3BCWDk3NE9PeVpyaEo5bFYzUlVfRHpnWVNLUnlPV0tLSU5IcHZFeWc1VmhwZkI1QlBBQXEtWUM3V1J6SDBReEt3OTVoa2cxUjdJdDlGeWNBZnZzRE1Rck05eE1sWjA1cEl6YXhIcjZ3bkdRazFHZ1VNNXc?oc=5\" target=\"_blank\">Tirupati gets climate-resilient project to mitigate urban flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
         "similarity_excluded": "No",
         "score": 0,
         "status": "processed",
