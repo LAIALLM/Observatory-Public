@@ -2097,5 +2097,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-10",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China's 2021 mining ban shifted 50% of global Bitcoin hash rate abroad, doubling infrastructure relocation and energy setup costs for operators by 2023.",
+        "type": "crypto"
     }
 ]
