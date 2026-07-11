@@ -2232,5 +2232,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-11",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddea Ireland Microsoft $MSFT Azure processed 320 exabytes of data in May 2026.",
+        "type": "infrastructure"
     }
 ]
