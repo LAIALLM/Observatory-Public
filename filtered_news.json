@@ -2161,5 +2161,12 @@
         "status": "posted",
         "tweet": "Google \ud83c\uddeb\ud83c\uddee data centers maintained 1.09 PUE across operations in 2026.\n$META",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-12",
+        "status": "posted",
+        "tweet": "Bitcoin mining concentration by country 2026\n\n1. \ud83c\uddfa\ud83c\uddf8 United States 37%\n2. \ud83c\udde8\ud83c\uddf3 China 19%\n3. \ud83c\uddf7\ud83c\uddfa Russia 11%",
+        "type": "crypto"
     }
 ]
