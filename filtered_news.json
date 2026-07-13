@@ -2016,5 +2016,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-13",
+        "status": "posted",
+        "tweet": "Bitcoin mining hardware spend reaches $4 billion yearly by 2026, with largest deployments in \ud83c\uddfa\ud83c\uddf8 Texas and \ud83c\uddf0\ud83c\uddff facilities. \nTotal ASIC fleet value exceeds $15 billion.",
+        "type": "crypto"
     }
 ]
