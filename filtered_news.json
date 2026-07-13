@@ -2213,5 +2213,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-13",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 Beijing will add 1,200 km of metro lines by 2030, serving 35 million daily passengers and cutting average commute times 22 percent.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
