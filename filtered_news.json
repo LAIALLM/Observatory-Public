@@ -2188,5 +2188,12 @@
         "status": "posted",
         "tweet": "65% of Bitcoin hash rate concentrated in \ud83c\uddfa\ud83c\uddf8 United States in 2026, incurring $3.8B in dedicated power infrastructure costs annually.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-07-14",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddea Microsoft Azure Dublin data centers recorded 1.05 PUE in 2025. \n$MSFT",
+        "type": "infrastructure"
     }
 ]
