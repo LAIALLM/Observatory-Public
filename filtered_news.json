@@ -2173,5 +2173,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Iowa\nGoogle data centers report average PUE of 1.10",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-14",
+        "status": "posted",
+        "tweet": "\ud83c\uddf0\ud83c\uddf7 Seoul public transit reaches 70% of urban trips in 2026. \ud83c\uddfa\ud83c\uddf8 Los Angeles share stays at 10%.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
