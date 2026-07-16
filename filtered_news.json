@@ -2665,5 +2665,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-16",
+        "status": "posted",
+        "tweet": "30% of Bitcoin nodes hosted in \ud83c\uddfa\ud83c\uddf8 United States as of 2026, concentrating infrastructure spend on premium data center power and bandwidth. \n\n```",
+        "type": "crypto"
     }
 ]
