@@ -2476,5 +2476,12 @@
         "tweet": "2026: \ud83c\uddee\ud83c\uddf3 India reaches 1.46 billion people, 50 million more than \ud83c\udde8\ud83c\uddf3 China at 1.41 billion.",
         "type": "statistical",
         "category": "population"
+    },
+    {
+        "link": null,
+        "date": "2026-07-17",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Alphabet data centers consumed 19.2 TWh of electricity in 2025. \n$GOOGL",
+        "type": "infrastructure"
     }
 ]
