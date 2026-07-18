@@ -2188,5 +2188,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Alphabet data centers operated at 1.08 PUE efficiency throughout 2026\n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-18",
+        "status": "posted",
+        "tweet": "Solana cloud infrastructure costs in \ud83c\uddfa\ud83c\uddf8 United States data centers total $480 million annually.\nEthereum: $155 million.",
+        "type": "crypto"
     }
 ]
