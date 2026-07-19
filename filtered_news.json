@@ -2114,5 +2114,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft data centers processed 18 exabytes daily in 2025. \n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-19",
+        "status": "posted",
+        "tweet": "By 2030, \ud83c\udde8\ud83c\uddf3 China must add 180 million urban housing units to house 1.05 billion city residents amid 68% urbanization.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
