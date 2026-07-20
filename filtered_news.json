@@ -1877,5 +1877,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-20",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddea Microsoft Azure processed 18 exabytes daily across facilities in 2025.\n$MSFT",
+        "type": "infrastructure"
     }
 ]
