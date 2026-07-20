@@ -1884,5 +1884,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddea Microsoft Azure processed 18 exabytes daily across facilities in 2025.\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-20",
+        "status": "posted",
+        "tweet": "Energy efficiency 2026 tx per kWh\n1. Solana 1950000\n2. Ethereum 20000\n3. Bitcoin 1.4",
+        "type": "crypto"
     }
 ]
