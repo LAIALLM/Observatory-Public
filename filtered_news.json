@@ -1899,5 +1899,75 @@
         "tweet": "\ud83c\uddee\ud83c\uddf3 India reaches 1.45 billion in 2026.\n\ud83c\udde8\ud83c\uddf3 China falls to 1.40 billion.",
         "type": "statistical",
         "category": "population"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd3p1a0VjNExlcUpBU2xOeFBpN3BRdmRNU1Q5ZnBBUGhSdWx6YlZZSHc1eWwyQ3ZwTTNYLUJONWJPdzJUV1VmWFZlaFh5VXVTMzNfNEkxdnZZdkNDa2hXNU9rdFB0SVhMZVNNNF9lSmI5WndTaDkyUTk2S3lPWkxSZnhUU2ptM2FmcTViNFAxaFFPd3JoUXlaUGh4UDBDUUgwNC1hemk1NzcyY0xfS2pYcU9jcjNLRTJBMldHbmtYNjJUdEU?oc=5",
+        "date": "2026-07-20",
+        "title": "Skills shortage, policy uncertainty eclipse downturn as construction's biggest threat - thepost.co.nz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd3p1a0VjNExlcUpBU2xOeFBpN3BRdmRNU1Q5ZnBBUGhSdWx6YlZZSHc1eWwyQ3ZwTTNYLUJONWJPdzJUV1VmWFZlaFh5VXVTMzNfNEkxdnZZdkNDa2hXNU9rdFB0SVhMZVNNNF9lSmI5WndTaDkyUTk2S3lPWkxSZnhUU2ptM2FmcTViNFAxaFFPd3JoUXlaUGh4UDBDUUgwNC1hemk1NzcyY0xfS2pYcU9jcjNLRTJBMldHbmtYNjJUdEU?oc=5\" target=\"_blank\">Skills shortage, policy uncertainty eclipse downturn as construction's biggest threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepost.co.nz</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQS1mb0J0dnJaOE9DSmN4Y3BfOHA4dkNUYzNVRjExWHJtLTFGRWNlRnJxWVFvWGRSVThaaTNIUnBUR3hHQ0NFR0YwMjZtWUxoNGRIcHphT2RDMF9fN3NIRjhkSjRHRnhzcVZYT3ZIazVNM0dmUWZyNUc3ZXRVTTU5NnNJSUo?oc=5",
+        "date": "2026-07-20",
+        "title": "Help shape Georgia\u2019s infrastructure priorities - WALB",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQQS1mb0J0dnJaOE9DSmN4Y3BfOHA4dkNUYzNVRjExWHJtLTFGRWNlRnJxWVFvWGRSVThaaTNIUnBUR3hHQ0NFR0YwMjZtWUxoNGRIcHphT2RDMF9fN3NIRjhkSjRHRnhzcVZYT3ZIazVNM0dmUWZyNUc3ZXRVTTU5NnNJSUo?oc=5\" target=\"_blank\">Help shape Georgia\u2019s infrastructure priorities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WALB</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUzhmYVhvbTZuY05LRWh6STVaUllJdzdvdzBTRHZIVEc4Q2pFYVZ6bk9EeVhHTXo3MElDRlNtYndiSjRzWnVvR29od2VUTXRSamxrYzVZZ09Gek9BNnlZOHpieGVDMTRsc1p0N0tCZExoak5wRWFhMjBHQUJqYTlzdmtaMkVoTjgzNHB1NlVzbHl6dHZIOTNOdUQtOUxWYkZj?oc=5",
+        "date": "2026-07-20",
+        "title": "Infrastructure work to begin on Sequim\u2019s new Deep Well #4 - My Clallam County",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPUzhmYVhvbTZuY05LRWh6STVaUllJdzdvdzBTRHZIVEc4Q2pFYVZ6bk9EeVhHTXo3MElDRlNtYndiSjRzWnVvR29od2VUTXRSamxrYzVZZ09Gek9BNnlZOHpieGVDMTRsc1p0N0tCZExoak5wRWFhMjBHQUJqYTlzdmtaMkVoTjgzNHB1NlVzbHl6dHZIOTNOdUQtOUxWYkZj?oc=5\" target=\"_blank\">Infrastructure work to begin on Sequim\u2019s new Deep Well #4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">My Clallam County</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXBnbFlwTlVBd052R2QxUmdZWE9hdVF3Sl9ZTE55WE94bF9IX0tCMGc2ZmxybHg2eG1oS1hlZUlKVHJWX2ZJN1BDa3hQcmM3NGpaU2pSTGdGNnVDREsxcmdUcnZiVGwwalJlM0RDTHZNQ0hYYk1wbWw3clhTMTZEU3lnLVBXeTllMTRhdXNiQWpOVGctZnpYY0JrZzBEa18wU0VVNmsyRmZJT3F4aHRHU3ZfSlJQUkdwZFJUaDEwOA?oc=5",
+        "date": "2026-07-20",
+        "title": "Clear message from Palm Coast City Council candidates: Infrastructure before growth - Observer Local News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNcXBnbFlwTlVBd052R2QxUmdZWE9hdVF3Sl9ZTE55WE94bF9IX0tCMGc2ZmxybHg2eG1oS1hlZUlKVHJWX2ZJN1BDa3hQcmM3NGpaU2pSTGdGNnVDREsxcmdUcnZiVGwwalJlM0RDTHZNQ0hYYk1wbWw3clhTMTZEU3lnLVBXeTllMTRhdXNiQWpOVGctZnpYY0JrZzBEa18wU0VVNmsyRmZJT3F4aHRHU3ZfSlJQUkdwZFJUaDEwOA?oc=5\" target=\"_blank\">Clear message from Palm Coast City Council candidates: Infrastructure before growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Observer Local News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQW1yMVpmSXZ2UW11SDhPblVkcnQtV1hzY2wxX2pITWNmYXNMb0F6by1nWjM0YlFSbG05eWt6VFpKanhoa25OOG5PV0JIeXE2c0o2TWlfZklXLW82OWJCdGw5aW8xeXhvWGhWYUtxTVZRTEZLczhxRHpnRE1xeHVLLVFkWGI2eHNkS1BWNklmU29oTlVnRkNkUnhDNlBfMV8xdEw2VUFwc1JQTVNoZEsybU4wTUxnZDRlejBKMjVZNmVwb2NvZVBoYXZPZjl4eFdia05xUW5maVF4cEN3Mi1J?oc=5",
+        "date": "2026-07-20",
+        "title": "Transforming Energy Exploration: bp\u2019s Advanced AI-Driven Supercomputing Infrastructure - energytech.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQW1yMVpmSXZ2UW11SDhPblVkcnQtV1hzY2wxX2pITWNmYXNMb0F6by1nWjM0YlFSbG05eWt6VFpKanhoa25OOG5PV0JIeXE2c0o2TWlfZklXLW82OWJCdGw5aW8xeXhvWGhWYUtxTVZRTEZLczhxRHpnRE1xeHVLLVFkWGI2eHNkS1BWNklmU29oTlVnRkNkUnhDNlBfMV8xdEw2VUFwc1JQTVNoZEsybU4wTUxnZDRlejBKMjVZNmVwb2NvZVBoYXZPZjl4eFdia05xUW5maVF4cEN3Mi1J?oc=5\" target=\"_blank\">Transforming Energy Exploration: bp\u2019s Advanced AI-Driven Supercomputing Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energytech.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV085TEhHdkd4bXEwS004UDR0QW8xZVVpa2poNHdLWmFTYVhtcjduX2JySWxuZGJBckRITnBnbW9KRmhDNzBWT1kwVk1sTl8yWlNSSkdmQzVySTZndDZxaTRIZWJLY01QNC1zZmJ5NmFkazhLeEtvZnU0ajVrWUpSUU9CNkR1cHM0M05iSkxoR3BWQm1nUUpnTE9oYlVLSEU2cERwU2djNA?oc=5",
+        "date": "2026-07-20",
+        "title": "How AI can help countries import good government - The World Economic Forum",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQV085TEhHdkd4bXEwS004UDR0QW8xZVVpa2poNHdLWmFTYVhtcjduX2JySWxuZGJBckRITnBnbW9KRmhDNzBWT1kwVk1sTl8yWlNSSkdmQzVySTZndDZxaTRIZWJLY01QNC1zZmJ5NmFkazhLeEtvZnU0ajVrWUpSUU9CNkR1cHM0M05iSkxoR3BWQm1nUUpnTE9oYlVLSEU2cERwU2djNA?oc=5\" target=\"_blank\">How AI can help countries import good government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The World Economic Forum</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZVNhUzhZdFRPeVU4NE8wM3JOR0hnM04tZTNhZG9IcmVYcUUtc29ZWUNnZm1xa3NRRTJtSVlBT2ZMUVItN3AxTU95Q2JYcUZWbXZjbVZVR2c2dUd4XzBjRXFkLTRweWVOZVZWOVJmUHg2eWliamNpZWFxdWNwc1o5TlhMdnpldWNtc1MwSkFRTEN3VWNkVmU0X2lXRXp4aWUzcDhKSzRXMXJlQVJMWXdXc2llUG1VV1otcFVyYlUtR1NQTS14aTk3V2FtNXhKVWJ0UlpTdFlwS3VJUTVhcm5wRnBzWmxNVGxONTdIWVZtZkRfWEFiSmtzc3hwamJYMHV0RmptOHBtY1VjTGRWclZCeA?oc=5",
+        "date": "2026-07-20",
+        "title": "Centre says urban flood management is state's responsibility; 838 drainage projects worth 3,022 crore taken up under AMRUT - ANI News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNZVNhUzhZdFRPeVU4NE8wM3JOR0hnM04tZTNhZG9IcmVYcUUtc29ZWUNnZm1xa3NRRTJtSVlBT2ZMUVItN3AxTU95Q2JYcUZWbXZjbVZVR2c2dUd4XzBjRXFkLTRweWVOZVZWOVJmUHg2eWliamNpZWFxdWNwc1o5TlhMdnpldWNtc1MwSkFRTEN3VWNkVmU0X2lXRXp4aWUzcDhKSzRXMXJlQVJMWXdXc2llUG1VV1otcFVyYlUtR1NQTS14aTk3V2FtNXhKVWJ0UlpTdFlwS3VJUTVhcm5wRnBzWmxNVGxONTdIWVZtZkRfWEFiSmtzc3hwamJYMHV0RmptOHBtY1VjTGRWclZCeA?oc=5\" target=\"_blank\">Centre says urban flood management is state's responsibility; 838 drainage projects worth 3,022 crore taken up under AMRUT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
