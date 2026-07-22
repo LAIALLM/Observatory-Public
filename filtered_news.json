@@ -1992,5 +1992,13 @@
         "status": "posted",
         "tweet": "2026 annual energy costs for consensus\n1. Bitcoin mining: $12B\n2. Solana staking: $45M\n3. Ethereum staking: $2M",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-07-22",
+        "status": "posted",
+        "tweet": "2026 construction value:\n\ud83c\uddfa\ud83c\uddf8 US $2.1 trillion\n\ud83c\udde8\ud83c\uddf3 China $3.9 trillion",
+        "type": "statistical",
+        "category": "construction projects"
     }
 ]
