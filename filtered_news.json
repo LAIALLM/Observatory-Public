@@ -2344,5 +2344,155 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddea Ireland Microsoft data centers consumed 920 GWh of energy in 2025.\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWHFrUnB4ZVI0NEdURlQ1SDhvQ2hwWkxQckQyVENkM1dNc2VCMXA4MXNrT3UzODUwdXFleXdBNnZabmJxdzB4bEVuX3QtOUlLQ0J2WTRKczFWN25QZHBYVXRNMmFXM29kcl9sbzdQOF9CekMyRV9mR2dweE44ZjFhazBPRm9YZlhpaUI5V3NTUjVHLXRnMUhzVzlVV1czZDg4ZTFzaQ?oc=5",
+        "date": "2026-07-23",
+        "title": "Young care leavers to gain work on major UK construction projects - Social Care Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQWHFrUnB4ZVI0NEdURlQ1SDhvQ2hwWkxQckQyVENkM1dNc2VCMXA4MXNrT3UzODUwdXFleXdBNnZabmJxdzB4bEVuX3QtOUlLQ0J2WTRKczFWN25QZHBYVXRNMmFXM29kcl9sbzdQOF9CekMyRV9mR2dweE44ZjFhazBPRm9YZlhpaUI5V3NTUjVHLXRnMUhzVzlVV1czZDg4ZTFzaQ?oc=5\" target=\"_blank\">Young care leavers to gain work on major UK construction projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Social Care Today</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRVRMR1otamlxeTlJendJUnVreDI5LVpmT2JEWHFCekw2TmtXS2NXZUhpVWhiUHFjQV94OUNjM3V1SVF5UDZVZmRFMWtVWmRMNkNJOERWLVAwWm5BbFNsaU1ucVRvR3d1NzNIZHRuWURYSFRVYWZyeU9HbUZIMGt5ZnplNGktZ3kxQUk5ejBWT2Q2UmRmSF9FbXhPTjEtOGlwLUdjVFhoN2JEZWRPaEp6QkpzOA?oc=5",
+        "date": "2026-07-23",
+        "title": "IBM CEO: Prices for a lot of infrastructure components have gone way up - CNBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPRVRMR1otamlxeTlJendJUnVreDI5LVpmT2JEWHFCekw2TmtXS2NXZUhpVWhiUHFjQV94OUNjM3V1SVF5UDZVZmRFMWtVWmRMNkNJOERWLVAwWm5BbFNsaU1ucVRvR3d1NzNIZHRuWURYSFRVYWZyeU9HbUZIMGt5ZnplNGktZ3kxQUk5ejBWT2Q2UmRmSF9FbXhPTjEtOGlwLUdjVFhoN2JEZWRPaEp6QkpzOA?oc=5\" target=\"_blank\">IBM CEO: Prices for a lot of infrastructure components have gone way up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSENDWEoyTktHb0VhdTJoMk4wc3cxTldVaGQyZUZmQkg4VkxRbXU0OHNzQThDaUU4b3pKaG9BanlGeU5CbkJmRzB1ektJa2lkMlpoZE1OUjVzNlNMLWdWUFIzTWRITHZpTU9jcHExdHoyVl9pSkxnVkR1YkxUeDJkQ1o3aUN6anBUd2pIS0d6Qmc3N0E4RW9uUU5wV2lKXzdHNzBPdzZ2UXRGVThEQ0Mxdw?oc=5",
+        "date": "2026-07-23",
+        "title": "Middlefield Global Infrastructure Dividend ETF Distributions - Yahoo Finance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPSENDWEoyTktHb0VhdTJoMk4wc3cxTldVaGQyZUZmQkg4VkxRbXU0OHNzQThDaUU4b3pKaG9BanlGeU5CbkJmRzB1ektJa2lkMlpoZE1OUjVzNlNMLWdWUFIzTWRITHZpTU9jcHExdHoyVl9pSkxnVkR1YkxUeDJkQ1o3aUN6anBUd2pIS0d6Qmc3N0E4RW9uUU5wV2lKXzdHNzBPdzZ2UXRGVThEQ0Mxdw?oc=5\" target=\"_blank\">Middlefield Global Infrastructure Dividend ETF Distributions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfSkZVZk96OXZxMlJrdjZrNS03ME1uMU9WRmdGSGtNUGFmUlh2aFl4eVV0aVV5V3h1WkpGVGQ5MWVvLWNST05WVXRmTXM2ZC1YVElZTHJKRjZyR2hEWlo2TERsNHlVWDYtWkpsaWlndTlpT3ZIeGc?oc=5",
+        "date": "2026-07-23",
+        "title": "Propel NY Energy finalizes Queens construction route for energy infrastructure project that could lower energy costs - qns.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBfSkZVZk96OXZxMlJrdjZrNS03ME1uMU9WRmdGSGtNUGFmUlh2aFl4eVV0aVV5V3h1WkpGVGQ5MWVvLWNST05WVXRmTXM2ZC1YVElZTHJKRjZyR2hEWlo2TERsNHlVWDYtWkpsaWlndTlpT3ZIeGc?oc=5\" target=\"_blank\">Propel NY Energy finalizes Queens construction route for energy infrastructure project that could lower energy costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qns.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYkJWb2Z3aDVyZFE5cTBaYmt3Z0NlQlU1bWhfWTcxdkV4VDY5d1B6RHN5WXV5cldSeFdlRU1rWks1UzN2ZWhETVZvanFUOXJDR1hiNXEtSHJZREl5Y1Z0RnZReG5ybV9ic1NHVEZkQ2M2eDJld085ZzNrMndLZDBDUkdhVzhDdi1jcnhrTTNwUENHdnpXME8xT1lkVDZvMndu?oc=5",
+        "date": "2026-07-23",
+        "title": "AI infrastructure systems power enterprise tech - SiliconANGLE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNYkJWb2Z3aDVyZFE5cTBaYmt3Z0NlQlU1bWhfWTcxdkV4VDY5d1B6RHN5WXV5cldSeFdlRU1rWks1UzN2ZWhETVZvanFUOXJDR1hiNXEtSHJZREl5Y1Z0RnZReG5ybV9ic1NHVEZkQ2M2eDJld085ZzNrMndLZDBDUkdhVzhDdi1jcnhrTTNwUENHdnpXME8xT1lkVDZvMndu?oc=5\" target=\"_blank\">AI infrastructure systems power enterprise tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUwxZ0JaRFVFdUF0RTNjbjJpQTNDX1ZxeElhaXU1ZDJReHlZVFVNeFNZb3Z1cG5LWFB3QVkzRk9yREpKVHp6aG1wLXN6ZGpnei1jMDdJQnN0Z2w1R1VJR216cDl4WElnVDc4SjhlRVV5blkzSVl4S3hOWHJKZjJyMlVxM0JkOUQyRVk3Zw?oc=5",
+        "date": "2026-07-23",
+        "title": "State Investing $83 Million To Upgrade Energy Infrastructure - Los Alamos Daily Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUwxZ0JaRFVFdUF0RTNjbjJpQTNDX1ZxeElhaXU1ZDJReHlZVFVNeFNZb3Z1cG5LWFB3QVkzRk9yREpKVHp6aG1wLXN6ZGpnei1jMDdJQnN0Z2w1R1VJR216cDl4WElnVDc4SjhlRVV5blkzSVl4S3hOWHJKZjJyMlVxM0JkOUQyRVk3Zw?oc=5\" target=\"_blank\">State Investing $83 Million To Upgrade Energy Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Alamos Daily Post</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3dmWmJGeXhQQzdoVWxsNVR4WDFLeDdjOUlwUHY0WW5BVDBRaWRwQzV1enk1WVFMc3JxeHpRbHcyU1pfaWJSWS1ESzlsREVfZU1JTmFYSGR3a2ZRYkZEZWVaYjRfaTMzRU03WVM5MkRUQTRucVdJdjdRSWh3ajhtcnItZzB4NzRXU0VwWmJLbTZwNWNPU21zaVAtTmoxV01sUjQzODJwcnVFRVk?oc=5",
+        "date": "2026-07-23",
+        "title": "Agentic AI compute fuels AMD cloud infrastructure gains - SiliconANGLE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3dmWmJGeXhQQzdoVWxsNVR4WDFLeDdjOUlwUHY0WW5BVDBRaWRwQzV1enk1WVFMc3JxeHpRbHcyU1pfaWJSWS1ESzlsREVfZU1JTmFYSGR3a2ZRYkZEZWVaYjRfaTMzRU03WVM5MkRUQTRucVdJdjdRSWh3ajhtcnItZzB4NzRXU0VwWmJLbTZwNWNPU21zaVAtTmoxV01sUjQzODJwcnVFRVk?oc=5\" target=\"_blank\">Agentic AI compute fuels AMD cloud infrastructure gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNalBBQjRhSVA2QlkycGx1MnJVVW8xd1NvbE5qZ1dxSXM4WUlIclk0NmlkVndBdExwVnZOdG5vb2dLdmNobDhiR1dGM2lOMXVJeFVhRm9WeldUWmhQSWZuc3dyLUt2RnlmbXlHdy1ubzBmeGJ2NVQyMkwzakViZGpsZDZzNC1JblQ1b1paOU00TW45aGNyT2RfVA?oc=5",
+        "date": "2026-07-23",
+        "title": "The Overlooked Infrastructure Play Quietly Winning the AI Boom - The Motley Fool",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNalBBQjRhSVA2QlkycGx1MnJVVW8xd1NvbE5qZ1dxSXM4WUlIclk0NmlkVndBdExwVnZOdG5vb2dLdmNobDhiR1dGM2lOMXVJeFVhRm9WeldUWmhQSWZuc3dyLUt2RnlmbXlHdy1ubzBmeGJ2NVQyMkwzakViZGpsZDZzNC1JblQ1b1paOU00TW45aGNyT2RfVA?oc=5\" target=\"_blank\">The Overlooked Infrastructure Play Quietly Winning the AI Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnZyNWg0dHFnbGxhS1NTTFUxd3NuVWFBQ1hobkYwRVdKLVhvbjVBNU5mZldmeUlXRDVnR0lrNHNrZjJPZmRBc2ZmT0taU3AwS3dSLXlIWTk3MWVNeWN4bmp3cE9KQ1BXbGNXUktWNWZtUHh4UW0wbHZSY1Y2V0FCcmM4ZXhDS3FfaWhmNGVrZEIxUmg4b2F6cEtTSU9YZ1U?oc=5",
+        "date": "2026-07-23",
+        "title": "Work to begin next week on downtown Greeley infrastructure project - BizWest",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnZyNWg0dHFnbGxhS1NTTFUxd3NuVWFBQ1hobkYwRVdKLVhvbjVBNU5mZldmeUlXRDVnR0lrNHNrZjJPZmRBc2ZmT0taU3AwS3dSLXlIWTk3MWVNeWN4bmp3cE9KQ1BXbGNXUktWNWZtUHh4UW0wbHZSY1Y2V0FCcmM4ZXhDS3FfaWhmNGVrZEIxUmg4b2F6cEtTSU9YZ1U?oc=5\" target=\"_blank\">Work to begin next week on downtown Greeley infrastructure project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BizWest</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ0d1VWNQc0N3VWRBN0pTV3hqV2otUkFNZnhWbm85OVlacW9fbm1wbk9weEsxbVNlSFVPS3pnNTN3Ml9objgwZldKVWpxNjM2Rm9aVmZGc1BrRURscXpNeHctekwwXzljV0tUVE5EUUs5c1FFOEpMN2stOThucmFoX3pWRXFkQnFxdEw5ZUlnUkVSUGdiaVpSQjZlOVY?oc=5",
+        "date": "2026-07-23",
+        "title": "Continuous authentication is the new trust infrastructure - Biometric Update",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ0d1VWNQc0N3VWRBN0pTV3hqV2otUkFNZnhWbm85OVlacW9fbm1wbk9weEsxbVNlSFVPS3pnNTN3Ml9objgwZldKVWpxNjM2Rm9aVmZGc1BrRURscXpNeHctekwwXzljV0tUVE5EUUs5c1FFOEpMN2stOThucmFoX3pWRXFkQnFxdEw5ZUlnUkVSUGdiaVpSQjZlOVY?oc=5\" target=\"_blank\">Continuous authentication is the new trust infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Biometric Update</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0l6MHE3MUtSYjMzQ3NkSkRHbjE1VUp3UTgzRnNxTGtJMFRHZWo3Wnp3ak13TVlhSkFaOWhuV3NyMkxRSldKMmlnelFTbEVTWmsyRzRBTmpWRlBWS1pmQ2xSb0lpRE5EYzNYd1VlUHBEdU5XODh0TWF2ZkN2SXBCdTZiaW04MWIxV00xRFZEbU56MEl0T1BnXzJna1FHZnFUZERXcA?oc=5",
+        "date": "2026-07-23",
+        "title": "Fastenal Company (FAST) Gains from Reshoring Trends and AI Infrastructure Buildout - Yahoo Finance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0l6MHE3MUtSYjMzQ3NkSkRHbjE1VUp3UTgzRnNxTGtJMFRHZWo3Wnp3ak13TVlhSkFaOWhuV3NyMkxRSldKMmlnelFTbEVTWmsyRzRBTmpWRlBWS1pmQ2xSb0lpRE5EYzNYd1VlUHBEdU5XODh0TWF2ZkN2SXBCdTZiaW04MWIxV00xRFZEbU56MEl0T1BnXzJna1FHZnFUZERXcA?oc=5\" target=\"_blank\">Fastenal Company (FAST) Gains from Reshoring Trends and AI Infrastructure Buildout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbExIQzBXcElrV3ExWS1JX1ZfMXRfai1vRl96aEh6MDlud2RkcTR4X0Z0T3gtaHVaX2VveHA2Zkk0eVJlQVdqY2Z3MDZlejAzcG52LUZwS0QxdnBteDZBazdmZHlMWjVUVmNXWWt2c2VWOEExZmJOektxaGhxQWxGOWRTTjNQVWotQ3cwdXc4VF9ROVhNbEpfU3FBQ21jeWdDeWg3Zm8wU0lOZGd2NXhpaURn?oc=5",
+        "date": "2026-07-23",
+        "title": "Trump warns US will target Iranian infrastructure if shipping attacks continue - KSHB 41 Kansas City",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbExIQzBXcElrV3ExWS1JX1ZfMXRfai1vRl96aEh6MDlud2RkcTR4X0Z0T3gtaHVaX2VveHA2Zkk0eVJlQVdqY2Z3MDZlejAzcG52LUZwS0QxdnBteDZBazdmZHlMWjVUVmNXWWt2c2VWOEExZmJOektxaGhxQWxGOWRTTjNQVWotQ3cwdXc4VF9ROVhNbEpfU3FBQ21jeWdDeWg3Zm8wU0lOZGd2NXhpaURn?oc=5\" target=\"_blank\">Trump warns US will target Iranian infrastructure if shipping attacks continue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSHB 41 Kansas City</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SdlRJbEt4VmlYcW1KZmlLQkZSQlM0TTdlR1dtY1FCdmY5QWJNTk9HN1c0eWJLN1JfYmxBQ21QbE1kZkxOVnBxNlp3d2tLaDVRWlJLbmhR?oc=5",
+        "date": "2026-07-23",
+        "title": "When you heard about the funds allocated for religious infrastructure what was your immediate reaction? I was shocked .... Public Commentator, Dan Azumi explains further Watch Full Interview on: https://youtu.be/VqPOMuo0tbc #trusttvnews - instagram.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SdlRJbEt4VmlYcW1KZmlLQkZSQlM0TTdlR1dtY1FCdmY5QWJNTk9HN1c0eWJLN1JfYmxBQ21QbE1kZkxOVnBxNlp3d2tLaDVRWlJLbmhR?oc=5\" target=\"_blank\">When you heard about the funds allocated for religious infrastructure what was your immediate reaction? I was shocked .... Public Commentator, Dan Azumi explains further Watch Full Interview on: https://youtu.be/VqPOMuo0tbc #trusttvnews</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">instagram.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TblI2WWpKaWgzZlFGZXRTMVp0bkJ4TU5qbWxNM01OMFpfbnNZYzk1QlE3VXRjM01vYnhsaEs5cTc4M0Y0QmYyclVUTDlpeE44czMw?oc=5",
+        "date": "2026-07-23",
+        "title": "\u2018Sentient cities\u2019 the next frontier in urban development, says experts - Gulf Daily News (Bahrain)",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TblI2WWpKaWgzZlFGZXRTMVp0bkJ4TU5qbWxNM01OMFpfbnNZYzk1QlE3VXRjM01vYnhsaEs5cTc4M0Y0QmYyclVUTDlpeE44czMw?oc=5\" target=\"_blank\">\u2018Sentient cities\u2019 the next frontier in urban development, says experts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf Daily News (Bahrain)</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmxRYjVSTUtCZVBXc091NTdxOE9faDNDMEVGWGswdURxZC0xaTBBdmN6QjEyYzlEajdYeUNGNFh2Ym5UbGFPei1zNGJOV0NrdVNhZl9TeGFaWnhzM1l6YWhFSFUzeTM0VVNnQ3VPc1U1ak9pSXpTaWl0NWJkTjdlR2lWd19LVXFtOG80SFZwMWFZd1ZrWDZTUm4xd1M0a1ljVGxHZA?oc=5",
+        "date": "2026-07-23",
+        "title": "Cabinet approves draft of Bogura Development Authority Act - daily-sun.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmxRYjVSTUtCZVBXc091NTdxOE9faDNDMEVGWGswdURxZC0xaTBBdmN6QjEyYzlEajdYeUNGNFh2Ym5UbGFPei1zNGJOV0NrdVNhZl9TeGFaWnhzM1l6YWhFSFUzeTM0VVNnQ3VPc1U1ak9pSXpTaWl0NWJkTjdlR2lWd19LVXFtOG80SFZwMWFZd1ZrWDZTUm4xd1M0a1ljVGxHZA?oc=5\" target=\"_blank\">Cabinet approves draft of Bogura Development Authority Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">daily-sun.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
