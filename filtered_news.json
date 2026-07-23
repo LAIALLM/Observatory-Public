@@ -2674,5 +2674,95 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzE0SDVZMVM2Y2xYNEdPYzBtQUMtXzNYODZLZTJiMDlvUDdkTERCd0FGT3pIa2dJZUdRSl9kSHVOSmdTOTZPWFBhZ25HR3BWWmprQ3FLU3pya3lsUnkydXFkU1EzTTdCeUdKSXFCb2loYkhobi1TQmYwZTZHTEFPa0JsbXJtMS1pT1hCdWZlMzNMS2twbk9ReUs1MHRPaVdMZVE?oc=5",
+        "date": "2026-07-23",
+        "title": "When Computing Becomes Societal Infrastructure: What Should ACM Become? - Communications of the ACM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzE0SDVZMVM2Y2xYNEdPYzBtQUMtXzNYODZLZTJiMDlvUDdkTERCd0FGT3pIa2dJZUdRSl9kSHVOSmdTOTZPWFBhZ25HR3BWWmprQ3FLU3pya3lsUnkydXFkU1EzTTdCeUdKSXFCb2loYkhobi1TQmYwZTZHTEFPa0JsbXJtMS1pT1hCdWZlMzNMS2twbk9ReUs1MHRPaVdMZVE?oc=5\" target=\"_blank\">When Computing Becomes Societal Infrastructure: What Should ACM Become?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications of the ACM</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbm1XMnlNajQtcThyU0VFTFhEd2M5enVjRjl2c3YwRHpoNnZlZTJzUFpTcXJFcHRpNFBSNDl2eF9ObzhUaVBSeV9ZNjQ2ZW9hSWpQOEtlZW1yaXB3S21ObVc1SW1xZ0JCMFREOHpCSFdBdjFaSFdqUlZEb1MxSGg5aQ?oc=5",
+        "date": "2026-07-23",
+        "title": "From tokens to tasks: Why agentic AI changes the infrastructure conversation - Arm Newsroom",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPbm1XMnlNajQtcThyU0VFTFhEd2M5enVjRjl2c3YwRHpoNnZlZTJzUFpTcXJFcHRpNFBSNDl2eF9ObzhUaVBSeV9ZNjQ2ZW9hSWpQOEtlZW1yaXB3S21ObVc1SW1xZ0JCMFREOHpCSFdBdjFaSFdqUlZEb1MxSGg5aQ?oc=5\" target=\"_blank\">From tokens to tasks: Why agentic AI changes the infrastructure conversation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arm Newsroom</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTBsZGJFdDBhM09jbFBMWm8yZThpUnlhLVp3Zjh3VUdXVFBiUkVJa3IxU1Y0OTE4X29EVHozbjZVTEh3SElKOE9ON195RWdaYWx0RU1tMy04VGNxWkc3RFFVeUZYdTlKckRmelh2dXM0dUdVdFptVkFnZTVEb3Y5TTZMVmJVcHhXMW11enlXMmNoS3NWZDFsS0xuU05nNjRuUElsNXNGV0VvSkVZNVBrTFBIOVZPc0tLNi1wQkhNbWdXREgxbU56VW5zREFYQQ?oc=5",
+        "date": "2026-07-23",
+        "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs - VentureBeat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTBsZGJFdDBhM09jbFBMWm8yZThpUnlhLVp3Zjh3VUdXVFBiUkVJa3IxU1Y0OTE4X29EVHozbjZVTEh3SElKOE9ON195RWdaYWx0RU1tMy04VGNxWkc3RFFVeUZYdTlKckRmelh2dXM0dUdVdFptVkFnZTVEb3Y5TTZMVmJVcHhXMW11enlXMmNoS3NWZDFsS0xuU05nNjRuUElsNXNGV0VvSkVZNVBrTFBIOVZPc0tLNi1wQkhNbWdXREgxbU56VW5zREFYQQ?oc=5\" target=\"_blank\">The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0NEXzh5VHBLUnFwaXl2b0RvRWliT2V6cnBxb2hzUF9DcHdvZENIbTdnMlZ0NVQzZUtIM2Rpa1lFUUh5Z2l1NmI0dzBEUUVhVXUwMWNFd0VMSzJDVUJuTHQ0ZWl1amRJZ1RiS3g1MFNCdDJSbjRjci1BWVJkSDBVcVU2SURPLVVmUURMcEFzU2lnbzJjOXRsR3lyTkIzU291RUNNcEt3?oc=5",
+        "date": "2026-07-23",
+        "title": "AMD partners with Cerebras for ultra-low latency AI infrastructure - IT Pro",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0NEXzh5VHBLUnFwaXl2b0RvRWliT2V6cnBxb2hzUF9DcHdvZENIbTdnMlZ0NVQzZUtIM2Rpa1lFUUh5Z2l1NmI0dzBEUUVhVXUwMWNFd0VMSzJDVUJuTHQ0ZWl1amRJZ1RiS3g1MFNCdDJSbjRjci1BWVJkSDBVcVU2SURPLVVmUURMcEFzU2lnbzJjOXRsR3lyTkIzU291RUNNcEt3?oc=5\" target=\"_blank\">AMD partners with Cerebras for ultra-low latency AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IT Pro</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOGVvMkt2eGlJbWFaNlpvSmNYT0pEeVF0UEdCWmVpRS05MFcyTkdydTQ0U1M2UjNtOGZNdC1nTmJoVEFMSkxXSXdVZ1o0SmZ5aWhybnYxbEVlLTF2R0I2TFhfeml6REM5ZWZuNHJCRFNldnFZdm5jYkpLeEYxS01mQTdid2NQcjhrYTFKSllaRWdfTXpYOEJ5Uks3a1liUUlmN0lQS1pSLVRGZ1FLdi1sS0dzWUhZUTZmRWZzdmp4MmIyenlWTTdwV3pwcXNIbVRYbm01OQ?oc=5",
+        "date": "2026-07-23",
+        "title": "Engadine Consolidated Schools Receives $8.15 Million in State Grants for Infrastructure Improvements - The St. Ignace News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOGVvMkt2eGlJbWFaNlpvSmNYT0pEeVF0UEdCWmVpRS05MFcyTkdydTQ0U1M2UjNtOGZNdC1nTmJoVEFMSkxXSXdVZ1o0SmZ5aWhybnYxbEVlLTF2R0I2TFhfeml6REM5ZWZuNHJCRFNldnFZdm5jYkpLeEYxS01mQTdid2NQcjhrYTFKSllaRWdfTXpYOEJ5Uks3a1liUUlmN0lQS1pSLVRGZ1FLdi1sS0dzWUhZUTZmRWZzdmp4MmIyenlWTTdwV3pwcXNIbVRYbm01OQ?oc=5\" target=\"_blank\">Engadine Consolidated Schools Receives $8.15 Million in State Grants for Infrastructure Improvements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The St. Ignace News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLU40V3ZhTFJJSjFSZ3FrWVA4dTYwTEZSN1RvMldZM0ZUNnhiMFFPU3V2bWliN2lwdmh0elIzUmJRQ3I1SUZfeVdDa01nODM4NEhRNE41OGVsX0hPcG5mcko2VUNDWlNIUmwwSTBPNFNBcXk5UmlKTFhnd3JRWWF2Y3dzOE52UElzS1pFUzFNYmxzSE9JMXJvZEVFWFhUNllFRHJSTC1WM1RmTnhHM1lKT2RkOEZkZ29rdW9OcV9VU283VExlbVZnbWhoenlNeF9XUVFR?oc=5",
+        "date": "2026-07-23",
+        "title": "QUICK SPARK: Partners Group Raises $5.5B As Infrastructure Secondaries Boom - Benzinga",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLU40V3ZhTFJJSjFSZ3FrWVA4dTYwTEZSN1RvMldZM0ZUNnhiMFFPU3V2bWliN2lwdmh0elIzUmJRQ3I1SUZfeVdDa01nODM4NEhRNE41OGVsX0hPcG5mcko2VUNDWlNIUmwwSTBPNFNBcXk5UmlKTFhnd3JRWWF2Y3dzOE52UElzS1pFUzFNYmxzSE9JMXJvZEVFWFhUNllFRHJSTC1WM1RmTnhHM1lKT2RkOEZkZ29rdW9OcV9VU283VExlbVZnbWhoenlNeF9XUVFR?oc=5\" target=\"_blank\">QUICK SPARK: Partners Group Raises $5.5B As Infrastructure Secondaries Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTXZIY1FJOHNSUnZOWUlCWW40T3hlNGs0dEpLWHBkQnJrMlhmemJUbGtxS1RvYkpNUjByZlV6SzI0LVVhWDVPWjhsU3RwTXhFLUV5dENEcFY2UWZhb09UVHZfYmRiSUlQSXNFd2RZd2FEb0tlUVp4Z1FRWTdPZF9VUXowdzR4X2tRSnJSdThkcy1kcXp5VG5BOXAxZlp4OXpEOVlST2tiLUpBX0ZWUi10QndobVZLUG53VHJWYWdzTVBsbjJUOXQ3ZVVCTFlETjQ?oc=5",
+        "date": "2026-07-23",
+        "title": "\"Meanwhile, a meaningful opposition movement is quietly gaining ground. Local resistance has become influential enough that some analysts now rank community pushback as one of the biggest risks facing AI infrastructure expansion, and one widely cited tr - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPTXZIY1FJOHNSUnZOWUlCWW40T3hlNGs0dEpLWHBkQnJrMlhmemJUbGtxS1RvYkpNUjByZlV6SzI0LVVhWDVPWjhsU3RwTXhFLUV5dENEcFY2UWZhb09UVHZfYmRiSUlQSXNFd2RZd2FEb0tlUVp4Z1FRWTdPZF9VUXowdzR4X2tRSnJSdThkcy1kcXp5VG5BOXAxZlp4OXpEOVlST2tiLUpBX0ZWUi10QndobVZLUG53VHJWYWdzTVBsbjJUOXQ3ZVVCTFlETjQ?oc=5\" target=\"_blank\">\"Meanwhile, a meaningful opposition movement is quietly gaining ground. Local resistance has become influential enough that some analysts now rank community pushback as one of the biggest risks facing AI infrastructure expansion, and one widely cited tr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcEJRcDNPeDFIUXJydlIzSXlnakR3SWJnQW8yVzlKYnhsa1RkelZ2MTI0aWFBSzNGUEpZYWpsSm9pMGlsWFpaMUtzVkthRmVSVU9DVi16bXBhRXdwa3RZOTctOVJrczk2WU9VMHd4d0tvSDlfTzZRRkFIVlVOdnRmV0ZWZDdtdHYzWFpPb3Rvb0NleEtyWnlCUGNWVVJhLWlJZUtySVg5R3ByZw?oc=5",
+        "date": "2026-07-23",
+        "title": "Minister advocates strong regulatory framework to reform Nigeria\u2019s housing sector - The Guardian Nigeria News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcEJRcDNPeDFIUXJydlIzSXlnakR3SWJnQW8yVzlKYnhsa1RkelZ2MTI0aWFBSzNGUEpZYWpsSm9pMGlsWFpaMUtzVkthRmVSVU9DVi16bXBhRXdwa3RZOTctOVJrczk2WU9VMHd4d0tvSDlfTzZRRkFIVlVOdnRmV0ZWZDdtdHYzWFpPb3Rvb0NleEtyWnlCUGNWVVJhLWlJZUtySVg5R3ByZw?oc=5\" target=\"_blank\">Minister advocates strong regulatory framework to reform Nigeria\u2019s housing sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian Nigeria News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORk9vMEx2dXh2SFdVaUdiOTVxZUx4Ui01RDRSSy1yZmZZN05BZjBWdXFHWUI1Y3B3SlNvb2g3bEhvNktvTzJ5eXR6SkdlVUJ6bXBlbE9jNHF2RVJCdFg4Q1JBdmh4M0tQMDRHX21TbDcwb2YzajB6dXZuTDZlMUdVUnVmREZibUZ2ZVZxMkV1dDd4Y3BVZVZROEJ3R085cURfVDNPOVVNLVk5c09OWTA5QlUzNk1jUzdDcEtaYWdyYjhjVkRLdndESVd2LXlwdkRZS0pHRWZQME5pY2VJVk4ydnQzR3V2SzhQQXc?oc=5",
+        "date": "2026-07-23",
+        "title": "Smart Has Finally Revealed Its Awesome City Car Prototype, But As Smart's Biggest Fan, There's One Thing That Makes Me Really Sad - The Autopian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxORk9vMEx2dXh2SFdVaUdiOTVxZUx4Ui01RDRSSy1yZmZZN05BZjBWdXFHWUI1Y3B3SlNvb2g3bEhvNktvTzJ5eXR6SkdlVUJ6bXBlbE9jNHF2RVJCdFg4Q1JBdmh4M0tQMDRHX21TbDcwb2YzajB6dXZuTDZlMUdVUnVmREZibUZ2ZVZxMkV1dDd4Y3BVZVZROEJ3R085cURfVDNPOVVNLVk5c09OWTA5QlUzNk1jUzdDcEtaYWdyYjhjVkRLdndESVd2LXlwdkRZS0pHRWZQME5pY2VJVk4ydnQzR3V2SzhQQXc?oc=5\" target=\"_blank\">Smart Has Finally Revealed Its Awesome City Car Prototype, But As Smart's Biggest Fan, There's One Thing That Makes Me Really Sad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Autopian</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
