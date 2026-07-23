@@ -2764,5 +2764,55 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc2dlTERnd2k4YXF1TFdXZ3hjWXVVYlhFNUFpaENtUjU3VTNyX1ljU3Q1Vzg0VzBJbkFYVGVwWnZmR0VwQ1kyZWhUcVpmX2RpazdtTGlCLVNVcjh3d3g0YVg0MjNIc2JsYjJuUjl5WEVQRXNQMlBoUWNNV1dkT1pfTmREdkpHYllNZVYtcVJFZVUzNU1hRGZ0Y0xmY0UyOS1yVUNKWG1VVmw3LVdLOGJZTjdaYVNqTnZzdjZHOHV2SWpidXZmWnZycjY2VGlDODF0WWJqcVEwdVlPNE1hOUt6WWh3?oc=5",
+        "date": "2026-07-23",
+        "title": "Utilities set to spend $1.1T on grid infrastructure as electrification drives five-year investment surge - MarketScale",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc2dlTERnd2k4YXF1TFdXZ3hjWXVVYlhFNUFpaENtUjU3VTNyX1ljU3Q1Vzg0VzBJbkFYVGVwWnZmR0VwQ1kyZWhUcVpmX2RpazdtTGlCLVNVcjh3d3g0YVg0MjNIc2JsYjJuUjl5WEVQRXNQMlBoUWNNV1dkT1pfTmREdkpHYllNZVYtcVJFZVUzNU1hRGZ0Y0xmY0UyOS1yVUNKWG1VVmw3LVdLOGJZTjdaYVNqTnZzdjZHOHV2SWpidXZmWnZycjY2VGlDODF0WWJqcVEwdVlPNE1hOUt6WWh3?oc=5\" target=\"_blank\">Utilities set to spend $1.1T on grid infrastructure as electrification drives five-year investment surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScale</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdU5CcWhFaHQ0T29EM3dBZmtJNzVyYWstVUdwR1BkOWVObGFOSDZNM1dIbEZBNDZtSVFIWjhOSGt2SGhTR1ZFcTN5VDF5LTczeVFBUGhPeno4R3NRa1dSVnNnb2VoRHE0UWNydUx3b3pHYkxNRHM5QjJZY09pNDBDbU9FU1hpWFhTSUp3aDVkSG5wVlBHdkJjd3VpQ0RsSHUyMFdIZERxX3AtZnNuSEVLLVg5ZkNrbVlkMFRIMEQ3Sm9XMThQTUwyeDNHT1ZfNHMySEJGck5IMDFYejdKU0RnVDMzc29wYmo2cDZ0NGUtUmNOWS1HWl9YOTZMaVhCdw?oc=5",
+        "date": "2026-07-23",
+        "title": "Trees are \u201cliving infrastructure\u201d: Michigan DNR explains why watering matters during extreme heat - WKAR Public Media",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdU5CcWhFaHQ0T29EM3dBZmtJNzVyYWstVUdwR1BkOWVObGFOSDZNM1dIbEZBNDZtSVFIWjhOSGt2SGhTR1ZFcTN5VDF5LTczeVFBUGhPeno4R3NRa1dSVnNnb2VoRHE0UWNydUx3b3pHYkxNRHM5QjJZY09pNDBDbU9FU1hpWFhTSUp3aDVkSG5wVlBHdkJjd3VpQ0RsSHUyMFdIZERxX3AtZnNuSEVLLVg5ZkNrbVlkMFRIMEQ3Sm9XMThQTUwyeDNHT1ZfNHMySEJGck5IMDFYejdKU0RnVDMzc29wYmo2cDZ0NGUtUmNOWS1HWl9YOTZMaVhCdw?oc=5\" target=\"_blank\">Trees are \u201cliving infrastructure\u201d: Michigan DNR explains why watering matters during extreme heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKAR Public Media</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNFBLSTBvMTNneFZYd2NrZlhHUnFjZE5ZcnVTVTlqbF9VS0ZRVGYteWd1cDJnWGxDV0VuMWZIQWg1eTJMWVlJTHZaYnVVemJzaG1yWU11QWVJUUhLdVIzVmxvTGtLVzlJWUpDWUotc29PZWFOVVJDVENFdDhKVS1aSkkwanVTUTFYOFczZ0ptTHBxT1o2eFVCMTVvdlBtdw?oc=5",
+        "date": "2026-07-23",
+        "title": "New Mexico State lands $31.2M to modernize electric grid research facility - The Business Journals",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNNFBLSTBvMTNneFZYd2NrZlhHUnFjZE5ZcnVTVTlqbF9VS0ZRVGYteWd1cDJnWGxDV0VuMWZIQWg1eTJMWVlJTHZaYnVVemJzaG1yWU11QWVJUUhLdVIzVmxvTGtLVzlJWUpDWUotc29PZWFOVVJDVENFdDhKVS1aSkkwanVTUTFYOFczZ0ptTHBxT1o2eFVCMTVvdlBtdw?oc=5\" target=\"_blank\">New Mexico State lands $31.2M to modernize electric grid research facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQMEZyREFIMUVkVFJEcUd0RVp5RS1aNkIzR2p5aHdScDU2bnB3UGg0UXJMSmdNVDIzZmlhaEVlM1k0cnhBQnRJYlhYcDllUE96b19vZDJ5a04xT0ZBQmd1UE1qcElVZEJnaXQzQzBGZ1VFQWh0U1hRZ21Yd01KcHJjRjNNQ3lkQVZzUjdNUVdUMTN5WVpGVEZhRHNibGpkQXNsUVVNNVJHNmNNTEU2enIzY00waDZlbGFOV0NKTXZDTEZuWHEwRlJfcEFrODNDeTlPdkV2VGJNZmJxNDJuYmZiaVdLME5vcTh4Q2RDSjZkRG9IUU90OGM3N04yS2EwN282SFZiRVExaTV5N3haMjNBNDR3?oc=5",
+        "date": "2026-07-23",
+        "title": "MXL: Q2 revenue up 55% year-over-year, with infrastructure driving robust growth and higher guidance - TradingView",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQMEZyREFIMUVkVFJEcUd0RVp5RS1aNkIzR2p5aHdScDU2bnB3UGg0UXJMSmdNVDIzZmlhaEVlM1k0cnhBQnRJYlhYcDllUE96b19vZDJ5a04xT0ZBQmd1UE1qcElVZEJnaXQzQzBGZ1VFQWh0U1hRZ21Yd01KcHJjRjNNQ3lkQVZzUjdNUVdUMTN5WVpGVEZhRHNibGpkQXNsUVVNNVJHNmNNTEU2enIzY00waDZlbGFOV0NKTXZDTEZuWHEwRlJfcEFrODNDeTlPdkV2VGJNZmJxNDJuYmZiaVdLME5vcTh4Q2RDSjZkRG9IUU90OGM3N04yS2EwN282SFZiRVExaTV5N3haMjNBNDR3?oc=5\" target=\"_blank\">MXL: Q2 revenue up 55% year-over-year, with infrastructure driving robust growth and higher guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/63350-insurers-consider-impacts-of-troubled-nyc-tower-on-office-to-residential-marketplace",
+        "date": "2026-07-23",
+        "title": "Insurers Consider Impacts of Troubled NYC Tower on Office-to-Residential Marketplace",
+        "summary": "While the investigation dig into what caused a pair of columns to buckle on a New York City office tower conversion, insurers and other risk management experts are keeping a close eye on whether the incident will spur more stringent regulations for similar projects.",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
