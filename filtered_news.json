@@ -2312,5 +2312,12 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-24",
+        "status": "posted",
+        "tweet": "\ud83c\udde9\ud83c\uddea Google data centers in Frankfurt processed 2.4 exabytes of data per day in Q4 2025.\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
