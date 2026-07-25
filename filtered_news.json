@@ -2204,5 +2204,12 @@
         "status": "posted",
         "tweet": "Microsoft $MSFT data centers in \ud83c\uddee\ud83c\uddea Ireland maintain 1.12 average PUE.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-25",
+        "status": "posted",
+        "tweet": "2026 cloud & data center costs\n1. Solana: $240M\n2. Ethereum: $110M\n3. Bitcoin: $45M",
+        "type": "crypto"
     }
 ]
