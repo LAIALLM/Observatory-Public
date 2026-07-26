@@ -1875,5 +1875,12 @@
         "status": "posted",
         "tweet": "2026 cloud & data center costs\n1. Solana: $240M\n2. Ethereum: $110M\n3. Bitcoin: $45M",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-07-26",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 United States controls 42% of Bitcoin hashrate in 2026, concentrating $2.8 billion in annual infrastructure and energy facility costs.",
+        "type": "crypto"
     }
 ]
