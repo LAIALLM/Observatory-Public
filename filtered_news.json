@@ -1891,5 +1891,12 @@
         "status": "posted",
         "tweet": "Microsoft Azure \ud83c\uddfa\ud83c\uddf8 Virginia region delivered 1.4 exabytes of daily storage throughput in Q4 2025.\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-27",
+        "status": "posted",
+        "tweet": "Network electricity consumption trends 2020-2026 (TWh/year)\n\n1. Bitcoin: 140 TWh, up 180%\n2. Ethereum: 0.01 TWh, down 99.9% post-2022\n3. Solana: 0.0005 TWh, flat",
+        "type": "crypto"
     }
 ]
