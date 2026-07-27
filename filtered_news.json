@@ -1898,5 +1898,12 @@
         "status": "posted",
         "tweet": "Network electricity consumption trends 2020-2026 (TWh/year)\n\n1. Bitcoin: 140 TWh, up 180%\n2. Ethereum: 0.01 TWh, down 99.9% post-2022\n3. Solana: 0.0005 TWh, flat",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-07-27",
+        "status": "posted",
+        "tweet": "Google data centers achieved 1.08 PUE efficiency in 2025. $GOOGL",
+        "type": "infrastructure"
     }
 ]
