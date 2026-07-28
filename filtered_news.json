@@ -2041,5 +2041,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-28",
+        "status": "posted",
+        "tweet": "Microsoft's \ud83c\uddf3\ud83c\uddf1 Netherlands data centers delivered 6.7 exabytes of daily throughput.",
+        "type": "infrastructure"
     }
 ]
