@@ -2173,5 +2173,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-29",
+        "status": "posted",
+        "tweet": "Annual electricity spend trends 2019-2026\n1. Bitcoin: $3.2B to $11.5B\n2. Ethereum: $1.1B to $0.2B\n3. Solana: $0.01B to $0.06B",
+        "type": "crypto"
     }
 ]
