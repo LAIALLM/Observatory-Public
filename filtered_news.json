@@ -2363,5 +2363,12 @@
         "status": "posted",
         "tweet": "AWS data centers in \ud83c\uddfa\ud83c\uddf8 Virginia processed 65 zettabytes of traffic in 2025. $AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-07-30",
+        "status": "posted",
+        "tweet": "Bitcoin mining: 140 TWh electricity per year\nEthereum staking: 0.002 TWh per year\n\n70,000x lower energy infrastructure cost for staking",
+        "type": "crypto"
     }
 ]
