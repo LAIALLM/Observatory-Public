@@ -1751,5 +1751,15 @@
         "status": "posted",
         "tweet": "Bitcoin mining infrastructure consumes over 100 TWh of electricity yearly.  \nEthereum staking uses under 0.01 TWh for network security.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSW1LMk9fS3YxQnM4RlJiTmgzcDJ4ajVOV2pZZkhlS2RPeWFNZ0Q1WmhFd0l3bjJHWUFiejRZUS1lQU5vZExxUHRYN0ZsazRrenVNWHVFd0VmUHpxeVpHbmNVXzRLVWFmVGlLU2trdk14Nm5rRTluR0JZLTFVcy1weThSeVdjTlZLaVRV0gGQAUFVX3lxTE1GS2dwZ0JLbFVyZGcybjlxWkx4bWwwSlVrdVhHM2h1bTBkZldPTWhUQndtbnhFQ3NRcWRJZndvTEZVR2pjTzdwdjNFbTlvb0NIc0tZWHNhVFh2STBfRmsyYkZ0OUJ1bHRqWkFfank1c25IN0ltNmR4NFhGUHFVbG5qU0tMS0RxakNaZHdqengybw?oc=5",
+        "date": "2026-08-01",
+        "title": "Report: US and Israel weighing attacks on Iran infrastructure - newsnationnow.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSW1LMk9fS3YxQnM4RlJiTmgzcDJ4ajVOV2pZZkhlS2RPeWFNZ0Q1WmhFd0l3bjJHWUFiejRZUS1lQU5vZExxUHRYN0ZsazRrenVNWHVFd0VmUHpxeVpHbmNVXzRLVWFmVGlLU2trdk14Nm5rRTluR0JZLTFVcy1weThSeVdjTlZLaVRV0gGQAUFVX3lxTE1GS2dwZ0JLbFVyZGcybjlxWkx4bWwwSlVrdVhHM2h1bTBkZldPTWhUQndtbnhFQ3NRcWRJZndvTEZVR2pjTzdwdjNFbTlvb0NIc0tZWHNhVFh2STBfRmsyYkZ0OUJ1bHRqWkFfank1c25IN0ltNmR4NFhGUHFVbG5qU0tMS0RxakNaZHdqengybw?oc=5\" target=\"_blank\">Report: US and Israel weighing attacks on Iran infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsnationnow.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
