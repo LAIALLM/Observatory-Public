@@ -1791,5 +1791,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-01",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India's freight rail corridors reach 3,300 km by 2026, surpassing \ud83c\uddef\ud83c\uddf5 Japan's Shinkansen at 2,900 km.",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
