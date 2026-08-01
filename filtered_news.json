@@ -2272,5 +2272,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Brookfield and NextEra plan to build a $100B data center-power complex at a former Kentucky uranium enrichment site.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-07-31",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US urban development firms secured 48B USD in 2026 contracts.\n\n\ud83c\udde8\ud83c\uddf3 China firms secured 95B USD.",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
