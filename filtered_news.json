@@ -1799,5 +1799,12 @@
         "tweet": "\ud83c\uddee\ud83c\uddf3 India's freight rail corridors reach 3,300 km by 2026, surpassing \ud83c\uddef\ud83c\uddf5 Japan's Shinkansen at 2,900 km.",
         "type": "statistical",
         "category": "infrastructural projects"
+    },
+    {
+        "link": null,
+        "date": "2026-08-01",
+        "status": "posted",
+        "tweet": "Microsoft data centers in \ud83c\uddfa\ud83c\uddf8 Virginia used 7.8 TWh of power in 2025.  \n$MSFT",
+        "type": "infrastructure"
     }
 ]
