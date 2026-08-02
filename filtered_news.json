@@ -1336,5 +1336,36 @@
         "status": "posted",
         "tweet": "Microsoft $MSFT \ud83c\uddfa\ud83c\uddf8 Virginia data centers processed 1.4 exabytes daily.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BY3VRQ2JUNFYwWDBWaEtjS1hoVXJZQ2tEVE9KS3FuVnRUdjFvbE5QWDkxTTJiNXVhMXNzbHYxZ2ttU2FvRmE2cWtYQm5EQmw5eHg4OF9tVmdjd1RwWkRPeGhLSjhCYzE2TmNQWG5XTy0?oc=5",
+        "date": "2026-08-02",
+        "title": "Srinagar gets \u20b919.61 Cr sewer network - Brighter Kashmir",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9BY3VRQ2JUNFYwWDBWaEtjS1hoVXJZQ2tEVE9KS3FuVnRUdjFvbE5QWDkxTTJiNXVhMXNzbHYxZ2ttU2FvRmE2cWtYQm5EQmw5eHg4OF9tVmdjd1RwWkRPeGhLSjhCYzE2TmNQWG5XTy0?oc=5\" target=\"_blank\">Srinagar gets \u20b919.61 Cr sewer network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brighter Kashmir</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/63407-corps-of-engineers-outlines-10b-plan-to-protect-bostons-coastline",
+        "date": "2026-08-02",
+        "title": "Corps of Engineers Outlines $10B Plan to Protect Boston's Coastline",
+        "summary": "Analysis, which scopes at least 20 infrastructure projects along 16 miles of the 47-mile urban coastline where flooding is expected to impact public safety and the local economy, was released jointly with the city on July 24.",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: US Army Corps of Engineers outlines $10B plan with at least 20 infrastructure projects along 16 miles of Boston coastline to protect against flooding."
+    },
+    {
+        "link": "https://www.enr.com/articles/63407-corps-of-engineers-outlines-10b-plan-to-protect-bostons-coastline",
+        "date": "2026-08-02",
+        "title": "Corps of Engineers Outlines $10B Plan to Protect Boston's Coastline",
+        "summary": "Analysis, which scopes at least 20 infrastructure projects along 16 miles of the 47-mile urban coastline where flooding is expected to impact public safety and the local economy, was released jointly with the city on July 24.",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Corps of Engineers outlines $10B plan to protect Bostons coastline with at least 20 infrastructure projects along 16 miles of the 47-mile urban shore, released jointly with the city on July 24.",
+        "type": "news"
     }
 ]
