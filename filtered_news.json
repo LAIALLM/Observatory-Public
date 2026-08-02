@@ -1367,5 +1367,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Corps of Engineers outlines $10B plan to protect Bostons coastline with at least 20 infrastructure projects along 16 miles of the 47-mile urban shore, released jointly with the city on July 24.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-08-02",
+        "status": "posted",
+        "tweet": "2026 scalability infra costs (B USD)\n1. Bitcoin 3.8\n2. Ethereum 0.9\n3. Solana 0.2",
+        "type": "crypto"
     }
 ]
