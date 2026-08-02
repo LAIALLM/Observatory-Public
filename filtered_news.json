@@ -1329,5 +1329,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-02",
+        "status": "posted",
+        "tweet": "Microsoft $MSFT \ud83c\uddfa\ud83c\uddf8 Virginia data centers processed 1.4 exabytes daily.",
+        "type": "infrastructure"
     }
 ]
