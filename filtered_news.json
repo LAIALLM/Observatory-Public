@@ -1511,5 +1511,12 @@
         "status": "posted",
         "tweet": "Amazon Web Services processed 20 exabytes of daily data volume across \ud83c\uddfa\ud83c\uddf8 United States regions.\n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-05",
+        "status": "posted",
+        "tweet": "Bitcoin: 1.2 GW cloud power, $1.4B annual data center cost\nEthereum: 85 MW, $95M/year",
+        "type": "crypto"
     }
 ]
