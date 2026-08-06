@@ -1831,5 +1831,13 @@
         "status": "posted",
         "tweet": "NEWS: Death Valley announces a $69.5 million water infrastructure project.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-08-05",
+        "status": "posted",
+        "tweet": "2026 EV new vehicle sales share forecast\n\n1. \ud83c\uddf3\ud83c\uddf4 Norway 92%\n2. \ud83c\udde8\ud83c\uddf3 China 74%\n3. \ud83c\uddf3\ud83c\uddf1 Netherlands 67%\n4. \ud83c\udde9\ud83c\uddea Germany 53%\n5. \ud83c\uddeb\ud83c\uddf7 France 49%",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
