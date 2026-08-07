@@ -1505,5 +1505,55 @@
         "status": "posted",
         "tweet": "Microsoft $MSFT \ud83c\uddee\ud83c\uddea data centers reached 1.07 PUE efficiency in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNS0ySVF4LWw2OEZSNXlZUFBQSjhsWEw4RHRUVGt6aWwyb3Vkbk9XZmRFeDRHQU13VlFpMGpvX0QzVG1ZcWxfVDhocGdWb0ZwekE3WkZQeEEyY3NCMGI5ZjN5YmZTeTRyanp6alBsd2V1SUM5YW1QR3ZTOHFrQm5MOVF5VHNIeFJrSTZkU3ZaZXhYTGRTeWNMQ21FMGl6X25vRDBaMElzWGdEbmFrV09NSDU5MENqcVpxbTVB?oc=5",
+        "date": "2026-08-07",
+        "title": "Construction giant warns capability, not capacity, is construction's next challenge amid Queensland's $127.5 billion pipeline - Architecture & Design",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNS0ySVF4LWw2OEZSNXlZUFBQSjhsWEw4RHRUVGt6aWwyb3Vkbk9XZmRFeDRHQU13VlFpMGpvX0QzVG1ZcWxfVDhocGdWb0ZwekE3WkZQeEEyY3NCMGI5ZjN5YmZTeTRyanp6alBsd2V1SUM5YW1QR3ZTOHFrQm5MOVF5VHNIeFJrSTZkU3ZaZXhYTGRTeWNMQ21FMGl6X25vRDBaMElzWGdEbmFrV09NSDU5MENqcVpxbTVB?oc=5\" target=\"_blank\">Construction giant warns capability, not capacity, is construction's next challenge amid Queensland's $127.5 billion pipeline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Architecture & Design</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc0N1YjVLVUc3NHRmallKX3FneUpUdENDZlJLTVNucmt4aTRHVjRIUFJMRm9SNmZFeW5fQ2V1czZRN1ZoOS1XSmFHNkZXS3dBUXZVb1VwVzFvby1MMFdvYThCeXM0SFN2SzM1SHYwcFp4MDktMHJBSnd0V0p0NTNrYg?oc=5",
+        "date": "2026-08-07",
+        "title": "Innovate Corp (VATE) (Q2 2026) Earnings Call Highlights: Record Infrastructure Performance and ... - Yahoo Finance UK",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNc0N1YjVLVUc3NHRmallKX3FneUpUdENDZlJLTVNucmt4aTRHVjRIUFJMRm9SNmZFeW5fQ2V1czZRN1ZoOS1XSmFHNkZXS3dBUXZVb1VwVzFvby1MMFdvYThCeXM0SFN2SzM1SHYwcFp4MDktMHJBSnd0V0p0NTNrYg?oc=5\" target=\"_blank\">Innovate Corp (VATE) (Q2 2026) Earnings Call Highlights: Record Infrastructure Performance and ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZWdyZWdNcVhpMEdoYm10R2xCMFU5UThLNXBrSXFHdlNMNkZyYU9zTk1yeTdWT2o3M20xeWlkekdYZGxmVjNrVGIyZGxhU3QtajBSN2ptSW9tMUd1Z0dhSVFoRDBkajdNM1hMZVY3TDFEclVnM2kzS3RCdVFYR0ZoVkRVTzVGUm8?oc=5",
+        "date": "2026-08-07",
+        "title": "Akamai Technologies Inc (AKAM) (Q2 2026) Earnings Call Highlights: Record Cloud Infrastructure ... - Yahoo Finance UK",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZWdyZWdNcVhpMEdoYm10R2xCMFU5UThLNXBrSXFHdlNMNkZyYU9zTk1yeTdWT2o3M20xeWlkekdYZGxmVjNrVGIyZGxhU3QtajBSN2ptSW9tMUd1Z0dhSVFoRDBkajdNM1hMZVY3TDFEclVnM2kzS3RCdVFYR0ZoVkRVTzVGUm8?oc=5\" target=\"_blank\">Akamai Technologies Inc (AKAM) (Q2 2026) Earnings Call Highlights: Record Cloud Infrastructure ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ3VKQ2txdkdLZC01X0laelA2b0ZScElWeDRqZ0hVVHIzNElTLVVNR0RfTFlFT0czUU9tWGlucVAxOFJQOFg2V0Z2RTFXa2dtUk9XeXJXdDdqekxxQmV0cnFJQzFrT1VTcm9zdDI0TzZrTVhLRTg5V0lxZ3AzaWJVemc3N1BydWpLY2tqM1dZUW9JajF4RndhRFhjSmVHNkxFU2pITGJrQVY4UWViR1U4a1M3R1BLcjF0ZG02VkVSUEI4X2pCcEprdktOMU1SV09uRkZyZzlOTdIB3AFBVV95cUxQYnhwRExjNjBPOEpGOTVaX2JRbXdhaGJSUVQxdGppVVF3N0U0bE5VZFo5cU5kNWlwazZBMzBqajAteFBfVkVZR3pfbjJBYU9xem52WXhJY0VhLTRzdmNpUnN3SWRKSDhOSzZrT2RDYzJ5eWV3TXlycGpkMWR6NTZudm0tbHY5TTVUNzVJeERqV0NCNm5aRkpkcnhFM0g2MVJMckRES2Y5NUtqcVl4MnRhOTlaZDgtTUZDQjZIaDZzcHRVQWtRVXNVVGotTXBNZ0ZSUGxRVXZRdDRPMmxm?oc=5",
+        "date": "2026-08-07",
+        "title": "WaterBridge Infrastructure (WBI) Stock Reconsiders Growth As Earnings Stay Thin - simplywall.st",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ3VKQ2txdkdLZC01X0laelA2b0ZScElWeDRqZ0hVVHIzNElTLVVNR0RfTFlFT0czUU9tWGlucVAxOFJQOFg2V0Z2RTFXa2dtUk9XeXJXdDdqekxxQmV0cnFJQzFrT1VTcm9zdDI0TzZrTVhLRTg5V0lxZ3AzaWJVemc3N1BydWpLY2tqM1dZUW9JajF4RndhRFhjSmVHNkxFU2pITGJrQVY4UWViR1U4a1M3R1BLcjF0ZG02VkVSUEI4X2pCcEprdktOMU1SV09uRkZyZzlOTdIB3AFBVV95cUxQYnhwRExjNjBPOEpGOTVaX2JRbXdhaGJSUVQxdGppVVF3N0U0bE5VZFo5cU5kNWlwazZBMzBqajAteFBfVkVZR3pfbjJBYU9xem52WXhJY0VhLTRzdmNpUnN3SWRKSDhOSzZrT2RDYzJ5eWV3TXlycGpkMWR6NTZudm0tbHY5TTVUNzVJeERqV0NCNm5aRkpkcnhFM0g2MVJMckRES2Y5NUtqcVl4MnRhOTlaZDgtTUZDQjZIaDZzcHRVQWtRVXNVVGotTXBNZ0ZSUGxRVXZRdDRPMmxm?oc=5\" target=\"_blank\">WaterBridge Infrastructure (WBI) Stock Reconsiders Growth As Earnings Stay Thin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN1hGZUYwY0FDTVRhNXM0N2dpa01Zd3V0cE1LWXJ6YjZqem9YWUNHSFhxcGJJSU1BSFVPME1rY0NETXJSeE5CaGY4U2pWSnliNHJjZzBIN1ktcnhqYkRJY0xuRUhlWXhhdUcza3ktZm44c0RzVWlMSE9iYTBSbUNqelRWZjRIdmhYMFNDaThyRXAwMjhmUlNVcERhVFZfN0w1SldmdjRmUG1vVV8tckwtRVFjVGQtdnJWa05ZaEhJdVlqVzYw?oc=5",
+        "date": "2026-08-07",
+        "title": "Chad: Nearly 125 million USD from Afreximbank to develop infrastructure and trade - Financial Afrik",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQN1hGZUYwY0FDTVRhNXM0N2dpa01Zd3V0cE1LWXJ6YjZqem9YWUNHSFhxcGJJSU1BSFVPME1rY0NETXJSeE5CaGY4U2pWSnliNHJjZzBIN1ktcnhqYkRJY0xuRUhlWXhhdUcza3ktZm44c0RzVWlMSE9iYTBSbUNqelRWZjRIdmhYMFNDaThyRXAwMjhmUlNVcERhVFZfN0w1SldmdjRmUG1vVV8tckwtRVFjVGQtdnJWa05ZaEhJdVlqVzYw?oc=5\" target=\"_blank\">Chad: Nearly 125 million USD from Afreximbank to develop infrastructure and trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Afrik</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
