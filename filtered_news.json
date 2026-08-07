@@ -1911,5 +1911,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-07",
+        "status": "posted",
+        "tweet": "2026 annual electricity consumption TWh\n\n1. Bitcoin 142\n2. Solana 1.8\n3. Ethereum 0.01",
+        "type": "crypto"
     }
 ]
