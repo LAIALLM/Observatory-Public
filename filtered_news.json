@@ -1764,5 +1764,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddff\ud83c\udde6 NEWS: South Africa secures a $500m loan to strengthen climate-resilient urban services.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-08-07",
+        "status": "posted",
+        "tweet": "Microsoft Azure facilities in \ud83c\uddfa\ud83c\uddf8 Virginia processed 850 petabytes of data daily in 2025.\n$MSFT",
+        "type": "infrastructure"
     }
 ]
