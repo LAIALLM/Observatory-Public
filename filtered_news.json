@@ -1555,5 +1555,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-07",
+        "status": "posted",
+        "tweet": "By 2026, \ud83c\udde8\ud83c\uddf3 China high-speed rail network reaches 52,000 km.\n\ud83c\uddea\ud83c\uddfa Europe total: 17,000 km.",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
