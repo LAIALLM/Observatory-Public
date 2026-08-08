@@ -1653,5 +1653,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Amazon infrastructure processed 3.7 exabytes of data daily in 2026\n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-08",
+        "status": "posted",
+        "tweet": "No verified public data provides direct, comparable cloud and data center cost figures for Bitcoin, Ethereum, or Solana node operations.",
+        "type": "crypto"
     }
 ]
