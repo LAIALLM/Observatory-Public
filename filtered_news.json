@@ -1660,5 +1660,13 @@
         "status": "posted",
         "tweet": "No verified public data provides direct, comparable cloud and data center cost figures for Bitcoin, Ethereum, or Solana node operations.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-08-08",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China high-speed rail: 50,000 km in 2026\n\ud83c\uddea\ud83c\uddfa Europe total: 12,000 km",
+        "type": "statistical",
+        "category": "infrastructural projects"
     }
 ]
