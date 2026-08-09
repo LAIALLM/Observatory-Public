@@ -1738,5 +1738,35 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVnlSRm90WTNyWnc2MTVfd3hBQlltRFhPT0E2S1EtMDVIYi1NU21vZy1pLUtBMk1jYU5veTQyMEx1UTJKblVDVGpFZC14dy1xTHgtU1JGMW9YU29yRklYZ28tY1ZOU1Nuc2h6UzRqcFNiNC1RNmlVUlB0b29QTDFYay1peGt4SzJNdnJBZmNSUjNNTm1aRGNXdU1zaU1GdFZXVVdxbDBpQVdMczVMb0w3X3ZGMGM3cWlzMzJj?oc=5",
+        "date": "2026-08-09",
+        "title": "Former Bitcoin Miner Firmus Became A $10.5B AI Infrastructure Company - Forbes",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVnlSRm90WTNyWnc2MTVfd3hBQlltRFhPT0E2S1EtMDVIYi1NU21vZy1pLUtBMk1jYU5veTQyMEx1UTJKblVDVGpFZC14dy1xTHgtU1JGMW9YU29yRklYZ28tY1ZOU1Nuc2h6UzRqcFNiNC1RNmlVUlB0b29QTDFYay1peGt4SzJNdnJBZmNSUjNNTm1aRGNXdU1zaU1GdFZXVVdxbDBpQVdMczVMb0w3X3ZGMGM3cWlzMzJj?oc=5\" target=\"_blank\">Former Bitcoin Miner Firmus Became A $10.5B AI Infrastructure Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHdHSGcwSXZ1c2ZVODI1eWhPTk9ybDVhLTRsV3liSE5FYng3WmozRUlvWXZPNWF2Sk8xUWtreGVIcmJVWDR1bEJFNGlMRnpHb2hUcmZSYXRVeVpFMExkSUJ3ZGU5UGZMOURsVHBKempNLW80X1JrM205UDlUZ1E4TXRmMWZlX0JZTFdsMlpxWU1QRDRrUU9BTW9LSzVONFpZSk1aajJpcnAtUzNlMTln?oc=5",
+        "date": "2026-08-09",
+        "title": "Iran Space Infrastructure Hit in Recent War; Telecom Ministry Unveils New Satellite Roadmap - WANA News Agency",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHdHSGcwSXZ1c2ZVODI1eWhPTk9ybDVhLTRsV3liSE5FYng3WmozRUlvWXZPNWF2Sk8xUWtreGVIcmJVWDR1bEJFNGlMRnpHb2hUcmZSYXRVeVpFMExkSUJ3ZGU5UGZMOURsVHBKempNLW80X1JrM205UDlUZ1E4TXRmMWZlX0JZTFdsMlpxWU1QRDRrUU9BTW9LSzVONFpZSk1aajJpcnAtUzNlMTln?oc=5\" target=\"_blank\">Iran Space Infrastructure Hit in Recent War; Telecom Ministry Unveils New Satellite Roadmap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WANA News Agency</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQmhpSVpTOVJWMUdLWGpZejBsb1BZRno2QmlsOGFLMkg0SmZORFdZZ0xDWTZjSzNlS21Fb01DajctSVBXWVpXY1haeDhoaFd6TzU5eXdic1VSZDBqa1FsZmdRdy1mRHgzTjhuOUtFbGRQSlZDeTRlRVk2dWEzVW05MElBUU9QdTROTmdDaVBB?oc=5",
+        "date": "2026-08-09",
+        "title": "West Memphis to launch new transit system - Planetizen",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQQmhpSVpTOVJWMUdLWGpZejBsb1BZRno2QmlsOGFLMkg0SmZORFdZZ0xDWTZjSzNlS21Fb01DajctSVBXWVpXY1haeDhoaFd6TzU5eXdic1VSZDBqa1FsZmdRdy1mRHgzTjhuOUtFbGRQSlZDeTRlRVk2dWEzVW05MElBUU9QdTROTmdDaVBB?oc=5\" target=\"_blank\">West Memphis to launch new transit system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Planetizen</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
