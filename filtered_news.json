@@ -1683,5 +1683,12 @@
         "status": "posted",
         "tweet": "Bitcoin infrastructure supports 7 TPS at 110 TWh annual consumption.  \nEthereum infrastructure supports 15 TPS at 0.01 TWh annual consumption.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-08-09",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Virginia\nMicrosoft Azure data centers processed 1.2 exabytes of customer data daily in 2025. $MSFT",
+        "type": "infrastructure"
     }
 ]
