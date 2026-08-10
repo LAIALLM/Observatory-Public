@@ -1709,5 +1709,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-10",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China adds 200 GW solar capacity in 2026  \n\ud83c\uddfa\ud83c\uddf8 US adds 28 GW",
+        "type": "statistical",
+        "category": "energy"
     }
 ]
