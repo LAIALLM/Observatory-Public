@@ -1724,5 +1724,125 @@
         "status": "posted",
         "tweet": "Amazon Web Services processed 4.2 exabytes of data daily across its \ud83c\uddfa\ud83c\uddf8 facilities in Q1 2026.\n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ocjBpS0txT3h6dHE5SWJjWW9SbEJHUnU2RWRjMWlwaUVWMnhaZS01NVpIUTRESm9Scm45SUNMV0tWZi1DYjA1b3U3Zlc0UDBEeXRWREREaVVNSDF5M3c0ZnZPYkg?oc=5",
+        "date": "2026-08-10",
+        "title": "The 60-Year Legacy of C. Duncan Construction Ltd. - The World-Spectator",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ocjBpS0txT3h6dHE5SWJjWW9SbEJHUnU2RWRjMWlwaUVWMnhaZS01NVpIUTRESm9Scm45SUNMV0tWZi1DYjA1b3U3Zlc0UDBEeXRWREREaVVNSDF5M3c0ZnZPYkg?oc=5\" target=\"_blank\">The 60-Year Legacy of C. Duncan Construction Ltd.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The World-Spectator</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEcxN0hzZmpGX2RxZDNIVmJBQ0JGcjhoUnp2SUxuUnUwNEVNQkhvMzNwSUtSTnFfcHAzbmpRWUxkM3BkX05YNnNEalR3WUpwS2lJZ1FJWGJXeUN0M2YyWTJ5VExSTFNHZFkzb2M4Q0VsYUpRbDlDVVNJVzBoOEVucVdGUXE4cXdoRGJXY2VnNTRISktIMjNEYlFzRW5RNmlPeFM0M2hCVHEyQQ?oc=5",
+        "date": "2026-08-10",
+        "title": "Anthropic, Macquarie and GIC Form Data Center Infrastructure Platform - connectmoney.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEcxN0hzZmpGX2RxZDNIVmJBQ0JGcjhoUnp2SUxuUnUwNEVNQkhvMzNwSUtSTnFfcHAzbmpRWUxkM3BkX05YNnNEalR3WUpwS2lJZ1FJWGJXeUN0M2YyWTJ5VExSTFNHZFkzb2M4Q0VsYUpRbDlDVVNJVzBoOEVucVdGUXE4cXdoRGJXY2VnNTRISktIMjNEYlFzRW5RNmlPeFM0M2hCVHEyQQ?oc=5\" target=\"_blank\">Anthropic, Macquarie and GIC Form Data Center Infrastructure Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">connectmoney.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOS2djQ0locXQxT1c4Ry1oYS1uYkxhektUNXFKUm80SUdldWN2YjdCemdzVDc5YzhKWGhxaFk5YlQxUUozODRCdFJQaXpBWnVuRWFFUHNHOTB2RnNybkp6SQ?oc=5",
+        "date": "2026-08-10",
+        "title": "Siemens strengthens AI infrastructure leadership with more than $200 million in U.S. manufacturing investments - WebWire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOS2djQ0locXQxT1c4Ry1oYS1uYkxhektUNXFKUm80SUdldWN2YjdCemdzVDc5YzhKWGhxaFk5YlQxUUozODRCdFJQaXpBWnVuRWFFUHNHOTB2RnNybkp6SQ?oc=5\" target=\"_blank\">Siemens strengthens AI infrastructure leadership with more than $200 million in U.S. manufacturing investments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WebWire</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdGQ3c1FMZkFpS2hJZThTYV90d3gxLTFURmxHNE5JUWZmazU0YWNhakdLTlJPQllXVzZ2LUVtcWNPdXp2YjE4WGt3R1JHbjNjb0pLaVY0eGtVSzFUcmlZOW5DZ2VoallQLTk4VEhnOC1ZbEVBY09fdHJfWkxLX2lHOTJZZ2J1ZkdhM3ZmUnpWWkNQb211N1pDLTBhcDdxdjN2NjZndzBRVlFRZGJlWXp2RFJuTEE5NGNFRDFJT0preEpyd1NMTGVNbTZhWTRjdTA?oc=5",
+        "date": "2026-08-10",
+        "title": "5C Secures More Than USD $1.4 Billion to Power North America's AI Infrastructure - PR Newswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOdGQ3c1FMZkFpS2hJZThTYV90d3gxLTFURmxHNE5JUWZmazU0YWNhakdLTlJPQllXVzZ2LUVtcWNPdXp2YjE4WGt3R1JHbjNjb0pLaVY0eGtVSzFUcmlZOW5DZ2VoallQLTk4VEhnOC1ZbEVBY09fdHJfWkxLX2lHOTJZZ2J1ZkdhM3ZmUnpWWkNQb211N1pDLTBhcDdxdjN2NjZndzBRVlFRZGJlWXp2RFJuTEE5NGNFRDFJT0preEpyd1NMTGVNbTZhWTRjdTA?oc=5\" target=\"_blank\">5C Secures More Than USD $1.4 Billion to Power North America's AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbW1wVVU1SVpwaW5XTkxxQk13Tk5pbk5NaDh3UENmT1d2OGFfd25ManlhT0kySlljTGp3OHYtWmlocXk1YTFqSDBfbURlTDl4MUpkQUpMTXl6dG9hNHRSc3pEMjdWQ3pqQUZHSHZzdmtOcUF3MEI4YlBScTQxeTBJM3AtV0VIRk5pdDRnZ2gxS0NiNTl1bHJqblhYWHVYc3lmSlpTQW1WZWNPZlcxMEVqcWNDZ2R2WnAweW9aZkw5QjdSUTJVM25sVGxuNNIB0AFBVV95cUxPUVVQbmFlVWhhWngyWUNKOVhJM1Q4d2t1UU1ZTmV4WVBrTmdfV0RHTmUzc2RRbGxIYTBuYUNENDFKUVFNMHRzUzdLZkVjN0hDc1lfMndhZFZlaklUT0Flb1VtZXk2alZJWkpwbDdFYjhYekJmeDQ1Z1lDbXJzZDFNZ0tZUGpqVk40Mk9Ic2NXb2NJc2lha18xMG5jLVBScGpFVGlzTjNoZWlxMF9iYmlOOHYzYnk3OHBqQ1E5bEVyVWJhcVZ1YlN4dmZSNUF6YmJK?oc=5",
+        "date": "2026-08-10",
+        "title": "FTAI Infrastructure: Long Ridge Sale Targets Roughly $1.46 Billion Of Debt Reduction As Rail Business Hits Record - Pulse 2.0",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPbW1wVVU1SVpwaW5XTkxxQk13Tk5pbk5NaDh3UENmT1d2OGFfd25ManlhT0kySlljTGp3OHYtWmlocXk1YTFqSDBfbURlTDl4MUpkQUpMTXl6dG9hNHRSc3pEMjdWQ3pqQUZHSHZzdmtOcUF3MEI4YlBScTQxeTBJM3AtV0VIRk5pdDRnZ2gxS0NiNTl1bHJqblhYWHVYc3lmSlpTQW1WZWNPZlcxMEVqcWNDZ2R2WnAweW9aZkw5QjdSUTJVM25sVGxuNNIB0AFBVV95cUxPUVVQbmFlVWhhWngyWUNKOVhJM1Q4d2t1UU1ZTmV4WVBrTmdfV0RHTmUzc2RRbGxIYTBuYUNENDFKUVFNMHRzUzdLZkVjN0hDc1lfMndhZFZlaklUT0Flb1VtZXk2alZJWkpwbDdFYjhYekJmeDQ1Z1lDbXJzZDFNZ0tZUGpqVk40Mk9Ic2NXb2NJc2lha18xMG5jLVBScGpFVGlzTjNoZWlxMF9iYmlOOHYzYnk3OHBqQ1E5bEVyVWJhcVZ1YlN4dmZSNUF6YmJK?oc=5\" target=\"_blank\">FTAI Infrastructure: Long Ridge Sale Targets Roughly $1.46 Billion Of Debt Reduction As Rail Business Hits Record</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbzdMajE4UkRlNzVreHJsQXVNdXZPSWZjN3Z0S0FaZldYbS1QRVNaekNKYkxVdzRqTFd0WURwYjBWNEx6ai1KWE9BWnhQR25oVm93TUdIb19CbDFPR1NudkNOaDAtSXZXOURnOExOOEVxODRKc0pWa2FrS2ZNbTRPRTJSMnpkdHZLZ2FiNnZRVEtFZFBWbDB0VVJ6bFZLelh4VFFDSl9ITE00dmVCTHdqWDBXbktENlhoOUowNzJ1bmFkXzNONWtJTHdaeWRfTjlhRDkyZzliVU0tY0JtblFRbC1TV2hTdHc?oc=5",
+        "date": "2026-08-10",
+        "title": "NVDA Teams Up With Wall Street Giants On Massive $500B AI Infrastructure Funding Push: Report - TradingView",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbzdMajE4UkRlNzVreHJsQXVNdXZPSWZjN3Z0S0FaZldYbS1QRVNaekNKYkxVdzRqTFd0WURwYjBWNEx6ai1KWE9BWnhQR25oVm93TUdIb19CbDFPR1NudkNOaDAtSXZXOURnOExOOEVxODRKc0pWa2FrS2ZNbTRPRTJSMnpkdHZLZ2FiNnZRVEtFZFBWbDB0VVJ6bFZLelh4VFFDSl9ITE00dmVCTHdqWDBXbktENlhoOUowNzJ1bmFkXzNONWtJTHdaeWRfTjlhRDkyZzliVU0tY0JtblFRbC1TV2hTdHc?oc=5\" target=\"_blank\">NVDA Teams Up With Wall Street Giants On Massive $500B AI Infrastructure Funding Push: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRjJoRVZUMjE2VmFYRTh5bDhGN3pLN19iYi0tYU52TWlReF92emtsWmVjdjBLWXN4bzNUdkNNbElxTzlHc1FnOTg4amJJTnJySDhEUlNucF8yaGtXN3BWLXdvS1hkbFhIeE9mXzZkQTNBZWoyejQzSEpvTE95Q2tLYzdqandCdGNSRzc2S0VxWko3bzJGTWV2V09VRWhpZWZsOGNpWl9XaHI0Qzg0UXhKaWlDRlpHdnB6eVBZVDV0UndCVU5IOG5rbGdWLVNQdw?oc=5",
+        "date": "2026-08-10",
+        "title": "Keel Infrastructure Q2 Earnings Miss Estimates as Bitcoin Wind-Down Continues - Benzinga",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRjJoRVZUMjE2VmFYRTh5bDhGN3pLN19iYi0tYU52TWlReF92emtsWmVjdjBLWXN4bzNUdkNNbElxTzlHc1FnOTg4amJJTnJySDhEUlNucF8yaGtXN3BWLXdvS1hkbFhIeE9mXzZkQTNBZWoyejQzSEpvTE95Q2tLYzdqandCdGNSRzc2S0VxWko3bzJGTWV2V09VRWhpZWZsOGNpWl9XaHI0Qzg0UXhKaWlDRlpHdnB6eVBZVDV0UndCVU5IOG5rbGdWLVNQdw?oc=5\" target=\"_blank\">Keel Infrastructure Q2 Earnings Miss Estimates as Bitcoin Wind-Down Continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVVJuT0R2MEFZR2lUczczZ0hwbDNXOXQ0XzB6NC0wRTVFaFc4NGVkcWRnblhfbmVQbFB4cGtuZFZrNG9BWUhqZ3RMLXM3WWlIS0s5a0xneER6Ym9vVnpTZF9IUnhUUXNkMGtzTXpMeGZ1bzBFbGF2MThEOXUwbzFWU0hVTVFnakNMeHJCcUk4TWctN2RlU2IxR3gxVC1sMWJUajlLSTlTN1Q2eWM0NVd3dE9LVUg4dw?oc=5",
+        "date": "2026-08-10",
+        "title": "Anthropic, Macquarie and GIC Launch Theseus Infrastructure for AI Data Centers - HPCwire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQVVJuT0R2MEFZR2lUczczZ0hwbDNXOXQ0XzB6NC0wRTVFaFc4NGVkcWRnblhfbmVQbFB4cGtuZFZrNG9BWUhqZ3RMLXM3WWlIS0s5a0xneER6Ym9vVnpTZF9IUnhUUXNkMGtzTXpMeGZ1bzBFbGF2MThEOXUwbzFWU0hVTVFnakNMeHJCcUk4TWctN2RlU2IxR3gxVC1sMWJUajlLSTlTN1Q2eWM0NVd3dE9LVUg4dw?oc=5\" target=\"_blank\">Anthropic, Macquarie and GIC Launch Theseus Infrastructure for AI Data Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HPCwire</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkRnTzQ1YWwyOUVkbWZSSFZZX3UydlU2S0IxSENRd1BBZFY5NVk5U1BzYzAtU05DcEp1QjN0em5SbnN4amQ4X2hiZzEzMVRLbXdueWw2TTFpa3Q1VHNQYUQ0X2ZJMjNsbTJKdVRkUkw5VVZwcUVhRUhiQ1A5cGc0UFBXYmh5bkxFNlRRYnd2cEZEeFpmLVBF?oc=5",
+        "date": "2026-08-10",
+        "title": "Asheville seeks input on Biltmore Village Helene repairs - 828 News Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkRnTzQ1YWwyOUVkbWZSSFZZX3UydlU2S0IxSENRd1BBZFY5NVk5U1BzYzAtU05DcEp1QjN0em5SbnN4amQ4X2hiZzEzMVRLbXdueWw2TTFpa3Q1VHNQYUQ0X2ZJMjNsbTJKdVRkUkw5VVZwcUVhRUhiQ1A5cGc0UFBXYmh5bkxFNlRRYnd2cEZEeFpmLVBF?oc=5\" target=\"_blank\">Asheville seeks input on Biltmore Village Helene repairs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">828 News Now</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYmRNN050RGd0QVlfeHZqTEJtU3h5MWJCQ01aVEY2Y3hCemplSmFUelJmeGM5Rk9iV1NVQmZPYmdvQnU2MVM1RFFKZ0ZKcUFhYzlvUzVpa003cUcyOGp2eU13YVdVS21VRDNmeFBDTWEzWUhHX0g4TE5GRXJhR3JNZVNLMmtEUFFrV2dQWlZjb3RUZGJVSU1JZ2xhbjRneW1LdVh5eFZRYkdWN3lodnQ4?oc=5",
+        "date": "2026-08-10",
+        "title": "Keel Infrastructure (NASDAQ:KEEL) Shares Down 8.2% - What's Next? - MarketBeat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNYmRNN050RGd0QVlfeHZqTEJtU3h5MWJCQ01aVEY2Y3hCemplSmFUelJmeGM5Rk9iV1NVQmZPYmdvQnU2MVM1RFFKZ0ZKcUFhYzlvUzVpa003cUcyOGp2eU13YVdVS21VRDNmeFBDTWEzWUhHX0g4TE5GRXJhR3JNZVNLMmtEUFFrV2dQWlZjb3RUZGJVSU1JZ2xhbjRneW1LdVh5eFZRYkdWN3lodnQ4?oc=5\" target=\"_blank\">Keel Infrastructure (NASDAQ:KEEL) Shares Down 8.2% - What's Next?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRGg5TGVOLXhSV3BDX0J4NVNWYTREZUpyQ1FDV3JMdk5vMjhlMkFOOGViYUtTckhPMmd6MzMtSHktMzRMYnJEaWJrVGlpUTdmMjlPNE1sZUxQbTd6RFh1ekxzOVlja2ZTcEwwbHllNnpNNHhBQjJ0MGpEUGZiTGw0Z28tRzg3UmJEZHJ6OV9fWnNTZzhTanIyVUdaNVBreHhtYU9obWlGbEswMU1BZnRtTXplSW9VYlpwdHdqdWRodk1IYmtpTjllNTV2dGJWTWRXQk0wVFZuR0ZyRUlwdWc?oc=5",
+        "date": "2026-08-10",
+        "title": "Serenity Gardens Breaks Ground to Deliver 153 Affordable Senior Housing Community in Miami Gardens, Florida - citybiz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRGg5TGVOLXhSV3BDX0J4NVNWYTREZUpyQ1FDV3JMdk5vMjhlMkFOOGViYUtTckhPMmd6MzMtSHktMzRMYnJEaWJrVGlpUTdmMjlPNE1sZUxQbTd6RFh1ekxzOVlja2ZTcEwwbHllNnpNNHhBQjJ0MGpEUGZiTGw0Z28tRzg3UmJEZHJ6OV9fWnNTZzhTanIyVUdaNVBreHhtYU9obWlGbEswMU1BZnRtTXplSW9VYlpwdHdqdWRodk1IYmtpTjllNTV2dGJWTWRXQk0wVFZuR0ZyRUlwdWc?oc=5\" target=\"_blank\">Serenity Gardens Breaks Ground to Deliver 153 Affordable Senior Housing Community in Miami Gardens, Florida</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citybiz</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02eHhsQzNGTExyVk1EcGtkWkxHY2ZfMDloWDhTb1BkZENsMXFFRWs1aGJiSGVNWGt1aUMwZ3dxanNhYzB4T3loMkdtRTQzQ0xEa0JhWXFCdTJ0RVo5VEV2dHg0cw?oc=5",
+        "date": "2026-08-10",
+        "title": "Sports Boulevard launches $186m fund to develop Urban Wadi assets - Arab News PK",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE02eHhsQzNGTExyVk1EcGtkWkxHY2ZfMDloWDhTb1BkZENsMXFFRWs1aGJiSGVNWGt1aUMwZ3dxanNhYzB4T3loMkdtRTQzQ0xEa0JhWXFCdTJ0RVo5VEV2dHg0cw?oc=5\" target=\"_blank\">Sports Boulevard launches $186m fund to develop Urban Wadi assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arab News PK</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
