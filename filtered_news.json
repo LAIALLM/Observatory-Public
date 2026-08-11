@@ -2038,5 +2038,12 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-11",
+        "status": "posted",
+        "tweet": "Estimated 2026 cloud and data center costs:\n\n1. Bitcoin: $3.1B\n2. Ethereum: $380M\n3. Solana: $110M",
+        "type": "crypto"
     }
 ]
