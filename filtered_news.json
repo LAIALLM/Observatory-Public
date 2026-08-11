@@ -1,68 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-01",
-        "status": "posted",
-        "tweet": "Bitcoin mining infrastructure consumes over 100 TWh of electricity yearly.  \nEthereum staking uses under 0.01 TWh for network security.",
-        "type": "crypto"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSW1LMk9fS3YxQnM4RlJiTmgzcDJ4ajVOV2pZZkhlS2RPeWFNZ0Q1WmhFd0l3bjJHWUFiejRZUS1lQU5vZExxUHRYN0ZsazRrenVNWHVFd0VmUHpxeVpHbmNVXzRLVWFmVGlLU2trdk14Nm5rRTluR0JZLTFVcy1weThSeVdjTlZLaVRV0gGQAUFVX3lxTE1GS2dwZ0JLbFVyZGcybjlxWkx4bWwwSlVrdVhHM2h1bTBkZldPTWhUQndtbnhFQ3NRcWRJZndvTEZVR2pjTzdwdjNFbTlvb0NIc0tZWHNhVFh2STBfRmsyYkZ0OUJ1bHRqWkFfank1c25IN0ltNmR4NFhGUHFVbG5qU0tMS0RxakNaZHdqengybw?oc=5",
-        "date": "2026-08-01",
-        "title": "Report: US and Israel weighing attacks on Iran infrastructure - newsnationnow.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSW1LMk9fS3YxQnM4RlJiTmgzcDJ4ajVOV2pZZkhlS2RPeWFNZ0Q1WmhFd0l3bjJHWUFiejRZUS1lQU5vZExxUHRYN0ZsazRrenVNWHVFd0VmUHpxeVpHbmNVXzRLVWFmVGlLU2trdk14Nm5rRTluR0JZLTFVcy1weThSeVdjTlZLaVRV0gGQAUFVX3lxTE1GS2dwZ0JLbFVyZGcybjlxWkx4bWwwSlVrdVhHM2h1bTBkZldPTWhUQndtbnhFQ3NRcWRJZndvTEZVR2pjTzdwdjNFbTlvb0NIc0tZWHNhVFh2STBfRmsyYkZ0OUJ1bHRqWkFfank1c25IN0ltNmR4NFhGUHFVbG5qU0tMS0RxakNaZHdqengybw?oc=5\" target=\"_blank\">Report: US and Israel weighing attacks on Iran infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsnationnow.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNeUZidnZoRUQ2MkNhTFdOeXhCMnpac1ZEcmhadXIzNHgwS3ZyMEt2d1I4WXE5cXFkbjFfUkUtQk5Ra2dUV210UUhmeG1zZEdaTk1QTHNyVmNFRzhicy1JVXU3Y0QwUWtaT3pvMEx5VmNPS2h2a09TRkRPOGdKWHZfWm8tWVVoTWhRMTc4aTJ0VUNCVDgxeXFUTzBuZEtyWk5hQzRVRGtWSG9ZYk5UV0NyTGZwSWFKSmxVeVROek9mYXNwRjQzZnJ3bnBuNUpPX2dGek9vVUt2ODIxcjJGYmN1QThVbllEdFRzZzhGekt6Tkh5MFpycTFUbTdWaDVWeUlaSmY0eTcyR0dyc3dOMHRR?oc=5",
-        "date": "2026-08-01",
-        "title": "Extreme Weather Is Redefining Construction Jobsite Safety - For Construction Pros",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxNeUZidnZoRUQ2MkNhTFdOeXhCMnpac1ZEcmhadXIzNHgwS3ZyMEt2d1I4WXE5cXFkbjFfUkUtQk5Ra2dUV210UUhmeG1zZEdaTk1QTHNyVmNFRzhicy1JVXU3Y0QwUWtaT3pvMEx5VmNPS2h2a09TRkRPOGdKWHZfWm8tWVVoTWhRMTc4aTJ0VUNCVDgxeXFUTzBuZEtyWk5hQzRVRGtWSG9ZYk5UV0NyTGZwSWFKSmxVeVROek9mYXNwRjQzZnJ3bnBuNUpPX2dGek9vVUt2ODIxcjJGYmN1QThVbllEdFRzZzhGekt6Tkh5MFpycTFUbTdWaDVWeUlaSmY0eTcyR0dyc3dOMHRR?oc=5\" target=\"_blank\">Extreme Weather Is Redefining Construction Jobsite Safety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">For Construction Pros</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZ2taSF9OOVR0NjgwUHlNc2RSRjQtcF9VN01QOXFQZDJERmFGNFRMREVhcVBvRC1kUk1adzlfcWY1OTg2RVBrM0FQNExfYnZBUmpxd29lQ2pMQVZaNnpmLVVOSmpxS3RRMGkwX1FzSVl0Zkk0SGFSWVhkZHdSTkN0ejM2a3daMjBlVkoxalZmM2NyRjlKQ195b0xoMkp3OHgyNGhVeE5Xd3N5SjJlN2RvNlVRbGo3aC1UaXdublBfNVZFdHlRZ3F4dnNRTDAzd3ZNUEhTSmpLSzRnR0NDU0Q3a2FaTEoydThXWGpuYVlKX0NOSG8?oc=5",
-        "date": "2026-08-01",
-        "title": "Groupe la Francaise Has $6.74 Million Stock Holdings in HA Sustainable Infrastructure Capital, Inc. $HASI - MarketBeat",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZ2taSF9OOVR0NjgwUHlNc2RSRjQtcF9VN01QOXFQZDJERmFGNFRMREVhcVBvRC1kUk1adzlfcWY1OTg2RVBrM0FQNExfYnZBUmpxd29lQ2pMQVZaNnpmLVVOSmpxS3RRMGkwX1FzSVl0Zkk0SGFSWVhkZHdSTkN0ejM2a3daMjBlVkoxalZmM2NyRjlKQ195b0xoMkp3OHgyNGhVeE5Xd3N5SjJlN2RvNlVRbGo3aC1UaXdublBfNVZFdHlRZ3F4dnNRTDAzd3ZNUEhTSmpLSzRnR0NDU0Q3a2FaTEoydThXWGpuYVlKX0NOSG8?oc=5\" target=\"_blank\">Groupe la Francaise Has $6.74 Million Stock Holdings in HA Sustainable Infrastructure Capital, Inc. $HASI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOTXpmM2d2ejZpeWllRmZRbGo1am5sMVZrWkRyWUFEbUxWSlFrNWlTclJSR09zdlo2MnB5VWhtVk5uNUZxa1VwOXBKQmZCZnZHWXc?oc=5",
-        "date": "2026-08-01",
-        "title": "CDA takes 10-year action plan to transform Cumilla into modern megacity - Bangladesh Sangbad Sangstha (BSS)",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOTXpmM2d2ejZpeWllRmZRbGo1am5sMVZrWkRyWUFEbUxWSlFrNWlTclJSR09zdlo2MnB5VWhtVk5uNUZxa1VwOXBKQmZCZnZHWXc?oc=5\" target=\"_blank\">CDA takes 10-year action plan to transform Cumilla into modern megacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bangladesh Sangbad Sangstha (BSS)</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-08-01",
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 India's freight rail corridors reach 3,300 km by 2026, surpassing \ud83c\uddef\ud83c\uddf5 Japan's Shinkansen at 2,900 km.",
-        "type": "statistical",
-        "category": "infrastructural projects"
-    },
-    {
-        "link": null,
-        "date": "2026-08-01",
-        "status": "posted",
-        "tweet": "Microsoft data centers in \ud83c\uddfa\ud83c\uddf8 Virginia used 7.8 TWh of power in 2025.  \n$MSFT",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-08-02",
         "status": "posted",
         "tweet": "Urban transit mode share projections 2026\n\n1. \ud83c\udded\ud83c\uddf0 Hong Kong 82%\n2. \ud83c\uddf8\ud83c\uddec Singapore 78%\n3. \ud83c\uddef\ud83c\uddf5 Tokyo 75%\n4. \ud83c\uddf0\ud83c\uddf7 Seoul 71%\n5. \ud83c\udde8\ud83c\udded Zurich 68%",
