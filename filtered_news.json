@@ -2129,5 +2129,55 @@
         "status": "posted",
         "tweet": "\ud83c\uddeb\ud83c\uddee Finland Meta data centers recorded 0.28 PUE efficiency rating during 2025 operations.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcjhSTWlDWmF3YjJWbGFabWMwQUQ2UUlKTnZMbFoyZTlnMHk4RUpvZlJuZ2RVSE1JUTNtcld2ZVF5N3BjNV9RV28xaE9mZ05jZnRDbmlDQ0xDLUxPSG4yaFlKX3YxbHhQbm9aLTBSVWRqLWRnNm12cEYtQ0JBTlFCTTU3b1dNX0pzUWFSdTlVaS1EQ2NrOEJHcHhKRmFZVXhhVGJjS2RB?oc=5",
+        "date": "2026-08-12",
+        "title": "Can Keel Infrastructure (KEEL) Trade At A Premium As AI Plans Progress? - Yahoo Finance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPcjhSTWlDWmF3YjJWbGFabWMwQUQ2UUlKTnZMbFoyZTlnMHk4RUpvZlJuZ2RVSE1JUTNtcld2ZVF5N3BjNV9RV28xaE9mZ05jZnRDbmlDQ0xDLUxPSG4yaFlKX3YxbHhQbm9aLTBSVWRqLWRnNm12cEYtQ0JBTlFCTTU3b1dNX0pzUWFSdTlVaS1EQ2NrOEJHcHhKRmFZVXhhVGJjS2RB?oc=5\" target=\"_blank\">Can Keel Infrastructure (KEEL) Trade At A Premium As AI Plans Progress?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2RHOE9IalBnY3o3Ry1aOEdMOF81RGprNDVOZ0lNQ2U0bGRYT3pFVHdHYlJkUHNVRWtvRU9tRHZjRWFja2hmcWsyQjU0T3VMUmN4ZlZJdXkyanEzak5sYThIV0xUbHlJS2U1MFc3X2Q4ZFdYd3d3R0Z1enU2TUkySm1MTUIwZ3hzLWNNbkJwekxrbVA3R2c1SVNMVEl4ckxmcUg0VUl3WQ?oc=5",
+        "date": "2026-08-12",
+        "title": "Images - MWSS-171 Marines Partner with Airmen to Maintain Base Infrastructure - DVIDS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2RHOE9IalBnY3o3Ry1aOEdMOF81RGprNDVOZ0lNQ2U0bGRYT3pFVHdHYlJkUHNVRWtvRU9tRHZjRWFja2hmcWsyQjU0T3VMUmN4ZlZJdXkyanEzak5sYThIV0xUbHlJS2U1MFc3X2Q4ZFdYd3d3R0Z1enU2TUkySm1MTUIwZ3hzLWNNbkJwekxrbVA3R2c1SVNMVEl4ckxmcUg0VUl3WQ?oc=5\" target=\"_blank\">Images - MWSS-171 Marines Partner with Airmen to Maintain Base Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DVIDS</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOalpXWnY1V0tpUjhZRFdDelp2bV94UnlucnBLZWpGZ1VFeFZiQkN1YjVsbUdtbUg1cTZlTVhMdk1qeDNuMGRxdTJLVHI5Sm5yTlBtRkFjYWx4bERzRnNISndZN1NjNnZmNkpnc0trakFvUVR1U0Qxc1I4aWM5Q2JZRkJKcWNXZw?oc=5",
+        "date": "2026-08-12",
+        "title": "The proof is in for biosolar roof innovation - HVAC&R News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOalpXWnY1V0tpUjhZRFdDelp2bV94UnlucnBLZWpGZ1VFeFZiQkN1YjVsbUdtbUg1cTZlTVhMdk1qeDNuMGRxdTJLVHI5Sm5yTlBtRkFjYWx4bERzRnNISndZN1NjNnZmNkpnc0trakFvUVR1U0Qxc1I4aWM5Q2JZRkJKcWNXZw?oc=5\" target=\"_blank\">The proof is in for biosolar roof innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HVAC&amp;R News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbDFST0xBb2RJb185OXJuT25ldG0zeXQ2WUFTdXhtR0hnRlVNa2s2dGtuWVY1OEJjaEhraWtweXJoQ3FYZ1dtSVpKamdwYnc0YTFzWjFoMkxzaVJUT0xvSnBJOFVmakVVV09faldhUWo4U2FfMTZpZHNkZUpLZk1nd3VkYkx3alhRS25BWkJLeTBrQnRSQU5BcUdndks0ZEpXZzVfR1p6NjItaV96U2FoV3kwTFJUUDhhcnRDSnZSU1hOTjg1VlYtZlF5bW5JVWlmNEtLZDFBLU16UdIB3wFBVV95cUxPWXNaM2MtRkFfZDFUUWFKcUlPalhVd2tOc2U1QWxaSG41ZGc3a25PQ2c2OFBtb0VwNjIweHdlUnViQzFjaHVydXF6MTJxR2dNbXFadUEyQTZxc2Ixa2tFNHhUdEtxUVdYQXF6Mngza09nLTRYbHQzWWx5VWo2aXhFdl9obVczV1o1eUM2ZWg3V3lqNVEyejduTEtxaUxrTWhzWHFNYklpM1FQNWE4WXpoWXFfaEFrSlJBcVlhLXp6TC1qZUZTa1R5TlQ0ZmdmS2RLQ2E4MTlJNEhyNmxsczdz?oc=5",
+        "date": "2026-08-12",
+        "title": "India\u2019s long-term urban transition requires strategic planning: Parl panel report | India News - Hindustan Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbDFST0xBb2RJb185OXJuT25ldG0zeXQ2WUFTdXhtR0hnRlVNa2s2dGtuWVY1OEJjaEhraWtweXJoQ3FYZ1dtSVpKamdwYnc0YTFzWjFoMkxzaVJUT0xvSnBJOFVmakVVV09faldhUWo4U2FfMTZpZHNkZUpLZk1nd3VkYkx3alhRS25BWkJLeTBrQnRSQU5BcUdndks0ZEpXZzVfR1p6NjItaV96U2FoV3kwTFJUUDhhcnRDSnZSU1hOTjg1VlYtZlF5bW5JVWlmNEtLZDFBLU16UdIB3wFBVV95cUxPWXNaM2MtRkFfZDFUUWFKcUlPalhVd2tOc2U1QWxaSG41ZGc3a25PQ2c2OFBtb0VwNjIweHdlUnViQzFjaHVydXF6MTJxR2dNbXFadUEyQTZxc2Ixa2tFNHhUdEtxUVdYQXF6Mngza09nLTRYbHQzWWx5VWo2aXhFdl9obVczV1o1eUM2ZWg3V3lqNVEyejduTEtxaUxrTWhzWHFNYklpM1FQNWE4WXpoWXFfaEFrSlJBcVlhLXp6TC1qZUZTa1R5TlQ0ZmdmS2RLQ2E4MTlJNEhyNmxsczdz?oc=5\" target=\"_blank\">India\u2019s long-term urban transition requires strategic planning: Parl panel report | India News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02Y0h5NmlFb0NOSkVVRExyS25hTXJrTFFSX2E1RnZwRzZCZUlzX00wUkxVVjVQUGhmM2paM0xldVFvQW9CRlpmQ0pPaFNPWnpZSEV5S2RnT0JuenpQakdZay1jbGhPV3NFbG9rOENzd19tejVaeDBIVw?oc=5",
+        "date": "2026-08-12",
+        "title": "Goyang City Wins Awards in Two Categories at Gyeonggi-do Active Administration Contest - \uc544\uc2dc\uc544\uacbd\uc81c",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE02Y0h5NmlFb0NOSkVVRExyS25hTXJrTFFSX2E1RnZwRzZCZUlzX00wUkxVVjVQUGhmM2paM0xldVFvQW9CRlpmQ0pPaFNPWnpZSEV5S2RnT0JuenpQakdZay1jbGhPV3NFbG9rOENzd19tejVaeDBIVw?oc=5\" target=\"_blank\">Goyang City Wins Awards in Two Categories at Gyeonggi-do Active Administration Contest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\uc544\uc2dc\uc544\uacbd\uc81c</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
