@@ -2518,5 +2518,176 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Bank of America ($BAC) pledges $250B for U.S. infrastructure financing.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRy1rOEpFb1JzYkl1NWp1ZFV3VXMzeG1rZE9ydUp0bGlGa2ZQZ0pJUWdLbTBkeEpybTdXZmFQWkRMLVRLTENOYlgwd1AwYTRJVVpDLWx3dHlNc0xIcjRESm1oeUpIQVlFTXJYeGJUZVNaZGZaaE12X3lRWm1NLXlMMl9mQnhZcTFuUHY0?oc=5",
+        "date": "2026-08-12",
+        "title": "Bank of America launches $250 billion infrastructure finance initiative - qz.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRy1rOEpFb1JzYkl1NWp1ZFV3VXMzeG1rZE9ydUp0bGlGa2ZQZ0pJUWdLbTBkeEpybTdXZmFQWkRMLVRLTENOYlgwd1AwYTRJVVpDLWx3dHlNc0xIcjRESm1oeUpIQVlFTXJYeGJUZVNaZGZaaE12X3lRWm1NLXlMMl9mQnhZcTFuUHY0?oc=5\" target=\"_blank\">Bank of America launches $250 billion infrastructure finance initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVzFFOUFPRGI0WkEtOFJyc2Z2TDh2RFd4OHp4RENfQzFEZm0tQXA4bUlMb1dLaVUwZ3NqVGhVSVhSdmZ6NjlhU2pDVzNBcm1CY1BabE1DdHYwTjRFYlhSc0lSUEFEN0o4dlY2cV9UMnBnd1Fab1otUW1MXzNsa0g4NnZ3OHQ4MC0wZUtoNUdoYkNRWUxlTkQwcURDNTF6Z29seGhV?oc=5",
+        "date": "2026-08-12",
+        "title": "BofA to Plow $250 Billion Into Critical Infrastructure Projects - Advisor Perspectives",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNVzFFOUFPRGI0WkEtOFJyc2Z2TDh2RFd4OHp4RENfQzFEZm0tQXA4bUlMb1dLaVUwZ3NqVGhVSVhSdmZ6NjlhU2pDVzNBcm1CY1BabE1DdHYwTjRFYlhSc0lSUEFEN0o4dlY2cV9UMnBnd1Fab1otUW1MXzNsa0g4NnZ3OHQ4MC0wZUtoNUdoYkNRWUxlTkQwcURDNTF6Z29seGhV?oc=5\" target=\"_blank\">BofA to Plow $250 Billion Into Critical Infrastructure Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Advisor Perspectives</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHBDaTdTTU9PYVhyX2R0Z2U3SGlsNG5ISTFmeU9HQzJ3ZHVyQk1wVUctSnp1aFBRdTN5dHVTVVJJb1pCWElMWjdsU3Z6TGVpd3JpRE92ZVY4WlZxaHN1VEVzSmhBMm0zWEFBU21mT0ZWV3pseG1VV3FZYXduam5wLWtBUEdBc1ZYVjVwSWoyTkZUcWJhUjhRRktfTG1paGNkN3RDR3Nn?oc=5",
+        "date": "2026-08-12",
+        "title": "Bank of America ties $250B infrastructure push for data centers, energy and more to America's 250th - The Business Journals",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHBDaTdTTU9PYVhyX2R0Z2U3SGlsNG5ISTFmeU9HQzJ3ZHVyQk1wVUctSnp1aFBRdTN5dHVTVVJJb1pCWElMWjdsU3Z6TGVpd3JpRE92ZVY4WlZxaHN1VEVzSmhBMm0zWEFBU21mT0ZWV3pseG1VV3FZYXduam5wLWtBUEdBc1ZYVjVwSWoyTkZUcWJhUjhRRktfTG1paGNkN3RDR3Nn?oc=5\" target=\"_blank\">Bank of America ties $250B infrastructure push for data centers, energy and more to America's 250th</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ21nSTJzRmNhbTZqbTYxM2hUU1JrRW9TMlh3cWdMdVN6YkROWGlDRm9aN2tYUXNLMTVEVDFzRU01RGJQcjY1VS1lMzQwRU9QUjN1TzJTVHRiTFU2Ty1SUExPeDZhMzR6RkdiRllLM2xaa3ZYQXBrdkhza05BYzhoSVUySGw2dURFSGx4UDRfYjJoZnI1Vk4tbG5kVDVkcXNmaFI5eWpFNWVyZzdLVERTcG1CWVVJWmJWT2RhaUVOMlFob3dFN01NT3pjWDNZWm8?oc=5",
+        "date": "2026-08-12",
+        "title": "Red Hat links agentic AI infrastructure to platform control - SiliconANGLE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ21nSTJzRmNhbTZqbTYxM2hUU1JrRW9TMlh3cWdMdVN6YkROWGlDRm9aN2tYUXNLMTVEVDFzRU01RGJQcjY1VS1lMzQwRU9QUjN1TzJTVHRiTFU2Ty1SUExPeDZhMzR6RkdiRllLM2xaa3ZYQXBrdkhza05BYzhoSVUySGw2dURFSGx4UDRfYjJoZnI1Vk4tbG5kVDVkcXNmaFI5eWpFNWVyZzdLVERTcG1CWVVJWmJWT2RhaUVOMlFob3dFN01NT3pjWDNZWm8?oc=5\" target=\"_blank\">Red Hat links agentic AI infrastructure to platform control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc0YyOHJMSEhRcllMTi10bnd4Z1JaaXpHbWVvY0huaFlPaWlYQ2NIcks5bmd2ZzZsWFFqRHBvNzlldlNVWUo5QzB4ZWdscU55VlkzVXdJWWdBUWE5cFRfSlllUnRCRkprTUFMSjJZR0J5VUhRd1N2UXlhVU50WjRvTFgzNkZ3di1Sd2R5ckVVZ25nOWtWa2wxVS1uUGlYWjNtQ0dzT1NYYVFqODhMUUZDeTVBWi1EZ0ZXRnc?oc=5",
+        "date": "2026-08-12",
+        "title": "Pantheon Electric Makes 2026 Inc. 5000 as Electrical Infrastructure Demand Grows - citybiz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNc0YyOHJMSEhRcllMTi10bnd4Z1JaaXpHbWVvY0huaFlPaWlYQ2NIcks5bmd2ZzZsWFFqRHBvNzlldlNVWUo5QzB4ZWdscU55VlkzVXdJWWdBUWE5cFRfSlllUnRCRkprTUFMSjJZR0J5VUhRd1N2UXlhVU50WjRvTFgzNkZ3di1Sd2R5ckVVZ25nOWtWa2wxVS1uUGlYWjNtQ0dzT1NYYVFqODhMUUZDeTVBWi1EZ0ZXRnc?oc=5\" target=\"_blank\">Pantheon Electric Makes 2026 Inc. 5000 as Electrical Infrastructure Demand Grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citybiz</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2RMMjJZeEMySGpTQ3B0WlA4SXM1MGVvSzQwMXRRWnNUdkVPWXVYa1M2LXhxcGNZN2dWY09KTmhzcE1oTndpTk1LMVlFQ0l3M29kWjlaMWNNaW1FLUY1OFRBdG9fNnhEVkRKNGk5akhmTE9PTzNvb1RPekhUUHRER3ZlRTdhVzFFWF9qUFZxN1M1SVF2U3pJUFVQWWExT29LbUNIZTY1ekpHQzlaUnc?oc=5",
+        "date": "2026-08-12",
+        "title": "ERCO lands $129M equity investment to expand Colombia's solar infrastructure - Dealroom",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2RMMjJZeEMySGpTQ3B0WlA4SXM1MGVvSzQwMXRRWnNUdkVPWXVYa1M2LXhxcGNZN2dWY09KTmhzcE1oTndpTk1LMVlFQ0l3M29kWjlaMWNNaW1FLUY1OFRBdG9fNnhEVkRKNGk5akhmTE9PTzNvb1RPekhUUHRER3ZlRTdhVzFFWF9qUFZxN1M1SVF2U3pJUFVQWWExT29LbUNIZTY1ekpHQzlaUnc?oc=5\" target=\"_blank\">ERCO lands $129M equity investment to expand Colombia's solar infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dealroom</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0pVY29TcG5NQm9jY2RKcFdaZ2U4ay1ZblpXSFJFenFYOUNLcVJWTHMySXdxY21IYXNQTjduUUF2c0VndUQ3OERxYzIybUEwU2Z5aXhOV3lkdENPdEpDYy00Mlpxb2I0MEtkY05jbEZtMFF1NzlFRW9UWFhIc1NJd3ZkWVZkYkFCR2lzWl9FbzQ2MkNYV0d4TkdWRU5UX3ZtaC0xWTVmeEVpUE0?oc=5",
+        "date": "2026-08-12",
+        "title": "Alerian Energy Infrastructure ETF Declares Third Quarter Distribution of $0.38575 - Yahoo Finance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0pVY29TcG5NQm9jY2RKcFdaZ2U4ay1ZblpXSFJFenFYOUNLcVJWTHMySXdxY21IYXNQTjduUUF2c0VndUQ3OERxYzIybUEwU2Z5aXhOV3lkdENPdEpDYy00Mlpxb2I0MEtkY05jbEZtMFF1NzlFRW9UWFhIc1NJd3ZkWVZkYkFCR2lzWl9FbzQ2MkNYV0d4TkdWRU5UX3ZtaC0xWTVmeEVpUE0?oc=5\" target=\"_blank\">Alerian Energy Infrastructure ETF Declares Third Quarter Distribution of $0.38575</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRW1jbFYyODZ0SzdwdENJM1lpYk40Zy1ENU4xWEwxQnZwMW5vUUFtaFNmb0dxZGF6VGpTdEZWYjRWYkpxdzRSeGpCTUUzUmthNHYyaUlqYmt6cVdMN1E2aDNuNlBSOTVWQTVNMEt2bGVSOUdCS2ZNZEZCYUVwWGRXNEdkNzJ6QkptNDdoZmRwZTRud1BabkxrMEZwRWZGZGc1NUVJY21tUDNxU0JVblBHLVVTLS1HN3Y1NUUzQ3h5X3VmLUducmtBOTZKV3BJVjZKbk1zVnh1d0QtQ0p1ekhiLQ?oc=5",
+        "date": "2026-08-12",
+        "title": "FirstLight Chooses VETRO as Strategic Partner for Next-Generation Infrastructure Management - PR Newswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRW1jbFYyODZ0SzdwdENJM1lpYk40Zy1ENU4xWEwxQnZwMW5vUUFtaFNmb0dxZGF6VGpTdEZWYjRWYkpxdzRSeGpCTUUzUmthNHYyaUlqYmt6cVdMN1E2aDNuNlBSOTVWQTVNMEt2bGVSOUdCS2ZNZEZCYUVwWGRXNEdkNzJ6QkptNDdoZmRwZTRud1BabkxrMEZwRWZGZGc1NUVJY21tUDNxU0JVblBHLVVTLS1HN3Y1NUUzQ3h5X3VmLUducmtBOTZKV3BJVjZKbk1zVnh1d0QtQ0p1ekhiLQ?oc=5\" target=\"_blank\">FirstLight Chooses VETRO as Strategic Partner for Next-Generation Infrastructure Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbXZTbWlPd2RkQ29JQV9vaExLUVRadGNQUHJQYTdrc19JX1pYY21ISGxGcWxaQk9MWEhJMHVPVEg5ZmNoeVJvQW1tOXJGWm9QYTg1MGN1SzBYX1NQNFlxYm1pbGU0czhSNTU3RGtJalREYnVTYlZsUUduQmRrN0JEcGdDZERmbE01Y2N5Qlo3RjhVYkVvemhaaW5sNV9vNU50dkJBTGJwbVBWaVZSVGFtbmF4cFlhZ1ZCLWctQ1A1MTY3RDV0dkdJNmVn?oc=5",
+        "date": "2026-08-12",
+        "title": "Natural disasters expected to increase deman... - BNamericas",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQbXZTbWlPd2RkQ29JQV9vaExLUVRadGNQUHJQYTdrc19JX1pYY21ISGxGcWxaQk9MWEhJMHVPVEg5ZmNoeVJvQW1tOXJGWm9QYTg1MGN1SzBYX1NQNFlxYm1pbGU0czhSNTU3RGtJalREYnVTYlZsUUduQmRrN0JEcGdDZERmbE01Y2N5Qlo3RjhVYkVvemhaaW5sNV9vNU50dkJBTGJwbVBWaVZSVGFtbmF4cFlhZ1ZCLWctQ1A1MTY3RDV0dkdJNmVn?oc=5\" target=\"_blank\">Natural disasters expected to increase deman...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BNamericas</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1pHSmoxbDdqTGFzb3ZQMHZXcDRJUDR1a05OTWhuTUw5aW11TGNjOGo3ZzZiR0ZtbTVZd0UxbWprZEtwSk5HbnRfWW4ybmNLTDhDbXExdEx3cHdWVkZnck5qOFFvamtIMlg5OHJ0ZXVSSUVJSFk5QUwzTkNUX1VHbENMYzNGWG5vSk9zRENodUhEQ3Z0RUVtZXdNS1hjcTd6U0prZzNaNUdZVi13c09lU2g1alZHd2hOMTJFaVJoM2Y?oc=5",
+        "date": "2026-08-12",
+        "title": "Field of Dreams\u2019 temporary setup, weather require Aramark to adapt - Sports Business Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1pHSmoxbDdqTGFzb3ZQMHZXcDRJUDR1a05OTWhuTUw5aW11TGNjOGo3ZzZiR0ZtbTVZd0UxbWprZEtwSk5HbnRfWW4ybmNLTDhDbXExdEx3cHdWVkZnck5qOFFvamtIMlg5OHJ0ZXVSSUVJSFk5QUwzTkNUX1VHbENMYzNGWG5vSk9zRENodUhEQ3Z0RUVtZXdNS1hjcTd6U0prZzNaNUdZVi13c09lU2g1alZHd2hOMTJFaVJoM2Y?oc=5\" target=\"_blank\">Field of Dreams\u2019 temporary setup, weather require Aramark to adapt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sports Business Journal</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaERpTE9YWEw4bmxhRjZIUVJpbm5zTUdXMXRxMVV3OC02cmE2QV9pOFRPd01lQWJZa0FyME1ONEI0V3pjU01tQjh5MzB1bHIyZlRBclRBeVpPZXdIRXhpS0t2UlhGRHFuRDl0WFc1MnFYRUk2SjJBMDV1R3JQYmJIRGlsai1WS1BWVWVUa0lFb0tIbm9QSEFpeXlLR2lfMHZlX2NmcGhwRTdYemJoSjdmbEkzN2VULXFwT2xkN1lRNDl1Y1lw?oc=5",
+        "date": "2026-08-12",
+        "title": "Astrotech Forms Advisory Board to Advance Lunar Resources and Infrastructure Initiative - citybiz",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNaERpTE9YWEw4bmxhRjZIUVJpbm5zTUdXMXRxMVV3OC02cmE2QV9pOFRPd01lQWJZa0FyME1ONEI0V3pjU01tQjh5MzB1bHIyZlRBclRBeVpPZXdIRXhpS0t2UlhGRHFuRDl0WFc1MnFYRUk2SjJBMDV1R3JQYmJIRGlsai1WS1BWVWVUa0lFb0tIbm9QSEFpeXlLR2lfMHZlX2NmcGhwRTdYemJoSjdmbEkzN2VULXFwT2xkN1lRNDl1Y1lw?oc=5\" target=\"_blank\">Astrotech Forms Advisory Board to Advance Lunar Resources and Infrastructure Initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">citybiz</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWEk3bXVwNG9MRkxUUWx1NHJ0eHJlbGpuSWwtemRpX3Z6Wldpb25OMW1tcnpKZ3pJb2dwLUJjeUF4X0RfcUZ5WUNLZXFfdldsTHlsbFRvcFVoalR4LW11XzJVRGlXWUJlcTVTcy1wUk43TEZvMDVRY2JvWkZETEdrME94SzQ5WkNwVWNfLVBKWEtwWGVIMF9pTVVaRlJaUXFyRlVNSGRzaHZRSHktb296d2w0Q25Idw?oc=5",
+        "date": "2026-08-12",
+        "title": "Mark Cruz to lead Indian Health Service amid staffing and infrastructure challenges - DRGNews",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPWEk3bXVwNG9MRkxUUWx1NHJ0eHJlbGpuSWwtemRpX3Z6Wldpb25OMW1tcnpKZ3pJb2dwLUJjeUF4X0RfcUZ5WUNLZXFfdldsTHlsbFRvcFVoalR4LW11XzJVRGlXWUJlcTVTcy1wUk43TEZvMDVRY2JvWkZETEdrME94SzQ5WkNwVWNfLVBKWEtwWGVIMF9pTVVaRlJaUXFyRlVNSGRzaHZRSHktb296d2w0Q25Idw?oc=5\" target=\"_blank\">Mark Cruz to lead Indian Health Service amid staffing and infrastructure challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DRGNews</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOMmNoTTVaaU1xdDhKOFB3cVpDcFhtMlZvSUVvNDVjVmV3YmVybF9uWmpPa0VONXBacEVRSzVZWlh5OFdaZzBjR3g0OXBYS3llQXBPOW1xOGpmLV9DaF9iLURMcndJSjFsUW9ob0VLbmM5c1BUVnk2MENUeWpNT0w4SG1pRkVDVEJqSWJHTXpQVVVPdVJIMkMzRjE1eGdmaGFpbnVMbkpORDFKaWE3RFI3OWdhUFhfWHJqNnhicXUxZ04zS0xwZUV5enJPMGpUWE5jbmJGc1VVaEVmTFp4VDFzc3h0dUtCMi1YV2hoYVNDMWxDbzRVdTJ2VnA5azA2NHQ4aW94TGNCYlNfNzJrbFhCTVk3RWM?oc=5",
+        "date": "2026-08-12",
+        "title": "CK Infrastructure: Record profit surge and robust cash position set stage for disciplined growth and M&A - TradingView",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOMmNoTTVaaU1xdDhKOFB3cVpDcFhtMlZvSUVvNDVjVmV3YmVybF9uWmpPa0VONXBacEVRSzVZWlh5OFdaZzBjR3g0OXBYS3llQXBPOW1xOGpmLV9DaF9iLURMcndJSjFsUW9ob0VLbmM5c1BUVnk2MENUeWpNT0w4SG1pRkVDVEJqSWJHTXpQVVVPdVJIMkMzRjE1eGdmaGFpbnVMbkpORDFKaWE3RFI3OWdhUFhfWHJqNnhicXUxZ04zS0xwZUV5enJPMGpUWE5jbmJGc1VVaEVmTFp4VDFzc3h0dUtCMi1YV2hoYVNDMWxDbzRVdTJ2VnA5azA2NHQ4aW94TGNCYlNfNzJrbFhCTVk3RWM?oc=5\" target=\"_blank\">CK Infrastructure: Record profit surge and robust cash position set stage for disciplined growth and M&amp;A</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMUFJaDlXMTNXOC0wWFFRd1ZOc3ZUUUZJb215Rjl1V2VQSWp0Y05OaGpUNXdrYl91R0otRVlyQXN3a293R3FteEZqRjVYUEhrN0x3UWliSE1QOEcwdVNXU0s5dWEwdkY5b2hRc01pX0VGcTRyV0FDbWdzT0ZHSkZ6akNaalpjTWhWRHVINUFvbWt4Qm1GdGxVQTVGV2JuVGJia3hpOGRSbmtiRURfU3ZJbF9yWFFfSnZJbVR5TtIBwgFBVV95cUxQeWxXR3FyaG1IX0lzU0xCZlJseHRxcWdZLUFfX2RSZUc5S2ZENUgzOHdzallSdWVadzZwb3VJYkxaS3lIa1lPRHFYQlNhZTI3Y3BPZklYZVlOeUttNEthcXlzSWtpWlhyWmRuaFVHUmFkLVktMVU3MmExdDhabWNiamFsbV9wOFVTQ0pOeEdGdHJuejhsY1NrZnhSM2szZGluUGs1Uy00WWFJbElqNGVOVWh5VnNFRDRGcEVOMDU1MUIxUQ?oc=5",
+        "date": "2026-08-12",
+        "title": "How Lagos, Abuja\u2019s urban boom deepens plight of indigenous communities \u2014 David Masagbor - Vanguard News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOMUFJaDlXMTNXOC0wWFFRd1ZOc3ZUUUZJb215Rjl1V2VQSWp0Y05OaGpUNXdrYl91R0otRVlyQXN3a293R3FteEZqRjVYUEhrN0x3UWliSE1QOEcwdVNXU0s5dWEwdkY5b2hRc01pX0VGcTRyV0FDbWdzT0ZHSkZ6akNaalpjTWhWRHVINUFvbWt4Qm1GdGxVQTVGV2JuVGJia3hpOGRSbmtiRURfU3ZJbF9yWFFfSnZJbVR5TtIBwgFBVV95cUxQeWxXR3FyaG1IX0lzU0xCZlJseHRxcWdZLUFfX2RSZUc5S2ZENUgzOHdzallSdWVadzZwb3VJYkxaS3lIa1lPRHFYQlNhZTI3Y3BPZklYZVlOeUttNEthcXlzSWtpWlhyWmRuaFVHUmFkLVktMVU3MmExdDhabWNiamFsbV9wOFVTQ0pOeEdGdHJuejhsY1NrZnhSM2szZGluUGs1Uy00WWFJbElqNGVOVWh5VnNFRDRGcEVOMDU1MUIxUQ?oc=5\" target=\"_blank\">How Lagos, Abuja\u2019s urban boom deepens plight of indigenous communities \u2014 David Masagbor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vanguard News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObGdqUWY3d0lyMld3SzlkZkJOVzNvZm5zZm9aNnU4LVVHZEVDejVXZlhfTlJtS1hJVFJQT254OUZseEJ5N1lBWExnUEYwWlp1a21FQVJxVm5FUThuRUZ6WkJtclJReWFXZUYtVm9KSF9UZE9PY05DWWhSdm9WMldmRTNuMVp0SVV1T1BmMTBsb01pZVQ2Snp5S09INHVEbmtpOTVNSktRMENFQUNRU3RCX0FwTG8tbVhVa29kaWpVRnBqS0M2cmZjUEdwejVEaXl1NjlpWW9sQ01EZDNqU2twUU9yMnd0dTFFMVVzdHN6c3k0bkFoT0RuVmxxTHR3VHFMdnkxS9IBhAJBVV95cUxObGdqUWY3d0lyMld3SzlkZkJOVzNvZm5zZm9aNnU4LVVHZEVDejVXZlhfTlJtS1hJVFJQT254OUZseEJ5N1lBWExnUEYwWlp1a21FQVJxVm5FUThuRUZ6WkJtclJReWFXZUYtVm9KSF9UZE9PY05DWWhSdm9WMldmRTNuMVp0SVV1T1BmMTBsb01pZVQ2Snp5S09INHVEbmtpOTVNSktRMENFQUNRU3RCX0FwTG8tbVhVa29kaWpVRnBqS0M2cmZjUEdwejVEaXl1NjlpWW9sQ01EZDNqU2twUU9yMnd0dTFFMVVzdHN6c3k0bkFoT0RuVmxxTHR3VHFMdnkxSw?oc=5",
+        "date": "2026-08-12",
+        "title": "Delhi Master Plan 2047: What the new blueprint proposes for DDA, urban housing, DMRC, infrastructure and... - Moneycontrol.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxObGdqUWY3d0lyMld3SzlkZkJOVzNvZm5zZm9aNnU4LVVHZEVDejVXZlhfTlJtS1hJVFJQT254OUZseEJ5N1lBWExnUEYwWlp1a21FQVJxVm5FUThuRUZ6WkJtclJReWFXZUYtVm9KSF9UZE9PY05DWWhSdm9WMldmRTNuMVp0SVV1T1BmMTBsb01pZVQ2Snp5S09INHVEbmtpOTVNSktRMENFQUNRU3RCX0FwTG8tbVhVa29kaWpVRnBqS0M2cmZjUEdwejVEaXl1NjlpWW9sQ01EZDNqU2twUU9yMnd0dTFFMVVzdHN6c3k0bkFoT0RuVmxxTHR3VHFMdnkxS9IBhAJBVV95cUxObGdqUWY3d0lyMld3SzlkZkJOVzNvZm5zZm9aNnU4LVVHZEVDejVXZlhfTlJtS1hJVFJQT254OUZseEJ5N1lBWExnUEYwWlp1a21FQVJxVm5FUThuRUZ6WkJtclJReWFXZUYtVm9KSF9UZE9PY05DWWhSdm9WMldmRTNuMVp0SVV1T1BmMTBsb01pZVQ2Snp5S09INHVEbmtpOTVNSktRMENFQUNRU3RCX0FwTG8tbVhVa29kaWpVRnBqS0M2cmZjUEdwejVEaXl1NjlpWW9sQ01EZDNqU2twUU9yMnd0dTFFMVVzdHN6c3k0bkFoT0RuVmxxTHR3VHFMdnkxSw?oc=5\" target=\"_blank\">Delhi Master Plan 2047: What the new blueprint proposes for DDA, urban housing, DMRC, infrastructure and...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Delhi Master Plan 2047 sets new proposals for urban housing, DDA, DMRC and infrastructure."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNVZnVlhSMjZDWVZJNGlfVFdrZ3JRRUgtRUlrTlNuVS1uRnVxSmhrX3BxMTNoOTFYbzdmSmNJRnFMdXU0ZG1aaUVSVVd3eVVGLW5vcEdnRGJEUUNiNXcwTnpTTkJvaU8xQjhCcGJPVkhRZW84ZnRSb3oybFNrUDlhYTRrQTNQM1JaWDhaYnpTRVhjLWFqdFZCSlA2OGlGRVB4LWg4NWVPSGE4bmRwNkIxUnZPU2hJTlNvWFM4Q1NUT0tVYWhxem9JYThqa3pWS0tETUE?oc=5",
+        "date": "2026-08-12",
+        "title": "Egypt largest real estate show, Cityscape Egypt, to open in September - Markets & Companies - Business - Ahram Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNVZnVlhSMjZDWVZJNGlfVFdrZ3JRRUgtRUlrTlNuVS1uRnVxSmhrX3BxMTNoOTFYbzdmSmNJRnFMdXU0ZG1aaUVSVVd3eVVGLW5vcEdnRGJEUUNiNXcwTnpTTkJvaU8xQjhCcGJPVkhRZW84ZnRSb3oybFNrUDlhYTRrQTNQM1JaWDhaYnpTRVhjLWFqdFZCSlA2OGlGRVB4LWg4NWVPSGE4bmRwNkIxUnZPU2hJTlNvWFM4Q1NUT0tVYWhxem9JYThqa3pWS0tETUE?oc=5\" target=\"_blank\">Egypt largest real estate show, Cityscape Egypt, to open in September - Markets & Companies - Business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ahram Online</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObGdqUWY3d0lyMld3SzlkZkJOVzNvZm5zZm9aNnU4LVVHZEVDejVXZlhfTlJtS1hJVFJQT254OUZseEJ5N1lBWExnUEYwWlp1a21FQVJxVm5FUThuRUZ6WkJtclJReWFXZUYtVm9KSF9UZE9PY05DWWhSdm9WMldmRTNuMVp0SVV1T1BmMTBsb01pZVQ2Snp5S09INHVEbmtpOTVNSktRMENFQUNRU3RCX0FwTG8tbVhVa29kaWpVRnBqS0M2cmZjUEdwejVEaXl1NjlpWW9sQ01EZDNqU2twUU9yMnd0dTFFMVVzdHN6c3k0bkFoT0RuVmxxTHR3VHFMdnkxS9IBhAJBVV95cUxObGdqUWY3d0lyMld3SzlkZkJOVzNvZm5zZm9aNnU4LVVHZEVDejVXZlhfTlJtS1hJVFJQT254OUZseEJ5N1lBWExnUEYwWlp1a21FQVJxVm5FUThuRUZ6WkJtclJReWFXZUYtVm9KSF9UZE9PY05DWWhSdm9WMldmRTNuMVp0SVV1T1BmMTBsb01pZVQ2Snp5S09INHVEbmtpOTVNSktRMENFQUNRU3RCX0FwTG8tbVhVa29kaWpVRnBqS0M2cmZjUEdwejVEaXl1NjlpWW9sQ01EZDNqU2twUU9yMnd0dTFFMVVzdHN6c3k0bkFoT0RuVmxxTHR3VHFMdnkxSw?oc=5",
+        "date": "2026-08-12",
+        "title": "Delhi Master Plan 2047: What the new blueprint proposes for DDA, urban housing, DMRC, infrastructure and... - Moneycontrol.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxObGdqUWY3d0lyMld3SzlkZkJOVzNvZm5zZm9aNnU4LVVHZEVDejVXZlhfTlJtS1hJVFJQT254OUZseEJ5N1lBWExnUEYwWlp1a21FQVJxVm5FUThuRUZ6WkJtclJReWFXZUYtVm9KSF9UZE9PY05DWWhSdm9WMldmRTNuMVp0SVV1T1BmMTBsb01pZVQ2Snp5S09INHVEbmtpOTVNSktRMENFQUNRU3RCX0FwTG8tbVhVa29kaWpVRnBqS0M2cmZjUEdwejVEaXl1NjlpWW9sQ01EZDNqU2twUU9yMnd0dTFFMVVzdHN6c3k0bkFoT0RuVmxxTHR3VHFMdnkxS9IBhAJBVV95cUxObGdqUWY3d0lyMld3SzlkZkJOVzNvZm5zZm9aNnU4LVVHZEVDejVXZlhfTlJtS1hJVFJQT254OUZseEJ5N1lBWExnUEYwWlp1a21FQVJxVm5FUThuRUZ6WkJtclJReWFXZUYtVm9KSF9UZE9PY05DWWhSdm9WMldmRTNuMVp0SVV1T1BmMTBsb01pZVQ2Snp5S09INHVEbmtpOTVNSktRMENFQUNRU3RCX0FwTG8tbVhVa29kaWpVRnBqS0M2cmZjUEdwejVEaXl1NjlpWW9sQ01EZDNqU2twUU9yMnd0dTFFMVVzdHN6c3k0bkFoT0RuVmxxTHR3VHFMdnkxSw?oc=5\" target=\"_blank\">Delhi Master Plan 2047: What the new blueprint proposes for DDA, urban housing, DMRC, infrastructure and...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Delhi Master Plan 2047 sets new directions for DDA, urban housing, DMRC and infrastructure upgrades.",
+        "type": "news"
     }
 ]
