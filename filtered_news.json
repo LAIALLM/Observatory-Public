@@ -2122,5 +2122,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-12",
+        "status": "posted",
+        "tweet": "\ud83c\uddeb\ud83c\uddee Finland Meta data centers recorded 0.28 PUE efficiency rating during 2025 operations.",
+        "type": "infrastructure"
     }
 ]
