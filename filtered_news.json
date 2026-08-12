@@ -1,79 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-02",
-        "status": "posted",
-        "tweet": "Urban transit mode share projections 2026\n\n1. \ud83c\udded\ud83c\uddf0 Hong Kong 82%\n2. \ud83c\uddf8\ud83c\uddec Singapore 78%\n3. \ud83c\uddef\ud83c\uddf5 Tokyo 75%\n4. \ud83c\uddf0\ud83c\uddf7 Seoul 71%\n5. \ud83c\udde8\ud83c\udded Zurich 68%",
-        "type": "statistical",
-        "category": "urban planning"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fNmVEOWZpVDJJanVvYVNMVXpIcy03c2dYR0xIYWdoanpvQXdTQ1lpVndCbmZBSmFqX1BMa2V6SmhNY00wVGlReHpYc01pTldPYWlQdHFFdw?oc=5",
-        "date": "2026-08-02",
-        "title": "Israel\u2019s labor shortage shows why foreign workers are vital to the economy - The Jerusalem Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fNmVEOWZpVDJJanVvYVNMVXpIcy03c2dYR0xIYWdoanpvQXdTQ1lpVndCbmZBSmFqX1BMa2V6SmhNY00wVGlReHpYc01pTldPYWlQdHFFdw?oc=5\" target=\"_blank\">Israel\u2019s labor shortage shows why foreign workers are vital to the economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font>",
-        "similarity_excluded": "No",
-        "score": 4,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb2xFeklYMVBLdEI3NU5jd3dEbFpGdGlONzh5dXo3NUtKSUtCdWk4RWNQU3F3dG5KQVB2YTdLdC1wSXlCV0pQYXVLdkZXRGpiLW1ZNHhJRmV6MTNxbWFlX1RGbG12YXlRT19MM01HRHNXVV9HLU8tMHRjalpYeW53Z0lCM1FYbUdobm9wZU9MZlZOVWQ0WmVWTy1LLUg5T0g1WGtoS09MYXZIcXRfeHRQUlpWYWNfaS1mWlHSAb8BQVVfeXFMTjZkc28wc3AtVEZhLXZUU2R5MnFZcVg1aFB2cTdJNk1YV1p2SlQ1eEFCMERURFAtVVpQSzlLNUFJYnM2RVJxYy0yYlJaSFl2N3ZBVmRFQ0QtU1Q4VGZLTEV0bWtNa2JqSE5fVWN0VTZETXhnZXgzcmNuQy1yQkRDMzBVd1NUdVpKWnFEa0xEbFNWSlJSM0d0eEloNFB2TWJRa2ZXMDlBOHJiVEN0VUdHRmtieGRGRFBxUUhSM1Zob3c?oc=5",
-        "date": "2026-08-02",
-        "title": "Yemen\u2019s crumbling roads mean an arduous quest for water for Taiz villagers - Al Jazeera",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNb2xFeklYMVBLdEI3NU5jd3dEbFpGdGlONzh5dXo3NUtKSUtCdWk4RWNQU3F3dG5KQVB2YTdLdC1wSXlCV0pQYXVLdkZXRGpiLW1ZNHhJRmV6MTNxbWFlX1RGbG12YXlRT19MM01HRHNXVV9HLU8tMHRjalpYeW53Z0lCM1FYbUdobm9wZU9MZlZOVWQ0WmVWTy1LLUg5T0g1WGtoS09MYXZIcXRfeHRQUlpWYWNfaS1mWlHSAb8BQVVfeXFMTjZkc28wc3AtVEZhLXZUU2R5MnFZcVg1aFB2cTdJNk1YV1p2SlQ1eEFCMERURFAtVVpQSzlLNUFJYnM2RVJxYy0yYlJaSFl2N3ZBVmRFQ0QtU1Q4VGZLTEV0bWtNa2JqSE5fVWN0VTZETXhnZXgzcmNuQy1yQkRDMzBVd1NUdVpKWnFEa0xEbFNWSlJSM0d0eEloNFB2TWJRa2ZXMDlBOHJiVEN0VUdHRmtieGRGRFBxUUhSM1Zob3c?oc=5\" target=\"_blank\">Yemen\u2019s crumbling roads mean an arduous quest for water for Taiz villagers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-08-02",
-        "status": "posted",
-        "tweet": "Microsoft $MSFT \ud83c\uddfa\ud83c\uddf8 Virginia data centers processed 1.4 exabytes daily.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BY3VRQ2JUNFYwWDBWaEtjS1hoVXJZQ2tEVE9KS3FuVnRUdjFvbE5QWDkxTTJiNXVhMXNzbHYxZ2ttU2FvRmE2cWtYQm5EQmw5eHg4OF9tVmdjd1RwWkRPeGhLSjhCYzE2TmNQWG5XTy0?oc=5",
-        "date": "2026-08-02",
-        "title": "Srinagar gets \u20b919.61 Cr sewer network - Brighter Kashmir",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9BY3VRQ2JUNFYwWDBWaEtjS1hoVXJZQ2tEVE9KS3FuVnRUdjFvbE5QWDkxTTJiNXVhMXNzbHYxZ2ttU2FvRmE2cWtYQm5EQmw5eHg4OF9tVmdjd1RwWkRPeGhLSjhCYzE2TmNQWG5XTy0?oc=5\" target=\"_blank\">Srinagar gets \u20b919.61 Cr sewer network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brighter Kashmir</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://www.enr.com/articles/63407-corps-of-engineers-outlines-10b-plan-to-protect-bostons-coastline",
-        "date": "2026-08-02",
-        "title": "Corps of Engineers Outlines $10B Plan to Protect Boston's Coastline",
-        "summary": "Analysis, which scopes at least 20 infrastructure projects along 16 miles of the 47-mile urban coastline where flooding is expected to impact public safety and the local economy, was released jointly with the city on July 24.",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: US Army Corps of Engineers outlines $10B plan with at least 20 infrastructure projects along 16 miles of Boston coastline to protect against flooding."
-    },
-    {
-        "link": "https://www.enr.com/articles/63407-corps-of-engineers-outlines-10b-plan-to-protect-bostons-coastline",
-        "date": "2026-08-02",
-        "title": "Corps of Engineers Outlines $10B Plan to Protect Boston's Coastline",
-        "summary": "Analysis, which scopes at least 20 infrastructure projects along 16 miles of the 47-mile urban coastline where flooding is expected to impact public safety and the local economy, was released jointly with the city on July 24.",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Corps of Engineers outlines $10B plan to protect Bostons coastline with at least 20 infrastructure projects along 16 miles of the 47-mile urban shore, released jointly with the city on July 24.",
-        "type": "news"
-    },
-    {
-        "link": null,
-        "date": "2026-08-02",
-        "status": "posted",
-        "tweet": "2026 scalability infra costs (B USD)\n1. Bitcoin 3.8\n2. Ethereum 0.9\n3. Solana 0.2",
-        "type": "crypto"
-    },
-    {
-        "link": null,
         "date": "2026-08-03",
         "status": "posted",
         "tweet": "2026 maintenance and security costs\n1. Bitcoin 11.8B\n2. Ethereum 1.9B\n3. Solana 0.5B",
@@ -2151,6 +2078,46 @@
         "date": "2026-08-11",
         "title": "$1.7B Border Wall Project Work Begins in Big Bend National Park",
         "summary": "U.S. Customs and Border Patrol says crews are only assessing soil conditions as opponents challenge a project in the southwest Texas national park..",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ3pBRmw1TUYxT0pURmhrQzd0cDBKajJONlVtanNYUm83aHpjLVZmc3NZU0R2MnBRbHFCbXQ1UHpPR2JDdVJRT0JuQnplMnkzU01qTWg1dkN5cXRhdXdFWVFmeHZDTmlUTS1zYnFwUnFVbXRNaHV6Um1xQ3VkaHc4OExXNUNnWjhCMDczS1lvM0NNOWowRFp1NmZVSzAzWDFOR3Z1NUswWnRuUQ?oc=5",
+        "date": "2026-08-12",
+        "title": "Construction Employment Gains in July 2026, DOL Reports - Construction Owners",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ3pBRmw1TUYxT0pURmhrQzd0cDBKajJONlVtanNYUm83aHpjLVZmc3NZU0R2MnBRbHFCbXQ1UHpPR2JDdVJRT0JuQnplMnkzU01qTWg1dkN5cXRhdXdFWVFmeHZDTmlUTS1zYnFwUnFVbXRNaHV6Um1xQ3VkaHc4OExXNUNnWjhCMDczS1lvM0NNOWowRFp1NmZVSzAzWDFOR3Z1NUswWnRuUQ?oc=5\" target=\"_blank\">Construction Employment Gains in July 2026, DOL Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction Owners</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUFoY3I3b1E3bHk5cjJkRHJsWVpCWC1DTXo2R1p5cHVYNmp0ZnJNZ3VjbGtzdWpEcU1OeENLRnYteVU4Q0JMdnpjUkRHM3JxR1JHdXh5TF8yN28wdndDd1Z3c3lzVlZJbGZLU2s0cWV3N3RpbEYyNDRiQTE3STBlblQwUHJzN3BiSmZhcG5UQk94X3RqdU5YZkpmTGNrMmRxcllNOFBTTmlLcU1jaGdteC1XdHRWbUtnV0J3VU9xeDNXLVk?oc=5",
+        "date": "2026-08-12",
+        "title": "Water-Repellent Wood Sealant Market to Reach USD 4.2B by 2035 on Asia-Pacific Construction Boom - IndexBox",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUFoY3I3b1E3bHk5cjJkRHJsWVpCWC1DTXo2R1p5cHVYNmp0ZnJNZ3VjbGtzdWpEcU1OeENLRnYteVU4Q0JMdnpjUkRHM3JxR1JHdXh5TF8yN28wdndDd1Z3c3lzVlZJbGZLU2s0cWV3N3RpbEYyNDRiQTE3STBlblQwUHJzN3BiSmZhcG5UQk94X3RqdU5YZkpmTGNrMmRxcllNOFBTTmlLcU1jaGdteC1XdHRWbUtnV0J3VU9xeDNXLVk?oc=5\" target=\"_blank\">Water-Repellent Wood Sealant Market to Reach USD 4.2B by 2035 on Asia-Pacific Construction Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVA2Ykd3RHFTVUNEUExRNEoxODdGekMxRkNBZFpfRXZMUmFoT0xSMUc1anRoRWZQRm5VRDY3OExtZTBuTVNyeG5STGpXaU9fbEdmcGY4MHJ5X2FFbjhjYmJ1Wk40Q1dmQnJZdWpFZ0dQUUx0X2VkaGtvQXRfMk5kNmV1aDQ5eUlfR0sxWktn?oc=5",
+        "date": "2026-08-12",
+        "title": "Buyers homing in on advanced modular construction - macau daily times \u6fb3\u9580\u6bcf\u65e5\u6642\u5831",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVA2Ykd3RHFTVUNEUExRNEoxODdGekMxRkNBZFpfRXZMUmFoT0xSMUc1anRoRWZQRm5VRDY3OExtZTBuTVNyeG5STGpXaU9fbEdmcGY4MHJ5X2FFbjhjYmJ1Wk40Q1dmQnJZdWpFZ0dQUUx0X2VkaGtvQXRfMk5kNmV1aDQ5eUlfR0sxWktn?oc=5\" target=\"_blank\">Buyers homing in on advanced modular construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">macau daily times \u6fb3\u9580\u6bcf\u65e5\u6642\u5831</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNlUwWmJtUThvc1NHbEk3SHZYZXNpaXJibllrdDdqSGZTdmpHeDRHRC1xa090UldlTm5UY20yZGFvYmN5TGVYUFpFem0wN1dHY0ZxSUp0bkJJQzl4THFjNW5xaG12clVSMkJabGF1NXNiSk8zSXg3YVpPRnY2S0JzSV95TjJMUGo3dzJZNGJjOU9qSU5XRVhRSGNRclVFWmI2TTU2NGwyS05CTllzRHBpWTY5bTZkSzlneGRKbmxhbUpZdnlIUlNTeWFHZVEtUjNPcnBEbNIB2gFBVV95cUxPVXNrcHF1Q1FjMWlxRkVKTVE4S3NXUTBxajR6OHhyQU0yRHJSNk5CU1dUTHYtaFpNY1BocTBCUVR5dTFYVkNfanpFdnFwTDNKdFlwYXNrVmhxRU8xeHU5dlVtSzFCWWZ2YTRhdXo4a1NnS3Rrcl82M0RfNVF5aXdzMnJMdHBVa0lhV3Boc2NvNG1sbko2QjJPc2tXYVJITVNLR3pFOHlSRFkwTGN3ZmNkbE1mNXFqdExGSlBWa05JbVlVMmJ1RHZ4Y3hZLUtOcy13U2h0RUZ5TXd0Zw?oc=5",
+        "date": "2026-08-12",
+        "title": "Keel Infrastructure (KEEL) Stock Price Reflects Deepening Margin Squeeze - simplywall.st",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNlUwWmJtUThvc1NHbEk3SHZYZXNpaXJibllrdDdqSGZTdmpHeDRHRC1xa090UldlTm5UY20yZGFvYmN5TGVYUFpFem0wN1dHY0ZxSUp0bkJJQzl4THFjNW5xaG12clVSMkJabGF1NXNiSk8zSXg3YVpPRnY2S0JzSV95TjJMUGo3dzJZNGJjOU9qSU5XRVhRSGNRclVFWmI2TTU2NGwyS05CTllzRHBpWTY5bTZkSzlneGRKbmxhbUpZdnlIUlNTeWFHZVEtUjNPcnBEbNIB2gFBVV95cUxPVXNrcHF1Q1FjMWlxRkVKTVE4S3NXUTBxajR6OHhyQU0yRHJSNk5CU1dUTHYtaFpNY1BocTBCUVR5dTFYVkNfanpFdnFwTDNKdFlwYXNrVmhxRU8xeHU5dlVtSzFCWWZ2YTRhdXo4a1NnS3Rrcl82M0RfNVF5aXdzMnJMdHBVa0lhV3Boc2NvNG1sbko2QjJPc2tXYVJITVNLR3pFOHlSRFkwTGN3ZmNkbE1mNXFqdExGSlBWa05JbVlVMmJ1RHZ4Y3hZLUtOcy13U2h0RUZ5TXd0Zw?oc=5\" target=\"_blank\">Keel Infrastructure (KEEL) Stock Price Reflects Deepening Margin Squeeze</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
         "similarity_excluded": "No",
         "score": 0,
         "status": "processed",
