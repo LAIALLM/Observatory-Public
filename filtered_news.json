@@ -3263,5 +3263,13 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-14",
+        "status": "posted",
+        "tweet": "By 2030, \ud83c\udde8\ud83c\uddf3 China will add 180 million urban residents, requiring 25 million new housing units yearly to match density targets.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
