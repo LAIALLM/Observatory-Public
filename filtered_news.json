@@ -3528,5 +3528,25 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5MThjMmx0VTc2UUxKUXZEaVo3LTFLWlk1a0pSbDQtWHV5MHpwNnNtanh3RUlOd0NyQklDeC1yWG51WFFJRmh0X0ZtLTFISFY2cWJkQjJpRUtZbVNaWXhTM3A2NmNEak40ZGZWcnJVTUt5Z2pLWkd0TQ?oc=5",
+        "date": "2026-08-15",
+        "title": "Building smarter, faster in Hong Kong - news.gov.hk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB5MThjMmx0VTc2UUxKUXZEaVo3LTFLWlk1a0pSbDQtWHV5MHpwNnNtanh3RUlOd0NyQklDeC1yWG51WFFJRmh0X0ZtLTFISFY2cWJkQjJpRUtZbVNaWXhTM3A2NmNEak40ZGZWcnJVTUt5Z2pLWkd0TQ?oc=5\" target=\"_blank\">Building smarter, faster in Hong Kong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.gov.hk</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXM4Y3lDS3FVZHk4TkluRFU1T1pXSTBGbXQ0RXJ4SEhYT0xvTjBZSTE2aW9aVFg1cVlZYk1IRk4weWoxandpZEtTUGYwcG5uSmd2OEhGb1h2OVh4dW1JLWh5TXVsSzYwczR2Z0lia05JQjFXVDFZU2VQZ3RIaTNzYjhZQk05bUs4THpMX2pValVOeWtvTkhHZ2ZaeWJ6V3dHM0xUX0RRekJoZ2NfUkhwWVRB?oc=5",
+        "date": "2026-08-15",
+        "title": "Russia Unleashes Strikes on Military Infrastructure at Ukraine\u2019s Odesa Port - Fana News -",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXM4Y3lDS3FVZHk4TkluRFU1T1pXSTBGbXQ0RXJ4SEhYT0xvTjBZSTE2aW9aVFg1cVlZYk1IRk4weWoxandpZEtTUGYwcG5uSmd2OEhGb1h2OVh4dW1JLWh5TXVsSzYwczR2Z0lia05JQjFXVDFZU2VQZ3RIaTNzYjhZQk05bUs4THpMX2pValVOeWtvTkhHZ2ZaeWJ6V3dHM0xUX0RRekJoZ2NfUkhwWVRB?oc=5\" target=\"_blank\">Russia Unleashes Strikes on Military Infrastructure at Ukraine\u2019s Odesa Port</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fana News -</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
