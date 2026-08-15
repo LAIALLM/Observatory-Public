@@ -3293,5 +3293,12 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-15",
+        "status": "posted",
+        "tweet": "2026 energy kWh per million transactions\n\n1. Bitcoin 450000000\n2. Ethereum 800\n3. Solana 12",
+        "type": "crypto"
     }
 ]
