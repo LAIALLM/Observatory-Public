@@ -3300,5 +3300,13 @@
         "status": "posted",
         "tweet": "2026 energy kWh per million transactions\n\n1. Bitcoin 450000000\n2. Ethereum 800\n3. Solana 12",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-08-15",
+        "status": "posted",
+        "tweet": "By 2026, \ud83c\udde8\ud83c\uddf3 China will connect 1 billion IoT devices in smart cities, reducing traffic delays by 50%.",
+        "type": "statistical",
+        "category": "smart cities"
     }
 ]
