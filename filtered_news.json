@@ -3266,5 +3266,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-15",
+        "status": "posted",
+        "tweet": "Microsoft data centers in \ud83c\uddfa\ud83c\uddf8 United States recorded a PUE of 1.05 in 2025. $MSFT",
+        "type": "infrastructure"
     }
 ]
