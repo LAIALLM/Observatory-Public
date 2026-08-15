@@ -3273,5 +3273,25 @@
         "status": "posted",
         "tweet": "Microsoft data centers in \ud83c\uddfa\ud83c\uddf8 United States recorded a PUE of 1.05 in 2025. $MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTUhLYkJ6YU1MTVdHSG1JZHRoZ19VMFdSakMwdE1oeGNTVGNlN3FwVjFCV2pybGh5ank0dHBfbGhLWmF1ZU5WN3ZEMUhHaFQ3cXNsVmcyY3M3bmt5ekM3ai1tUU1JdEpXSnYtdGFHTlQ5SDBHV19yYnI3djdNWldJVThjUzNGY25lWlFnb18tREhGa0RnXzMzSVA4T2I3R3Y4eUVQdU02amNsbjA5SFF1VQ?oc=5",
+        "date": "2026-08-15",
+        "title": "Village growth outpacing fire safety infrastructure, future planning - thecitizenonline.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOTUhLYkJ6YU1MTVdHSG1JZHRoZ19VMFdSakMwdE1oeGNTVGNlN3FwVjFCV2pybGh5ank0dHBfbGhLWmF1ZU5WN3ZEMUhHaFQ3cXNsVmcyY3M3bmt5ekM3ai1tUU1JdEpXSnYtdGFHTlQ5SDBHV19yYnI3djdNWldJVThjUzNGY25lWlFnb18tREhGa0RnXzMzSVA4T2I3R3Y4eUVQdU02amNsbjA5SFF1VQ?oc=5\" target=\"_blank\">Village growth outpacing fire safety infrastructure, future planning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thecitizenonline.com</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUZXUGV6ZE5aclh0RS1oaFlOOFZQMFAzN2N5WWdkVS1TZlVBTVB0aUkyd05GY0FCVXVBdm5wZl9PRFowUmFKUTdiV0hNX0x4MFNWbDFYS1c5ZEpqcVhrQ01Kb290YzRqSnZ2dTRrLUR4LXRxd0dma2ZORk5wOW5CNWtPY2w?oc=5",
+        "date": "2026-08-15",
+        "title": "Da Nang Aims to Be Vietnam's Gyeonggi with AI, Semiconductors - \uc870\uc120\uc77c\ubcf4",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUZXUGV6ZE5aclh0RS1oaFlOOFZQMFAzN2N5WWdkVS1TZlVBTVB0aUkyd05GY0FCVXVBdm5wZl9PRFowUmFKUTdiV0hNX0x4MFNWbDFYS1c5ZEpqcVhrQ01Kb290YzRqSnZ2dTRrLUR4LXRxd0dma2ZORk5wOW5CNWtPY2w?oc=5\" target=\"_blank\">Da Nang Aims to Be Vietnam's Gyeonggi with AI, Semiconductors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\uc870\uc120\uc77c\ubcf4</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
