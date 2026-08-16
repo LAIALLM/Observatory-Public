@@ -3643,5 +3643,55 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yRGRrdlAwcjZ1R0VNVW91Y2h2STVoZEFzYkFFMjJ0MVZCd25VeUQ4aG00d2FhYk1XWjlNVklRMzNDNnJRMlktbW5NWGJoMVFMUTdWSm1rSGtEX0p3Vm1XcW8zOWVjSHl2OUNCbUNqQW1MR2psaDVXeHJNX0c?oc=5",
+        "date": "2026-08-16",
+        "title": "News - Infrastructure Support Through KW26 - DVIDS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1yRGRrdlAwcjZ1R0VNVW91Y2h2STVoZEFzYkFFMjJ0MVZCd25VeUQ4aG00d2FhYk1XWjlNVklRMzNDNnJRMlktbW5NWGJoMVFMUTdWSm1rSGtEX0p3Vm1XcW8zOWVjSHl2OUNCbUNqQW1MR2psaDVXeHJNX0c?oc=5\" target=\"_blank\">News - Infrastructure Support Through KW26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DVIDS</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0RPRzZnUGt3aERFWFJkaHI2TWw3QVV0cUpSd3pudks5LXl5dVJIa2VGeVZZMG1IZXdjZmh4ZFpRTGdRTGtkVTJzTUVMRHhReVlhRDhUT0tYNnp0VUZDRHdCRXRhY0NyaTUtY3VzRmRwMlJ3REN6N2tBTFB2UWUwQnJRb0pXTklWRGF0cWVQdXZDeF9pNzZhbjBzUE5YUHFLV2RTcUpmRWZPY2pocTY2cm14WXFCMmczOXlN0gHAAUFVX3lxTE9yMmhkYVRnLW9UQTJIbjktaEdvT1dCRlp6S0tDeG1oZFdjSzlBbXV6THBXYk5uQUJUclB4TlI2V1lmdXJZQzIwRmkxYWhLY2VRY3hPNnh0QUhPVFVWS0pqZ1I2UW1JMnJFQnpyd1h0YmdkVmhJUW56dTlLZ2NULTVfRW9GdTN2MlgzOGlzeEJ0amtHRzBKWnhldElrTW9yeDNCck44TEM1clJUaXBVYzJfNWw1RWNBWERKNXJucEFscA?oc=5",
+        "date": "2026-08-16",
+        "title": "Copenhagen Infrastructure Partners Closes $3 Billion Growth Markets Fund II, Tripling Prior Fund Size - Pulse 2.0",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0RPRzZnUGt3aERFWFJkaHI2TWw3QVV0cUpSd3pudks5LXl5dVJIa2VGeVZZMG1IZXdjZmh4ZFpRTGdRTGtkVTJzTUVMRHhReVlhRDhUT0tYNnp0VUZDRHdCRXRhY0NyaTUtY3VzRmRwMlJ3REN6N2tBTFB2UWUwQnJRb0pXTklWRGF0cWVQdXZDeF9pNzZhbjBzUE5YUHFLV2RTcUpmRWZPY2pocTY2cm14WXFCMmczOXlN0gHAAUFVX3lxTE9yMmhkYVRnLW9UQTJIbjktaEdvT1dCRlp6S0tDeG1oZFdjSzlBbXV6THBXYk5uQUJUclB4TlI2V1lmdXJZQzIwRmkxYWhLY2VRY3hPNnh0QUhPVFVWS0pqZ1I2UW1JMnJFQnpyd1h0YmdkVmhJUW56dTlLZ2NULTVfRW9GdTN2MlgzOGlzeEJ0amtHRzBKWnhldElrTW9yeDNCck44TEM1clJUaXBVYzJfNWw1RWNBWERKNXJucEFscA?oc=5\" target=\"_blank\">Copenhagen Infrastructure Partners Closes $3 Billion Growth Markets Fund II, Tripling Prior Fund Size</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNXNRbE02d0kyUlJDeE9URWpkWHpiSEZWclpmWld6dW1HUTlTNlZQekVtVU9VbW15OGdpMXY2Vi1BS3BZOE1FRVhueXI1c09nekFlS3lDdWttYkNKUmlReG9JeUJ1U1FJeXhrNGk4UUZ0bXV2d3NMaHpZMHlrLU0?oc=5",
+        "date": "2026-08-16",
+        "title": "Infrastructure Support Through KW26 [Image 1 of 2] - DVIDS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNXNRbE02d0kyUlJDeE9URWpkWHpiSEZWclpmWld6dW1HUTlTNlZQekVtVU9VbW15OGdpMXY2Vi1BS3BZOE1FRVhueXI1c09nekFlS3lDdWttYkNKUmlReG9JeUJ1U1FJeXhrNGk4UUZ0bXV2d3NMaHpZMHlrLU0?oc=5\" target=\"_blank\">Infrastructure Support Through KW26 [Image 1 of 2]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DVIDS</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wRG5mVF9KLTJIQ01ucEx1Ump5dGxQTmpiX3g4eG5uY1prQ1l5UXhyMFc0UjVaVWNGUnQ5RkFoWm5XRjdZYm55clZUY1hTV0NvMmk1bGt3WEJIYWtiZ1RHR1c5ZHI2czRwS0ZZ?oc=5",
+        "date": "2026-08-16",
+        "title": "Russian Drones Attack Sumy, Damaging Civilian Infrastructure and Homes - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9wRG5mVF9KLTJIQ01ucEx1Ump5dGxQTmpiX3g4eG5uY1prQ1l5UXhyMFc0UjVaVWNGUnQ5RkFoWm5XRjdZYm55clZUY1hTV0NvMmk1bGt3WEJIYWtiZ1RHR1c5ZHI2czRwS0ZZ?oc=5\" target=\"_blank\">Russian Drones Attack Sumy, Damaging Civilian Infrastructure and Homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdDNVRkxLOGZqWW5mLXB1dmlRRGVRUFo4bWo1NlM1STRjMC1sQnpGRGRwMnNYakZCR2N2dGhTRnQtQWlvT1hWOWc3Q1hjMG9PS1BYWnFuM0lpTUNfalNwRzd5RVo1N2N3cTZUeG9ET3RucEs4bUkyU056aTBnMVFxSC1mZmZWQ3pPLURmYzE4WXhXR0JoNFJCSm9FakdKMjZIMG83ZGlMdHJyYXI5djhLb2ZzZW9mUVZJTmdHNFdR?oc=5",
+        "date": "2026-08-16",
+        "title": "Major Infrastructure Improvements Complete at Horsetooth, Carter Lake Reservoirs - North Forty News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPdDNVRkxLOGZqWW5mLXB1dmlRRGVRUFo4bWo1NlM1STRjMC1sQnpGRGRwMnNYakZCR2N2dGhTRnQtQWlvT1hWOWc3Q1hjMG9PS1BYWnFuM0lpTUNfalNwRzd5RVo1N2N3cTZUeG9ET3RucEs4bUkyU056aTBnMVFxSC1mZmZWQ3pPLURmYzE4WXhXR0JoNFJCSm9FakdKMjZIMG83ZGlMdHJyYXI5djhLb2ZzZW9mUVZJTmdHNFdR?oc=5\" target=\"_blank\">Major Infrastructure Improvements Complete at Horsetooth, Carter Lake Reservoirs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">North Forty News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
