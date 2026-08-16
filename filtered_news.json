@@ -3566,5 +3566,35 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbmozZ1QzMldIQ0QtQ2pZVnBhTDA3dGlxRzlMRU1ubVVmUEpQcUpWRGttRzhuUUxXVGVfLWc2MDZ1LVNCVTQ2cGp2ZGpvTzB0ZWZFV3ptMHdsYkpfLWxxV1JaUFh4a05KWFczZEk2UGlseFdOMUdMZmFkOE1NTFNwek5waGs4Z2p1bmRTRmpkaWh3eDVyZjc0aEJpVXNrUVF3Y2Z2TWRkZndJUC1NQ3ctWDR6TTZJTWZ0WUUwa0RhMVhqdVpfZmRKZWxrNXVENF9XU21UMUNlWm95dzY4Q0pvMDFRTDJVOUN4SXl2c0ZtakRIaDVDNHkySDZqbHREQQ?oc=5",
+        "date": "2026-08-16",
+        "title": "The rising cost of building materials: Can Nigerians still afford to build their dream homes? - Business News Nigeria",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbmozZ1QzMldIQ0QtQ2pZVnBhTDA3dGlxRzlMRU1ubVVmUEpQcUpWRGttRzhuUUxXVGVfLWc2MDZ1LVNCVTQ2cGp2ZGpvTzB0ZWZFV3ptMHdsYkpfLWxxV1JaUFh4a05KWFczZEk2UGlseFdOMUdMZmFkOE1NTFNwek5waGs4Z2p1bmRTRmpkaWh3eDVyZjc0aEJpVXNrUVF3Y2Z2TWRkZndJUC1NQ3ctWDR6TTZJTWZ0WUUwa0RhMVhqdVpfZmRKZWxrNXVENF9XU21UMUNlWm95dzY4Q0pvMDFRTDJVOUN4SXl2c0ZtakRIaDVDNHkySDZqbHREQQ?oc=5\" target=\"_blank\">The rising cost of building materials: Can Nigerians still afford to build their dream homes?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business News Nigeria</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWnRab0tNaW1wb19kSXFQYzNURGl6QmFZeDFrRWd0bkhVTnNxNWJzT2RYZE9tWVB6OVBCZ1VYY3JjbG9xd1FDRjZVTEFVMG9qLWZDaDJSSlZNa3o5b0QxNXJ6SDl4SWZBeWlYVndZdUlSa0FlQlVub011RTRIb0gxY2tmQ0NSUG1hODJEN09OV2xRZXA0VmtMMVA3TW1Idw?oc=5",
+        "date": "2026-08-16",
+        "title": "Ukraine Attacks On Russian Space Infrastructure - NASA Watch",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNWnRab0tNaW1wb19kSXFQYzNURGl6QmFZeDFrRWd0bkhVTnNxNWJzT2RYZE9tWVB6OVBCZ1VYY3JjbG9xd1FDRjZVTEFVMG9qLWZDaDJSSlZNa3o5b0QxNXJ6SDl4SWZBeWlYVndZdUlSa0FlQlVub011RTRIb0gxY2tmQ0NSUG1hODJEN09OV2xRZXA0VmtMMVA3TW1Idw?oc=5\" target=\"_blank\">Ukraine Attacks On Russian Space Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NASA Watch</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MdEpsVEhvbTdNZTctaWtIanZXMDF2THFmWmpTb1hOWTRZeFhZN1VYekFNSzl2d3MxUjk0WDJWbFdIaEpvMm10RW0tVDZJVi1HVGF3UU9Ga0tIYXgzWXhSMmx4SERsb2JlMG1FWVFCQTdBaWpHX0k5SWtVN2U?oc=5",
+        "date": "2026-08-16",
+        "title": "Planning Rangpur for future - New Age BD",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5MdEpsVEhvbTdNZTctaWtIanZXMDF2THFmWmpTb1hOWTRZeFhZN1VYekFNSzl2d3MxUjk0WDJWbFdIaEpvMm10RW0tVDZJVi1HVGF3UU9Ga0tIYXgzWXhSMmx4SERsb2JlMG1FWVFCQTdBaWpHX0k5SWtVN2U?oc=5\" target=\"_blank\">Planning Rangpur for future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Age BD</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
