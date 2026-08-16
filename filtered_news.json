@@ -3548,5 +3548,13 @@
         "status": "posted",
         "tweet": "2026 annual cloud and data center costs:\n\n1. Bitcoin: $3.1B (\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf3 facilities)\n2. Solana: $410M (\ud83c\uddfa\ud83c\uddf8 validators)\n3. Ethereum: $92M (PoS nodes)",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-08-16",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China solar output hits 1,200 TWh in 2026.  \n\ud83c\uddfa\ud83c\uddf8 United States nuclear generation totals 780 TWh.",
+        "type": "statistical",
+        "category": "energy"
     }
 ]
