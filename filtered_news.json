@@ -3623,5 +3623,25 @@
         "status": "posted",
         "tweet": "Alphabet $GOOGL\n\ud83c\uddfa\ud83c\uddf8 The Dalles data centers processed 1.2 exabytes daily during 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWpkUm5zZ3FoZmgzNTZxTVZaVVVxblJFTUs2SHdydlFXZ0w0YXd3MFZjNHpUOUowN2drUFBVcDdtdUlSVWJTV2Y3U3pqcE05NjI5QzYzNDA4MElnVVRoY1RYYjcyN1ViTkNEelhfZnFLWFdGQXNWR0dxUU1KUDN1TjZGLW9CRjBabHREb2FubEZ3eHVic0ljVjlzRGV0UUl6NGdyYXVWLVprN3M?oc=5",
+        "date": "2026-08-16",
+        "title": "A Nightmare on Britain\u2019s Railways: is our infrastructure about to buckle? - Counterfire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWpkUm5zZ3FoZmgzNTZxTVZaVVVxblJFTUs2SHdydlFXZ0w0YXd3MFZjNHpUOUowN2drUFBVcDdtdUlSVWJTV2Y3U3pqcE05NjI5QzYzNDA4MElnVVRoY1RYYjcyN1ViTkNEelhfZnFLWFdGQXNWR0dxUU1KUDN1TjZGLW9CRjBabHREb2FubEZ3eHVic0ljVjlzRGV0UUl6NGdyYXVWLVprN3M?oc=5\" target=\"_blank\">A Nightmare on Britain\u2019s Railways: is our infrastructure about to buckle?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Counterfire</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQR1YwcnVjYmR6R1RMWnlPbDhTN2FVRDl5OHY3WHdDZjUySXh5Rk5qV2dTYk5SY3ZhMHBZUkNpb0d3TlBITnY3WHlNNUI5TF9YTFRlLWNaME1TUHRORHVqVGlUQjJjeDRaSjBac0RKSWNjcmVmZ1ZMSkVJWWlrdUV3YmxDNTNvOFhUTlNHeWM1Q25DalgtOGVnZl9HaVFNN09QMVdVSWVQS296TEJ6cmZxLXFlazdpcHhsdkdySjZka0lmUkNLWWEtQlJSa1RLeFFmQXRUN2JJcVo5MWIzZFp6b1RoWHhDVFM1Tm5DMEoyWGZrNzFRQU9DMWdXWl9mbVU3OU9mQVUzV3owcVk5MHd0WkpSc0RXeEJqTDBad2VBcmpMUGs?oc=5",
+        "date": "2026-08-16",
+        "title": "Concordia researchers use London, ON's West 5 neighbourhood to model a sustainable, solar-powered 15-minute city - Morgan County Citizen",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQR1YwcnVjYmR6R1RMWnlPbDhTN2FVRDl5OHY3WHdDZjUySXh5Rk5qV2dTYk5SY3ZhMHBZUkNpb0d3TlBITnY3WHlNNUI5TF9YTFRlLWNaME1TUHRORHVqVGlUQjJjeDRaSjBac0RKSWNjcmVmZ1ZMSkVJWWlrdUV3YmxDNTNvOFhUTlNHeWM1Q25DalgtOGVnZl9HaVFNN09QMVdVSWVQS296TEJ6cmZxLXFlazdpcHhsdkdySjZka0lmUkNLWWEtQlJSa1RLeFFmQXRUN2JJcVo5MWIzZFp6b1RoWHhDVFM1Tm5DMEoyWGZrNzFRQU9DMWdXWl9mbVU3OU9mQVUzV3owcVk5MHd0WkpSc0RXeEJqTDBad2VBcmpMUGs?oc=5\" target=\"_blank\">Concordia researchers use London, ON's West 5 neighbourhood to model a sustainable, solar-powered 15-minute city</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morgan County Citizen</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
