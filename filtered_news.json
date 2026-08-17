@@ -3188,5 +3188,12 @@
         "tweet": "2026 top infrastructure megaproject spend\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddee\ud83c\uddf3 India\n3. \ud83c\uddf8\ud83c\udde6 Saudi Arabia\n4. \ud83c\uddfa\ud83c\uddf8 United States\n5. \ud83c\udde6\ud83c\uddea UAE",
         "type": "statistical",
         "category": "engineering projects"
+    },
+    {
+        "link": null,
+        "date": "2026-08-17",
+        "status": "posted",
+        "tweet": "Microsoft $MSFT \ud83c\uddf8\ud83c\uddea Sweden data centers operate at 1.05 PUE.",
+        "type": "infrastructure"
     }
 ]
