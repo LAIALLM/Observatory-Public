@@ -1,58 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-08",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Amazon infrastructure processed 3.7 exabytes of data daily in 2026\n$AMZN",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-08-08",
-        "status": "posted",
-        "tweet": "No verified public data provides direct, comparable cloud and data center cost figures for Bitcoin, Ethereum, or Solana node operations.",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2026-08-08",
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 China high-speed rail: 50,000 km in 2026\n\ud83c\uddea\ud83c\uddfa Europe total: 12,000 km",
-        "type": "statistical",
-        "category": "infrastructural projects"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sZHh4YTlyY0lqVHlJRXBxSmpCT0J1anJ6dGZRZ3hwSGtSQ24xUTZkOUl6WEJhZFVSZ3JlSkFycDRuaUoyZ0psMFJubHMxLW9ZcXNUMg?oc=5",
-        "date": "2026-08-08",
-        "title": "Ukraine pledges not to strike CPC infrastructure or non-Russian tankers - AzerNews",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sZHh4YTlyY0lqVHlJRXBxSmpCT0J1anJ6dGZRZ3hwSGtSQ24xUTZkOUl6WEJhZFVSZ3JlSkFycDRuaUoyZ0psMFJubHMxLW9ZcXNUMg?oc=5\" target=\"_blank\">Ukraine pledges not to strike CPC infrastructure or non-Russian tankers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AzerNews</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPc1lyaEM4YmhDTHByN0xHWExtNUp3d1lkbExuWUE5T2k1VGRrYlhCMU41NlFHVWxDS1cyYWhJQTFZRDF2UE01Y2hpYU92NjFzcUZodWZzdnJzMzFPN2ZMeE5TbHk4MzBXcTNzYXRoVldLLVhlN0loNjRzeklNeW5HWmlOWnFGTDROV2dkVkFVOVlwR1E3dXgtTkFsLUltbm1oQnR6VHhtRDRqY3NDRU9SX3hiUnhfYUJUeXdjX1c0SmgxU3UxZ1ptWWI0N1AzS0lxQ04xYzRLVzU4RWlhakQydHhKLUJCekZkQVViTWxudXA?oc=5",
-        "date": "2026-08-08",
-        "title": "See Congressman Tom Cole and US HUD Secretary Scott Turner in Oklahoma City - The Oklahoman",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPc1lyaEM4YmhDTHByN0xHWExtNUp3d1lkbExuWUE5T2k1VGRrYlhCMU41NlFHVWxDS1cyYWhJQTFZRDF2UE01Y2hpYU92NjFzcUZodWZzdnJzMzFPN2ZMeE5TbHk4MzBXcTNzYXRoVldLLVhlN0loNjRzeklNeW5HWmlOWnFGTDROV2dkVkFVOVlwR1E3dXgtTkFsLUltbm1oQnR6VHhtRDRqY3NDRU9SX3hiUnhfYUJUeXdjX1c0SmgxU3UxZ1ptWWI0N1AzS0lxQ04xYzRLVzU4RWlhakQydHhKLUJCekZkQVViTWxudXA?oc=5\" target=\"_blank\">See Congressman Tom Cole and US HUD Secretary Scott Turner in Oklahoma City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Oklahoman</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTHpnc3pZWlZXVVRONHZuY25QNk04Yjh4SzVhdURQQmV3TUF3YlJPM1J0Q3VoNENUMmlNVm00Ym9JM2t0T3lLWGJHQUhtdHhKY1VBLVBiOUo1TGRvVWlHV3lFTTd2dkxHSjRWZEJNTXZ3eVlqdnBmMXNNQWFjRzg3aklGVHJHdmVKajdHZ0pHWmJQRUN6elI3TWtCZDVfOG5hTTRqdlp2U21zMVNMWDVrMjE2WkdWVWlI?oc=5",
-        "date": "2026-08-08",
-        "title": "Delhi Govt Transfers 16 IAS, DANICS Officers; Vivek Pandey Gets Urban Development - Elets eGov",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTHpnc3pZWlZXVVRONHZuY25QNk04Yjh4SzVhdURQQmV3TUF3YlJPM1J0Q3VoNENUMmlNVm00Ym9JM2t0T3lLWGJHQUhtdHhKY1VBLVBiOUo1TGRvVWlHV3lFTTd2dkxHSjRWZEJNTXZ3eVlqdnBmMXNNQWFjRzg3aklGVHJHdmVKajdHZ0pHWmJQRUN6elI3TWtCZDVfOG5hTTRqdlp2U21zMVNMWDVrMjE2WkdWVWlI?oc=5\" target=\"_blank\">Delhi Govt Transfers 16 IAS, DANICS Officers; Vivek Pandey Gets Urban Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elets eGov</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-08-09",
         "status": "posted",
         "tweet": "Bitcoin infrastructure supports 7 TPS at 110 TWh annual consumption.  \nEthereum infrastructure supports 15 TPS at 0.01 TWh annual consumption.",
@@ -3804,6 +3752,86 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0xXZHJadGJ6Y1lFNDJkSTAteHNVb0VzcWEycExrcFk4WjBTZklaTHVSUlNPR2pXU0g4MG1fbWhCY0kzRzk1MmVfMUZVSVprLTM5WmlUWllheXZaZ2ZySWczaktjeDJCZFM0MmVRb0dxV25nR0V0UmVReE15UWJJWFdxbENOSEJxZFpUWWJGa0laQzNRTGJlc1J0OU5hdGZ0bzNpVFl0SXQ2SV9vb3o0TTdtU1JCai1iRERqSFdmX0dSMGF3NE14WmRfcw?oc=5\" target=\"_blank\">Magens Bay Authority Faces Budget Committee Questions on Reserves and Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Thomas Source</font>",
         "similarity_excluded": "No",
         "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQd0F3ZTQ3dVBXcmg1a2ZVNTMxaTM4ZG56TTFCeWVNZ255WkxmM2hPZnZHMDA0dzRodVVxY241Y0V4WU9ibFVaZ2Q4c0NQNnFYd3lmTHBNMDEwV1VjV3lnMUdvTTR6bERVbUFkYVFQWktUclZ6UGk5UFJKdkF4Z0ZSTjM4REsxSkxGYmUzb2JtTkVhbEkyd2ZIME9lOVgxNUtucDZ1LS1heEc5aDJYSWJpb2thWlg2a0dfNm8xbldNdU1JektUN0RQTHlQWkdhcUFKalpoVUVad3UySGpmOVJuOFRUVHgtQUtka2paZllrQ2syTEh5c0hZbkdjQU9Lb0HSAYQCQVVfeXFMTlBDczEyeE9tQzdCU01DSjl6bXNaaU1pZ1oycjNhRFExSVA4c1J0YjBZenlBYzZPM1NkY3FOTnhhTlpKWWJDYWxXMXFsTFZncS0xUko2QjVtN1RyVkNaS21yR3RtY3JyV2lmOXgwb3dXSkl1MlljR2tJd2hFdWJDd29aem9TdmwtSEZjUGtTSkg3NE9VMDJmd0FTTGdmZzA3LWswcS1xRlBTNUFNYkVYV3lYVl90dkJYVTR2bE5XaWlRX3hvTUZxZXU3RjdfU2tsRlhMTjcyWndkV3RsV2VPc2Y2alhoV2Zpb1BLRDFEdGlZMXBnVW9qbW1nQWRwZC1jQTl6RnQ?oc=5",
+        "date": "2026-08-18",
+        "title": "Glodon Launches QuantifAI in Malaysia at AEC Connect Day 2026, Advancing AI-Powered Quantity Takeoff - The Manila Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQd0F3ZTQ3dVBXcmg1a2ZVNTMxaTM4ZG56TTFCeWVNZ255WkxmM2hPZnZHMDA0dzRodVVxY241Y0V4WU9ibFVaZ2Q4c0NQNnFYd3lmTHBNMDEwV1VjV3lnMUdvTTR6bERVbUFkYVFQWktUclZ6UGk5UFJKdkF4Z0ZSTjM4REsxSkxGYmUzb2JtTkVhbEkyd2ZIME9lOVgxNUtucDZ1LS1heEc5aDJYSWJpb2thWlg2a0dfNm8xbldNdU1JektUN0RQTHlQWkdhcUFKalpoVUVad3UySGpmOVJuOFRUVHgtQUtka2paZllrQ2syTEh5c0hZbkdjQU9Lb0HSAYQCQVVfeXFMTlBDczEyeE9tQzdCU01DSjl6bXNaaU1pZ1oycjNhRFExSVA4c1J0YjBZenlBYzZPM1NkY3FOTnhhTlpKWWJDYWxXMXFsTFZncS0xUko2QjVtN1RyVkNaS21yR3RtY3JyV2lmOXgwb3dXSkl1MlljR2tJd2hFdWJDd29aem9TdmwtSEZjUGtTSkg3NE9VMDJmd0FTTGdmZzA3LWswcS1xRlBTNUFNYkVYV3lYVl90dkJYVTR2bE5XaWlRX3hvTUZxZXU3RjdfU2tsRlhMTjcyWndkV3RsV2VPc2Y2alhoV2Zpb1BLRDFEdGlZMXBnVW9qbW1nQWRwZC1jQTl6RnQ?oc=5\" target=\"_blank\">Glodon Launches QuantifAI in Malaysia at AEC Connect Day 2026, Advancing AI-Powered Quantity Takeoff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcUxQVWRCa3JSWVYwN3h4U19QcHpTTDdPR0N5R3ZMcmhlcUpFXy1ETkNBbjRJdW1CczdMa0NaZ3lqSl9WUEpISUtJVmplNXUtQ05GbnN0SVVLOUI4ZG4tVTZhOFF0TEpmamRFUUxoTTZVQy0wZ1ZEYmJ1QXBMS1VHcGMwaHh5TUdnOG5lQXFoT0taQ1hqeG1uVGt1TktPS0NtdlJtd0FGdmlFT0x0WFBPbzIxX3Flb3c2Umc?oc=5",
+        "date": "2026-08-18",
+        "title": "AI\u2019s hidden infrastructure risk is now a board-level resilience issue, DLA Piper research finds - LawFuel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcUxQVWRCa3JSWVYwN3h4U19QcHpTTDdPR0N5R3ZMcmhlcUpFXy1ETkNBbjRJdW1CczdMa0NaZ3lqSl9WUEpISUtJVmplNXUtQ05GbnN0SVVLOUI4ZG4tVTZhOFF0TEpmamRFUUxoTTZVQy0wZ1ZEYmJ1QXBMS1VHcGMwaHh5TUdnOG5lQXFoT0taQ1hqeG1uVGt1TktPS0NtdlJtd0FGdmlFT0x0WFBPbzIxX3Flb3c2Umc?oc=5\" target=\"_blank\">AI\u2019s hidden infrastructure risk is now a board-level resilience issue, DLA Piper research finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LawFuel</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEJWSzY5bV9IRDBNOXJkenN1VDdkN3JGSHVadXpITjhFamxlLW9OVVptemJOUy1BZkp6cU9PRndyYkV6cHlTM211cGRLNDh0LVVRb3hyZmNZVkxtZG1jcHpWTF9kVEhHUGxaUXFSc0podmNRb1hMdHEtZFJ4eHgtVlBYQXZEZWNnWWRZRlhDcWs2VDFrSHE0?oc=5",
+        "date": "2026-08-18",
+        "title": "Hanoi, the capital city: From the uprising of that year to the autumn of a new era of growth. - Vietnam.vn",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEJWSzY5bV9IRDBNOXJkenN1VDdkN3JGSHVadXpITjhFamxlLW9OVVptemJOUy1BZkp6cU9PRndyYkV6cHlTM211cGRLNDh0LVVRb3hyZmNZVkxtZG1jcHpWTF9kVEhHUGxaUXFSc0podmNRb1hMdHEtZFJ4eHgtVlBYQXZEZWNnWWRZRlhDcWs2VDFrSHE0?oc=5\" target=\"_blank\">Hanoi, the capital city: From the uprising of that year to the autumn of a new era of growth.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0ZRVWhqWEdfcDZMUWpiSS1uUno1d2lwRjlERmNfeUtkTUhMbG9TVy1INEJKS0xFbXgzcFp1dm9ydlljR0E0MEtNYXpVdjFwMGVuU2hUdU1ReGlLeVQtNnhXZ2RyMFN6cUxlR1V3UzU3X21IUk1CZ3ZDV2tmNWhIVnEtTFNpbGRBa3p2QmlvOEdqTGM5MkpHZDJqZ2hFM00?oc=5",
+        "date": "2026-08-18",
+        "title": "Data centre industry seeks GST credit on construction costs - Communications Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0ZRVWhqWEdfcDZMUWpiSS1uUno1d2lwRjlERmNfeUtkTUhMbG9TVy1INEJKS0xFbXgzcFp1dm9ydlljR0E0MEtNYXpVdjFwMGVuU2hUdU1ReGlLeVQtNnhXZ2RyMFN6cUxlR1V3UzU3X21IUk1CZ3ZDV2tmNWhIVnEtTFNpbGRBa3p2QmlvOEdqTGM5MkpHZDJqZ2hFM00?oc=5\" target=\"_blank\">Data centre industry seeks GST credit on construction costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications Today</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMk1UeFluTUVZcTZSc3Y5djRIZEtKcXJmNzljZXZMNEtPeVlDZTcxbUNmZFRDSjA1N3U2VmRXY255TUxHVjk4S05jbkI0UTB5ellNUVpxSnNrUWFEeHhzOHFUQWJtTE03RU5IV3RHT0VONGtWUks1VDBpZVhwZXRRU1JrMFdpM0l3UzNYNU9LOEYzOWZMRmRISzRNaVlnanZVa1RGR0lRT3o3Tk9wb3k2WWhoNXdSTXNfdkd4anJQelJ2YUQtOEhaVmxfTHVIVnFadTVJRU53OUU?oc=5",
+        "date": "2026-08-18",
+        "title": "Kenya's paint industry rides construction recovery to double-digit growth - standardmedia.co.ke",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMk1UeFluTUVZcTZSc3Y5djRIZEtKcXJmNzljZXZMNEtPeVlDZTcxbUNmZFRDSjA1N3U2VmRXY255TUxHVjk4S05jbkI0UTB5ellNUVpxSnNrUWFEeHhzOHFUQWJtTE03RU5IV3RHT0VONGtWUks1VDBpZVhwZXRRU1JrMFdpM0l3UzNYNU9LOEYzOWZMRmRISzRNaVlnanZVa1RGR0lRT3o3Tk9wb3k2WWhoNXdSTXNfdkd4anJQelJ2YUQtOEhaVmxfTHVIVnFadTVJRU53OUU?oc=5\" target=\"_blank\">Kenya's paint industry rides construction recovery to double-digit growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">standardmedia.co.ke</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYm5HRmFSS00xX0xyR1NvcG1Sd0FHOWd3MVU2LUZrSTV4dE4zbmlPblVhT21XaXlMODY3SmRaTkVMeTd2YXduSGlrcEpQT0l4LTVxS1psSElKSllDYW11Q0N5OVEzYklJS2xJMWN4WWZuMllKSnQwNFdBTUFEekZrQy11Tmx1UnFQUVpiMUF6WlMtR1dYQUpTdHJza0JOdENwYkNnZTl2eHc3M2QtOVBjSTU2WdIBxwFBVV95cUxQZGhTMzBMVDFuam02cmswTy1PUU1lSlJlRlNuV0o1SXNqZDh2N21IR0tMb2ZiSnpCdXc3N0pvVENWUC1fNGxOX3ZuWDhueUpJN3JBYVdBUkxlVEpSR3JrYlFvN0lvdnZXMlVWT3pjUHItVzZMb1NyLWMyS3h4UkVkTm0yWlhuelc3dHF6bmo5YU5iTXRoM1o1SU9aVEVnTE51M2hjY0QyNlNnVjVwX0ZHSWtna2NSQVFMVDROS0lQek53cl9NNzVr?oc=5",
+        "date": "2026-08-18",
+        "title": "Monday with the Mayor: Elgin Mayor J. J. Francais speaks on infrastructure investment, more - KSWO 7News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPYm5HRmFSS00xX0xyR1NvcG1Sd0FHOWd3MVU2LUZrSTV4dE4zbmlPblVhT21XaXlMODY3SmRaTkVMeTd2YXduSGlrcEpQT0l4LTVxS1psSElKSllDYW11Q0N5OVEzYklJS2xJMWN4WWZuMllKSnQwNFdBTUFEekZrQy11Tmx1UnFQUVpiMUF6WlMtR1dYQUpTdHJza0JOdENwYkNnZTl2eHc3M2QtOVBjSTU2WdIBxwFBVV95cUxQZGhTMzBMVDFuam02cmswTy1PUU1lSlJlRlNuV0o1SXNqZDh2N21IR0tMb2ZiSnpCdXc3N0pvVENWUC1fNGxOX3ZuWDhueUpJN3JBYVdBUkxlVEpSR3JrYlFvN0lvdnZXMlVWT3pjUHItVzZMb1NyLWMyS3h4UkVkTm0yWlhuelc3dHF6bmo5YU5iTXRoM1o1SU9aVEVnTE51M2hjY0QyNlNnVjVwX0ZHSWtna2NSQVFMVDROS0lQek53cl9NNzVr?oc=5\" target=\"_blank\">Monday with the Mayor: Elgin Mayor J. J. Francais speaks on infrastructure investment, more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSWO 7News</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeExfZ3pRZjUwOXZMTnhMbkZhMWtvNDltQUVpTnNVSHZwTDNBZ1g1cW9EN1o4UFFVMmR1MHhCUTFTeHNOTV9XZl84MVFDT0M2T1JyWDJ4ZnFmd0xIR05QNmZjaFlrVHRJQ2NvODlOMUItLWF5NGU3RG8weFcyTjY0bDAxMGJkZmoxNmhhc3NLSFJWSFp5X2RpdVZfNVE4MkcyUDVKeg?oc=5",
+        "date": "2026-08-18",
+        "title": "Hesta\u2019s head of unlisted assets Will MacAulay departs \u2013 exclusive - infrastructureinvestor.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPeExfZ3pRZjUwOXZMTnhMbkZhMWtvNDltQUVpTnNVSHZwTDNBZ1g1cW9EN1o4UFFVMmR1MHhCUTFTeHNOTV9XZl84MVFDT0M2T1JyWDJ4ZnFmd0xIR05QNmZjaFlrVHRJQ2NvODlOMUItLWF5NGU3RG8weFcyTjY0bDAxMGJkZmoxNmhhc3NLSFJWSFp5X2RpdVZfNVE4MkcyUDVKeg?oc=5\" target=\"_blank\">Hesta\u2019s head of unlisted assets Will MacAulay departs \u2013 exclusive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">infrastructureinvestor.com</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWR5cHFYVURuSVJIQ3EwcFJvLWQwOEhrMFVkWUtrWnkxSlhXVlR4QVFOTnNxbmk1NWw2TFpmRDVaM1kzRFo5OTU3eTh2Q2lpbzZHaHZKZnREa3pnRTVnelpUVjBIR0JPSmlOakZ1Y0FESnJ3LWp2eXNwN0FGZGxQMlEtbzUyZjUtRjk4Vnp0RWVGU2tZUWdJN1BWR1R0Wmp2blNXb3lVa0w0NTlrbHQ3RlBxTnV0TGlCSDJHWtIBygFBVV95cUxQOFdfenZfVDdMQXVXWVFULWthUVRiR2JYV200Yk1Ib3RIeUpjX19hZ2d3M19kV21fZzE0TWF6SGRiS0MzZmxsWTFndmhwX19Kek1JYklIU0RRUUlqOTB4YzhqMEl3S2dWOUFQYTRKODVhT21iQ0hhT0ZKNS15VWpJZEhvWXRndmRyWC1sY3p6STB4b2VTaTdjaFFhUHhvUU1KRTdTZkNpR1dfZmlnNEgyaTVYQlFhNkd2UTlXTnFtekVhRzNkTkpIQWd3?oc=5",
+        "date": "2026-08-18",
+        "title": "Government rejigs UDA jurisdictions in Andhra Pradesh - The New Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWR5cHFYVURuSVJIQ3EwcFJvLWQwOEhrMFVkWUtrWnkxSlhXVlR4QVFOTnNxbmk1NWw2TFpmRDVaM1kzRFo5OTU3eTh2Q2lpbzZHaHZKZnREa3pnRTVnelpUVjBIR0JPSmlOakZ1Y0FESnJ3LWp2eXNwN0FGZGxQMlEtbzUyZjUtRjk4Vnp0RWVGU2tZUWdJN1BWR1R0Wmp2blNXb3lVa0w0NTlrbHQ3RlBxTnV0TGlCSDJHWtIBygFBVV95cUxQOFdfenZfVDdMQXVXWVFULWthUVRiR2JYV200Yk1Ib3RIeUpjX19hZ2d3M19kV21fZzE0TWF6SGRiS0MzZmxsWTFndmhwX19Kek1JYklIU0RRUUlqOTB4YzhqMEl3S2dWOUFQYTRKODVhT21iQ0hhT0ZKNS15VWpJZEhvWXRndmRyWC1sY3p6STB4b2VTaTdjaFFhUHhvUU1KRTdTZkNpR1dfZmlnNEgyaTVYQlFhNkd2UTlXTnFtekVhRzNkTkpIQWd3?oc=5\" target=\"_blank\">Government rejigs UDA jurisdictions in Andhra Pradesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+        "similarity_excluded": "No",
+        "score": 7,
         "status": "processed",
         "tweet": null
     }
