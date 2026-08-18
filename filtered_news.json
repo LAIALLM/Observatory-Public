@@ -3971,5 +3971,13 @@
         "status": "posted",
         "tweet": "\ud83c\udde7\ud83c\uddea Belgium Google Cloud sites recorded 1.08 fleet PUE while handling 950 petabytes of daily operations in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-18",
+        "status": "posted",
+        "tweet": "By 2026, \ud83c\udde8\ud83c\uddf3 China will add 12 million urban residents annually, expanding high-density transit corridors by 800 km per year.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
