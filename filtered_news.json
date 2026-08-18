@@ -3964,5 +3964,12 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-18",
+        "status": "posted",
+        "tweet": "\ud83c\udde7\ud83c\uddea Belgium Google Cloud sites recorded 1.08 fleet PUE while handling 950 petabytes of daily operations in 2025.",
+        "type": "infrastructure"
     }
 ]
