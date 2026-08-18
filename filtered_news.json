@@ -3979,5 +3979,12 @@
         "tweet": "By 2026, \ud83c\udde8\ud83c\uddf3 China will add 12 million urban residents annually, expanding high-density transit corridors by 800 km per year.",
         "type": "statistical",
         "category": "urban planning"
+    },
+    {
+        "link": null,
+        "date": "2026-08-18",
+        "status": "posted",
+        "tweet": "Energy cost per tx kWh 2026\n1. Solana 0.0004\n2. Ethereum 0.03\n3. Bitcoin 450",
+        "type": "crypto"
     }
 ]
