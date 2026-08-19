@@ -4298,5 +4298,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: $14.4B program to replace the aging I-5 bridge between Portland and Vancouver moves ahead with first construction phase as federal funding deadline nears.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-08-19",
+        "status": "posted",
+        "tweet": "Microsoft $MSFT data centers in \ud83c\udde9\ud83c\uddea Germany consumed 4.1 TWh of electricity in 2026.",
+        "type": "infrastructure"
     }
 ]
