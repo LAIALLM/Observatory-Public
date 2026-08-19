@@ -4305,5 +4305,12 @@
         "status": "posted",
         "tweet": "Microsoft $MSFT data centers in \ud83c\udde9\ud83c\uddea Germany consumed 4.1 TWh of electricity in 2026.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-19",
+        "status": "posted",
+        "tweet": "Bitcoin mining concentration:\n\ud83c\uddfa\ud83c\uddf8 US 37%\n\ud83c\uddf0\ud83c\uddff Kazakhstan 16%\n\nEthereum: 0% mining post-PoS shift, cutting concentrated energy infrastructure load.",
+        "type": "crypto"
     }
 ]
