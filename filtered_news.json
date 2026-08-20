@@ -4600,5 +4600,19 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-20",
+        "status": "posted",
+        "tweet": "Bitcoin node distribution across countries\n1. \ud83c\uddfa\ud83c\uddf8 United States 31200 nodes\n2. \ud83c\udde9\ud83c\uddea Germany 16800 nodes\n3. \ud83c\uddeb\ud83c\uddf7 France 9200 nodes",
+        "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-08-20",
+        "status": "posted",
+        "tweet": "Microsoft Azure infrastructure processed 1.2 zettabytes daily in \ud83c\uddfa\ud83c\uddf8 USA during 2025. \n$MSFT",
+        "type": "infrastructure"
     }
 ]
