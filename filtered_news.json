@@ -5238,5 +5238,45 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: India and ADB sign a $230 million loan to upgrade Chennais water and sanitation systems.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM084Y2pWZ0lTMGdtdjhlMzBnTDkxMURYSWNJaEZPVDJ0UGRpZ0V0T09KUjNIMzhGR0N3OG1PRHlQdUVfbkZTUDJzQWdhWkFpWVFGbmR5MzZYNXZmbUMwX1MteWtMOUFIZ01yMjRDY0llajFIQjFqN0VhZmktbFpOX2s3U05CcFlTRklOOUNHUmpuQzhlM2pLYkZjOU9zTlRCcVJyMVNfNzM1d0I5NmU4aWJHOVNQMTBYb2hxNGIxZngxS2Fjbi10V1BMNWo?oc=5",
+        "date": "2026-08-21",
+        "title": "Community Infrastructure Networking Dinner: New York Climate Week 2026 - Foley Hoag",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOM084Y2pWZ0lTMGdtdjhlMzBnTDkxMURYSWNJaEZPVDJ0UGRpZ0V0T09KUjNIMzhGR0N3OG1PRHlQdUVfbkZTUDJzQWdhWkFpWVFGbmR5MzZYNXZmbUMwX1MteWtMOUFIZ01yMjRDY0llajFIQjFqN0VhZmktbFpOX2s3U05CcFlTRklOOUNHUmpuQzhlM2pLYkZjOU9zTlRCcVJyMVNfNzM1d0I5NmU4aWJHOVNQMTBYb2hxNGIxZngxS2Fjbi10V1BMNWo?oc=5\" target=\"_blank\">Community Infrastructure Networking Dinner: New York Climate Week 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Foley Hoag</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2pJQXlkVWxXOGExRVdNWm1BZXBjdk5nWnZHWlhCUEdWMzlnZzFqdmtpOXNrVWtzblBXUkcyMURUWVFGODZ0djRmekhRVHNmZGszTGxXYTNZbUo4bnBjb01TbkRUX3cwUzhzV3ZjSVhNcHFrQjFXMUgzTHNqUXQtUVZYNjM5VlFCbVZiOEF6UjcxQU8tUE5FTUxzUHdPWkkzUTk5clBRSnNYZ09kWDRDUURlT0xWcWh6TDJKSXhNNA?oc=5",
+        "date": "2026-08-21",
+        "title": "Brantford, Ont., and Six Nations take step to share development benefits, improve relationship: mayor - CBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2pJQXlkVWxXOGExRVdNWm1BZXBjdk5nWnZHWlhCUEdWMzlnZzFqdmtpOXNrVWtzblBXUkcyMURUWVFGODZ0djRmekhRVHNmZGszTGxXYTNZbUo4bnBjb01TbkRUX3cwUzhzV3ZjSVhNcHFrQjFXMUgzTHNqUXQtUVZYNjM5VlFCbVZiOEF6UjcxQU8tUE5FTUxzUHdPWkkzUTk5clBRSnNYZ09kWDRDUURlT0xWcWh6TDJKSXhNNA?oc=5\" target=\"_blank\">Brantford, Ont., and Six Nations take step to share development benefits, improve relationship: mayor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdjY2Zi1zOEc0ZGg2MlNHaHZPT0ZqUmMyNnVBV2xSUWdYRm5fU2xid2Y3alNkV1Jsb2hSWjZhNmY2bmpjY2NZNW93TmFoZkVSR05lcjdRV1AxU0JWaENSY3lrRTlHY3pKR0Z3cnpKZUE2c0VWS2RZMXlUcmNocTVMb2pUTTZ6REhxNnFOTlgyZ245ZWR3UF9VN0c1RHJ3bXl5VHRweGg5ZDAyVnVCNXZJ?oc=5",
+        "date": "2026-08-21",
+        "title": "The Quang Ninh Provincial Delegation of National Assembly Deputies contributed opinions on many important national issues. - Vietnam.vn",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPdjY2Zi1zOEc0ZGg2MlNHaHZPT0ZqUmMyNnVBV2xSUWdYRm5fU2xid2Y3alNkV1Jsb2hSWjZhNmY2bmpjY2NZNW93TmFoZkVSR05lcjdRV1AxU0JWaENSY3lrRTlHY3pKR0Z3cnpKZUE2c0VWS2RZMXlUcmNocTVMb2pUTTZ6REhxNnFOTlgyZ245ZWR3UF9VN0c1RHJ3bXl5VHRweGg5ZDAyVnVCNXZJ?oc=5\" target=\"_blank\">The Quang Ninh Provincial Delegation of National Assembly Deputies contributed opinions on many important national issues.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.constructiondive.com/news/surge-july-construction-starts-megaproject-volatility-dodge/828521/",
+        "date": "2026-08-21",
+        "title": "Surge in July construction starts reflected megaproject volatility: Dodge",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/mM2kFeCzg8JXhldTwZakuqJW8gTXrcnfmfRgK1XcYYM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkwNDAwODM2LmpwZw==.webp\" /></div></figure><p>A 25.6% gain in kickoffs last month followed a plunge in June. Dodge said the trend points to &ldquo;a disjointed construction market.&rdquo;</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
