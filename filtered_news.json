@@ -5070,5 +5070,12 @@
         "status": "posted",
         "tweet": "Regulatory costs on blockchain infrastructure 2026\n\n1. \ud83c\udde8\ud83c\uddf3 China Bitcoin: 42% added infra spend from mining restrictions\n2. \ud83c\udde9\ud83c\uddea Germany Ethereum: 29% node setup fees via EU rules\n3. \ud83c\uddf8\ud83c\uddec Singapore Solana: 14% validator licensing costs",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-08-21",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft data centers achieved 1.12 average PUE in 2025.\n$MSFT",
+        "type": "infrastructure"
     }
 ]
