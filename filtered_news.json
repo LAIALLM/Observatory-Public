@@ -4657,5 +4657,12 @@
         "status": "posted",
         "tweet": "Bitcoin network electricity use hit 140 TWh annually, exceeding \ud83c\udde6\ud83c\uddf7 Argentina's total consumption.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-08-22",
+        "status": "posted",
+        "tweet": "Alphabet data centers achieved 1.10 average PUE in 2025. $GOOGL",
+        "type": "infrastructure"
     }
 ]
