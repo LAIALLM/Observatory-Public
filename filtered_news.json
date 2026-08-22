@@ -4664,5 +4664,13 @@
         "status": "posted",
         "tweet": "Alphabet data centers achieved 1.10 average PUE in 2025. $GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-22",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 Shanghai metro network hits 950 km in 2026, moving 13 million daily riders across 18 lines.  \nBy 2030 it will reach 1,200 km, cutting average commutes 20%.",
+        "type": "statistical",
+        "category": "urban planning"
     }
 ]
