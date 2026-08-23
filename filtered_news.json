@@ -4061,5 +4061,13 @@
         "status": "posted",
         "tweet": "Annual data center electricity costs for network maintenance 2026\n1. Bitcoin 7.2B\n2. Solana 0.25B\n3. Ethereum 0.09B",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-08-23",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 Delhi metro area reaches 37 million residents in 2026, surpassing Tokyo as the world's largest urban agglomeration.",
+        "type": "statistical",
+        "category": "cities"
     }
 ]
