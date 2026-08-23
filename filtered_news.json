@@ -4054,5 +4054,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Alphabet data centers recorded a 1.09 PUE rating in 2026.\n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-23",
+        "status": "posted",
+        "tweet": "Annual data center electricity costs for network maintenance 2026\n1. Bitcoin 7.2B\n2. Solana 0.25B\n3. Ethereum 0.09B",
+        "type": "crypto"
     }
 ]
