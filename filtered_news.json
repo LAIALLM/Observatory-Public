@@ -3620,5 +3620,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Azure data centers processed 250 billion AI inference requests daily in 2025.\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-24",
+        "status": "posted",
+        "tweet": "2026 network maintenance and security costs\n1. Bitcoin 8.5B USD\n2. Solana 0.35B USD\n3. Ethereum 0.15B USD",
+        "type": "crypto"
     }
 ]
