@@ -3896,5 +3896,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Delhi Master Plan 2047 targets 40 lakh affordable homes through land pooling to reshape NCT real estate.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-08-25",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft Azure data centers consumed 14.7 TWh of electricity in 2025.\n$MSFT",
+        "type": "infrastructure"
     }
 ]
