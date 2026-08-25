@@ -4153,5 +4153,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddec\ud83c\udde7 NEWS: Scape opens procurement for \u00a38bn national construction framework",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-08-25",
+        "status": "posted",
+        "tweet": "Bitcoin mining 2026:\n\ud83c\uddfa\ud83c\uddf8 US 37%\n\ud83c\uddf7\ud83c\uddfa Russia 19%\n\ud83c\uddf0\ud83c\uddff Kazakhstan 12%\n\nEthereum staking: spread across 40+ countries, no mining.",
+        "type": "crypto"
     }
 ]
