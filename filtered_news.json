@@ -3825,5 +3825,76 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRWliUW5jRkFtNHpqMnlfeEh0QlZLVXZYUEQ2QUUzd0JMUVpHa0REUTNlNUtwZGhOUV9PZlFCU3I0V3J1aVdEVU9oQkFva2lBT2dSbFRGa1I0NW5ia3BLdnZsQm83UTZESmhocWN3TkQ3QjZnRTkzYi1iYUtJSHNUUlAwcEc3US04MEdJRDBib1BJMHAtSkllUzlUZnYtM1A1bFFfdlNJNnJ5N2FEU2xSSWRKTGhSbDdtUWZVblN5bzg3cE1BQ2paYmRBRW93VzRwTmMtblUtTFVCd0FudVVEMEotZzkwcm9sWkRKTG5OY0JnX1QtOW5Pa3pZd0wzSGNxVmN2MQ?oc=5",
+        "date": "2026-08-25",
+        "title": "Dave Cavossa: Failure to launch is new infrastructure hurdle (Opinion) - Charleston Gazette-Mail",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPRWliUW5jRkFtNHpqMnlfeEh0QlZLVXZYUEQ2QUUzd0JMUVpHa0REUTNlNUtwZGhOUV9PZlFCU3I0V3J1aVdEVU9oQkFva2lBT2dSbFRGa1I0NW5ia3BLdnZsQm83UTZESmhocWN3TkQ3QjZnRTkzYi1iYUtJSHNUUlAwcEc3US04MEdJRDBib1BJMHAtSkllUzlUZnYtM1A1bFFfdlNJNnJ5N2FEU2xSSWRKTGhSbDdtUWZVblN5bzg3cE1BQ2paYmRBRW93VzRwTmMtblUtTFVCd0FudVVEMEotZzkwcm9sWkRKTG5OY0JnX1QtOW5Pa3pZd0wzSGNxVmN2MQ?oc=5\" target=\"_blank\">Dave Cavossa: Failure to launch is new infrastructure hurdle (Opinion)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charleston Gazette-Mail</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaHYyTndXeUlQcWdJODQ0cGdrUzdFaldmdnRuLTViUzZyTDZrNjFsaHRQNzVFc2lKVmM5UUx0MWpNSFpISmNtVF9GNGgyYTVXQkFpMlE5MU9fTUhZSEIwN3RuazlrRnpmeG1HZTFWdGNEekM3S2drdnptM0N6N2J4NndfRWxobnNGM2dURkRoalFwTnlzRFNKejZzVjlLeFNMZ3VqOHlXT3RUN29iNm9vbEFTbWlTY3pQNmtWZDhn?oc=5",
+        "date": "2026-08-25",
+        "title": "Navajo-Hopi Land Commission Reviews Relocation, Housing and Infrastructure Needs - Native News Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQaHYyTndXeUlQcWdJODQ0cGdrUzdFaldmdnRuLTViUzZyTDZrNjFsaHRQNzVFc2lKVmM5UUx0MWpNSFpISmNtVF9GNGgyYTVXQkFpMlE5MU9fTUhZSEIwN3RuazlrRnpmeG1HZTFWdGNEekM3S2drdnptM0N6N2J4NndfRWxobnNGM2dURkRoalFwTnlzRFNKejZzVjlLeFNMZ3VqOHlXT3RUN29iNm9vbEFTbWlTY3pQNmtWZDhn?oc=5\" target=\"_blank\">Navajo-Hopi Land Commission Reviews Relocation, Housing and Infrastructure Needs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Native News Online</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0VWYXd5MnAyUzdGRDB5YkJsdzk4ZW5zbDZnTUdRNVZDS1d1dE5ISUVkVzUyUmRLcDBjNzJLQ1dWMUNkUUI3MWxIT2xZWHp6bndLYy1hM2I2ZnF1emNZRWh5ZzAxQzVYWEI3ZTFVZzJpUjhLQ05rTmVybjVkeWNfMmtMQlFPSTZGX0ZPNnRIdDJ5bmoyZlJ6TVppbHVkWnJnVmJlMU1JNDhpV1VY?oc=5",
+        "date": "2026-08-25",
+        "title": "SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale - NVIDIA Newsroom",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0VWYXd5MnAyUzdGRDB5YkJsdzk4ZW5zbDZnTUdRNVZDS1d1dE5ISUVkVzUyUmRLcDBjNzJLQ1dWMUNkUUI3MWxIT2xZWHp6bndLYy1hM2I2ZnF1emNZRWh5ZzAxQzVYWEI3ZTFVZzJpUjhLQ05rTmVybjVkeWNfMmtMQlFPSTZGX0ZPNnRIdDJ5bmoyZlJ6TVppbHVkWnJnVmJlMU1JNDhpV1VY?oc=5\" target=\"_blank\">SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMWNjaWVJVnRkOXc3RHlVSUlhRlowREUzZUZiWnRsYkNBakZFZWU1VVZSS05nb2pobXQ0UzU5Z0NnSElUem9rQ2k0NjNGelZIOFNCaEVYMGlTdDhYUmg5RUthOGxqbXR2STdxZ25tMmw2bW9ZeDlZVlVZTTdjQnBXWjItS3pLekw0eEVPWWZjM2Z6d3NGaHFoRHpsZzl3bDdOMnpDNmZFdWh5b1Y5MUZsNE9reklfdk0?oc=5",
+        "date": "2026-08-25",
+        "title": "Navitas To Acquire Claros, Advancing AI Infrastructure with VPD & IVR Technology for Grid-to-xPU - Carroll County Mirror-Democrat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNMWNjaWVJVnRkOXc3RHlVSUlhRlowREUzZUZiWnRsYkNBakZFZWU1VVZSS05nb2pobXQ0UzU5Z0NnSElUem9rQ2k0NjNGelZIOFNCaEVYMGlTdDhYUmg5RUthOGxqbXR2STdxZ25tMmw2bW9ZeDlZVlVZTTdjQnBXWjItS3pLekw0eEVPWWZjM2Z6d3NGaHFoRHpsZzl3bDdOMnpDNmZFdWh5b1Y5MUZsNE9reklfdk0?oc=5\" target=\"_blank\">Navitas To Acquire Claros, Advancing AI Infrastructure with VPD & IVR Technology for Grid-to-xPU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carroll County Mirror-Democrat</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLXVvTGtJYWs2czdab21kRmFVQW9fY0NWMDRUXzNLOUI0RGJseTVNMDhrNmduUVlXQlliemwyVlBxM2ZhdUpmSnduSDlRT2h3VUFlaW9KeGJkWXNER3NsNE5zSkZVQ3VOcGJqc0FybHNqSmNtSDl4bGlReW4wREpUX0lvQ0NSdjJsaE1zaVNwN2x0UmV4YXBXYTYta21GcWZUQ1ZyZmF5cmwyTEFabDIwWnAxRTJSU2E1YmpZeDNDNnRJeG5BM19LbDAtZ2hGZFJaYndNRkJJakFrdUlkZ3k2YXRHQjJWVUhuTGUwY1RlSlFrOUpxVEhQRVhIVdIBgAJBVV95cUxQWEJZRlF5RWhJZGktcXBGb016UGkyekc5ZEVTUWR4UzVmWThZb093amQwOUczcFBlZnJvVU5QcXFFTkREWGFSbTNNcFM1MlVIU1BqY3EyVG1RX21XV2VtRDhfZ0VqOXlPZERGUlJJTkxPM2lqZVY2MmZDblJsZVhkeVhIZlZXbkY1Yld1c1F2b09IaXRrM2ZzSHFOQmZVZktNeW1IQi1XeDZSenhVSkgyNWsyRU53QzdMaEpFaE51VUdYU3JCNG1VUnhFcFZzM2ZBSDhENkhZQjF0c3FIdkhXQUZNM0N4U2lhNW9KWHZBWG9MQlIxZ0laeG1JcTZuOVpP?oc=5",
+        "date": "2026-08-25",
+        "title": "Delhi Master Plan 2047: 40 lakh affordable homes, land pooling to reshape NCT's real estate - The Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLXVvTGtJYWs2czdab21kRmFVQW9fY0NWMDRUXzNLOUI0RGJseTVNMDhrNmduUVlXQlliemwyVlBxM2ZhdUpmSnduSDlRT2h3VUFlaW9KeGJkWXNER3NsNE5zSkZVQ3VOcGJqc0FybHNqSmNtSDl4bGlReW4wREpUX0lvQ0NSdjJsaE1zaVNwN2x0UmV4YXBXYTYta21GcWZUQ1ZyZmF5cmwyTEFabDIwWnAxRTJSU2E1YmpZeDNDNnRJeG5BM19LbDAtZ2hGZFJaYndNRkJJakFrdUlkZ3k2YXRHQjJWVUhuTGUwY1RlSlFrOUpxVEhQRVhIVdIBgAJBVV95cUxQWEJZRlF5RWhJZGktcXBGb016UGkyekc5ZEVTUWR4UzVmWThZb093amQwOUczcFBlZnJvVU5QcXFFTkREWGFSbTNNcFM1MlVIU1BqY3EyVG1RX21XV2VtRDhfZ0VqOXlPZERGUlJJTkxPM2lqZVY2MmZDblJsZVhkeVhIZlZXbkY1Yld1c1F2b09IaXRrM2ZzSHFOQmZVZktNeW1IQi1XeDZSenhVSkgyNWsyRU53QzdMaEpFaE51VUdYU3JCNG1VUnhFcFZzM2ZBSDhENkhZQjF0c3FIdkhXQUZNM0N4U2lhNW9KWHZBWG9MQlIxZ0laeG1JcTZuOVpP?oc=5\" target=\"_blank\">Delhi Master Plan 2047: 40 lakh affordable homes, land pooling to reshape NCT's real estate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Delhi Master Plan 2047 targets 40 lakh affordable homes and land pooling to reshape NCT real estate."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0hhLXYyZE9FRHdGOHZyeTRSTkpubWdzNFRMeGNnMDVKQWIta0pXeGxidjlkVkJvaXFuMGVwUlJsSUtYTUtGVEJGS2Fka2Mzei14S3ZJSW9SS3pLLWQ2azBCckkzd0JTamZaaDZ3d0ZSQm03dmFCUGplMnFzNk9fUFhYNlFCVHBrelJmRF8wMXNwcU9XcklWanc4MWFqcDdiODcyTNIBqgFBVV95cUxPcWgwb21BTmV3V2ZNaWR0OGxvcS1UYTRlOTNtS3ZuZXN0WU9sdXlQOGlwWThpQm9yUS1PbkMwNW5QUEgzLXh4d2RZR3ktZVhjeGNJbjhqaHBJalU5SHF4ZmF6clNkc0lZWTZQQXFyN2tNMURNMnB2Wi0zS28wYlpRYkFmT2xDcEx5TG1VejVjQ0tjZ0Q3NnYxN3IyWjRibmdzQTFGUzBXc1dvUQ?oc=5",
+        "date": "2026-08-25",
+        "title": "Experts warn against demolition of settlements, markets without planning - The Nation Newspaper",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0hhLXYyZE9FRHdGOHZyeTRSTkpubWdzNFRMeGNnMDVKQWIta0pXeGxidjlkVkJvaXFuMGVwUlJsSUtYTUtGVEJGS2Fka2Mzei14S3ZJSW9SS3pLLWQ2azBCckkzd0JTamZaaDZ3d0ZSQm03dmFCUGplMnFzNk9fUFhYNlFCVHBrelJmRF8wMXNwcU9XcklWanc4MWFqcDdiODcyTNIBqgFBVV95cUxPcWgwb21BTmV3V2ZNaWR0OGxvcS1UYTRlOTNtS3ZuZXN0WU9sdXlQOGlwWThpQm9yUS1PbkMwNW5QUEgzLXh4d2RZR3ktZVhjeGNJbjhqaHBJalU5SHF4ZmF6clNkc0lZWTZQQXFyN2tNMURNMnB2Wi0zS28wYlpRYkFmT2xDcEx5TG1VejVjQ0tjZ0Q3NnYxN3IyWjRibmdzQTFGUzBXc1dvUQ?oc=5\" target=\"_blank\">Experts warn against demolition of settlements, markets without planning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Nation Newspaper</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLXVvTGtJYWs2czdab21kRmFVQW9fY0NWMDRUXzNLOUI0RGJseTVNMDhrNmduUVlXQlliemwyVlBxM2ZhdUpmSnduSDlRT2h3VUFlaW9KeGJkWXNER3NsNE5zSkZVQ3VOcGJqc0FybHNqSmNtSDl4bGlReW4wREpUX0lvQ0NSdjJsaE1zaVNwN2x0UmV4YXBXYTYta21GcWZUQ1ZyZmF5cmwyTEFabDIwWnAxRTJSU2E1YmpZeDNDNnRJeG5BM19LbDAtZ2hGZFJaYndNRkJJakFrdUlkZ3k2YXRHQjJWVUhuTGUwY1RlSlFrOUpxVEhQRVhIVdIBgAJBVV95cUxQWEJZRlF5RWhJZGktcXBGb016UGkyekc5ZEVTUWR4UzVmWThZb093amQwOUczcFBlZnJvVU5QcXFFTkREWGFSbTNNcFM1MlVIU1BqY3EyVG1RX21XV2VtRDhfZ0VqOXlPZERGUlJJTkxPM2lqZVY2MmZDblJsZVhkeVhIZlZXbkY1Yld1c1F2b09IaXRrM2ZzSHFOQmZVZktNeW1IQi1XeDZSenhVSkgyNWsyRU53QzdMaEpFaE51VUdYU3JCNG1VUnhFcFZzM2ZBSDhENkhZQjF0c3FIdkhXQUZNM0N4U2lhNW9KWHZBWG9MQlIxZ0laeG1JcTZuOVpP?oc=5",
+        "date": "2026-08-25",
+        "title": "Delhi Master Plan 2047: 40 lakh affordable homes, land pooling to reshape NCT's real estate - The Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLXVvTGtJYWs2czdab21kRmFVQW9fY0NWMDRUXzNLOUI0RGJseTVNMDhrNmduUVlXQlliemwyVlBxM2ZhdUpmSnduSDlRT2h3VUFlaW9KeGJkWXNER3NsNE5zSkZVQ3VOcGJqc0FybHNqSmNtSDl4bGlReW4wREpUX0lvQ0NSdjJsaE1zaVNwN2x0UmV4YXBXYTYta21GcWZUQ1ZyZmF5cmwyTEFabDIwWnAxRTJSU2E1YmpZeDNDNnRJeG5BM19LbDAtZ2hGZFJaYndNRkJJakFrdUlkZ3k2YXRHQjJWVUhuTGUwY1RlSlFrOUpxVEhQRVhIVdIBgAJBVV95cUxQWEJZRlF5RWhJZGktcXBGb016UGkyekc5ZEVTUWR4UzVmWThZb093amQwOUczcFBlZnJvVU5QcXFFTkREWGFSbTNNcFM1MlVIU1BqY3EyVG1RX21XV2VtRDhfZ0VqOXlPZERGUlJJTkxPM2lqZVY2MmZDblJsZVhkeVhIZlZXbkY1Yld1c1F2b09IaXRrM2ZzSHFOQmZVZktNeW1IQi1XeDZSenhVSkgyNWsyRU53QzdMaEpFaE51VUdYU3JCNG1VUnhFcFZzM2ZBSDhENkhZQjF0c3FIdkhXQUZNM0N4U2lhNW9KWHZBWG9MQlIxZ0laeG1JcTZuOVpP?oc=5\" target=\"_blank\">Delhi Master Plan 2047: 40 lakh affordable homes, land pooling to reshape NCT's real estate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: Delhi Master Plan 2047 targets 40 lakh affordable homes through land pooling to reshape NCT real estate.",
+        "type": "news"
     }
 ]
