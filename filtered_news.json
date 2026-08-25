@@ -3903,5 +3903,86 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft Azure data centers consumed 14.7 TWh of electricity in 2025.\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUS1fUWpOZUlrLXZhR2NSOFR6MjVlaU4ya1RzNzNyNkRIOVgzVjVrMGFCTlNGU09RWDNId3M3SnhUU1ZFbW1nU0l2aFZfSDNoR3Z6S0JlekpKYTg1NEMzTnJrc1pBVTR2RE4zUlJ5WTVYNTluejlOdjMzMTRuQS1haGJQdm1GN1lya2VuTjNXRzhPSExvcG9DTzVySkh2ZF9hNDNYZFhMN0hHd09WQm9PVmxfR3UwS3dWNk5vc3hza0hWdm5t0gHEAUFVX3lxTE9wcmNneDBaT0dSNG03OGNPZDVaVHM0MEFvVzZCSy05amRaOVFNTHM0YjBJaVlRWUlJYVRManRMWEZNQ0JjTV9EdjN3YkUxODU4X3pEWE9PUW5xREkxSlZ4VmFtcUwwdFEweTBHa2dKa2REMFVKbHVkWk01MWdsNDlsOWs5WW84V3FQWkxZSWxGN0xScTBzQXl4ckl2WlNRTnVlcDl3ZkRlcEN3TkdsYlBRN2NjYmpUUDEwMjYzd21hSlZ0eVM?oc=5",
+        "date": "2026-08-25",
+        "title": "Construction safety design needed to reduce fatal accidents in Hong Kong: experts - South China Morning Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOUS1fUWpOZUlrLXZhR2NSOFR6MjVlaU4ya1RzNzNyNkRIOVgzVjVrMGFCTlNGU09RWDNId3M3SnhUU1ZFbW1nU0l2aFZfSDNoR3Z6S0JlekpKYTg1NEMzTnJrc1pBVTR2RE4zUlJ5WTVYNTluejlOdjMzMTRuQS1haGJQdm1GN1lya2VuTjNXRzhPSExvcG9DTzVySkh2ZF9hNDNYZFhMN0hHd09WQm9PVmxfR3UwS3dWNk5vc3hza0hWdm5t0gHEAUFVX3lxTE9wcmNneDBaT0dSNG03OGNPZDVaVHM0MEFvVzZCSy05amRaOVFNTHM0YjBJaVlRWUlJYVRManRMWEZNQ0JjTV9EdjN3YkUxODU4X3pEWE9PUW5xREkxSlZ4VmFtcUwwdFEweTBHa2dKa2REMFVKbHVkWk01MWdsNDlsOWs5WW84V3FQWkxZSWxGN0xScTBzQXl4ckl2WlNRTnVlcDl3ZkRlcEN3TkdsYlBRN2NjYmpUUDEwMjYzd21hSlZ0eVM?oc=5\" target=\"_blank\">Construction safety design needed to reduce fatal accidents in Hong Kong: experts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUJBLVJXWDZadWI3ZmJJUHYzREdUN05oc3BsMjM0eUg2c1hOck45SkRyZzJ6V0ctVDNaZGhiTHdxOXlpQm51NkoyRzBsXzA2TUFCWlR0N2FrdlFZN2NwRzBRcDQyeHZOckw4V21qaHlrRXhBVWE1Wk9WblNrOVE4MlV4ZDctc0pEOXkyeHZlbHNjcHU3WnlR?oc=5",
+        "date": "2026-08-25",
+        "title": "'Like a ghost town': Homebuyer saw red flags ahead of developer's collapse - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUJBLVJXWDZadWI3ZmJJUHYzREdUN05oc3BsMjM0eUg2c1hOck45SkRyZzJ6V0ctVDNaZGhiTHdxOXlpQm51NkoyRzBsXzA2TUFCWlR0N2FrdlFZN2NwRzBRcDQyeHZOckw4V21qaHlrRXhBVWE1Wk9WblNrOVE4MlV4ZDctc0pEOXkyeHZlbHNjcHU3WnlR?oc=5\" target=\"_blank\">'Like a ghost town': Homebuyer saw red flags ahead of developer's collapse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News & Headlines \u2013 Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzVQTFhGckUxQ1FLNjhwbTd2Y2ZSM2RrVkVLaHRvaGdXa1BKa3dDZW9GaGZibllhLUQtOUViYkMycGpYWFNWd29FUE0ycXNIcjNPTjhGVlVxd0VaRmlyRXExTmZldmEyUW1xM3c0YmNfWVY1ZVVKSFotSi1xeko0Sk04X3lOUUpzaWx1cEpHd0ltLU91WDNYci1KVlF2WnhKZHZ0eDVsNkhSV2NHWGJwV2tMeENkUk9oeFBEcDBkWGdocVY00gHSAUFVX3lxTE03OFkzLURGV082dndhd2xhbmxpMkhQV2xyRFp2aDdSVVlfbWpxNVRnR202SHUyTDA0dnYzZzduejBBNEZOa01VVzBrRHdYZUV2ODdGLVV5aXpwWnROTklYM1ZSZnV0RHV3SlU2VW1US0FJQUV3TXZPWDJmZ05GSUNYeDZOeTg3SmNzTFh1ZHppWVk2R3ltTmFYcmJ4ZWttbktzLUxfWThVR21vNUlVZEVGQ1N6OTNtQmJSLUozbE5FMTZnNU43MVJYQkppMWtRNVpEQQ?oc=5",
+        "date": "2026-08-25",
+        "title": "US Department of Transportation to invest $665m to modernise ferry infrastructure - Baird Maritime",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzVQTFhGckUxQ1FLNjhwbTd2Y2ZSM2RrVkVLaHRvaGdXa1BKa3dDZW9GaGZibllhLUQtOUViYkMycGpYWFNWd29FUE0ycXNIcjNPTjhGVlVxd0VaRmlyRXExTmZldmEyUW1xM3c0YmNfWVY1ZVVKSFotSi1xeko0Sk04X3lOUUpzaWx1cEpHd0ltLU91WDNYci1KVlF2WnhKZHZ0eDVsNkhSV2NHWGJwV2tMeENkUk9oeFBEcDBkWGdocVY00gHSAUFVX3lxTE03OFkzLURGV082dndhd2xhbmxpMkhQV2xyRFp2aDdSVVlfbWpxNVRnR202SHUyTDA0dnYzZzduejBBNEZOa01VVzBrRHdYZUV2ODdGLVV5aXpwWnROTklYM1ZSZnV0RHV3SlU2VW1US0FJQUV3TXZPWDJmZ05GSUNYeDZOeTg3SmNzTFh1ZHppWVk2R3ltTmFYcmJ4ZWttbktzLUxfWThVR21vNUlVZEVGQ1N6OTNtQmJSLUozbE5FMTZnNU43MVJYQkppMWtRNVpEQQ?oc=5\" target=\"_blank\">US Department of Transportation to invest $665m to modernise ferry infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baird Maritime</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Department of Transportation to invest $665m to modernise ferry infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15RXRwb0dOSkp3YnBJWmptZDhxZl9BcGp2T2tZNVVoMkhFYTBGVkoydEU1OTd3M0R6LXBPcTRnYklDUXdueXRuLTNJNDVJVWNRVGlvNkNB?oc=5",
+        "date": "2026-08-25",
+        "title": "Nvidia and SpaceXAI adapting terrestrial datacentre infrastructure for space - Electronics Weekly",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE15RXRwb0dOSkp3YnBJWmptZDhxZl9BcGp2T2tZNVVoMkhFYTBGVkoydEU1OTd3M0R6LXBPcTRnYklDUXdueXRuLTNJNDVJVWNRVGlvNkNB?oc=5\" target=\"_blank\">Nvidia and SpaceXAI adapting terrestrial datacentre infrastructure for space</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Electronics Weekly</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3JwLVFhWlQ2VHkzdXg4SThJWks1SkowSFd4UGtOQzQteDBSa1F1NTctTFh3RDBtb2l5Si0yS2diU2xlTlR2ZzlZb1pLaS15dzUtb2ZZYTdnRjRGVHpXdm1wb19tam01c1NjemVPcXBfcDJJVWtfWnJ0bllXU08zMEhwRkhDMFhVMHV2YXMyQVJ6REozQTNlWEY0bUlzeGFVVDgwLWRCU01naFBpYWlNMG9wd1E?oc=5",
+        "date": "2026-08-25",
+        "title": "NTT Docomo and Mitsubishi Estate to develop 5G smart city in Marunouchi - Telecompaper",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3JwLVFhWlQ2VHkzdXg4SThJWks1SkowSFd4UGtOQzQteDBSa1F1NTctTFh3RDBtb2l5Si0yS2diU2xlTlR2ZzlZb1pLaS15dzUtb2ZZYTdnRjRGVHpXdm1wb19tam01c1NjemVPcXBfcDJJVWtfWnJ0bllXU08zMEhwRkhDMFhVMHV2YXMyQVJ6REozQTNlWEY0bUlzeGFVVDgwLWRCU01naFBpYWlNMG9wd1E?oc=5\" target=\"_blank\">NTT Docomo and Mitsubishi Estate to develop 5G smart city in Marunouchi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telecompaper</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeHdxMjNMNi1XOENpc0xFM0gyUTQtNnpPNGVYUzg1S0FlNW1OVks2a290Y3VieWdESm03MmtJdS1WWld0MV95OVJHNy0ySmMyVmtlTEhMY0RzdVlOaWlHUWwwVHFLTERKOVJ3QXVsb3Rhb1pBUmpJNFlNZkpDY0NzTE11MENjR0lHRUJsVEZzN0VHZmkzdTlXRjBUY2N1WE9Dbm9QSWlaeHpnNjk1M2lOS0hoZWhrZnFPUkRKdDhmZ3FDTHp0T3hwWHAwWTIzbmFhM2NGX2tmc0RvNjUtQ0dxV3BQOA?oc=5",
+        "date": "2026-08-25",
+        "title": "Mitsubishi Electric to Demonstrate Smart Building and Smart City Technologies in Legacy Building at Berlin\u2019s Urban Tech Republic - 01net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeHdxMjNMNi1XOENpc0xFM0gyUTQtNnpPNGVYUzg1S0FlNW1OVks2a290Y3VieWdESm03MmtJdS1WWld0MV95OVJHNy0ySmMyVmtlTEhMY0RzdVlOaWlHUWwwVHFLTERKOVJ3QXVsb3Rhb1pBUmpJNFlNZkpDY0NzTE11MENjR0lHRUJsVEZzN0VHZmkzdTlXRjBUY2N1WE9Dbm9QSWlaeHpnNjk1M2lOS0hoZWhrZnFPUkRKdDhmZ3FDTHp0T3hwWHAwWTIzbmFhM2NGX2tmc0RvNjUtQ0dxV3BQOA?oc=5\" target=\"_blank\">Mitsubishi Electric to Demonstrate Smart Building and Smart City Technologies in Legacy Building at Berlin\u2019s Urban Tech Republic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">01net</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXBoekRkMVJLQnZQQXBiVndRT1hYeE14LUNlVENGdFAwMjMwZUlpb1hMUFRrVUFXSUxzZEVCRVpzS0VTMnNEQlI2aTNQWGU2UUk5TjBiaF9ZQ2ZCOUNqU2ZBeWNvUkNIa2dGNE5fek5KZW5tVkl1QXFHeXd6T3pRN2FVYlI1eU5t?oc=5",
+        "date": "2026-08-25",
+        "title": "Incheon City Selects Six Pilot Districts for Urban Maintenance Project - \uc870\uc120\uc77c\ubcf4",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXBoekRkMVJLQnZQQXBiVndRT1hYeE14LUNlVENGdFAwMjMwZUlpb1hMUFRrVUFXSUxzZEVCRVpzS0VTMnNEQlI2aTNQWGU2UUk5TjBiaF9ZQ2ZCOUNqU2ZBeWNvUkNIa2dGNE5fek5KZW5tVkl1QXFHeXd6T3pRN2FVYlI1eU5t?oc=5\" target=\"_blank\">Incheon City Selects Six Pilot Districts for Urban Maintenance Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\uc870\uc120\uc77c\ubcf4</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzVQTFhGckUxQ1FLNjhwbTd2Y2ZSM2RrVkVLaHRvaGdXa1BKa3dDZW9GaGZibllhLUQtOUViYkMycGpYWFNWd29FUE0ycXNIcjNPTjhGVlVxd0VaRmlyRXExTmZldmEyUW1xM3c0YmNfWVY1ZVVKSFotSi1xeko0Sk04X3lOUUpzaWx1cEpHd0ltLU91WDNYci1KVlF2WnhKZHZ0eDVsNkhSV2NHWGJwV2tMeENkUk9oeFBEcDBkWGdocVY00gHSAUFVX3lxTE03OFkzLURGV082dndhd2xhbmxpMkhQV2xyRFp2aDdSVVlfbWpxNVRnR202SHUyTDA0dnYzZzduejBBNEZOa01VVzBrRHdYZUV2ODdGLVV5aXpwWnROTklYM1ZSZnV0RHV3SlU2VW1US0FJQUV3TXZPWDJmZ05GSUNYeDZOeTg3SmNzTFh1ZHppWVk2R3ltTmFYcmJ4ZWttbktzLUxfWThVR21vNUlVZEVGQ1N6OTNtQmJSLUozbE5FMTZnNU43MVJYQkppMWtRNVpEQQ?oc=5",
+        "date": "2026-08-25",
+        "title": "US Department of Transportation to invest $665m to modernise ferry infrastructure - Baird Maritime",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzVQTFhGckUxQ1FLNjhwbTd2Y2ZSM2RrVkVLaHRvaGdXa1BKa3dDZW9GaGZibllhLUQtOUViYkMycGpYWFNWd29FUE0ycXNIcjNPTjhGVlVxd0VaRmlyRXExTmZldmEyUW1xM3c0YmNfWVY1ZVVKSFotSi1xeko0Sk04X3lOUUpzaWx1cEpHd0ltLU91WDNYci1KVlF2WnhKZHZ0eDVsNkhSV2NHWGJwV2tMeENkUk9oeFBEcDBkWGdocVY00gHSAUFVX3lxTE03OFkzLURGV082dndhd2xhbmxpMkhQV2xyRFp2aDdSVVlfbWpxNVRnR202SHUyTDA0dnYzZzduejBBNEZOa01VVzBrRHdYZUV2ODdGLVV5aXpwWnROTklYM1ZSZnV0RHV3SlU2VW1US0FJQUV3TXZPWDJmZ05GSUNYeDZOeTg3SmNzTFh1ZHppWVk2R3ltTmFYcmJ4ZWttbktzLUxfWThVR21vNUlVZEVGQ1N6OTNtQmJSLUozbE5FMTZnNU43MVJYQkppMWtRNVpEQQ?oc=5\" target=\"_blank\">US Department of Transportation to invest $665m to modernise ferry infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baird Maritime</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: US Department of Transportation to invest $665m to modernise ferry infrastructure",
+        "type": "news"
     }
 ]
