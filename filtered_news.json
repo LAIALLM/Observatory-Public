@@ -1,158 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-16",
-        "status": "posted",
-        "tweet": "2026 annual cloud and data center costs:\n\n1. Bitcoin: $3.1B (\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf3 facilities)\n2. Solana: $410M (\ud83c\uddfa\ud83c\uddf8 validators)\n3. Ethereum: $92M (PoS nodes)",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2026-08-16",
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 China solar output hits 1,200 TWh in 2026.  \n\ud83c\uddfa\ud83c\uddf8 United States nuclear generation totals 780 TWh.",
-        "type": "statistical",
-        "category": "energy"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaTJlUnNNUlh4dXRLRm55RkxEUUFvOXVvX0RtYWs3NFpHODBCTVpZYUt3TzFKTl9BV0o1UFUxanBDMkpCWjRzdmhWZmNtODZnaWN0am9Ia0xscWJxS3o4OVJ2MlpwRTFlUDNrSlJab3FHV2gxSTdxTThWUWstUnE1dWpjOC0tZldGMjNwY0NXVGZkWm1udXJFTnhIdnFLTXJMa2h2NWNINA?oc=5",
-        "date": "2026-08-16",
-        "title": "Effingham Transportation & Infrastructure Committee Met Tuesday - Effingham Radio",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPaTJlUnNNUlh4dXRLRm55RkxEUUFvOXVvX0RtYWs3NFpHODBCTVpZYUt3TzFKTl9BV0o1UFUxanBDMkpCWjRzdmhWZmNtODZnaWN0am9Ia0xscWJxS3o4OVJ2MlpwRTFlUDNrSlJab3FHV2gxSTdxTThWUWstUnE1dWpjOC0tZldGMjNwY0NXVGZkWm1udXJFTnhIdnFLTXJMa2h2NWNINA?oc=5\" target=\"_blank\">Effingham Transportation & Infrastructure Committee Met Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Effingham Radio</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbmozZ1QzMldIQ0QtQ2pZVnBhTDA3dGlxRzlMRU1ubVVmUEpQcUpWRGttRzhuUUxXVGVfLWc2MDZ1LVNCVTQ2cGp2ZGpvTzB0ZWZFV3ptMHdsYkpfLWxxV1JaUFh4a05KWFczZEk2UGlseFdOMUdMZmFkOE1NTFNwek5waGs4Z2p1bmRTRmpkaWh3eDVyZjc0aEJpVXNrUVF3Y2Z2TWRkZndJUC1NQ3ctWDR6TTZJTWZ0WUUwa0RhMVhqdVpfZmRKZWxrNXVENF9XU21UMUNlWm95dzY4Q0pvMDFRTDJVOUN4SXl2c0ZtakRIaDVDNHkySDZqbHREQQ?oc=5",
-        "date": "2026-08-16",
-        "title": "The rising cost of building materials: Can Nigerians still afford to build their dream homes? - Business News Nigeria",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbmozZ1QzMldIQ0QtQ2pZVnBhTDA3dGlxRzlMRU1ubVVmUEpQcUpWRGttRzhuUUxXVGVfLWc2MDZ1LVNCVTQ2cGp2ZGpvTzB0ZWZFV3ptMHdsYkpfLWxxV1JaUFh4a05KWFczZEk2UGlseFdOMUdMZmFkOE1NTFNwek5waGs4Z2p1bmRTRmpkaWh3eDVyZjc0aEJpVXNrUVF3Y2Z2TWRkZndJUC1NQ3ctWDR6TTZJTWZ0WUUwa0RhMVhqdVpfZmRKZWxrNXVENF9XU21UMUNlWm95dzY4Q0pvMDFRTDJVOUN4SXl2c0ZtakRIaDVDNHkySDZqbHREQQ?oc=5\" target=\"_blank\">The rising cost of building materials: Can Nigerians still afford to build their dream homes?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business News Nigeria</font>",
-        "similarity_excluded": "No",
-        "score": 4,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWnRab0tNaW1wb19kSXFQYzNURGl6QmFZeDFrRWd0bkhVTnNxNWJzT2RYZE9tWVB6OVBCZ1VYY3JjbG9xd1FDRjZVTEFVMG9qLWZDaDJSSlZNa3o5b0QxNXJ6SDl4SWZBeWlYVndZdUlSa0FlQlVub011RTRIb0gxY2tmQ0NSUG1hODJEN09OV2xRZXA0VmtMMVA3TW1Idw?oc=5",
-        "date": "2026-08-16",
-        "title": "Ukraine Attacks On Russian Space Infrastructure - NASA Watch",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNWnRab0tNaW1wb19kSXFQYzNURGl6QmFZeDFrRWd0bkhVTnNxNWJzT2RYZE9tWVB6OVBCZ1VYY3JjbG9xd1FDRjZVTEFVMG9qLWZDaDJSSlZNa3o5b0QxNXJ6SDl4SWZBeWlYVndZdUlSa0FlQlVub011RTRIb0gxY2tmQ0NSUG1hODJEN09OV2xRZXA0VmtMMVA3TW1Idw?oc=5\" target=\"_blank\">Ukraine Attacks On Russian Space Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NASA Watch</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MdEpsVEhvbTdNZTctaWtIanZXMDF2THFmWmpTb1hOWTRZeFhZN1VYekFNSzl2d3MxUjk0WDJWbFdIaEpvMm10RW0tVDZJVi1HVGF3UU9Ga0tIYXgzWXhSMmx4SERsb2JlMG1FWVFCQTdBaWpHX0k5SWtVN2U?oc=5",
-        "date": "2026-08-16",
-        "title": "Planning Rangpur for future - New Age BD",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5MdEpsVEhvbTdNZTctaWtIanZXMDF2THFmWmpTb1hOWTRZeFhZN1VYekFNSzl2d3MxUjk0WDJWbFdIaEpvMm10RW0tVDZJVi1HVGF3UU9Ga0tIYXgzWXhSMmx4SERsb2JlMG1FWVFCQTdBaWpHX0k5SWtVN2U?oc=5\" target=\"_blank\">Planning Rangpur for future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Age BD</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONjJid1JIOUl1MlNtNzZfdm9CRGJuTk0zWlVsVjhtekxrQlRCMUhTUUpxRFVxQXlvLWpvT2t6SG1wVGU4SV9tcEZiZ1NMM1R4QkdQM3M0QzEyOFRzT1lZTkNZRl9fZ1hibWx6NXRMMUlMZWdjdnl3bUdtNEp4dFkxX2VyRV9DSkNHcUVF?oc=5",
-        "date": "2026-08-16",
-        "title": "Leading Through Construction\u2019s Next Transformation - GroundBreak Carolinas",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxONjJid1JIOUl1MlNtNzZfdm9CRGJuTk0zWlVsVjhtekxrQlRCMUhTUUpxRFVxQXlvLWpvT2t6SG1wVGU4SV9tcEZiZ1NMM1R4QkdQM3M0QzEyOFRzT1lZTkNZRl9fZ1hibWx6NXRMMUlMZWdjdnl3bUdtNEp4dFkxX2VyRV9DSkNHcUVF?oc=5\" target=\"_blank\">Leading Through Construction\u2019s Next Transformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GroundBreak Carolinas</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWs2RUFjX3JhM3pTNVJCcWJ3aE5aeG1xUUlFbkNmZUlER0lrc1dMdXN2QlZtYjUyMklVVFpGdjNyNjlQU1RlSGJFVHpiNUlfTWxKWXc1Slh0X2NIRVZIMGlrTUtNZmJBWDY3OFlSYkNlRk9qeU9aYlcwYVlleGRPckdKUTJjclAyb2hjSWZlcm5aUXM2RzlQUU4wNFZ1RExHZXc?oc=5",
-        "date": "2026-08-16",
-        "title": "Outstanding returns built on disciplined execution - KLSE Screener",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWs2RUFjX3JhM3pTNVJCcWJ3aE5aeG1xUUlFbkNmZUlER0lrc1dMdXN2QlZtYjUyMklVVFpGdjNyNjlQU1RlSGJFVHpiNUlfTWxKWXc1Slh0X2NIRVZIMGlrTUtNZmJBWDY3OFlSYkNlRk9qeU9aYlcwYVlleGRPckdKUTJjclAyb2hjSWZlcm5aUXM2RzlQUU4wNFZ1RExHZXc?oc=5\" target=\"_blank\">Outstanding returns built on disciplined execution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KLSE Screener</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-08-16",
-        "status": "posted",
-        "tweet": "Alphabet $GOOGL\n\ud83c\uddfa\ud83c\uddf8 The Dalles data centers processed 1.2 exabytes daily during 2025.",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWpkUm5zZ3FoZmgzNTZxTVZaVVVxblJFTUs2SHdydlFXZ0w0YXd3MFZjNHpUOUowN2drUFBVcDdtdUlSVWJTV2Y3U3pqcE05NjI5QzYzNDA4MElnVVRoY1RYYjcyN1ViTkNEelhfZnFLWFdGQXNWR0dxUU1KUDN1TjZGLW9CRjBabHREb2FubEZ3eHVic0ljVjlzRGV0UUl6NGdyYXVWLVprN3M?oc=5",
-        "date": "2026-08-16",
-        "title": "A Nightmare on Britain\u2019s Railways: is our infrastructure about to buckle? - Counterfire",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWpkUm5zZ3FoZmgzNTZxTVZaVVVxblJFTUs2SHdydlFXZ0w0YXd3MFZjNHpUOUowN2drUFBVcDdtdUlSVWJTV2Y3U3pqcE05NjI5QzYzNDA4MElnVVRoY1RYYjcyN1ViTkNEelhfZnFLWFdGQXNWR0dxUU1KUDN1TjZGLW9CRjBabHREb2FubEZ3eHVic0ljVjlzRGV0UUl6NGdyYXVWLVprN3M?oc=5\" target=\"_blank\">A Nightmare on Britain\u2019s Railways: is our infrastructure about to buckle?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Counterfire</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQR1YwcnVjYmR6R1RMWnlPbDhTN2FVRDl5OHY3WHdDZjUySXh5Rk5qV2dTYk5SY3ZhMHBZUkNpb0d3TlBITnY3WHlNNUI5TF9YTFRlLWNaME1TUHRORHVqVGlUQjJjeDRaSjBac0RKSWNjcmVmZ1ZMSkVJWWlrdUV3YmxDNTNvOFhUTlNHeWM1Q25DalgtOGVnZl9HaVFNN09QMVdVSWVQS296TEJ6cmZxLXFlazdpcHhsdkdySjZka0lmUkNLWWEtQlJSa1RLeFFmQXRUN2JJcVo5MWIzZFp6b1RoWHhDVFM1Tm5DMEoyWGZrNzFRQU9DMWdXWl9mbVU3OU9mQVUzV3owcVk5MHd0WkpSc0RXeEJqTDBad2VBcmpMUGs?oc=5",
-        "date": "2026-08-16",
-        "title": "Concordia researchers use London, ON's West 5 neighbourhood to model a sustainable, solar-powered 15-minute city - Morgan County Citizen",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQR1YwcnVjYmR6R1RMWnlPbDhTN2FVRDl5OHY3WHdDZjUySXh5Rk5qV2dTYk5SY3ZhMHBZUkNpb0d3TlBITnY3WHlNNUI5TF9YTFRlLWNaME1TUHRORHVqVGlUQjJjeDRaSjBac0RKSWNjcmVmZ1ZMSkVJWWlrdUV3YmxDNTNvOFhUTlNHeWM1Q25DalgtOGVnZl9HaVFNN09QMVdVSWVQS296TEJ6cmZxLXFlazdpcHhsdkdySjZka0lmUkNLWWEtQlJSa1RLeFFmQXRUN2JJcVo5MWIzZFp6b1RoWHhDVFM1Tm5DMEoyWGZrNzFRQU9DMWdXWl9mbVU3OU9mQVUzV3owcVk5MHd0WkpSc0RXeEJqTDBad2VBcmpMUGs?oc=5\" target=\"_blank\">Concordia researchers use London, ON's West 5 neighbourhood to model a sustainable, solar-powered 15-minute city</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morgan County Citizen</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yRGRrdlAwcjZ1R0VNVW91Y2h2STVoZEFzYkFFMjJ0MVZCd25VeUQ4aG00d2FhYk1XWjlNVklRMzNDNnJRMlktbW5NWGJoMVFMUTdWSm1rSGtEX0p3Vm1XcW8zOWVjSHl2OUNCbUNqQW1MR2psaDVXeHJNX0c?oc=5",
-        "date": "2026-08-16",
-        "title": "News - Infrastructure Support Through KW26 - DVIDS",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1yRGRrdlAwcjZ1R0VNVW91Y2h2STVoZEFzYkFFMjJ0MVZCd25VeUQ4aG00d2FhYk1XWjlNVklRMzNDNnJRMlktbW5NWGJoMVFMUTdWSm1rSGtEX0p3Vm1XcW8zOWVjSHl2OUNCbUNqQW1MR2psaDVXeHJNX0c?oc=5\" target=\"_blank\">News - Infrastructure Support Through KW26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DVIDS</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0RPRzZnUGt3aERFWFJkaHI2TWw3QVV0cUpSd3pudks5LXl5dVJIa2VGeVZZMG1IZXdjZmh4ZFpRTGdRTGtkVTJzTUVMRHhReVlhRDhUT0tYNnp0VUZDRHdCRXRhY0NyaTUtY3VzRmRwMlJ3REN6N2tBTFB2UWUwQnJRb0pXTklWRGF0cWVQdXZDeF9pNzZhbjBzUE5YUHFLV2RTcUpmRWZPY2pocTY2cm14WXFCMmczOXlN0gHAAUFVX3lxTE9yMmhkYVRnLW9UQTJIbjktaEdvT1dCRlp6S0tDeG1oZFdjSzlBbXV6THBXYk5uQUJUclB4TlI2V1lmdXJZQzIwRmkxYWhLY2VRY3hPNnh0QUhPVFVWS0pqZ1I2UW1JMnJFQnpyd1h0YmdkVmhJUW56dTlLZ2NULTVfRW9GdTN2MlgzOGlzeEJ0amtHRzBKWnhldElrTW9yeDNCck44TEM1clJUaXBVYzJfNWw1RWNBWERKNXJucEFscA?oc=5",
-        "date": "2026-08-16",
-        "title": "Copenhagen Infrastructure Partners Closes $3 Billion Growth Markets Fund II, Tripling Prior Fund Size - Pulse 2.0",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0RPRzZnUGt3aERFWFJkaHI2TWw3QVV0cUpSd3pudks5LXl5dVJIa2VGeVZZMG1IZXdjZmh4ZFpRTGdRTGtkVTJzTUVMRHhReVlhRDhUT0tYNnp0VUZDRHdCRXRhY0NyaTUtY3VzRmRwMlJ3REN6N2tBTFB2UWUwQnJRb0pXTklWRGF0cWVQdXZDeF9pNzZhbjBzUE5YUHFLV2RTcUpmRWZPY2pocTY2cm14WXFCMmczOXlN0gHAAUFVX3lxTE9yMmhkYVRnLW9UQTJIbjktaEdvT1dCRlp6S0tDeG1oZFdjSzlBbXV6THBXYk5uQUJUclB4TlI2V1lmdXJZQzIwRmkxYWhLY2VRY3hPNnh0QUhPVFVWS0pqZ1I2UW1JMnJFQnpyd1h0YmdkVmhJUW56dTlLZ2NULTVfRW9GdTN2MlgzOGlzeEJ0amtHRzBKWnhldElrTW9yeDNCck44TEM1clJUaXBVYzJfNWw1RWNBWERKNXJucEFscA?oc=5\" target=\"_blank\">Copenhagen Infrastructure Partners Closes $3 Billion Growth Markets Fund II, Tripling Prior Fund Size</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNXNRbE02d0kyUlJDeE9URWpkWHpiSEZWclpmWld6dW1HUTlTNlZQekVtVU9VbW15OGdpMXY2Vi1BS3BZOE1FRVhueXI1c09nekFlS3lDdWttYkNKUmlReG9JeUJ1U1FJeXhrNGk4UUZ0bXV2d3NMaHpZMHlrLU0?oc=5",
-        "date": "2026-08-16",
-        "title": "Infrastructure Support Through KW26 [Image 1 of 2] - DVIDS",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNXNRbE02d0kyUlJDeE9URWpkWHpiSEZWclpmWld6dW1HUTlTNlZQekVtVU9VbW15OGdpMXY2Vi1BS3BZOE1FRVhueXI1c09nekFlS3lDdWttYkNKUmlReG9JeUJ1U1FJeXhrNGk4UUZ0bXV2d3NMaHpZMHlrLU0?oc=5\" target=\"_blank\">Infrastructure Support Through KW26 [Image 1 of 2]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DVIDS</font>",
-        "similarity_excluded": "No",
-        "score": 4,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wRG5mVF9KLTJIQ01ucEx1Ump5dGxQTmpiX3g4eG5uY1prQ1l5UXhyMFc0UjVaVWNGUnQ5RkFoWm5XRjdZYm55clZUY1hTV0NvMmk1bGt3WEJIYWtiZ1RHR1c5ZHI2czRwS0ZZ?oc=5",
-        "date": "2026-08-16",
-        "title": "Russian Drones Attack Sumy, Damaging Civilian Infrastructure and Homes - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9wRG5mVF9KLTJIQ01ucEx1Ump5dGxQTmpiX3g4eG5uY1prQ1l5UXhyMFc0UjVaVWNGUnQ5RkFoWm5XRjdZYm55clZUY1hTV0NvMmk1bGt3WEJIYWtiZ1RHR1c5ZHI2czRwS0ZZ?oc=5\" target=\"_blank\">Russian Drones Attack Sumy, Damaging Civilian Infrastructure and Homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdDNVRkxLOGZqWW5mLXB1dmlRRGVRUFo4bWo1NlM1STRjMC1sQnpGRGRwMnNYakZCR2N2dGhTRnQtQWlvT1hWOWc3Q1hjMG9PS1BYWnFuM0lpTUNfalNwRzd5RVo1N2N3cTZUeG9ET3RucEs4bUkyU056aTBnMVFxSC1mZmZWQ3pPLURmYzE4WXhXR0JoNFJCSm9FakdKMjZIMG83ZGlMdHJyYXI5djhLb2ZzZW9mUVZJTmdHNFdR?oc=5",
-        "date": "2026-08-16",
-        "title": "Major Infrastructure Improvements Complete at Horsetooth, Carter Lake Reservoirs - North Forty News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPdDNVRkxLOGZqWW5mLXB1dmlRRGVRUFo4bWo1NlM1STRjMC1sQnpGRGRwMnNYakZCR2N2dGhTRnQtQWlvT1hWOWc3Q1hjMG9PS1BYWnFuM0lpTUNfalNwRzd5RVo1N2N3cTZUeG9ET3RucEs4bUkyU056aTBnMVFxSC1mZmZWQ3pPLURmYzE4WXhXR0JoNFJCSm9FakdKMjZIMG83ZGlMdHJyYXI5djhLb2ZzZW9mUVZJTmdHNFdR?oc=5\" target=\"_blank\">Major Infrastructure Improvements Complete at Horsetooth, Carter Lake Reservoirs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">North Forty News</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-08-17",
         "status": "posted",
         "tweet": "2026 top infrastructure megaproject spend\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddee\ud83c\uddf3 India\n3. \ud83c\uddf8\ud83c\udde6 Saudi Arabia\n4. \ud83c\uddfa\ud83c\uddf8 United States\n5. \ud83c\udde6\ud83c\uddea UAE",
@@ -4160,5 +4008,45 @@
         "status": "posted",
         "tweet": "Bitcoin mining 2026:\n\ud83c\uddfa\ud83c\uddf8 US 37%\n\ud83c\uddf7\ud83c\uddfa Russia 19%\n\ud83c\uddf0\ud83c\uddff Kazakhstan 12%\n\nEthereum staking: spread across 40+ countries, no mining.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWxHUVA2aHExT3MycTE4bjdNekJmS3QwWFVPcE9BRHVubjBNd0xvWmVoLXVMM0FNWGlRUnNGeUhGeXFiUEN1Z3RxNXlBU0N3YXJzY3dkdEdxTjJkQUJ6QzFsdFBocU5tRVVWbDdLVGpJR2Jic3hEWUZIX05Ob3ZqODZJZV8zYnBqdkRYV1llSTU1SWJtZEE5dGpXTTFHU2h3SmNzaVNXSV8zbXpacEpGTll5UlM3Z1lkQmc?oc=5",
+        "date": "2026-08-26",
+        "title": "Larimer County commissioners propose infrastructure, wildfire mitigation tax - Reporter-Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWxHUVA2aHExT3MycTE4bjdNekJmS3QwWFVPcE9BRHVubjBNd0xvWmVoLXVMM0FNWGlRUnNGeUhGeXFiUEN1Z3RxNXlBU0N3YXJzY3dkdEdxTjJkQUJ6QzFsdFBocU5tRVVWbDdLVGpJR2Jic3hEWUZIX05Ob3ZqODZJZV8zYnBqdkRYV1llSTU1SWJtZEE5dGpXTTFHU2h3SmNzaVNXSV8zbXpacEpGTll5UlM3Z1lkQmc?oc=5\" target=\"_blank\">Larimer County commissioners propose infrastructure, wildfire mitigation tax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reporter-Herald</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOUdNQWZjbHA3UHVicGlGU0VJYlBDSUtlb1JCS01lQ0hOLVRublA0YktUak1zZUZWS3l0eUZpeXBmZkx4cTcyMFB4T3BvUEFlNkNoRlFadlJKak1kLW1JMXo0dXpZZkJJT0o5NHpQRFFINmJuQ0k0dlQ1NmhTRi1TQkVZTHN6YWtBUENoRWtoZm1iLVh2bTJjSF84N092M2wydi12YWVQNi16SGotZmRhWmhENGN4YjRLUkJkYVhlQWp2akpCVEYtQWQ0YTc3UQ?oc=5",
+        "date": "2026-08-26",
+        "title": "NAVER D2SF Invests in F4GE, a Defense and Manufacturing Infrastructure Startup - PR Newswire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPOUdNQWZjbHA3UHVicGlGU0VJYlBDSUtlb1JCS01lQ0hOLVRublA0YktUak1zZUZWS3l0eUZpeXBmZkx4cTcyMFB4T3BvUEFlNkNoRlFadlJKak1kLW1JMXo0dXpZZkJJT0o5NHpQRFFINmJuQ0k0dlQ1NmhTRi1TQkVZTHN6YWtBUENoRWtoZm1iLVh2bTJjSF84N092M2wydi12YWVQNi16SGotZmRhWmhENGN4YjRLUkJkYVhlQWp2akpCVEYtQWQ0YTc3UQ?oc=5\" target=\"_blank\">NAVER D2SF Invests in F4GE, a Defense and Manufacturing Infrastructure Startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYmZPX2RWT3YydENrNFZzOXdraEdic3ZIeWJLOWlZZm1aOVlIT2NQOGlFT0JBN3NTTTB4T0duemlmQjhKQ25GMk05T0N6bl9pdlY5a0ktN1A2QXJ4WU04emJ4V002ek4tTUJsSDlvV0ZlLUctMGhKM3hhOE5INS1URHNMazhuc0kzVW9aaUtxT2lqY3A4ZlJ6Z1VHa0o2a2ZFNDRuQWV4M2tjTUw1TW41b1lWOHg0UnlqOXZkejNCdXhpNFVxMjBQbzNmMWZCQdIB0wFBVV95cUxQSzVvSXplY3kxNVlvR09jVGZOTGVJV0pxbGJvaXcwalRfNnd6OWRmYzd5cDVmd0dCVXQ4cE9HSHNURzFEY1lDeG04WEZhbE93M0c1ZEg2dW0zNS1mQ1hNSHlvbmZwRWttX0RZcEJ5a2pxQmJqQTBfU0pFUjBCUC1sVFJlY1NrRTRmZG13LW9hNVVENDJGRnNOSXlGT0RIcVA4QUlNTFF5em5ISklHQno0bUhtOFZOR2lxM1dhcWMwbWJrMTB0MWxlc0RvWUVVa2JLOXhV?oc=5",
+        "date": "2026-08-26",
+        "title": "Broadcom Stock Leads 3 AI Infrastructure Picks With Strong Growth Potential - simplywall.st",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPYmZPX2RWT3YydENrNFZzOXdraEdic3ZIeWJLOWlZZm1aOVlIT2NQOGlFT0JBN3NTTTB4T0duemlmQjhKQ25GMk05T0N6bl9pdlY5a0ktN1A2QXJ4WU04emJ4V002ek4tTUJsSDlvV0ZlLUctMGhKM3hhOE5INS1URHNMazhuc0kzVW9aaUtxT2lqY3A4ZlJ6Z1VHa0o2a2ZFNDRuQWV4M2tjTUw1TW41b1lWOHg0UnlqOXZkejNCdXhpNFVxMjBQbzNmMWZCQdIB0wFBVV95cUxQSzVvSXplY3kxNVlvR09jVGZOTGVJV0pxbGJvaXcwalRfNnd6OWRmYzd5cDVmd0dCVXQ4cE9HSHNURzFEY1lDeG04WEZhbE93M0c1ZEg2dW0zNS1mQ1hNSHlvbmZwRWttX0RZcEJ5a2pxQmJqQTBfU0pFUjBCUC1sVFJlY1NrRTRmZG13LW9hNVVENDJGRnNOSXlGT0RIcVA4QUlNTFF5em5ISklHQno0bUhtOFZOR2lxM1dhcWMwbWJrMTB0MWxlc0RvWUVVa2JLOXhV?oc=5\" target=\"_blank\">Broadcom Stock Leads 3 AI Infrastructure Picks With Strong Growth Potential</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DazRWLS1sQkFzTFMtcEZEaWlxc2JZVXJUdXNWR2ZNMGZ5RFpqSXEyUzJKMnFZbF95dXdnRi1lWDg1MW1fVlhSOGxMU2pYb1pub0NLMHZvZUxGd2paeHFIV3RCSEJ4eUY4WlR1ejdlRm54WGN0UDZYTVRoOA?oc=5",
+        "date": "2026-08-26",
+        "title": "This European City Was Just Named the World\u2019s \u2018Smartest\u2019\u2014and It\u2019s Held the Top Spot for 7 Consecutive Years - Travel + Leisure",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5DazRWLS1sQkFzTFMtcEZEaWlxc2JZVXJUdXNWR2ZNMGZ5RFpqSXEyUzJKMnFZbF95dXdnRi1lWDg1MW1fVlhSOGxMU2pYb1pub0NLMHZvZUxGd2paeHFIV3RCSEJ4eUY4WlR1ejdlRm54WGN0UDZYTVRoOA?oc=5\" target=\"_blank\">This European City Was Just Named the World\u2019s \u2018Smartest\u2019\u2014and It\u2019s Held the Top Spot for 7 Consecutive Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel + Leisure</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
