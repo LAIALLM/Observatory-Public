@@ -4055,5 +4055,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddea Microsoft data centers consumed 4.2 TWh of power in Ireland during 2025. $MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-08-26",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China's urban metro length totals 15,000 km in 2026.\n\ud83c\uddfa\ud83c\uddf8 US metro systems reach 5,200 km.",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
