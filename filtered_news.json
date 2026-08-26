@@ -4048,5 +4048,12 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-26",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddea Microsoft data centers consumed 4.2 TWh of power in Ireland during 2025. $MSFT",
+        "type": "infrastructure"
     }
 ]
