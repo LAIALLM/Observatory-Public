@@ -3056,5 +3056,13 @@
         "status": "posted",
         "tweet": "Ethereum: 1.05 million validators. Median hardware cost $2,400. Spread across 95 countries.\n\nSolana: 2,950 validators. Median hardware cost $8,700. 61% in \ud83c\uddfa\ud83c\uddf8 United States.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-08-29",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India reaches 1.45 billion people in 2026\n\ud83c\udde8\ud83c\uddf3 China at 1.41 billion",
+        "type": "statistical",
+        "category": "population"
     }
 ]
