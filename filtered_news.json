@@ -3064,5 +3064,25 @@
         "tweet": "\ud83c\uddee\ud83c\uddf3 India reaches 1.45 billion people in 2026\n\ud83c\udde8\ud83c\uddf3 China at 1.41 billion",
         "type": "statistical",
         "category": "population"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFR1OTRzNWd3RjZrcHRqak5YUUxXSVNqdVd5X3lHSjlIOU5qMkpLdWZUeTBRTHdnV1FCUHJBdXF4djZudGVON2laX0hJNWdpYUlXcE1hSS1EMjBkUm0tU3RIcU83eVVmT2t6MHdNakJkX1ZQOGU4bzhDRnNYZ0t0eTNPWXRscnhBRVJGV1AtTHJyN3lTQ3RBeDJHTXZ2a0ZJN2VxM2oxckt2b05pa2c?oc=5",
+        "date": "2026-08-29",
+        "title": "Guest column: Aging electrical infrastructure needs to be addressed - Chicago Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFR1OTRzNWd3RjZrcHRqak5YUUxXSVNqdVd5X3lHSjlIOU5qMkpLdWZUeTBRTHdnV1FCUHJBdXF4djZudGVON2laX0hJNWdpYUlXcE1hSS1EMjBkUm0tU3RIcU83eVVmT2t6MHdNakJkX1ZQOGU4bzhDRnNYZ0t0eTNPWXRscnhBRVJGV1AtTHJyN3lTQ3RBeDJHTXZ2a0ZJN2VxM2oxckt2b05pa2c?oc=5\" target=\"_blank\">Guest column: Aging electrical infrastructure needs to be addressed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chicago Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUtZV09QaWQyY0wxTG9SUWJ3cWNtSEZzYUxkYXF5ejN2dmp3WW5NVnpUdDdMX29YbEx4bTQydzRBRU5wWDE2M0VXM1MwYzMzXzgwOGRIX3JnRzVYamdjZ2ZHS1d3SkpiWjcyZnBZWUNOZkpNTkZMdW1qTFJuVFMwMUcwR3BXeEdrT2pJZUxndWZvR2dfQlIteG4yWjVtX3ByaHFUX0I5V1h0cTZWZGk3ZUdwU05TRjJfOFVnakJZQzBIbzRy?oc=5",
+        "date": "2026-08-29",
+        "title": "Dorset Gardens: A Benchmark of Luxury and Strategic Development in Singapore - Luxury Travel Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUtZV09QaWQyY0wxTG9SUWJ3cWNtSEZzYUxkYXF5ejN2dmp3WW5NVnpUdDdMX29YbEx4bTQydzRBRU5wWDE2M0VXM1MwYzMzXzgwOGRIX3JnRzVYamdjZ2ZHS1d3SkpiWjcyZnBZWUNOZkpNTkZMdW1qTFJuVFMwMUcwR3BXeEdrT2pJZUxndWZvR2dfQlIteG4yWjVtX3ByaHFUX0I5V1h0cTZWZGk3ZUdwU05TRjJfOFVnakJZQzBIbzRy?oc=5\" target=\"_blank\">Dorset Gardens: A Benchmark of Luxury and Strategic Development in Singapore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Luxury Travel Magazine</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
