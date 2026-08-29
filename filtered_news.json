@@ -3084,5 +3084,35 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObm5IVzluNVZoMGFHamIzQ1Zvc1IwOExTbjV0UXlUN3piUU16Nk1SdTdNUkJILUV0akN6dm95RUQtSUpoM0V2Z0stVFRqeGZiSEhLWURzeTJ4MU1hQ0VpZ0VXWFZIY1pEaDVZUFpaQWRWS2FsaGhYQlpibU5UTzA0WHJpUkhXVmZzdXJVSUozUG9zM2JqaXRzY0s2bUUyZw?oc=5",
+        "date": "2026-08-29",
+        "title": "Cameco Stock And 2 AI Infrastructure Picks With High Growth Potential - Yahoo Finance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObm5IVzluNVZoMGFHamIzQ1Zvc1IwOExTbjV0UXlUN3piUU16Nk1SdTdNUkJILUV0akN6dm95RUQtSUpoM0V2Z0stVFRqeGZiSEhLWURzeTJ4MU1hQ0VpZ0VXWFZIY1pEaDVZUFpaQWRWS2FsaGhYQlpibU5UTzA0WHJpUkhXVmZzdXJVSUozUG9zM2JqaXRzY0s2bUUyZw?oc=5\" target=\"_blank\">Cameco Stock And 2 AI Infrastructure Picks With High Growth Potential</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUGZTVnEzcFJHTngxR19sZG1xU19NZmJmaW1PS0hMRFdmb3Rld3RjU3kyMjVUOGRTTVg3akd3T3AtTm1FcFZFM2xqVWozT1lvX0xtRHVHeFd2QUJvYU1zdWZvUVdaVlp1akx6aTg5blNDQXNqSE9SUWhvZkFlUzZEWDBtNDZzcnpCZHpUdHBsVm03YXVIZGY1QmVuN2lHZw?oc=5",
+        "date": "2026-08-29",
+        "title": "Rowan Digital Infrastructure provides two-year, $40,000 pledge for Temple ISD - Temple Daily Telegram",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNUGZTVnEzcFJHTngxR19sZG1xU19NZmJmaW1PS0hMRFdmb3Rld3RjU3kyMjVUOGRTTVg3akd3T3AtTm1FcFZFM2xqVWozT1lvX0xtRHVHeFd2QUJvYU1zdWZvUVdaVlp1akx6aTg5blNDQXNqSE9SUWhvZkFlUzZEWDBtNDZzcnpCZHpUdHBsVm03YXVIZGY1QmVuN2lHZw?oc=5\" target=\"_blank\">Rowan Digital Infrastructure provides two-year, $40,000 pledge for Temple ISD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Temple Daily Telegram</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPajVyNm1BbHJJRE1nMHpfcXUzVVpUMTdlSWJwdjNfMWJxTmlMSUhFUTlkRDlueGZBX0hQNjIwZjNuY0ZWRzFtcml3VTB2R2lWQzA2VC1ieU15WWtxUDlENzlDbXhqb2NzS3JCQ2JuUE5vMnpJUGdtRmJmbmstblZCd3A2ZzhpODkwSHBLSnRoeUExUl9hUlJBU1BVdjdoNkhPVzZudldNRDlmSk9LeENCYjV1U2hoVDZkTFN3TERNZ1cyMGhiRlE?oc=5",
+        "date": "2026-08-29",
+        "title": "The world\u2019s 50 \u201csmartest\u201d cities list has dropped, and only four U.S. spots made the ranking - Time Out Worldwide",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPajVyNm1BbHJJRE1nMHpfcXUzVVpUMTdlSWJwdjNfMWJxTmlMSUhFUTlkRDlueGZBX0hQNjIwZjNuY0ZWRzFtcml3VTB2R2lWQzA2VC1ieU15WWtxUDlENzlDbXhqb2NzS3JCQ2JuUE5vMnpJUGdtRmJmbmstblZCd3A2ZzhpODkwSHBLSnRoeUExUl9hUlJBU1BVdjdoNkhPVzZudldNRDlmSk9LeENCYjV1U2hoVDZkTFN3TERNZ1cyMGhiRlE?oc=5\" target=\"_blank\">The world\u2019s 50 \u201csmartest\u201d cities list has dropped, and only four U.S. spots made the ranking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Time Out Worldwide</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
