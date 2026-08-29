@@ -3049,5 +3049,12 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-29",
+        "status": "posted",
+        "tweet": "Ethereum: 1.05 million validators. Median hardware cost $2,400. Spread across 95 countries.\n\nSolana: 2,950 validators. Median hardware cost $8,700. 61% in \ud83c\uddfa\ud83c\uddf8 United States.",
+        "type": "crypto"
     }
 ]
