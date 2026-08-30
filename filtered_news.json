@@ -2278,5 +2278,12 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-30",
+        "status": "posted",
+        "tweet": "Tx per TWh energy 2026\n1. Solana 2000000 TPS\n2. Ethereum 1500000 TPS\n3. Bitcoin 0.06 TPS",
+        "type": "crypto"
     }
 ]
