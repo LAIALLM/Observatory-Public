@@ -2285,5 +2285,13 @@
         "status": "posted",
         "tweet": "Tx per TWh energy 2026\n1. Solana 2000000 TPS\n2. Ethereum 1500000 TPS\n3. Bitcoin 0.06 TPS",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-08-30",
+        "status": "posted",
+        "tweet": "2026 infrastructure megaproject value by country (USD tn)\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddfa\ud83c\uddf8 United States\n3. \ud83c\uddee\ud83c\uddf3 India\n4. \ud83c\uddf8\ud83c\udde6 Saudi Arabia\n5. \ud83c\udde6\ud83c\uddea United Arab Emirates",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
