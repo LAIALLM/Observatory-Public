@@ -2001,5 +2001,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\udde6 NEWS: Government invests close to $130 million in critical infrastructure and heritage assets at Parks Canada sites across Cape Breton/Unamaki and Canso.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-09-01",
+        "status": "posted",
+        "tweet": "Bitcoin mining hashrate concentration 2026\n\n1. \ud83c\uddfa\ud83c\uddf8 United States 37%\n2. \ud83c\uddf7\ud83c\uddfa Russia 16%\n3. \ud83c\uddf0\ud83c\uddff Kazakhstan 13%",
+        "type": "crypto"
     }
 ]
