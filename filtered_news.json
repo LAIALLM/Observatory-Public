@@ -1920,5 +1920,86 @@
         "status": "posted",
         "tweet": "Alphabet $GOOGL data centers in \ud83c\uddfa\ud83c\uddf8 United States processed 15 exabytes daily.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUFoZ0xlNFZhSTVSU29wMWtoWGdUeThXd210T0dhak41NFliZ2dsNjMyUUZES1ktSHlKLTB1U29QVk9Kam5lS29kcmdBdmwzVFdNSUdBemVfMWZ6RWJSTmIxRTE2RmhkeDQzUnYzbVlZUHhaLUQ4d0RCdWkyZXItN3l1X21sSlgwbUdUZkgta1pfbjRWOGdpX1VHYw?oc=5",
+        "date": "2026-09-01",
+        "title": "Registration Open for NAHB Builders\u2019 Show - Floor Covering Weekly",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUFoZ0xlNFZhSTVSU29wMWtoWGdUeThXd210T0dhak41NFliZ2dsNjMyUUZES1ktSHlKLTB1U29QVk9Kam5lS29kcmdBdmwzVFdNSUdBemVfMWZ6RWJSTmIxRTE2RmhkeDQzUnYzbVlZUHhaLUQ4d0RCdWkyZXItN3l1X21sSlgwbUdUZkgta1pfbjRWOGdpX1VHYw?oc=5\" target=\"_blank\">Registration Open for NAHB Builders\u2019 Show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Floor Covering Weekly</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMG1sRlRiVnRFM1RnTmMwa2U1anpDcWZhTTNoQ0MyaFZoYU45QU9qeXgzUGUxUVUxOTFjNGoxbVdEdnoybTdNQ3dyc21yU2ZKZnhsUFl2enhydlVaeU5SVWlKc29qOTY4eDJGTlhIUDBvWHZ1X1NKanJoc1dwbWVTVjVBVllsRTdOSXhTQ2tKQUxXVHNVLURSdEZ1RkVCOGV1SUxzRC1uUlVIT1AtSDdFNWdDcXROclJ0X2lHcnlWRTU0XzhBRmtvY2J6TzhUS05aMzVMcS1IZnl6eHpBSDY1QndCVUp2a25mZHc?oc=5",
+        "date": "2026-09-01",
+        "title": "RTD announces \u2018Building a Better RTD\u2019 initiative to strengthen infrastructure and improve customer experience - RTD-Denver",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMG1sRlRiVnRFM1RnTmMwa2U1anpDcWZhTTNoQ0MyaFZoYU45QU9qeXgzUGUxUVUxOTFjNGoxbVdEdnoybTdNQ3dyc21yU2ZKZnhsUFl2enhydlVaeU5SVWlKc29qOTY4eDJGTlhIUDBvWHZ1X1NKanJoc1dwbWVTVjVBVllsRTdOSXhTQ2tKQUxXVHNVLURSdEZ1RkVCOGV1SUxzRC1uUlVIT1AtSDdFNWdDcXROclJ0X2lHcnlWRTU0XzhBRmtvY2J6TzhUS05aMzVMcS1IZnl6eHpBSDY1QndCVUp2a25mZHc?oc=5\" target=\"_blank\">RTD announces \u2018Building a Better RTD\u2019 initiative to strengthen infrastructure and improve customer experience</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTD-Denver</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbUZwSnRaRVdiZVExcjEyNkFOTGtMUUk3Nmo5dG1YenlZUThmR2RlRlJnU25pQlgxQ0xNVWlUaVpVZHNwZ19ySWJWa1UxeWlHalZ2UTlzM2VzSzJ0UEkySkg3enlOX1dSVHhtZ0x4ZjRKWFFZX0RYTFoyRjVFNklERVZybENPTHZHb1RmMU1GcTVLRjZGRlozQjBRa0lxaUJIOENsYVVnMkhyS0RxQWNOUUJXSGROQkpDZEE?oc=5",
+        "date": "2026-09-01",
+        "title": "Hybrid storage: powers AI Infrastructure - SiliconANGLE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQbUZwSnRaRVdiZVExcjEyNkFOTGtMUUk3Nmo5dG1YenlZUThmR2RlRlJnU25pQlgxQ0xNVWlUaVpVZHNwZ19ySWJWa1UxeWlHalZ2UTlzM2VzSzJ0UEkySkg3enlOX1dSVHhtZ0x4ZjRKWFFZX0RYTFoyRjVFNklERVZybENPTHZHb1RmMU1GcTVLRjZGRlozQjBRa0lxaUJIOENsYVVnMkhyS0RxQWNOUUJXSGROQkpDZEE?oc=5\" target=\"_blank\">Hybrid storage: powers AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbmp3blA5RUlTdHdUZW9PNVFqT1ZhY042SS0yRkU5ZGpPRjdMMVg1Tlk3c3NRd2JaM3pKbU40Nk9NSG5fSUJnR1paVHFaLTN5MHF0Rzl6UUdqdUlRTU1Ha0N0cHRIeFB2Zlh4ZGRiTkFyczdkZ2V1eDNrZGJwYkkzQU1TcUYtd0lUSDZoNy1OazMzbkRmcFM5M1gtY2U5VXpTUU5fV3dzeUJLeUxoMmpnelJmemtIbTRHU2lZYnIxcHdQWEZERUNkelVyUmdEV1pKYUtKamRMdw?oc=5",
+        "date": "2026-09-01",
+        "title": "Press Release: Rep. Jimmy Panetta Announces $635,900 Federal Grant for Monterey Infrastructure Review - Quiver Quantitative",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbmp3blA5RUlTdHdUZW9PNVFqT1ZhY042SS0yRkU5ZGpPRjdMMVg1Tlk3c3NRd2JaM3pKbU40Nk9NSG5fSUJnR1paVHFaLTN5MHF0Rzl6UUdqdUlRTU1Ha0N0cHRIeFB2Zlh4ZGRiTkFyczdkZ2V1eDNrZGJwYkkzQU1TcUYtd0lUSDZoNy1OazMzbkRmcFM5M1gtY2U5VXpTUU5fV3dzeUJLeUxoMmpnelJmemtIbTRHU2lZYnIxcHdQWEZERUNkelVyUmdEV1pKYUtKamRMdw?oc=5\" target=\"_blank\">Press Release: Rep. Jimmy Panetta Announces $635,900 Federal Grant for Monterey Infrastructure Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYXFCcHhOTFItV1ZTNkNlTUpvTm5jZ2I2R1VBd2xrSnR3LVdBX2gzSDliaUplTHdRWjRRZzRqTmQ5MWw4ZWJDU3JLZHRmZXlVcE5YMFVYUFBteXF5eEh4TVdlRURYTVBoam5mMTNMWWtmWVBlX216NkRZNGhWLUZCQ0J3MWU2QWFxS3M0d0lmUlRTNnU1Y2NoWW9KWXhXWjdOeF9BbE9TWEpTSUk3dFMza9IBtgFBVV95cUxNTG03Y1pSTGlSSm5XeGFyVEIzaUJEYTAwYkZXbERsSFl1YVk2c1pBdkZKZGhqNFVpZWtwNHVoVEZqa1FZei0wOVNSU1UxX1RPNzY5UU9sQV9vdWk2QkZpT01YMndGdFhTenBlRnFuQ1I5bEdmM3Fwa1RGOG12MDc5d1lyYXBLYWEtWVBHOUFPRXptbnRSdjk5WnQ2MjFqdW9XaDFpcUd6UTZtWG1nYkRnUHNXbkhDZw?oc=5",
+        "date": "2026-09-01",
+        "title": "InspeCity Raises \u20b9100 Crore ($10.5 Million) To Build In-Space Servicing Infrastructure - pulse2.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQYXFCcHhOTFItV1ZTNkNlTUpvTm5jZ2I2R1VBd2xrSnR3LVdBX2gzSDliaUplTHdRWjRRZzRqTmQ5MWw4ZWJDU3JLZHRmZXlVcE5YMFVYUFBteXF5eEh4TVdlRURYTVBoam5mMTNMWWtmWVBlX216NkRZNGhWLUZCQ0J3MWU2QWFxS3M0d0lmUlRTNnU1Y2NoWW9KWXhXWjdOeF9BbE9TWEpTSUk3dFMza9IBtgFBVV95cUxNTG03Y1pSTGlSSm5XeGFyVEIzaUJEYTAwYkZXbERsSFl1YVk2c1pBdkZKZGhqNFVpZWtwNHVoVEZqa1FZei0wOVNSU1UxX1RPNzY5UU9sQV9vdWk2QkZpT01YMndGdFhTenBlRnFuQ1I5bEdmM3Fwa1RGOG12MDc5d1lyYXBLYWEtWVBHOUFPRXptbnRSdjk5WnQ2MjFqdW9XaDFpcUd6UTZtWG1nYkRnUHNXbkhDZw?oc=5\" target=\"_blank\">InspeCity Raises \u20b9100 Crore ($10.5 Million) To Build In-Space Servicing Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pulse2.com</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVTFBTmlpaFRROHBaR2NzSnBYeS1uS0RkYnV4Qno1eWlZZ0ZTN1FWZC1sV1BxTHpUX0ZpamlKMC1pRklNZ0hrbFFnMDRpeFpGYzJQMUN4eHhvRjNNemR4eDlpYWlhbE16WHFfNzFqVHc1emFxUmZ5czh0d0plT1NfZDVSb0lBQjFDdUg2Tw?oc=5",
+        "date": "2026-09-01",
+        "title": "Government of Canada invests close to $130 million in critical infrastructure and heritage assets in Parks Canada administered places across Cape Breton/Unama'ki and Canso - Yahoo Finance Singapore",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOVTFBTmlpaFRROHBaR2NzSnBYeS1uS0RkYnV4Qno1eWlZZ0ZTN1FWZC1sV1BxTHpUX0ZpamlKMC1pRklNZ0hrbFFnMDRpeFpGYzJQMUN4eHhvRjNNemR4eDlpYWlhbE16WHFfNzFqVHc1emFxUmZ5czh0d0plT1NfZDVSb0lBQjFDdUg2Tw?oc=5\" target=\"_blank\">Government of Canada invests close to $130 million in critical infrastructure and heritage assets in Parks Canada administered places across Cape Breton/Unama'ki and Canso</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde8\ud83c\udde6 NEWS: Government invests nearly $130 million in critical infrastructure and heritage assets at Parks Canada sites across Cape Breton/Unamaki and Canso."
+    },
+    {
+        "link": "https://www.enr.com/articles/63593-construction-job-openings-hit-highest-rate-in-nearly-two-years",
+        "date": "2026-09-01",
+        "title": "Construction Job Openings Hit Highest Rate in Nearly Two Years",
+        "summary": "Labor demands are rising amidst the data center construction boom.",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVTFBTmlpaFRROHBaR2NzSnBYeS1uS0RkYnV4Qno1eWlZZ0ZTN1FWZC1sV1BxTHpUX0ZpamlKMC1pRklNZ0hrbFFnMDRpeFpGYzJQMUN4eHhvRjNNemR4eDlpYWlhbE16WHFfNzFqVHc1emFxUmZ5czh0d0plT1NfZDVSb0lBQjFDdUg2Tw?oc=5",
+        "date": "2026-09-01",
+        "title": "Government of Canada invests close to $130 million in critical infrastructure and heritage assets in Parks Canada administered places across Cape Breton/Unama'ki and Canso - Yahoo Finance Singapore",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOVTFBTmlpaFRROHBaR2NzSnBYeS1uS0RkYnV4Qno1eWlZZ0ZTN1FWZC1sV1BxTHpUX0ZpamlKMC1pRklNZ0hrbFFnMDRpeFpGYzJQMUN4eHhvRjNNemR4eDlpYWlhbE16WHFfNzFqVHc1emFxUmZ5czh0d0plT1NfZDVSb0lBQjFDdUg2Tw?oc=5\" target=\"_blank\">Government of Canada invests close to $130 million in critical infrastructure and heritage assets in Parks Canada administered places across Cape Breton/Unama'ki and Canso</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\udde6 NEWS: Government invests close to $130 million in critical infrastructure and heritage assets at Parks Canada sites across Cape Breton/Unamaki and Canso.",
+        "type": "news"
     }
 ]
