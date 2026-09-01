@@ -1,58 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-22",
-        "status": "posted",
-        "tweet": "Bitcoin network electricity use hit 140 TWh annually, exceeding \ud83c\udde6\ud83c\uddf7 Argentina's total consumption.",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2026-08-22",
-        "status": "posted",
-        "tweet": "Alphabet data centers achieved 1.10 average PUE in 2025. $GOOGL",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-08-22",
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 Shanghai metro network hits 950 km in 2026, moving 13 million daily riders across 18 lines.  \nBy 2030 it will reach 1,200 km, cutting average commutes 20%.",
-        "type": "statistical",
-        "category": "urban planning"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNS0lYbHkwbkM1MTVod3JzcEZBNVBBZWpRbzM1aG5jSF9jMU9rTGhRODhIajc3dUZXLWVmbzRDRkd0RFk1bWVnN0t0cDdJOTkzMXNoc3hFS2U3TkFqQzBOb052Zk1QZkozcy1XVEZNa0FEcHlyR2tUdThyLTdTaTQ3dElvUS1ldkg2WE5BaW14YktaVi04dTZBNnRxdVo2TFpNQmlIOHRZNU9GSWxNdjVFMmVsT2xOLVE1UkRqako1c3Yxa0tpX0RFVVNLUlJRb3NSX3dDYmF0aXdFNF9WTlFOclgwZm1pbl9yd1d3MktQWXVoS25iYnBhZXlLV3RkenhnQ09VMFEzSkZLcmlGTnJV?oc=5",
-        "date": "2026-08-22",
-        "title": "Retail EV charging is becoming procure-ready infrastructure - MarketScale",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxNS0lYbHkwbkM1MTVod3JzcEZBNVBBZWpRbzM1aG5jSF9jMU9rTGhRODhIajc3dUZXLWVmbzRDRkd0RFk1bWVnN0t0cDdJOTkzMXNoc3hFS2U3TkFqQzBOb052Zk1QZkozcy1XVEZNa0FEcHlyR2tUdThyLTdTaTQ3dElvUS1ldkg2WE5BaW14YktaVi04dTZBNnRxdVo2TFpNQmlIOHRZNU9GSWxNdjVFMmVsT2xOLVE1UkRqako1c3Yxa0tpX0RFVVNLUlJRb3NSX3dDYmF0aXdFNF9WTlFOclgwZm1pbl9yd1d3MktQWXVoS25iYnBhZXlLV3RkenhnQ09VMFEzSkZLcmlGTnJV?oc=5\" target=\"_blank\">Retail EV charging is becoming procure-ready infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScale</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE56VzYxUF9HYWN3YUZkeDdUbFhHcEdnWjlyYkRMTl9lMmxoNlNFcmo2WXJTUTAyZGM2TjItbHdfRTU3c1U?oc=5",
-        "date": "2026-08-22",
-        "title": "Odisha Urban Conclave 2026 on August 23 - ODISHA RAY",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE56VzYxUF9HYWN3YUZkeDdUbFhHcEdnWjlyYkRMTl9lMmxoNlNFcmo2WXJTUTAyZGM2TjItbHdfRTU3c1U?oc=5\" target=\"_blank\">Odisha Urban Conclave 2026 on August 23</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ODISHA RAY</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaWRFVkJCWmptd2daR21JRW5BS0NiNERVTWRyTHkxa0cyNndGRWVHaDFzeUtSdlVHaFV1aDdOTTNDenRpeW05V2VGbHFyN0RHcmNJM3htc1lTbVN5TUE0WmtXRldtWVJlUXFUY2VWSTFTNDYzZkxvY21VTDFsemJBWVNtQWlyOEh2M2dpenFzcmx5M1Q5MFAyamFaNHNsSERkVjNsUG5EOWxIZUd6UFNlTDVmYXYwS3RtOTVXeEdEYjZmbmVINVVjVjBR?oc=5",
-        "date": "2026-08-22",
-        "title": "Mechanical PVC Couplings Market Growth to 2035 Driven by Water Infrastructure Replacement - News and Statistics - IndexBox",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOaWRFVkJCWmptd2daR21JRW5BS0NiNERVTWRyTHkxa0cyNndGRWVHaDFzeUtSdlVHaFV1aDdOTTNDenRpeW05V2VGbHFyN0RHcmNJM3htc1lTbVN5TUE0WmtXRldtWVJlUXFUY2VWSTFTNDYzZkxvY21VTDFsemJBWVNtQWlyOEh2M2dpenFzcmx5M1Q5MFAyamFaNHNsSERkVjNsUG5EOWxIZUd6UFNlTDVmYXYwS3RtOTVXeEdEYjZmbmVINVVjVjBR?oc=5\" target=\"_blank\">Mechanical PVC Couplings Market Growth to 2035 Driven by Water Infrastructure Replacement - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-08-23",
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Alphabet data centers recorded a 1.09 PUE rating in 2026.\n$GOOGL",
@@ -1957,5 +1905,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-31",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China high-speed rail reaches 52,000 km by 2026 compared to 11,000 km in \ud83c\uddea\ud83c\uddfa EU",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
