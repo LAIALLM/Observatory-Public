@@ -1913,5 +1913,12 @@
         "tweet": "\ud83c\udde8\ud83c\uddf3 China high-speed rail reaches 52,000 km by 2026 compared to 11,000 km in \ud83c\uddea\ud83c\uddfa EU",
         "type": "statistical",
         "category": "engineering projects"
+    },
+    {
+        "link": null,
+        "date": "2026-09-01",
+        "status": "posted",
+        "tweet": "Alphabet $GOOGL data centers in \ud83c\uddfa\ud83c\uddf8 United States processed 15 exabytes daily.",
+        "type": "infrastructure"
     }
 ]
