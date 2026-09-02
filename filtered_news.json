@@ -2008,5 +2008,25 @@
         "status": "posted",
         "tweet": "Bitcoin mining hashrate concentration 2026\n\n1. \ud83c\uddfa\ud83c\uddf8 United States 37%\n2. \ud83c\uddf7\ud83c\uddfa Russia 16%\n3. \ud83c\uddf0\ud83c\uddff Kazakhstan 13%",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GdWxYVm80aFdxNlhITFFOVXpQdkVvSmZmYlF5UllpS1lCZHVWYnZRaERBVHVlazc1YTVtTEhodk1ZX1ZoR01ydEFwanpocEJUTE95WExJT2o0N3hZN2pJZWpRVlVxUVM0SHFGR3VFQVBaRnREMEZHZmRYYw?oc=5",
+        "date": "2026-09-01",
+        "title": "Ahmad Ramadan - State of Michigan (.gov)",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9GdWxYVm80aFdxNlhITFFOVXpQdkVvSmZmYlF5UllpS1lCZHVWYnZRaERBVHVlazc1YTVtTEhodk1ZX1ZoR01ydEFwanpocEJUTE95WExJT2o0N3hZN2pJZWpRVlVxUVM0SHFGR3VFQVBaRnREMEZHZmRYYw?oc=5\" target=\"_blank\">Ahmad Ramadan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">State of Michigan (.gov)</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSjBwZWNFWExPZGdEQWVBbGVGZGJWbmxiS3BSTTlYX0x4S3poNTRMM2wyUjg0OG05TEJJTE9kOWtGZjVTSElac3BFZl9ZSTJtVEMtajU4azlNVE5zbmtiUkhQVldwaUJjYkcxSUtkejVxQmVGeExUUzNVLWUzRnZBYzRENTZ3ajFkd0xLZEcwWHFVMm5lT2c3dmxCSUszRjhueTl4Y2N3?oc=5",
+        "date": "2026-09-01",
+        "title": "Kajang\u2019s command centre to power smart city goals - The Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNSjBwZWNFWExPZGdEQWVBbGVGZGJWbmxiS3BSTTlYX0x4S3poNTRMM2wyUjg0OG05TEJJTE9kOWtGZjVTSElac3BFZl9ZSTJtVEMtajU4azlNVE5zbmtiUkhQVldwaUJjYkcxSUtkejVxQmVGeExUUzNVLWUzRnZBYzRENTZ3ajFkd0xLZEcwWHFVMm5lT2c3dmxCSUszRjhueTl4Y2N3?oc=5\" target=\"_blank\">Kajang\u2019s command centre to power smart city goals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Star</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
