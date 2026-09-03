@@ -1631,5 +1631,175 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzNGZXlLeEFIU0JLS0FzT2dsQl9Jcnc0QU43cGxPUHRYb1k4NTdoaEVmQm1jVkFPb2dUNTZnalQ1X0x1Q3hpSnM5b3Q0WXFXQUFCYlp0TjBYSlhnUTNYRU1iRkJfcF9LTk5jOFUtXzhqXzNUdzJxd1RGR1BfQjhaOHlzUEJKNG9kY3l2a0N2SEhsUndfNk9mc2RsMVpmVVZZMHFjM2RZZUNuVG9QLUVMN2NGNUVXQQ?oc=5",
+        "date": "2026-09-03",
+        "title": "Construction Job Openings Up by 28,000 to Near-2-Year High in July - EC&M",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzNGZXlLeEFIU0JLS0FzT2dsQl9Jcnc0QU43cGxPUHRYb1k4NTdoaEVmQm1jVkFPb2dUNTZnalQ1X0x1Q3hpSnM5b3Q0WXFXQUFCYlp0TjBYSlhnUTNYRU1iRkJfcF9LTk5jOFUtXzhqXzNUdzJxd1RGR1BfQjhaOHlzUEJKNG9kY3l2a0N2SEhsUndfNk9mc2RsMVpmVVZZMHFjM2RZZUNuVG9QLUVMN2NGNUVXQQ?oc=5\" target=\"_blank\">Construction Job Openings Up by 28,000 to Near-2-Year High in July</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EC&amp;M</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUlhbkV4eGxtWVN2YXNCWk9qVmFSY2lGZVhuc0o1aEY4WkdqOW1wSU13LTNqRjUxczJjczdMbEJOdUJCczZGNWFLWFBCdXhFRHVGa0FEd2haQzZjbHp6U094N29ZamZFUFh5dUI2TWpJRWRvN2h0RGFxd1o0QkEtRUVQR0FJX0FiR1FteVRVMUIydFlvQnlFZzl3dXRSdWRsbUF4UENn?oc=5",
+        "date": "2026-09-03",
+        "title": "See the New Building Techniques Turbocharging the Data-Center Boom - WSJ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUlhbkV4eGxtWVN2YXNCWk9qVmFSY2lGZVhuc0o1aEY4WkdqOW1wSU13LTNqRjUxczJjczdMbEJOdUJCczZGNWFLWFBCdXhFRHVGa0FEd2haQzZjbHp6U094N29ZamZFUFh5dUI2TWpJRWRvN2h0RGFxd1o0QkEtRUVQR0FJX0FiR1FteVRVMUIydFlvQnlFZzl3dXRSdWRsbUF4UENn?oc=5\" target=\"_blank\">See the New Building Techniques Turbocharging the Data-Center Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVTlxNUpUam4wUzBxSGdBQnNoMG1ONU03VjRLUjdpdTMzRTRDZXVqU2lTbDhFT1BwVXZiczk0V3ptanVuSFlZdnVRb01KaXR2MkUtaWFEWmdpdXgyZUdYZU40M2ZfLUt3WnZrYng0SnhlZE5RMURWclVFS09MLTlxU3FCM1JoV0xpcnF3MjBmVGg?oc=5",
+        "date": "2026-09-03",
+        "title": "CFMEU delegate charged with dealing drugs at work sites - aapnews.aap.com.au",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQVTlxNUpUam4wUzBxSGdBQnNoMG1ONU03VjRLUjdpdTMzRTRDZXVqU2lTbDhFT1BwVXZiczk0V3ptanVuSFlZdnVRb01KaXR2MkUtaWFEWmdpdXgyZUdYZU40M2ZfLUt3WnZrYng0SnhlZE5RMURWclVFS09MLTlxU3FCM1JoV0xpcnF3MjBmVGg?oc=5\" target=\"_blank\">CFMEU delegate charged with dealing drugs at work sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aapnews.aap.com.au</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmdCZDRveVFOLW1pQ2t6X1lEYmk1LWowMTRhX2phb2wtVW1VZXlnVlg1VXd1R3pwdkJRSDFvZ1RSZkpZS1FLbW1Fa0VvT2tlbU12S3ZJM1Z1RXprWEh0dGhZZk1COWJDaVN3aEJNTHMwZWdROHpXa1E4ZHdMSzBra1FOWWtkaEIxemQzX0lVUHBxSmJUNWczMjBTM2txaVNQMGt0UUNLMU5xQmMxUVZsc2VUbzhKQ3JfdTZVOWdNbVpHbnBBRC1mSw?oc=5",
+        "date": "2026-09-03",
+        "title": "Maine communities to receive $5 million in grants to strengthen infrastructure - WGME",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmdCZDRveVFOLW1pQ2t6X1lEYmk1LWowMTRhX2phb2wtVW1VZXlnVlg1VXd1R3pwdkJRSDFvZ1RSZkpZS1FLbW1Fa0VvT2tlbU12S3ZJM1Z1RXprWEh0dGhZZk1COWJDaVN3aEJNTHMwZWdROHpXa1E4ZHdMSzBra1FOWWtkaEIxemQzX0lVUHBxSmJUNWczMjBTM2txaVNQMGt0UUNLMU5xQmMxUVZsc2VUbzhKQ3JfdTZVOWdNbVpHbnBBRC1mSw?oc=5\" target=\"_blank\">Maine communities to receive $5 million in grants to strengthen infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WGME</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR2dxNUNNWlZPTy1PZkV6NzAzSzNaQUdvQmxOQzIxNmlUcWRMem9WQ1l6OHJnMVphS0p0MFRKUWRUc0R0R1hPYWRYNU9UV2s2MGVickJRSWJ6TlBkYUFxeDk2ZnRYdkdBWmZGazZrb2oxUmNqOXNFUXl0Y0E0SGt1cVBCbFlmb1JnYm44bUV5Tk1xV0p5UURodHRvQzlDWFlKdHZqV0hNSzFzMjdXWG9KbFR3YW0tdnY2TFZjZTlrT2F6M3lYY0dSVFdwaVJLX0VlbGpqM1FR?oc=5",
+        "date": "2026-09-03",
+        "title": "Steele Meets with Transportation Secretary Sean Duffy to Discuss Michigan\u2019s Ports, Shipbuilding and Infrastructure - Michigan House Republicans",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR2dxNUNNWlZPTy1PZkV6NzAzSzNaQUdvQmxOQzIxNmlUcWRMem9WQ1l6OHJnMVphS0p0MFRKUWRUc0R0R1hPYWRYNU9UV2s2MGVickJRSWJ6TlBkYUFxeDk2ZnRYdkdBWmZGazZrb2oxUmNqOXNFUXl0Y0E0SGt1cVBCbFlmb1JnYm44bUV5Tk1xV0p5UURodHRvQzlDWFlKdHZqV0hNSzFzMjdXWG9KbFR3YW0tdnY2TFZjZTlrT2F6M3lYY0dSVFdwaVJLX0VlbGpqM1FR?oc=5\" target=\"_blank\">Steele Meets with Transportation Secretary Sean Duffy to Discuss Michigan\u2019s Ports, Shipbuilding and Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Michigan House Republicans</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRVpDUnFBNGYyMGFVYUpWZHdtaHNuWUhJSmNzbDFGbWs0VTRLUGRXYmdWVFI3UlQ5ZXEwY2lobU5xVTRXekxTWlI1emdPUlR6a3ZaT1Z5Yk85RWFmdFV0d3JlS2hOMURnM0xzSXFmTW5FNUZFT0N0bGVvYkdKaWxBTWpOVTlKZC1lbTBIZHVCNFhsRFF6TkYydlhveDgtVk1CZkxWM3haN1F3bFpiQ3owWjh5SHhtcGlUc3FRcDZTOWc?oc=5",
+        "date": "2026-09-03",
+        "title": "Infrastructure, sustaining growth top of mind for water planning in WilCo - Community Impact",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRVpDUnFBNGYyMGFVYUpWZHdtaHNuWUhJSmNzbDFGbWs0VTRLUGRXYmdWVFI3UlQ5ZXEwY2lobU5xVTRXekxTWlI1emdPUlR6a3ZaT1Z5Yk85RWFmdFV0d3JlS2hOMURnM0xzSXFmTW5FNUZFT0N0bGVvYkdKaWxBTWpOVTlKZC1lbTBIZHVCNFhsRFF6TkYydlhveDgtVk1CZkxWM3haN1F3bFpiQ3owWjh5SHhtcGlUc3FRcDZTOWc?oc=5\" target=\"_blank\">Infrastructure, sustaining growth top of mind for water planning in WilCo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Community Impact</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWmNBU05ILW1CMmhEdXMycFJFOEdDRVI4bXctWHU5RFdXVkRFSHpqS2J1UV9NTEtMV0I4dFlON01mVlc0UUtxZFRGdGZ3Mk1ueXlTYTV1UV9xRi1TS01DNTNtbmJFbk41S1E0ejVDTmF0Q1BqVWxnZmdwcWhvT3ZRQ3B4VkQ0RW1XdmfSAY8BQVVfeXFMT21BQ055Tkx6THZyeFpCLVZfaU5WOFd1X0ZBM0tkRTJURWU2UW1zaEhHVEJGOGM4bm5hUERCd0o2ZzdpVHVfSXI0Y19LLWNINUtvYkhGM0Rfc1BQS3VDeTVZeXdXTTA3dzlfUGc4ZzYwWWJhS214TnJfWGZzQ1ZvckVMRW94UXBrWXF4OFFWaTQ?oc=5",
+        "date": "2026-09-03",
+        "title": "New infrastructure fee facing San Angelo Council vote - ConchoValleyHomepage.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOWmNBU05ILW1CMmhEdXMycFJFOEdDRVI4bXctWHU5RFdXVkRFSHpqS2J1UV9NTEtMV0I4dFlON01mVlc0UUtxZFRGdGZ3Mk1ueXlTYTV1UV9xRi1TS01DNTNtbmJFbk41S1E0ejVDTmF0Q1BqVWxnZmdwcWhvT3ZRQ3B4VkQ0RW1XdmfSAY8BQVVfeXFMT21BQ055Tkx6THZyeFpCLVZfaU5WOFd1X0ZBM0tkRTJURWU2UW1zaEhHVEJGOGM4bm5hUERCd0o2ZzdpVHVfSXI0Y19LLWNINUtvYkhGM0Rfc1BQS3VDeTVZeXdXTTA3dzlfUGc4ZzYwWWJhS214TnJfWGZzQ1ZvckVMRW94UXBrWXF4OFFWaTQ?oc=5\" target=\"_blank\">New infrastructure fee facing San Angelo Council vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ConchoValleyHomepage.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRW50Rk1HQlVHOVpiZWtkSUVYdDhrdkg4VHN1ZnVVWVhvTXYwSWRFUEdiUG1tdEl4cm1BU2dvLUNvdGVPZEhsSVVlczJoX2NGRWVFSXg4UVQwLTlMeG5QYnRZejNMT1RsczJIQ0ZkajdTVXVONWhzMXZmQWQybG1tWkNHalR1NGZ6MHdxVG5pY3dDUWdmNi15REVPWHZyc2c2SWNXcjNxSlAzN1RBMllucUZnZTJIQ0duaWZUQzFWQVB2VzltQi1N?oc=5",
+        "date": "2026-09-03",
+        "title": "Massachusetts' first heat resilience officer eyes data, technology for statewide response to extreme heat - StateScoop",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRW50Rk1HQlVHOVpiZWtkSUVYdDhrdkg4VHN1ZnVVWVhvTXYwSWRFUEdiUG1tdEl4cm1BU2dvLUNvdGVPZEhsSVVlczJoX2NGRWVFSXg4UVQwLTlMeG5QYnRZejNMT1RsczJIQ0ZkajdTVXVONWhzMXZmQWQybG1tWkNHalR1NGZ6MHdxVG5pY3dDUWdmNi15REVPWHZyc2c2SWNXcjNxSlAzN1RBMllucUZnZTJIQ0duaWZUQzFWQVB2VzltQi1N?oc=5\" target=\"_blank\">Massachusetts' first heat resilience officer eyes data, technology for statewide response to extreme heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StateScoop</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGVJNTZFRUgwWm8yUlBCczRpMlo4Mmo0UExtS2NTcS00RkV1RVI1dFEyMWFaLUdoTFcwTW1EZjNybE4tMTVYb2s3MXUtaUtEVXVmOWRGRFloM3dtdC1OMnEtMUQ1YzhJNzI3U1AtWDQ4S0dvT3F0NzNOUEs0MElxbF8tVEFVN1kwM2RDazZ4czFiX1JablVlX0xsZ01RWjZKS014YlpB0gGrAUFVX3lxTE1EQkZTdHplMGdoanJGd2xHXzZUSlVjenZBcG9ncW5ZVDREMjQySXhzWU9FWGN1ZXpFM29EWFNkR0c1Y0hIcWFqdXoyQ214aXJMNmltLUYxbjBqcmpmSVRFX2VkZGdTRV9fQlJNMmdtZzhfUTY5dnZvczZrNVZ2RllBZmRyYVdxejU2U0pna005UjE1ZDktdEpRa0dwQjUwYXYtbElwT2pwZkUxbw?oc=5",
+        "date": "2026-09-03",
+        "title": "Zero-Emission Vehicle Infrastructure Support Program (Canada) - fundsforNGOs",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGVJNTZFRUgwWm8yUlBCczRpMlo4Mmo0UExtS2NTcS00RkV1RVI1dFEyMWFaLUdoTFcwTW1EZjNybE4tMTVYb2s3MXUtaUtEVXVmOWRGRFloM3dtdC1OMnEtMUQ1YzhJNzI3U1AtWDQ4S0dvT3F0NzNOUEs0MElxbF8tVEFVN1kwM2RDazZ4czFiX1JablVlX0xsZ01RWjZKS014YlpB0gGrAUFVX3lxTE1EQkZTdHplMGdoanJGd2xHXzZUSlVjenZBcG9ncW5ZVDREMjQySXhzWU9FWGN1ZXpFM29EWFNkR0c1Y0hIcWFqdXoyQ214aXJMNmltLUYxbjBqcmpmSVRFX2VkZGdTRV9fQlJNMmdtZzhfUTY5dnZvczZrNVZ2RllBZmRyYVdxejU2U0pna005UjE1ZDktdEpRa0dwQjUwYXYtbElwT2pwZkUxbw?oc=5\" target=\"_blank\">Zero-Emission Vehicle Infrastructure Support Program (Canada)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fundsforNGOs</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3VGNUE5Y0VkTWxtSW01dlpIcG1mVUpkMm43alV4dmxPOGNEb3I0allORk1fMUQzVmxfM1lFS2k4VWh2aDFaZThJdkM1M2Q5bzZBVXoxQ3NNcG92VVdPSWpXTjB0bnhCczA2YU5qZ3lPSjZqUW9jUWFHTVJ0cXRFVUxpa3AyeGlkSnZjMWJNd1VKYnByRkoyUmd1c3ZfYXJVbEZlOG5aMDMtRFQwbEtaQ1FhRGtwdExXOVYzTjA5N0ZJbC1UM3hv?oc=5",
+        "date": "2026-09-03",
+        "title": "Diameter Pay Raises $10 Million to Expand Stablecoin Payments Infrastructure - PYMNTS.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3VGNUE5Y0VkTWxtSW01dlpIcG1mVUpkMm43alV4dmxPOGNEb3I0allORk1fMUQzVmxfM1lFS2k4VWh2aDFaZThJdkM1M2Q5bzZBVXoxQ3NNcG92VVdPSWpXTjB0bnhCczA2YU5qZ3lPSjZqUW9jUWFHTVJ0cXRFVUxpa3AyeGlkSnZjMWJNd1VKYnByRkoyUmd1c3ZfYXJVbEZlOG5aMDMtRFQwbEtaQ1FhRGtwdExXOVYzTjA5N0ZJbC1UM3hv?oc=5\" target=\"_blank\">Diameter Pay Raises $10 Million to Expand Stablecoin Payments Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQk9od0tjNWY2a3VxVHlyOWtMSjZpaXRuenhqa0VhYjZLVUNDbjRKUlUyRzkyUTlxLURzblJlVUlUTlY0RWg2eDA4ZW5pbE5pd0xVc2pTUTROZjEtOEQ5UWZzVEtJSDJjWHdRY1ZFYzJiMWVFMzE0UkpydmtadjJ4cU0ySjNPQm1BbGczd1FTVGJIUG5LVVlSNkJKcTJkTDhvX1ZkQzdRRGoxMGRHMkE?oc=5",
+        "date": "2026-09-03",
+        "title": "SpaceX adds 6% amid renewed attention on AI infrastructure plans (SPCX:NASDAQ) - Seeking Alpha",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPQk9od0tjNWY2a3VxVHlyOWtMSjZpaXRuenhqa0VhYjZLVUNDbjRKUlUyRzkyUTlxLURzblJlVUlUTlY0RWg2eDA4ZW5pbE5pd0xVc2pTUTROZjEtOEQ5UWZzVEtJSDJjWHdRY1ZFYzJiMWVFMzE0UkpydmtadjJ4cU0ySjNPQm1BbGczd1FTVGJIUG5LVVlSNkJKcTJkTDhvX1ZkQzdRRGoxMGRHMkE?oc=5\" target=\"_blank\">SpaceX adds 6% amid renewed attention on AI infrastructure plans (SPCX:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRW1UYnB4elYtX3hDYm5MWmJXbS00X0VKLV83cF9XUGdGOHcwMG53Qzhqd0ExNjJhV0lwMVhxc0JWME1lTDBNcWxzeE5EelVCd3lieWtzWWVIdHJGVnZiaVJNTW5nVndmRnhVWmlOMWx3c3VSOXJDUlFmMnUxMEZJeFNnbE9DRF9vTzluX1JVUTZjbFhRY25KY0NoQ2RjeTBrX08wdzJRbjBhdEU1UDIzV1AzSGd2WlJxSExtdDJMZmN6dU5kNXhDWDBQRFV1RDhBUkJ4dEdhQQ?oc=5",
+        "date": "2026-09-03",
+        "title": "Miami-Dade Approves Kelly Tractor HQ, Overrules Mayor Veto - bisnow.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRW1UYnB4elYtX3hDYm5MWmJXbS00X0VKLV83cF9XUGdGOHcwMG53Qzhqd0ExNjJhV0lwMVhxc0JWME1lTDBNcWxzeE5EelVCd3lieWtzWWVIdHJGVnZiaVJNTW5nVndmRnhVWmlOMWx3c3VSOXJDUlFmMnUxMEZJeFNnbE9DRF9vTzluX1JVUTZjbFhRY25KY0NoQ2RjeTBrX08wdzJRbjBhdEU1UDIzV1AzSGd2WlJxSExtdDJMZmN6dU5kNXhDWDBQRFV1RDhBUkJ4dEdhQQ?oc=5\" target=\"_blank\">Miami-Dade Approves Kelly Tractor HQ, Overrules Mayor Veto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bisnow.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdlZidUhhN3B6TFZObHg5ZmxCWFpHVHpQWFRDUnctTF9oeFVtT0dUYnpNNE0zLTMtMVRTOWdFRmM5cjNWUFQwTGZ4bVNHNFNicG5tbk9meUpVdjBYM29UUVduLUo5MmVNQnBfalpBbXpBTExqeHR0bDVqLThpNWlQaXQ5RjFVd2FSMGE5Wi1ucmpJaFBHSm5LQ2JFbkg0TkMzdW50ZEdncmg1Sl9SOXdBdGNqTHBVR2dra1A1Y0ZkTHlrYnZ4SWxHR3dibVBOTEJLWUpXYzhDNDkwZmEzQWM3VS1kX25LNlVLd3c?oc=5",
+        "date": "2026-09-03",
+        "title": "The Smart City Security Imperative: Lessons from New York's IoT Cyber Defense Program - Security Info Watch",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdlZidUhhN3B6TFZObHg5ZmxCWFpHVHpQWFRDUnctTF9oeFVtT0dUYnpNNE0zLTMtMVRTOWdFRmM5cjNWUFQwTGZ4bVNHNFNicG5tbk9meUpVdjBYM29UUVduLUo5MmVNQnBfalpBbXpBTExqeHR0bDVqLThpNWlQaXQ5RjFVd2FSMGE5Wi1ucmpJaFBHSm5LQ2JFbkg0TkMzdW50ZEdncmg1Sl9SOXdBdGNqTHBVR2dra1A1Y0ZkTHlrYnZ4SWxHR3dibVBOTEJLWUpXYzhDNDkwZmEzQWM3VS1kX25LNlVLd3c?oc=5\" target=\"_blank\">The Smart City Security Imperative: Lessons from New York's IoT Cyber Defense Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Security Info Watch</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcFZWYnBVVHEzWER0UjZjM0JCZG9sZzVUcFhPdno0VUlaOTZqMjZGY0xoYnc3YnltYkkxaDByZkpZeGRzeEk3Z3prb21XbnB0bFNyNDRmTHFnRmVCM3RzQVV5UWRrWFNpajVibVVDWHpURU9XWElkc1lCM2dtendxenE2blpaYTBxVUgzRWpHdDdiOWdJTzV4U1FteWJ4VHVOUHhMSTF2LS1EZHU4QWxoQzRXYXdJNFZpRm9ublJVZjNjVW9PVWlsblU4MzBpSjJfNHA3SC1MQUVtWFg2NTFZ?oc=5",
+        "date": "2026-09-03",
+        "title": "How Technology, Collaboration and Public-Private Partnerships Are Transforming Urban Security - Security Info Watch",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcFZWYnBVVHEzWER0UjZjM0JCZG9sZzVUcFhPdno0VUlaOTZqMjZGY0xoYnc3YnltYkkxaDByZkpZeGRzeEk3Z3prb21XbnB0bFNyNDRmTHFnRmVCM3RzQVV5UWRrWFNpajVibVVDWHpURU9XWElkc1lCM2dtendxenE2blpaYTBxVUgzRWpHdDdiOWdJTzV4U1FteWJ4VHVOUHhMSTF2LS1EZHU4QWxoQzRXYXdJNFZpRm9ublJVZjNjVW9PVWlsblU4MzBpSjJfNHA3SC1MQUVtWFg2NTFZ?oc=5\" target=\"_blank\">How Technology, Collaboration and Public-Private Partnerships Are Transforming Urban Security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Security Info Watch</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aek9oajJmNnlLeVhHQm5JWnFTLWVwU3VXb25GbFBaVmtRZlctamMyMDVZRk9HQ1N1M1hkd3cyZEI0QnJiQ1JoNnlrWkFQNTIwdl9tbGh3UUFFclczeXhtaklSVHN4UVVmamxN?oc=5",
+        "date": "2026-09-03",
+        "title": "Smart Kashmir, Not Just Srinagar - Brighter Kashmir",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1aek9oajJmNnlLeVhHQm5JWnFTLWVwU3VXb25GbFBaVmtRZlctamMyMDVZRk9HQ1N1M1hkd3cyZEI0QnJiQ1JoNnlrWkFQNTIwdl9tbGh3UUFFclczeXhtaklSVHN4UVVmamxN?oc=5\" target=\"_blank\">Smart Kashmir, Not Just Srinagar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brighter Kashmir</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/63618-even-as-contractors-cut-headcount-73-still-plan-to-hire",
+        "date": "2026-09-03",
+        "title": "Even as Contractors Cut Headcount, 73% Still Plan to Hire",
+        "summary": "New AGC-NCCER data show worker scarcity delaying projects while contractors rethink onboarding, training and career development to retain employees entering the construction industry.",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/63620-lawmakers-avoid-shutdown-with-funding-bill-through-dec-11",
+        "date": "2026-09-03",
+        "title": "Lawmakers Avoid Shutdown with Final Passage of Stopgap Funding Bill Through Dec. 11",
+        "summary": "",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
