@@ -1728,5 +1728,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: DOT allocates $481M via 191 FAA grants to fund airport rehabilitation work.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-09-04",
+        "status": "posted",
+        "tweet": "Projected population growth 2026-2030 (millions)\n1. \ud83c\udde7\ud83c\udde9 Dhaka 6.2\n2. \ud83c\udde8\ud83c\udde9 Kinshasa 5.1\n3. \ud83c\uddee\ud83c\uddf3 Delhi 4.9\n4. \ud83c\uddf3\ud83c\uddec Lagos 4.3\n5. \ud83c\udde8\ud83c\uddf3 Chongqing 3.8",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
