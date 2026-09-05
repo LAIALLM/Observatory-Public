@@ -1296,5 +1296,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Alphabet $GOOGL data centers achieved 1.8 PUE efficiency rating across 24 locations in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92OUlLaU5HMnF6OTY4M0xsUGJNMnROUFFCV19nd2hZX0xFMndtbFd0TVZFQUtKYkZKTE52WjhiZEhiTlU1eGVXUUVB?oc=5",
+        "date": "2026-09-05",
+        "title": "SCA Concludes Visit to Singapore, Strengthening International Partnerships and Exploring Sector Development Opportunities - \u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0623\u0646\u0628\u0627\u0621 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE92OUlLaU5HMnF6OTY4M0xsUGJNMnROUFFCV19nd2hZX0xFMndtbFd0TVZFQUtKYkZKTE52WjhiZEhiTlU1eGVXUUVB?oc=5\" target=\"_blank\">SCA Concludes Visit to Singapore, Strengthening International Partnerships and Exploring Sector Development Opportunities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0623\u0646\u0628\u0627\u0621 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSVRBcnBhOTBBNGFDR0xwSnozZWhjaEhiTGhlclJhQ1dqaFRyaE9ZcjFaR1B3TmNwTE90T0VmTEk3d0d5UDN3dFZXOFdjcmNnb1RKRFFwd3NNNVBFTEFnVGNVTmw5dnlTQzNhNlhGNFltTUVnZmFHZ2ZJV21XSVdyRzdXem9Bdnc0MDBSTU9hODhPN3hTZDNZZGxoQzNWeThwWEwwTEpJb0pnYWlCcGNJSGJucmpSb1BVbm1hN3c0ZVFiTUF4eEpYMFA1U0gxUFBhRkRpc2JIMkI2YWNoQVJMNnM5cldWYUNFa01icElrRQ?oc=5",
+        "date": "2026-09-05",
+        "title": "Event Recap: Delta Future Industry Summit 2026 Advances Thailand's AI & Electrification Infrastructure - markets.businessinsider.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSVRBcnBhOTBBNGFDR0xwSnozZWhjaEhiTGhlclJhQ1dqaFRyaE9ZcjFaR1B3TmNwTE90T0VmTEk3d0d5UDN3dFZXOFdjcmNnb1RKRFFwd3NNNVBFTEFnVGNVTmw5dnlTQzNhNlhGNFltTUVnZmFHZ2ZJV21XSVdyRzdXem9Bdnc0MDBSTU9hODhPN3hTZDNZZGxoQzNWeThwWEwwTEpJb0pnYWlCcGNJSGJucmpSb1BVbm1hN3c0ZVFiTUF4eEpYMFA1U0gxUFBhRkRpc2JIMkI2YWNoQVJMNnM5cldWYUNFa01icElrRQ?oc=5\" target=\"_blank\">Event Recap: Delta Future Industry Summit 2026 Advances Thailand's AI & Electrification Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">markets.businessinsider.com</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
