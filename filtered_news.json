@@ -1316,5 +1316,12 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-05",
+        "status": "posted",
+        "tweet": "Annual electricity consumption TWh\n\n1. Bitcoin 140 \ud83c\udde6\ud83c\uddf7 Argentina\n2. Solana 0.6\n3. Ethereum 0.002",
+        "type": "crypto"
     }
 ]
