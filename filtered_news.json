@@ -1138,5 +1138,45 @@
         "status": "posted",
         "tweet": "kWh per transaction 2026\n1. Solana 0.0005\n2. Ethereum 0.03\n3. Bitcoin 650",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHJOYTB3N3N4MHF1Y0phamlqYmhTZFp3Sjk5ek55dld1Qi1FZmJkVGhwN3dlbFp6N3pwa0ZjdGpuWWdNV0pwUjVocVVoeUZ6M0c1ckZWOHpFNDNONWVYZXBKdG5TZmVxVmFnZVFCMlRGSHd5ZEpGd1Vhek5NaDFxSmMyOXFIX09ZUjhYNEYtS25zdmdZU1N2MUdtem0zeHFRVWxzXw?oc=5",
+        "date": "2026-09-06",
+        "title": "Fear of deportations could be adding to Texas construction worker shortage - Dallas News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHJOYTB3N3N4MHF1Y0phamlqYmhTZFp3Sjk5ek55dld1Qi1FZmJkVGhwN3dlbFp6N3pwa0ZjdGpuWWdNV0pwUjVocVVoeUZ6M0c1ckZWOHpFNDNONWVYZXBKdG5TZmVxVmFnZVFCMlRGSHd5ZEpGd1Vhek5NaDFxSmMyOXFIX09ZUjhYNEYtS25zdmdZU1N2MUdtem0zeHFRVWxzXw?oc=5\" target=\"_blank\">Fear of deportations could be adding to Texas construction worker shortage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dallas News</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3ktcjBVbUdFbDRCRGwxQ0syZ2ZuUGhreXRRZEc5c1pwb0E5MUxjTHhYTkNGNzQ4Tk1EOHVvcF9wNWV5SE1jcDRQd0FPaTNuQ3RmbjVSS0g5bEM1SHFPQjBJYktONEx4OV84bWJVdDN3QUlUYTI4MHQtNW5qT0JDLXhPelJzNlVBTjhrTEM2b1NrakdKUXlnLVF2TjI1OWc?oc=5",
+        "date": "2026-09-06",
+        "title": "A $3.4b collapse exposes the mess of our housing industry - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3ktcjBVbUdFbDRCRGwxQ0syZ2ZuUGhreXRRZEc5c1pwb0E5MUxjTHhYTkNGNzQ4Tk1EOHVvcF9wNWV5SE1jcDRQd0FPaTNuQ3RmbjVSS0g5bEM1SHFPQjBJYktONEx4OV84bWJVdDN3QUlUYTI4MHQtNW5qT0JDLXhPelJzNlVBTjhrTEM2b1NrakdKUXlnLVF2TjI1OWc?oc=5\" target=\"_blank\">A $3.4b collapse exposes the mess of our housing industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News & Headlines \u2013 Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZVBuZG95ZF9qeFFGMEtMX1BfYVhRc0VWWjZWQlBac05zSVQxUHVBQkRPNUJueFBEQmlKRk44S3JDSnYxdzN3QTRXUjZhUHZxZDFUYV96Z182U3l1LUpHQV9NYVNQUlJ3VUVycm5qZTk5M0NOeGxWWXlMMURqMUFyTjJtTmh0SkFUaVgxcWtYQW0wb0ZNZWlySTF3?oc=5",
+        "date": "2026-09-06",
+        "title": "Nuevo Laredo mayor highlights infrastructure, financial gains in State of the City - Laredo Morning Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZVBuZG95ZF9qeFFGMEtMX1BfYVhRc0VWWjZWQlBac05zSVQxUHVBQkRPNUJueFBEQmlKRk44S3JDSnYxdzN3QTRXUjZhUHZxZDFUYV96Z182U3l1LUpHQV9NYVNQUlJ3VUVycm5qZTk5M0NOeGxWWXlMMURqMUFyTjJtTmh0SkFUaVgxcWtYQW0wb0ZNZWlySTF3?oc=5\" target=\"_blank\">Nuevo Laredo mayor highlights infrastructure, financial gains in State of the City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Laredo Morning Times</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYnZ3ZUVzdUxuS0VDS295YnZNRVBfOWY5Y1N6d1RYcFFRbHVCcVZLTWJ5Y3pzSEhIZFlZT1lqcjZYWFN3LVc5b0VwbC01YUtmVTlhYU9UZmIyTWtsZk14UGJFRjFKOGs3TlpReXBJM1FNMU4yM1o0U3paalNQbUpsaFVLWWVrOHZyTXhQTDFFamVMZXJWRG1pc2g1SzhUazExa3FIR3o4b1Z0UlVKU2lIRzNMeTZZbzB2VHN0SEdVc19DQmltSWxZN3dRQzLSAdIBQVVfeXFMTUtocmwzWERpeHJvenZhZzViSFF2X0Ezd093cGExR3JEc2h1MVdaVlRsU2QwcGJjeUJQNklmZDZNQnRjcWdNS2ZvY093VUFGSnRyR0lZODNOa3pxdXpfVFNEN040YkZLdUZsTjhHWDFwbWoyNHhibDVGNTJDRmhsd0JfXzNYaDdaMklwRGx2d1g1Qjg5T1pRV3NycWRETzdINEczMHFMbW1Jd0h1MFM2N3U4NDlzQVdROXdsT3QtcXZ0SUpEekNKdGlBSmRxXzd1M2dn?oc=5",
+        "date": "2026-09-06",
+        "title": "Once green retreat, Sidhwan waterfront now lies neglected - The Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQYnZ3ZUVzdUxuS0VDS295YnZNRVBfOWY5Y1N6d1RYcFFRbHVCcVZLTWJ5Y3pzSEhIZFlZT1lqcjZYWFN3LVc5b0VwbC01YUtmVTlhYU9UZmIyTWtsZk14UGJFRjFKOGs3TlpReXBJM1FNMU4yM1o0U3paalNQbUpsaFVLWWVrOHZyTXhQTDFFamVMZXJWRG1pc2g1SzhUazExa3FIR3o4b1Z0UlVKU2lIRzNMeTZZbzB2VHN0SEdVc19DQmltSWxZN3dRQzLSAdIBQVVfeXFMTUtocmwzWERpeHJvenZhZzViSFF2X0Ezd093cGExR3JEc2h1MVdaVlRsU2QwcGJjeUJQNklmZDZNQnRjcWdNS2ZvY093VUFGSnRyR0lZODNOa3pxdXpfVFNEN040YkZLdUZsTjhHWDFwbWoyNHhibDVGNTJDRmhsd0JfXzNYaDdaMklwRGx2d1g1Qjg5T1pRV3NycWRETzdINEczMHFMbW1Jd0h1MFM2N3U4NDlzQVdROXdsT3QtcXZ0SUpEekNKdGlBSmRxXzd1M2dn?oc=5\" target=\"_blank\">Once green retreat, Sidhwan waterfront now lies neglected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
