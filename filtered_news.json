@@ -1195,5 +1195,13 @@
         "status": "posted",
         "tweet": "Node distribution by leading countries 2026\n\n1. Bitcoin 15k nodes \ud83c\uddfa\ud83c\uddf822% \ud83c\udde9\ud83c\uddea16%\n2. Ethereum 9k nodes \ud83c\uddfa\ud83c\uddf831% \ud83c\udde8\ud83c\uddf312%\n3. Solana 3k nodes \ud83c\uddfa\ud83c\uddf838% \ud83c\udde9\ud83c\uddea10%",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-09-07",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China high-speed rail network reaches 55,000 km in 2026\n\n\ud83c\uddfa\ud83c\uddf8 US network totals 1,200 km",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
