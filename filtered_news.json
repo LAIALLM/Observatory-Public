@@ -1292,5 +1292,13 @@
         "status": "posted",
         "tweet": "Bitcoin's electricity consumption in 2026 totals 150 TWh.\nThis equals the annual demand of \ud83c\udde7\ud83c\uddea Belgium.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-09-08",
+        "status": "posted",
+        "tweet": "\ud83c\uddf0\ud83c\uddf7 South Korea's fertility rate reaches 0.7 births per woman in 2026, the world's lowest.",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
