@@ -1,71 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-29",
-        "status": "posted",
-        "tweet": "Ethereum: 1.05 million validators. Median hardware cost $2,400. Spread across 95 countries.\n\nSolana: 2,950 validators. Median hardware cost $8,700. 61% in \ud83c\uddfa\ud83c\uddf8 United States.",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2026-08-29",
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 India reaches 1.45 billion people in 2026\n\ud83c\udde8\ud83c\uddf3 China at 1.41 billion",
-        "type": "statistical",
-        "category": "population"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFR1OTRzNWd3RjZrcHRqak5YUUxXSVNqdVd5X3lHSjlIOU5qMkpLdWZUeTBRTHdnV1FCUHJBdXF4djZudGVON2laX0hJNWdpYUlXcE1hSS1EMjBkUm0tU3RIcU83eVVmT2t6MHdNakJkX1ZQOGU4bzhDRnNYZ0t0eTNPWXRscnhBRVJGV1AtTHJyN3lTQ3RBeDJHTXZ2a0ZJN2VxM2oxckt2b05pa2c?oc=5",
-        "date": "2026-08-29",
-        "title": "Guest column: Aging electrical infrastructure needs to be addressed - Chicago Tribune",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFR1OTRzNWd3RjZrcHRqak5YUUxXSVNqdVd5X3lHSjlIOU5qMkpLdWZUeTBRTHdnV1FCUHJBdXF4djZudGVON2laX0hJNWdpYUlXcE1hSS1EMjBkUm0tU3RIcU83eVVmT2t6MHdNakJkX1ZQOGU4bzhDRnNYZ0t0eTNPWXRscnhBRVJGV1AtTHJyN3lTQ3RBeDJHTXZ2a0ZJN2VxM2oxckt2b05pa2c?oc=5\" target=\"_blank\">Guest column: Aging electrical infrastructure needs to be addressed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chicago Tribune</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUtZV09QaWQyY0wxTG9SUWJ3cWNtSEZzYUxkYXF5ejN2dmp3WW5NVnpUdDdMX29YbEx4bTQydzRBRU5wWDE2M0VXM1MwYzMzXzgwOGRIX3JnRzVYamdjZ2ZHS1d3SkpiWjcyZnBZWUNOZkpNTkZMdW1qTFJuVFMwMUcwR3BXeEdrT2pJZUxndWZvR2dfQlIteG4yWjVtX3ByaHFUX0I5V1h0cTZWZGk3ZUdwU05TRjJfOFVnakJZQzBIbzRy?oc=5",
-        "date": "2026-08-29",
-        "title": "Dorset Gardens: A Benchmark of Luxury and Strategic Development in Singapore - Luxury Travel Magazine",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUtZV09QaWQyY0wxTG9SUWJ3cWNtSEZzYUxkYXF5ejN2dmp3WW5NVnpUdDdMX29YbEx4bTQydzRBRU5wWDE2M0VXM1MwYzMzXzgwOGRIX3JnRzVYamdjZ2ZHS1d3SkpiWjcyZnBZWUNOZkpNTkZMdW1qTFJuVFMwMUcwR3BXeEdrT2pJZUxndWZvR2dfQlIteG4yWjVtX3ByaHFUX0I5V1h0cTZWZGk3ZUdwU05TRjJfOFVnakJZQzBIbzRy?oc=5\" target=\"_blank\">Dorset Gardens: A Benchmark of Luxury and Strategic Development in Singapore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Luxury Travel Magazine</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObm5IVzluNVZoMGFHamIzQ1Zvc1IwOExTbjV0UXlUN3piUU16Nk1SdTdNUkJILUV0akN6dm95RUQtSUpoM0V2Z0stVFRqeGZiSEhLWURzeTJ4MU1hQ0VpZ0VXWFZIY1pEaDVZUFpaQWRWS2FsaGhYQlpibU5UTzA0WHJpUkhXVmZzdXJVSUozUG9zM2JqaXRzY0s2bUUyZw?oc=5",
-        "date": "2026-08-29",
-        "title": "Cameco Stock And 2 AI Infrastructure Picks With High Growth Potential - Yahoo Finance",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObm5IVzluNVZoMGFHamIzQ1Zvc1IwOExTbjV0UXlUN3piUU16Nk1SdTdNUkJILUV0akN6dm95RUQtSUpoM0V2Z0stVFRqeGZiSEhLWURzeTJ4MU1hQ0VpZ0VXWFZIY1pEaDVZUFpaQWRWS2FsaGhYQlpibU5UTzA0WHJpUkhXVmZzdXJVSUozUG9zM2JqaXRzY0s2bUUyZw?oc=5\" target=\"_blank\">Cameco Stock And 2 AI Infrastructure Picks With High Growth Potential</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUGZTVnEzcFJHTngxR19sZG1xU19NZmJmaW1PS0hMRFdmb3Rld3RjU3kyMjVUOGRTTVg3akd3T3AtTm1FcFZFM2xqVWozT1lvX0xtRHVHeFd2QUJvYU1zdWZvUVdaVlp1akx6aTg5blNDQXNqSE9SUWhvZkFlUzZEWDBtNDZzcnpCZHpUdHBsVm03YXVIZGY1QmVuN2lHZw?oc=5",
-        "date": "2026-08-29",
-        "title": "Rowan Digital Infrastructure provides two-year, $40,000 pledge for Temple ISD - Temple Daily Telegram",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNUGZTVnEzcFJHTngxR19sZG1xU19NZmJmaW1PS0hMRFdmb3Rld3RjU3kyMjVUOGRTTVg3akd3T3AtTm1FcFZFM2xqVWozT1lvX0xtRHVHeFd2QUJvYU1zdWZvUVdaVlp1akx6aTg5blNDQXNqSE9SUWhvZkFlUzZEWDBtNDZzcnpCZHpUdHBsVm03YXVIZGY1QmVuN2lHZw?oc=5\" target=\"_blank\">Rowan Digital Infrastructure provides two-year, $40,000 pledge for Temple ISD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Temple Daily Telegram</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPajVyNm1BbHJJRE1nMHpfcXUzVVpUMTdlSWJwdjNfMWJxTmlMSUhFUTlkRDlueGZBX0hQNjIwZjNuY0ZWRzFtcml3VTB2R2lWQzA2VC1ieU15WWtxUDlENzlDbXhqb2NzS3JCQ2JuUE5vMnpJUGdtRmJmbmstblZCd3A2ZzhpODkwSHBLSnRoeUExUl9hUlJBU1BVdjdoNkhPVzZudldNRDlmSk9LeENCYjV1U2hoVDZkTFN3TERNZ1cyMGhiRlE?oc=5",
-        "date": "2026-08-29",
-        "title": "The world\u2019s 50 \u201csmartest\u201d cities list has dropped, and only four U.S. spots made the ranking - Time Out Worldwide",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPajVyNm1BbHJJRE1nMHpfcXUzVVpUMTdlSWJwdjNfMWJxTmlMSUhFUTlkRDlueGZBX0hQNjIwZjNuY0ZWRzFtcml3VTB2R2lWQzA2VC1ieU15WWtxUDlENzlDbXhqb2NzS3JCQ2JuUE5vMnpJUGdtRmJmbmstblZCd3A2ZzhpODkwSHBLSnRoeUExUl9hUlJBU1BVdjdoNkhPVzZudldNRDlmSk9LeENCYjV1U2hoVDZkTFN3TERNZ1cyMGhiRlE?oc=5\" target=\"_blank\">The world\u2019s 50 \u201csmartest\u201d cities list has dropped, and only four U.S. spots made the ranking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Time Out Worldwide</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-08-30",
         "status": "posted",
         "tweet": "Tx per TWh energy 2026\n1. Solana 2000000 TPS\n2. Ethereum 1500000 TPS\n3. Bitcoin 0.06 TPS",
@@ -1233,5 +1168,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-08",
+        "status": "posted",
+        "tweet": "Microsoft data centers reached 3.8 GW power capacity in \ud83c\uddfa\ud83c\uddf8 United States in 2026\n$MSFT",
+        "type": "infrastructure"
     }
 ]
