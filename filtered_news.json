@@ -1285,5 +1285,12 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-08",
+        "status": "posted",
+        "tweet": "Bitcoin's electricity consumption in 2026 totals 150 TWh.\nThis equals the annual demand of \ud83c\udde7\ud83c\uddea Belgium.",
+        "type": "crypto"
     }
 ]
