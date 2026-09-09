@@ -1,20 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-08-30",
-        "status": "posted",
-        "tweet": "Tx per TWh energy 2026\n1. Solana 2000000 TPS\n2. Ethereum 1500000 TPS\n3. Bitcoin 0.06 TPS",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2026-08-30",
-        "status": "posted",
-        "tweet": "2026 infrastructure megaproject value by country (USD tn)\n1. \ud83c\udde8\ud83c\uddf3 China\n2. \ud83c\uddfa\ud83c\uddf8 United States\n3. \ud83c\uddee\ud83c\uddf3 India\n4. \ud83c\uddf8\ud83c\udde6 Saudi Arabia\n5. \ud83c\udde6\ud83c\uddea United Arab Emirates",
-        "type": "statistical",
-        "category": "engineering projects"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ERkdQbDJsNUFPU24yU3hodGNqMlZiaUVPSU1laDhhR01BTkZiU2hNdEQ0RXF1bEh3S2JPV2ZRSW5ENHduZXl3LXJaaW1kdGVuZjF0VDF1OXl5aktmbkVodVFCNzE2WGZBRG5keXQ2OXlFTkRadXYtOQ?oc=5",
         "date": "2026-08-31",
         "title": "Yeoju City Cuts Development Activity Permit Processing by 10 Days... Gwangju City Benchmarks Operation Cases - \uc544\uc2dc\uc544\uacbd\uc81c",
@@ -1300,5 +1285,12 @@
         "tweet": "\ud83c\uddf0\ud83c\uddf7 South Korea's fertility rate reaches 0.7 births per woman in 2026, the world's lowest.",
         "type": "statistical",
         "category": "countries"
+    },
+    {
+        "link": null,
+        "date": "2026-09-09",
+        "status": "posted",
+        "tweet": "Bitcoin electricity use: 140 TWh per year\nEthereum: 0.01 TWh per year",
+        "type": "crypto"
     }
 ]
