@@ -1316,5 +1316,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Black Bayou plans $1.6 billion Louisiana gas infrastructure project",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-09-11",
+        "status": "posted",
+        "tweet": "Microsoft data centers in \ud83c\uddeb\ud83c\uddee Finland used 2.3 TWh of electricity in 2025.\n$MSFT",
+        "type": "infrastructure"
     }
 ]
