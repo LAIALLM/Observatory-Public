@@ -1323,5 +1323,115 @@
         "status": "posted",
         "tweet": "Microsoft data centers in \ud83c\uddeb\ud83c\uddee Finland used 2.3 TWh of electricity in 2025.\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmNISURKSVVzX1o3TFFSWGktZDFFWGYtNkhnZXdNbGU2WHhTcXBJZUpDWl82S0lUUDhXcTlRVUUyN2hRTDZMaTUxNzBCZGQwdF9zTEtkaU9Ca0h3c1ZZWHIzckhrZkttOUp2S2NOdWV4QjhWMzZhY3haZzRqbU85RlYzOVR2M3VNUVdnTWFJUmZQRzg3cm04cGdrTFlzZXFFSERPUzJQV0ZvVDIwak5wb1RhcmdqNDMzY1l4VVIycGJRdGU4M1pv?oc=5",
+        "date": "2026-09-11",
+        "title": "BMO, Sun Life Pledge C$75 Billion Private Capital for Canadian Infrastructure Push - WSJ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxONmNISURKSVVzX1o3TFFSWGktZDFFWGYtNkhnZXdNbGU2WHhTcXBJZUpDWl82S0lUUDhXcTlRVUUyN2hRTDZMaTUxNzBCZGQwdF9zTEtkaU9Ca0h3c1ZZWHIzckhrZkttOUp2S2NOdWV4QjhWMzZhY3haZzRqbU85RlYzOVR2M3VNUVdnTWFJUmZQRzg3cm04cGdrTFlzZXFFSERPUzJQV0ZvVDIwak5wb1RhcmdqNDMzY1l4VVIycGJRdGU4M1pv?oc=5\" target=\"_blank\">BMO, Sun Life Pledge C$75 Billion Private Capital for Canadian Infrastructure Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "\ud83c\udde8\ud83c\udde6 NEWS: BMO and Sun Life pledge C$75 billion in private capital to boost Canadian infrastructure."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnZNd1lPUmVlRGZxSU9fYU4wUUJKVUZQOENvRVVibnpDaldSNFExMkx0SHl3d25jMzdJMFZPdUVBbnRDdmlxd1NhRFA4NlBMcEFTWUZ6WVgxYUgySnpILVFBcnI3b1JoLUMxZFV2VkJwcHk5NjNkUGtfTnZsbWNkb09BSEN5bFlZdkFfbjZHelVRd0JlS09KMU1SNzM4bGctdHRaMFZB?oc=5",
+        "date": "2026-09-11",
+        "title": "Mayor Hopefuls Differ on Infrastructure Bond, Urban Development Strategies - Alameda Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnZNd1lPUmVlRGZxSU9fYU4wUUJKVUZQOENvRVVibnpDaldSNFExMkx0SHl3d25jMzdJMFZPdUVBbnRDdmlxd1NhRFA4NlBMcEFTWUZ6WVgxYUgySnpILVFBcnI3b1JoLUMxZFV2VkJwcHk5NjNkUGtfTnZsbWNkb09BSEN5bFlZdkFfbjZHelVRd0JlS09KMU1SNzM4bGctdHRaMFZB?oc=5\" target=\"_blank\">Mayor Hopefuls Differ on Infrastructure Bond, Urban Development Strategies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alameda Post</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0lRSFBXeG1ZQUJVU0JlbHNYRzZmUWFGVUZjRE83TkxCVEFIdFFCVGs2VUpub0NYMmx1cGRfY2YtM0NPRUhPUk5NLVJfVEtLUmtHdDZGUE50UUFlMDFjZHZDN1NCTHpqOE54NlFZRWlNWWlsRTM3alktb0pXc1hQTHFLeTZXaFBXMnhUcGtR?oc=5",
+        "date": "2026-09-11",
+        "title": "EIG Closes $1.9B Senior Infrastructure Debt Fund - connectmoney.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0lRSFBXeG1ZQUJVU0JlbHNYRzZmUWFGVUZjRE83TkxCVEFIdFFCVGs2VUpub0NYMmx1cGRfY2YtM0NPRUhPUk5NLVJfVEtLUmtHdDZGUE50UUFlMDFjZHZDN1NCTHpqOE54NlFZRWlNWWlsRTM3alktb0pXc1hQTHFLeTZXaFBXMnhUcGtR?oc=5\" target=\"_blank\">EIG Closes $1.9B Senior Infrastructure Debt Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">connectmoney.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOaWtkM0t4eFZTaTNvNVYxdFF6WXpkMmptUDlmb24tb1RMaWJ4a1lrT1N0N18zd3RHWF9tWkQ2TVk0U2tCWUVNWFlDY2dPcHBJOGM3Tkc3VWJWYko0LXlaVjAxOW5sY0dYaHY4M1RnMTdRMHJRbHJJN1cwejhCeDVCR0VHcExGOGpMaUlBMlo3YURGQ0R2elpYQzNMZllWaE53cGpCNEVaZ0VEOVYxTUlzVldfakpVd29WaWppenk0V1o3Q3dUZUxULWlHeFRWcTkyXy16b3I5T29UbVBBWUlhRjNsNWFzZUNuVlVycGRwMGJIOUJfNXpPM1JxaUZmbVAwR2o0YzUwQ09OT2MtbFAtVUlpdWt1TjNT?oc=5",
+        "date": "2026-09-11",
+        "title": "Pacific West Environmental & Infrastructure Acquires Coleman Industrial Construction, Extending Rail Services Platform into the Midwest - Business Wire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxOaWtkM0t4eFZTaTNvNVYxdFF6WXpkMmptUDlmb24tb1RMaWJ4a1lrT1N0N18zd3RHWF9tWkQ2TVk0U2tCWUVNWFlDY2dPcHBJOGM3Tkc3VWJWYko0LXlaVjAxOW5sY0dYaHY4M1RnMTdRMHJRbHJJN1cwejhCeDVCR0VHcExGOGpMaUlBMlo3YURGQ0R2elpYQzNMZllWaE53cGpCNEVaZ0VEOVYxTUlzVldfakpVd29WaWppenk0V1o3Q3dUZUxULWlHeFRWcTkyXy16b3I5T29UbVBBWUlhRjNsNWFzZUNuVlVycGRwMGJIOUJfNXpPM1JxaUZmbVAwR2o0YzUwQ09OT2MtbFAtVUlpdWt1TjNT?oc=5\" target=\"_blank\">Pacific West Environmental & Infrastructure Acquires Coleman Industrial Construction, Extending Rail Services Platform into the Midwest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZFRkU3dPb1RIT3ZiQl83QjZHWVIwZHBza0Z2Q1dvb3JMSUxsZGN1aEZnaTMzcnFiVnBlQzF5cnVzZ21qeF9vSDhYLVEtM1gtd0E2alZLSjZ4UXFGWFd3b1VUSWNBcTFnd0h3Mkk5SVJpdzdwU2xTVnh5MllQaWVwYWJ5eERoVUQ1eTV3bzBsdFVGSXA5ZzhzWk1EaGNuSVdYYXRPci1Ga19YeGZ5dmlILTNzUjl0ZFJETVFZUExiZzBZX2RhMHN3c0lHNTFndW9ndzZtcGE1UUlraWdIM0RXYXZFbVhiTnNoeFRvYVJxWk0tMllVdldYY1FLLWxFeEU1VGVxV0RvMDE0OFI4Sndr?oc=5",
+        "date": "2026-09-11",
+        "title": "Major Infrastructure Grant Awarded to Clear Lake to Support Economic Growth and Tech Ord Expansion - mykxlg.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPZFRkU3dPb1RIT3ZiQl83QjZHWVIwZHBza0Z2Q1dvb3JMSUxsZGN1aEZnaTMzcnFiVnBlQzF5cnVzZ21qeF9vSDhYLVEtM1gtd0E2alZLSjZ4UXFGWFd3b1VUSWNBcTFnd0h3Mkk5SVJpdzdwU2xTVnh5MllQaWVwYWJ5eERoVUQ1eTV3bzBsdFVGSXA5ZzhzWk1EaGNuSVdYYXRPci1Ga19YeGZ5dmlILTNzUjl0ZFJETVFZUExiZzBZX2RhMHN3c0lHNTFndW9ndzZtcGE1UUlraWdIM0RXYXZFbVhiTnNoeFRvYVJxWk0tMllVdldYY1FLLWxFeEU1VGVxV0RvMDE0OFI4Sndr?oc=5\" target=\"_blank\">Major Infrastructure Grant Awarded to Clear Lake to Support Economic Growth and Tech Ord Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mykxlg.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjZXT2pINE5QY1BSRHpDQkI5YXRueUhObFFQcURidl9YdEFTY25VVWlsUTFxUzVrLTZUdzF5MTRvZmlDeVhKVGFWaHlQQ3VBNVRxd192YkJQYnhBYzBCT2NWNUl4RFV6eGxSRzhBUUtoZ1BTeDRkQTlRcWh5YWJneEtvcEc5Skx3QllHWXljN3hYR0xCZFJnRXNJZjc4bWYwa0Z6aFFJbHZNQ244SUFYSGpxNmh3ZFNtd3N3?oc=5",
+        "date": "2026-09-11",
+        "title": "Dell Technologies Positioned to Benefit From AI Infrastructure Spending Cycle, RBC Says - Moomoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjZXT2pINE5QY1BSRHpDQkI5YXRueUhObFFQcURidl9YdEFTY25VVWlsUTFxUzVrLTZUdzF5MTRvZmlDeVhKVGFWaHlQQ3VBNVRxd192YkJQYnhBYzBCT2NWNUl4RFV6eGxSRzhBUUtoZ1BTeDRkQTlRcWh5YWJneEtvcEc5Skx3QllHWXljN3hYR0xCZFJnRXNJZjc4bWYwa0Z6aFFJbHZNQ244SUFYSGpxNmh3ZFNtd3N3?oc=5\" target=\"_blank\">Dell Technologies Positioned to Benefit From AI Infrastructure Spending Cycle, RBC Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEdocEc5V0JjdnZUd3M4cHhIMEl1YWVmMWNNeUdWNVRkSnFNOXBjUkY5SnNvSlMxS0xrUkctbU95d3d6Q1U1MW41N1NGMDhjZ1dTVUItWjZ6b1NWbWJ2RnlfN3l3aHpZdGtsM0JxNDJwdkZMc0VLYWVKelhDV0FKbkU4THVlLTFWblk0ZGpRRzhTRkF4aGJSUkxjRl90OUh4eERucEE2Q3h3dDJjR1gw?oc=5",
+        "date": "2026-09-11",
+        "title": "Uzbek Ambassador: Long-term urban development concept underway in Khankendi - Az\u0259rtac",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEdocEc5V0JjdnZUd3M4cHhIMEl1YWVmMWNNeUdWNVRkSnFNOXBjUkY5SnNvSlMxS0xrUkctbU95d3d6Q1U1MW41N1NGMDhjZ1dTVUItWjZ6b1NWbWJ2RnlfN3l3aHpZdGtsM0JxNDJwdkZMc0VLYWVKelhDV0FKbkU4THVlLTFWblk0ZGpRRzhTRkF4aGJSUkxjRl90OUh4eERucEE2Q3h3dDJjR1gw?oc=5\" target=\"_blank\">Uzbek Ambassador: Long-term urban development concept underway in Khankendi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Az\u0259rtac</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOSTdSUTN4MUxjRjVCT0haVmtiR0pJZ3dBbXhYZGctNGY2M1RlNDFSeGFmQ1lQSHVwVGp1SGVIaHhYcjZWR0RNanhYVC1qcjdDdWlDdDBvNWxIbll1QTVxck85VENHdnhaLVlmbDY2bjhnMFpRNlhQdzJtbGM4ZXo5cjNwcHA5V1lTMDR4X21udHpTNGRsTDBmN3lRMlhGMGJoVUtRT1JpeVBqWkRHa2RYZWN5ZFFSOVlyQ0pEWGc0a1k1ZWczNUIxMUZMXzFDbHEyOWNzVTkxMF8wWmJvWFlrcjB0R2xnTEM0MW1JVVNRUkhCakVwT2xjZ2hPNXNDM1VLSnJOYW1PeVVNREZmMHVsUGU1Vnk5YW5XU3dFY0FXMWQ0NWx1aUVjRUJDX3hTMWVhSEpMc0NhdzJVUEwzdUh2OHFmZU9hUjFsNFRzMVFSbVpib1NSMnA5ZjJsNA?oc=5",
+        "date": "2026-09-11",
+        "title": "OUTCRY AS M7 GIVES CITY SQUARE TO TYCOON BULWADDA TO BUILD ECO-FRIENDLY ARCADE: Proposal Promises An Eco-Friendly Complex, But City Residents Fear Kampala Could Lose One Of Its Few Remaining Open Public Spaces - The Investigator News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wJBVV95cUxOSTdSUTN4MUxjRjVCT0haVmtiR0pJZ3dBbXhYZGctNGY2M1RlNDFSeGFmQ1lQSHVwVGp1SGVIaHhYcjZWR0RNanhYVC1qcjdDdWlDdDBvNWxIbll1QTVxck85VENHdnhaLVlmbDY2bjhnMFpRNlhQdzJtbGM4ZXo5cjNwcHA5V1lTMDR4X21udHpTNGRsTDBmN3lRMlhGMGJoVUtRT1JpeVBqWkRHa2RYZWN5ZFFSOVlyQ0pEWGc0a1k1ZWczNUIxMUZMXzFDbHEyOWNzVTkxMF8wWmJvWFlrcjB0R2xnTEM0MW1JVVNRUkhCakVwT2xjZ2hPNXNDM1VLSnJOYW1PeVVNREZmMHVsUGU1Vnk5YW5XU3dFY0FXMWQ0NWx1aUVjRUJDX3hTMWVhSEpMc0NhdzJVUEwzdUh2OHFmZU9hUjFsNFRzMVFSbVpib1NSMnA5ZjJsNA?oc=5\" target=\"_blank\">OUTCRY AS M7 GIVES CITY SQUARE TO TYCOON BULWADDA TO BUILD ECO-FRIENDLY ARCADE: Proposal Promises An Eco-Friendly Complex, But City Residents Fear Kampala Could Lose One Of Its Few Remaining Open Public Spaces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Investigator News</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZE5fbndaSEU2N21zYWNoZGxoYmZvQUVrR0VGdld2Z3k1SE04cXE4X241RjZBc1hJSk5TQ2FNSnRVTUtzTUFzemszX3kzeTZSV0RkeVZjaHVlaTBqb3dkOGNMQkJPTmlSeGpMQ3d1MzdJTmctNHd3X1VQNktFc2hvNW9RU2RRaGtTUExEYXNjZElIMkJITFM0eWhmSlNtblVGbUF3NUlFa0EzVzVa?oc=5",
+        "date": "2026-09-11",
+        "title": "Sri Lanka Latest Breaking News and Headlines - Print Edition City should be safe for both people and animals: PM - dailymirror.lk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPZE5fbndaSEU2N21zYWNoZGxoYmZvQUVrR0VGdld2Z3k1SE04cXE4X241RjZBc1hJSk5TQ2FNSnRVTUtzTUFzemszX3kzeTZSV0RkeVZjaHVlaTBqb3dkOGNMQkJPTmlSeGpMQ3d1MzdJTmctNHd3X1VQNktFc2hvNW9RU2RRaGtTUExEYXNjZElIMkJITFM0eWhmSlNtblVGbUF3NUlFa0EzVzVa?oc=5\" target=\"_blank\">Sri Lanka Latest Breaking News and Headlines - Print Edition City should be safe for both people and animals: PM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailymirror.lk</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.constructiondive.com/news/cost-spikes-construction-materials-producer-price-index/830165/",
+        "date": "2026-09-11",
+        "title": "Cost spikes hit bevy of construction materials",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/F1BW7LzpYLyFzNmIKZJS7zJu8e832cgrzVntJhjVe9s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwNTAyMTAxLmpwZw==.webp\" /></div></figure><p>Prices for copper, lumber, switchgear and several derivative metal products posted 10% or more increases year over year since August 2025, said Anirban Basu, chief economist at Associated Builders and Contractors.</p>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.constructiondive.com/news/crowne-plaza-manhattan-times-square-opens-after-renovation/830145/",
+        "date": "2026-09-11",
+        "title": "Crowne Plaza Manhattan Times Square opens after renovation",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/2UZ6ur_RbNU1GdBF49F4kqmg2LSHDdbX4WxYL09yJg4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JSEdfY3Jvd25lX3BsYXphLmpwZw==.webp\" /></div></figure><p>Following a yearslong&nbsp;overhaul, the 685-key property serves as Crowne Plaza&rsquo;s new Americas flagship, according to parent company IHG Hotels &amp; Resorts.</p>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
