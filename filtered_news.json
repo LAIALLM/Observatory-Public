@@ -1344,5 +1344,12 @@
         "tweet": "\ud83c\uddef\ud83c\uddf5 Tokyo projects 48-minute average commutes in 2026 versus 95 minutes in \ud83c\uddfa\ud83c\uddf8 Los Angeles.",
         "type": "statistical",
         "category": "urban planning"
+    },
+    {
+        "link": null,
+        "date": "2026-09-12",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft Azure processed 1.2 zettabytes of data in 2025.\n$MSFT",
+        "type": "infrastructure"
     }
 ]
