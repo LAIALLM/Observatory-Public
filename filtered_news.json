@@ -1259,5 +1259,12 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-13",
+        "status": "posted",
+        "tweet": "Bitcoin mining hardware replacement costs exceed $6 billion annually in 2026, driven by ASIC obsolescence cycles averaging 18 months at 700 EH/s scale.",
+        "type": "crypto"
     }
 ]
