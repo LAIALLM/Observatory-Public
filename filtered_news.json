@@ -989,5 +989,13 @@
         "status": "posted",
         "tweet": "Energy cost per tx 2026\n1. Bitcoin 250 kWh\n2. Ethereum 0.05 kWh\n3. Solana 0.0003 kWh",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-09-15",
+        "status": "posted",
+        "tweet": "By 2026 urban development firms will direct 70% of \ud83c\uddea\ud83c\uddfa EU infrastructure spending toward net-zero buildings.",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
