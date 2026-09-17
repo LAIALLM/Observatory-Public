@@ -1300,5 +1300,55 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 NEWS: Coca-Cola plans to invest $10B in U.S. infrastructure to meet rising demand $KO",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXhaWGx0UEtJWHNkQVJnSUhCYThGcmlEY3dvNm9tb3NMaTljV0p5eV9Db1ViTzhmNjlORWtGN3dCaVZ2cnBhVHF0Z29oTlpTcVROZ0JDazFmMTdzYncyaURPa000aExjVHVQc1pZOW02NExuMEZwUkt1UXhOSFJaTVpONl9yODM1d0gyaEln?oc=5",
+        "date": "2026-09-16",
+        "title": "Northwest nears completion of Energy Infrastructure Modernization project, plans construction quiet period - Northwest Missourian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXhaWGx0UEtJWHNkQVJnSUhCYThGcmlEY3dvNm9tb3NMaTljV0p5eV9Db1ViTzhmNjlORWtGN3dCaVZ2cnBhVHF0Z29oTlpTcVROZ0JDazFmMTdzYncyaURPa000aExjVHVQc1pZOW02NExuMEZwUkt1UXhOSFJaTVpONl9yODM1d0gyaEln?oc=5\" target=\"_blank\">Northwest nears completion of Energy Infrastructure Modernization project, plans construction quiet period</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northwest Missourian</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcHBQdHAtX0xZUTZyOExvZlpSalZBWnNIR1JIRUIwR3FFSXpCMUZJNExXTkJBWlowMkJaaGFZekZiOEY5dHVZT3pRUkFMV2E5VVpsb1ZMVGZBVzlQQUFTOWNYRTlTMUdpUXlGck5BY2xKdkdtMEdtQXBjZHV2N0pUMVk3RkhJQVZrd3JEdXF5TmRVVTNyOGlJdkx0WEpDRTRzNTI2WmRkMzc2WGR5Rks4MElPcWl0Q2ZzazkxN1p1NXhoNDZuMVNzOVlEaVFTZXF3ektzTWs0U3dXTWdiRjRZ?oc=5",
+        "date": "2026-09-16",
+        "title": "'Just not keeping up:' How Boone County is combating declining state funding for roads and infrastructure - WCPO 9 News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcHBQdHAtX0xZUTZyOExvZlpSalZBWnNIR1JIRUIwR3FFSXpCMUZJNExXTkJBWlowMkJaaGFZekZiOEY5dHVZT3pRUkFMV2E5VVpsb1ZMVGZBVzlQQUFTOWNYRTlTMUdpUXlGck5BY2xKdkdtMEdtQXBjZHV2N0pUMVk3RkhJQVZrd3JEdXF5TmRVVTNyOGlJdkx0WEpDRTRzNTI2WmRkMzc2WGR5Rks4MElPcWl0Q2ZzazkxN1p1NXhoNDZuMVNzOVlEaVFTZXF3ektzTWs0U3dXTWdiRjRZ?oc=5\" target=\"_blank\">'Just not keeping up:' How Boone County is combating declining state funding for roads and infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCPO 9 News</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXBTbkFMTklvUk9wTjNLLXNFR2hsU3doa3FEdUtfWURkbkNJX1dpQVVHNFZlbUlJODhYTDg3WnNBZTE2UHIyTjVITGNsMGNiWkpDakNoTkFhSVZyNm1nWnRLUXVubG9qTk4xanB5bjcwU3BMbFRFMnljQzloaDNKY2p0Z1RzSVAwRU8yVXlvcEdBMGVILUZlbUM0MFlpNFBuTU5KeDJ2TnhqWTdnQjVtMWdSdVkxV2hIQkpMbkwxd0dLbjA?oc=5",
+        "date": "2026-09-16",
+        "title": "Russian attack damages education facility in Ukraine's capital, targets Kyiv Oblast infrastructure - The Kyiv Independent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXBTbkFMTklvUk9wTjNLLXNFR2hsU3doa3FEdUtfWURkbkNJX1dpQVVHNFZlbUlJODhYTDg3WnNBZTE2UHIyTjVITGNsMGNiWkpDakNoTkFhSVZyNm1nWnRLUXVubG9qTk4xanB5bjcwU3BMbFRFMnljQzloaDNKY2p0Z1RzSVAwRU8yVXlvcEdBMGVILUZlbUM0MFlpNFBuTU5KeDJ2TnhqWTdnQjVtMWdSdVkxV2hIQkpMbkwxd0dLbjA?oc=5\" target=\"_blank\">Russian attack damages education facility in Ukraine's capital, targets Kyiv Oblast infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Kyiv Independent</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeXpaeFgwd2VMRERVX1dtN0RXZHdPWWRCMmpseEF2dHduTDRPTi1QQnBockJzaGtwZ1RDRUF5VVB4M0IzVHBCNm5GdUdoVWRpMmUyZF92azFXelljZGVMNGpGcmdYcUtMUmFnTVh6c0dOaUttNGh1RjY4b29BQVc2VGd1bUNsS3pzR1ZkaXJEQVJWWlliTWFwaDBYbk9WUkJ2T3liNWdsYkVUMEFVVXRMNWRkcUE1cXFDbG5rbmhySmk?oc=5",
+        "date": "2026-09-16",
+        "title": "Mijas recognised for sustainable and smart city management - surinenglish.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeXpaeFgwd2VMRERVX1dtN0RXZHdPWWRCMmpseEF2dHduTDRPTi1QQnBockJzaGtwZ1RDRUF5VVB4M0IzVHBCNm5GdUdoVWRpMmUyZF92azFXelljZGVMNGpGcmdYcUtMUmFnTVh6c0dOaUttNGh1RjY4b29BQVc2VGd1bUNsS3pzR1ZkaXJEQVJWWlliTWFwaDBYbk9WUkJ2T3liNWdsYkVUMEFVVXRMNWRkcUE1cXFDbG5rbmhySmk?oc=5\" target=\"_blank\">Mijas recognised for sustainable and smart city management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">surinenglish.com</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://www.enr.com/articles/63665-feds-nix-carbon-emissions-standards-for-coal-and-gas-fired-power-plants",
+        "date": "2026-09-16",
+        "title": "Feds Nix Carbon Emissions Standards for Coal- and Gas-Fired Power Plants",
+        "summary": "In final rule, Trump agencies are gutting nearly all current carbon emissions requirements for coal- and gas-fired power plants\u2014and are proposing to remove all pollution control standards in a separate rulemaking.",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
