@@ -1262,5 +1262,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Iowa\nGoogle data centers processed 4.7 zettabytes in 2025. \n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-09-17",
+        "status": "posted",
+        "tweet": "Projected high-speed rail km 2026\n1. \ud83c\udde8\ud83c\uddf3 China 52000\n2. \ud83c\uddea\ud83c\uddf8 Spain 4100\n3. \ud83c\uddef\ud83c\uddf5 Japan 3600\n4. \ud83c\uddeb\ud83c\uddf7 France 3100\n5. \ud83c\udde9\ud83c\uddea Germany 1700",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
