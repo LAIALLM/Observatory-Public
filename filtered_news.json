@@ -1313,5 +1313,65 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOW9POVlscEhxMkZnZ042dnFVaDNkdVhtODFlOHBfakMzVVFFQWdJbEZRQWdmV0dmR295MmUyX3hUZHU1eDN6czRLVmVYTzZpbldCZVZsWjI4Y0h4emVQbVlwYWY3eVNVaV96bzEtSk5zcEduS09ST3prUm1JNjJfd2RPVk9OUU9QdVRMSzk5a1o5UzNwWXlhSHlzVFUtUmlvNHo1Q2ZqZ1RIel9zT2MxdkpGbjJuR3JjeUE?oc=5",
+        "date": "2026-09-18",
+        "title": "Macron orders protections for infrastructure, citing a growing Russian threat - NBC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNOW9POVlscEhxMkZnZ042dnFVaDNkdVhtODFlOHBfakMzVVFFQWdJbEZRQWdmV0dmR295MmUyX3hUZHU1eDN6czRLVmVYTzZpbldCZVZsWjI4Y0h4emVQbVlwYWY3eVNVaV96bzEtSk5zcEduS09ST3prUm1JNjJfd2RPVk9OUU9QdVRMSzk5a1o5UzNwWXlhSHlzVFUtUmlvNHo1Q2ZqZ1RIel9zT2MxdkpGbjJuR3JjeUE?oc=5\" target=\"_blank\">Macron orders protections for infrastructure, citing a growing Russian threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNlNvam44MjNzRDJxOTd5dUNfenZCcGhZX0o3bWRRa0dmcEdEQWlJMkZVNG9IN3Z6bzJVSkplN1liSzdoUzR3VG9mLTFPWnI1cE1fRUxKeTlKZ2hzbGhfUGRIdDM4ZGViVXZ1N29ucTFWdzhzY2l0bE1uY29mMEJENXNqOEhPQ0FoR3o2Yg?oc=5",
+        "date": "2026-09-18",
+        "title": "Infrastructure work opens area of city for development - Springfield Business Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQNlNvam44MjNzRDJxOTd5dUNfenZCcGhZX0o3bWRRa0dmcEdEQWlJMkZVNG9IN3Z6bzJVSkplN1liSzdoUzR3VG9mLTFPWnI1cE1fRUxKeTlKZ2hzbGhfUGRIdDM4ZGViVXZ1N29ucTFWdzhzY2l0bE1uY29mMEJENXNqOEhPQ0FoR3o2Yg?oc=5\" target=\"_blank\">Infrastructure work opens area of city for development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Springfield Business Journal</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSzBBbXc0S3dNazN5RjB0Z0tObS1Rc0xDMDVSSmxyMjNHQTVjZF9BUlA4R0pnUUVpMU9DOWlxT2NzNDlMTTZBR3BkTFAxa0NZTXU1MDh4UWpNbTZSTXZKS3U0TmliVFBxdU0yV0tkNjRBXzB1OXgzd0VVYWxIMEZBaWgtTEFCYzdqNGNtR0hhOWNxTGJjZllnTzJGMGI5RDI2eGxzNzUtaWZwTk0xbWxlbW5JWmxodw?oc=5",
+        "date": "2026-09-18",
+        "title": "Protecting Maine through stronger infrastructure and climate resiliency - Piscataquis Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNSzBBbXc0S3dNazN5RjB0Z0tObS1Rc0xDMDVSSmxyMjNHQTVjZF9BUlA4R0pnUUVpMU9DOWlxT2NzNDlMTTZBR3BkTFAxa0NZTXU1MDh4UWpNbTZSTXZKS3U0TmliVFBxdU0yV0tkNjRBXzB1OXgzd0VVYWxIMEZBaWgtTEFCYzdqNGNtR0hhOWNxTGJjZllnTzJGMGI5RDI2eGxzNzUtaWZwTk0xbWxlbW5JWmxodw?oc=5\" target=\"_blank\">Protecting Maine through stronger infrastructure and climate resiliency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Piscataquis Observer</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM0syNC1JY3dkY0ZQcHFjMzZ6OERWNTZWOXY5NGNfTm1xT3hRczYwaEFvS2M0ay1KTldpaE02X3JzbDJ6NC1mUXF4LXR5UWkwWFVKVllFSFVraXRYeXFpbjZwVUJPbWNNaVpfSUI4d3ktVVVHUG4xR3VyRG5vQzJaemQwOUZqbWYwaE95QVlTYTlhWWJBUGpxZUkzZmp3TURQTnNEVXNrWk14S3RmeTFTSFlKc0FaYkt6YjlSRkl3UUhwWVZk?oc=5",
+        "date": "2026-09-18",
+        "title": "Healthcare\u2019s Semantic AI Blind Spot: Why LLMs Cannot Replace Deterministic Data Infrastructure - HIT Consultant",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPM0syNC1JY3dkY0ZQcHFjMzZ6OERWNTZWOXY5NGNfTm1xT3hRczYwaEFvS2M0ay1KTldpaE02X3JzbDJ6NC1mUXF4LXR5UWkwWFVKVllFSFVraXRYeXFpbjZwVUJPbWNNaVpfSUI4d3ktVVVHUG4xR3VyRG5vQzJaemQwOUZqbWYwaE95QVlTYTlhWWJBUGpxZUkzZmp3TURQTnNEVXNrWk14S3RmeTFTSFlKc0FaYkt6YjlSRkl3UUhwWVZk?oc=5\" target=\"_blank\">Healthcare\u2019s Semantic AI Blind Spot: Why LLMs Cannot Replace Deterministic Data Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HIT Consultant</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYmMxXzAydnRZZ1I1TnF6cEg2MVNwZTQwTlV3TWJxNUFyZWtkMElQZXVSQnYtSzV1bDNzQk1OM3pVcVBXQTZRODR3TUJYUDJVQnk5Mlh3UFdHa0wtUmFPeHhxVHlNNGdNb3JYQTctV21oeGtaNmxwNE91TGVVeWREcHQxN3d5TkJ0elFTdUNxMVlZMUxQUFFuc0dTNkVLdEJkck5zbmhTWkFfcDgyNjlqb0d5bXcxbGM2el9oZ3ZfdWRwdw?oc=5",
+        "date": "2026-09-18",
+        "title": "Nscale, AI Cloud and Infrastructure Platform, Files for NYSE IPO - TradingView",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYmMxXzAydnRZZ1I1TnF6cEg2MVNwZTQwTlV3TWJxNUFyZWtkMElQZXVSQnYtSzV1bDNzQk1OM3pVcVBXQTZRODR3TUJYUDJVQnk5Mlh3UFdHa0wtUmFPeHhxVHlNNGdNb3JYQTctV21oeGtaNmxwNE91TGVVeWREcHQxN3d5TkJ0elFTdUNxMVlZMUxQUFFuc0dTNkVLdEJkck5zbmhTWkFfcDgyNjlqb0d5bXcxbGM2el9oZ3ZfdWRwdw?oc=5\" target=\"_blank\">Nscale, AI Cloud and Infrastructure Platform, Files for NYSE IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFBKZUMwSWZKeFpZbkxlWEtKb0p5N3dSVnhySDRJX2NzclZ0bEFlTnY5NTEzY2REanRPS2NxYlU2blJhMEhBWWlSYVVCMEF5bU9XbTN0clhWLTdOOFRYNThISjBsdlpRVEV0RVB3TmZjQkxZdXY2VjZUaUQxaVIwRUo0cVlEMlZDa0YtdnQ3ckRLdmRlOUNSME1CZDA0bnBlcUxDel94b05fcHMzU3c?oc=5",
+        "date": "2026-09-18",
+        "title": "77% of Flock Safety\u2019s Public DNS Namespace is Development Infrastructure - Security Boulevard",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFBKZUMwSWZKeFpZbkxlWEtKb0p5N3dSVnhySDRJX2NzclZ0bEFlTnY5NTEzY2REanRPS2NxYlU2blJhMEhBWWlSYVVCMEF5bU9XbTN0clhWLTdOOFRYNThISjBsdlpRVEV0RVB3TmZjQkxZdXY2VjZUaUQxaVIwRUo0cVlEMlZDa0YtdnQ3ckRLdmRlOUNSME1CZDA0bnBlcUxDel94b05fcHMzU3c?oc=5\" target=\"_blank\">77% of Flock Safety\u2019s Public DNS Namespace is Development Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Security Boulevard</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
