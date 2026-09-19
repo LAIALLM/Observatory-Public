@@ -1373,5 +1373,12 @@
         "tweet": "Projected nominal GDP 2026 (trillions USD)\n\n1. \ud83c\uddfa\ud83c\uddf8 United States 28.5\n2. \ud83c\udde8\ud83c\uddf3 China 19.8\n3. \ud83c\udde9\ud83c\uddea Germany 4.8\n4. \ud83c\uddef\ud83c\uddf5 Japan 4.3\n5. \ud83c\uddee\ud83c\uddf3 India 4.1",
         "type": "statistical",
         "category": "countries"
+    },
+    {
+        "link": null,
+        "date": "2026-09-19",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft data centers processed 1.4 zettabytes daily at 1.12 average PUE\n$MSFT",
+        "type": "infrastructure"
     }
 ]
