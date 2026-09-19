@@ -1,20 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-09-09",
-        "status": "posted",
-        "tweet": "Bitcoin electricity use: 140 TWh per year\nEthereum: 0.01 TWh per year",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2026-09-09",
-        "status": "posted",
-        "tweet": "Projected urban pop growth 2026-30 (M)\n\n1. \ud83c\uddf3\ud83c\uddec Lagos 5.1\n2. \ud83c\udde7\ud83c\udde9 Dhaka 4.3\n3. \ud83c\uddee\ud83c\uddf3 Delhi 3.9\n4. \ud83c\udde8\ud83c\uddf3 Chongqing 3.2\n5. \ud83c\uddea\ud83c\uddf9 Addis Ababa 2.8",
-        "type": "statistical",
-        "category": "urban development"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMkNqZTlKQ0VyWDAxbXI4VGtrVkV0TUtlUU5mNGZnZmRPLXJyX0pnUERCQmFLQTJKUUNQclZRak41ZXFBYnlhVWJnMVdNaFhBQ2Z6U3JYWEtWcnp6VWNWSDJtRS1xV00ydFFpU3VuOFJBWlBUd285ZDQ2aWtsSm1DYmw3X1JPLWtmWmdpeUVJODNSLWRrRzN0bmZpMVRrcENvbU9NM3dlbER4NmtCRGdRaURueUVGM2FpT3RzVmxDeFdqd1hjeFJr?oc=5",
         "date": "2026-09-10",
         "title": "How social housing could save the construction industry from the boom-bust cycle - thefifthestate.com.au",
@@ -1380,5 +1365,13 @@
         "status": "posted",
         "tweet": "Amazon Web Services infrastructure processes 1.8 exabytes of data per day. $AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-09-19",
+        "status": "posted",
+        "tweet": "Projected nominal GDP 2026 (trillions USD)\n\n1. \ud83c\uddfa\ud83c\uddf8 United States 28.5\n2. \ud83c\udde8\ud83c\uddf3 China 19.8\n3. \ud83c\udde9\ud83c\uddea Germany 4.8\n4. \ud83c\uddef\ud83c\uddf5 Japan 4.3\n5. \ud83c\uddee\ud83c\uddf3 India 4.1",
+        "type": "statistical",
+        "category": "countries"
     }
 ]
