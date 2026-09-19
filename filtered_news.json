@@ -1380,5 +1380,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft data centers processed 1.4 zettabytes daily at 1.12 average PUE\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-09-19",
+        "status": "posted",
+        "tweet": "Bitcoin data centers consumed 135 TWh of electricity in 2025, exceeding Argentina's total annual usage.",
+        "type": "crypto"
     }
 ]
