@@ -1158,5 +1158,45 @@
         "status": "posted",
         "tweet": "Bitcoin data centers consumed 135 TWh of electricity in 2025, exceeding Argentina's total annual usage.",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcEdyaDh5WTlzSHpHdzBTVVo1YkYxdS0tbENuMHl2S3N2WjhZYWR3RnhBdTFYM2xpWElUaEFqdjI5VTJfUkVZMVFRV0FjWUNXQ2x1ZDJaRFk2b3NKc1FVUE9HYmczTGwtRFhUaGQwWkMyTFJmeVp3SkRIYTY5U0o1aDRVbm1IRzg3SkhPV3lR?oc=5",
+        "date": "2026-09-20",
+        "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems - The Verge",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNcEdyaDh5WTlzSHpHdzBTVVo1YkYxdS0tbENuMHl2S3N2WjhZYWR3RnhBdTFYM2xpWElUaEFqdjI5VTJfUkVZMVFRV0FjWUNXQ2x1ZDJaRFk2b3NKc1FVUE9HYmczTGwtRFhUaGQwWkMyTFJmeVp3SkRIYTY5U0o1aDRVbm1IRzg3SkhPV3lR?oc=5\" target=\"_blank\">Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWFhLdnRBeGVrbTJkU21rY3ZxUE1KblpiLTNIYXZab2tvRndMZE1WbG9LSW9QdVF0Mk9mYUNhSWtNUWFObnYyQ3Zac09lMXJ2YXBNbXRuV1diSlJna3EwVFhNVWNwV1ktQ0pJWTVqV29saTQzVHY5RElRQ3FmTkRDWmFGdV9Mc29CMFRCWW9yN3VGM3pIeTA4eEpVMmpaZWRFR2hIYzhDSVRWQWhNOURpNlVpUHlJYXc0MUFHd1BSd2FZbk9nSmpMX2hkUWRMbm8xZXVRQw?oc=5",
+        "date": "2026-09-20",
+        "title": "Rust-Converter Primer Chemicals Market Forecast to 2035: Infrastructure Maintenance Backlog to Drive 4-6% CAGR - IndexBox",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWFhLdnRBeGVrbTJkU21rY3ZxUE1KblpiLTNIYXZab2tvRndMZE1WbG9LSW9QdVF0Mk9mYUNhSWtNUWFObnYyQ3Zac09lMXJ2YXBNbXRuV1diSlJna3EwVFhNVWNwV1ktQ0pJWTVqV29saTQzVHY5RElRQ3FmTkRDWmFGdV9Mc29CMFRCWW9yN3VGM3pIeTA4eEpVMmpaZWRFR2hIYzhDSVRWQWhNOURpNlVpUHlJYXc0MUFHd1BSd2FZbk9nSmpMX2hkUWRMbm8xZXVRQw?oc=5\" target=\"_blank\">Rust-Converter Primer Chemicals Market Forecast to 2035: Infrastructure Maintenance Backlog to Drive 4-6% CAGR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xUWx4Ql9MbE1RRWRyZlYzd3FtcW1SU0c0eDM4Mjd3Wl85cXVVdVNPU2RJYi1ZdVpkcE41Zl9HRTNUa0tyZnBRMXl5MmY0anRHRGhBR19vb2x1RTgxUWVSWXF6R3NaUQ?oc=5",
+        "date": "2026-09-20",
+        "title": "Russia's August crude output drops 160,000 barrels per day amid Ukrainian strikes on oil infrastructure - Energies Media",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xUWx4Ql9MbE1RRWRyZlYzd3FtcW1SU0c0eDM4Mjd3Wl85cXVVdVNPU2RJYi1ZdVpkcE41Zl9HRTNUa0tyZnBRMXl5MmY0anRHRGhBR19vb2x1RTgxUWVSWXF6R3NaUQ?oc=5\" target=\"_blank\">Russia's August crude output drops 160,000 barrels per day amid Ukrainian strikes on oil infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energies Media</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQekNoNWx6X0hLR0J2WTBjNnRHRFY1WVRSSjBTWmNOeDlqcFZUZV90eW9IcGNBUUl4Tl9oYnBSRmlpTXEtVFZ1c2FTakdrSFVSOWIzN3NlQjhKODFoQ2pKQmNvOW5xOHhpQnEyeTZ6eWJzRWwtZWppS1oyR1ZibERRR0tha2EzcDJMa0RsYVI3TnM2bFM3bUJJTmE4Yk0yR0FObnMyOTlmUTY3MVN3SFkta3Q5RkVMU19rZlhvdw?oc=5",
+        "date": "2026-09-20",
+        "title": "Cassava Technologies CEO calls for African ownership of AI compute infrastructure - Tech Review Africa",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQekNoNWx6X0hLR0J2WTBjNnRHRFY1WVRSSjBTWmNOeDlqcFZUZV90eW9IcGNBUUl4Tl9oYnBSRmlpTXEtVFZ1c2FTakdrSFVSOWIzN3NlQjhKODFoQ2pKQmNvOW5xOHhpQnEyeTZ6eWJzRWwtZWppS1oyR1ZibERRR0tha2EzcDJMa0RsYVI3TnM2bFM3bUJJTmE4Yk0yR0FObnMyOTlmUTY3MVN3SFkta3Q5RkVMU19rZlhvdw?oc=5\" target=\"_blank\">Cassava Technologies CEO calls for African ownership of AI compute infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Review Africa</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
