@@ -1198,5 +1198,12 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-20",
+        "status": "posted",
+        "tweet": "Google's \ud83c\uddeb\ud83c\uddee Finland data centers processed 2.4 exabytes daily in 2026.",
+        "type": "infrastructure"
     }
 ]
