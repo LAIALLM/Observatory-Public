@@ -1179,5 +1179,195 @@
         "status": "posted",
         "tweet": "Bitcoin: 7 TPS, 130 TWh/year\nSolana: 2500 TPS, 0.08 TWh/year",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNelpFN3lsWjNxN0tVMTdTWkhKa1NMWEktdTNWNGQ4LTNxN3dGVUZIaUNnZU1EVjZ2Q3kwblpHdUtFLWtYdkxLY3FBd1dNMXFTbW9wdGVGOWd3N28yNmFvUDRJWU40cGtnYUJMZ3VwWHpXTVZZSmEwVlFJa2pwWVd1QkVjYTk4eGpYeWlfQ2MtSUowMEl2dnc?oc=5",
+        "date": "2026-09-22",
+        "title": "Australian Construction Supply Chain Squeezed? - OCNJ Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNelpFN3lsWjNxN0tVMTdTWkhKa1NMWEktdTNWNGQ4LTNxN3dGVUZIaUNnZU1EVjZ2Q3kwblpHdUtFLWtYdkxLY3FBd1dNMXFTbW9wdGVGOWd3N28yNmFvUDRJWU40cGtnYUJMZ3VwWHpXTVZZSmEwVlFJa2pwWVd1QkVjYTk4eGpYeWlfQ2MtSUowMEl2dnc?oc=5\" target=\"_blank\">Australian Construction Supply Chain Squeezed?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OCNJ Daily</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRnFyd1o1NUtoRVBBUTBrdnFQaE4yYTQzQzFxUUhtR21vc1FUeXlTdGlDX1JKdWxDS2xXODRLWDVVcWFPMGgzMUpyZDB3OXhUSmo4dlJGUTU4SkxCakl3S212Unc5LU1NNFhQTUhVRXA5TVpXYnhNZ25xajI2U1RYMU9FWVVzLU0zTkh4UGh5WHdHcjltenR2Rk9HSjVXZw?oc=5",
+        "date": "2026-09-22",
+        "title": "CN100 2026: Three is the magic number - Construction News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQRnFyd1o1NUtoRVBBUTBrdnFQaE4yYTQzQzFxUUhtR21vc1FUeXlTdGlDX1JKdWxDS2xXODRLWDVVcWFPMGgzMUpyZDB3OXhUSmo4dlJGUTU4SkxCakl3S212Unc5LU1NNFhQTUhVRXA5TVpXYnhNZ25xajI2U1RYMU9FWVVzLU0zTkh4UGh5WHdHcjltenR2Rk9HSjVXZw?oc=5\" target=\"_blank\">CN100 2026: Three is the magic number</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Construction News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPckpBTjNnaVQ0ZWlrSmtnN0ZCU3hJeVNJZEZlYjF5QVZodmd1alFRbUhNdWRYZXFYZlZoNVhXRjg4RkxVM2VSbGtIZ0NlTEtSdGgzWXpFN2NqMldjSEFRcUI5WnB5Y0JXTXFUTUlIMlM5R1VpX2F4Q2NOMm02SmlteGgtWWZoNlJ3Z3Q2bmNCSDJEenFrSW5xRUozV3Z3NEMzYUNyZWNmME1LWUhPcVJZU3JuNTdtWTRHY0E?oc=5",
+        "date": "2026-09-22",
+        "title": "Energy crisis buoys Luxembourg car market and some construction jobs - Luxembourg Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPckpBTjNnaVQ0ZWlrSmtnN0ZCU3hJeVNJZEZlYjF5QVZodmd1alFRbUhNdWRYZXFYZlZoNVhXRjg4RkxVM2VSbGtIZ0NlTEtSdGgzWXpFN2NqMldjSEFRcUI5WnB5Y0JXTXFUTUlIMlM5R1VpX2F4Q2NOMm02SmlteGgtWWZoNlJ3Z3Q2bmNCSDJEenFrSW5xRUozV3Z3NEMzYUNyZWNmME1LWUhPcVJZU3JuNTdtWTRHY0E?oc=5\" target=\"_blank\">Energy crisis buoys Luxembourg car market and some construction jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Luxembourg Times</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZUpLYnBMRE9LREpIc1J6cGJwQVVLTUlmWTM5QTRUQkE0WmhrOGJBbE5US2NRTWVYVUVIWlBaeXhiQzhOdmNsNmtJa3ZQU041MmQyU1JySFAxdTNwZzNJZEpOUFB3Wm5GZEZDZ1ozY2l0aFRXVVg1R0JzdWtvcHpmbFN6OFNpU0ZvUFAyV0RsZEhzZV8wMk9aUVNxTFE?oc=5",
+        "date": "2026-09-22",
+        "title": "A Holistic Approach for Equitable EV Infrastructure Development - UConn Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZUpLYnBMRE9LREpIc1J6cGJwQVVLTUlmWTM5QTRUQkE0WmhrOGJBbE5US2NRTWVYVUVIWlBaeXhiQzhOdmNsNmtJa3ZQU041MmQyU1JySFAxdTNwZzNJZEpOUFB3Wm5GZEZDZ1ozY2l0aFRXVVg1R0JzdWtvcHpmbFN6OFNpU0ZvUFAyV0RsZEhzZV8wMk9aUVNxTFE?oc=5\" target=\"_blank\">A Holistic Approach for Equitable EV Infrastructure Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UConn Today</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOVBUc0otMFJZWWN6WlBJc3E1UXA2bVpZYnFxb2Y3T0F2MmlCYXFIY1luU3lISnAtWnRRY0tiMEFmNGpJVzE3VjE5cVAwdWJDM2ZVbDNwSWZpZ2dLVlVubmFRbkdPZzhEdGQwRjJ3ZDYteldwWEFpcHNBSmd6WlpyNHJuWDR5bUxkZVZ5aE8xMEFBOUI5RThmSVQ1NlNUNHdiT3h2ZFpWT3VkdXN1QkZmd0gwM3ZWRjc5R0ZoOWxneVVpUHdEU3RLd212LVgtd082cFNVR0NzbEQ5alpPdGtaUFducjk0RzF1eE1VakhsRE1XR0dQUjhaM1pENkVVTTZIYjRsckRCbFJRejlmWlZ3cV83MA?oc=5",
+        "date": "2026-09-22",
+        "title": "Health Infrastructure Security Act reintroduced to strengthen healthcare cybersecurity standards, resilience and oversight - Industrial Cyber",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPOVBUc0otMFJZWWN6WlBJc3E1UXA2bVpZYnFxb2Y3T0F2MmlCYXFIY1luU3lISnAtWnRRY0tiMEFmNGpJVzE3VjE5cVAwdWJDM2ZVbDNwSWZpZ2dLVlVubmFRbkdPZzhEdGQwRjJ3ZDYteldwWEFpcHNBSmd6WlpyNHJuWDR5bUxkZVZ5aE8xMEFBOUI5RThmSVQ1NlNUNHdiT3h2ZFpWT3VkdXN1QkZmd0gwM3ZWRjc5R0ZoOWxneVVpUHdEU3RLd212LVgtd082cFNVR0NzbEQ5alpPdGtaUFducjk0RzF1eE1VakhsRE1XR0dQUjhaM1pENkVVTTZIYjRsckRCbFJRejlmWlZ3cV83MA?oc=5\" target=\"_blank\">Health Infrastructure Security Act reintroduced to strengthen healthcare cybersecurity standards, resilience and oversight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Industrial Cyber</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUlkyX1BvWnk5Snh1WThKSHZKOFBNMjlYNVdhWWhLXzRQNjhEd0ZkZWdQXzBvLWdqUlUyRDIxaTJBQzJVYVhTcDdfVzZFLXIzcGlqUTNHVHV4Y3RKSWdiQjlXcllhRVdlQ1Y4WXBKdHVKeUJiUzRXT1pCalJvenNYZzMxclJsSzlESUp4c2NJVGVjdGVnbVRncA?oc=5",
+        "date": "2026-09-22",
+        "title": "Vertiv vs. Eaton: This AI Infrastructure Stock Is the Better Buy - The Motley Fool",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPUlkyX1BvWnk5Snh1WThKSHZKOFBNMjlYNVdhWWhLXzRQNjhEd0ZkZWdQXzBvLWdqUlUyRDIxaTJBQzJVYVhTcDdfVzZFLXIzcGlqUTNHVHV4Y3RKSWdiQjlXcllhRVdlQ1Y4WXBKdHVKeUJiUzRXT1pCalJvenNYZzMxclJsSzlESUp4c2NJVGVjdGVnbVRncA?oc=5\" target=\"_blank\">Vertiv vs. Eaton: This AI Infrastructure Stock Is the Better Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZWJZZTZtc3FRX1lRZllKVTA5aWJZYURSVFpWUEM4dmRjOXJuTUd6VFRCZjBYdE9iSXBkYXpFVURDblFfTkdfZ240NmVsakViTEE4T0RIWUpxNUtvdjZkYzFkVUUtSlZnQ2tseGpxeXdOM1VwTGhtMWtCRVNsb2JGaFlod2Z2elVOVnZCTFE2SjMxZXJoU2xPSkU1eFBqVnFmaEJWRkhscC00Z0dUclhFWExEOGFBVzhLdS1lWE1HSXkwTTltdkF0d1FWblJwRWR6RHNWcklYTkgzNG1qRlFlVFZ3?oc=5",
+        "date": "2026-09-22",
+        "title": "Solaris Energy Infrastructure Announces Offering of $1.0 Billion of Senior Notes due 2032 - Business Wire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZWJZZTZtc3FRX1lRZllKVTA5aWJZYURSVFpWUEM4dmRjOXJuTUd6VFRCZjBYdE9iSXBkYXpFVURDblFfTkdfZ240NmVsakViTEE4T0RIWUpxNUtvdjZkYzFkVUUtSlZnQ2tseGpxeXdOM1VwTGhtMWtCRVNsb2JGaFlod2Z2elVOVnZCTFE2SjMxZXJoU2xPSkU1eFBqVnFmaEJWRkhscC00Z0dUclhFWExEOGFBVzhLdS1lWE1HSXkwTTltdkF0d1FWblJwRWR6RHNWcklYTkgzNG1qRlFlVFZ3?oc=5\" target=\"_blank\">Solaris Energy Infrastructure Announces Offering of $1.0 Billion of Senior Notes due 2032</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUVZJaWhTMHpOMGNlbTZiRURocGtJN2hCWVRBNTRuaEI0TWlOUFJmcFJCUkU0ZTJodEFWcUM5TWNiUkRxcFZXVkhQYXR4bjlicC1jb3ZsY21OWVdkZHR6c0huUlp2eW55emhONm1VVExGQnRuSEhYdXFXMlFURXdEc0pyUU9aLTJ2UmV0N0FLYnVZcDluNDFWSzhFSHpfZGY2VG1QbEVzc1B5UE1xSnZ6akg1UnZNRTZzN2JkZw?oc=5",
+        "date": "2026-09-22",
+        "title": "DroneX 2026 to Spotlight Autonomous Drones and UAS for Europe\u2019s Critical Infrastructure - uasweekly.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNUVZJaWhTMHpOMGNlbTZiRURocGtJN2hCWVRBNTRuaEI0TWlOUFJmcFJCUkU0ZTJodEFWcUM5TWNiUkRxcFZXVkhQYXR4bjlicC1jb3ZsY21OWVdkZHR6c0huUlp2eW55emhONm1VVExGQnRuSEhYdXFXMlFURXdEc0pyUU9aLTJ2UmV0N0FLYnVZcDluNDFWSzhFSHpfZGY2VG1QbEVzc1B5UE1xSnZ6akg1UnZNRTZzN2JkZw?oc=5\" target=\"_blank\">DroneX 2026 to Spotlight Autonomous Drones and UAS for Europe\u2019s Critical Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uasweekly.com</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObnotVVBYNGZHbFRRMGtMYkFzbklnVTljdVk0djZTQ0dLcnJISzZfMWVfRlNZaFRCaHFPSWdqY2hBd0VlaVdhc0xGUVBUTzVMcjluTG9qU1FQWEdjTElnTm5yUVd0Mkh2cUhFS29KWEtFaUUyZkRNNm13X1Bad1luaWROWV9OVEVobEIyUnpjOXA0UFNseVVmcm9vaGRaMENZdkd6aDNuRdIBrAFBVV95cUxPRmtsVm9Tb2haRnpxNEl5OUpiWV8zd2FtWFF6VUZuSXJwcVlkUGtzNHB2N0ZpVVNVeU0zMnh6NGVxYmp1QklwV2c4Q2U3RWlzV2VfckpVQy1wczNDU2xyTUluLWJLY3RSczN6ZUZsbU5LVE1hWnd2a2hVQzc1bTdUdC02OUIxMXBHbnIxTWxyYURSTWVwVXJPbjZIaFByRDhrYzZNVW1EWXhvWGNZ?oc=5",
+        "date": "2026-09-22",
+        "title": "Verda Raises $189 Million Series B To Become Europe\u2019s Latest AI Infrastructure Unicorn - Pulse 2.0",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxObnotVVBYNGZHbFRRMGtMYkFzbklnVTljdVk0djZTQ0dLcnJISzZfMWVfRlNZaFRCaHFPSWdqY2hBd0VlaVdhc0xGUVBUTzVMcjluTG9qU1FQWEdjTElnTm5yUVd0Mkh2cUhFS29KWEtFaUUyZkRNNm13X1Bad1luaWROWV9OVEVobEIyUnpjOXA0UFNseVVmcm9vaGRaMENZdkd6aDNuRdIBrAFBVV95cUxPRmtsVm9Tb2haRnpxNEl5OUpiWV8zd2FtWFF6VUZuSXJwcVlkUGtzNHB2N0ZpVVNVeU0zMnh6NGVxYmp1QklwV2c4Q2U3RWlzV2VfckpVQy1wczNDU2xyTUluLWJLY3RSczN6ZUZsbU5LVE1hWnd2a2hVQzc1bTdUdC02OUIxMXBHbnIxTWxyYURSTWVwVXJPbjZIaFByRDhrYzZNVW1EWXhvWGNZ?oc=5\" target=\"_blank\">Verda Raises $189 Million Series B To Become Europe\u2019s Latest AI Infrastructure Unicorn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR1BkN0ZaX1NmaUp6Ym5RQkN5UDVRaGtPMjVKMnhKUlZGU3F0N1E0WW9VZmttMkxyYm5hRzJETmVqUTBmOVQxTXBLcVBrdTluNVdnLTZCWmRQR0hBYVNzaVBSTlBvckExclFsUXdrY0FqQS04V0tjRks1aDQtLXpYR1IzcUEwc282MHZqX1cyV3RaZm5wSmdIbU5SWndaQTlqUlVDcWpiMWpMdWtxNFUxN0NCWWdTajE5?oc=5",
+        "date": "2026-09-22",
+        "title": "Proprietary AI modeling to optimize critical infrastructure performance and efficiency - chemengonline.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR1BkN0ZaX1NmaUp6Ym5RQkN5UDVRaGtPMjVKMnhKUlZGU3F0N1E0WW9VZmttMkxyYm5hRzJETmVqUTBmOVQxTXBLcVBrdTluNVdnLTZCWmRQR0hBYVNzaVBSTlBvckExclFsUXdrY0FqQS04V0tjRks1aDQtLXpYR1IzcUEwc282MHZqX1cyV3RaZm5wSmdIbU5SWndaQTlqUlVDcWpiMWpMdWtxNFUxN0NCWWdTajE5?oc=5\" target=\"_blank\">Proprietary AI modeling to optimize critical infrastructure performance and efficiency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chemengonline.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWhzdGQzMko2c1V0TlB3SFBZTEdtOWp1bXFhTnlLc2UtNG9UNnl6ZFJ1NjktbVZIdlRVS0p5Y2hacGRlazRVWlFpYS1aTUtFTHRnWjc0UF9vbUVLWlpPRWV3QUZHc2V2Sk81dmoxUmxTMU1yRWUyMEQxSWR4Q0Z2QzIwUF8wWjY1QlkyWHhkbEF5RVpmUmJ6Wm5nSVBQQnp5NmhYbV9RNThQLTBRUXZmWU55dzc?oc=5",
+        "date": "2026-09-22",
+        "title": "Water Infrastructure as a Long-Term Investment Theme - Global Banking & Finance Review",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWhzdGQzMko2c1V0TlB3SFBZTEdtOWp1bXFhTnlLc2UtNG9UNnl6ZFJ1NjktbVZIdlRVS0p5Y2hacGRlazRVWlFpYS1aTUtFTHRnWjc0UF9vbUVLWlpPRWV3QUZHc2V2Sk81dmoxUmxTMU1yRWUyMEQxSWR4Q0Z2QzIwUF8wWjY1QlkyWHhkbEF5RVpmUmJ6Wm5nSVBQQnp5NmhYbV9RNThQLTBRUXZmWU55dzc?oc=5\" target=\"_blank\">Water Infrastructure as a Long-Term Investment Theme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Banking & Finance Review</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOajV4YzM4eFJvajNMME9NU2JpMDFqRTNtQ08tTUE3NFdDb0oydjN6c0hFNzhqam8zZlFWcFptT1VaY1VTSS1UVkNDTXRMRTl5NFNzU0xqX19XMkZCTDB4TVlYOEFRUEp5dk54bnlZQ3hvOWxBVUtaeXNIcmV6OGFjekpmRjB5SDlpcUZxVlNKSXh4NlJQMmEzQnR6bG1Bd3kwSExQSE1CaWpyTnRZSFM1eHZGR3A2b3M3OGVJaw?oc=5",
+        "date": "2026-09-22",
+        "title": "Shortlist revealed for Grays Bay major works project - constructconnect.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOajV4YzM4eFJvajNMME9NU2JpMDFqRTNtQ08tTUE3NFdDb0oydjN6c0hFNzhqam8zZlFWcFptT1VaY1VTSS1UVkNDTXRMRTl5NFNzU0xqX19XMkZCTDB4TVlYOEFRUEp5dk54bnlZQ3hvOWxBVUtaeXNIcmV6OGFjekpmRjB5SDlpcUZxVlNKSXh4NlJQMmEzQnR6bG1Bd3kwSExQSE1CaWpyTnRZSFM1eHZGR3A2b3M3OGVJaw?oc=5\" target=\"_blank\">Shortlist revealed for Grays Bay major works project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">constructconnect.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPak10amFVT0N0WjBPZ0g2MkUtemZ1YzhjVHQ3VUtlc2xJYlE1NGtBcEx1RDRVUW1MVkV6elFXbzlBTFZXNnB5azdNLUI5eHlOZ1J4ZHZBRkI1VUk4alRSZ2tDM1Jwam9tNmZETzhoTWlmV09jMmlkUjJMTGtrRHZiRnJ1U29mM3BNeVE?oc=5",
+        "date": "2026-09-22",
+        "title": "VAST Data & NVIDIA Launch Confidential AI Infrastructure - AI Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPak10amFVT0N0WjBPZ0g2MkUtemZ1YzhjVHQ3VUtlc2xJYlE1NGtBcEx1RDRVUW1MVkV6elFXbzlBTFZXNnB5azdNLUI5eHlOZ1J4ZHZBRkI1VUk4alRSZ2tDM1Jwam9tNmZETzhoTWlmV09jMmlkUjJMTGtrRHZiRnJ1U29mM3BNeVE?oc=5\" target=\"_blank\">VAST Data & NVIDIA Launch Confidential AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI Magazine</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbTllVXBqaEhOSk84RDlfU2VoYTFhSG5neVc2aDY4UkFrZ00yTFR1VTFhbWtVTTV5WnczeHA3YTIzekRnR2NCdjhDeFhhOGxnamczV2JqMUdsVkJjS2dwUUg3S0JCZHN3U09uNlJCNlE1VnNiTUhuNHU5TWc0cGJSWVZIaWQwMVhBWUdfWnZBcDVFbWlnVW5pS0R4UzVHQQ?oc=5",
+        "date": "2026-09-22",
+        "title": "Why Digital Identity Is Becoming Economic Infrastructure - Global Banking & Finance Review",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQbTllVXBqaEhOSk84RDlfU2VoYTFhSG5neVc2aDY4UkFrZ00yTFR1VTFhbWtVTTV5WnczeHA3YTIzekRnR2NCdjhDeFhhOGxnamczV2JqMUdsVkJjS2dwUUg3S0JCZHN3U09uNlJCNlE1VnNiTUhuNHU5TWc0cGJSWVZIaWQwMVhBWUdfWnZBcDVFbWlnVW5pS0R4UzVHQQ?oc=5\" target=\"_blank\">Why Digital Identity Is Becoming Economic Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Banking & Finance Review</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IRm1xNjFjeE82aEJCYk1hRGlYWHktVW5admN4cUhZWGZ1VFZHbG9lTVVLWE9CVHduMExaNWpyR0s5ckp5amJqN25HQ20zb0xXT3RYTQ?oc=5",
+        "date": "2026-09-22",
+        "title": "US proposes $5 billion fund to rebuild Middle East energy infrastructure - AzerNews",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IRm1xNjFjeE82aEJCYk1hRGlYWHktVW5admN4cUhZWGZ1VFZHbG9lTVVLWE9CVHduMExaNWpyR0s5ckp5amJqN25HQ20zb0xXT3RYTQ?oc=5\" target=\"_blank\">US proposes $5 billion fund to rebuild Middle East energy infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AzerNews</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44TUdZSVNqODJlVmZXMkRSd0tlUk9yRDc3RmNjQWlhODI5REhtbEtZWHAxaUNZR0V6TlRRZnpSd0lJTVRyUzBzS1B5QjlEbTZyT1A3TGZDdWFhV3YxSkI2b0ZmV0hzSWRNQl9JakczTmpNVlRoMHI4UEZmRzJ4Zw?oc=5",
+        "date": "2026-09-22",
+        "title": "2026 World Cities Day to showcase urban renewal practices - China Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE44TUdZSVNqODJlVmZXMkRSd0tlUk9yRDc3RmNjQWlhODI5REhtbEtZWHAxaUNZR0V6TlRRZnpSd0lJTVRyUzBzS1B5QjlEbTZyT1A3TGZDdWFhV3YxSkI2b0ZmV0hzSWRNQl9JakczTmpNVlRoMHI4UEZmRzJ4Zw?oc=5\" target=\"_blank\">2026 World Cities Day to showcase urban renewal practices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">China Daily</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMVWlVR2lzN0RfclUyZnBPUHkwU3Z6eWZZZ3MxQm9nYlVYQXlMcWNSMm45Y25tQmFpRGJST2oyM1BOYVR5UlJ0bHRiQ1ZyR3BEcEhnZVlLUktSM1c5Q2FHeFBTTEo?oc=5",
+        "date": "2026-09-22",
+        "title": "Smart City Development Must Put People First \u2013 Nga - Bernama",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMVWlVR2lzN0RfclUyZnBPUHkwU3Z6eWZZZ3MxQm9nYlVYQXlMcWNSMm45Y25tQmFpRGJST2oyM1BOYVR5UlJ0bHRiQ1ZyR3BEcEhnZVlLUktSM1c5Q2FHeFBTTEo?oc=5\" target=\"_blank\">Smart City Development Must Put People First \u2013 Nga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bernama</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTl5QjladEhuWURyTlQ3OEFlc21nUzgwS1o4Z3hVamE4dm40NWZCaDhvRWl3VEpPRTRpdEV5MmpZRUp1MnNfSlN3akptaDlyMkxBRmhPSlNKcHc2ZHZNTVYwdzJORFhENDhvVVBSTTF5S0pXcDNNNDdzUE12eWNBamk4ckNrUkJoeEVLdWpXT3hBQnBHVUFKZ1g5S3p0blY5aGFodnVTaTBzclFsb0M4aUNtVFNZejJTeFVqUg?oc=5",
+        "date": "2026-09-22",
+        "title": "HUDCO, IIM Udaipur Sign MoU to Strengthen Urban Infrastructure, Research and Training - APAC Media",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTl5QjladEhuWURyTlQ3OEFlc21nUzgwS1o4Z3hVamE4dm40NWZCaDhvRWl3VEpPRTRpdEV5MmpZRUp1MnNfSlN3akptaDlyMkxBRmhPSlNKcHc2ZHZNTVYwdzJORFhENDhvVVBSTTF5S0pXcDNNNDdzUE12eWNBamk4ckNrUkJoeEVLdWpXT3hBQnBHVUFKZ1g5S3p0blY5aGFodnVTaTBzclFsb0M4aUNtVFNZejJTeFVqUg?oc=5\" target=\"_blank\">HUDCO, IIM Udaipur Sign MoU to Strengthen Urban Infrastructure, Research and Training</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">APAC Media</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDE5Mk94NEplb0huT25WTmNJVUYxZFNMTy1mT1BuMzZHMEh6VDdweVdBRWctdzNKWEZrYXJQWVFKQ1lDV3VWbUU3enFTOGp2T1ZqRnhoSkpDVUxSbWNxUWlFVzNBQWxpVGpPYWw1QlE1bW5ITXlCZUhMcjZBbTBkZkxGUXJ3T290SElkUFBmc252dUIzeFgwUTk5cnhKejA2dlRTZ2Nn?oc=5",
+        "date": "2026-09-22",
+        "title": "Smart city development must put people first, says Nga - The Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDE5Mk94NEplb0huT25WTmNJVUYxZFNMTy1mT1BuMzZHMEh6VDdweVdBRWctdzNKWEZrYXJQWVFKQ1lDV3VWbUU3enFTOGp2T1ZqRnhoSkpDVUxSbWNxUWlFVzNBQWxpVGpPYWw1QlE1bW5ITXlCZUhMcjZBbTBkZkxGUXJ3T290SElkUFBmc252dUIzeFgwUTk5cnhKejA2dlRTZ2Nn?oc=5\" target=\"_blank\">Smart city development must put people first, says Nga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Star</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
