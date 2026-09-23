@@ -1,90 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-09-13",
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 China's high-speed rail network reaches 50,000 km by 2026.\n\n\ud83c\uddfa\ud83c\uddf8 USA operates 0 km of true high-speed rail.",
-        "type": "statistical",
-        "category": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNjNsYVNET0M3WC1UZkVCcHk3Um5pdGdWSS01MmhqVDRjeWhVdGR2dXQyOHo2NUptSlZwTzJrX2VDRnpabHdkVmR1Zk00bzZLLU54SEtORUxoMmRzM0QtR19laDMyYnpYZXFpdnFCa1dSa2tvNGRTeW14d0llbHB5Ti1Td3V3MFZmclpvMg?oc=5",
-        "date": "2026-09-13",
-        "title": "Construction sector wants heavy-vehicle permits delayed - The Namibian -",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQNjNsYVNET0M3WC1UZkVCcHk3Um5pdGdWSS01MmhqVDRjeWhVdGR2dXQyOHo2NUptSlZwTzJrX2VDRnpabHdkVmR1Zk00bzZLLU54SEtORUxoMmRzM0QtR19laDMyYnpYZXFpdnFCa1dSa2tvNGRTeW14d0llbHB5Ti1Td3V3MFZmclpvMg?oc=5\" target=\"_blank\">Construction sector wants heavy-vehicle permits delayed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Namibian -</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnN6NXBmWU8yQnlpYy1udW9xcGtVRjJtX1E1dkhLYUVyNUM4R1FVUF9EdTdFVzNST0dzbFdoZGc5Zm0xc0Fqb2p6d1d5RDJybmoyblE5SExKX0IzZXExcmxuMkVzTXdod01zZmFKTGRzMk9CbXBNMTFxSzFIT0ZOM1hra1R0NHNKQWVzN0t0VFA3eEdTbGJfRXE0bko5NWQwa0g4RDY4cw?oc=5",
-        "date": "2026-09-13",
-        "title": "How retrofitting can help win the AI infrastructure race - Data Center Dynamics",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnN6NXBmWU8yQnlpYy1udW9xcGtVRjJtX1E1dkhLYUVyNUM4R1FVUF9EdTdFVzNST0dzbFdoZGc5Zm0xc0Fqb2p6d1d5RDJybmoyblE5SExKX0IzZXExcmxuMkVzTXdod01zZmFKTGRzMk9CbXBNMTFxSzFIT0ZOM1hra1R0NHNKQWVzN0t0VFA3eEdTbGJfRXE0bko5NWQwa0g4RDY4cw?oc=5\" target=\"_blank\">How retrofitting can help win the AI infrastructure race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Dynamics</font>",
-        "similarity_excluded": "No",
-        "score": 4,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc0JwZVU4U3BhRGZsTVZpcEYwaEFEbERmOTJyRzZmcDZ5NVRUYy1vdHFUQ3ppOW1DZVB0SlpsS2hfQzRpalozbmlVRnBiQ09ubV9RSjVObnFONGVpWV80Tml1ck83Q3g2NUt0djJkNGRYY0ZuRnltWUk3VURTaTFqLWpLbTZUaDY1ci1Ic3oxWl9YT0RFT3AwSHRCNlhxcUN4c1VvbG5pWnNaUC1VcGc?oc=5",
-        "date": "2026-09-13",
-        "title": "Trump Calls on Zelenskyy to End Strikes on Russian Fuel Infrastructure - Northeast Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOc0JwZVU4U3BhRGZsTVZpcEYwaEFEbERmOTJyRzZmcDZ5NVRUYy1vdHFUQ3ppOW1DZVB0SlpsS2hfQzRpalozbmlVRnBiQ09ubV9RSjVObnFONGVpWV80Tml1ck83Q3g2NUt0djJkNGRYY0ZuRnltWUk3VURTaTFqLWpLbTZUaDY1ci1Ic3oxWl9YT0RFT3AwSHRCNlhxcUN4c1VvbG5pWnNaUC1VcGc?oc=5\" target=\"_blank\">Trump Calls on Zelenskyy to End Strikes on Russian Fuel Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northeast Times</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONXVla25mUlNwb1hBNnZJUEVvc01xbzRKTTFXRGJ3ZjQya21ZbGJUZUdRUFlObGRXb0xZOUN2SjVucjRoa2FfYkJScDJzV3ZEOXYyR3JJWkdhMFBfZjQ1bTdhTEl2Y2hLTTF1Qm50dUlBZzMtclNpUnk3QUVYWGJrTkZXakZfMWVwdHhfMjFvdUd0X1JtTk5xRmxqM3NOYU9UeTZicUdydXd5ZVo2R2xNSGRCWEZfcDBhal9ERmhzY2lfSzVqX1pNX3JRZUdqQXdVOW5QX1NKOEpsQ3l4eFhTUFVoTmEtcGpBemtNNm1BSC14NkxkRnh0RjZKTVNRQ243ZjN3?oc=5",
-        "date": "2026-09-13",
-        "title": "Westfield Town Council Awards Contract for Stormwater Infrastructure Mapping, Watershed Assessment Report - TAPinto",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxONXVla25mUlNwb1hBNnZJUEVvc01xbzRKTTFXRGJ3ZjQya21ZbGJUZUdRUFlObGRXb0xZOUN2SjVucjRoa2FfYkJScDJzV3ZEOXYyR3JJWkdhMFBfZjQ1bTdhTEl2Y2hLTTF1Qm50dUlBZzMtclNpUnk3QUVYWGJrTkZXakZfMWVwdHhfMjFvdUd0X1JtTk5xRmxqM3NOYU9UeTZicUdydXd5ZVo2R2xNSGRCWEZfcDBhal9ERmhzY2lfSzVqX1pNX3JRZUdqQXdVOW5QX1NKOEpsQ3l4eFhTUFVoTmEtcGpBemtNNm1BSC14NkxkRnh0RjZKTVNRQ243ZjN3?oc=5\" target=\"_blank\">Westfield Town Council Awards Contract for Stormwater Infrastructure Mapping, Watershed Assessment Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TAPinto</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckM2SXNvZl9wUjd5Qm5sUkxUZU53YWtMYXNEc19sbnBVNFZPamJieGdWMGhXVzd1bVlpM3F5REJ3dDdrUEpYOGM3VUtBak1hdUtyY3BjRjR4SzZ5Yk5lZVQ2ZjQ2bnJkcWJ4QWNhbEl6Smx5SzRRdG9pR0VCRzU5MlNVdGVIb2NCU0dGVHlIVFUwaGJmejJN?oc=5",
-        "date": "2026-09-13",
-        "title": "Rethinking urban living through kaizen - BusinessWorld Online",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQckM2SXNvZl9wUjd5Qm5sUkxUZU53YWtMYXNEc19sbnBVNFZPamJieGdWMGhXVzd1bVlpM3F5REJ3dDdrUEpYOGM3VUtBak1hdUtyY3BjRjR4SzZ5Yk5lZVQ2ZjQ2bnJkcWJ4QWNhbEl6Smx5SzRRdG9pR0VCRzU5MlNVdGVIb2NCU0dGVHlIVFUwaGJmejJN?oc=5\" target=\"_blank\">Rethinking urban living through kaizen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BusinessWorld Online</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3h3S2hSYVVOT3hoWWxhUjQwelJTYUNreUpRbFV5Q00xaWhMUlgyQXJaVDZjV3VuMFpsNEpsaWt4eEZPd0FWUXowOTVCVWdLQ3l0VGhwMGdfeExhMFN4MkFVeGo2V19nRnBEa0hMcENHd1RJX0tGbmxraTNXNENhMlpnTlNHWXdic3VzbUpZbjRoV1l6NzljRFdwT0dhUkZiZXo5VjFKMWNnQUZRdmZ1VENwcFIyT0JJVXQ2cGw3TmVINVQ5?oc=5",
-        "date": "2026-09-13",
-        "title": "Convert B Khata to A until end of 2027, says K\u2019taka - The Times of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3h3S2hSYVVOT3hoWWxhUjQwelJTYUNreUpRbFV5Q00xaWhMUlgyQXJaVDZjV3VuMFpsNEpsaWt4eEZPd0FWUXowOTVCVWdLQ3l0VGhwMGdfeExhMFN4MkFVeGo2V19nRnBEa0hMcENHd1RJX0tGbmxraTNXNENhMlpnTlNHWXdic3VzbUpZbjRoV1l6NzljRFdwT0dhUkZiZXo5VjFKMWNnQUZRdmZ1VENwcFIyT0JJVXQ2cGw3TmVINVQ5?oc=5\" target=\"_blank\">Convert B Khata to A until end of 2027, says K\u2019taka</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa000TFJRdElWeWE2Uk43S1pmZ1RrYVpqeUtJV0ZzemNDRjZyWmk3NGl3UDk1ZzluWjNRZUhBSGxSc1Mwektsei1YME9mcHRyVlM3c0N1ekNtbEg2Ty1aNnVFVzNCRW1nUzhWY01wOHB4SXFsS2VnWXNkLXB6SFFIWjlMOUI2a09nMnpoUEt6Rm1FZF85VTh6R0EtdXZqaHBJbWlST1hSQzJLanNwZlNWbE0xb2nSAboBQVVfeXFMTmkwYnFpV1Y5NEItbkFDZFZlRVlUS1ZLSUp4eUg4Yy16R3JWMXU4eVlRcV9CdG9HTXdCOHo4RXVnTlhxelBQTHBETzJtQXF3REZWRl90VkZkM0JwRFB6c1BzeFc5SXVVakVnemlUczFaQzM4QUJUOEotVHFpSXl5d2Y2eFlYY0UxQXFPSE1aeW9hYlB4RE1kRV9FS2FjX1UyWUN5U1NvQ0lIQjllYmEzUVpXYnZWNy0wX1pB?oc=5",
-        "date": "2026-09-13",
-        "title": "Awards highlight excellence in creating communities for WA - The West Australian",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPa000TFJRdElWeWE2Uk43S1pmZ1RrYVpqeUtJV0ZzemNDRjZyWmk3NGl3UDk1ZzluWjNRZUhBSGxSc1Mwektsei1YME9mcHRyVlM3c0N1ekNtbEg2Ty1aNnVFVzNCRW1nUzhWY01wOHB4SXFsS2VnWXNkLXB6SFFIWjlMOUI2a09nMnpoUEt6Rm1FZF85VTh6R0EtdXZqaHBJbWlST1hSQzJLanNwZlNWbE0xb2nSAboBQVVfeXFMTmkwYnFpV1Y5NEItbkFDZFZlRVlUS1ZLSUp4eUg4Yy16R3JWMXU4eVlRcV9CdG9HTXdCOHo4RXVnTlhxelBQTHBETzJtQXF3REZWRl90VkZkM0JwRFB6c1BzeFc5SXVVakVnemlUczFaQzM4QUJUOEotVHFpSXl5d2Y2eFlYY0UxQXFPSE1aeW9hYlB4RE1kRV9FS2FjX1UyWUN5U1NvQ0lIQjllYmEzUVpXYnZWNy0wX1pB?oc=5\" target=\"_blank\">Awards highlight excellence in creating communities for WA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The West Australian</font>",
-        "similarity_excluded": "No",
-        "score": 4,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-09-13",
-        "status": "posted",
-        "tweet": "Bitcoin mining hardware replacement costs exceed $6 billion annually in 2026, driven by ASIC obsolescence cycles averaging 18 months at 700 EH/s scale.",
-        "type": "crypto"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FWVZxZjVHR0Iyek03ZmV5OTh1MzN0bVVHNFQ3cVBKSUFUeVdIRkZta3JFU1dQZ3N0ckVVWW5hVzVzcTJ5OGc2b3R5ckRZdndMTnVBV3hlNkxMWDhOUGRFdHR3?oc=5",
         "date": "2026-09-14",
         "title": "Israeli AI construction startup Buildots raises $130 million to fuel global expansion - Ynetnews",
@@ -1369,5 +1284,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-23",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China will commission 250 GW of new solar capacity in 2026, lifting its total to 1,100 GW and surpassing combined EU plus US output.",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
