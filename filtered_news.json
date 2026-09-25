@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-09-15",
-        "status": "posted",
-        "tweet": "Energy cost per tx 2026\n1. Bitcoin 250 kWh\n2. Ethereum 0.05 kWh\n3. Solana 0.0003 kWh",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2026-09-15",
-        "status": "posted",
-        "tweet": "By 2026 urban development firms will direct 70% of \ud83c\uddea\ud83c\uddfa EU infrastructure spending toward net-zero buildings.",
-        "type": "statistical",
-        "category": "urban development firms"
-    },
-    {
-        "link": null,
         "date": "2026-09-16",
         "status": "posted",
         "tweet": "2026 hardware costs per operator (USD):\n\n1. Bitcoin ASIC rig: 14000\n2. Solana validator server: 7500\n3. Ethereum staking node: 600",
@@ -1247,6 +1232,83 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmtpTDdyR3ZQcmI0THgyWF9MQms4dnR3ZURTSkF6emM2TUdUbmxMUXUxeFk4SmREMUIwMHZ5M1lhYTBaMFZlNHVNNFlGcTh1WjJJVk1tWF9BenBMcEkwVm5zQ1pWRWhUcVlrY1JtSzVPOW55S3RsWl92MXdFTHk5Y0dTSFBaUE5mUERJdjhkWWFjWHlfMVdTRG9GRW90X0FzRUxTWDR2Q0JoeWZ4LUN2Sg?oc=5\" target=\"_blank\">Spain joins Champ initiative to accelerate climate action</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
         "similarity_excluded": "No",
         "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-25",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Amazon Web Services data centers in \ud83c\uddfa\ud83c\uddf8 United States delivered 120 million server hours daily in 2025.\n$AMZN",
+        "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRF9DdGIyUEJ1Zm10UUhoSlpVMUVjaFZ1TEhMbUJMdjdVd1BrTkRNX1VtdlVReHpUZGNUVmg3aHh3T1JFRHZPTUpzWUR1bmJRdHdUNGVDRXBiVmhpZjJJSElSbWpvMEhyX1FHQVBvR0Y1bUR2Q0FSdkp0VXJrREl2S0hBS0lVVlk?oc=5",
+        "date": "2026-09-25",
+        "title": "The axe of extra costs falls on builders - Il Sole 24 ORE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRF9DdGIyUEJ1Zm10UUhoSlpVMUVjaFZ1TEhMbUJMdjdVd1BrTkRNX1VtdlVReHpUZGNUVmg3aHh3T1JFRHZPTUpzWUR1bmJRdHdUNGVDRXBiVmhpZjJJSElSbWpvMEhyX1FHQVBvR0Y1bUR2Q0FSdkp0VXJrREl2S0hBS0lVVlk?oc=5\" target=\"_blank\">The axe of extra costs falls on builders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Il Sole 24 ORE</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTng4aW5OamphT3lCZTJObmxFVnlwcHpPR3M5Zk9INkx2OFN1eHIzcExsRkg0Q0xWYzNLZFV5S0FBaDV5OWxrS1h5UnpoN2l5UWhVaFE2WllfemI0TFlUbERwdXZ0RUlKY1EyMlhJM1NmamtNVUJBY2p5SW9jWjlLMmQ4OE16SEp3eEw3eG1YcFJMaFRacGVhUk5hTkkzNTNDelRPR3Q0a3dlQS1h?oc=5",
+        "date": "2026-09-25",
+        "title": "5 minutes with \u2026 Craig Robertson at Wallace Whittle - building.co.uk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTng4aW5OamphT3lCZTJObmxFVnlwcHpPR3M5Zk9INkx2OFN1eHIzcExsRkg0Q0xWYzNLZFV5S0FBaDV5OWxrS1h5UnpoN2l5UWhVaFE2WllfemI0TFlUbERwdXZ0RUlKY1EyMlhJM1NmamtNVUJBY2p5SW9jWjlLMmQ4OE16SEp3eEw3eG1YcFJMaFRacGVhUk5hTkkzNTNDelRPR3Q0a3dlQS1h?oc=5\" target=\"_blank\">5 minutes with \u2026 Craig Robertson at Wallace Whittle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">building.co.uk</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGZxekE3cWtWU2pqemwzMnZHdGgzVWw1UUdTVlEybkJZV210WndWc3pyWFFjWkRWQlZFcnFuV3A1MzNhSUF0SDRHdVZkM2RTNGtJV1lmRkFPd1BLanh6eGZ2LU5aQTRfY3p4cXdNd29td1RNenA4YWFRSWtjSlBRbGotZVM4UnRiLU96QXNBQVR2VE1nOWN2d2hLU29ERXRtUHNxZk5pWUM?oc=5",
+        "date": "2026-09-25",
+        "title": "Houston investment firm Sallyport launches Truss Infrastructure Services platform - The Business Journals",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGZxekE3cWtWU2pqemwzMnZHdGgzVWw1UUdTVlEybkJZV210WndWc3pyWFFjWkRWQlZFcnFuV3A1MzNhSUF0SDRHdVZkM2RTNGtJV1lmRkFPd1BLanh6eGZ2LU5aQTRfY3p4cXdNd29td1RNenA4YWFRSWtjSlBRbGotZVM4UnRiLU96QXNBQVR2VE1nOWN2d2hLU29ERXRtUHNxZk5pWUM?oc=5\" target=\"_blank\">Houston investment firm Sallyport launches Truss Infrastructure Services platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOUdKWkp6WjFhQjVRdDVXU3Zkam1LUGlaYVd5cTl6UkpRakRjajN6VkdxaEpZajVjM1JFUzd2akM4a0VOcWdmUDluY0ZGZ2UteU1uX1JseUREODBSaGFsWXlKYjNCeXRLTHRENFhhQmtCMHdldENKY3ZuOThIQ2VrMlBxaUcwZVlzMW1PTlpSM0Z6VkVZeXhZMU1NdERPd1VuWTFmdVFHd1NiaG83YzhualpXU2NpZw?oc=5",
+        "date": "2026-09-25",
+        "title": "Protecting Energy Infrastructure Through Layered Drone Detection - Unmanned Systems Technology",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPOUdKWkp6WjFhQjVRdDVXU3Zkam1LUGlaYVd5cTl6UkpRakRjajN6VkdxaEpZajVjM1JFUzd2akM4a0VOcWdmUDluY0ZGZ2UteU1uX1JseUREODBSaGFsWXlKYjNCeXRLTHRENFhhQmtCMHdldENKY3ZuOThIQ2VrMlBxaUcwZVlzMW1PTlpSM0Z6VkVZeXhZMU1NdERPd1VuWTFmdVFHd1NiaG83YzhualpXU2NpZw?oc=5\" target=\"_blank\">Protecting Energy Infrastructure Through Layered Drone Detection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unmanned Systems Technology</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc3pFeU9TWS1ZM2FlZlNETjlKcjRBZzZXVEdIOW1HUkNtX29kYkZGTFVGYklvUzFkRVFWQzNPSU9PTXB4XzhFSEhzX1B6VTlLeDNtM2R3R1dwSTBjWnVYZVJSdjVSeUFBYjhRZXZITFRmbjdCVm1hYV9wNzdGS2laQU54X0NMNldndS13QXNCTkdGSnJibnV6eGRicGs5U0VGQUM1di1LWQ?oc=5",
+        "date": "2026-09-25",
+        "title": "Govt Sued Over Tax Deals for Chinese Firms Given Infrastructure Tenders - LinkedIn",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQc3pFeU9TWS1ZM2FlZlNETjlKcjRBZzZXVEdIOW1HUkNtX29kYkZGTFVGYklvUzFkRVFWQzNPSU9PTXB4XzhFSEhzX1B6VTlLeDNtM2R3R1dwSTBjWnVYZVJSdjVSeUFBYjhRZXZITFRmbjdCVm1hYV9wNzdGS2laQU54X0NMNldndS13QXNCTkdGSnJibnV6eGRicGs5U0VGQUM1di1LWQ?oc=5\" target=\"_blank\">Govt Sued Over Tax Deals for Chinese Firms Given Infrastructure Tenders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LinkedIn</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjFIUnBxVjZIMWQ1R2VWWHhwUXNKNC1JZHhxTVBCUmtmUzV5MEszRjhQZ25zOE0wU0NMb2JoMlRhX3BvbXg2bFRPX3IxZDRsSkI2NWc5ejZvUHpaYkZFcF9XeVBlR3JQc01Mb1J4Y2pvUkJQQ1E1cE8yUFZLTktTYlJRdEc4RDdTZnR5UnBzWWZmOG1uMHZIaXlzTHhucVU5NVcwY2p5Z0Q0TUQ3NmdjZEpqRdIBswFBVV95cUxQZ2ZaZHJlVmN2V01rM1lEby1nc0xqNzZhVGpZTUduWHpVbEwzSnBudlhSTUlOTlB1T3VmSFBHSk1rMFN4Tl81QXFpVFRKeGNQSzh4cnBlNy1oZjZmRGcwYWJjZTI1eUJaUVhpb1JMcmEySml3UF9fNEpuUEhzNWhSUDJnM09GOS1MdTVOSldLakxpYVhpUlBmSE9vcUFnWGoyT0NLM1VfbW1LLTJOSHh1Tkt2Yw?oc=5",
+        "date": "2026-09-25",
+        "title": "From Suzhou to AI: Singapore, China eye new playbook for economic ties - South China Morning Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjFIUnBxVjZIMWQ1R2VWWHhwUXNKNC1JZHhxTVBCUmtmUzV5MEszRjhQZ25zOE0wU0NMb2JoMlRhX3BvbXg2bFRPX3IxZDRsSkI2NWc5ejZvUHpaYkZFcF9XeVBlR3JQc01Mb1J4Y2pvUkJQQ1E1cE8yUFZLTktTYlJRdEc4RDdTZnR5UnBzWWZmOG1uMHZIaXlzTHhucVU5NVcwY2p5Z0Q0TUQ3NmdjZEpqRdIBswFBVV95cUxQZ2ZaZHJlVmN2V01rM1lEby1nc0xqNzZhVGpZTUduWHpVbEwzSnBudlhSTUlOTlB1T3VmSFBHSk1rMFN4Tl81QXFpVFRKeGNQSzh4cnBlNy1oZjZmRGcwYWJjZTI1eUJaUVhpb1JMcmEySml3UF9fNEpuUEhzNWhSUDJnM09GOS1MdTVOSldLakxpYVhpUlBmSE9vcUFnWGoyT0NLM1VfbW1LLTJOSHh1Tkt2Yw?oc=5\" target=\"_blank\">From Suzhou to AI: Singapore, China eye new playbook for economic ties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQk1QVFF1Z0NZQm80RWQySXpuY3RoQ2NaV0x0Ukl5YUVNNnVtQjJQamt1Z1ZKWnVUZzJzT0VYRXpMbzI2MGk1Nzcxakpudjg1RjBYS1V4d0lLbTFQbW40aFNlYUlRYTNaZzh1bVVsNWZTc1BDTmZCdkIzcTA4SWU4VmtQN1EwVUJOMzYtdDFwRG12M212eDJrRGJqaVg5Q3J1Y2Z0MkNCQXdSSXNndW81bA?oc=5",
+        "date": "2026-09-25",
+        "title": "Genesys Wins \u20b9283 Cr World Bank-Funded Contract for Ahmedabad Digital Twin - analyticsindiamag.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNQk1QVFF1Z0NZQm80RWQySXpuY3RoQ2NaV0x0Ukl5YUVNNnVtQjJQamt1Z1ZKWnVUZzJzT0VYRXpMbzI2MGk1Nzcxakpudjg1RjBYS1V4d0lLbTFQbW40aFNlYUlRYTNaZzh1bVVsNWZTc1BDTmZCdkIzcTA4SWU4VmtQN1EwVUJOMzYtdDFwRG12M212eDJrRGJqaVg5Q3J1Y2Z0MkNCQXdSSXNndW81bA?oc=5\" target=\"_blank\">Genesys Wins \u20b9283 Cr World Bank-Funded Contract for Ahmedabad Digital Twin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">analyticsindiamag.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
         "status": "processed",
         "tweet": null
     }
