@@ -933,5 +933,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-26",
+        "status": "posted",
+        "tweet": "Projected urban pop growth 2026-2030\n1. \ud83c\uddf3\ud83c\uddec Lagos\n2. \ud83c\udde7\ud83c\udde9 Dhaka\n3. \ud83c\uddee\ud83c\uddf3 Delhi\n4. \ud83c\udde8\ud83c\uddf3 Guangzhou\n5. \ud83c\uddea\ud83c\uddec Cairo",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
