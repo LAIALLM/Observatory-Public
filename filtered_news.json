@@ -960,5 +960,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-27",
+        "status": "posted",
+        "tweet": "Bitcoin mining uses 140 TWh electricity per year.\nEthereum staking uses 0.005 TWh per year.",
+        "type": "crypto"
     }
 ]
