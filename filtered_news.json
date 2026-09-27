@@ -933,5 +933,12 @@
         "status": "posted",
         "tweet": "Alphabet's \ud83c\uddfa\ud83c\uddf8 United States data centers processed 12.4 exabytes daily in 2025. $GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-09-27",
+        "status": "posted",
+        "tweet": "Amazon Web Services reported 92 TWh electricity use for \ud83c\uddfa\ud83c\uddf8 US data centers in 2025.\n$AMZN",
+        "type": "infrastructure"
     }
 ]
