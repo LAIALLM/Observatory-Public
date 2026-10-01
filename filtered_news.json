@@ -999,5 +999,13 @@
         "status": "posted",
         "tweet": "Bitcoin network projected to use 180 TWh of electricity in 2026.\n\nThis matches \ud83c\udde6\ud83c\uddf7 Argentina annual consumption.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-10-01",
+        "status": "posted",
+        "tweet": "2026:\n\ud83c\udde8\ud83c\uddf3 China: 295000 construction firms, $3.4T output\n\ud83c\uddfa\ud83c\uddf8 USA: 792000 firms, $1.9T output",
+        "type": "statistical",
+        "category": "construction companies"
     }
 ]
