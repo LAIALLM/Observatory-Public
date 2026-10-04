@@ -829,5 +829,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Amazon processed 950 petabytes of data daily through its infrastructure in 2025\n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-10-04",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China urban development firms will add 9,200 km of metro and BRT lines by 2030, expanding daily capacity by 48 million riders.",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
