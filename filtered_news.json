@@ -669,5 +669,12 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-10-10",
+        "status": "posted",
+        "tweet": "Annual maintenance & security costs:\n1. Bitcoin: 7.1B USD\n2. Solana: 95M USD\n3. Ethereum: 28M USD",
+        "type": "crypto"
     }
 ]
