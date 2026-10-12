@@ -588,5 +588,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft data centers consumed 9.2 TWh of energy in 2025\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-10-12",
+        "status": "posted",
+        "tweet": "Annual blockchain CO2 emissions MtCO2e\n\n1. Bitcoin 98\n2. Ethereum 0.01\n3. Solana 0.0002",
+        "type": "crypto"
     }
 ]
