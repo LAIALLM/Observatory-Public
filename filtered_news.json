@@ -595,5 +595,12 @@
         "status": "posted",
         "tweet": "Annual blockchain CO2 emissions MtCO2e\n\n1. Bitcoin 98\n2. Ethereum 0.01\n3. Solana 0.0002",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-10-12",
+        "status": "posted",
+        "tweet": "Meta \ud83c\uddfa\ud83c\uddf8 United States data centers reported 1.08 PUE in 2025\n$META",
+        "type": "infrastructure"
     }
 ]
