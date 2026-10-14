@@ -697,5 +697,12 @@
         "status": "posted",
         "tweet": "2026 gov regulation impact on blockchain infra costs:\n1. \ud83c\uddfa\ud83c\uddf8 USA energy rules: $3.2B grid strain from BTC mining\n2. \ud83c\udde8\ud83c\uddf3 China mining ban: $1.8B relocation infrastructure\n3. \ud83c\uddea\ud83c\uddfa EU ESG mandates: $950M compliance for ETH validators",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-10-14",
+        "status": "posted",
+        "tweet": "\ud83c\udde9\ud83c\uddea Germany Azure infrastructure transferred 950 petabytes of data daily in 2025.\n$MSFT",
+        "type": "infrastructure"
     }
 ]
