@@ -482,5 +482,13 @@
         "status": "posted",
         "tweet": "Amazon infrastructure processed 275 petabytes daily via AWS in 2025. \n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-10-17",
+        "status": "posted",
+        "tweet": "2026 projection: Electric vehicles reach 28% of global new car sales, with \ud83c\udde8\ud83c\uddf3 China at 45% and \ud83c\uddea\ud83c\uddfa Europe at 38%.",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
