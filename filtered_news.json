@@ -341,5 +341,13 @@
         "status": "posted",
         "tweet": "Meta's \ud83c\uddfa\ud83c\uddf8 United States data centers stored 35 zettabytes at the end of 2025. \n$META",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-10-19",
+        "status": "posted",
+        "tweet": "2026 high-speed rail km projections\n1. \ud83c\udde8\ud83c\uddf3 China 47000\n2. \ud83c\uddea\ud83c\uddf8 Spain 3600\n3. \ud83c\uddef\ud83c\uddf5 Japan 3500\n4. \ud83c\uddeb\ud83c\uddf7 France 3000\n5. \ud83c\udde9\ud83c\uddea Germany 1800",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
