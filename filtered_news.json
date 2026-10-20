@@ -320,5 +320,12 @@
         "tweet": "2026 urban development firms HQ\n1. \ud83c\uddfa\ud83c\uddf8 New York\n2. \ud83c\uddec\ud83c\udde7 London\n3. \ud83c\uddef\ud83c\uddf5 Tokyo\n4. \ud83c\uddf8\ud83c\uddec Singapore\n5. \ud83c\udde8\ud83c\uddf3 Shanghai",
         "type": "statistical",
         "category": "urban development firms"
+    },
+    {
+        "link": null,
+        "date": "2026-10-20",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Alphabet data centers averaged 1.08 PUE across facilities in 2025\n$GOOGL",
+        "type": "infrastructure"
     }
 ]
