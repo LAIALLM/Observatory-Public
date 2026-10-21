@@ -327,5 +327,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 United States and \ud83c\uddf0\ud83c\uddff Kazakhstan control 65% of Bitcoin hash rate in 2026.\n\nThis concentration requires $4.8 billion yearly in dedicated power grid and cooling infrastructure.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-10-21",
+        "status": "posted",
+        "tweet": "Amazon's \ud83c\uddfa\ud83c\uddf8 US data centers transferred 950 petabytes daily.\n$AMZN",
+        "type": "infrastructure"
     }
 ]
