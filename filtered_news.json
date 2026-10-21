@@ -1,13 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-10-11",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft data centers consumed 9.2 TWh of energy in 2025\n$MSFT",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
         "date": "2026-10-12",
         "status": "posted",
         "tweet": "Annual blockchain CO2 emissions MtCO2e\n\n1. Bitcoin 98\n2. Ethereum 0.01\n3. Solana 0.0002",
@@ -327,5 +320,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Alphabet data centers averaged 1.08 PUE across facilities in 2025\n$GOOGL",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-10-21",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 United States and \ud83c\uddf0\ud83c\uddff Kazakhstan control 65% of Bitcoin hash rate in 2026.\n\nThis concentration requires $4.8 billion yearly in dedicated power grid and cooling infrastructure.",
+        "type": "crypto"
     }
 ]
