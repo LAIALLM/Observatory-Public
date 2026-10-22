@@ -1,19 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-10-12",
-        "status": "posted",
-        "tweet": "Annual blockchain CO2 emissions MtCO2e\n\n1. Bitcoin 98\n2. Ethereum 0.01\n3. Solana 0.0002",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2026-10-12",
-        "status": "posted",
-        "tweet": "Meta \ud83c\uddfa\ud83c\uddf8 United States data centers reported 1.08 PUE in 2025\n$META",
-        "type": "infrastructure"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOblZObE9XT3BzUnF4WTZwa244TmF2aDE0UmU1OG1RdHBnbmw0bmFLUTFCcWI0ZUNacHFyZjNLQkNFOEFWRFpSRmlIZkVIRHBCUnVjMWRaa09sMEk3N0VsWEhWZ3BFaUVkVGUxemdwTl9nS3NadERSclhCLTZyU1NWbUFNNk1lUHJ5N0o1b2d5TE5ZTlA5MDRHUHhTWmxyUTdiX1JJQXl3?oc=5",
         "date": "2026-10-14",
         "title": "Jackson-based H&M Company rises in national ENR rankings - The Business Journals",
@@ -334,5 +320,15 @@
         "status": "posted",
         "tweet": "Amazon's \ud83c\uddfa\ud83c\uddf8 US data centers transferred 950 petabytes daily.\n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFRSb1lHNXJIRkZvSmdXQkJueHltenduZ2o1SlN0ekFuSURPRE5UT2FCeDFSNmtqNFRiSjc5VjVKZ2tXbmxnRjkweUc2c3FTMzhWdFdNY0RKWkFDaERQcjZOdjl0dUtyYkxPNmgtNUZxU3VSNGxLTTRibGNKY2g1UUdZTGFLajE1Y2xKeDJZZzFGbmptbGpnZ2k1VHJ4YzhWZi03UnpWUk5oZDN2Mk5QUGpB?oc=5",
+        "date": "2026-10-22",
+        "title": "She Digs event empowers Port Clinton High School young women in construction industry - The Beacon",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFRSb1lHNXJIRkZvSmdXQkJueHltenduZ2o1SlN0ekFuSURPRE5UT2FCeDFSNmtqNFRiSjc5VjVKZ2tXbmxnRjkweUc2c3FTMzhWdFdNY0RKWkFDaERQcjZOdjl0dUtyYkxPNmgtNUZxU3VSNGxLTTRibGNKY2g1UUdZTGFLajE1Y2xKeDJZZzFGbmptbGpnZ2k1VHJ4YzhWZi03UnpWUk5oZDN2Mk5QUGpB?oc=5\" target=\"_blank\">She Digs event empowers Port Clinton High School young women in construction industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Beacon</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
