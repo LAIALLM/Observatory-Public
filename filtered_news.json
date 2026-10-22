@@ -330,5 +330,20 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-10-22",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China high-speed rail reaches 52,000 km by 2026\n\ud83c\uddea\ud83c\uddfa Europe high-speed rail reaches 12,500 km by 2026",
+        "type": "statistical",
+        "category": "infrastructural projects"
+    },
+    {
+        "link": null,
+        "date": "2026-10-22",
+        "status": "posted",
+        "tweet": "Microsoft $MSFT Azure processed 3.5 exabytes of data daily across its \ud83c\uddfa\ud83c\uddf8 Virginia facilities.",
+        "type": "infrastructure"
     }
 ]
