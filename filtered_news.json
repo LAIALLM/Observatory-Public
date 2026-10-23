@@ -345,5 +345,12 @@
         "status": "posted",
         "tweet": "Microsoft $MSFT Azure processed 3.5 exabytes of data daily across its \ud83c\uddfa\ud83c\uddf8 Virginia facilities.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-10-23",
+        "status": "posted",
+        "tweet": "Alphabet $GOOGL data centers in \ud83c\uddeb\ud83c\uddee Finland maintained 1.08 PUE in 2026.",
+        "type": "infrastructure"
     }
 ]
