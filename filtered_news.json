@@ -218,5 +218,36 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZTdhWE5jbDVna0x6b04waFgwS3JFTWI4RnhRS1FneHVJV1BqbWdtRVFiajlPT3NvdVBLUVJGRnc5YTdNbVljY1Y5SjdvTHhuVExMQXhRNTlPYkw0VWlDTHVrQWZ6bVNycUVRZjZnWDh4T3NuVDU4aF9yZVp2OHU1a1FSMFF5bjhyN3cyenMzWFFFUmV2VHc?oc=5",
+        "date": "2026-10-24",
+        "title": "Texas county warns its future water may have to be pumped in from elsewhere - The Cool Down",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQZTdhWE5jbDVna0x6b04waFgwS3JFTWI4RnhRS1FneHVJV1BqbWdtRVFiajlPT3NvdVBLUVJGRnc5YTdNbVljY1Y5SjdvTHhuVExMQXhRNTlPYkw0VWlDTHVrQWZ6bVNycUVRZjZnWDh4T3NuVDU4aF9yZVp2OHU1a1FSMFF5bjhyN3cyenMzWFFFUmV2VHc?oc=5\" target=\"_blank\">Texas county warns its future water may have to be pumped in from elsewhere</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cool Down</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZG0yVnBBNEtsM1BJQldSTDVmVjF6eldqSGpEZXVseWkxSHI2OWVEeEFPNnlScFJPNWtadDk2aDlPN2ptV0FtZ0Jtc1dfenBHSFNFMThkVmtmX3F5MnNkUXJoemlRdDFPcThPLS1fVDNJTTNxSEhMMUJ1dHd2bU45M3UzNzJ0dzRlUlM3VQ?oc=5",
+        "date": "2026-10-24",
+        "title": "Urban Mobility Gets New Push as Metro Network Reaches 1,185 km - Urban Acres",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZG0yVnBBNEtsM1BJQldSTDVmVjF6eldqSGpEZXVseWkxSHI2OWVEeEFPNnlScFJPNWtadDk2aDlPN2ptV0FtZ0Jtc1dfenBHSFNFMThkVmtmX3F5MnNkUXJoemlRdDFPcThPLS1fVDNJTTNxSEhMMUJ1dHd2bU45M3UzNzJ0dzRlUlM3VQ?oc=5\" target=\"_blank\">Urban Mobility Gets New Push as Metro Network Reaches 1,185 km</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urban Acres</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "NEWS: Metro network reaches 1,185 km, giving urban mobility a fresh push."
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZG0yVnBBNEtsM1BJQldSTDVmVjF6eldqSGpEZXVseWkxSHI2OWVEeEFPNnlScFJPNWtadDk2aDlPN2ptV0FtZ0Jtc1dfenBHSFNFMThkVmtmX3F5MnNkUXJoemlRdDFPcThPLS1fVDNJTTNxSEhMMUJ1dHd2bU45M3UzNzJ0dzRlUlM3VQ?oc=5",
+        "date": "2026-10-24",
+        "title": "Urban Mobility Gets New Push as Metro Network Reaches 1,185 km - Urban Acres",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZG0yVnBBNEtsM1BJQldSTDVmVjF6eldqSGpEZXVseWkxSHI2OWVEeEFPNnlScFJPNWtadDk2aDlPN2ptV0FtZ0Jtc1dfenBHSFNFMThkVmtmX3F5MnNkUXJoemlRdDFPcThPLS1fVDNJTTNxSEhMMUJ1dHd2bU45M3UzNzJ0dzRlUlM3VQ?oc=5\" target=\"_blank\">Urban Mobility Gets New Push as Metro Network Reaches 1,185 km</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urban Acres</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "NEWS: Metro network reaches 1,185 km, giving urban mobility a fresh push.",
+        "type": "news"
     }
 ]
