@@ -249,5 +249,12 @@
         "status": "posted",
         "tweet": "NEWS: Metro network reaches 1,185 km, giving urban mobility a fresh push.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-10-25",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft Azure infrastructure handled 18 exabytes of daily data traffic in 2026.\n$MSFT",
+        "type": "infrastructure"
     }
 ]
