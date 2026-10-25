@@ -256,5 +256,35 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft Azure infrastructure handled 18 exabytes of daily data traffic in 2026.\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CRV9hakZPWmJaTEwyZk5La0NIMndCNGJtd0I0eF92VVoyUHJ6WmJGODVKRHhhZlQxV29xVC0xVzcxZUlyOE5Fd01SVVBDS0gwT1lPVFhiaGc4LVVXbDVtUHJWbjhYUml1Rm1iNmVobFk3RVh4YlE?oc=5",
+        "date": "2026-10-25",
+        "title": "South Korea Pushes Supply Expansion, Yet Construction Company Closures Hit 20-Year High - BigGo Finance",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5CRV9hakZPWmJaTEwyZk5La0NIMndCNGJtd0I0eF92VVoyUHJ6WmJGODVKRHhhZlQxV29xVC0xVzcxZUlyOE5Fd01SVVBDS0gwT1lPVFhiaGc4LVVXbDVtUHJWbjhYUml1Rm1iNmVobFk3RVh4YlE?oc=5\" target=\"_blank\">South Korea Pushes Supply Expansion, Yet Construction Company Closures Hit 20-Year High</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo Finance</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNEU1SlBBd3U5SVY2aS00MTNBclo1VUU4S3Q4SDR6akFwRk5zWS1RZktsdHU0eGZrdG1meHNNWG1PYjMwTmd6NU9YY0dPUmFoaGpxMlVBcElNcTNaa0toZW9mT1NyNm1LckNEQVRoQWN2RTlUX2s1Z3RjeHpiMnA0aHk2cENycWh3eVdlenpOck41MW5wVFFzTENmR1NhZmlQXzZGY1BTOXVFVFR2eHdsbWkxQQ?oc=5",
+        "date": "2026-10-25",
+        "title": "Media 10 launches \u2018Supercharged\u2019 event to unite construction sector - Premier Construction News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNEU1SlBBd3U5SVY2aS00MTNBclo1VUU4S3Q4SDR6akFwRk5zWS1RZktsdHU0eGZrdG1meHNNWG1PYjMwTmd6NU9YY0dPUmFoaGpxMlVBcElNcTNaa0toZW9mT1NyNm1LckNEQVRoQWN2RTlUX2s1Z3RjeHpiMnA0aHk2cENycWh3eVdlenpOck41MW5wVFFzTENmR1NhZmlQXzZGY1BTOXVFVFR2eHdsbWkxQQ?oc=5\" target=\"_blank\">Media 10 launches \u2018Supercharged\u2019 event to unite construction sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Premier Construction News</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHlmTVl1cW9MeXE4Q1RjYzhuRXQ2SGZZNjgxZHlCZmJzQzg5RkJqMDFCd1dyQU1NblNmU0VJRzJ2cC1xSkJWQV9XOHpjd3p0R0N1X3JCb3Rwd3o4d1hwVmtGdU9URUNDZ3lraFJUb1R5SDYtcTVRNl9Rdjd5amY3cnJIYVlpSE81TEZsbnM4TjIxX2FVcUE3akoyMEJNRkFocVJHSFIyMDFwZw?oc=5",
+        "date": "2026-10-25",
+        "title": "ComatReleco: Intelligent Protection and Control Relays for Railway Infrastructure - Railway-News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHlmTVl1cW9MeXE4Q1RjYzhuRXQ2SGZZNjgxZHlCZmJzQzg5RkJqMDFCd1dyQU1NblNmU0VJRzJ2cC1xSkJWQV9XOHpjd3p0R0N1X3JCb3Rwd3o4d1hwVmtGdU9URUNDZ3lraFJUb1R5SDYtcTVRNl9Rdjd5amY3cnJIYVlpSE81TEZsbnM4TjIxX2FVcUE3akoyMEJNRkFocVJHSFIyMDFwZw?oc=5\" target=\"_blank\">ComatReleco: Intelligent Protection and Control Relays for Railway Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Railway-News</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
