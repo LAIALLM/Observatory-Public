@@ -1,28 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-10-17",
-        "status": "posted",
-        "tweet": "Bitcoin miners spent $4.1 billion on ASIC hardware in 2025 to sustain 180 EH/s network hash rate.",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2026-10-17",
-        "status": "posted",
-        "tweet": "Amazon infrastructure processed 275 petabytes daily via AWS in 2025. \n$AMZN",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-10-17",
-        "status": "posted",
-        "tweet": "2026 projection: Electric vehicles reach 28% of global new car sales, with \ud83c\udde8\ud83c\uddf3 China at 45% and \ud83c\uddea\ud83c\uddfa Europe at 38%.",
-        "type": "statistical",
-        "category": "transportation"
-    },
-    {
-        "link": null,
         "date": "2026-10-18",
         "status": "posted",
         "tweet": "Bitcoin annual carbon footprint: 82 MtCO2e\nEthereum annual carbon footprint: 0.02 MtCO2e",
@@ -388,5 +366,12 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-10-27",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 United States Microsoft data centers processed 95 exabytes daily in 2026.\n$MSFT",
+        "type": "infrastructure"
     }
 ]
