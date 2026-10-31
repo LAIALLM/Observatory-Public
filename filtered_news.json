@@ -1,19 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-10-21",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 United States and \ud83c\uddf0\ud83c\uddff Kazakhstan control 65% of Bitcoin hash rate in 2026.\n\nThis concentration requires $4.8 billion yearly in dedicated power grid and cooling infrastructure.",
-        "type": "crypto"
-    },
-    {
-        "link": null,
-        "date": "2026-10-21",
-        "status": "posted",
-        "tweet": "Amazon's \ud83c\uddfa\ud83c\uddf8 US data centers transferred 950 petabytes daily.\n$AMZN",
-        "type": "infrastructure"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFRSb1lHNXJIRkZvSmdXQkJueHltenduZ2o1SlN0ekFuSURPRE5UT2FCeDFSNmtqNFRiSjc5VjVKZ2tXbmxnRjkweUc2c3FTMzhWdFdNY0RKWkFDaERQcjZOdjl0dUtyYkxPNmgtNUZxU3VSNGxLTTRibGNKY2g1UUdZTGFLajE1Y2xKeDJZZzFGbmptbGpnZ2k1VHJ4YzhWZi03UnpWUk5oZDN2Mk5QUGpB?oc=5",
         "date": "2026-10-22",
         "title": "She Digs event empowers Port Clinton High School young women in construction industry - The Beacon",
@@ -1323,5 +1309,12 @@
         "status": "posted",
         "tweet": "\ud83c\udde8\ud83c\uddfe NEWS: Eni awards $1.8B in contracts for the Cronos gas project off Cyprus, with McDermott, Baker Hughes and Halliburton among firms on the $3B development set to supply Europe.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-10-31",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 United States AWS data centers transferred 1.5 exabytes daily in 2026.\n$AMZN",
+        "type": "infrastructure"
     }
 ]
