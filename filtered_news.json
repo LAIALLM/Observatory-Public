@@ -1360,5 +1360,12 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddf3 NEWS: NCRTC to develop urban centres along the Namo Bharat corridor",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-11-01",
+        "status": "posted",
+        "tweet": "Bitcoin nodes by country\n1. \ud83c\uddfa\ud83c\uddf8 United States 2,150\n2. \ud83c\udde9\ud83c\uddea Germany 1,120\n3. \ud83c\uddeb\ud83c\uddf7 France 490",
+        "type": "crypto"
     }
 ]
