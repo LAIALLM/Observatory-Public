@@ -1369,5 +1369,12 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-11-03",
+        "status": "posted",
+        "tweet": "Blockchain electricity costs trend 2020-2026 ($B/yr):\n1. Bitcoin: 4.8 to 14.2\n2. Ethereum: 1.9 to 0.05\n3. Solana: 0.02 to 0.11",
+        "type": "crypto"
     }
 ]
