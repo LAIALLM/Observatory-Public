@@ -1,72 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-10-25",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft Azure infrastructure handled 18 exabytes of daily data traffic in 2026.\n$MSFT",
-        "type": "infrastructure"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CRV9hakZPWmJaTEwyZk5La0NIMndCNGJtd0I0eF92VVoyUHJ6WmJGODVKRHhhZlQxV29xVC0xVzcxZUlyOE5Fd01SVVBDS0gwT1lPVFhiaGc4LVVXbDVtUHJWbjhYUml1Rm1iNmVobFk3RVh4YlE?oc=5",
-        "date": "2026-10-25",
-        "title": "South Korea Pushes Supply Expansion, Yet Construction Company Closures Hit 20-Year High - BigGo Finance",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5CRV9hakZPWmJaTEwyZk5La0NIMndCNGJtd0I0eF92VVoyUHJ6WmJGODVKRHhhZlQxV29xVC0xVzcxZUlyOE5Fd01SVVBDS0gwT1lPVFhiaGc4LVVXbDVtUHJWbjhYUml1Rm1iNmVobFk3RVh4YlE?oc=5\" target=\"_blank\">South Korea Pushes Supply Expansion, Yet Construction Company Closures Hit 20-Year High</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo Finance</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNEU1SlBBd3U5SVY2aS00MTNBclo1VUU4S3Q4SDR6akFwRk5zWS1RZktsdHU0eGZrdG1meHNNWG1PYjMwTmd6NU9YY0dPUmFoaGpxMlVBcElNcTNaa0toZW9mT1NyNm1LckNEQVRoQWN2RTlUX2s1Z3RjeHpiMnA0aHk2cENycWh3eVdlenpOck41MW5wVFFzTENmR1NhZmlQXzZGY1BTOXVFVFR2eHdsbWkxQQ?oc=5",
-        "date": "2026-10-25",
-        "title": "Media 10 launches \u2018Supercharged\u2019 event to unite construction sector - Premier Construction News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNEU1SlBBd3U5SVY2aS00MTNBclo1VUU4S3Q4SDR6akFwRk5zWS1RZktsdHU0eGZrdG1meHNNWG1PYjMwTmd6NU9YY0dPUmFoaGpxMlVBcElNcTNaa0toZW9mT1NyNm1LckNEQVRoQWN2RTlUX2s1Z3RjeHpiMnA0aHk2cENycWh3eVdlenpOck41MW5wVFFzTENmR1NhZmlQXzZGY1BTOXVFVFR2eHdsbWkxQQ?oc=5\" target=\"_blank\">Media 10 launches \u2018Supercharged\u2019 event to unite construction sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Premier Construction News</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHlmTVl1cW9MeXE4Q1RjYzhuRXQ2SGZZNjgxZHlCZmJzQzg5RkJqMDFCd1dyQU1NblNmU0VJRzJ2cC1xSkJWQV9XOHpjd3p0R0N1X3JCb3Rwd3o4d1hwVmtGdU9URUNDZ3lraFJUb1R5SDYtcTVRNl9Rdjd5amY3cnJIYVlpSE81TEZsbnM4TjIxX2FVcUE3akoyMEJNRkFocVJHSFIyMDFwZw?oc=5",
-        "date": "2026-10-25",
-        "title": "ComatReleco: Intelligent Protection and Control Relays for Railway Infrastructure - Railway-News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHlmTVl1cW9MeXE4Q1RjYzhuRXQ2SGZZNjgxZHlCZmJzQzg5RkJqMDFCd1dyQU1NblNmU0VJRzJ2cC1xSkJWQV9XOHpjd3p0R0N1X3JCb3Rwd3o4d1hwVmtGdU9URUNDZ3lraFJUb1R5SDYtcTVRNl9Rdjd5amY3cnJIYVlpSE81TEZsbnM4TjIxX2FVcUE3akoyMEJNRkFocVJHSFIyMDFwZw?oc=5\" target=\"_blank\">ComatReleco: Intelligent Protection and Control Relays for Railway Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Railway-News</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWlQWmg3N0JlN3pleUJEVEN6ZTVvZXgtYURTQVN0T3BhTG9WQlJ2VGR0VWlqQzQ4VXcyelBpM3pOWlhSbkoxR2tFVUp5V2RtUDBzUGEtMktnRnBhdnBiYzBiU0hfM1pTV215Sk5SRmZjNU5WOGU3bzVOSG1KYVJHak1yMDNCOEo2TTgwTWh4b3o3WVJURVFxX0RkelJhM0M5VllpM2oxaF9qUTdqSWdvSFh2bnB3cTIwbDk2YVpaT05zZG1M?oc=5",
-        "date": "2026-10-25",
-        "title": "Senator Collins Celebrates 75th Anniversary of Associated General Contractors of Maine - U.S. Senator Susan Collins (.gov)",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPeWlQWmg3N0JlN3pleUJEVEN6ZTVvZXgtYURTQVN0T3BhTG9WQlJ2VGR0VWlqQzQ4VXcyelBpM3pOWlhSbkoxR2tFVUp5V2RtUDBzUGEtMktnRnBhdnBiYzBiU0hfM1pTV215Sk5SRmZjNU5WOGU3bzVOSG1KYVJHak1yMDNCOEo2TTgwTWh4b3o3WVJURVFxX0RkelJhM0M5VllpM2oxaF9qUTdqSWdvSFh2bnB3cTIwbDk2YVpaT05zZG1M?oc=5\" target=\"_blank\">Senator Collins Celebrates 75th Anniversary of Associated General Contractors of Maine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Senator Susan Collins (.gov)</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZjBKQzhBMmxKTXdZSzk4Y2pINGhTOGt6Q0lyamVzNHVkazh3VHljM3ZuZ0x3cmlTT0ZCZHB5UE1jTUhNNlNKa3lIcklhU0s2REZIZ0hybzlNNkFxNHd4SHBOY0ozeFY3OWh2am9CT205aUZLWkpCRXN5eThsZFRGLUlyMHZ3VTBhZ2htY1pDUW96enBJcUxDVUpFWjh2Ylk5SlJxRGhB?oc=5",
-        "date": "2026-10-25",
-        "title": "Rigid ideas about masculinity harm the entire construction industry - The National Tribune",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZjBKQzhBMmxKTXdZSzk4Y2pINGhTOGt6Q0lyamVzNHVkazh3VHljM3ZuZ0x3cmlTT0ZCZHB5UE1jTUhNNlNKa3lIcklhU0s2REZIZ0hybzlNNkFxNHd4SHBOY0ozeFY3OWh2am9CT205aUZLWkpCRXN5eThsZFRGLUlyMHZ3VTBhZ2htY1pDUW96enBJcUxDVUpFWjh2Ylk5SlJxRGhB?oc=5\" target=\"_blank\">Rigid ideas about masculinity harm the entire construction industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Tribune</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3RlLVBaOXRScXNGal9CUHhwMnZmNVVmdzdPRU01M3BsUnRmTzdoWk50dVJZd1g5bU1EX3JCOHpXY2xnXzFfRFhlTVB4RkdzeThCMy1wSF9KQU0wS1ZIMWNqQXQ5RDk2blh2azQ1OGdiNWp2c3p4aExwOHROZEdiMXFFLXcyV1c2NzJxdWRUcGIzX2d4MTN1YVN5ZmpzLVRrR0t0ZnR1YzZKbHdBUlpPSlJQaE4yYWoz?oc=5",
-        "date": "2026-10-25",
-        "title": "Roman house and possible temple unearthed in ancient city of Forum Julii - HeritageDaily",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3RlLVBaOXRScXNGal9CUHhwMnZmNVVmdzdPRU01M3BsUnRmTzdoWk50dVJZd1g5bU1EX3JCOHpXY2xnXzFfRFhlTVB4RkdzeThCMy1wSF9KQU0wS1ZIMWNqQXQ5RDk2blh2azQ1OGdiNWp2c3p4aExwOHROZEdiMXFFLXcyV1c2NzJxdWRUcGIzX2d4MTN1YVN5ZmpzLVRrR0t0ZnR1YzZKbHdBUlpPSlJQaE4yYWoz?oc=5\" target=\"_blank\">Roman house and possible temple unearthed in ancient city of Forum Julii</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HeritageDaily</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY1EzaGg1NWFxYXNfd2c5XzF6THdmZTdMdGs0Nmh6U09yLTRIYUR3UTFlS0EtR2JVMmpLWEhnZHB5R1Y2Q005Sk9hY0tpaUw3ZGo4YTlkdnJGbW1UMGhTQ1p1YmxORnlEeG04OC10ZmN6SkhEU0o3bzE3UnVxN3hFeC1UUHF4cC1NTFg2MHZETkZxQQ?oc=5",
         "date": "2026-10-26",
         "title": "Five-arena facility opens at Langley Events Centre - REMI Network - Real Estate Management Industry Network",
@@ -1376,5 +1309,145 @@
         "status": "posted",
         "tweet": "Blockchain electricity costs trend 2020-2026 ($B/yr):\n1. Bitcoin: 4.8 to 14.2\n2. Ethereum: 1.9 to 0.05\n3. Solana: 0.02 to 0.11",
         "type": "crypto"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTmRpZXdaa2VvUG5Gd3Y1LUlhZGJaRTN2MjNoTVZNUFFwMGxkOHZyVDZyT2s2WjN6WXR2QVdGbTA1ZWYzZWdoSDNmaF9CakwzT2w5X1NWTUI1WUxzZHEtU0ticGlVWWdDeVdkbzl0NUVia2tuVVRqR251ZzZqZExrZnVzSm5rM3BjZU5CYnNNVzAyOV95a3c?oc=5",
+        "date": "2026-11-04",
+        "title": "Investors wary of defence infrastructure challenges - Infrastructure Investor",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOTmRpZXdaa2VvUG5Gd3Y1LUlhZGJaRTN2MjNoTVZNUFFwMGxkOHZyVDZyT2s2WjN6WXR2QVdGbTA1ZWYzZWdoSDNmaF9CakwzT2w5X1NWTUI1WUxzZHEtU0ticGlVWWdDeVdkbzl0NUVia2tuVVRqR251ZzZqZExrZnVzSm5rM3BjZU5CYnNNVzAyOV95a3c?oc=5\" target=\"_blank\">Investors wary of defence infrastructure challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infrastructure Investor</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTS1ENWdoV3FuOU02QWZ3bEVMZVhCN2xwTGhRWTRBc3V5cHZYSkJDcFNjX3ktS1RGTEdkbGw2OGRGUlBTbmFuRXZzMXQ0UkFKYVhFaERQUnRjYUZTVTVQelgwWGJhejd2aEpjaV9QaXFyWEttSnpmbUhJa3ZfMjJucURseUNNUi0wcHZXUk03d3ZyRTVkS0xV?oc=5",
+        "date": "2026-11-04",
+        "title": "News Infrastructure can't cope with pace of pan-American air trade growth - The Loadstar",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOTS1ENWdoV3FuOU02QWZ3bEVMZVhCN2xwTGhRWTRBc3V5cHZYSkJDcFNjX3ktS1RGTEdkbGw2OGRGUlBTbmFuRXZzMXQ0UkFKYVhFaERQUnRjYUZTVTVQelgwWGJhejd2aEpjaV9QaXFyWEttSnpmbUhJa3ZfMjJucURseUNNUi0wcHZXUk03d3ZyRTVkS0xV?oc=5\" target=\"_blank\">News Infrastructure can't cope with pace of pan-American air trade growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Loadstar</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3duNC1qQ0xPek1LY1JyNG50czhNemQyQ3FuNl9ZUkhvMWRlWWhvUU1DT1Y2TWFtU3dwTDRhVkMtRm9pMFJkSkdKNDJIMDNQVXJTejdJTGNsUTc2SWhwS1g2UE1ubjBtZENMa1Y5eWwwbjc2aWhTdWR5eE5sZk1sOVJzNGFEbEprWF9iVnBGbHZYRmhGenZEb3dvTXhIMlU?oc=5",
+        "date": "2026-11-04",
+        "title": "Berkeley: $300M Infrastructure Bond Leading; Parcel Tax To Fund Arts Likely To Pass - SFGATE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3duNC1qQ0xPek1LY1JyNG50czhNemQyQ3FuNl9ZUkhvMWRlWWhvUU1DT1Y2TWFtU3dwTDRhVkMtRm9pMFJkSkdKNDJIMDNQVXJTejdJTGNsUTc2SWhwS1g2UE1ubjBtZENMa1Y5eWwwbjc2aWhTdWR5eE5sZk1sOVJzNGFEbEprWF9iVnBGbHZYRmhGenZEb3dvTXhIMlU?oc=5\" target=\"_blank\">Berkeley: $300M Infrastructure Bond Leading; Parcel Tax To Fund Arts Likely To Pass</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SFGATE</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFdUUmw4cXM0M1JUeG11Z0Q4dFgwTDBOd1RwUTc2U3NwVWt1bkVpZEdocncyYWpLVENRM1QxZjFpSWxTei1MbnBJc0lfalU3X3g3TW91WGZwTmhQMktjcGoxVmtsa0lqbThVRktzdUE3V3AyeW8zOHJURlhxLVd6VXJEMmN5S1dodXFSUUF2WU1uZDVqdU5FWFZ5UFZSTWxSbklhdHZpLUFvSjJxZkFRY2xtUnYtVDF0eGZRUGN6cFVlS1YxSHNpM01tUzU?oc=5",
+        "date": "2026-11-04",
+        "title": "Extruded Membranes Market Forecast to 2035, Driven by Landfill Liner Demand and Infrastructure Upgrades - IndexBox",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFdUUmw4cXM0M1JUeG11Z0Q4dFgwTDBOd1RwUTc2U3NwVWt1bkVpZEdocncyYWpLVENRM1QxZjFpSWxTei1MbnBJc0lfalU3X3g3TW91WGZwTmhQMktjcGoxVmtsa0lqbThVRktzdUE3V3AyeW8zOHJURlhxLVd6VXJEMmN5S1dodXFSUUF2WU1uZDVqdU5FWFZ5UFZSTWxSbklhdHZpLUFvSjJxZkFRY2xtUnYtVDF0eGZRUGN6cFVlS1YxSHNpM01tUzU?oc=5\" target=\"_blank\">Extruded Membranes Market Forecast to 2035, Driven by Landfill Liner Demand and Infrastructure Upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfQXlZVkM4Znd5M3NCMUJqbEVodHVhT3pwdXcxTmZ1S0NFUHFrazdJX2MyU3VMbDVUOHlweGxlZ1hVYTc2Sk4yZHVBRm8wUUFxR2tVWUpEZjM?oc=5",
+        "date": "2026-11-04",
+        "title": "China unveils consumption infrastructure plan to boost spending and investment - chinadailyhk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfQXlZVkM4Znd5M3NCMUJqbEVodHVhT3pwdXcxTmZ1S0NFUHFrazdJX2MyU3VMbDVUOHlweGxlZ1hVYTc2Sk4yZHVBRm8wUUFxR2tVWUpEZjM?oc=5\" target=\"_blank\">China unveils consumption infrastructure plan to boost spending and investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chinadailyhk</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3VtbnBjTFFGNUVmZWwyUkpVZkNtMEN4NlpPY2JlTElpWGdJckRPdW5ZQ19rY0FDdEhmWlhvQWI4VDlIUndoRWFIQXJ2MGVYbmhGZC1YMm9jVjhwLVAtb0lJQkhiRG40MzFvdUplWW1nbWoyYklvR3cxd3dCZjg0NVNwOVJldl9CUXdYVmZ0QlJlRHJRVVBNNjJwd2tOZTVDTVpLQ3M2cXo3MjFE?oc=5",
+        "date": "2026-11-04",
+        "title": "Netel and Infrea merge to form $530M Northern European infrastructure group - Dealroom",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3VtbnBjTFFGNUVmZWwyUkpVZkNtMEN4NlpPY2JlTElpWGdJckRPdW5ZQ19rY0FDdEhmWlhvQWI4VDlIUndoRWFIQXJ2MGVYbmhGZC1YMm9jVjhwLVAtb0lJQkhiRG40MzFvdUplWW1nbWoyYklvR3cxd3dCZjg0NVNwOVJldl9CUXdYVmZ0QlJlRHJRVVBNNjJwd2tOZTVDTVpLQ3M2cXo3MjFE?oc=5\" target=\"_blank\">Netel and Infrea merge to form $530M Northern European infrastructure group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dealroom</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTUp1TFJBYV9UYkVoT0JmT3M2cmdUQTJwemlFMDA0b1V5SlpLNkdIVnVIaWoycGxjSzJKcnUzc3VMWERpUGFxNkpaUmJaY2JkVUdqSE1WS0xQbldZYm5zWm9VYWJiN3k4dXUyQ1NtenkxRnFfTFhJRllPSWdBY3QxRmctRWtfTWFJWktmbkhrZjQ1bUtMRkI2NTVmbkt2M1c2NC1GUDN0YktKX2c?oc=5",
+        "date": "2026-11-04",
+        "title": "\u201cAI will generate nearly half of network traffic by 2035\u201d - Techzine Global",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTUp1TFJBYV9UYkVoT0JmT3M2cmdUQTJwemlFMDA0b1V5SlpLNkdIVnVIaWoycGxjSzJKcnUzc3VMWERpUGFxNkpaUmJaY2JkVUdqSE1WS0xQbldZYm5zWm9VYWJiN3k4dXUyQ1NtenkxRnFfTFhJRllPSWdBY3QxRmctRWtfTWFJWktmbkhrZjQ1bUtMRkI2NTVmbkt2M1c2NC1GUDN0YktKX2c?oc=5\" target=\"_blank\">\u201cAI will generate nearly half of network traffic by 2035\u201d</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Techzine Global</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTkVmUWpJRGFxa1hMSklzVzZYRmNINktvMHZ0UzhWaTRHQWkweXNKX01WeUE4SmFfaXlUNTJ5aVJuVXYzR3dVR1huNnlYY3o0OVdKeWhCZ3FQU0lNTFdOdGVZSU9wTElXeW1DT19QNFlOc0xvbU5XWlZ4dVRSZTlNLWJkQ2FEdXFwbVliM01LR3FtdGFzenQxaFcteG1TaTNsd2RSQy1ZQzdtMEU?oc=5",
+        "date": "2026-11-04",
+        "title": "Six paradigm shifts could redefine how Global South cities plan for sustainability - Bioengineer.org",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTkVmUWpJRGFxa1hMSklzVzZYRmNINktvMHZ0UzhWaTRHQWkweXNKX01WeUE4SmFfaXlUNTJ5aVJuVXYzR3dVR1huNnlYY3o0OVdKeWhCZ3FQU0lNTFdOdGVZSU9wTElXeW1DT19QNFlOc0xvbU5XWlZ4dVRSZTlNLWJkQ2FEdXFwbVliM01LR3FtdGFzenQxaFcteG1TaTNsd2RSQy1ZQzdtMEU?oc=5\" target=\"_blank\">Six paradigm shifts could redefine how Global South cities plan for sustainability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bioengineer.org</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1A2c3ZsX1RnWS1WUDFpUGdqdFVxaENNQ1ViRXNNOTkwTFVTdDJ6bGVudV9iSWdYQ3BJaFh5bzRua1dFbENzSmtYaHVXNmlqUktIUFJUMjRiSVBtaG92cnY2M1BtUm4zeG1vNDdDQl90Ym03TjVlM2lvOFZ0U1NmT1ZoWVgyY3A3NFFLZW9ObXF1OWV2M2VuSVo3cUtQVlRfUFU4VUhBTE90eHZJeTlaVTdtZlRycnk0bHMtYmtFVndJQUtOcTg0U3dsZ3VYNmVvSHVST2xIQ09lQTZzX2Q2Y2xkcFE?oc=5",
+        "date": "2026-11-04",
+        "title": "Xinhua Silk Road: Global mayors explore pathways of high-quality city development in Ningbo, E China - Press Release Hub",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1A2c3ZsX1RnWS1WUDFpUGdqdFVxaENNQ1ViRXNNOTkwTFVTdDJ6bGVudV9iSWdYQ3BJaFh5bzRua1dFbENzSmtYaHVXNmlqUktIUFJUMjRiSVBtaG92cnY2M1BtUm4zeG1vNDdDQl90Ym03TjVlM2lvOFZ0U1NmT1ZoWVgyY3A3NFFLZW9ObXF1OWV2M2VuSVo3cUtQVlRfUFU4VUhBTE90eHZJeTlaVTdtZlRycnk0bHMtYmtFVndJQUtOcTg0U3dsZ3VYNmVvSHVST2xIQ09lQTZzX2Q2Y2xkcFE?oc=5\" target=\"_blank\">Xinhua Silk Road: Global mayors explore pathways of high-quality city development in Ningbo, E China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Press Release Hub</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWlRncnZUa1VxUHpIRTdvVXQ3TUtmeWJpYmRaT3BzUkFvUXc4Rk1vd3QzMVpuTW84ZmU2YVM0M1U2OUN4TmFyNERHR3NrWDg3SnRZbW1xanoyUng2YnBuV012azNiRGVBbVdFTkgyQlc2S2txZUlBYW5DaWxWSjh1SmRrOUxQTkk?oc=5",
+        "date": "2026-11-04",
+        "title": "MIK Group is developing a high-rise city on Vu Yen Island. - Vietnam.vn",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQWlRncnZUa1VxUHpIRTdvVXQ3TUtmeWJpYmRaT3BzUkFvUXc4Rk1vd3QzMVpuTW84ZmU2YVM0M1U2OUN4TmFyNERHR3NrWDg3SnRZbW1xanoyUng2YnBuV012azNiRGVBbVdFTkgyQlc2S2txZUlBYW5DaWxWSjh1SmRrOUxQTkk?oc=5\" target=\"_blank\">MIK Group is developing a high-rise city on Vu Yen Island.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUndfMTltbHpYTmRDS3JEVXMzMVczelIxRm9yZEp2Umk1eDdsVnlrNHBqVnRsd1ZHYktlM1ZPLXkzRmpEMV9GNTJOc1NXdU9zZ1FhQ0FwT0N2UUNnLVVwQ01MUlZTc1pOWFNJNFp6Q2FSeG0wTEpya2JwMG0yUXJWUkstb0NxaGFsamlMYlNZUndLMUh4dzRlYjFkeUJialprNXRUSGo1RWhpb1E?oc=5",
+        "date": "2026-11-04",
+        "title": "Beyond robots and drones: this is how cities are being rethought at Smart City Expo - The New Barcelona Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUndfMTltbHpYTmRDS3JEVXMzMVczelIxRm9yZEp2Umk1eDdsVnlrNHBqVnRsd1ZHYktlM1ZPLXkzRmpEMV9GNTJOc1NXdU9zZ1FhQ0FwT0N2UUNnLVVwQ01MUlZTc1pOWFNJNFp6Q2FSeG0wTEpya2JwMG0yUXJWUkstb0NxaGFsamlMYlNZUndLMUh4dzRlYjFkeUJialprNXRUSGo1RWhpb1E?oc=5\" target=\"_blank\">Beyond robots and drones: this is how cities are being rethought at Smart City Expo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Barcelona Post</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcVVueFlJYXJlNUNzb2JzVzFfYURxalhEMlBmZ05YcW9rdEg1S0UxNUhIMDcyVVJiSVJfZnY5d05vY2JHSl9zNEprYTlGTHMwX2ZRY3ZENll3VDZMNUlxT1FJS0JETkttS0ZOM0NqOC05UUNaTldvbjdJQ240elFPb3BiU2N1M1R2YUxBbXM2bnFmVElRNEJPYy1OUkxJLWx5ZlRSNlJpZXQ0Tms0S3NqZENTSVN4Mmt5bmY0SjE0M3d2cXQwa2hyby1HQ283am00aklON2VNN1lfeU42d3l6THBWODg0ckptbm43N09aOTBralRPTnVKSEo4Skx2NDRBcVNXbjhrZmFna3FneTZ1bw?oc=5",
+        "date": "2026-11-04",
+        "title": "ICETECH Signs MoU with Jordan's Government-Controlled JIEC to Explore Chip R&D and Smart City Solutions - The Globe and Mail",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxOcVVueFlJYXJlNUNzb2JzVzFfYURxalhEMlBmZ05YcW9rdEg1S0UxNUhIMDcyVVJiSVJfZnY5d05vY2JHSl9zNEprYTlGTHMwX2ZRY3ZENll3VDZMNUlxT1FJS0JETkttS0ZOM0NqOC05UUNaTldvbjdJQ240elFPb3BiU2N1M1R2YUxBbXM2bnFmVElRNEJPYy1OUkxJLWx5ZlRSNlJpZXQ0Tms0S3NqZENTSVN4Mmt5bmY0SjE0M3d2cXQwa2hyby1HQ283am00aklON2VNN1lfeU42d3l6THBWODg0ckptbm43N09aOTBralRPTnVKSEo4Skx2NDRBcVNXbjhrZmFna3FneTZ1bw?oc=5\" target=\"_blank\">ICETECH Signs MoU with Jordan's Government-Controlled JIEC to Explore Chip R&amp;D and Smart City Solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTGczd2h5YjNGRVZURm5tcjNpQkNKeU0wS2V5U3ljN2xpd3k5RGJPSGZVSFhOZFM2WHdObW4wWkN2enVJUHNYV2NpQ1k1Y1lWMHljTElqU3ZhamtGclVydFNtY3FaUERZdC14UzFicFJjLVFKTExFVWpyWVQtMklJTUVaSHVGLVU?oc=5",
+        "date": "2026-11-04",
+        "title": "New UN Guide Keeps People in Charge of AI in Smart Cities - Mirage News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOTGczd2h5YjNGRVZURm5tcjNpQkNKeU0wS2V5U3ljN2xpd3k5RGJPSGZVSFhOZFM2WHdObW4wWkN2enVJUHNYV2NpQ1k1Y1lWMHljTElqU3ZhamtGclVydFNtY3FaUERZdC14UzFicFJjLVFKTExFVWpyWVQtMklJTUVaSHVGLVU?oc=5\" target=\"_blank\">New UN Guide Keeps People in Charge of AI in Smart Cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mirage News</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTG5pWTVsS0dfSmV5MnlfRXBLVVJiWEZpNTM5VjBnbkNaY256dE41SDZxOHp5cjNycmRfOWlDakdvbTN4b3QwaFpfNy12eDVzTVBxYjI5cTlxV3J2SGtDQzNJMVZQNnItd29BeDBOS2F2VTliNEpIV3B4R1NjX1hZbEpKV2tya1BPNW5hT2tKekdxc3hBRVpNc3hIVTNIUVR4ZC1xOEsxQTltV1ZYT0trTUx2YUF2WUFLYlpCeXhoWi1DUlNBRjEtOG5fajJNWVUzQjVjdmZIeVo4WlMtaEpBV3pmazR1WUF4YW5RTXUycU1Na2htaFdNclpkUG94S3ZVS2luNFNQdWJPOU5rNkhFQkZn0gGXAkFVX3lxTFBQTWRIOUdiWWI0R2cyLXNLMFp1YXZDZjBONzZxUEFKRUl4NUFfWnZqdl9TTkYxV1AwOUZBeEhfTE9VSVBHY180VkZweTlrU3QxVndtbmVLbS1sM3hJNldGU3N6ZU94WmdUa180SHI2UVh6V1RDR0FheXlud2E4SEF6OUwtTU1Ga1FaT0pmaFAtRnZnTW12ZzVuTEVDSEw5LWlmNDd0LUEwZzBLZ1NrRUxjT25xeF9rNGtaSUxpMXlxQkVvTHRqbEI5X045RkJkUkdiX1p5TXpWMWVYS09wVmxsUnQxcDZNN2N3RkY4WmtWVWFIa1lSZTRrbVFvaFZkNXZpa0FHdWxZZkNGajFDN3F2VmZoaHpUNA?oc=5",
+        "date": "2026-11-04",
+        "title": "Taiwan's Unmanned Vehicle Alliance Unveils Smart UAV and Vehicle Management System to Empower Japan's Smart Cities - The Manila Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNTG5pWTVsS0dfSmV5MnlfRXBLVVJiWEZpNTM5VjBnbkNaY256dE41SDZxOHp5cjNycmRfOWlDakdvbTN4b3QwaFpfNy12eDVzTVBxYjI5cTlxV3J2SGtDQzNJMVZQNnItd29BeDBOS2F2VTliNEpIV3B4R1NjX1hZbEpKV2tya1BPNW5hT2tKekdxc3hBRVpNc3hIVTNIUVR4ZC1xOEsxQTltV1ZYT0trTUx2YUF2WUFLYlpCeXhoWi1DUlNBRjEtOG5fajJNWVUzQjVjdmZIeVo4WlMtaEpBV3pmazR1WUF4YW5RTXUycU1Na2htaFdNclpkUG94S3ZVS2luNFNQdWJPOU5rNkhFQkZn0gGXAkFVX3lxTFBQTWRIOUdiWWI0R2cyLXNLMFp1YXZDZjBONzZxUEFKRUl4NUFfWnZqdl9TTkYxV1AwOUZBeEhfTE9VSVBHY180VkZweTlrU3QxVndtbmVLbS1sM3hJNldGU3N6ZU94WmdUa180SHI2UVh6V1RDR0FheXlud2E4SEF6OUwtTU1Ga1FaT0pmaFAtRnZnTW12ZzVuTEVDSEw5LWlmNDd0LUEwZzBLZ1NrRUxjT25xeF9rNGtaSUxpMXlxQkVvTHRqbEI5X045RkJkUkdiX1p5TXpWMWVYS09wVmxsUnQxcDZNN2N3RkY4WmtWVWFIa1lSZTRrbVFvaFZkNXZpa0FHdWxZZkNGajFDN3F2VmZoaHpUNA?oc=5\" target=\"_blank\">Taiwan's Unmanned Vehicle Alliance Unveils Smart UAV and Vehicle Management System to Empower Japan's Smart Cities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
