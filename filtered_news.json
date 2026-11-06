@@ -1417,5 +1417,12 @@
         "tweet": "\ud83c\udde8\ud83c\uddf3 China urban development firms project $380 billion annual investment in high-density green infrastructure by 2030.",
         "type": "statistical",
         "category": "urban development firms"
+    },
+    {
+        "link": null,
+        "date": "2026-11-05",
+        "status": "posted",
+        "tweet": "Node distribution concentration 2026\n\n1. Solana 55% nodes \ud83c\uddfa\ud83c\uddf8 US\n2. Ethereum 38% nodes \ud83c\uddfa\ud83c\uddf8 US\n3. Bitcoin 32% nodes \ud83c\udde9\ud83c\uddea Germany",
+        "type": "crypto"
     }
 ]
