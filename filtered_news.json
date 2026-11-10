@@ -1,20 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-10-31",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 United States AWS data centers transferred 1.5 exabytes daily in 2026.\n$AMZN",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-10-31",
-        "status": "posted",
-        "tweet": "Projected GDP 2026 (USD trillions)\n\n1. \ud83c\uddfa\ud83c\uddf8 United States 29.2\n2. \ud83c\udde8\ud83c\uddf3 China 22.3\n3. \ud83c\uddef\ud83c\uddf5 Japan 4.6\n4. \ud83c\udde9\ud83c\uddea Germany 4.4\n5. \ud83c\uddee\ud83c\uddf3 India 4.3",
-        "type": "statistical",
-        "category": "countries"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYl9BQmxXak01NGUwZEduMGJGUEtfbXZqcTFuRS1qZlBlUlRRdDBZNDkxVXg2aTBTVGVjU2RZYm1OZF9mQXNiOGdPbGx2SkxqMzYycXpoTWFSWEloOGg2eXRGS3J4ZHlIY05rRGpBQmJfU3JnQzlWTjFBTDFRSUZobWRzeVA4ZzBBN1BkSHJnb3Z4YTlwbFU3TWVwMzZqZ0p0UUZfNnl3?oc=5",
         "date": "2026-11-01",
         "title": "Siesta Key task force tackles transit, utilities and aging village infrastructure - Siesta Sand",
@@ -584,6 +569,126 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxObWRMeVBwYWdpVTcwSXNuUlNWVEl2YURXaE9Jd21HdERtd3BNTXotaXRGbUZfMkJERVRZWGdpRU16d09vWFpqRWc2bkE1OHdoT1hyQVFsQ295eFFuVnItVHlBem9YX0lJT0NoM2kydUp6UDR5RG9ad25TWW9UZC1URThpVTJRdUdpOVRFaU5OSQ?oc=5\" target=\"_blank\">The 2026 Mayoral Manifesto for Auckland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Greater Auckland</font>",
         "similarity_excluded": "No",
         "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUThEXzdHS25lXzdnT3dqZTF6My1IbnZ4dU9GcjIxQjNESDdOSGoteDVYWGlJeW4yY08xWndVeUY2UUxEVnI0UHYzNjlTOVlJWFBoVm5FekpIVE1TdG9qaG9HWHJyWUJDOENVSnN4cHhVZWcxOUh2SHNmcExIQnNDT1huc2loWC1FeFpMQlFFTGhiRWd4akZHLUk1RmlxV29ZWWFabXpNUmdwczZxWnhtLUwxTHlWQk9NdnVpU0FRT3o3V0h5NW1VVmJfMUJ0NDl1SUdhZlVGRXV5NTg4X1lZ?oc=5",
+        "date": "2026-11-10",
+        "title": "Mayor Gillingham says Winnipeg construction industry must be prepared for development opportunities - CityNews Winnipeg",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUThEXzdHS25lXzdnT3dqZTF6My1IbnZ4dU9GcjIxQjNESDdOSGoteDVYWGlJeW4yY08xWndVeUY2UUxEVnI0UHYzNjlTOVlJWFBoVm5FekpIVE1TdG9qaG9HWHJyWUJDOENVSnN4cHhVZWcxOUh2SHNmcExIQnNDT1huc2loWC1FeFpMQlFFTGhiRWd4akZHLUk1RmlxV29ZWWFabXpNUmdwczZxWnhtLUwxTHlWQk9NdnVpU0FRT3o3V0h5NW1VVmJfMUJ0NDl1SUdhZlVGRXV5NTg4X1lZ?oc=5\" target=\"_blank\">Mayor Gillingham says Winnipeg construction industry must be prepared for development opportunities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CityNews Winnipeg</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMEd1ZWFOZW1KRU5yNk5hTE5IYnhRY203MlJGaXBIcVZJY05VSi1FemNrQXBEeU9taGFTeEYtNWhTcmUxUi1PNjdCVlRuX29vd2d5MTFLU0hYUThSS3ZURlhEblNvbXV2LU9lTHNuWHk2RzZBclk3eFRjeTN2NFVpUVZPcjVweFVEQmJDNDg3MnlUclBpWDl6elQyU2NtTndnRWVGNkQtM3Jpc3h6ZjBVUzVBU0JNcDYxc0RNNk15TTZMNkZLeDlQenZR?oc=5",
+        "date": "2026-11-10",
+        "title": "Why this 26-year-old Singapore founder thinks the building industry is spending too much to save energy - PEAK Singapore",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNMEd1ZWFOZW1KRU5yNk5hTE5IYnhRY203MlJGaXBIcVZJY05VSi1FemNrQXBEeU9taGFTeEYtNWhTcmUxUi1PNjdCVlRuX29vd2d5MTFLU0hYUThSS3ZURlhEblNvbXV2LU9lTHNuWHk2RzZBclk3eFRjeTN2NFVpUVZPcjVweFVEQmJDNDg3MnlUclBpWDl6elQyU2NtTndnRWVGNkQtM3Jpc3h6ZjBVUzVBU0JNcDYxc0RNNk15TTZMNkZLeDlQenZR?oc=5\" target=\"_blank\">Why this 26-year-old Singapore founder thinks the building industry is spending too much to save energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PEAK Singapore</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYXQwSEIyRFlwWWlVS0ItSTlISm1PNFlVT2s3cUtEWGlzYTdjdVNacllFamFaQ2g3ZTlUeUlNTGloamRRZ2JkT3pGajNRc1dNQWxPLWdJeU1tUUNYQXZ2UEFzSVlJU2lfN0pjMzl0NjVuVDVyMG5zSkpfcGhxaXlPQXZIZ2Jmc1FORVdlWkpDeE1JMm45V2g4UU1nakFBeG82Qlhfay1BbF91c2pEZGlR?oc=5",
+        "date": "2026-11-10",
+        "title": "Building Industry Royal Commission Hears Testimony from Crane Operator Glenn Tyrell - SSBCrack",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYXQwSEIyRFlwWWlVS0ItSTlISm1PNFlVT2s3cUtEWGlzYTdjdVNacllFamFaQ2g3ZTlUeUlNTGloamRRZ2JkT3pGajNRc1dNQWxPLWdJeU1tUUNYQXZ2UEFzSVlJU2lfN0pjMzl0NjVuVDVyMG5zSkpfcGhxaXlPQXZIZ2Jmc1FORVdlWkpDeE1JMm45V2g4UU1nakFBeG82Qlhfay1BbF91c2pEZGlR?oc=5\" target=\"_blank\">Building Industry Royal Commission Hears Testimony from Crane Operator Glenn Tyrell</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SSBCrack</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVkhHNkJEaWVBQXhaS3dWczBxbjBhalctbmtZSkVwYXlGNkNyMkFSZDR3dW5sNzVWa3ZqSjR0X3MtU21QQnBTV0ZjNzJGZEUtUjZ3MEVGd3FFSWxreEJ0eUlJN1BUaEZSSy1HdnU3U3laRGhMTWI3VzB1N2psOThpOTdCOE85Qy1NbUhmeXJsU3l0XzUxZEQyNUh1WjcydmJET3diM1JLUjFZaTE1U252dUdDZmFBdw?oc=5",
+        "date": "2026-11-10",
+        "title": "Navy Prepares Unrestricted SeaPort-NxG Competition for NUWC Newport Network Infrastructure - OrangeSlices AI",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOVkhHNkJEaWVBQXhaS3dWczBxbjBhalctbmtZSkVwYXlGNkNyMkFSZDR3dW5sNzVWa3ZqSjR0X3MtU21QQnBTV0ZjNzJGZEUtUjZ3MEVGd3FFSWxreEJ0eUlJN1BUaEZSSy1HdnU3U3laRGhMTWI3VzB1N2psOThpOTdCOE85Qy1NbUhmeXJsU3l0XzUxZEQyNUh1WjcydmJET3diM1JLUjFZaTE1U252dUdDZmFBdw?oc=5\" target=\"_blank\">Navy Prepares Unrestricted SeaPort-NxG Competition for NUWC Newport Network Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OrangeSlices AI</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPblhheVFCNDRCV0tndTUzWjJ4dy1XT0VHMVp6bWMtNWt5VjlSbGRBVDV1cUNaU2pQN2FQdEZJa3JVcE1YLXdkM3MtSjlzYlVQcElSdWtqbTlIMHFTNnNxNVZ1V2JwN1l1QURUSk9KRzhiS09aMG9pTHRRU2l6NUhKWDJKZmFrZUlHTjVZX2RmLTBTZkJfQXE5S0VpV3RnN0Vtd0VOOEQ3bEZZNnc?oc=5",
+        "date": "2026-11-10",
+        "title": "Russian cloud provider Beget rebuilds infrastructure after data-wiping attack - SC Media",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPblhheVFCNDRCV0tndTUzWjJ4dy1XT0VHMVp6bWMtNWt5VjlSbGRBVDV1cUNaU2pQN2FQdEZJa3JVcE1YLXdkM3MtSjlzYlVQcElSdWtqbTlIMHFTNnNxNVZ1V2JwN1l1QURUSk9KRzhiS09aMG9pTHRRU2l6NUhKWDJKZmFrZUlHTjVZX2RmLTBTZkJfQXE5S0VpV3RnN0Vtd0VOOEQ3bEZZNnc?oc=5\" target=\"_blank\">Russian cloud provider Beget rebuilds infrastructure after data-wiping attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SC Media</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG56aUNwUi1HUW1xUlhHb0ZvdkhMOEViNzUybGZUdENvSWV3OHNEVnNzOWVveGpVX1lBSUhUTF9KcEpkcDVYdFNiRFp5ZUdFYnhGbDM4QXlHXzB5YUg2SHpCclNnY2RKakFNcmpUbkhDN3RfUGdaRkxRV29VNWxxRWRmR3Z3MDN0aWZPeU01M0xJSTdmeVR6QVVwY3ZraDhVUGxDd0RURGlrQ3dLQ2VLbzcydm9nOEx4OHJfSFVZSEhXbEE?oc=5",
+        "date": "2026-11-10",
+        "title": "Steel Long Products Market Forecast 2026-2035: Construction Demand Supports Growth - News and Statistics - IndexBox",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG56aUNwUi1HUW1xUlhHb0ZvdkhMOEViNzUybGZUdENvSWV3OHNEVnNzOWVveGpVX1lBSUhUTF9KcEpkcDVYdFNiRFp5ZUdFYnhGbDM4QXlHXzB5YUg2SHpCclNnY2RKakFNcmpUbkhDN3RfUGdaRkxRV29VNWxxRWRmR3Z3MDN0aWZPeU01M0xJSTdmeVR6QVVwY3ZraDhVUGxDd0RURGlrQ3dLQ2VLbzcydm9nOEx4OHJfSFVZSEhXbEE?oc=5\" target=\"_blank\">Steel Long Products Market Forecast 2026-2035: Construction Demand Supports Growth - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZDR0RHdWT1VUZW9ucjZkbkw5QUlYclZfbHQ5V0dxWmpYMGlRLV9tbUd5b2xCRnFjNEZfQWZJR1ZsMGdBOXBybG9zWGFERXN0M29fQlcxVnU4SVk2YUxpckMtdlhreTNWRDZGcGhsYmlnanRqUUl2dDM2bkd2R044NWVheXhWNEJ0dUdBSHBqelhaOWFxcGxQODBn?oc=5",
+        "date": "2026-11-10",
+        "title": "Decades of Urban Expansion in Wuxi Reshaped Regional Climate Patterns - Bioengineer.org",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZDR0RHdWT1VUZW9ucjZkbkw5QUlYclZfbHQ5V0dxWmpYMGlRLV9tbUd5b2xCRnFjNEZfQWZJR1ZsMGdBOXBybG9zWGFERXN0M29fQlcxVnU4SVk2YUxpckMtdlhreTNWRDZGcGhsYmlnanRqUUl2dDM2bkd2R044NWVheXhWNEJ0dUdBSHBqelhaOWFxcGxQODBn?oc=5\" target=\"_blank\">Decades of Urban Expansion in Wuxi Reshaped Regional Climate Patterns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bioengineer.org</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNlRlX0xmeU5zQkFuMFljNzNSaV9EQkUzWUtSdndiQlR5UmsxLTNWVEJPNEtVZnd5TXNaVjdpdU9aRlFybnh3QnQwR1RTUFJUd21hRE9uc2Q5UjN5S1E4di1LN052by1nYkdpX2VjS1Y5T2p6TzluQklwWHExVzZidTFSTXBtQQ?oc=5",
+        "date": "2026-11-10",
+        "title": "Council Endorses Urban Release Areas Report - Mirage News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNlRlX0xmeU5zQkFuMFljNzNSaV9EQkUzWUtSdndiQlR5UmsxLTNWVEJPNEtVZnd5TXNaVjdpdU9aRlFybnh3QnQwR1RTUFJUd21hRE9uc2Q5UjN5S1E4di1LN052by1nYkdpX2VjS1Y5T2p6TzluQklwWHExVzZidTFSTXBtQQ?oc=5\" target=\"_blank\">Council Endorses Urban Release Areas Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mirage News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWHFJTF9pNTljSHNKOERaX0VJLS1EUG9wMU9mMi0tZnhOanJKdnBZMEZYS01EYnF2Z0kxWmY1TzhBMkdCTnFoTGtiZk5XZWlpdXNtTVJ4cThkbDJ4cjlVdkJtdVpac0hhOHBjUWdOYVJGU2tfRExjWlVhX0M2eEVJNWRRdVBFNXhTZmdCTFJfZEtKTWFfMnhZSlQ3d3hZdFpwMWs5dG5HTGFkZzV3aGFXVHVrZ09GNTBIRWtF?oc=5",
+        "date": "2026-11-10",
+        "title": "Cop Conference - UNFCCC to reveal next Accelerator City application round at COP31 - Smart Cities World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWHFJTF9pNTljSHNKOERaX0VJLS1EUG9wMU9mMi0tZnhOanJKdnBZMEZYS01EYnF2Z0kxWmY1TzhBMkdCTnFoTGtiZk5XZWlpdXNtTVJ4cThkbDJ4cjlVdkJtdVpac0hhOHBjUWdOYVJGU2tfRExjWlVhX0M2eEVJNWRRdVBFNXhTZmdCTFJfZEtKTWFfMnhZSlQ3d3hZdFpwMWs5dG5HTGFkZzV3aGFXVHVrZ09GNTBIRWtF?oc=5\" target=\"_blank\">Cop Conference - UNFCCC to reveal next Accelerator City application round at COP31</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1hxdWFFZ2NJeEMtRTZRNG45Z0lmTkFlOTNLOFk1Y20xTi1vVWJLcGpJdWd5dFJKN1ZpMTFxbFR0eDNESUVad1FlcUxxbUJ5YXZoeWc5b2xQczBUVGh1UzZRbVRpczJ2bVppc2FXVUZ1T211RHNvZmVPVmhtOTA4MnBZRlQ0VTdCTlpWXzRUaHFRSXhIOFZQYmw0Mm10aU1nT19aSQ?oc=5",
+        "date": "2026-11-10",
+        "title": "Cop Conference - Mayors set out their next year of climate action - Smart Cities World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1hxdWFFZ2NJeEMtRTZRNG45Z0lmTkFlOTNLOFk1Y20xTi1vVWJLcGpJdWd5dFJKN1ZpMTFxbFR0eDNESUVad1FlcUxxbUJ5YXZoeWc5b2xQczBUVGh1UzZRbVRpczJ2bVppc2FXVUZ1T211RHNvZmVPVmhtOTA4MnBZRlQ0VTdCTlpWXzRUaHFRSXhIOFZQYmw0Mm10aU1nT19aSQ?oc=5\" target=\"_blank\">Cop Conference - Mayors set out their next year of climate action</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRlhlcHNOdXZBWEVqdnhIcGhMNG5hNlVuSWRHWnZKZUNWRkQ2MnRPa2h5QVlwS1libjh5M2M3ak5nc01RblEtSWVYMWFFQVd3Q2VRZ0l0TEZIWXc1ckY2YUJEQ1UyOEJBSDBERzVDZjQ2ZTlMaHFGS21xaDFUMUFMYXFlbnRSUkYtNkpreUY2R284UWdnT3RoanE2cW5GcVRNMWVkQ3VHdWFLckE5bGs4MnFEdzRsWHRa?oc=5",
+        "date": "2026-11-10",
+        "title": "Dubai Future Foundation collaborates on autonomous logistics venture - Smart Cities World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRlhlcHNOdXZBWEVqdnhIcGhMNG5hNlVuSWRHWnZKZUNWRkQ2MnRPa2h5QVlwS1libjh5M2M3ak5nc01RblEtSWVYMWFFQVd3Q2VRZ0l0TEZIWXc1ckY2YUJEQ1UyOEJBSDBERzVDZjQ2ZTlMaHFGS21xaDFUMUFMYXFlbnRSUkYtNkpreUY2R284UWdnT3RoanE2cW5GcVRNMWVkQ3VHdWFLckE5bGs4MnFEdzRsWHRa?oc=5\" target=\"_blank\">Dubai Future Foundation collaborates on autonomous logistics venture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzFqQTFiMU1hNVdtYlNEUXJGTDdxeFAtaEtTbHdkdkt1VEFJbUVWWWQxZWdZSmU5eE5NRFVDdy1aWV9zTmZGZS1WQXdXcER3cFVRVURPREpqbnkwOXhOYkRpSS03bVl6dVJ1TzFrUVBFVjZhQXp0alE5VkcyQW9fM2sxd2VxS2hNYm1UckY4ZXF2ZUF3VFcwYzZ2bFVPWEM0VldqNmhnejRNVDJIc1ZRQ0Rhc3FhNTdULVE?oc=5",
+        "date": "2026-11-10",
+        "title": "UK port to deploy autonomous electric shuttle - Smart Cities World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxONzFqQTFiMU1hNVdtYlNEUXJGTDdxeFAtaEtTbHdkdkt1VEFJbUVWWWQxZWdZSmU5eE5NRFVDdy1aWV9zTmZGZS1WQXdXcER3cFVRVURPREpqbnkwOXhOYkRpSS03bVl6dVJ1TzFrUVBFVjZhQXp0alE5VkcyQW9fM2sxd2VxS2hNYm1UckY4ZXF2ZUF3VFcwYzZ2bFVPWEM0VldqNmhnejRNVDJIc1ZRQ0Rhc3FhNTdULVE?oc=5\" target=\"_blank\">UK port to deploy autonomous electric shuttle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Smart Cities World</font>",
+        "similarity_excluded": "No",
+        "score": 6,
         "status": "processed",
         "tweet": null
     }
