@@ -814,5 +814,13 @@
         "status": "posted",
         "tweet": "NEWS: Georgia ports back auto industry growth with $5B infrastructure plan.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-11-11",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China high-speed rail network reaches 50,000 km in 2026, carrying 4 billion passengers per year.",
+        "type": "statistical",
+        "category": "transportation"
     }
 ]
