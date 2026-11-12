@@ -822,5 +822,13 @@
         "tweet": "\ud83c\udde8\ud83c\uddf3 China high-speed rail network reaches 50,000 km in 2026, carrying 4 billion passengers per year.",
         "type": "statistical",
         "category": "transportation"
+    },
+    {
+        "link": null,
+        "date": "2026-11-12",
+        "status": "posted",
+        "tweet": "By 2026 \ud83c\udde8\ud83c\uddf3 China adds 4,200 km of high-speed rail.\n\ud83c\uddfa\ud83c\uddf8 US adds 180 km.",
+        "type": "statistical",
+        "category": "engineering projects"
     }
 ]
