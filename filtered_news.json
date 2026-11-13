@@ -1,72 +1,5 @@
 [
     {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRERlSmdmZHFkWHgxWFZYd24tUlFfZk0zUkQ4em93N3BRWTRBN2hmN0tmN2xoU3RBcHZUMm9tTXUzSWN1eWhkQVN1elNtVTEwTk5aZDVMMkc0enA1MUxKTWN5ZEZMWndNallJaFM5Rk9ZWERkUFhlazBnOTBPTmszYzRJWWxRU0FUR0hUQ2wwbjh0VGFKcktXUEhfUWJGcTJJbU5aTUJnN2NDSVlhQmx0aHl6SzRDUFFtNldsQUdJd2c?oc=5",
-        "date": "2026-11-03",
-        "title": "Mayor Jones speaks on data center oversight, local infrastructure, and BAMC resolution - WOAI",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRERlSmdmZHFkWHgxWFZYd24tUlFfZk0zUkQ4em93N3BRWTRBN2hmN0tmN2xoU3RBcHZUMm9tTXUzSWN1eWhkQVN1elNtVTEwTk5aZDVMMkc0enA1MUxKTWN5ZEZMWndNallJaFM5Rk9ZWERkUFhlazBnOTBPTmszYzRJWWxRU0FUR0hUQ2wwbjh0VGFKcktXUEhfUWJGcTJJbU5aTUJnN2NDSVlhQmx0aHl6SzRDUFFtNldsQUdJd2c?oc=5\" target=\"_blank\">Mayor Jones speaks on data center oversight, local infrastructure, and BAMC resolution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOAI</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUm5TWHVGOG8wS0hNRkJFYUVYMS1EeC1KSTZRV2NFMFJuRVNIUnVMLWM4aEdjZ2hudDJhb0xqd3M3YzhaanBZN21xT1lRaTdlSnpCdVl1Wk1xQkJqSDlPTVdaNHcyMGU3LW9uZDVSeUYwVnY3RnF4eXYtejE4OHZsVUtNd2UyRW5oQkhxWTl6QXdoLWF2dUZNRnBramlLcTkzR0w2ZWJYQmxpUHVlTFJ1WGV6M3RXSEUwTTNEaXFZOGVCVFRweS1mS0VR?oc=5",
-        "date": "2026-11-03",
-        "title": "Groveland advances nearly $27M in water, sewer funding to prevent future outages - WKMG",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNUm5TWHVGOG8wS0hNRkJFYUVYMS1EeC1KSTZRV2NFMFJuRVNIUnVMLWM4aEdjZ2hudDJhb0xqd3M3YzhaanBZN21xT1lRaTdlSnpCdVl1Wk1xQkJqSDlPTVdaNHcyMGU3LW9uZDVSeUYwVnY3RnF4eXYtejE4OHZsVUtNd2UyRW5oQkhxWTl6QXdoLWF2dUZNRnBramlLcTkzR0w2ZWJYQmxpUHVlTFJ1WGV6M3RXSEUwTTNEaXFZOGVCVFRweS1mS0VR?oc=5\" target=\"_blank\">Groveland advances nearly $27M in water, sewer funding to prevent future outages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMG</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd2Y3OUVLbFZ0MVpGSURReWNjNEd6bE9tU2dac3QyOVVmSzY1aC1aMVdIOVdyV2NzTTNPWVpnWm05MGhiSExIZ3RqWXhEenJVa2ktbUJUMktOR1N0Rk1vaDhBenFQMWh4NG5pV2gxQWhNY3FLWGJHRW9hMEk5NG1yNng3aFdxMmlla2FObHBITldwNExPZEYtYV9DdWZNeDg?oc=5",
-        "date": "2026-11-03",
-        "title": "Why Keel Infrastructure Stock Got Mashed on Monday - Yahoo Finance",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQd2Y3OUVLbFZ0MVpGSURReWNjNEd6bE9tU2dac3QyOVVmSzY1aC1aMVdIOVdyV2NzTTNPWVpnWm05MGhiSExIZ3RqWXhEenJVa2ktbUJUMktOR1N0Rk1vaDhBenFQMWh4NG5pV2gxQWhNY3FLWGJHRW9hMEk5NG1yNng3aFdxMmlla2FObHBITldwNExPZEYtYV9DdWZNeDg?oc=5\" target=\"_blank\">Why Keel Infrastructure Stock Got Mashed on Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXVVYjNNdExLQTE4NDE3MC1Xd01QYUctbUVPNUJWaEZXRjFqcGRxNUpiMXd6ZHJxZVRvQS1vbkp0dGFWcDB5dzFkRWtaT3doM0ZoSlhRQ1FmMFFId1BpdEVYdEVLc21PZ3REV193TnZRSFNGQk5PNXNKdDV3Zk9lSVlyZFZfbWdIVGp3TldtbXhrYVY2VkF4OVZFalRDRk9DY1RhaXpqWmU2Qjdqdk56b2trNlJCRHNtZHpjSDM2SHk4U2kzWXFfcDN0dUJWWmZP?oc=5",
-        "date": "2026-11-03",
-        "title": "Why Keel Infrastructure Stock Got Mashed on Monday - The Globe and Mail",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXVVYjNNdExLQTE4NDE3MC1Xd01QYUctbUVPNUJWaEZXRjFqcGRxNUpiMXd6ZHJxZVRvQS1vbkp0dGFWcDB5dzFkRWtaT3doM0ZoSlhRQ1FmMFFId1BpdEVYdEVLc21PZ3REV193TnZRSFNGQk5PNXNKdDV3Zk9lSVlyZFZfbWdIVGp3TldtbXhrYVY2VkF4OVZFalRDRk9DY1RhaXpqWmU2Qjdqdk56b2trNlJCRHNtZHpjSDM2SHk4U2kzWXFfcDN0dUJWWmZP?oc=5\" target=\"_blank\">Why Keel Infrastructure Stock Got Mashed on Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2liTlctU2wyRkVILXlETXlsd3JMc05fUFFsMEE0VWYzOUV0LVByZUVMTTJJbXZ1ZkhkTnV4Xy05X1FNTmd3LUFmRDE1MVROSkhQSi1HNmp1dUdhU0JOV3dDMlVhc0lveVE1R2hyX2duc29NeDA5VkxXclZWZFozQWRmRUJ5RlpRS19HMW5RSmdRLTJleE82RzlZR24zVjBSaGc5U2Rn?oc=5",
-        "date": "2026-11-03",
-        "title": "Burgeoning African Cities Have a Planning Problem - Bloomberg.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2liTlctU2wyRkVILXlETXlsd3JMc05fUFFsMEE0VWYzOUV0LVByZUVMTTJJbXZ1ZkhkTnV4Xy05X1FNTmd3LUFmRDE1MVROSkhQSi1HNmp1dUdhU0JOV3dDMlVhc0lveVE1R2hyX2duc29NeDA5VkxXclZWZFozQWRmRUJ5RlpRS19HMW5RSmdRLTJleE82RzlZR24zVjBSaGc5U2Rn?oc=5\" target=\"_blank\">Burgeoning African Cities Have a Planning Problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU3VyZUlzNld5am9HSWRONkpzOWc2RERmanpneV9GcGZzbHk0WG9acWZ4NDBtd2YwWG5WTmdBbVRVMUZmWnJOa2ZISTItckdic3JjQl9tLTYzczRDV09FNGcxajN5eEdGQzR4MUpsWXdjMlZlVFJ0OExpOFdNWFE2OFBBNjBzV3kzaUlaeHlVeTU?oc=5",
-        "date": "2026-11-03",
-        "title": "Israel: Tel Aviv plans to redevelop its historic city center. - Vietnam.vn",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOU3VyZUlzNld5am9HSWRONkpzOWc2RERmanpneV9GcGZzbHk0WG9acWZ4NDBtd2YwWG5WTmdBbVRVMUZmWnJOa2ZISTItckdic3JjQl9tLTYzczRDV09FNGcxajN5eEdGQzR4MUpsWXdjMlZlVFJ0OExpOFdNWFE2OFBBNjBzV3kzaUlaeHlVeTU?oc=5\" target=\"_blank\">Israel: Tel Aviv plans to redevelop its historic city center.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-11-03",
-        "status": "posted",
-        "tweet": "Blockchain electricity costs trend 2020-2026 ($B/yr):\n1. Bitcoin: 4.8 to 14.2\n2. Ethereum: 1.9 to 0.05\n3. Solana: 0.02 to 0.11",
-        "type": "crypto"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTmRpZXdaa2VvUG5Gd3Y1LUlhZGJaRTN2MjNoTVZNUFFwMGxkOHZyVDZyT2s2WjN6WXR2QVdGbTA1ZWYzZWdoSDNmaF9CakwzT2w5X1NWTUI1WUxzZHEtU0ticGlVWWdDeVdkbzl0NUVia2tuVVRqR251ZzZqZExrZnVzSm5rM3BjZU5CYnNNVzAyOV95a3c?oc=5",
         "date": "2026-11-04",
         "title": "Investors wary of defence infrastructure challenges - Infrastructure Investor",
@@ -830,5 +763,65 @@
         "tweet": "By 2026 \ud83c\udde8\ud83c\uddf3 China adds 4,200 km of high-speed rail.\n\ud83c\uddfa\ud83c\uddf8 US adds 180 km.",
         "type": "statistical",
         "category": "engineering projects"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWnEzZ0RaOG96S2ppWW1zOHRkcHNSazZPQm5EZm8wYWxKcTNkWW5vU0xNQ3ZDRUIzMmctem9maW5tUFRXYUktNEVDSkd4TXZXdVpOa2JZMmZlM2IyZnI5X0FvOFhQLXhBMlV4WVVOdGM4UVZ3WVBlYVNmeEZwQkRod2VWTEtnVjRJZUxsUThHZHlGTjYxWWdwU1RmSnQ0RzNiYlhhSUltcl9zNy1v?oc=5",
+        "date": "2026-11-13",
+        "title": "Builder fined $150k after mother and baby injured in wall fall - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQWnEzZ0RaOG96S2ppWW1zOHRkcHNSazZPQm5EZm8wYWxKcTNkWW5vU0xNQ3ZDRUIzMmctem9maW5tUFRXYUktNEVDSkd4TXZXdVpOa2JZMmZlM2IyZnI5X0FvOFhQLXhBMlV4WVVOdGM4UVZ3WVBlYVNmeEZwQkRod2VWTEtnVjRJZUxsUThHZHlGTjYxWWdwU1RmSnQ0RzNiYlhhSUltcl9zNy1v?oc=5\" target=\"_blank\">Builder fined $150k after mother and baby injured in wall fall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News & Headlines \u2013 Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMGdHRHc1a2pSeVdvNUxxN3dKTm5CV3lQZUF6d2lNc2hPM2JxckVqMEc3N2taSDkwTUJxNGQyVkxnRVRaRzVPVjdPOFcyc2tsR0kyeDduakV1amQ2cjc3Wnp6ekFfZGNTVW16MGpCY0ZIc28yT2NPNnQxZ0FNZXc4T2tCRW9rNS1RSmNjbkNxb2plc1M2NXNLdVQ3dHRlNVdDdkZPRlA5U1BNaHYyaEVsRkF1VFBfaVRtVnFRbHM0OVVBN3pGcERzU0JKUHNsdFVEU3FRNWl3ZEliaXlrZnc?oc=5",
+        "date": "2026-11-13",
+        "title": "Cisco beats expectations, lifts guidance and forecasts AI infrastructure revenue to double in fiscal 2027 - SiliconANGLE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMGdHRHc1a2pSeVdvNUxxN3dKTm5CV3lQZUF6d2lNc2hPM2JxckVqMEc3N2taSDkwTUJxNGQyVkxnRVRaRzVPVjdPOFcyc2tsR0kyeDduakV1amQ2cjc3Wnp6ekFfZGNTVW16MGpCY0ZIc28yT2NPNnQxZ0FNZXc4T2tCRW9rNS1RSmNjbkNxb2plc1M2NXNLdVQ3dHRlNVdDdkZPRlA5U1BNaHYyaEVsRkF1VFBfaVRtVnFRbHM0OVVBN3pGcERzU0JKUHNsdFVEU3FRNWl3ZEliaXlrZnc?oc=5\" target=\"_blank\">Cisco beats expectations, lifts guidance and forecasts AI infrastructure revenue to double in fiscal 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc0piUzBhSjQ0R0NZa3dUYk1mb0RmcGxSWFVkUlhJbFlpSkJPRXc1bjN3S3NDZ2puN0JRanBLR21ES2xXUkdLS3dXNFFaMHlQZUI5dmI3NnhidDJheGRhZklHeHI1dDlvY19sMEdyYV81WDRQQWF6c0VpNVc3enFDS1BTbGR4V3dINms2dEhOc1dFRFVPSWxRaQ?oc=5",
+        "date": "2026-11-13",
+        "title": "Northwest Arkansas faces big infrastructure needs; \u2018We\u2019re going to have to look at toll roads,\u2019 regional council told - Northwest Arkansas Democrat-Gazette",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPc0piUzBhSjQ0R0NZa3dUYk1mb0RmcGxSWFVkUlhJbFlpSkJPRXc1bjN3S3NDZ2puN0JRanBLR21ES2xXUkdLS3dXNFFaMHlQZUI5dmI3NnhidDJheGRhZklHeHI1dDlvY19sMEdyYV81WDRQQWF6c0VpNVc3enFDS1BTbGR4V3dINms2dEhOc1dFRFVPSWxRaQ?oc=5\" target=\"_blank\">Northwest Arkansas faces big infrastructure needs; \u2018We\u2019re going to have to look at toll roads,\u2019 regional council told</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northwest Arkansas Democrat-Gazette</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObk5QMTQ0TEZuWWFHQ2lvazVpSG1kVlUwOHlPUzRTLXhJY01HbDRkS1ZObXJGZ1ptS2VmNnNFai1qaHR5d3Z4UTQyY2U0bDR6YjNSQ3BpZVNrRGRvcW81MDNfel9FV0hndUp1ZXlDMFVoSFlyRXZVVDRVZC1NOE9NQmRyTGFycjJ6dS0wV1dHQTB5Q0Z5RWsyNkZOUzYtczYzVkVPR2o2WWU3YnVqcHlNQVN4dTZXN3N5eGRyY1ZFdnBzQWVzUFQycGRVWTlPQXJRMlFrdnNxaTJ1em9iTThhTTNGOFZRRXBB?oc=5",
+        "date": "2026-11-13",
+        "title": "Harris County commissioners to continue debate on equitable distribution of roadway, infrastructure funds - Community Impact Newspaper",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxObk5QMTQ0TEZuWWFHQ2lvazVpSG1kVlUwOHlPUzRTLXhJY01HbDRkS1ZObXJGZ1ptS2VmNnNFai1qaHR5d3Z4UTQyY2U0bDR6YjNSQ3BpZVNrRGRvcW81MDNfel9FV0hndUp1ZXlDMFVoSFlyRXZVVDRVZC1NOE9NQmRyTGFycjJ6dS0wV1dHQTB5Q0Z5RWsyNkZOUzYtczYzVkVPR2o2WWU3YnVqcHlNQVN4dTZXN3N5eGRyY1ZFdnBzQWVzUFQycGRVWTlPQXJRMlFrdnNxaTJ1em9iTThhTTNGOFZRRXBB?oc=5\" target=\"_blank\">Harris County commissioners to continue debate on equitable distribution of roadway, infrastructure funds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Community Impact Newspaper</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1ZlSFBUaWZLcTNQY2o0TUQxWUhaU1N0WjdBTTRtV1FTZUxINlFUVjI1a241cDBrQzlWdDh0aG8zMWVrU19TdUJEMkFQSV9iUDFaZTI2QVJrWlFkdENrUjhCdVkzU3VDMkYya2V3RnBVMTAyc1JQREtDWFFGUXBWSUlJaExhZ2dkMTRWZkYtWi1QNjJacmcyU3BfLUpJSm9CdmtxV2lQc1FXNU9vT3Y5cNIBtgFBVV95cUxQRkJZZlhlYjNYTzZ1c1RvYlRlTWxGU2tIUGhWMHVmN0h6TldGdWwtNGFfWGx3NmlGUUtBM3pYU3hKZjN0dnQ3am82bEd4cW5tUzJQUmdhU29NTmtQV0tXN01tdWRMSlJnX01FeHllYUt6RnV5dkZkeWRGXzVFeE82bGpwdkw5NkdzSWxsM1JvRFFDWXVvQWZtcmY2cm5JVDFpaHFwVnVZVWdaVmhpWE8tQVZRTlNxQQ?oc=5",
+        "date": "2026-11-13",
+        "title": "Escudero: Housing bill discussions moving forward, no backlogs recorded - Cebu Daily News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1ZlSFBUaWZLcTNQY2o0TUQxWUhaU1N0WjdBTTRtV1FTZUxINlFUVjI1a241cDBrQzlWdDh0aG8zMWVrU19TdUJEMkFQSV9iUDFaZTI2QVJrWlFkdENrUjhCdVkzU3VDMkYya2V3RnBVMTAyc1JQREtDWFFGUXBWSUlJaExhZ2dkMTRWZkYtWi1QNjJacmcyU3BfLUpJSm9CdmtxV2lQc1FXNU9vT3Y5cNIBtgFBVV95cUxQRkJZZlhlYjNYTzZ1c1RvYlRlTWxGU2tIUGhWMHVmN0h6TldGdWwtNGFfWGx3NmlGUUtBM3pYU3hKZjN0dnQ3am82bEd4cW5tUzJQUmdhU29NTmtQV0tXN01tdWRMSlJnX01FeHllYUt6RnV5dkZkeWRGXzVFeE82bGpwdkw5NkdzSWxsM1JvRFFDWXVvQWZtcmY2cm5JVDFpaHFwVnVZVWdaVmhpWE8tQVZRTlNxQQ?oc=5\" target=\"_blank\">Escudero: Housing bill discussions moving forward, no backlogs recorded</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cebu Daily News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ENVFkNnZubjlUOGtYdFJCbGpvQWV5dVZDazFJdTJ0UW9Nc2U4OFpRQlp4YWZ0MF9iZ0R5WVZlT1pScHBSTWdmVktMVWllSEtmc2pQUE5vN2t4V2dxbG92bXdDalI?oc=5",
+        "date": "2026-11-13",
+        "title": "[Contributed Article] \"NOVA Future City\" Opens the Way to a New Future for Southwestern Jeonnam-Gwangju - \uc544\uc2dc\uc544\uacbd\uc81c",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ENVFkNnZubjlUOGtYdFJCbGpvQWV5dVZDazFJdTJ0UW9Nc2U4OFpRQlp4YWZ0MF9iZ0R5WVZlT1pScHBSTWdmVktMVWllSEtmc2pQUE5vN2t4V2dxbG92bXdDalI?oc=5\" target=\"_blank\">[Contributed Article] \"NOVA Future City\" Opens the Way to a New Future for Southwestern Jeonnam-Gwangju</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\uc544\uc2dc\uc544\uacbd\uc81c</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
