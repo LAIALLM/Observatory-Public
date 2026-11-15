@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-11-05",
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 China urban development firms project $380 billion annual investment in high-density green infrastructure by 2030.",
-        "type": "statistical",
-        "category": "urban development firms"
-    },
-    {
-        "link": null,
-        "date": "2026-11-05",
-        "status": "posted",
-        "tweet": "Node distribution concentration 2026\n\n1. Solana 55% nodes \ud83c\uddfa\ud83c\uddf8 US\n2. Ethereum 38% nodes \ud83c\uddfa\ud83c\uddf8 US\n3. Bitcoin 32% nodes \ud83c\udde9\ud83c\uddea Germany",
-        "type": "crypto"
-    },
-    {
-        "link": null,
         "date": "2026-11-06",
         "status": "posted",
         "tweet": "Meta data centers processed 9.3 exabytes daily in 2025.\n$META",
@@ -580,5 +565,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-11-15",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China reaches 980 million urban residents in 2026. \n\ud83c\uddee\ud83c\uddf3 India reaches 550 million, a 430 million gap.",
+        "type": "statistical",
+        "category": "urban development"
     }
 ]
