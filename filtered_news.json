@@ -1,21 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-11-06",
-        "status": "posted",
-        "tweet": "Meta data centers processed 9.3 exabytes daily in 2025.\n$META",
-        "type": "infrastructure"
-    },
-    {
-        "link": null,
-        "date": "2026-11-06",
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 high-speed rail reaches 50,000 km by 2027, moving 4.5 billion passengers annually and cutting 200 million tons of transport emissions.",
-        "type": "statistical",
-        "category": "engineering projects"
-    },
-    {
-        "link": null,
         "date": "2026-11-08",
         "status": "posted",
         "tweet": "In 2026, 4.8 billion people live in cities globally, with \ud83c\udde8\ud83c\uddf3 China and \ud83c\uddee\ud83c\uddf3 India accounting for 1.7 billion.",
@@ -573,5 +558,13 @@
         "tweet": "\ud83c\udde8\ud83c\uddf3 China reaches 980 million urban residents in 2026. \n\ud83c\uddee\ud83c\uddf3 India reaches 550 million, a 430 million gap.",
         "type": "statistical",
         "category": "urban development"
+    },
+    {
+        "link": null,
+        "date": "2026-11-16",
+        "status": "posted",
+        "tweet": "2026 projections\n\ud83c\udde8\ud83c\uddf3 China renewables: 4,500 TWh\nCoal: 4,000 TWh",
+        "type": "statistical",
+        "category": "energy"
     }
 ]
