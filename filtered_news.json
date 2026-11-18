@@ -1,153 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-11-08",
-        "status": "posted",
-        "tweet": "In 2026, 4.8 billion people live in cities globally, with \ud83c\udde8\ud83c\uddf3 China and \ud83c\uddee\ud83c\uddf3 India accounting for 1.7 billion.",
-        "type": "statistical",
-        "category": "urban development"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeE1rcUl4X2VCVTBLVUhFaE9VUktja19GMHBsSk5yanVTaEdIVEVMR3J1aE1nYkZuNWRVQjRmeUdNQ3FTTVZzTzN2NDlNNENnUmNIdFpTU3Y3NkM1N3Rfenp1UjFNOHoxbEppSWk3SUFpZngzM1RhQ2JsY3hjRUZ1NXJRbFhhQkpKemRUUDNn?oc=5",
-        "date": "2026-11-08",
-        "title": "NetApp & PEAK: Building Secure, Scalable AI Infrastructure - Cyber Magazine",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQeE1rcUl4X2VCVTBLVUhFaE9VUktja19GMHBsSk5yanVTaEdIVEVMR3J1aE1nYkZuNWRVQjRmeUdNQ3FTTVZzTzN2NDlNNENnUmNIdFpTU3Y3NkM1N3Rfenp1UjFNOHoxbEppSWk3SUFpZngzM1RhQ2JsY3hjRUZ1NXJRbFhhQkpKemRUUDNn?oc=5\" target=\"_blank\">NetApp & PEAK: Building Secure, Scalable AI Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cyber Magazine</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcms4RGZJUW41Z3k0a0o0aHdnRnVrc3JRbFgycElNOGhwM1lBWVk0Y3dWcWVFbXZnOWh4TWlSQUNkS0ZZYUY3TkR4WjhmUkhWSjVqSFpyVnJvWng2NW5rLWV6WEFPb0w5UVY3VE9PVGk2WjhYVFJ1WkJYWmNUQ2hEX09fX2pobHZMTjU2Tm5nRzg?oc=5",
-        "date": "2026-11-08",
-        "title": "Russian attack on Ukraine's Odesa kills one, damages infrastructure - Latest news from Azerbaijan",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQcms4RGZJUW41Z3k0a0o0aHdnRnVrc3JRbFgycElNOGhwM1lBWVk0Y3dWcWVFbXZnOWh4TWlSQUNkS0ZZYUY3TkR4WjhmUkhWSjVqSFpyVnJvWng2NW5rLWV6WEFPb0w5UVY3VE9PVGk2WjhYVFJ1WkJYWmNUQ2hEX09fX2pobHZMTjU2Tm5nRzg?oc=5\" target=\"_blank\">Russian attack on Ukraine's Odesa kills one, damages infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Latest news from Azerbaijan</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2RDVVhMaE9DekpqdzUzNHo5T09NcUZSWlV4bmRJSGhpQVBCbjhad1F0c1QtMURWM1FEdndWZkFrak9WdS03aHh5cHVJX0JSWkUyWU1mdVJrMXBITk54Njl6WDdRbHQydUh3amtDZGE4VWZCcVZUNURxTUl4VWRHdnNqOA?oc=5",
-        "date": "2026-11-08",
-        "title": "Ho Chi Minh City promotes the development of social housing and rental housing. - Vietnam.vn",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2RDVVhMaE9DekpqdzUzNHo5T09NcUZSWlV4bmRJSGhpQVBCbjhad1F0c1QtMURWM1FEdndWZkFrak9WdS03aHh5cHVJX0JSWkUyWU1mdVJrMXBITk54Njl6WDdRbHQydUh3amtDZGE4VWZCcVZUNURxTUl4VWRHdnNqOA?oc=5\" target=\"_blank\">Ho Chi Minh City promotes the development of social housing and rental housing.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUR1T3h3b0NMMEl3UmloNkdvYUlUOXlFVllMTFNBV2dXU2oxbUctTGdWVlFjdGFlT0VOcjB2cTJCMElOTXdzS1czSG9ieEppVEZNa1BGQmFSclM2SzEwLU1YcG0xbk5YLXlveVhld2RvTDd3RkQ0ekN6WW5IamVYSWpUUnNOclF6SGg2Zlk1bnRHcXFSZzhhd0JHenIyR2p0dDd4Z3V5blRHZw?oc=5",
-        "date": "2026-11-08",
-        "title": "Overhaul KL drainage to tackle flash floods \u2014 Lee Lam Thye - KLSE Screener",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUR1T3h3b0NMMEl3UmloNkdvYUlUOXlFVllMTFNBV2dXU2oxbUctTGdWVlFjdGFlT0VOcjB2cTJCMElOTXdzS1czSG9ieEppVEZNa1BGQmFSclM2SzEwLU1YcG0xbk5YLXlveVhld2RvTDd3RkQ0ekN6WW5IamVYSWpUUnNOclF6SGg2Zlk1bnRHcXFSZzhhd0JHenIyR2p0dDd4Z3V5blRHZw?oc=5\" target=\"_blank\">Overhaul KL drainage to tackle flash floods \u2014 Lee Lam Thye</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KLSE Screener</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3V4QzBuX1dFVTZqWUZRVGkzYk83U1dPdlRiUExoTGszUEpDRnp0UzZQVUJySHZOZzk2U1dMemtIRVktLUNZNUpUakJHYW5vNk1pQTlHdVVJQlJMVnQ3T2ZFSENfSFkzOWVGeTM4ZDdqVEM2bHJPTGoySUktVDVGcXF3YzJseE1vZ2x5YUtRRS0zNEQzUGpmQWN3VUtMSHVRMUF5MFVtcGNLd3FrWUE?oc=5",
-        "date": "2026-11-08",
-        "title": "School infrastructure funding could deliver a $7bn GDP boost - The Educator",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3V4QzBuX1dFVTZqWUZRVGkzYk83U1dPdlRiUExoTGszUEpDRnp0UzZQVUJySHZOZzk2U1dMemtIRVktLUNZNUpUakJHYW5vNk1pQTlHdVVJQlJMVnQ3T2ZFSENfSFkzOWVGeTM4ZDdqVEM2bHJPTGoySUktVDVGcXF3YzJseE1vZ2x5YUtRRS0zNEQzUGpmQWN3VUtMSHVRMUF5MFVtcGNLd3FrWUE?oc=5\" target=\"_blank\">School infrastructure funding could deliver a $7bn GDP boost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Educator</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVHlMb1ZCZmpRbVhKYXRJUXNhSDNtWXZZOFUxX1dwMFZjc3hPR3liQTk4Tm5BRlcxZWZwMDExZHRMNFBzTnhScnVBN3FVQnhNM0xxd1dpZWVjZVZvc0pEY3pVbktEWjMwREZQWkJyTG5sXzFlaVMweXRnT0hCanlSUGFPbTNxWDh3S2tZZEQ5V2tpREFHNzVXOGVkLW5HeFNoVGdfVXl3bTkyWGI0LUtqbm0tbzNJaU0tUndSUlV0TmZrYVNhdTRmdFR3?oc=5",
-        "date": "2026-11-08",
-        "title": "Dentons Appoints Tricia Brauer As Real Estate Partner To Expand Infrastructure And Energy Project Capabilities - Pulse 2.0",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPVHlMb1ZCZmpRbVhKYXRJUXNhSDNtWXZZOFUxX1dwMFZjc3hPR3liQTk4Tm5BRlcxZWZwMDExZHRMNFBzTnhScnVBN3FVQnhNM0xxd1dpZWVjZVZvc0pEY3pVbktEWjMwREZQWkJyTG5sXzFlaVMweXRnT0hCanlSUGFPbTNxWDh3S2tZZEQ5V2tpREFHNzVXOGVkLW5HeFNoVGdfVXl3bTkyWGI0LUtqbm0tbzNJaU0tUndSUlV0TmZrYVNhdTRmdFR3?oc=5\" target=\"_blank\">Dentons Appoints Tricia Brauer As Real Estate Partner To Expand Infrastructure And Energy Project Capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQWNRbDNBWVZWNmtRdmNDRzhBNWdFeG8xMnZsQUlNYjY0Mk5ESWpLZmJzV2hkTTlsRWlKcFFZZzgtNUpsUXJzRjU2bnQ0T0lKSkhManEwZUw5Q3lPSlQ5c1lmeG5YcHU0OWpyTVlsNXg1cUJ2OUVGMmZtdHdkNWJGd0piZURqSWxVTDVILXpiVQ?oc=5",
-        "date": "2026-11-08",
-        "title": "Vancouver Planning: Looking Forward With 50 Years of Hindsight - CityHallWatch",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQQWNRbDNBWVZWNmtRdmNDRzhBNWdFeG8xMnZsQUlNYjY0Mk5ESWpLZmJzV2hkTTlsRWlKcFFZZzgtNUpsUXJzRjU2bnQ0T0lKSkhManEwZUw5Q3lPSlQ5c1lmeG5YcHU0OWpyTVlsNXg1cUJ2OUVGMmZtdHdkNWJGd0piZURqSWxVTDVILXpiVQ?oc=5\" target=\"_blank\">Vancouver Planning: Looking Forward With 50 Years of Hindsight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CityHallWatch</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2g1SUExY09nV3R1d25HV05iMzkxR3JJaWlkZ2pJUTlYM3kzLTBiQVN2aHZUQTROU3oxeTF1OEhsWEpSZ1RjSEUybGpfMHVCTWJpODljVEhIWlZDTUVxUWFuVGFRYkEtRWhpa0sxc2Etb0g2aEowTGJJMXV3UERRNlR0MzlSVUdsbGVMLUpUcEVrNERfNFZoSTh6ZXhQZGZVUHQtWG9Jczg?oc=5",
-        "date": "2026-11-08",
-        "title": "Ha Noi reorganises urban space and strengthen regional connectivity - Nhan Dan Online",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2g1SUExY09nV3R1d25HV05iMzkxR3JJaWlkZ2pJUTlYM3kzLTBiQVN2aHZUQTROU3oxeTF1OEhsWEpSZ1RjSEUybGpfMHVCTWJpODljVEhIWlZDTUVxUWFuVGFRYkEtRWhpa0sxc2Etb0g2aEowTGJJMXV3UERRNlR0MzlSVUdsbGVMLUpUcEVrNERfNFZoSTh6ZXhQZGZVUHQtWG9Jczg?oc=5\" target=\"_blank\">Ha Noi reorganises urban space and strengthen regional connectivity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nhan Dan Online</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUlBSbXlJb2czUTJSN0ZoQmdOZkhfM0xadldJX0JBMDBQMEdoM1RWU2lkcG0wOURKSlF0SmE2ZEpRYjBfcEVvV3N2WjJuUmZGRG9tSjhxUHlESTdnb2RKeHA2Wkx5NXhYZmJuSkVuX2Z2MEs5NG9EZ0ZHYklCWG50eWxpQXNiVWRBa2lGQi1HN2V3eDBPQU5yN2NUN3MyLUtyZzFGSmVfNzE5Rkx3WmFZUWZPd2ZkZE1pOURpYS1TczgwWnpDNTN6Z0FUSkkzWGp0LXRJalVjYk9BanR5aFFHY05BX3FZWXBB0gHuAUFVX3lxTFBUZ2JwWmQyd2oxVGlTOU1QNU5lNTRFMVVmY1dpUGp0T3gtN2pqOVd5UTBWNkNmd0ZLekE0a0RTS3R1N0VEcUR4Y0FTQjQ5Y1BjRjN5QzdYWlhUbWx6NU1raWpQUXBtSzBaaWhZUGUwYzRlLWhzYUdkZFRxY0pSWWJLUGM5U3Q5MmlrSGlkTktLSVluTE9wUTRaMV9wR0xrMlRYVzVoOVppUEVpYzJTNF9Nd2hoZjYyc2cxMk9rY1J3TTBMUHoySFo3UFJNYjFUM1ZfTnRRRHRHX1poUElmTDlsNUVYNFR4Y1pFZVFnUUE?oc=5",
-        "date": "2026-11-08",
-        "title": "CM to review Bangalore Development Authority projects; regularisation fee cut - The Times of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUlBSbXlJb2czUTJSN0ZoQmdOZkhfM0xadldJX0JBMDBQMEdoM1RWU2lkcG0wOURKSlF0SmE2ZEpRYjBfcEVvV3N2WjJuUmZGRG9tSjhxUHlESTdnb2RKeHA2Wkx5NXhYZmJuSkVuX2Z2MEs5NG9EZ0ZHYklCWG50eWxpQXNiVWRBa2lGQi1HN2V3eDBPQU5yN2NUN3MyLUtyZzFGSmVfNzE5Rkx3WmFZUWZPd2ZkZE1pOURpYS1TczgwWnpDNTN6Z0FUSkkzWGp0LXRJalVjYk9BanR5aFFHY05BX3FZWXBB0gHuAUFVX3lxTFBUZ2JwWmQyd2oxVGlTOU1QNU5lNTRFMVVmY1dpUGp0T3gtN2pqOVd5UTBWNkNmd0ZLekE0a0RTS3R1N0VEcUR4Y0FTQjQ5Y1BjRjN5QzdYWlhUbWx6NU1raWpQUXBtSzBaaWhZUGUwYzRlLWhzYUdkZFRxY0pSWWJLUGM5U3Q5MmlrSGlkTktLSVluTE9wUTRaMV9wR0xrMlRYVzVoOVppUEVpYzJTNF9Nd2hoZjYyc2cxMk9rY1J3TTBMUHoySFo3UFJNYjFUM1ZfTnRRRHRHX1poUElmTDlsNUVYNFR4Y1pFZVFnUUE?oc=5\" target=\"_blank\">CM to review Bangalore Development Authority projects; regularisation fee cut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoRGF3YnIxNzNSeUU1VEFQS0VTZ3hXdEh6M0VhU29FTjZ2QjRzMV9OYTloV3E3MkFqTGhwdURlMGJ0NVpId0xyV3VaZVNfcE1L?oc=5",
-        "date": "2026-11-08",
-        "title": "City Management: Selangor to place local councils on single digital framework - The Edge Malaysia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoRGF3YnIxNzNSeUU1VEFQS0VTZ3hXdEh6M0VhU29FTjZ2QjRzMV9OYTloV3E3MkFqTGhwdURlMGJ0NVpId0xyV3VaZVNfcE1L?oc=5\" target=\"_blank\">City Management: Selangor to place local councils on single digital framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Edge Malaysia</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94aXItSnVZX1F2YVpFRkZzUVFIeXVEdkNFd2paaE10Q3Z2b2NjaUdKenhMbXB1dTFUaXhFY2JwaVVLRUYxX2VsQTBUVXI1cUNZblpMbG9NYlV6WVFsRzBDckJiQmJmMUR6LUxKU3hfTXoxUFJEbHNoMl83SQ?oc=5",
-        "date": "2026-11-08",
-        "title": "Big Build royal commission set to begin - Yahoo News Australia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE94aXItSnVZX1F2YVpFRkZzUVFIeXVEdkNFd2paaE10Q3Z2b2NjaUdKenhMbXB1dTFUaXhFY2JwaVVLRUYxX2VsQTBUVXI1cUNZblpMbG9NYlV6WVFsRzBDckJiQmJmMUR6LUxKU3hfTXoxUFJEbHNoMl83SQ?oc=5\" target=\"_blank\">Big Build royal commission set to begin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Australia</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeVZpdUY3VDBJcHplS1huWURnLXpfcWt1RjE2dlIzR2h5WnN2Qy1oQlprUUdlSE1CTTBBNmR3R0NQUks3X21PU1VMekNXYU1zZUVYbk1ubkFSVkdNMVlDUjhMX1Uzc0t1VDhJZEsybDhIdDBEdUhkdWJOX2lSLWFpUVBLZG5JWWI5a3VsM1lGbGtvZjN5SGowcmdlYw?oc=5",
-        "date": "2026-11-08",
-        "title": "Russian Strikes on Odessa Region Energy Infrastructure Cause Power Outages - Oj - Odessa Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPeVZpdUY3VDBJcHplS1huWURnLXpfcWt1RjE2dlIzR2h5WnN2Qy1oQlprUUdlSE1CTTBBNmR3R0NQUks3X21PU1VMekNXYU1zZUVYbk1ubkFSVkdNMVlDUjhMX1Uzc0t1VDhJZEsybDhIdDBEdUhkdWJOX2lSLWFpUVBLZG5JWWI5a3VsM1lGbGtvZjN5SGowcmdlYw?oc=5\" target=\"_blank\">Russian Strikes on Odessa Region Energy Infrastructure Cause Power Outages - Oj</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Odessa Journal</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEpHSlRlVGVaUVBPX1EwbGVrMW94ZVhPNWNQd0ZKdVJwemlXMGZ4dGpnYTVodGZ6a0lORGZ1eDViV3lmQkxwajI5QV9pZkdPY0NqbGlrazEydDZBaTRoY3gzQmh1SE1GT3Rub3k1QmdWeDlXUzVOWGRQVGZsdTJuTHdJOVA1c3E0c2prbWlQVXI2blhRcFRiRHdvYV93dVVRa0k4?oc=5",
-        "date": "2026-11-08",
-        "title": "Alabaster faces deadline to spend nearly $475K in federal water funding - WBMA",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEpHSlRlVGVaUVBPX1EwbGVrMW94ZVhPNWNQd0ZKdVJwemlXMGZ4dGpnYTVodGZ6a0lORGZ1eDViV3lmQkxwajI5QV9pZkdPY0NqbGlrazEydDZBaTRoY3gzQmh1SE1GT3Rub3k1QmdWeDlXUzVOWGRQVGZsdTJuTHdJOVA1c3E0c2prbWlQVXI2blhRcFRiRHdvYV93dVVRa0k4?oc=5\" target=\"_blank\">Alabaster faces deadline to spend nearly $475K in federal water funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWRMeVBwYWdpVTcwSXNuUlNWVEl2YURXaE9Jd21HdERtd3BNTXotaXRGbUZfMkJERVRZWGdpRU16d09vWFpqRWc2bkE1OHdoT1hyQVFsQ295eFFuVnItVHlBem9YX0lJT0NoM2kydUp6UDR5RG9ad25TWW9UZC1URThpVTJRdUdpOVRFaU5OSQ?oc=5",
-        "date": "2026-11-08",
-        "title": "The 2026 Mayoral Manifesto for Auckland - Greater Auckland",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxObWRMeVBwYWdpVTcwSXNuUlNWVEl2YURXaE9Jd21HdERtd3BNTXotaXRGbUZfMkJERVRZWGdpRU16d09vWFpqRWc2bkE1OHdoT1hyQVFsQ295eFFuVnItVHlBem9YX0lJT0NoM2kydUp6UDR5RG9ad25TWW9UZC1URThpVTJRdUdpOVRFaU5OSQ?oc=5\" target=\"_blank\">The 2026 Mayoral Manifesto for Auckland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Greater Auckland</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUThEXzdHS25lXzdnT3dqZTF6My1IbnZ4dU9GcjIxQjNESDdOSGoteDVYWGlJeW4yY08xWndVeUY2UUxEVnI0UHYzNjlTOVlJWFBoVm5FekpIVE1TdG9qaG9HWHJyWUJDOENVSnN4cHhVZWcxOUh2SHNmcExIQnNDT1huc2loWC1FeFpMQlFFTGhiRWd4akZHLUk1RmlxV29ZWWFabXpNUmdwczZxWnhtLUwxTHlWQk9NdnVpU0FRT3o3V0h5NW1VVmJfMUJ0NDl1SUdhZlVGRXV5NTg4X1lZ?oc=5",
         "date": "2026-11-10",
         "title": "Mayor Gillingham says Winnipeg construction industry must be prepared for development opportunities - CityNews Winnipeg",
@@ -573,5 +425,13 @@
         "status": "posted",
         "tweet": "Node distribution 2026\n1. \ud83c\uddfa\ud83c\uddf8 United States 35% BTC nodes\n2. \ud83c\udde9\ud83c\uddea Germany 18% ETH nodes\n3. \ud83c\uddf8\ud83c\uddec Singapore 12% SOL nodes",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-11-18",
+        "status": "posted",
+        "tweet": "Global population reaches 8.2 billion in 2026.  \n\ud83c\uddee\ud83c\uddf3 India: 1.46 billion  \n\ud83c\udde8\ud83c\uddf3 China: 1.41 billion",
+        "type": "statistical",
+        "category": "population"
     }
 ]
