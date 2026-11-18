@@ -433,5 +433,12 @@
         "tweet": "Global population reaches 8.2 billion in 2026.  \n\ud83c\uddee\ud83c\uddf3 India: 1.46 billion  \n\ud83c\udde8\ud83c\uddf3 China: 1.41 billion",
         "type": "statistical",
         "category": "population"
+    },
+    {
+        "link": null,
+        "date": "2026-11-18",
+        "status": "posted",
+        "tweet": "\ud83c\udde9\ud83c\uddea AWS Frankfurt region processed 4.5 exabytes of data daily in 2025.\n$AMZN",
+        "type": "infrastructure"
     }
 ]
