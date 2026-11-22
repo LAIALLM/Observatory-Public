@@ -1,13 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-11-12",
-        "status": "posted",
-        "tweet": "By 2026 \ud83c\udde8\ud83c\uddf3 China adds 4,200 km of high-speed rail.\n\ud83c\uddfa\ud83c\uddf8 US adds 180 km.",
-        "type": "statistical",
-        "category": "engineering projects"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWnEzZ0RaOG96S2ppWW1zOHRkcHNSazZPQm5EZm8wYWxKcTNkWW5vU0xNQ3ZDRUIzMmctem9maW5tUFRXYUktNEVDSkd4TXZXdVpOa2JZMmZlM2IyZnI5X0FvOFhQLXhBMlV4WVVOdGM4UVZ3WVBlYVNmeEZwQkRod2VWTEtnVjRJZUxsUThHZHlGTjYxWWdwU1RmSnQ0RzNiYlhhSUltcl9zNy1v?oc=5",
         "date": "2026-11-13",
         "title": "Builder fined $150k after mother and baby injured in wall fall - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
@@ -339,5 +331,12 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 U.S. high-speed broadband access will reach 95% of households by 2026.",
         "type": "statistical",
         "category": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-11-22",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Microsoft Azure data centers sustained 1.9 exabytes of daily storage throughput in 2025.",
+        "type": "infrastructure"
     }
 ]
