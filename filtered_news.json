@@ -331,5 +331,13 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-11-21",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 U.S. high-speed broadband access will reach 95% of households by 2026.",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
