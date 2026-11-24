@@ -293,5 +293,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\uddea Ireland Microsoft data centers processed 3.1 exabytes daily in 2025.\n$MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-11-23",
+        "status": "posted",
+        "tweet": "High-speed rail km 2026 projection\n1. \ud83c\udde8\ud83c\uddf3 China 55000\n2. \ud83c\uddea\ud83c\uddf8 Spain 4000\n3. \ud83c\uddef\ud83c\uddf5 Japan 3200\n4. \ud83c\uddeb\ud83c\uddf7 France 2800\n5. \ud83c\udde9\ud83c\uddea Germany 2000",
+        "type": "statistical",
+        "category": "infrastructure"
     }
 ]
