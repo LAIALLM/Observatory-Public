@@ -1,14 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-11-15",
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 China reaches 980 million urban residents in 2026. \n\ud83c\uddee\ud83c\uddf3 India reaches 550 million, a 430 million gap.",
-        "type": "statistical",
-        "category": "urban development"
-    },
-    {
-        "link": null,
         "date": "2026-11-16",
         "status": "posted",
         "tweet": "2026 projections\n\ud83c\udde8\ud83c\uddf3 China renewables: 4,500 TWh\nCoal: 4,000 TWh",
@@ -291,5 +283,46 @@
         "status": "posted",
         "tweet": "Microsoft Azure processes 2.4 exabytes of data daily. $MSFT",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeHpabHgzS3NkZkZVOEI1NEpYODExOTdOaTAxRVhwUHM4QUt5TFlEemctWUE1UmFxeERfWndFdzNTcEpkcFJlTXE4dFZHVTU3dXU2bHQ3Vlc2NUV3eDNoeGVkZFFZLVYtMU5iUngwQlh3Zi1qeEptQzQxeDNrSnpkZkgzeFlaZ2tGQjljWURqMXFTT2pmU2N0LVlPcnhreDV3NS1tM0FMOTJia1gyc3JpZ0c4WWp2LU9RcHZfR0ZwZ2dRd1hqSU1iWHlQejNiUnE0NGFv?oc=5",
+        "date": "2026-11-25",
+        "title": "BlackRock-led consortium mulls lowering Stack Infrastructure Asia offer- Bloomberg - Investing.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeHpabHgzS3NkZkZVOEI1NEpYODExOTdOaTAxRVhwUHM4QUt5TFlEemctWUE1UmFxeERfWndFdzNTcEpkcFJlTXE4dFZHVTU3dXU2bHQ3Vlc2NUV3eDNoeGVkZFFZLVYtMU5iUngwQlh3Zi1qeEptQzQxeDNrSnpkZkgzeFlaZ2tGQjljWURqMXFTT2pmU2N0LVlPcnhreDV3NS1tM0FMOTJia1gyc3JpZ0c4WWp2LU9RcHZfR0ZwZ2dRd1hqSU1iWHlQejNiUnE0NGFv?oc=5\" target=\"_blank\">BlackRock-led consortium mulls lowering Stack Infrastructure Asia offer- Bloomberg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb3hHcXpBZEFpWnZ6a1FFVURGazlReXNJbjBXaUNFaHdzTlFwZUgzOGZtYlE2MEZjaTR0b3F4bklRaTh5LVUtSEtaNExWdS1XakdTekt4QjU0VWtoUmF6eGRBYVY1ellwbFVSX0g5cG1aS1FUYV9nbTk0UGxpQVF0UUQ1RHpzQzVFQmxXZ2NGZ2dZVnJsb1ZxNEd1TGF2TWlIVm5mRDVHUFo?oc=5",
+        "date": "2026-11-25",
+        "title": "How the Agentic AI boom is redefining enterprise infrastructure strategy - SecurityBrief Asia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb3hHcXpBZEFpWnZ6a1FFVURGazlReXNJbjBXaUNFaHdzTlFwZUgzOGZtYlE2MEZjaTR0b3F4bklRaTh5LVUtSEtaNExWdS1XakdTekt4QjU0VWtoUmF6eGRBYVY1ellwbFVSX0g5cG1aS1FUYV9nbTk0UGxpQVF0UUQ1RHpzQzVFQmxXZ2NGZ2dZVnJsb1ZxNEd1TGF2TWlIVm5mRDVHUFo?oc=5\" target=\"_blank\">How the Agentic AI boom is redefining enterprise infrastructure strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SecurityBrief Asia</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOFA4XzBFNFJVTENYUkdINEtUcFNDVWhsUWpSa0dETVhTZGFFOXMtTm1PYmlXZUZJbHpGYWJoMk5vTmJFN3lpaW1JNzR0VTdDVW9Lb1hTVkJxd0ozU0YzRFZiV3NQOVVxZGhNeWVyRXFOQm8tQzJIWmY1enZ0bkhQcWVLRlNMcGZQUklNNzJrNUhOcmdEMkVudEVaSWF2UQ?oc=5",
+        "date": "2026-11-25",
+        "title": "Gov Nwifuru acquires 933 hectares of land for FON smart city - the authority news",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOOFA4XzBFNFJVTENYUkdINEtUcFNDVWhsUWpSa0dETVhTZGFFOXMtTm1PYmlXZUZJbHpGYWJoMk5vTmJFN3lpaW1JNzR0VTdDVW9Lb1hTVkJxd0ozU0YzRFZiV3NQOVVxZGhNeWVyRXFOQm8tQzJIWmY1enZ0bkhQcWVLRlNMcGZQUklNNzJrNUhOcmdEMkVudEVaSWF2UQ?oc=5\" target=\"_blank\">Gov Nwifuru acquires 933 hectares of land for FON smart city</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">the authority news</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": "NEWS: Gov Nwifuru acquires 933 hectares of land for FON smart city"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOFA4XzBFNFJVTENYUkdINEtUcFNDVWhsUWpSa0dETVhTZGFFOXMtTm1PYmlXZUZJbHpGYWJoMk5vTmJFN3lpaW1JNzR0VTdDVW9Lb1hTVkJxd0ozU0YzRFZiV3NQOVVxZGhNeWVyRXFOQm8tQzJIWmY1enZ0bkhQcWVLRlNMcGZQUklNNzJrNUhOcmdEMkVudEVaSWF2UQ?oc=5",
+        "date": "2026-11-25",
+        "title": "Gov Nwifuru acquires 933 hectares of land for FON smart city - the authority news",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOOFA4XzBFNFJVTENYUkdINEtUcFNDVWhsUWpSa0dETVhTZGFFOXMtTm1PYmlXZUZJbHpGYWJoMk5vTmJFN3lpaW1JNzR0VTdDVW9Lb1hTVkJxd0ozU0YzRFZiV3NQOVVxZGhNeWVyRXFOQm8tQzJIWmY1enZ0bkhQcWVLRlNMcGZQUklNNzJrNUhOcmdEMkVudEVaSWF2UQ?oc=5\" target=\"_blank\">Gov Nwifuru acquires 933 hectares of land for FON smart city</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">the authority news</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "NEWS: Gov Nwifuru acquires 933 hectares of land for FON smart city.",
+        "type": "news"
     }
 ]
