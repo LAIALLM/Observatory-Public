@@ -309,5 +309,12 @@
         "status": "posted",
         "tweet": "NEWS: Gov Nwifuru acquires 933 hectares of land for FON smart city.",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2026-11-26",
+        "status": "posted",
+        "tweet": "Running Bitcoin requires data centers drawing 140 TWh yearly, matching the power usage of \ud83c\uddf3\ud83c\uddf1 Netherlands.",
+        "type": "crypto"
     }
 ]
