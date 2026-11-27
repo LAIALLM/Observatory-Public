@@ -323,5 +323,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 Amazon Web Services data centers transferred 420 petabytes daily in 2025\n$AMZN",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2026-11-27",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China urban development firms complete 125 million square meters of sustainable infrastructure in 2026, up 18% from 2025 levels.",
+        "type": "statistical",
+        "category": "urban development firms"
     }
 ]
