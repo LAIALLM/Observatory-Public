@@ -316,5 +316,12 @@
         "status": "posted",
         "tweet": "Running Bitcoin requires data centers drawing 140 TWh yearly, matching the power usage of \ud83c\uddf3\ud83c\uddf1 Netherlands.",
         "type": "crypto"
+    },
+    {
+        "link": null,
+        "date": "2026-11-26",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Amazon Web Services data centers transferred 420 petabytes daily in 2025\n$AMZN",
+        "type": "infrastructure"
     }
 ]
